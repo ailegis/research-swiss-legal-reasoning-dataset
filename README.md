@@ -5,6 +5,7 @@ Research collaboration with Joel and the Federal Supreme Court
 # About the Dataset
 
 ![Visual Report](results/multichart.png)
+![Visual Report](results/multichart2.png)
 
 # Setup
 On Windows
