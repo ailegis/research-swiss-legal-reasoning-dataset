@@ -1,6 +1,11 @@
 # Swiss Legal Reasoning Dataset
 Research collaboration with Joel and the Federal Supreme Court
 
+
+# About the Dataset
+
+![Visual Report](results/multichart.png)
+
 # Setup
 On Windows
 ```
@@ -15,7 +20,7 @@ source myenv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-# Load DataSet
-
-
-# Run Stats
+# Run
+```
+python src/main.py
+```
