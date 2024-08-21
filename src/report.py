@@ -155,32 +155,24 @@ def generate_visual_report(df: pd.DataFrame, save_path='results'):
     plot_double_pie(ax6, df, outer_col="Course", inner_col='Use_Art', title='Answers with citations of articles', course_colors=course_colors)
 
     # Adjust layout and save the figures
-    # plt.tight_layout(rect=[0, 0, 0.85, 0.95])
     fig.savefig(save_path+"/multichart.pdf", format='pdf')
     fig.savefig(save_path+"/multichart.png", format='png')
 
 
-# Function to plot distribution curve
-def plot_distribution_curve(ax, question_lengths, fact_lengths, title):
+# Function to plot distribution curves
+def plot_distribution_curve(ax, lengths_list, labels, title):
+    # Ensure that lengths_list and labels are the same length
+    assert len(lengths_list) == len(labels), "lengths_list and labels must be the same length."
+    
     # Filter out lengths smaller than 1 to avoid log(0) errors
-    question_lengths = question_lengths[question_lengths >= 1]
-    fact_lengths = fact_lengths[fact_lengths >= 1]
-
-    # Check if the data is empty after normalization
-    if question_lengths.empty or fact_lengths.empty:
-        ax.text(0.5, 0.5, 'No data available', ha='center', va='center', transform=ax.transAxes)
-        ax.set_title(title)
-        ax.set_xlabel('Log(Length)')
-        ax.set_ylabel('Normalized Density')
-        ax.grid(True, which="both", ls="--")
-        return
+    filtered_lengths = [lengths[lengths >= 1] for lengths in lengths_list]
 
     # Get pastel colors from the palette
-    pastel_colors = sns.color_palette("pastel")
+    pastel_colors = sns.color_palette("pastel", len(labels))
 
     # Plot the KDE plots for the normalized lengths with pastel colors
-    sns.kdeplot(np.log10(question_lengths), ax=ax, label='Question Length', bw_adjust=0.5, fill=True, alpha=0.5, color=pastel_colors[0])
-    sns.kdeplot(np.log10(fact_lengths), ax=ax, label='Fact Length', bw_adjust=0.5, fill=True, alpha=0.5, color=pastel_colors[1])
+    for lengths, label, color in zip(filtered_lengths, labels, pastel_colors):
+        sns.kdeplot(np.log10(lengths), ax=ax, label=label, bw_adjust=0.5, fill=True, alpha=0.5, color=color)
     
     # Adjust x-axis ticks for the log scale manually
     ax.set_title(title)
@@ -199,19 +191,25 @@ def plot_distribution_curve(ax, question_lengths, fact_lengths, title):
 
 # Function to generate the visual report
 def generate_visual_report2(df: pd.DataFrame, save_path='results'):
+
+    columns_to_plot = ['Question', 'Facts', 'Answer']
+    labels = ['Question Length', 'Fact Length', 'Answer Length']
+    title = 'Distribution of Question, Fact, and Answer Lengths'
+
+
     df = preprocess_data(df)
 
-    # Initialize the figure and grid with two rows and three columns
+    # Initialize the figure and grid with two rows and two columns
     fig = plt.figure(figsize=(18, 12))
     fig.suptitle('Distribution of Questions Across Different Categories')
     gs = GridSpec(2, 2, figure=fig)
 
     ax1 = fig.add_subplot(gs[0,0])
-    df['Question Length'] = df['Question'].apply(lambda x: len(str(x)))
-    df['Fact Length'] = df['Facts'].apply(lambda x: len(str(x)))
-    plot_distribution_curve(ax1, df['Question Length'], df['Fact Length'], 'Distribution of Question and Fact Lengths')
+    
+    lengths_list = [df[col].apply(lambda x: len(str(x))) for col in columns_to_plot]
+    
+    plot_distribution_curve(ax1, lengths_list, labels, title)
 
     # Adjust layout and save the figures
-    plt.tight_layout(rect=[0, 0, 0.85, 0.95])
-    fig.savefig(save_path+"/multichart2.pdf", format='pdf')
-    fig.savefig(save_path+"/multichart2.png", format='png')
+    fig.savefig(save_path + "/multichart2.pdf", format='pdf')
+    fig.savefig(save_path + "/multichart2.png", format='png')
