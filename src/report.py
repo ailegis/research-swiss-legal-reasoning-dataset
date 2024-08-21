@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.gridspec import GridSpec
 import seaborn as sns
+import numpy as np
 
 
 def generate_dataframe_report(df: pd.DataFrame):
@@ -34,16 +35,16 @@ def generate_dataframe_report(df: pd.DataFrame):
     print(df.head(), "\n")
 
 
-def generate_visual_report(df: pd.DataFrame , save_path='results'):
+def generate_visual_report(df: pd.DataFrame, save_path='results'):
     # Ensure 'Date' column is datetime, then extract 'Year'
     if 'Date' in df.columns:
         df['Year'] = pd.to_datetime(df['Date'], errors='coerce', dayfirst=True).dt.year
         df = df.dropna(subset=['Year']).astype({'Year': int})
 
-    # Initialize the figure and grid
+    # Initialize the figure and grid with three rows
     fig = plt.figure(figsize=(18, 12))
     fig.suptitle('Distribution of Questions Across Different Categories')
-    gs = GridSpec(2, 3, figure=fig, width_ratios=[3, 3, 1])
+    gs = GridSpec(2, 3, figure=fig)
 
     colors = sns.color_palette("pastel")
 
@@ -63,6 +64,41 @@ def generate_visual_report(df: pd.DataFrame , save_path='results'):
         ax.set_title(title)
         ax.axis('equal')
 
+    def plot_distribution_curve(ax, question_lengths, fact_lengths, title):
+        # Filter out lengths smaller than 1 to avoid log(0) errors
+        question_lengths = question_lengths[question_lengths >= 1]
+        fact_lengths = fact_lengths[fact_lengths >= 1]
+
+        # Check if the data is empty after normalization
+        if question_lengths.empty or fact_lengths.empty:
+            ax.text(0.5, 0.5, 'No data available', ha='center', va='center', transform=ax.transAxes)
+            ax.set_title(title)
+            ax.set_xlabel('Log(Length)')
+            ax.set_ylabel('Normalized Density')
+            ax.grid(True, which="both", ls="--")
+            return
+
+        # Get pastel colors from the palette
+        pastel_colors = sns.color_palette("pastel")
+
+        # Plot the KDE plots for the normalized lengths with pastel colors
+        sns.kdeplot(np.log10(question_lengths), ax=ax, label='Question Length', bw_adjust=0.5, fill=True, alpha=0.5, color=pastel_colors[0])
+        sns.kdeplot(np.log10(fact_lengths), ax=ax, label='Fact Length', bw_adjust=0.5, fill=True, alpha=0.5, color=pastel_colors[1])
+        
+        # Adjust x-axis ticks for the log scale manually
+        ax.set_title(title)
+        ax.set_xlabel('Number of characters')
+        ax.set_ylabel('Density')
+        ax.legend()
+        
+        # Custom ticks corresponding to lengths 1, 10, 100, 1000 on a log10 scale
+        custom_ticks = [1, 2, 3, 5]
+        ax.set_xticks(custom_ticks)
+        ax.set_xticklabels([f'${pow(10, i)}$' for i in custom_ticks])
+        
+        ax.set_xlim(left=np.log10(1))  # Adjusted for log scale with normalization
+        ax.grid(True, which="both", ls="--")
+
     # Plotting
     plot_pie(fig.add_subplot(gs[0, 0]), df['Course'].value_counts(), 'Questions by Course')
     if 'Year' in df.columns:
@@ -75,15 +111,11 @@ def generate_visual_report(df: pd.DataFrame , save_path='results'):
                                        index=['With Facts', 'Without Facts'])
         plot_pie(fig.add_subplot(gs[0, 2]), facts_distribution, 'Questions with and without Facts')
 
-    # Add a combined legend with smaller size and split into two lines
-    ax_legend = fig.add_subplot(gs[1, 2])
-    ax_legend.axis('off')
-    ax_legend.legend(
-        labels=['Questions by Course', 'Questions by Year', 'Unique Questions by Course',
-                'Questions by Language', 'Questions with and without Facts'],
-        title="Legend", loc="center", bbox_to_anchor=(0.5, 0.5),
-        fontsize='small', title_fontsize='medium', ncol=1
-    )
+    # New plot for combined question length and fact length distribution curve
+    df['Question Length'] = df['Question'].apply(lambda x: len(str(x)))
+    if 'Facts' in df.columns:
+        df['Fact Length'] = df['Facts'].apply(lambda x: len(str(x)))
+        plot_distribution_curve(fig.add_subplot(gs[1, 2:]), df['Question Length'], df['Fact Length'], 'Distribution of Question and Fact Lengths')
 
     plt.tight_layout(rect=[0, 0, 0.85, 0.95])
     fig.savefig(save_path+"/multichart.pdf", format='pdf')

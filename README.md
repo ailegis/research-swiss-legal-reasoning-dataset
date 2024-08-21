@@ -13,7 +13,7 @@ python3.12 -m venv myenv
 myenv\Scripts\activate 
 python -m pip install -r requirements.txt
 ```
-On macOs/Linux
+On MacOs/Linux
 ```
 python3.12 -m venv myenv
 source myenv/bin/activate
