@@ -40,25 +40,125 @@ def preprocess_data(df):
     if 'Date' in df.columns:
         df['Year'] = pd.to_datetime(df['Date'], errors='coerce', dayfirst=True).dt.year
         df = df.dropna(subset=['Year']).astype({'Year': int})
+    df['Facts_Category'] = df['Facts'].apply(lambda x: 'With Facts' if len(str(x)) > 2 else 'No Facts')
+    df['Use_Art'] = df['Answer'].apply(lambda x: 'Art.' if ("Art." in x) else 'No Art.')
     return df
 
-# Function to plot pie chart
-def plot_pie(ax, data, title, limit=10):
-    colors = sns.color_palette("pastel")
-    if len(data) > limit:
-        data = data.nlargest(limit)
-        data['Other'] = data.sum() - data[data.index != 'Other'].sum()
-    wedges, texts, autotexts = ax.pie(data, labels=data.index, autopct='%1.1f%%', startangle=90, colors=colors)
+
+def plot_pie(ax, data, title, colors, show_labels=True):
+    # Save the original labels for legend creation
+    labels = data.index
+
+    # Determine whether to display labels on the pie chart
+    pie_labels = labels if show_labels else None
+
+    # Plot the pie chart with or without labels based on the parameter
+    wedges, texts, autotexts = ax.pie(data, labels=pie_labels, autopct='%1.1f%%', startangle=90, colors=colors)
+
+    # Remove labels and adjust text rotation for small slices
     for wedge, text, autotext in zip(wedges, texts, autotexts):
         percent_value = float(autotext.get_text().strip('%'))
-        if percent_value == 0.0:
+        if percent_value < 1.5:
             autotext.set_text('')
-            text.set_text('')
         elif percent_value < 10:
             rotation_angle = wedge.theta2 - (wedge.theta2 - wedge.theta1) / 2
             autotext.set_rotation(rotation_angle - 360 if rotation_angle > 180 else rotation_angle)
+
     ax.set_title(title)
     ax.axis('equal')
+
+    # Return the wedges and original labels for the legend
+    return wedges, labels
+
+
+def plot_double_pie(ax, data, inner_col, outer_col, title, course_colors):
+    # White color for the inner pie with black borders
+    inner_colors = ['white'] * len(data[inner_col].unique())
+    inner_wedgeprops = {'edgecolor': 'black', 'linewidth': 1.5}
+
+    # Create the inner ring based on the selected inner column
+    inner_data = data.groupby(inner_col).size()
+    inner_labels = inner_data.index
+    
+    wedges1, text1, autotexts1 = ax.pie(
+        inner_data, labels=None, autopct='%1.1f%%', radius=0.7, 
+        colors=inner_colors, startangle=90, wedgeprops=inner_wedgeprops
+    )
+    
+    # Adjust autotexts1 to display within the pie
+    for i, autotext in enumerate(autotexts1):
+        autotext.set_text(inner_labels[i])
+        autotext.set_color('black')
+        autotext.set_fontsize(12)
+        autotext.set_fontweight('bold')
+    
+    # Sort outer_data by inner_col and then by outer_col to ensure consistent order
+    outer_data = data.groupby([inner_col, outer_col]).size().sort_index(level=[inner_col, outer_col])
+    outer_labels = [f'{outer}\n({inner})' for inner, outer in outer_data.index]
+    outer_colors = [course_colors[course] for _, course in outer_data.index]
+
+    wedges2, autotexts2 = ax.pie(
+        outer_data, labels=None, autopct=None, radius=1.0, 
+        colors=outer_colors, startangle=90, wedgeprops=dict(width=0.3)
+    )
+    
+    # Title and formatting
+    ax.set_title(title)
+    ax.axis('equal')
+    
+    return wedges1, inner_labels, wedges2, outer_labels
+
+
+def generate_visual_report(df: pd.DataFrame, save_path='results'):
+    df = preprocess_data(df)
+
+    # Determine the top 10 courses with the most questions
+    top_courses = df['Course'].value_counts().nlargest(10).index
+    unique_courses = df['Course'].unique()
+    top_course_colors = sns.color_palette("pastel", n_colors=len(top_courses))
+    course_colors = {course: color for course, color in zip(top_courses, top_course_colors)}
+    light_gray = sns.light_palette("gray", n_colors=len(unique_courses))[0]
+    for course in unique_courses:
+        if course not in course_colors:
+            course_colors[course] = light_gray
+
+    # Initialize the figure and grid with two rows and three columns
+    fig = plt.figure(figsize=(18, 12))
+    fig.suptitle('Distribution of Questions Across Different Categories')
+    gs = GridSpec(2, 3, figure=fig)
+
+    # Define subplots and pass the ax to each plot function
+    ax1 = fig.add_subplot(gs[0, 0])
+    wedges_ax1, labels_ax1 = plot_pie(ax1, df['Course'].value_counts(), 'Questions by Course', 
+                                      colors=[course_colors[course] for course in df['Course'].value_counts().index], 
+                                      show_labels=False)
+
+    ax2 = fig.add_subplot(gs[0, 1])
+    plot_double_pie(ax2, df, outer_col="Course", inner_col='Year', title='Questions by Year and Course', course_colors=course_colors)
+
+    ax3 = fig.add_subplot(gs[0, 2])
+    plot_double_pie(ax3, df, outer_col="Course", inner_col='Language', title='Questions by Language', course_colors=course_colors)
+
+    ax4 = fig.add_subplot(gs[1, 0])
+    ax4.axis('off')
+    legend_labels = [course for course in top_courses]
+    legend_colors = [course_colors[course] for course in top_courses]
+    ax4.legend(handles=[plt.Line2D([0], [0], marker='o', color=color, linestyle='', markersize=10) 
+                        for color in legend_colors],
+               labels=legend_labels, title="Top Courses", loc='center')
+    
+    ax5 = fig.add_subplot(gs[1, 1])
+    plot_double_pie(ax5, df, outer_col="Course", inner_col='Facts_Category', title='Questions with and without Facts', course_colors=course_colors)
+
+
+    ax6 = fig.add_subplot(gs[1, 2])
+    plot_double_pie(ax6, df, outer_col="Course", inner_col='Use_Art', title='Answers with citations of articles', course_colors=course_colors)
+
+    # Adjust layout and save the figures
+    # plt.tight_layout(rect=[0, 0, 0.85, 0.95])
+    fig.savefig(save_path+"/multichart.pdf", format='pdf')
+    fig.savefig(save_path+"/multichart.png", format='png')
+
 
 # Function to plot distribution curve
 def plot_distribution_curve(ax, question_lengths, fact_lengths, title):
@@ -95,39 +195,6 @@ def plot_distribution_curve(ax, question_lengths, fact_lengths, title):
     
     ax.set_xlim(left=np.log10(1))  # Adjusted for log scale with normalization
     ax.grid(True, which="both", ls="--")
-
-# Function to generate the visual report
-def generate_visual_report(df: pd.DataFrame, save_path='results'):
-    df = preprocess_data(df)
-
-    # Initialize the figure and grid with two rows and three columns
-    fig = plt.figure(figsize=(18, 12))
-    fig.suptitle('Distribution of Questions Across Different Categories')
-    gs = GridSpec(2, 3, figure=fig)
-
-    # Define subplots and pass the ax to each plot function
-    ax1 = fig.add_subplot(gs[0, 0])
-    plot_pie(ax1, df['Course'].value_counts(), 'Questions by Course')
-
-    ax2 = fig.add_subplot(gs[0, 1])
-    plot_pie(ax2, df['Year'].value_counts(), 'Questions by Year')
-
-    ax3 = fig.add_subplot(gs[0, 2])
-    plot_pie(ax3, df['Language'].value_counts(), 'Questions by Language')
-
-    # ax4 = fig.add_subplot(gs[1, 0])
-    
-    # ax5 = fig.add_subplot(gs[1, 1])
-    
-    ax6 = fig.add_subplot(gs[1, 2])
-    facts_distribution = pd.Series([df['Facts'].apply(lambda x: len(str(x)) > 2).sum(), len(df) - df['Facts'].apply(lambda x: len(str(x)) > 2).sum()], 
-                                   index=['With Facts', 'Without Facts'])
-    plot_pie(ax6, facts_distribution, 'Questions with and without Facts')
-
-    # Adjust layout and save the figures
-    plt.tight_layout(rect=[0, 0, 0.85, 0.95])
-    fig.savefig(save_path+"/multichart.pdf", format='pdf')
-    fig.savefig(save_path+"/multichart.png", format='png')
 
 
 # Function to generate the visual report
