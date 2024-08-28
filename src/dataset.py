@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import requests
 
-
 def load_csv(file_name, google_docs_link):
     # Ensure the directory exists
     folder = os.path.dirname(file_name)
@@ -20,3 +19,18 @@ def load_csv(file_name, google_docs_link):
         print(f"Loading from local file: {file_name}")
     
     return pd.read_csv(file_name)
+
+
+def addextractedCitations(file_name):
+    # Load the CSV file into a DataFrame
+    df = pd.read_csv(file_name)
+    
+    # Add columns for citations
+    df['QuestionCitations'] = [[] for _ in range(len(df))]
+    df['AnswerCitation'] = [[] for _ in range(len(df))]
+    df['FactCitation'] = [[] for _ in range(len(df))]
+    
+    # Save the updated DataFrame back to CSV
+    df.to_csv(file_name, index=False)
+    print(f"Updated file with citation columns: {file_name}")
+    return df

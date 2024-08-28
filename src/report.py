@@ -4,6 +4,8 @@ from matplotlib.gridspec import GridSpec
 import seaborn as sns
 import numpy as np
 
+from feature_extraction import parseToListFunc
+
 
 def generate_dataframe_report(df: pd.DataFrame):
     # Number of rows and columns
@@ -22,13 +24,30 @@ def generate_dataframe_report(df: pd.DataFrame):
     print("Number of missing values per column:")
     print(df.isnull().sum(), "\n")
 
-    # Generate the report table
+    # Generate the report table with special handling for unhashable types
+    def safe_nunique(col):
+        try:
+            return col.nunique()
+        except TypeError:
+            return "Unhashable data type"
+
+    def unique_values_example(col):
+        try:
+            if col.nunique() < 10:
+                return ", ".join(map(str, col.unique()))
+            else:
+                return "Too many"
+        except TypeError:
+            return "Unhashable data type"
     report_df = pd.DataFrame({
         "Column": df.columns,
-        "Unique Values Count": df.nunique(),
-        "Examples of Unique Values": df.apply(lambda col: ", ".join(map(str, col.unique())) if col.nunique() < 10 else "Too many")
+        "Unique Values Count": df.apply(safe_nunique),
+        "Examples of Unique Values": df.apply(unique_values_example)
     })
     print("Summary of Unique Values per Column:\n", report_df.to_string(index=False), "\n")
+
+    print("Course List")
+    print(df["Course"].unique(), "\n")
 
     # Examples: Display the first few rows of the dataframe
     print("First few rows of the data:")
@@ -41,7 +60,10 @@ def preprocess_data(df):
         df['Year'] = pd.to_datetime(df['Date'], errors='coerce', dayfirst=True).dt.year
         df = df.dropna(subset=['Year']).astype({'Year': int})
     df['Facts_Category'] = df['Facts'].apply(lambda x: 'With Facts' if len(str(x)) > 2 else 'No Facts')
-    df['Use_Art'] = df['Answer'].apply(lambda x: 'Art.' if ("Art." in x) else 'No Art.')
+    df['Use_Cit_Question'] = df['QuestionCitations'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
+    df['Use_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
+    df['Use_Cit_Facts'] = df['FactCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
+    df['Number_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: len(parseToListFunc(x)))
     return df
 
 
@@ -123,9 +145,9 @@ def generate_visual_report(df: pd.DataFrame, save_path='results'):
             course_colors[course] = light_gray
 
     # Initialize the figure and grid with two rows and three columns
-    fig = plt.figure(figsize=(18, 12))
+    fig = plt.figure(figsize=(18, 24))
     fig.suptitle('Distribution of Questions Across Different Categories')
-    gs = GridSpec(2, 3, figure=fig)
+    gs = GridSpec(4, 3, figure=fig)
 
     # Define subplots and pass the ax to each plot function
     ax1 = fig.add_subplot(gs[0, 0])
@@ -150,9 +172,28 @@ def generate_visual_report(df: pd.DataFrame, save_path='results'):
     ax5 = fig.add_subplot(gs[1, 1])
     plot_double_pie(ax5, df, outer_col="Course", inner_col='Facts_Category', title='Questions with and without Facts', course_colors=course_colors)
 
-
     ax6 = fig.add_subplot(gs[1, 2])
-    plot_double_pie(ax6, df, outer_col="Course", inner_col='Use_Art', title='Answers with citations of articles', course_colors=course_colors)
+    plot_double_pie(ax6, df, outer_col="Course", inner_col='QuestionType', title='Types of question format', course_colors=course_colors)
+
+    ax7 = fig.add_subplot(gs[2, 0])
+    plot_double_pie(ax7, df, outer_col="Course", inner_col='Use_Cit_Question', title='Questions with citations', course_colors=course_colors)
+
+    ax8 = fig.add_subplot(gs[2, 1])
+    plot_double_pie(ax8, df, outer_col="Course", inner_col='Use_Cit_Answer', title='Answers with citations', course_colors=course_colors)
+
+    ax9 = fig.add_subplot(gs[2, 2])
+    plot_double_pie(ax9, df, outer_col="Course", inner_col='Use_Cit_Facts', title='Facts with citations', course_colors=course_colors)
+
+    ax10 = fig.add_subplot(gs[3, 0])
+    plot_double_pie(ax10, df, outer_col="Course", inner_col='SplitCorrectness', title='Split F Q A Correctness', course_colors=course_colors)
+
+    ax11 = fig.add_subplot(gs[3, 1])
+    plot_double_pie(ax11, df, outer_col="Course", inner_col='CounterfactualAnswer', title='Counter-factual Answer', course_colors=course_colors)
+
+    ax12 = fig.add_subplot(gs[3, 2])
+    plot_double_pie(ax12, df[df["Number_Cit_Answer"] > 0], outer_col="Course", inner_col='Number_Cit_Answer', title='Number of unique citations in answer', course_colors=course_colors)
+
+
 
     # Adjust layout and save the figures
     fig.savefig(save_path+"/multichart.pdf", format='pdf')
