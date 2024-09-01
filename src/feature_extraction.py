@@ -6,7 +6,9 @@ import time
 import ast
 from openai import OpenAI
 
-client = OpenAI()
+client = OpenAI(
+    
+)
 
 
 def identityFunc(v: str):
@@ -15,6 +17,8 @@ def identityFunc(v: str):
 
 def parseToListFunc(v: str):
     value_list = []
+    if isinstance(v, list):
+        return v
     try:
         value = v.replace("```", "").replace("json", "")
         parsed_value = ast.literal_eval(value)
@@ -185,7 +189,7 @@ def createBatchforCounterfactualAnswer(file_name):
                 }
     
 
-    df = makeBatchRequest(df, newColumn, getCounterfactualAnswer, identityFunc, 64, 5)       
+    df = makeBatchRequest(df, newColumn, getCounterfactualAnswer, identityFunc, 64, 3)       
     df.to_csv(file_name, index=False)
     print(f"Updated file with CounterfactualAnswer column: {file_name}")
     return df

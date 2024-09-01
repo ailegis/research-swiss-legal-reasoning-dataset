@@ -10,7 +10,8 @@ def load_csv(file_name, google_docs_link):
         print(f"Created directory: {folder}")
     if not os.path.exists(file_name):
         file_id = google_docs_link.split('/d/')[1].split('/')[0]
-        export_link = f"https://docs.google.com/spreadsheets/d/{file_id}/export?format=csv"
+        gid = google_docs_link.split('gid=')[1]
+        export_link = f"https://docs.google.com/spreadsheets/d/{file_id}/export?format=csv&gid={gid}"
         response = requests.get(export_link)
         with open(file_name, 'wb') as file:
             file.write(response.content)

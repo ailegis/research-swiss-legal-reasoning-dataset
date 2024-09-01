@@ -54,6 +54,10 @@ def generate_dataframe_report(df: pd.DataFrame):
     print(df.head(), "\n")
 
 
+def removeDot(v):
+    if isinstance(v , str):
+        return v.replace(".", "")
+    return v
 
 def preprocess_data(df):
     if 'Date' in df.columns:
@@ -64,6 +68,8 @@ def preprocess_data(df):
     df['Use_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
     df['Use_Cit_Facts'] = df['FactCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
     df['Number_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: len(parseToListFunc(x)))
+    df['CounterfactualAnswer'] = df['CounterfactualAnswer'].apply(lambda x: removeDot(x))
+    df['SplitCorrectness'] = df['SplitCorrectness'].apply(lambda x: removeDot(x))
     return df
 
 
