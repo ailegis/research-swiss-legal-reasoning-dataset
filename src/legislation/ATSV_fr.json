@@ -1,0 +1,905 @@
+[
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 1, Garantie de l’utilisation conforme au but",
+        "citation": "Art. 1 al. 1 OPGA",
+        "content": "Lorsque, pour assurer une utilisation conforme à leur but, au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, les prestations en espèces ne sont pas versées à l’ayant droit et que ce dernier est sous une curatelle de portée générale au sens de l’art. 398 du code civil (CC), les prestations en espèces sont versées au curateur ou à une personne ou une autorité désignée par celui-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_1"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 1, Garantie de l’utilisation conforme au but",
+        "citation": "Art. 1 al. 1bis OPGA",
+        "content": "Lorsque l’ayant droit est sous curatelle au sens des art. 393 à 397 CC, les prestations en espèces ne peuvent être versées au curateur ou à une personne ou une autorité désignée par celui-ci que si le pouvoir de gestion de ces prestations par le curateur repose sur un titre juridique valable ou si le versement des prestations en ses mains est ordonné par l’autorité de protection de l’adulte compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_1"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 1, Garantie de l’utilisation conforme au but",
+        "citation": "Art. 1 al. 2 OPGA",
+        "content": "Le tiers ou l’autorité qui assume une obligation d’entretien envers l’ayant droit ou qui l’assiste en permanence et à qui sont versées des prestations en espèces pour qu’elles soient utilisées conformément à leur but au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, est tenu:\na. d’affecter ces prestations en espèces exclusivement à l’entretien de l’ayant droit ou des personnes à sa charge;\nb. de faire rapport à l’assureur, à sa demande, sur l’emploi de ces prestations en espèces.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_1"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Personnes soumises à l’obligation de restituer",
+        "citation": "Art. 2 al. 1 OPGA",
+        "content": "Sont soumis à l’obligation de restituer:\na. le bénéficiaire des prestations allouées indûment ou ses héritiers;\nb. les tiers ou les autorités à qui ont été versées des prestations en espèces pour qu’elles soient utilisées conformément à leur but, au sens de l’art. 20 LPGA ou des dispositions des lois spéciales, à l’exception du curateur;\nc. les tiers ou les autorités à qui ont été versées après coup des prestations indues, à l’exception du curateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_2"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Personnes soumises à l’obligation de restituer",
+        "citation": "Art. 2 al. 2 OPGA",
+        "content": "Les prestations allouées indûment pour un enfant mineur qui n’ont pas été versées à cet enfant et qui ne sont pas restituables en vertu de l’al. 1, let. b ou c, doivent être restituées par les personnes qui disposaient de l’autorité parentale au moment de leur versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_2"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Personnes soumises à l’obligation de restituer",
+        "citation": "Art. 2 al. 3 OPGA",
+        "content": "Le droit de l’assureur à la restitution est fixé en proportion des prestations touchées indûment qui peuvent être compensées par des versements effectués ultérieurement par d’autres assureurs sociaux conformément aux réglementations des assurances sociales particulières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_2"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Décision en restitution",
+        "citation": "Art. 3 al. 1 OPGA",
+        "content": "L’étendue de l’obligation de restituer est fixée par une décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_3"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Décision en restitution",
+        "citation": "Art. 3 al. 2 OPGA",
+        "content": "L’assureur indique la possibilité d’une remise dans la décision en restitution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_3"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Décision en restitution",
+        "citation": "Art. 3 al. 3 OPGA",
+        "content": "L’assureur décide dans sa décision de renoncer à la restitution lorsqu’il est manifeste que les conditions d’une remise sont réunies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_3"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Remise",
+        "citation": "Art. 4 al. 1 OPGA",
+        "content": "La restitution entière ou partielle des prestations allouées indûment, mais reçues de bonne foi, ne peut être exigée si l’intéressé se trouve dans une situation difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_4"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Remise",
+        "citation": "Art. 4 al. 2 OPGA",
+        "content": "Est déterminant, pour apprécier s’il y a une situation difficile, le moment où la décision de restitution est exécutoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_4"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Remise",
+        "citation": "Art. 4 al. 3 OPGA",
+        "content": "Les autorités auxquelles les prestations ont été versées en vertu de l’art. 20 LPGA ou des dispositions des lois spéciales ne peuvent invoquer le fait qu’elles seraient mises dans une situation difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_4"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Remise",
+        "citation": "Art. 4 al. 4 OPGA",
+        "content": "La demande de remise doit être présentée par écrit. Elle doit être motivée, accompagnée des pièces nécessaires et déposée au plus tard 30 jours à compter de l’entrée en force de la décision de restitution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_4"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Remise",
+        "citation": "Art. 4 al. 5 OPGA",
+        "content": "La remise fait l’objet d’une décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_4"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Situation difficile",
+        "citation": "Art. 5 al. 1 OPGA",
+        "content": "Il y a situation difficile, au sens de l’art. 25, al. 1, LPGA, lorsque les dépenses reconnues par la loi du 6 octobre 2006 sur les prestations complémentaires (LPC) et les dépenses supplémentaires au sens de l’al. 4 sont supérieures aux revenus déterminants selon la LPC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_5"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Situation difficile",
+        "citation": "Art. 5 al. 2 OPGA",
+        "content": "Sont pris en considération pour effectuer le calcul des dépenses reconnues prescrit à l’al. 1:\na. pour les personnes vivant à domicile: comme loyer, le montant maximal respectif au sens de l’art. 10, al. 1, let. b, LPC;\nb. pour les personnes vivant dans un home ou dans un hôpital: un montant de 4800 francs par an pour les dépenses personnelles;\nc. pour toutes les personnes, comme montant forfaitaire pour l’assurance obligatoire des soins: la prime la plus élevée pour la catégorie de personnes en cause, conformément à la version en vigueur de l’ordonnance du Département fédéral de l’intérieur (DFI) relative aux primes moyennes cantonales et régionales de l’assurance obligatoire des soins pour le calcul des prestations complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_5"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Situation difficile",
+        "citation": "Art. 5 al. 3 OPGA",
+        "content": "L’imputation de la fortune des personnes vivant dans un home ou dans un hôpital s’élève à un quinzième; pour les bénéficiaires de rente de vieillesse vivant dans un home ou dans un hôpital, elle équivaut à un dixième. Pour un invalide partiel, seul le revenu effectivement réalisé est pris en considération. Une éventuelle limite cantonale pour les frais de home n’est pas prise en considération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_5"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 2, Restitution de prestations indûment touchées, Situation difficile",
+        "citation": "Art. 5 al. 4 OPGA",
+        "content": "Sont prises en considération les dépenses supplémentaires suivantes:\na. 8000 francs pour les personnes seules;\nb. 12 000 francs pour les couples; \nc. 4000 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_5"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 3, Intérêts moratoires sur les prestations, Taux de l’intérêt et calcul",
+        "citation": "Art. 7 al. 1 OPGA",
+        "content": "Le taux de l’intérêt moratoire est de 5 % par an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 3, Intérêts moratoires sur les prestations, Taux de l’intérêt et calcul",
+        "citation": "Art. 7 al. 2 OPGA",
+        "content": "L’intérêt moratoire est calculé par mois sur les prestations dont le droit est échu jusqu’à la fin du mois précédent. Il est dû dès le premier jour du mois durant lequel le droit à l’intérêt moratoire a pris naissance et jusqu’à la fin du mois durant lequel l’ordre de paiement est donné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 1, Dispositions sur les prestations, Section 3, Intérêts moratoires sur les prestations, Taux de l’intérêt et calcul",
+        "citation": "Art. 7 al. 3 OPGA",
+        "content": "Si un intérêt moratoire n’est dû, au sens de l’art. 6, que sur une partie de la prestation, il sera calculé au moment du paiement sur la prestation entière et sera versé en proportion de la part de prestation sur laquelle les intérêts sont dus par rapport à l’intégralité de la prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Autorisation obligatoire",
+        "citation": "Art. 7a OPGA",
+        "content": "Quiconque souhaite effectuer des observations pour un assureur doit en avoir l’autorisation de l’Office fédéral des assurances sociales (OFAS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Conditions d’octroi de l’autorisation",
+        "citation": "Art. 7b al. 1 OPGA",
+        "content": "L’autorisation est accordée si:\na. l’extrait destiné aux particuliers du casier judiciaire du requérant au sens de l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire est exempt de toute infraction faisant apparaître un lien avec l’activité soumise à autorisation;\nb. le requérant déclare qu’il n’existe contre lui aucune procédure pénale pendante ni aucune procédure civile pendante ou close au cours des dix dernières années pour atteinte à la personnalité au sens des art. 28 à 28b du code civil (CC) faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation;\nc. il n’existe pas d’actes de défaut de bien contre le requérant;\nd. le requérant a acquis les connaissances juridiques indispensables à l’exécution d’une observation conforme au droit dans le cadre d’une formation initiale ou continue appropriée;\ne. le requérant a accompli avec succès une formation policière initiale ou continue en surveillance ou une formation initiale ou continue équivalente en surveillance au cours des dix dernières années, et que\nf. le requérant a effectué au moins douze surveillances de personnes au cours des cinq dernières années.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Conditions d’octroi de l’autorisation",
+        "citation": "Art. 7b al. 2 OPGA",
+        "content": "Elle n’est accordée qu’à des personnes physiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Demande",
+        "citation": "Art. 7c OPGA",
+        "content": "L’autorisation doit être demandée par écrit à l’OFAS. La demande est accompagnée:\na. d’un curriculum vitæ portant sur l’activité professionnelle du requérant;\nb. de la déclaration visée à l’art. 7b, al. 1, let. b, et des pièces attestant le respect des autres conditions visées à l’art. 7b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_c"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Durée de validité et effet de l’autorisation",
+        "citation": "Art. 7d al. 1 OPGA",
+        "content": "L’autorisation est valable cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_d"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Durée de validité et effet de l’autorisation",
+        "citation": "Art. 7d al. 2 OPGA",
+        "content": "Elle ne doit pas être mentionnée dans l’appellation professionnelle et ne confère pas un titre professionnel protégé. Elle ne doit pas être utilisée à des fins publicitaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_d"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Communication de modifications importantes et retrait de l’autorisation",
+        "citation": "Art. 7e al. 1 OPGA",
+        "content": "Le titulaire d’une autorisation est tenu d’informer sans délai l’OFAS:\na. de toute modification importante relative aux faits déterminants pour l’octroi de l’autorisation;\nb. qu’il fait l’objet d’une procédure pénale ou d’une procédure civile pour atteinte à la personnalité au sens des art. 28 à 28b CC faisant apparaître un lien avec l’activité soumise à autorisation et susceptible de porter atteinte à la garantie du bon déroulement de cette activité et à sa bonne réputation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_e"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Communication de modifications importantes et retrait de l’autorisation",
+        "citation": "Art. 7e al. 2 OPGA",
+        "content": "L’autorisation est retirée si:\na. une des conditions visées à l’art. 7b n’est plus remplie;\nb. l’obligation d’informer visée à l’al. 1 est enfreinte, ou que\nc. des faits sont ensuite établis sur la base desquels elle aurait dû être refusée, notamment du fait que la déclaration visée à l’art. 7b, al. 1, let. b, était mensongère.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_e"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Communication de modifications importantes et retrait de l’autorisation",
+        "citation": "Art. 7e al. 3 OPGA",
+        "content": "Elle peut être retirée si le titulaire:\na. enfreint l’interdiction de publicité visée à l’art. 7d, al. 2, ou qu’il\nb. effectue une observation non conforme au droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_e"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Émoluments pour l’examen d’une demande d’autorisation",
+        "citation": "Art. 7f al. 1 OPGA",
+        "content": "L’OFAS perçoit un émolument de 700 francs pour l’examen d’une demande d’autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_f"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Émoluments pour l’examen d’une demande d’autorisation",
+        "citation": "Art. 7f al. 2 OPGA",
+        "content": "Pour le reste, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_f"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 1, Exigences à l’endroit des spécialistes qui réalisent une observation, Répertoire des titulaires d’une autorisation",
+        "citation": "Art. 7g OPGA",
+        "content": "L’OFAS tient une liste des titulaires d’une autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2, Exécution de l’observation, Lieu de l’observation ",
+        "citation": "Art. 7h al. 1 OPGA",
+        "content": "Est considéré comme un lieu accessible au public tout espace public ou privé dont il est généralement toléré que la collectivité y ait accès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_h"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2, Exécution de l’observation, Lieu de l’observation ",
+        "citation": "Art. 7h al. 2 OPGA",
+        "content": "N’est pas considéré comme librement visible depuis un lieu accessible au public tout lieu relevant de la sphère privée de la personne à observer, en particulier:\na. l’intérieur d’un logement, y compris les pièces visibles de l’extérieur par une fenêtre;\nb. les places, cours et jardins clos appartenant directement à une maison, qui ne sont ordinairement pas visibles de l’extérieur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_h"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2, Exécution de l’observation, Moyens de l’observation",
+        "citation": "Art. 7i al. 1 OPGA",
+        "content": "L’utilisation d’instruments permettant des enregistrements visuels qui améliorent considérablement les capacités de perception humaine, tels que des lunettes de vision nocturne, est interdite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_i"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2, Exécution de l’observation, Moyens de l’observation",
+        "citation": "Art. 7i al. 2 OPGA",
+        "content": "L’utilisation d’instruments permettant des enregistrements sonores qui améliorent les capacités de perception humaine, tels que micros directionnels, puces ou amplificateurs de son, est interdite. Il est interdit d’exploiter l’enregistrement de propos non publics; si ces enregistrements sont contenus dans des enregistrements vidéo, ils sont néanmoins exploitables sans les enregistrements sonores.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_i"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2, Exécution de l’observation, Moyens de l’observation",
+        "citation": "Art. 7i al. 3 OPGA",
+        "content": "Pour déterminer la localisation, seuls peuvent être utilisés les instruments qui servent à cette fin conformément à leur usage, comme les appareils de localisation par satellite. L’utilisation d’aéronefs est interdite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_i"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Recherche de consensus",
+        "citation": "Art. 7j al. 1 OPGA",
+        "content": "Si une partie récuse un expert en vertu de l’art. 44, al. 2, LPGA, l’assureur doit examiner les motifs de récusation. En l’absence de motif de récusation, les parties tentent de trouver un consensus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_j"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Recherche de consensus",
+        "citation": "Art. 7j al. 2 OPGA",
+        "content": "La recherche de consensus peut être effectuée par oral ou par écrit et doit être consignée dans les dossiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_j"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Recherche de consensus",
+        "citation": "Art. 7j al. 3 OPGA",
+        "content": "Si un mandat d’expertise est attribué de manière aléatoire, il n’y a pas lieu de rechercher un consensus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_j"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 1 OPGA",
+        "content": "L’entretien au sens de l’art. 44, al. 6, LPGA comprend l’ensemble de l’entrevue de bilan. Celle-ci inclut l’anamnèse et la description, par l’assuré, de l’atteinte à sa santé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 2 OPGA",
+        "content": "Lorsqu’il annonce une expertise, l’assureur doit informer l’assuré que l’entretien fera l’objet d’un enregistrement sonore au sens de l’art. 44, al. 6, LPGA, du but de l’enregistrement, ainsi que de la possibilité d’y renoncer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 3 OPGA",
+        "content": "Au moyen d’une déclaration écrite adressée à l’organe d’exécution, l’assuré peut:\na. annoncer avant l’expertise qu’il renonce à l’enregistrement sonore;\nb. demander la destruction de l’enregistrement jusqu’à dix jours après l’entretien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 4 OPGA",
+        "content": "Avant l’entretien, il peut révoquer sa renonciation au sens de l’al. 3, let. a, auprès de l’organe d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 5 OPGA",
+        "content": "L’enregistrement sonore doit être réalisé par l’expert conformément à des prescriptions techniques simples. Les assureurs garantissent l’uniformité de ces prescriptions dans les mandats d’expertise. L’expert veille à ce que l’enregistrement sonore de l’entretien se déroule correctement sur le plan technique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 6 OPGA",
+        "content": "L’assuré et l’expert doivent tous deux confirmer oralement le début et la fin de l’entretien au début et à la fin de l’enregistrement sonore, en précisant l’heure. Ils confirment de la même manière toute interruption de l’enregistrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 7 OPGA",
+        "content": "Les experts et les centres d’expertise transmettent l’enregistrement sonore à l’assureur sous forme électronique sécurisée en même temps que l’expertise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Enregistrement sonore de l’entretien",
+        "citation": "Art. 7k al. 8 OPGA",
+        "content": "Si l’assuré, après avoir écouté l’enregistrement sonore et constaté des manquements techniques, conteste le caractère vérifiable de l’expertise, l’assuré et l’organe d’exécution tentent de s’accorder sur la suite de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Utilisation et destruction de l’enregistrement sonore de l’entretien",
+        "citation": "Art. 7l al. 1 OPGA",
+        "content": "L’enregistrement sonore ne peut être écouté que par l’assuré, l’assureur ayant mandaté l’expertise et les autorités décisionnaires dans le cadre de la procédure administrative, de la procédure d’opposition (art. 52 LPGA), de la révision et de la reconsidération (art. 53 LPGA) ainsi qu’en cas de contentieux (art. 56 et 62 LPGA); cela vaut également pour la procédure de préavis au sens de l’art. 57a de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_l"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Utilisation et destruction de l’enregistrement sonore de l’entretien",
+        "citation": "Art. 7l al. 2 OPGA",
+        "content": "La Commission fédérale d’assurance qualité des expertises médicales est également habilitée à écouter les enregistrements sonores dans le cadre des tâches énoncées à l’art. 7p, al. 4 et 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_l"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Utilisation et destruction de l’enregistrement sonore de l’entretien",
+        "citation": "Art. 7l al. 3 OPGA",
+        "content": "Dès que la procédure pour laquelle l’expertise a été mandatée est terminée et que la décision qui en découle est entrée en force, l’assureur peut détruire l’enregistrement sonore en accord avec l’assuré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_l"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Exigences concernant les experts",
+        "citation": "Art. 7m al. 1 OPGA",
+        "content": "Les experts médicaux peuvent réaliser des expertises au sens de l’art. 44, al. 1, LPGA s’ils:\na. disposent d’un titre postgrade au sens de l’art. 2, al. 1, let. b et c, de l’ordonnance du 27 juin 2007 sur les professions médicales; \nb. sont inscrits dans le registre visé à l’art. 51, al. 1, de la loi fédérale du 23 juin 2006 sur les professions médicales (LPMéd);\nc. possèdent une autorisation de pratiquer valable ou ont rempli leur obligation de s’annoncer, pour autant que l’art. 34 ou 35 LPMéd l’exige, et\nd. disposent d’au moins cinq ans d’expérience clinique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_m"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Exigences concernant les experts",
+        "citation": "Art. 7m al. 2 OPGA",
+        "content": "Les spécialistes en médecine interne générale, en psychiatrie et en psychothérapie, en neurologie, en rhumatologie, en orthopédie ou en chirurgie orthopédique et en traumatologie de l’appareil locomoteur doivent être titulaires d’une certification de l’association Médecine d’assurance suisse (Swiss Insurance Medicine, SIM). Font exception les médecins-chefs et les chefs de service des hôpitaux universitaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_m"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Exigences concernant les experts",
+        "citation": "Art. 7m al. 3 OPGA",
+        "content": "Les experts en neuropsychologie doivent satisfaire aux exigences de l’art. 50b de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_m"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Exigences concernant les experts",
+        "citation": "Art. 7m al. 4 OPGA",
+        "content": "Avec le consentement de l’assuré, il peut être renoncé à certaines des exigences visées aux al. 1 à 3, pour autant que des raisons objectives le nécessitent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_m"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Exigences concernant les experts",
+        "citation": "Art. 7m al. 5 OPGA",
+        "content": "Des personnes ne remplissant pas encore toutes les exigences visées aux al. 1 à 3 peuvent établir des expertises dans le cadre de leur formation universitaire, postgrade et continue. L’expertise est effectuée sous la supervision directe et personnelle des médecins spécialistes ou des neuropsychologues remplissant les conditions énoncées aux al. 1 à 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_m"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Fourniture de documents",
+        "citation": "Art. 7n OPGA",
+        "content": "Les experts et les centres d’expertises doivent fournir sur demande aux assureurs, aux organes d’exécution des différentes assurances sociales et aux tribunaux compétents les documents nécessaires à la vérification de leurs qualifications professionnelles et du respect des exigences qualitatives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_n"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: composition",
+        "citation": "Art. 7o OPGA",
+        "content": "La Commission fédérale d’assurance qualité des expertises médicales se compose du président et de douze membres, dont:\na. deux représentants des assurances sociales;\nb. un représentant des centres d’expertises;\nc. trois représentants du corps médical;\nd. un représentant des neuropsychologues;\ne. deux représentants des milieux scientifiques;\nf. un représentant des institutions de formation de la médecine des assurances; \ng. deux représentants des organisations de patients et de personnes en situation de handicap.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_o"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: tâches",
+        "citation": "Art. 7p al. 1 OPGA",
+        "content": "La commission formule des recommandations concernant: \na. les exigences et les normes de qualité pour le processus d’expertise; \nb. les critères pour l’activité et la formation universitaire, postgrade et continue des experts;\nc. les critères pour l’accréditation des centres d’expertises et leur activité; \nd. les critères et les outils pour l’évaluation qualitative des expertises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_p"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: tâches",
+        "citation": "Art. 7p al. 2 OPGA",
+        "content": "La commission surveille le respect des critères définis aux let. a à d par les experts et les centres d’expertises et peut formuler des recommandations sur la base de cette surveillance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_p"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: tâches",
+        "citation": "Art. 7p al. 3 OPGA",
+        "content": "Elle publie les recommandations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_p"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: tâches",
+        "citation": "Art. 7p al. 4 OPGA",
+        "content": "Elle peut exiger des assureurs et des organes d’exécution des différentes assurances sociales qu’ils lui fournissent les documents et les expertises nécessaires au contrôle du respect des critères définis à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_p"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: tâches",
+        "citation": "Art. 7p al. 5 OPGA",
+        "content": "Si les assureurs ou les organes d’exécution des différentes assurances sociales constatent un manquement systématique, par les centres d’expertises, au respect des critères énoncés à l’al. 1, ils peuvent fournir à la commission les documents et expertises nécessaires au contrôle de la qualité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_p"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: organisation",
+        "citation": "Art. 7q al. 1 OPGA",
+        "content": "La commission établit un règlement d’organisation. Celui-ci règle notamment les aspects suivants:\na. le mode de travail de la commission;\nb. le recours à des experts pour les travaux de recherche scientifique ou pour la mise en œuvre d’évaluations;\nc. la rédaction de rapports sur les activités et les recommandations de la commission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_q"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: organisation",
+        "citation": "Art. 7q al. 2 OPGA",
+        "content": "Le DFI approuve le règlement d’organisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_q"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: organisation",
+        "citation": "Art. 7q al. 3 OPGA",
+        "content": "Le secrétariat de la commission est subordonné au président pour les questions de fond et à l’OFAS pour les questions administratives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_q"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 2a, Expertise, Commission fédérale d’assurance qualité des expertises médicales: organisation",
+        "citation": "Art. 7q al. 4 OPGA",
+        "content": "Le président, les membres de la commission et les collaborateurs du secrétariat sont soumis à l’obligation de garder le secret au sens de l’art. 33 LPGA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_7_q"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Gestion des documents",
+        "citation": "Art. 8 al. 1 OPGA",
+        "content": "Les dossiers sont gérés systématiquement et dans l’ordre chronologique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Gestion des documents",
+        "citation": "Art. 8 al. 2 OPGA",
+        "content": "Un bordereau complet fournissant des informations claires et sans équivoque sur le contenu des différents documents est tenu pour chaque dossier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Conservation des dossiers",
+        "citation": "Art. 8a al. 1 OPGA",
+        "content": "Les dossiers sont conservés de manière sûre et appropriée, et de sorte qu’ils ne puissent subir aucun dommage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Conservation des dossiers",
+        "citation": "Art. 8a al. 2 OPGA",
+        "content": "Ils sont protégés par des mesures architecturales, techniques et organisationnelles appropriées contre les accès non autorisés, les modifications non enregistrées et le risque de perte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Forme de la consultation du dossier",
+        "citation": "Art. 8b al. 1 OPGA",
+        "content": "L’assureur peut subordonner la consultation du dossier à une demande écrite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Forme de la consultation du dossier",
+        "citation": "Art. 8b al. 2 OPGA",
+        "content": "La consultation du dossier a lieu en principe au siège de l’assureur ou de ses organes d’exécution. Sur demande du requérant, l’assureur peut lui fournir les copies des pièces du dossier. Sont réservés les art. 47, al. 2, LPGA et 16, al. 2, de l’ordonnance du 31 août 2022 sur la protection des données (OPDo).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Forme de la consultation du dossier",
+        "citation": "Art. 8b al. 3 OPGA",
+        "content": "L’assureur doit remettre pour consultation les pièces du dossier ou des copies de celles-ci:\na. aux autorités;\nb. aux autres assureurs, ainsi qu’aux personnes habilitées à représenter les parties devant les tribunaux au sens de l’art. 2 de la loi du 23 juin 2000 sur la libre circulation des avocats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Consultation du matériel recueilli lors d’une observation",
+        "citation": "Art. 8c al. 1 OPGA",
+        "content": "Si l’assureur informe l’assuré de vive voix dans ses locaux de l’observation qui a été réalisée, il présente à celui-ci l’intégralité du matériel recueilli et lui indique qu’il peut en demander la copie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_c"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Consultation du matériel recueilli lors d’une observation",
+        "citation": "Art. 8c al. 2 OPGA",
+        "content": "Si l’assureur informe l’assuré de l’observation par écrit, il lui offre la possibilité de consulter l’intégralité du matériel recueilli dans ses locaux. Il lui indique qu’il peut en demander la copie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_8_c"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Frais de consultation du dossier",
+        "citation": "Art. 9 al. 1 OPGA",
+        "content": "La consultation du dossier est en principe gratuite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Frais de consultation du dossier",
+        "citation": "Art. 9 al. 2 OPGA",
+        "content": "Un émolument calculé conformément à l’ordonnance du 10 septembre 1969 sur les frais et indemnités en procédure administrative peut être perçu si la consultation du dossier occasionne un volume de travail particulièrement important. Est réservé l’art. 19 de l’OPDo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Destruction des dossiers",
+        "citation": "Art. 9a al. 1 OPGA",
+        "content": "Les dossiers sans intérêt archivistique sont détruits passé le délai de conservation, à moins que la loi n’en dispose autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Destruction des dossiers",
+        "citation": "Art. 9a al. 2 OPGA",
+        "content": "La destruction des dossiers est effectuée de manière contrôlée et dans le respect de la confidentialité de toutes les informations qu’ils contiennent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Destruction des dossiers",
+        "citation": "Art. 9a al. 3 OPGA",
+        "content": "Le processus de destruction fait l’objet d’un procès-verbal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Destruction des dossiers",
+        "citation": "Art. 9a al. 4 OPGA",
+        "content": "Les dossiers qui, immédiatement après l’observation, n’ont pas pu servir de preuve justifiant une modification des prestations sont détruits dans les trois mois qui suivent l’entrée en force de la décision (art. 43a, al. 8, LPGA). La destruction est confirmée par écrit à la personne ayant fait l’objet de l’observation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 3, Gestion, conservation, consultation et destruction des dossiers; notification des jugements et arrêts, Notification des jugements et arrêts",
+        "citation": "Art. 9b OPGA",
+        "content": "Les organes d’exécution remettent à l’expert au sens de l’art. 44 LPGA qui a établi une expertise médicale une copie des jugements et arrêts des tribunaux cantonaux des assurances, du Tribunal administratif fédéral et du Tribunal fédéral pour lesquels son expertise a servi de moyen de preuve.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_9_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Principe",
+        "citation": "Art. 10 al. 1 OPGA",
+        "content": "L’opposition doit contenir des conclusions et être motivée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_10"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Principe",
+        "citation": "Art. 10 al. 2 OPGA",
+        "content": "Doit être formée par écrit l’opposition contre une décision:\na. sujette à opposition, conformément à l’art. 52 LPGA, et qui a pour objet une prestation ou la restitution d’une prestation fondées sur la loi fédérale du 25 juin 1982 sur l’assurance-chômage;\nb. prise par un organe d’exécution en matière de sécurité au travail au sens des art. 47 à 51 de l’ordonnance du 19 décembre 1983 sur la prévention des accidents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_10"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Principe",
+        "citation": "Art. 10 al. 3 OPGA",
+        "content": "Dans les autres cas, l’opposition peut être formée au choix par écrit ou par oral, lors d’un entretien personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_10"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Principe",
+        "citation": "Art. 10 al. 4 OPGA",
+        "content": "L’opposition écrite doit être signée par l’opposant ou par son représentant légal. En cas d’opposition orale, l’assureur consigne l’opposition dans un procès-verbal signé par l’opposant ou son représentant légal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_10"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Principe",
+        "citation": "Art. 10 al. 5 OPGA",
+        "content": "Si l’opposition ne satisfait pas aux exigences de l’al. 1 ou si elle n’est pas signée, l’assureur impartit un délai convenable pour réparer le vice, avec l’avertissement qu’à défaut, l’opposition ne sera pas recevable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_10"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Effet suspensif",
+        "citation": "Art. 11 al. 1 OPGA",
+        "content": "L’opposition a un effet suspensif, sauf:\na. si un recours contre la décision prise sur opposition n’a pas d’effet suspensif de par la loi;\nb. si l’assureur a retiré l’effet suspensif dans sa décision;\nc. si la décision a une conséquence juridique qui n’est pas sujette à suspension.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_11"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Effet suspensif",
+        "citation": "Art. 11 al. 2 OPGA",
+        "content": "L’assureur peut, sur requête ou d’office, retirer l’effet suspensif ou rétablir l’effet suspensif retiré dans la décision. Une telle requête doit être traitée sans délai.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_11"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Décision sur opposition",
+        "citation": "Art. 12 al. 1 OPGA",
+        "content": "L’assureur n’est pas lié par les conclusions de l’opposant. Il peut modifier la décision à l’avantage ou au détriment de l’opposant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_12"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 4, Procédure d’opposition, Décision sur opposition",
+        "citation": "Art. 12 al. 2 OPGA",
+        "content": "Si l’assureur envisage de modifier la décision au détriment de l’opposant, il donne à ce dernier l’occasion de retirer son opposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_12"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 2, Dispositions générales de la procédure, Section 5, Frais d’assistance gratuite d’un conseil juridique",
+        "citation": "Art. 12a OPGA",
+        "content": "Les art. 8 à 13 du règlement du 11 décembre 2006 concernant les frais, dépens et indemnités fixés par le Tribunal administratif fédéral sont applicables par analogie aux frais d’avocat d’une partie au bénéfice de l’assistance gratuite d’un conseil juridique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_12_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Principe",
+        "citation": "Art. 13 OPGA",
+        "content": "Les assureurs qui disposent du droit de recours au sens des art. 72 à 75 LPGA peuvent conclure entre eux et avec d’autres intéressés des conventions destinées à simplifier le règlement des cas de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_13"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Exercice du recours de l’AVS/AI",
+        "citation": "Art. 14 al. 1 OPGA",
+        "content": "L’OFAS fait valoir les droits de recours de l’assurance-vieillesse et survivants et de l’assurance-invalidité, en collaboration avec les caisses de compensation et les offices AI. Il passe à cet effet les conventions nécessaires avec les caisses de compensation et les offices AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_14"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Exercice du recours de l’AVS/AI",
+        "citation": "Art. 14 al. 2 OPGA",
+        "content": "Lorsqu’elles exercent leur propre droit de recours, la Caisse nationale suisse d’assurance en cas d’accidents ou l’assurance militaire font également valoir le recours de l’assurance-vieillesse et survivants et celui de l’assurance-invalidité. L’OFAS passe à cet effet des conventions avec elles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_14"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Exercice du recours de l’assurance-chômage",
+        "citation": "Art. 15 OPGA",
+        "content": "Les organes d’exécution de l’assurance-chômage compétents en vertu de la loi fédérale du 25 juin 1982 sur l’assurance-chômage exercent les prétentions récursoires de l’assurance-chômage. Celles-ci peuvent également être exercées par le Secrétariat d’État à l’économie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_15"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Rapports entre plusieurs assureurs sociaux",
+        "citation": "Art. 16 OPGA",
+        "content": "Lorsque plusieurs assureurs sociaux participent au recours, ils doivent procéder entre eux à la répartition des montants récupérés proportionnellement aux prestations concordantes déjà versées ou dues par chacun d’eux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_16"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3, Subrogation, Recours contre un responsable qui n’est pas assuré en responsabilité civile",
+        "citation": "Art. 17 OPGA",
+        "content": "Les assureurs participant au recours désignent parmi eux celui qui les représentera pour traiter avec le responsable. S’ils ne parviennent pas à se mettre d’accord, la représentation sera exercée dans l’ordre suivant:\na. par l’assurance-accidents;\nb. par l’assurance militaire;\nc. par l’assurance-maladie;\nd. par l’AVS/AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Autorités compétentes en matière internationale",
+        "citation": "Art. 17a al. 1 OPGA",
+        "content": "Les autorités compétentes au sens de l’art. 75a LPGA sont:\na. pour toutes les prestations de sécurité sociale, à l’exception des prestations de chômage: l’OFAS;\nb. pour les prestations de chômage: l’organe de compensation de l’assurance-chômage visé à l’art. 83 de la loi du 25 juin 1982 sur l’assurance-chômage (LACI).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Autorités compétentes en matière internationale",
+        "citation": "Art. 17a al. 2 OPGA",
+        "content": "Elles peuvent conclure des accords lorsque le règlement (CE) no 883/2004 le prévoit, notamment en vertu des art. 16, par. 1, 35, par. 3, 41, par. 2, 65, par. 8, et 84, par. 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Autorités compétentes en matière internationale",
+        "citation": "Art. 17a al. 3 OPGA",
+        "content": "Elles représentent la Suisse auprès de la commission administrative pour la coordination des systèmes de sécurité sociale au sens de l’art. 72, auprès de la commission technique pour le traitement de l’information au sens de l’art. 73 et auprès de la commission des comptes au sens de l’art. 74 du règlement (CE) no 883/2004.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Organismes de liaison ",
+        "citation": "Art. 17b OPGA",
+        "content": "Les organismes de liaison au sens de l’art. 75a LPGA sont:\na. pour les prestations de maladie et de maternité: l’institution commune au sens l’art. 18 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal), dans la mesure où elle n’est pas déjà l’organisme de liaison en vertu de l’art. 19 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie (OAMal);\nb. pour les prestations d’invalidité:\n1. dans le domaine de l’assurance-invalidité: l’office AI pour les assurés résidant à l’étranger au sens de l’art. 56 de la loi du 19 juin 1959 sur l’assurance-invalidité (LAI),\n2.  dans le domaine de la prévoyance professionnelle: le fonds de garantie au sens de l’art. 54, al. 2, let. a, de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle, vieillesse, survivants et invalidité (LPP);\nc. pour les prestations de vieillesse et de décès:\n1. dans le domaine de l’assurance-vieillesse et survivants: la Caisse suisse de compensation au sens de l’art. 113 du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS),\n2. dans le domaine de la prévoyance professionnelle: le fonds de garantie;\nd. pour les prestations d’accidents professionnels et de maladie professionnelle: la Caisse nationale suisse d’assurance en cas d’accidents (CNA) au sens de l’art. 61 de la loi fédérale du 20 mars 1981 sur l’assurance-accidents (LAA);\ne. pour les prestations de chômage: l’organe de compensation de l’assurance-chômage au sens de l’art. 83 LACI;\nf. pour les prestations familiales: l’OFAS;\ng. pour la détermination de la législation applicable: l’OFAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_b"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Institutions compétentes",
+        "citation": "Art. 17c OPGA",
+        "content": "Les institutions compétentes au sens de l’art. 75a LPGA sont:\na. pour les prestations de maladie et de maternité, excepté l’allocation de maternité: l’assureur au sens de la LAMal;\nb. pour les prestations d’invalidité:\n1. dans le domaine de l’assurance-invalidité: \n– en cas de domicile en Suisse: l’office AI du canton de domicile\n– en cas de domicile à l’étranger: l’office AI pour les assurés résidant à l’étranger\n2. dans le domaine de la prévoyance professionnelle: l’institution de prévoyance ou l’institution de libre passage;\nc. pour les prestations de vieillesse et de décès:\n1. dans le domaine de l’assurance-vieillesse et survivants: \n– en cas de domicile en Suisse: la caisse de compensation AVS\n– en cas de domicile à l’étranger: la Caisse suisse de compensation\n2. dans le domaine de la prévoyance professionnelle: l’institution de prévoyance ou l’institution de libre passage;\nd. pour les prestations de l’allocation de maternité:\n1. en cas de domicile en Suisse: la caisse de compensation AVS,\n2. en cas de domicile à l’étranger: la Caisse suisse de compensation;\ne. pour les prestations d’accidents professionnels et de maladie professionnelle:\n1. s’agissant des salariés: l’assureur-accidents auquel l’employeur est affilié,\n2. s’agissant des indépendants: l’assureur-accidents auprès duquel la personne concernée est assurée;\nf. pour les prestations de chômage: la caisse de chômage choisie par le chômeur ainsi que l’office régional de placement compétent au sens de l’art. 85b LACI;\ng. pour les allocations familiales:\n1. au sens de la loi du 24 mars 2006 sur les allocations familiales (LAFam): les caisses de compensation pour allocations familiales visées à l’art. 14 LAFam,\n2. au sens de la loi du 20 juin 1952 sur les allocations familiales dans l’agriculture (LFA): la caisse de compensation AVS;\nh. pour le recouvrement de créances étrangères en Suisse: la Centrale de compensation (CdC) au sens de l’art. 71 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS);\ni. pour la détermination de la législation applicable: la caisse de compensation AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_c"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Institutions d’entraide",
+        "citation": "Art. 17d al. 1 OPGA",
+        "content": "Les institutions d’entraide au sens des actes juridiques de l’UE, dans la version qui lie la Suisse en vertu de l’annexe II, section A, ch. 1 à 4, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes, sont:\na. pour les prestations de maladie et de maternité: l’institution commune au sens de l’art. 18 LAMal, dans la mesure où elle n’est pas déjà institution d’entraide en vertu de l’art. 19 OAMal;\nb. pour les prestations d’accidents professionnels et de maladie professionnelle; la CNA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_d"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Institutions d’entraide",
+        "citation": "Art. 17d al. 2 OPGA",
+        "content": "Elles assument également les tâches visées à l’al. 1 dans le cadre d’autres conventions internationales en matière de sécurité sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_d"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 1, Désignation des compétences, Services de la Confédération responsables de l’infrastructure servant à l’échange électronique de données avec l’étranger",
+        "citation": "Art. 17e OPGA",
+        "content": "Sont responsables de la mise sur pied et de l’exploitation de l’infrastructure destinée à l’échange électronique de données avec l’étranger au sens de l’art. 75b LPGA:\na. dans le domaine de la maladie et des accidents: l’Office fédéral de la santé publique;\nb. pour les rentes AVS et AI: la CdC;\nc. pour l’assurance-chômage: l’organe de compensation de l’assurance-chômage;\nd. pour les autres domaines: l’OFAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_e"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Principe",
+        "citation": "Art. 17f OPGA",
+        "content": "Les émoluments annuels se composent à la fois d’une part des coûts de base au sens de l’art. 17g et d’une part des coûts d’utilisation au sens des art. 17h et 17i.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_f"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts de base",
+        "citation": "Art. 17g al. 1 OPGA",
+        "content": "Les coûts de base comprennent:\na. les coûts générés par l’exploitation du point d’accès électronique, et\nb. les coûts générés par l’administration, la maintenance et le support opérationnel du point d’accès électronique ainsi que par la mise à disposition d’applications adéquates.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts de base",
+        "citation": "Art. 17g al. 2 OPGA",
+        "content": "Pour chacun des secteurs d’assurances sociales suivants, la part aux coûts de base est déterminée en fonction du nombre d’institutions compétentes et d’institutions d’entraide qui sont responsables de la mise en œuvre de l’assurance sociale internationale dans le secteur considéré:\na. assurance-maladie;\nb. assurance-accidents;\nc. prestations familiales;\nd. assurance-chômage;\ne. assurance de rentes dans le domaine des 1er et 2e piliers;\nf. assujettissement à l’assurance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts de base",
+        "citation": "Art. 17g al. 3 OPGA",
+        "content": "Pour les institutions d’un secteur d’assurances sociales qui sont raccordées au point d’accès électronique au moyen d’une application standard, la part de chaque institution dans ce secteur d’assurance aux coûts de base est calculée en fonction du nombre de comptes d’utilisateur dont elle dispose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts de base",
+        "citation": "Art. 17g al. 4 OPGA",
+        "content": "Pour les institutions d’un secteur d’assurances sociales qui sont raccordées au point d’accès électronique par interface avec une application métier, la part aux coûts de base de toutes les institutions dans ce secteur d’assurances sociales est facturée au service responsable de cette application.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts de base",
+        "citation": "Art. 17g al. 5 OPGA",
+        "content": "Pour les institutions d’un secteur d’assurances sociales qui utilisent aussi bien une application métier que l’application standard pour se raccorder au point d’accès, les coûts de base sont répartis au sein de ce secteur en fonction du nombre d’institutions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_g"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts d’utilisation en cas de raccordement au point d’accès électronique au moyen d’une application standard",
+        "citation": "Art. 17h al. 1 OPGA",
+        "content": "Pour les institutions qui sont raccordées au point d’accès électronique au moyen d’une application standard, les coûts d’utilisation se calculent sur la base:\na. des coûts d’exploitation de l’application standard;\nb. des coûts de maintenance et du support opérationnel de l’application standard;\nc. des coûts de mise à disposition d’applications adéquates;\nd. des coûts des autres composants techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_h"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts d’utilisation en cas de raccordement au point d’accès électronique au moyen d’une application standard",
+        "citation": "Art. 17h al. 2 OPGA",
+        "content": "La part de chaque institution aux coûts d’utilisation se calcule sur la base du nombre de ses comptes d’utilisateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_h"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts d’utilisation en cas de raccordement au point d’accès électronique au moyen d’une application standard",
+        "citation": "Art. 17h al. 3 OPGA",
+        "content": "Lorsqu’une partie seulement des institutions utilisent des composants techniques, les services de la Confédération visés à l’art. 17e peuvent leur imputer intégralement les coûts correspondants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_h"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts d’utilisation en cas de raccordement au point d’accès électronique par interface avec une application métier",
+        "citation": "Art. 17i al. 1 OPGA",
+        "content": "Pour les institutions qui sont raccordées au point d’accès électronique par interface avec une application métier, les coûts d’utilisation se calculent sur la base:\na. des coûts d’exploitation de l’interface;\nb. des coûts de maintenance et de support opérationnel de l’interface;\nc. des coûts de mise à disposition d’applications adéquates;\nd. des coûts des autres composants techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_i"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Coûts d’utilisation en cas de raccordement au point d’accès électronique par interface avec une application métier",
+        "citation": "Art. 17i al. 2 OPGA",
+        "content": "Les coûts d’utilisation de l’interface sont à la charge des services responsables de l’application métier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_i"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Plafond des émoluments ",
+        "citation": "Art. 17j al. 1 OPGA",
+        "content": "Pour les institutions raccordées au point d’accès électronique par une application standard, les émoluments dus pour chaque compte d’utilisateur s’élèvent au maximum à 8000 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_j"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Plafond des émoluments ",
+        "citation": "Art. 17j al. 2 OPGA",
+        "content": "Pour les institutions raccordées au point d’accès électronique par interface, les émoluments dus par le service responsable de l’application métier s’élèvent au maximum à 100 000 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_j"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Modalités",
+        "citation": "Art. 17k al. 1 OPGA",
+        "content": "Le calcul des coûts de base et des coûts d’utilisation par les services de la Confédération visés à l’art. 17e se fonde sur les coûts facturés à l’OFAS par l’exploitant de l’infrastructure et sur les frais d’administration occasionnés à l’OFAS par la gestion centralisée des applications.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Modalités",
+        "citation": "Art. 17k al. 2 OPGA",
+        "content": "Le jour de référence pour le relevé du nombre d’institutions compétentes pour la mise en œuvre de l’assurance sociale internationale et pour le relevé du nombre de leurs comptes d’utilisateur est le 31 décembre de l’année précédente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 3a Exécution de conventions internationales en matière de sécurité sociale, Section 2, Émoluments, Modalités",
+        "citation": "Art. 17k al. 3 OPGA",
+        "content": "Les services de la Confédération visés à l’art. 17e facturent aux institutions les émoluments dus sur une base annuelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_17_k"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 4, Autres dispositions, Volume de travail particulier requis dans le cadre de l’assistance administrative",
+        "citation": "Art. 18 al. 1 OPGA",
+        "content": "L’assistance administrative fait l’objet d’une indemnisation si:\na. sur demande de l’assureur, des données sont fournies sous une forme qui occasionne un volume de travail particulier, et que\nb. la législation d’une assurance sociale le prévoit expressément.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_18"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 4, Autres dispositions, Volume de travail particulier requis dans le cadre de l’assistance administrative",
+        "citation": "Art. 18 al. 2 OPGA",
+        "content": "Dans les cas visés à l’art. 32, al. 3, LPGA, l’organisme auquel il est demandé de communiquer des données peut prélever un émolument si la communication des données entraîne un volume de travail particulier ou que les demandes revêtent un caractère systématique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_18"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 4, Autres dispositions, Échange électronique de données",
+        "citation": "Art. 18a OPGA",
+        "content": "L’autorité de surveillance de chaque assurance sociale peut définir le format et le canal de transmission électronique des données entre les assureurs et les autorités fédérales. Elle tient compte à cet effet des normes reconnues actuelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_18_a"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 4, Autres dispositions, Applicabilité de l’ordonnance générale sur les émoluments",
+        "citation": "Art. 18abis OPGA",
+        "content": "Sauf règles particulières de la présente ordonnance, les dispositions de l’ordonnance générale du 8 septembre 2004 sur les émoluments  s’appliquent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_18_a_bis"
+    },
+    {
+        "book": "ATSV",
+        "title": "OPGA, Chapitre 4, Autres dispositions, Entrée en vigueur",
+        "citation": "Art. 19 al. er OPGA",
+        "content": "La présente ordonnance entre en vigueur le 1 janvier 2003.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/569/fr#art_19"
+    }
+]

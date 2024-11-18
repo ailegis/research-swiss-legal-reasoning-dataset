@@ -1,0 +1,1136 @@
+[
+    {
+        "book": "StReG",
+        "title": "StReG, 1. Titel: Gegenstand und Begriffe, Gegenstand",
+        "citation": "Art. 1 Abs. 1 StReG",
+        "content": "Dieses Gesetz regelt die Bearbeitung von Daten von natürlichen Personen im elektronisch geführten Strafregister-Informationssystem VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 1. Titel: Gegenstand und Begriffe, Gegenstand",
+        "citation": "Art. 1 Abs. 2 StReG",
+        "content": "Es regelt namentlich:\na. die Aufgaben und Verantwortlichkeiten der registerführenden Behörden;\nb. die Zusammenarbeit der registerführenden Behörden mit Behörden, die ihre Daten selber eintragen, Daten zur Eintragung melden oder gegenüber den eintragenden Behörden Auskünfte erteilen müssen;\nc. die Sorgfaltspflichten bei der Datenbearbeitung;\nd. die Inhalte von VOSTRA;\ne. die Fristen für die Eintragung der Daten, deren Erscheinungsdauer in den Strafregisterauszügen und ihre Entfernung aus VOSTRA;\nf. die Kategorien der in die einzelnen Strafregisterauszüge aufzunehmenden Daten;\ng. die Rechte und Pflichten der Behörden, die VOSTRA-Daten online abfragen oder Auskünfte via schriftliches Gesuch verlangen dürfen oder denen VOSTRA-Daten automatisch weitergeleitet werden;\nh. die Schnittstellen zu anderen Datenbanken;\ni. die Einsichts- und Auskunftsrechte der betroffenen Personen;\nj. die Anforderungen an die Datensicherheit und an die technische Infrastruktur;\nk. die Verwendung von anonymisierten VOSTRA-Daten zu Forschungs-, Planungs- und Statistikzwecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 1. Titel: Gegenstand und Begriffe, Begriffe",
+        "citation": "Art. 2 StReG",
+        "content": "In diesem Gesetz bedeuten:\na. Grundurteil: strafrechtlicher Entscheid in der Sache, in dem festgestellt wird, dass ein bestimmtes Delikt begangen worden ist;\nb. nachträglicher Entscheid: strafrechtlicher Entscheid einer richterlichen Instanz oder einer Vollzugsbehörde, der die Neubeurteilung (Abänderung, Ergänzung, Aufhebung oder Bestätigung) einer rechtskräftigen Sanktionierung und deren Wirkungen zum Gegenstand hat, ohne dass dabei die der Sanktion zugrunde liegenden Delikte neu beurteilt werden;\nc. angeschlossene Behörde: Behörde, die über ein operatives Online-Abfrage- oder -Eintragungsrecht verfügt;\nd. Strafdaten: Daten von Grundurteilen und nachträglichen Entscheiden sowie Daten über hängige Strafverfahren;\ne. Strafdatenverwaltung: zentraler Programmteil von VOSTRA zur personenbezogenen Verwaltung der Strafdaten, der die Grundlage zur Erstellung von Auszügen bildet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_2"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 2. Titel: Aufgaben der registerführenden Behörden, Bundesamt für Justiz",
+        "citation": "Art. 3 Abs. 1 StReG",
+        "content": "Das Bundesamt für Justiz ist das für VOSTRA verantwortliche Bundesorgan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 2. Titel: Aufgaben der registerführenden Behörden, Bundesamt für Justiz",
+        "citation": "Art. 3 Abs. 2 StReG",
+        "content": "Die registerführende Stelle im Bundesamt für Justiz (registerführende Stelle) hat dabei folgende Aufgaben:\na. Sie koordiniert die Tätigkeiten der angeschlossenen Behörden.\nb. Sie erteilt und entzieht die Online-Zugangsrechte der einzelnen Nutzerinnen und Nutzer.\nc. Sie führt Kurse für Nutzerinnen und Nutzer der angeschlossenen Behörden durch.\nd. Sie unterstützt die Nutzerinnen und Nutzer bei der Lösung von Anwendungsproblemen.\ne. Sie sorgt für einen nutzerfreundlichen Betrieb und eine stetige Verbesserung der Funktionalität von VOSTRA.\nf. Sie erlässt Weisungen für die Führung und die Benutzung von VOSTRA, namentlich das Bearbeitungsreglement.\ng. Sie kontrolliert von Amtes wegen oder auf Gesuch einer betroffenen Person, ob die Daten vorschriftsgemäss bearbeitet werden und ob sie vollständig, richtig und nachgeführt sind; zu diesem Zweck ist sie berechtigt, auf die in der Datenschutzgesetzgebung vorgesehenen Protokolle sowie auf die automatisch protokollierten Abfragen (Art. 25) zuzugreifen.\nh. Sie berichtigt fehlerhafte Einträge in VOSTRA selbstständig oder fordert die verantwortlichen Stellen zur Berichtigung auf.\ni. Sie trifft gegenüber Nutzerinnen und Nutzern, die gegen Bearbeitungsvorschriften verstossen, die geeigneten Massnahmen, sei es eine Ermahnung, die Verpflichtung zum Besuch von Kursen oder der Entzug gewisser Online-Zugangsrechte; sie erstattet überdies Meldung an die vorgesetzte Stelle der Nutzerin oder des Nutzers sowie an die zuständigen Datenschutzorgane; bei Verdacht auf eine strafbare Handlung erstattet sie Anzeige bei den zuständigen Strafverfolgungsbehörden.\nj. Sie trägt folgende Daten in VOSTRA ein:\n1. Grundurteile und nachträgliche Entscheide, die ein Tätigkeitsverbot oder Kontakt- und Rayonverbot zum Gegenstand haben (Art. 6 Abs. 3);\n2. Daten, die ihr von Bundes- oder ausländischen Behörden gemeldet werden (Art. 6 Abs. 2 und 7 Abs. 1).\nk. Sie führt im Auftrag von eintragungspflichtigen Behörden (Art. 10 Abs. 3 Bst. b) oder von abfrageberechtigten Behörden (Art. 10 Abs. 6) Identitätsprüfungen durch.\nl. Sie beantragt bei der Zentralen Ausgleichsstelle die Zuweisung einer AHV-Nummer nach Artikel 50c des Bundesgesetzes vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung zu einer in VOSTRA registrierten Person (Art. 10 Abs. 4) und fügt die AHV-Nummer und die dazu gehörenden identifizierenden Merkmale in VOSTRA ein.\nm. Sie erstellt für nicht angeschlossene Bundesbehörden, ausländische Behörden und Privatpersonen Auszüge aus VOSTRA.\nn. Sie sorgt für die automatische Weiterleitung von VOSTRA-Daten gemäss den Artikeln 58–64 an die zuständigen Stellen.\no. Sie bearbeitet Ersuchen schweizerischer Behörden um Auszug aus einem ausländischen Strafregister (Art. 26 und 49).\np. Sie leitet die vom System aufbereiteten Rückfall- und Kontrollmeldungen an die zuständigen Behörden weiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 2. Titel: Aufgaben der registerführenden Behörden, Kantonale Koordinationsstellen",
+        "citation": "Art. 4 Abs. 1 StReG",
+        "content": "Jeder Kanton bestimmt für die Bearbeitung der Daten in VOSTRA eine Koordinationsstelle (KOST).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 2. Titel: Aufgaben der registerführenden Behörden, Kantonale Koordinationsstellen",
+        "citation": "Art. 4 Abs. 2 StReG",
+        "content": "Die KOST hat folgende Aufgaben:\na. Sie trägt die Daten in VOSTRA ein, die ihr von kantonalen Behörden gemeldet werden (Art. 6 Abs. 2 und 7 Abs. 2).\nb. Sie erstellt für nicht angeschlossene kantonale Behörden Auszüge aus VOSTRA.\nc. Sie ist für die registerführende Stelle die kantonale Ansprechstelle bezüglich der Einhaltung der Bestimmungen dieses Gesetzes, der Ausführungsverordnung und der gestützt darauf erlassenen Weisungen.\nd. Sie unterstützt die registerführende Stelle bei ihrer Kontrolle der Datenbearbeitung.\ne. Sie leitet die vom System aufbereiteten Rückfall- und Kontrollmeldungen an die zuständigen Behörden weiter.\nf. Sie unterstützt die Nutzerinnen und Nutzer in ihrem Kanton bei der Lösung von Anwendungsproblemen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 2. Titel: Aufgaben der registerführenden Behörden, Koordinationsstelle der Militärjustiz",
+        "citation": "Art. 5 StReG",
+        "content": "Die Koordinationsstelle der Militärjustiz hat folgende Aufgaben:\na. Sie trägt die Daten in VOSTRA ein, die ihr von den Militärjustizbehörden gemeldet werden (Art. 7 Abs. 3).\nb. Sie erstellt für die Militärjustizbehörden Auszüge aus VOSTRA.\nc. Sie ist für die registerführende Stelle die Ansprechstelle der Militärjustiz bezüglich der Einhaltung der Bestimmungen dieses Gesetzes, der Ausführungsverordnung und der gestützt darauf erlassenen Weisungen.\nd. Sie unterstützt die registerführende Stelle bei ihrer Kontrolle der Datenbearbeitung.\ne. Sie leitet die vom System aufbereiteten Rückfall- und Kontrollmeldungen an die zuständigen Behörden weiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_5"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Eintragungspflichtige Behörden",
+        "citation": "Art. 6 Abs. 1 StReG",
+        "content": "Die folgenden Behörden tragen ihre Daten in VOSTRA ein, sofern dies vom Bund oder vom Kanton so festgelegt worden ist:\na. die Strafgerichte, die kantonalen Staatsanwaltschaften, die Jugendstrafbehörden im Sinne der Artikel 6 Absatz 1 Buchstaben b und c sowie 7 der Jugendstrafprozessordnung vom 20. März 2009 (JStPO), die Bundesanwaltschaft und die Übertretungsstrafbehörden im Sinne von Artikel 12 Buchstabe c der Strafprozessordnung (StPO);\nb. die Verwaltungsbehörden des Bundes und der Kantone, die Strafverfahren durchführen oder Strafentscheide fällen;\nc. die Straf- und Massnahmenvollzugsbehörden;\nd. die kantonalen Ausländerbehörden, soweit sie für den Vollzug der Landesverweisung zuständig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Eintragungspflichtige Behörden",
+        "citation": "Art. 6 Abs. 2 StReG",
+        "content": "Legt der Bund oder der Kanton für die Behörden nach Absatz 1 keine Eintragungspflicht fest, so haben diese Behörden die Pflicht, ihre Daten der registerführenden Stelle oder der KOST zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Eintragungspflichtige Behörden",
+        "citation": "Art. 6 Abs. 3 StReG",
+        "content": "Die Behörden nach Absatz 1 Buchstaben a und c melden Grundurteile und nachträgliche Entscheide, die ein Tätigkeitsverbot oder Kontakt- und Rayonverbot zum Gegenstand haben, an die registerführende Stelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Meldepflichtige Behörden",
+        "citation": "Art. 7 Abs. 1 StReG",
+        "content": "Die folgenden Behörden melden ihre Daten der registerführenden Stelle:\na. die für die Begnadigung oder Amnestie zuständigen Behörden des Bundes;\nb. die nach Massgabe der einschlägigen völkerrechtlichen Verträge für Heimatstaatmeldungen zuständigen ausländischen Meldebehörden;\nc. die Schweizer Botschaften und Konsulate, die im Besitz von ausländischen Grundurteilen im Sinne von Artikel 19 sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Meldepflichtige Behörden",
+        "citation": "Art. 7 Abs. 2 StReG",
+        "content": "Die für die Begnadigung oder Amnestie zuständigen Behörden der Kantone melden ihre Daten der KOST.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Meldepflichtige Behörden",
+        "citation": "Art. 7 Abs. 3 StReG",
+        "content": "Die Militärgerichte, die Auditorinnen und Auditoren sowie die militärischen Untersuchungsrichterinnen und -richter melden ihre Daten der Koordinationsstelle der Militärjustiz. Vorbehalten sind die in Artikel 6 Absatz 3 genannten Fälle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Auskunftspflicht der Zivilstandsämter, Einwohnerkontrollen und Ausländerbehörden sowie der Zentralen Ausgleichsstelle",
+        "citation": "Art. 8 StReG",
+        "content": "Die Zivilstandsämter, die Einwohnerkontrollen, die Ausländerbehörden und die Zentrale Ausgleichsstelle sind verpflichtet, den registerführenden und den eintragungspflichtigen Behörden (Art. 3–6) zur Abklärung der zu bearbeitenden identifizierenden Merkmale kostenlos Auskunft zu geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_8"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 3. Titel: Behörden mit Eintragungs-, Melde- oder Auskunftspflichten, Auskunftspflicht der eintragungspflichtigen, der meldepflichtigen und der zugangsberechtigten Behörden",
+        "citation": "Art. 9 StReG",
+        "content": "Die eintragungspflichtigen, die meldepflichtigen und die zugangsberechtigten Behörden sind verpflichtet, der registerführenden Stelle die erforderlichen Auskünfte zu erteilen sowie Einblick in Dokumente zu gewähren, die Grundlage für die Eintragung oder Bekanntgabe von VOSTRA-Daten waren, soweit diese Auskünfte zur Durchführung der Kontrollen nach Artikel 3 Absatz 2 Buchstabe g nötig sind und keine überwiegenden öffentlichen Interessen entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_9"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 1 StReG",
+        "content": "Die Behörden, die Daten in VOSTRA eintragen oder der zuständigen Stelle melden, vergewissern sich, dass die Daten vollständig, richtig und nachgeführt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 2 StReG",
+        "content": "Hat die eintragende Behörde Zweifel an der Richtigkeit der Angaben oder sind diese unvollständig, so sendet sie die Meldung an die meldende Behörde zur Nachprüfung zurück oder beschafft sich durch Nachfragen die nötigen Ergänzungen. Sie kann für die Überprüfung eines Eintrags den Strafregisterauszug ausdrucken; dieser Ausdruck ist zu vernichten, sobald die Überprüfung der eingetragenen Daten durchgeführt worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 3 StReG",
+        "content": "Zweifelt eine Behörde, die Daten in VOSTRA einzutragen hat, ob die betroffene Person mit einer bereits in VOSTRA erfassten Person übereinstimmt, so hat sie die Pflicht, vor der Dateneintragung:\na. selber eine umfassende Identitätsabklärung durchzuführen und die entsprechenden Personalien mit den Daten der Zivilstandsämter, Einwohnerkontrollen, Ausländerbehörden und der Zentralen Ausgleichsstelle abzugleichen und gegebenenfalls die vorhandenen VOSTRA-Identitätsmerkmale zu berichtigen oder zu ergänzen; oder\nb. den Fall zur Abklärung der registerführenden Stelle zu übergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 4 StReG",
+        "content": "Die Eintragung von Daten hat zu erfolgen, auch wenn der entsprechenden Person noch keine AHV-Nummer zugewiesen worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 5 StReG",
+        "content": "Die registerführende Stelle überprüft periodisch die Richtigkeit sämtlicher in VOSTRA erfassten AHV-Nummern und der dazugehörigen Identifikationsdaten. Sie nutzt dazu die von der Zentralen Ausgleichsstelle zur Verfügung gestellten Webservices.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Eintragung, Abfrage und Meldung von Daten",
+        "citation": "Art. 10 Abs. 6 StReG",
+        "content": "Hat eine angeschlossene Behörde, die lediglich Daten aus VOSTRA abfragt, Zweifel, ob die gesuchte Person mit einer bereits in VOSTRA eingetragenen Person übereinstimmt, so kann sie von der registerführenden Stelle eine Identitätsprüfung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Änderung von Daten",
+        "citation": "Art. 11 Abs. 1 StReG",
+        "content": "Eine Behörde darf Daten in VOSTRA nur dann ändern oder entfernen, wenn die Daten von ihr oder in ihrem Namen eingetragen worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Änderung von Daten",
+        "citation": "Art. 11 Abs. 2 StReG",
+        "content": "Abweichungen von Absatz 1 sind in folgenden Fällen zugelassen:\na. Wird eine Strafuntersuchung an eine andere Behörde abgetreten, so darf die neu zuständige Behörde den Datensatz über hängige Strafverfahren ändern oder entfernen.\nb. Die registerführenden Behörden (Art. 3–5) dürfen sämtliche Daten ändern oder entfernen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für die Änderung von Daten",
+        "citation": "Art. 11 Abs. 3 StReG",
+        "content": "Der Bundesrat kann für die Änderung oder Entfernung identifizierender Angaben weitere Ausnahmen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für den Zugang zu Daten, die Aufbewahrung und die Weitergabe von Daten",
+        "citation": "Art. 12 Abs. 1 StReG",
+        "content": "Die Behörden, die über ein Zugangsrecht auf VOSTRA verfügen, sind nur insoweit zur Datenbearbeitung berechtigt, als sie diese Daten zur Erfüllung ihrer gesetzlichen Aufgaben benötigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für den Zugang zu Daten, die Aufbewahrung und die Weitergabe von Daten",
+        "citation": "Art. 12 Abs. 2 StReG",
+        "content": "Die aus VOSTRA bezogenen Strafdaten dürfen nicht in einer neuen Datenbank aufbewahrt werden, es sei denn, dies sei zur Begründung eines getroffenen Entscheides, einer erlassenen Verfügung oder eines eingeleiteten Verfahrensschritts notwendig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Sorgfaltsregeln für den Zugang zu Daten, die Aufbewahrung und die Weitergabe von Daten",
+        "citation": "Art. 12 Abs. 3 StReG",
+        "content": "Behörden dürfen die aus VOSTRA bezogenen Daten nur weitergeben, wenn sie für die Weitergabe über eine ausdrückliche formell-gesetzliche Grundlage verfügen und die Weitergabe zu demselben Zweck erfolgt, zu dem sie diese Daten erhalten haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Systematische Nutzung der AHV-Nummer",
+        "citation": "Art. 13 Abs. 1 StReG",
+        "content": "Die angeschlossenen Behörden sind berechtigt, die AHV-Nummer für die Erfüllung ihrer Aufgaben nach diesem Gesetz systematisch zu verwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Systematische Nutzung der AHV-Nummer",
+        "citation": "Art. 13 Abs. 2 StReG",
+        "content": "Die Verwendung der AHV-Nummer in VOSTRA erfolgt nur zu folgenden registerinternen Zwecken:\na. zur Identifizierung von Personen vor der Eintragung und der Abfrage von Daten;\nb. zum elektronischen Datenaustausch mit anderen Datenbanken, in denen die AHV-Nummer ebenfalls systematisch verwendet wird, sofern für einen solchen Datenaustausch mittels AHV-Nummer eine formell-gesetzliche Grundlage besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Systematische Nutzung der AHV-Nummer",
+        "citation": "Art. 13 Abs. 3 StReG",
+        "content": "Die Suchanfrage nach einer Person in der Datenbank «Unique Personal Identifier Database» (UPI) der Zentralen Ausgleichsstelle wird aus VOSTRA gestartet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 4. Titel: Bearbeitungsgrundsätze, Systematische Nutzung der AHV-Nummer",
+        "citation": "Art. 13 Abs. 4 StReG",
+        "content": "Die AHV-Nummer ist nur für die angeschlossenen Behörden einsehbar und darf anderen Behörden und Privaten nicht bekannt gegeben werden. Sie erscheint nicht auf den Strafregisterauszügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 5. Titel: Datensicherheit, technische Anforderungen, Weitergabe anonymisierter Daten, Datensicherheit und technische Anforderungen",
+        "citation": "Art. 14 StReG",
+        "content": "Der Bundesrat regelt die Anforderungen an die Datensicherheit und die technischen Anforderungen an VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_14"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 5. Titel: Datensicherheit, technische Anforderungen, Weitergabe anonymisierter Daten, Weitergabe anonymisierter Daten zu Forschungszwecken",
+        "citation": "Art. 15 StReG",
+        "content": "Der Bundesrat regelt die Weitergabe von Daten aus VOSTRA in anonymisierter Form zu Forschungszwecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_15"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Verzeichnete Personen",
+        "citation": "Art. 16 Abs. 1 StReG",
+        "content": "Eine erwachsene Person wird in VOSTRA verzeichnet, wenn:\na. gegen sie ein einzutragendes Grundurteil (Art. 18 Abs. 1 und 19 Bst. d Ziff. 1) vorliegt; oder\nb. gegen sie in der Schweiz ein Strafverfahren wegen Verbrechen oder Vergehen nach Bundesrecht hängig ist; dies gilt auch für ein Jugendstrafverfahren, das gegen einen Täter weitergeführt wird, der das 18. Altersjahr vollendet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Verzeichnete Personen",
+        "citation": "Art. 16 Abs. 2 StReG",
+        "content": "Eine Jugendliche oder ein Jugendlicher wird in VOSTRA verzeichnet, wenn:\na. gegen sie oder ihn ein einzutragendes Grundurteil (Art. 18 Abs. 2 und 3 und 19 Bst. d Ziff. 2) vorliegt; oder\nb. gegen sie oder ihn in der Schweiz ein Strafverfahren wegen Verbrechen oder Vergehen nach Bundesrecht hängig ist und sie oder er über keinen gewöhnlichen Aufenthalt in der Schweiz verfügt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Identifizierende Angaben zur Person",
+        "citation": "Art. 17 Abs. 1 StReG",
+        "content": "Der Datensatz zur Identifizierung einer Person enthält namentlich folgende Angaben:\na. AHV-Nummer und eine fortlaufende Systemnummer;\nabis. Prozesskontrollnummern, welche zur Kennzeichnung erkennungsdienstlicher Daten verwendet werden;\nb. Namen und Geburtsdatum;\nc. Geschlecht;\nd. Herkunft;\ne. Namen der Eltern;\nf. Wohnsitz;\ng. Aufenthaltsstatus;\nh. Bearbeitungsvermerke zur Identifizierung von Personen;\ni. Falschpersonalien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Identifizierende Angaben zur Person",
+        "citation": "Art. 17 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Eintragungsvoraussetzungen für schweizerische Grundurteile",
+        "citation": "Art. 18 Abs. 1 StReG",
+        "content": "Schweizerische Grundurteile, die ein von einer erwachsenen Person begangenes, im Bundesrecht geregeltes Delikt zum Gegenstand haben, sind einzutragen, wenn:\na. sie rechtskräftig sind;\nb. sie von einer zivilen oder militärischen Strafbehörde oder von einer Verwaltungsstrafbehörde ausgefällt worden sind; und\nc. eine der folgenden Voraussetzungen erfüllt ist:\n1. Schuldspruch wegen eines Verbrechens oder Vergehens; ausgenommen sind Urteile, die eine Verpflichtung zur Arbeitsleistung im öffentlichen Interesse gemäss Artikel 81 Absatz 3 oder 4 des Militärstrafgesetzes vom 13. Juni 1927 (MStG) oder Disziplinarstrafen nach MStG vorsehen sowie Schuldsprüche unter Absehen von einer Bestrafung nach Artikel 52 des Strafgesetzbuchs (StGB),\n2. Urteil gegen eine schuldunfähige Person wegen eines Verbrechens oder Vergehens, sofern eine der folgenden Massnahmen angeordnet worden ist:\n– therapeutische Massnahme oder Verwahrung (Art. 59–61, 63 und 64 StGB; Art. 47 MStG)\n– Tätigkeitsverbot (Art. 67 StGB; Art. 50 MStG) oder Kontakt- und Rayonverbot (Art. 67b StGB; Art. 50b MStG)\n– Fahrverbot (Art. 67e StGB; Art. 50e MStG)\n– Ausschluss aus der Armee (Art. 48 und 49 MStG),\n3. Schuldspruch wegen einer Übertretung, wenn:\n– eine Busse von mehr als 5000 Franken oder gemeinnützige Arbeit von mehr als 180 Stunden verhängt worden ist\n– die urteilende Behörde im entsprechenden Gesetz ausdrücklich ermächtigt oder verpflichtet wird, bei einer erneuten Widerhandlung eine Strafschärfung auszusprechen\n– die Übertretung Teil eines Urteils bildet, das andere einzutragende Delikte enthält\n– ein Tätigkeitsverbot (Art. 67 StGB; Art. 50 MStG) angeordnet worden ist oder\n– ein Kontakt- und Rayonverbot (Art. 67b StGB; Art. 50b MStG) angeordnet worden ist,\n4. Urteil gegen eine schuldunfähige Person wegen einer Übertretung, sofern ein Tätigkeitsverbot (Art. 67 StGB; Art. 50 MStG) oder ein Kontakt- und Rayonverbot (Art. 67b StGB; Art. 50b MStG) angeordnet worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Eintragungsvoraussetzungen für schweizerische Grundurteile",
+        "citation": "Art. 18 Abs. 2 StReG",
+        "content": "Schweizerische Grundurteile, die ein von einer oder einem Jugendlichen begangenes, im Bundesrecht geregeltes Verbrechen oder Vergehen zum Gegenstand haben, sind einzutragen, wenn:\na. sie rechtskräftig sind;\nb. sie von einer zivilen Strafbehörde ausgefällt worden sind; und\nc. eine der folgenden Sanktionen ausgesprochen worden ist:\n1. Freiheitsentzug (Art. 25 Jugendstrafgesetz vom 20. Juni 2003 [JStG]),\n2. Unterbringung (Art. 15 JStG),\n3. ambulante Behandlung (Art. 14 JStG),\n4. Tätigkeitsverbot (Art. 16a Abs. 1 JStG),\n5. Kontakt- und Rayonverbot (Art. 16a Abs. 2 JStG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Eintragungsvoraussetzungen für schweizerische Grundurteile",
+        "citation": "Art. 18 Abs. 3 StReG",
+        "content": "Schweizerische Grundurteile, die eine von einer oder einem Jugendlichen begangene, im Bundesrecht geregelte Übertretung zum Gegenstand haben, sind einzutragen, wenn diese mit einem Tätigkeitsverbot (Art. 16a Abs. 1 JStG) oder einem Kontakt- und Rayonverbot (Art. 16a Abs. 2 JStG) sanktioniert worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Eintragungsvoraussetzungen für ausländische Grundurteile",
+        "citation": "Art. 19 StReG",
+        "content": "Ausländische Grundurteile, die eine von einer Person schweizerischer Staatsangehörigkeit begangene Tat betreffen, sind einzutragen, wenn:\na. sie der registerführenden Stelle gemäss dem Europäischen Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen, gemäss einem bilateralen Staatsvertrag oder von einer Schweizer Vertretung im Ausland gemeldet werden;\nb. sie rechtskräftig sind;\nc. sie eine Tat betreffen, die nicht rein militärischer Natur ist; und\nd. eine der folgenden Sanktionen angeordnet wurde:\n1. bei einer erwachsenen Person:\n– Freiheitsstrafe von mindestens 30 Tagen (analog Art. 40–43 StGB), Geldstrafe von mindestens 30 Tagessätzen (analog Art. 34, 42 und 43 StGB) oder gemeinnützige Arbeit von mindestens 120 Stunden (analog Art. 37, 42, 43 und 107 StGB)\n– stationäre therapeutische Behandlung (analog Art. 59–61 StGB) oder Verwahrung (analog Art. 64 Abs. 1 und 1bis StGB)\n– Tätigkeitsverbot (analog Art. 67 StGB und Art. 50 MStG) oder Kontakt- und Rayonverbot (analog Art. 67b StGB und Art. 50b MStG),\n2. bei einer oder einem Jugendlichen:\n– Freiheitsentzug (analog Art. 25 JStG)\n– Unterbringung (analog Art. 15 JStG) oder ambulante Behandlung (analog Art. 14 JStG)\n– Tätigkeitsverbot (analog Art. 16a Abs. 1 JStG) oder Kontakt- und Rayonverbot (analog Art. 16a Abs. 2 JStG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_19"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Einzutragende Daten bei Grundurteilen",
+        "citation": "Art. 20 Abs. 1 StReG",
+        "content": "Bei einzutragenden Grundurteilen (Art. 16 Abs. 1 Bst. a und 2 Bst. a) werden folgende Daten des Urteilsdispositivs in VOSTRA eingetragen:\na. die identifizierenden Angaben zur Person (Art. 17);\nb. allgemeine Informationen wie namentlich das Datum des Grundurteils und die urteilende Behörde;\nc. Angaben zum Urteilstyp wie namentlich dazu, ob eine Zusatzstrafe oder eine Gesamtstrafe ausgesprochen wurde;\nd. Angaben zur Verfahrensart;\ne. Angaben zum Delikt; bei ausländischen Grundurteilen kann der Bundesrat eine vereinfachte Form der Eintragung vorsehen;\nf. Angaben zur Sanktion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Einzutragende Daten bei Grundurteilen",
+        "citation": "Art. 20 Abs. 2 StReG",
+        "content": "Bei einzutragenden Grundurteilen (Art. 16 Abs. 1 Bst. a und 2 Bst. a) werden für jede zu vollziehende Freiheitsstrafe oder freiheitsentziehende Massnahme das Ein- und Austrittsdatum in VOSTRA eingetragen, sofern gegen die betreffende Person in der Schweiz ein Tätigkeitsverbot oder Kontakt- und Rayonverbot nach StGB oder MStG ausgesprochen worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Einzutragende Daten bei Grundurteilen",
+        "citation": "Art. 20 Abs. 3 StReG",
+        "content": "Bei einzutragenden schweizerischen Grundurteilen mit Landesverweisung werden folgende Daten in VOSTRA eingetragen:\na. zur Berechnung der Frist nach Artikel 38 Absatz 4 Buchstabe d: das Datum, an dem die betroffene Person die Schweiz verlassen hat oder, sofern dieses nicht bekannt ist, das Datum, an dem sie die Schweiz hätte verlassen müssen;\nb. zur Berechnung der Frist nach Artikel 30 Absatz 2 Buchstabe n zweiter Teilsatz: die Gutheissung des Gesuchs einer seit mehr als 8 Jahren in der Schweiz eingebürgerten Person um Entfernung des Urteils nach den in Artikel 30 Absatz 2 Buchstaben a–m genannten Fristen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Einzutragende Daten bei Grundurteilen",
+        "citation": "Art. 20 Abs. 4 StReG",
+        "content": "Zusatz-, Teilzusatz- und Gesamtstrafenurteile werden für die Eintragung registerrechtlich als eigenständige Urteile behandelt. Ein Verweis auf bereits entfernte oder nicht einzutragende Entscheide ist zulässig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Einzutragende Daten bei Grundurteilen",
+        "citation": "Art. 20 Abs. 5 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden und die Referenzkategorien für die Eintragung der ausländischen Grundurteile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Nachträgliche Entscheide",
+        "citation": "Art. 21 Abs. 1 StReG",
+        "content": "In VOSTRA werden rechtskräftige nachträgliche Entscheide eingetragen, die auf ein einzutragendes Grundurteil Bezug nehmen, sofern sie im Zusammenhang stehen mit:\na. der Entlassung aus dem Strafvollzug, dem Vollzug einer therapeutischen Massnahme oder einer Verwahrung;\nb. der Nichtbewährung beim bedingten oder teilbedingten Strafvollzug;\nc. der Aufhebung, Änderung oder nachträglichen Anordnung einer therapeutischen Massnahme, einer Verwahrung oder einer Unterbringung oder ambulanten Behandlung;\nd. der Aufhebung, Änderung oder nachträglichen Anordnung eines Tätigkeitsverbots oder eines Kontakt- und Rayonverbots;\ne. der Begnadigung, Amnestie oder dem Exequatur;\nf. weiteren vom Bundesrat bezeichneten Fällen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Nachträgliche Entscheide",
+        "citation": "Art. 21 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Elektronische Kopien von Grundurteilen, nachträglichen Entscheiden und Meldeformularen",
+        "citation": "Art. 22 Abs. 1 StReG",
+        "content": "Von Grundurteilen (Art. 18) und nachträglichen Entscheiden (Art. 21), die in der Schweiz gegen eine erwachsene Person ergangen sind, wird eine elektronische Kopie des Originalentscheids im Volltext in VOSTRA gespeichert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Elektronische Kopien von Grundurteilen, nachträglichen Entscheiden und Meldeformularen",
+        "citation": "Art. 22 Abs. 2 StReG",
+        "content": "Bei ausländischen Grundurteilen und nachträglichen Entscheiden (Art. 19 und 21) wird die elektronische Kopie des Meldeformulars in VOSTRA gespeichert. Wird nur das Original des Grundurteils oder des nachträglichen Entscheids gemeldet, so wird keine elektronische Kopie erstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Automatisch generierte Systemdaten im Bereich der Strafdatenverwaltung",
+        "citation": "Art. 23 Abs. 1 StReG",
+        "content": "Ist eine Person in VOSTRA eingetragen, so generiert VOSTRA im Bereich der Strafdatenverwaltung automatisch Systemdaten, insbesondere:\na. Angaben zur Urheberschaft bei Ersteintragung und Mutation von Datensätzen;\nb. Rückfallmeldungen an die zuständigen Strafjustiz- oder Vollzugsbehörden bei Probezeitverletzungen;\nc. Kontrollmeldungen bei Ablauf bestimmter Fristen zur Überprüfung von Ereignissen, die Einfluss auf die Aufbewahrungsdauer der Daten haben können;\nd. Kontrollmeldungen betreffend die fehlende Zuteilung einer AHV-Nummer;\ne.  Kontrollmeldungen für die Eingabe der Vollzugszeiten nach Artikel 20 Absatz 2;\nf. Angaben zur Dauer des Erscheinens von Einträgen in den Strafregisterauszügen.\ng. Angaben zum voraussichtlichen Ende von Tätigkeitsverboten, von Kontakt- und Rayonverboten oder von Landesverweisungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Automatisch generierte Systemdaten im Bereich der Strafdatenverwaltung",
+        "citation": "Art. 23 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt den genauen Inhalt der Meldungen und welche Daten in welcher Form generiert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Hängige Strafverfahren",
+        "citation": "Art. 24 Abs. 1 StReG",
+        "content": "Strafverfahren im Sinne von Artikel 16 Absätze 1 Buchstabe b und 2 Buchstabe b werden in VOSTRA als hängig eingetragen, sobald:\na. die Verfahrensleitung die Untersuchung eröffnet (Art. 309 Abs. 1 StPO, Art. 103 Abs. 1 des Militärstrafprozesses vom 23. März 1979, Art. 38 Abs. 1 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht);\nb. ein Strafbefehl ohne Eröffnung einer Untersuchung erlassen wird; oder\nc. ein Jugendstrafverfahren gegen einen Täter weitergeführt wird, der das 18. Altersjahr vollendet und seinen gewöhnlichen Aufenthalt in der Schweiz hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Hängige Strafverfahren",
+        "citation": "Art. 24 Abs. 2 StReG",
+        "content": "Es werden folgende Daten eingetragen:\na. die identifizierenden Angaben zur beschuldigten Person (Art. 17);\nb. das Datum, an dem die Untersuchung eröffnet wurde, oder das Datum, an dem der Strafbefehl ohne Eröffnung einer Untersuchung (Art. 309 Abs. 4 StPO) ausgefällt wurde;\nc. die zuständige Verfahrensleitung;\nd. das der beschuldigten Person vorgeworfene Delikt;\ne. erhebliche Änderungen in den Tatsachen nach den Buchstaben a–d, insbesondere die Abtretung des Verfahrens sowie die Änderung der Beschuldigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 1. Kapitel: Eingetragene Daten im Bereich Strafdatenverwaltung, Hängige Strafverfahren",
+        "citation": "Art. 24 Abs. 3 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden und wer für die Eintragung von Abtretungen zuständig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Automatische Protokollierung von Abfragen zugangsberechtigter Behörden",
+        "citation": "Art. 25 Abs. 1 StReG",
+        "content": "Fragt eine Behörde online Strafdaten in VOSTRA ab, werden automatisch der Name dieser Behörde, das Datum und die Uhrzeit der Abfrage, ihr Zweck, die abgefragten Strafdaten und die Personalien der betroffenen Person in VOSTRA protokolliert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Automatische Protokollierung von Abfragen zugangsberechtigter Behörden",
+        "citation": "Art. 25 Abs. 2 StReG",
+        "content": "Abfragen durch die registerführenden Behörden werden nur dann automatisch in VOSTRA protokolliert, wenn die Abfrage zur Ersterfassung von Strafdaten oder zur Auszugserstellung aufgrund eines schriftlichen Gesuchs einer Behörde erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Automatische Protokollierung von Abfragen zugangsberechtigter Behörden",
+        "citation": "Art. 25 Abs. 3 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form protokolliert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Automatische Protokollierung von Abfragen zugangsberechtigter Behörden",
+        "citation": "Art. 25 Abs. 4 StReG",
+        "content": "Die protokollierten Daten dürfen nur im Rahmen der Ausübung des Auskunftsrechts (Art. 57) oder zur Durchführung von Kontrollen durch die registerführende Stelle (Art. 3 Abs. 2 Bst. g) verwendet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Online-Bestellung von Auszügen aus einem ausländischen Strafregister",
+        "citation": "Art. 26 Abs. 1 StReG",
+        "content": "In VOSTRA werden Daten über die Online-Bestellung von Auszügen aus einem ausländischen Strafregister eingetragen und verarbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Online-Bestellung von Auszügen aus einem ausländischen Strafregister",
+        "citation": "Art. 26 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, welche Daten in welcher Form eingetragen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen",
+        "citation": "Art. 27 Abs. 1 StReG",
+        "content": "Personenbezogene Daten, welche die Bestellung von Privatauszügen (Art. 41) oder Sonderprivatauszügen (Art. 42) betreffen, werden in VOSTRA sowie in einer separaten Hilfsdatenbank eingetragen und verarbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen",
+        "citation": "Art. 27 Abs. 2 StReG",
+        "content": "In der Hilfsdatenbank werden keine besonders schützenswerten Personendaten eingetragen. Die Hilfsdatenbank dient lediglich der Abwicklung der Bestellungen und enthält Daten zur Identifizierung und Lokalisierung der bestellenden Person, zum Bestellvorgang, zur Auftragsverarbeitung, zur Bezahlung der Gebühren, zum Versand der Auszüge und zur Erklärung nach Artikel 55 Absatz 4. Der Bundesrat bestimmt, welche Daten in welcher Form eingetragen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen",
+        "citation": "Art. 27 Abs. 3 StReG",
+        "content": "Gewisse Daten aus der Hilfsdatenbank werden im Rahmen der Auszugsverarbeitung mittels Schnittstelle in VOSTRA übernommen. Der Bundesrat bestimmt die Daten und regelt die genaue Ausgestaltung dieses Übernahmeprozesses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 2. Kapitel: Eingetragene Daten ausserhalb der Strafdatenverwaltung, Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen",
+        "citation": "Art. 27 Abs. 4 StReG",
+        "content": "Zusätzlich wird in VOSTRA eine elektronische Kopie des ausgefertigten Auszugs gespeichert; diese kann auch Strafdaten enthalten. Diese Auszugskopien dienen zur Verifikation der Echtheit ausgestellter Auszüge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 3. Kapitel: Fristen für die Eintragung von Daten in VOSTRA",
+        "citation": "Art. 28 StReG",
+        "content": "Der Bundesrat regelt die Fristen, innerhalb derer die einzelnen Datenkategorien in VOSTRA eingetragen werden müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_28"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung bei Tod",
+        "citation": "Art. 29 Abs. 1 StReG",
+        "content": "Sämtliche Daten einer Person werden aus VOSTRA entfernt, sobald der Tod dieser Person von einer Behörde gemeldet oder von der registerführenden Stelle selber festgestellt worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung bei Tod",
+        "citation": "Art. 29 Abs. 2 StReG",
+        "content": "Für diese Todesfallmeldungen können Schnittstellen zum Personenstandsregister (Art. 66) und zum zentralen Migrationsinformationssystem ZEMIS (Art. 65) eingerichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung bei Tod",
+        "citation": "Art. 29 Abs. 3 StReG",
+        "content": "Vollendet eine eingetragene Person gemäss den eingetragenen Personalien das 80. Altersjahr, so überprüft die registerführende Stelle, ob die Person noch am Leben ist. Die Überprüfung wird danach alle fünf Jahre wiederholt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung bei Tod",
+        "citation": "Art. 29 Abs. 4 StReG",
+        "content": "Vollendet eine Person ausländischer Staatsangehörigkeit ohne Aufenthalt in der Schweiz gemäss den eingetragenen Personalien das 100. Altersjahr, so werden ihre sämtlichen Daten aus VOSTRA entfernt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung von Grundurteilen",
+        "citation": "Art. 30 Abs. 1 StReG",
+        "content": "Schweizerische und ausländische Grundurteile werden aus VOSTRA entfernt, sobald bei allen eingetragenen Grundurteilen, die sich auf die gleiche Person beziehen, die entsprechenden Fristen abgelaufen sind. Vorbehalten bleibt Absatz 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung von Grundurteilen",
+        "citation": "Art. 30 Abs. 2 StReG",
+        "content": "Es gelten folgende Fristen:\na. Für Grundurteile, die eine unbedingte oder eine nachträglich widerrufene bedingte oder teilbedingte Freiheitsstrafe enthalten, gelten über die gerichtlich zugemessene Strafdauer hinaus folgende Fristen:\n1. 25 Jahre bei einer Freiheitsstrafe von mindestens fünf Jahren;\n2. 20 Jahre bei einer Freiheitsstrafe von mindestens einem und weniger als fünf Jahren;\n3. 15 Jahre bei einer Freiheitsstrafe unter einem Jahr;\n4. 12 Jahre bei Freiheitsentzug nach Artikel 25 JStG.\nb. Die Fristen nach Buchstabe a verlängern sich um die Dauer einer bereits eingetragenen Freiheitsstrafe oder eines bereits eingetragenen Freiheitsentzugs.\nc. Für Grundurteile, die eine lebenslängliche Freiheitsstrafe oder einen Schuldspruch wegen eines der in den folgenden Bestimmungen aufgeführten Straftaten enthalten, gilt ungeachtet der anderen Fristen dieses Absatzes eine Frist bis zum Tod der betreffenden Person:\n1. StGB: Artikel 111, 112, 122, 140 Ziffer 4, 182 Absatz 2, 185 Ziffer 2 und 3, 187 Ziffer 1, 189 Absatz 3, 190, 191, 221 Absatz 2 und 264–264j;\n2. MStG: Artikel 108–114, 115, 116, 121, 132 Ziffer 4, 151c Ziffer 2 und 3, 153 Absatz 2, 154, 155, 156 Ziffer 1 und 160 Absatz 2.\nd. Für Grundurteile, die eine nicht nachträglich widerrufene bedingte oder teilbedingte Freiheitsstrafe, eine Geldstrafe, gemeinnützige Arbeit oder eine Busse gegen Erwachsene enthalten, gilt eine Frist von 15 Jahren.\ne. Für Grundurteile, die einen nicht nachträglich widerrufenen bedingten oder teilbedingten Freiheitsentzug nach Artikel 25 JStG enthalten, gilt eine Frist von 10 Jahren.\nf. Für Grundurteile, die einen Schuldspruch unter Absehen von einer Bestrafung enthalten, gilt eine Frist von 15 Jahren.\ng. Für Grundurteile, die eine stationäre Massnahme neben einer Strafe, eine stationäre Massnahme allein oder eine Massnahme, die nachträglich in eine stationäre Massnahme umgewandelt wurde, enthalten oder bei denen eine stationäre Massnahme erst nachträglich angeordnet wurde (Art. 65 StGB), gelten folgende Fristen:\n1. 20 Jahre bei Massnahmen nach den Artikeln 59–61 und 64 StGB;\n2. 12 Jahre bei geschlossener Unterbringung nach Artikel 15 Absatz 2 JStG;\n3. 10 Jahre bei offener Unterbringung in einer Einrichtung oder bei Privatpersonen nach Artikel 15 Absatz 1 JStG.\nh. Die Fristen nach Buchstabe g verlängern sich um die Dauer eines Strafrestes, unabhängig davon, ob Letzterer vollzogen wird oder nicht.\ni. Für Grundurteile, die eine ambulante Behandlung nach Artikel 63 StGB allein oder nur in Kombination mit einer in Buchstabe k genannten Massnahme enthalten, gilt eine Frist von 15 Jahren; vorbehalten bleibt Buchstabe g.\nj. Für Grundurteile, die eine ambulante Behandlung nach Artikel 14 JStG enthalten, gilt eine Frist von 8 Jahren, sofern eine Fristberechnung nach den Buchstaben a–h nicht möglich ist.\nk. Für Grundurteile, die eine Friedensbürgschaft, ein Tätigkeitsverbot nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG, ein Fahrverbot oder einen Ausschluss aus der Armee nach Artikel 48 MStG allein enthalten, gilt eine Frist von 15 Jahren.\nl. Wird im schweizerischen Exequaturentscheid zu einem ausländischen Grundurteil eine geringere Sanktion ausgesprochen, so ist für die Fristberechnung diese Sanktion massgebend.\nm. Für Grundurteile, die ein Tätigkeitsverbot nach Artikel 67 Absatz 2, 3 oder 4 StGB, Artikel 50 Absatz 2, 3 oder 4 MStG oder Artikel 16a Absatz 1 JStG oder ein Kontakt- und Rayonverbot enthalten oder bei denen ein solches Verbot in einem nachträglichen Entscheid angeordnet wurde, gilt eine Frist von 15 Jahren; sind die Fristen nach den Buchstaben a–l und n länger, so sind diese massgebend.\nn. Für Grundurteile, die eine Landesverweisung enthalten, gilt eine Frist bis zum Tod der betroffenen Person; erwirbt diese Person das Schweizer Bürgerrecht, so kann sie acht Jahre nach der Einbürgerung bei der registerführenden Stelle ein Gesuch um Entfernung des Grundurteils gemäss den Fristen nach den Buchstaben a–m stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung von Grundurteilen",
+        "citation": "Art. 30 Abs. 3 StReG",
+        "content": "Der Fristenlauf nach Absatz 2 beginnt:\na. bei Grundurteilen nach Absatz 2 Buchstaben a, c–f und k: mit dem Tag, an dem das Urteil rechtskräftig wird;\nb. bei Grundurteilen nach Absatz 2 Buchstaben g, i und j: mit dem Tag, an dem die im Grundurteil angeordnete Massnahme aufgehoben wird, an dem die betroffene Person endgültig aus dieser Massnahme entlassen wird oder an dem auf deren Durchführung verzichtet wird (Art. 64 Abs. 3 und 64c Abs. 6 StGB); wird die im Grundurteil angeordnete Massnahme in eine stationäre Massnahme umgewandelt, so beginnt der Fristenlauf, wenn die zuletzt angeordnete stationäre Massnahme endet;\nc. bei Grundurteilen nach Absatz 2 Buchstabe m erster Teilsatz: mit dem Tag, an dem das zuletzt endende Verbot abgelaufen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung von Grundurteilen",
+        "citation": "Art. 30 Abs. 4 StReG",
+        "content": "Ergeht infolge einer Revision, einer Neubeurteilung im Rahmen eines Abwesenheitsverfahrens oder einer Wiederaufnahme ein neues Urteil, so wird der Fristenlauf so berechnet, als ob das neue Urteil bereits im Zeitpunkt des aufgehobenen Urteils gefällt worden wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung von Grundurteilen",
+        "citation": "Art. 30 Abs. 5 StReG",
+        "content": "Ein Grundurteil wird unverzüglich entfernt, wenn es aufgehoben wurde. Bei Aufhebung des Urteils infolge Revision oder Neubeurteilung im Rahmen eines Abwesenheitsverfahrens ist ein Verweis auf den aufgehobenen Entscheid zulässig, sofern dies für die Berechnung der Entfernungsfrist des neuen Urteils nötig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung nachträglicher Entscheide, automatisch generierter Systemdaten oder elektronischer Kopien",
+        "citation": "Art. 31 Abs. 1 StReG",
+        "content": "Daten betreffend nachträgliche Entscheide (Art. 21), automatisch generierte Systemdaten (Art. 23) oder elektronische Kopien (Art. 22) werden entfernt, sobald die Daten nach Artikel 16, auf die sie Bezug nehmen, aus VOSTRA entfernt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung nachträglicher Entscheide, automatisch generierter Systemdaten oder elektronischer Kopien",
+        "citation": "Art. 31 Abs. 2 StReG",
+        "content": "Ein nachträglicher Entscheid und dessen elektronische Kopie werden schon vor dem Grundurteil entfernt, wenn der Entscheid aufgehoben wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung nachträglicher Entscheide, automatisch generierter Systemdaten oder elektronischer Kopien",
+        "citation": "Art. 31 Abs. 3 StReG",
+        "content": "Automatisch generierte Systemdaten, die eine automatische Anfrage bei einer anderen Behörde auslösen, werden entfernt, sobald die entsprechende Anfrage von der zuständigen Behörde beantwortet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung hängiger Strafverfahren",
+        "citation": "Art. 32 Abs. 1 StReG",
+        "content": "Daten über hängige Strafverfahren (Art. 24) werden aus VOSTRA entfernt, sobald das Strafverfahren mit einem rechtskräftigen Entscheid abgeschlossen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung hängiger Strafverfahren",
+        "citation": "Art. 32 Abs. 2 StReG",
+        "content": "Wird das Strafverfahren sistiert, so bleibt die Eintragung bis zur Einstellung in VOSTRA verzeichnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung hängiger Strafverfahren",
+        "citation": "Art. 32 Abs. 3 StReG",
+        "content": "Urteilende Behörden, die einen Endentscheid nach Absatz 1 fällen, stellen sicher, dass die Eintragung eines hängigen Strafverfahrens aus VOSTRA entfernt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Entfernung der anderen Daten",
+        "citation": "Art. 33 StReG",
+        "content": "Die anderen Daten werden aus VOSTRA wie folgt entfernt:\na. Daten aus automatisch protokollierten Abfragen zugangsberechtigter Behörden (Art. 25): 2 Jahre nach erfolgter Abfrage;\nb. Daten betreffend eine Online-Bestellung eines Auszugs aus einem ausländischen Strafregister (Art. 26): sobald die Anfrage vom Ausland beantwortet wird, spätestens aber 1 Jahr nach Eintragung des Ersuchens in VOSTRA;\nc. Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen (Art. 27): 2 Jahre nach der Bestellung der Auszüge aus VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_33"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Vernichtung der entfernten Daten und Archivierungsverbot",
+        "citation": "Art. 34 Abs. 1 StReG",
+        "content": "Strafregisterdaten werden mit der Entfernung aus VOSTRA nach den Artikeln 29–33 vernichtet und nicht archiviert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 6. Titel: Inhalt von VOSTRA, 4. Kapitel:, Entfernung von Daten aus VOSTRA und Archivierungsverbot, Vernichtung der entfernten Daten und Archivierungsverbot",
+        "citation": "Art. 34 Abs. 2 StReG",
+        "content": "Nach ihrer Entfernung aus VOSTRA dürfen die Daten nicht mehr rekonstruierbar sein. Einzig die Protokollierung von Daten im Sinne von Artikel 25 ist bis zur Entfernung nach Artikel 33 Buchstabe a auch dann zulässig, wenn Daten aus der Strafdatenverwaltung von VOSTRA entfernt worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Funktion der Auszugsarten als Zugangsprofile",
+        "citation": "Art. 35 Abs. 1 StReG",
+        "content": "Der Zugang zu Daten aus VOSTRA durch Behörden und Private (Art. 43–56) erfolgt anhand vordefinierter Zugangsprofile (Art. 37–42).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Funktion der Auszugsarten als Zugangsprofile",
+        "citation": "Art. 35 Abs. 2 StReG",
+        "content": "Im Bereich der Strafdatenverwaltung ist jedem Zugangsprofil ein eigener Strafregisterauszug zugeordnet, der online angezeigt oder gedruckt werden kann. Der Bundesrat regelt, inwieweit sich der gedruckte Auszug vom Online-Auszug unterscheidet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Funktion der Auszugsarten als Zugangsprofile",
+        "citation": "Art. 35 Abs. 3 StReG",
+        "content": "Behörden, die über ein Online-Zugangsrecht verfügen, das nicht operativ ist, können einen Strafregisterauszug, der ihrem Zugangsprofil entspricht, auf schriftliches Gesuch hin beziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Fristenberechnung für Sanktionen aus altrechtlichen oder ausländischen Urteilen",
+        "citation": "Art. 36 Abs. 1 StReG",
+        "content": "Die in den Artikeln 37–42 formulierten Fristen für das Erscheinen eines Eintrags in einem Strafregisterauszug finden auf Sanktionen, die in altrechtlichen oder in ausländischen Urteilen ausgesprochen worden sind, analoge Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Fristenberechnung für Sanktionen aus altrechtlichen oder ausländischen Urteilen",
+        "citation": "Art. 36 Abs. 2 StReG",
+        "content": "Bei ausländischen Grundurteilen wird die Dauer eines Tätigkeitsverbots oder Kontakt- und Rayonverbots nach der im Grundurteil angegebenen Dauer berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 1. Abschnitt: Allgemeine Bestimmungen, Fristenberechnung für Sanktionen aus altrechtlichen oder ausländischen Urteilen",
+        "citation": "Art. 36 Abs. 3 StReG",
+        "content": "Landesverweisungen, die in ausländischen Grundurteilen ausgesprochen werden, sind für die Berechnung der Fristen unbeachtlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 1",
+        "citation": "Art. 37 Abs. 1 StReG",
+        "content": "Der Behördenauszug 1 vermittelt Zugang zu folgenden Daten:\na. identifizierende Angaben zur Person (Art. 17);\nb. Grundurteile (Art. 18–20);\nc. nachträgliche Entscheide (Art. 21);\nd. soweit vorhanden die elektronischen Kopien der Grundurteile, nachträglichen Entscheide und Meldeformulare (Art. 22); vorbehalten sind die in den Artikeln 45 Absatz 2 und 52 Absatz 3 vorgesehenen Ausnahmen in Bezug auf die Informationsvermittlung ans Ausland;\ne. hängige Strafverfahren (Art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 1",
+        "citation": "Art. 37 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, in welche automatisch generierten Systemdaten (Art. 23) Einblick gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 1",
+        "citation": "Art. 37 Abs. 3 StReG",
+        "content": "Die Daten nach den Absätzen 1 und 2 erscheinen nach Ablauf der in den Artikeln 29–32 geregelten Entfernungsfristen nicht mehr im Behördenauszug 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 2",
+        "citation": "Art. 38 Abs. 1 StReG",
+        "content": "Der Behördenauszug 2 vermittelt Zugang zu den Daten gemäss dem Behördenauszug 1 (Art. 37 Abs. 1), mit Ausnahme der elektronischen Kopien von Grundurteilen und von nachträglichen Entscheiden nach Artikel 22 Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 2",
+        "citation": "Art. 38 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, in welche automatisch generierten Systemdaten (Art. 23) Einblick gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 2",
+        "citation": "Art. 38 Abs. 3 StReG",
+        "content": "Einträge, die sich auf ein Grundurteil beziehen, erscheinen nach den folgenden Regeln nicht mehr im Behördenauszug 2:\na. Grundurteile, die eine unbedingte oder eine nachträglich widerrufene bedingte oder teilbedingte Freiheitsstrafe enthalten, erscheinen nicht mehr im Auszug, wenn über die gerichtlich zugemessene Strafdauer hinaus folgende Fristen verstrichen sind:\n1. 20 Jahre bei einer Freiheitsstrafe von mindestens fünf Jahren;\n2. 15 Jahre bei einer Freiheitsstrafe von mindestens einem und weniger als fünf Jahren;\n3. 10 Jahre bei einer Freiheitsstrafe unter einem Jahr;\n4. 10 Jahre bei Freiheitsentzug nach Artikel 25 JStG.\nb. Die Fristen nach Buchstabe a verlängern sich um die Dauer einer bereits eingetragenen Freiheitsstrafe oder eines bereits eingetragenen Freiheitsentzugs.\nc. Grundurteile, die eine lebenslängliche Freiheitsstrafe enthalten, erscheinen bis zum Tod der betroffenen Person im Auszug.\nd. Grundurteile, die eine nicht nachträglich widerrufene bedingte oder teilbedingte Freiheitsstrafe, eine Geldstrafe, gemeinnützige Arbeit oder eine Busse gegen Erwachsene enthalten, erscheinen nach 10 Jahren nicht mehr im Auszug.\ne. Grundurteile, die einen nicht nachträglich widerrufenen bedingten oder teilbedingten Freiheitsentzug nach Artikel 25 JStG enthalten, erscheinen nach 7 Jahren nicht mehr im Auszug.\nf. Grundurteile, die einen Schuldspruch unter Absehen von einer Bestrafung enthalten, erscheinen nach 10 Jahren nicht mehr im Auszug.\ng. Grundurteile, die eine stationäre Massnahme neben einer Strafe, eine stationäre Massnahme allein oder eine Massnahme, die nachträglich in eine stationäre Massnahme umgewandelt wurde, enthalten oder bei denen eine stationäre Massnahme erst nachträglich angeordnet wurde (Art. 65 StGB), erscheinen nicht mehr im Auszug nach:\n1. 15 Jahren bei Massnahmen nach den Artikeln 59–61 und 64 StGB;\n2. 10 Jahren bei geschlossener Unterbringung nach Artikel 15 Absatz 2 JStG;\n3. 7 Jahren bei offener Unterbringung in einer Einrichtung oder bei Privatpersonen nach Artikel 15 Absatz 1 JStG.\nh. Die Fristen nach Buchstabe g verlängern sich um die Dauer eines Strafrestes, unabhängig davon, ob Letzterer vollzogen wird oder nicht.\ni. Grundurteile, die eine ambulante Behandlung nach Artikel 63 StGB allein oder nur in Kombination mit einer in Buchstabe k genannten Massnahme enthalten, erscheinen nach 10 Jahren nicht mehr im Auszug; vorbehalten bleibt Buchstabe g.\nj. Grundurteile, die eine ambulante Behandlung nach Artikel 14 JStG enthalten, erscheinen nach 5 Jahren nicht mehr im Auszug, sofern eine Fristberechnung nach den Buchstaben a–h nicht möglich ist.\nk. Grundurteile, die eine Friedensbürgschaft, ein Tätigkeitsverbot nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG, ein Fahrverbot oder einen Ausschluss aus der Armee nach Artikel 48 MStG allein enthalten, erscheinen nach 10 Jahren nicht mehr im Auszug.\nl. Wird im schweizerischen Exequaturentscheid zu einem ausländischen Grundurteil eine geringere Sanktion ausgesprochen, so ist für die Fristberechnung diese Sanktion massgebend.\nm. Grundurteile, die ein Tätigkeitsverbot nach Artikel 67 Absatz 2, 3 oder 4 StGB, Artikel 50 Absatz 2, 3 oder 4 MStG oder Artikel 16a Absatz 1 JStG oder ein Kontakt- und Rayonverbot enthalten oder bei denen ein solches Verbot in einem nachträglichen Entscheid angeordnet wurde, erscheinen nach 10 Jahren nicht mehr im Auszug; sind die Fristen nach den Buchstaben a–l und n länger, so sind diese massgebend.\nn. Grundurteile, die eine Landesverweisung enthalten, erscheinen so lange im Auszug, wie die betroffene Person mit einer Landesverweisung belegt ist; sind die Fristen nach Buchstaben a–m länger, so sind diese massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 2",
+        "citation": "Art. 38 Abs. 4 StReG",
+        "content": "Der Fristenlauf nach Absatz 3 beginnt:\na. bei Grundurteilen nach Absatz 3 Buchstaben a, c–f und k: mit dem Tag, an dem das Urteil rechtskräftig wird;\nb. bei Grundurteilen nach Absatz 3 Buchstaben g, i und j: mit dem Tag, an dem die im Grundurteil angeordnete Massnahme aufgehoben wird, an dem die betroffene Person endgültig aus dieser Massnahme entlassen wird oder an dem auf deren Durchführung verzichtet wird (Art. 64 Abs. 3 und 64c Abs. 6 StGB); wird die im Grundurteil angeordnete Massnahme in eine stationäre Massnahme umgewandelt, so beginnt der Fristenlauf, wenn die zuletzt angeordnete stationäre Massnahme endet;\nc. bei Grundurteilen nach Absatz 3 Buchstabe m erster Teilsatz: mit dem Tag, an dem das zuletzt endende Verbot abgelaufen ist;\nd. bei Grundurteilen nach Absatz 3 Buchstabe n: mit dem Tag, an dem die betroffene Person die Schweiz verlassen hat oder, sofern dieser nicht bekannt ist, mit dem Tag, an dem sie die Schweiz hätte verlassen müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 2",
+        "citation": "Art. 38 Abs. 5 StReG",
+        "content": "Ergeht infolge einer Revision, einer Neubeurteilung im Rahmen eines Abwesenheitsverfahrens oder einer Wiederaufnahme ein neues Urteil oder ein neuer Entscheid, so wird der Fristenlauf so berechnet, als ob das neue Urteil oder der neue Entscheid bereits im Zeitpunkt des aufgehobenen Entscheides gefällt worden wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 3",
+        "citation": "Art. 39 StReG",
+        "content": "Der Behördenauszug 3 vermittelt Zugang zu den Daten des Behördenauszugs 2 (Art. 38), mit Ausnahme der Daten über hängige Strafverfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_39"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 4",
+        "citation": "Art. 40 Abs. 1 StReG",
+        "content": "Der Behördenauszug 4 vermittelt Zugang zu folgenden Daten:\na. identifizierende Angaben zur Person (Art. 17);\nb. schweizerische Grundurteile gegen Erwachsene (Art. 18 Abs. 1), sofern:\n1. für ein Verbrechen oder Vergehen eine Sanktion ausgesprochen wurde,\n2. eine Übertretung mit einem Tätigkeitsverbot oder einem Kontakt- und Rayonverbot sanktioniert wurde;\nc. ausländische Grundurteile gegen Erwachsene (Art. 19 Bst. d Ziff. 1);\nd. schweizerische und ausländische Grundurteile gegen Jugendliche (Art. 18 Abs. 2 und 3 und Art. 19 Bst. d Ziff. 2), wenn diese als Erwachsene wegen weiterer Taten verurteilt wurden, die in den Behördenauszug 4 aufzunehmen sind; dies gilt auch bei gemischten Urteilen im Sinne von Artikel 3 Absatz 2 JStG;\ne. nachträgliche Entscheide (Art. 21) und elektronische Kopien von Meldeformularen (Art. 22 Abs. 2), die sich auf ein in den Behördenauszug 4 aufzunehmendes Grundurteil beziehen;\nf. hängige Strafverfahren (Art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 4",
+        "citation": "Art. 40 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, in welche automatisch generierten Systemdaten (Art. 23) Einblick gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Behördenauszug 4",
+        "citation": "Art. 40 Abs. 3 StReG",
+        "content": "Einträge, die sich auf ein Grundurteil beziehen, erscheinen nach den folgenden Regeln nicht mehr im Behördenauszug 4:\na. Grundurteile, die eine Sanktion enthalten, erscheinen nicht mehr im Auszug, wenn zwei Drittel der nach Artikel 38 Absatz 3 Buchstaben a–l massgebenden Dauer abgelaufen sind; sie erscheinen aber mindestens bis zum Ende einer im Grundurteil angeordneten Landesverweisung und mindestens bis zum Ablauf eines in diesem Urteil oder später angeordneten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG; bei lebenslänglicher Freiheitsstrafe erscheint der Eintrag bis zum Tod.\nb. Grundurteile, die eine nicht nachträglich widerrufene bedingte oder teilbedingte Strafe enthalten, ohne dass gleichzeitig oder nachträglich eine stationäre Massnahme angeordnet worden ist, erscheinen nicht mehr im Auszug, wenn die verurteilte Person sich bis zum Ablauf der Probezeit bewährt hat; sie erscheinen aber mindestens bis zum Ende einer im Grundurteil angeordneten Landesverweisung und mindestens bis zum Ablauf eines in diesem Urteil oder später verhängten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG; Nichtbewährung liegt vor, sobald ein nachträglicher Entscheid betreffend Nichtbewährung (Art. 46 StGB) in VOSTRA eingetragen ist.\nc. Schweizerische Grundurteile, die einzig eine wegen eines Verbrechens oder eines Vergehens ausgesprochene Busse enthalten, erscheinen nicht mehr im Auszug, wenn die verurteilte Person sich bis zum Ablauf einer Probezeit von 2 Jahren bewährt hat; sie erscheinen aber mindestens bis zum Ende einer im Grundurteil angeordneten Landesverweisung und mindestens bis zum Ablauf eines in diesem Urteil oder später verhängten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG; die Probezeit beginnt mit der Eröffnung des Urteils, und eine Bewährung liegt vor, solange kein neues Verbrechen oder Vergehen in die Probezeit fällt.\nd. Grundurteile, die eines oder mehrere der folgenden Verbote allein oder nur in Kombination mit einer Landesverweisung enthalten, erscheinen nach 7 Jahren nach Eintritt der Rechtskraft nicht mehr im Auszug; sie erscheinen aber mindestens bis zum Ende einer im Grundurteil angeordneten Landesverweisung und mindestens bis zum Ablauf eines später angeordneten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG:\n1. Tätigkeitsverbot nach Artikel 67 Absatz 2, 3 oder 4, Artikel 50 Absatz 2, 3 oder 4 MStG oder Artikel 16a Absatz 1 JStG;\n2. Kontakt- und Rayonverbot für Erwachsene (Art. 67b StGB; Art. 50b MStG);\n3. Kontakt- und Rayonverbot für Jugendliche (Art. 16a Abs. 2 JStG), das zum Schutz von Minderjährigen oder anderen besonders schutzbedürftigen Personen erlassen wurde.\ne. Grundurteile, die allein ein Kontakt- und Rayonverbot für Jugendliche (Art. 16a Abs. 2 JStG) enthalten, das nicht zum Schutz von Minderjährigen oder anderen besonders schutzbedürftigen Personen erlassen wurde, erscheinen nach Ablauf des Verbots nicht mehr im Auszug; dasselbe gilt, wenn dieses Verbot erst nachträglich erlassen worden ist.\nf. Nach Ablauf der Frist nach den Buchstaben a–e erscheinen Grundurteile im Auszug, wenn dieser noch ein Grundurteil enthält, bei dem diese Frist noch nicht abgelaufen ist, längstens aber bis zum Ablauf der Frist gemäss Artikel 38 Absatz 3 Buchstaben a–l, ausnahmsweise länger: bis zum Ende einer im Grundurteil angeordneten Landesverweisung; Urteile nach Buchstabe d erscheinen längstens 10 Jahre nach Rechtskraft, ausnahmsweise länger: bis zum Ende einer im Grundurteil angeordneten Landesverweisung und bis zum Ablauf eines später angeordneten Tätigkeitsverbots nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG; Urteile nach Buchstabe e erscheinen längstens 5 Jahre nach Ablauf des Verbots; dasselbe gilt, wenn das Verbot erst nachträglich erlassen worden ist.\ng. Ist ein Tätigkeitsverbot nach Artikel 67 Absatz 1 StGB oder Artikel 50 Absatz 1 MStG später angeordnet worden (Art. 67d Abs. 1 StGB), so erscheint das damit verknüpfte Grundurteil auch nach Ablauf der Fristen nach den Buchstaben a–f wieder im Auszug, solange dieses Verbot wirksam ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Privatauszug",
+        "citation": "Art. 41 StReG",
+        "content": "Der Privatauszug vermittelt Zugang zu den Daten des Behördenauszugs 4 (Art. 40), mit Ausnahme der Daten über hängige Strafverfahren (Art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_41"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Sonderprivatauszug",
+        "citation": "Art. 42 Abs. 1 StReG",
+        "content": "Der Sonderprivatauszug vermittelt Zugang zu folgenden Daten:\na. identifizierende Angaben zur Person (Art. 17);\nb. schweizerische und ausländische Grundurteile gegen Erwachsene (Art. 18 Abs. 1 und 19 Bst. d Ziff. 1), sofern im Grundurteil oder in einem nachträglichen Entscheid eines der folgenden Verbote oder ein analoges ausländisches Verbot ausgesprochen wurde:\n1. ein Tätigkeitsverbot nach Artikel 67 Absatz 2, 3 oder 4 StGB oder Artikel 50 Absatz 2, 3 oder 4 MStG,\n2. ein Kontakt- und Rayonverbot nach Artikel 67b StGB oder Artikel 50b MStG, sofern dieses Verbot zum Schutz von Minderjährigen oder anderen besonders schutzbedürftigen Personen erlassen wurde;\nc. schweizerische und ausländische Grundurteile gegen Jugendliche (Art. 18 Abs. 2 und 3 und Art. 19 Bst. d Ziff. 2), sofern im Grundurteil oder in einem nachträglichen Entscheid eines der folgenden Verbote oder ein analoges ausländisches Verbot ausgesprochen wurde:\n1. ein Tätigkeitsverbot nach Artikel 16a Absatz 1 JStG,\n2. ein Kontakt- und Rayonverbot nach Artikel 16a Absatz 2 JStG, das zum Schutz von Minderjährigen oder anderen besonders schutzbedürftigen Personen erlassen wurde;\nd. nachträgliche Entscheide (Art. 21) und elektronische Kopien von Meldeformularen (Art. 22 Abs. 2), die sich auf ein in den Sonderprivatauszug aufzunehmendes Grundurteil beziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Sonderprivatauszug",
+        "citation": "Art. 42 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt, in welche automatisch generierten Systemdaten (Art. 23) Einblick gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 1. Kapitel:, Zugangsprofile und Auszugsarten im Bereich der Strafdatenverwaltung, 2. Abschnitt: Die einzelnen Zugangsprofile, Sonderprivatauszug",
+        "citation": "Art. 42 Abs. 3 StReG",
+        "content": "Ein Grundurteil nach Absatz 1 und die damit verknüpften Einträge erscheinen so lange im Sonderprivatauszug, als ein Verbot nach Absatz 1 Buchstabe b oder c wirksam ist, das sich auf dieses Grundurteil bezieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online-Zugangsrecht der registerführenden Stelle und ihrer Informatik-Leistungserbringer",
+        "citation": "Art. 43 Abs. 1 StReG",
+        "content": "Die registerführende Stelle verfügt zum Zweck der Registerführung nach Artikel 3 über ein Online-Zugangsrecht auf alle in VOSTRA gespeicherten Daten (Art. 16–27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online-Zugangsrecht der registerführenden Stelle und ihrer Informatik-Leistungserbringer",
+        "citation": "Art. 43 Abs. 2 StReG",
+        "content": "Die von der registerführenden Stelle mit Wartungs- und Programmieraufgaben betrauten Informatik-Leistungserbringer können in Daten nach Absatz 1 Einblick nehmen, soweit dies zur Erfüllung ihrer Aufgaben nötig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online-Zugangsrecht der KOST und der Koordinationsstelle der Militärjustiz",
+        "citation": "Art. 44 Abs. 1 StReG",
+        "content": "Das Online-Zugangsrecht der KOST und der Koordinationsstelle der Militärjustiz bestimmt sich nach Massgabe der Zugangsprofile derjenigen Behörden, für die sie Daten eintragen und Auszüge aus VOSTRA erstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online-Zugangsrecht der KOST und der Koordinationsstelle der Militärjustiz",
+        "citation": "Art. 44 Abs. 2 StReG",
+        "content": "Sie haben ein Online-Zugangsrecht auf alle in VOSTRA gespeicherten Daten, mit Ausnahme:\na. der Daten betreffend die automatisch protokollierten Abfragen zugangsberechtigter Behörden (Art. 25);\nb. der Daten betreffend Online-Bestellung von Auszügen aus einem ausländischen Strafregister (Art. 26);\nc. der Daten betreffend die Bestellung von Privatauszügen und Sonderprivatauszügen (Art. 27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zum Behördenauszug 1",
+        "citation": "Art. 45 Abs. 1 StReG",
+        "content": "Nur folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Behördenauszug 1 erscheinenden Daten (Art. 37) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:\na. die zivilen Strafgerichte, kantonalen Staatsanwaltschaften, die Bundesanwaltschaft, die Jugendstrafbehörden im Sinne von Art. 6 Abs. 1 Bst. b und c und Art. 7 JStPO, die Übertretungsstrafbehörden im Sinne von Art. 12 Bst. c StPO:für die Durchführung von Strafverfahren, insbesondere für:\n– die Klärung von Zuständigkeitsfragen\n– die Beurteilung des Vorlebens der beschuldigten Person im Rahmen der Strafzumessung und die Prognosestellung\n– die Feststellung und Beurteilung von Probezeitverletzungen\n– die Überprüfung des Leumunds von Sachverständigen, Zeuginnen, Zeugen und Auskunftspersonen\n– die Weiterleitung von Informationen über das Vorleben beschuldigter Personen an psychiatrische Gutachterinnen und Gutachter;\nb. die Verwaltungsbehörden des Bundes und der Kantone, die Strafverfahren durchführen oder Strafentscheide gestützt auf Bundesrecht fällen:für die Durchführung von Strafverfahren, insbesondere für:\n– die Klärung von Zuständigkeitsfragen\n– die Beurteilung des Vorlebens der beschuldigten Person im Rahmen der Strafzumessung und die Prognosestellung\n– die Feststellung und Beurteilung von Probezeitverletzungen\n– die Überprüfung des Leumunds von Sachverständigen, Zeuginnen, Zeugen und Auskunftspersonen\n– die Weiterleitung von Informationen über das Vorleben beschuldigter Personen an psychiatrische Gutachterinnen und Gutachter;\nc. die für die internationale Rechtshilfe zuständige Stelle des Bundesamtes für Justiz:für die Durchführung internationaler Rechtshilfe- und Auslieferungsverfahren;\nd. die Straf- und Massnahmenvollzugsbehörden (inkl. Bewährungshilfe, Vollzugsgerichte und für den Vollzug zuständige Untersuchungsbehörden im Jugendstrafverfahren):für die Durchführung des Straf- und Massnahmenvollzugs, insbesondere für:\n– die Erstellung eines Vollzugsplans\n– die therapeutische Tataufarbeitung\n– die Prognosestellung für Vollzugsöffnungen und für nachträgliche Entscheide im Zusammenhang mit Massnahmen\n– die Abklärung allfällig nicht vollzogener Strafen im Zusammenhang mit der bedingten Entlassung\n– die Rückfallrisikobeurteilung im Rahmen der Bewährungshilfe\n– die Vermeidung von widersprüchlichen Entscheiden bei der Beurteilung von Probezeitverletzungen und Vollzugsöffnungen;\ne. die im Bundesamt für Polizei zuständigen Stellen:1. für die Verfolgung von Straftaten nach den Art. 23, 24 und 27 Abs. 2 StPO im Rahmen des Vorverfahrens nach der StPO, insbesondere für:\n– die Erhärtung oder Entkräftung eines Tatverdachts\n– die Verfahrenskoordination, namentlich zur Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Sachverständigen, Zeuginnen, Zeugen und Auskunftspersonen\n– den Schutz verdeckter Ermittlerinnen und Ermittler oder verdeckter Fahnderinnen und Fahnder mittels Überprüfung des Täterumfelds,2. für die Informationsvermittlung an folgende Behörden, sofern diese Daten im Ausland für die Verfolgung von Straftaten im Rahmen gerichtspolizeilicher Ermittlungen benötigt werden:\n– Interpol\n– Europäisches Polizeiamt (Europol), in Anwendung von Art. 355a StGB\n– ausländische Polizeistellen, im Rahmen der bilateralen Polizeikooperation\n– ausländische Strafverfolgungsbehörden, in Anwendung von Art. 7 des Schengen-Informationsaustausch-Gesetzes vom 12. Juni 2009 (SIaG);\nf. die kantonalen Polizeistellen:für die Verfolgung von Straftaten im Rahmen des Vorverfahrens nach der StPO, insbesondere für:\n– die Erhärtung oder Entkräftung eines Tatverdachts\n– die Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Sachverständigen, Zeuginnen, Zeugen und Auskunftspersonen\n– den Schutz verdeckter Ermittlerinnen und Ermittler oder verdeckter Fahnderinnen und Fahnder mittels Überprüfung des Täterumfelds.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zum Behördenauszug 1",
+        "citation": "Art. 45 Abs. 2 StReG",
+        "content": "Bei der polizeilichen Informationsvermittlung ins Ausland nach Absatz 1 Buchstabe e Ziffer 2 dürfen keine elektronischen Kopien von Grundurteilen und von nachträglichen Entscheiden (Art. 22 Abs. 1) übermittelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zum Behördenauszug 2",
+        "citation": "Art. 46 StReG",
+        "content": "Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Behördenauszug 2 erscheinenden Daten (Art. 38) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:\na. die im Bundesamt für Polizei zuständigen Stellen:1. für die Erkennung oder Verhütung von Straftaten nach Art. 1 des Bundesgesetzes vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes und gemeinsame Zentren für Polizei- und Zollzusammenarbeit mit anderen Staaten (ZentG), insbesondere für:\n– die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen\n– die Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Informantinnen und Informanten\n– die Erstellung von Lage- und Bedrohungsanalysen im Sinne von Art. 2 Bst. c ZentG,2. für die Führung der Meldestelle für Geldwäscherei, für:\n– die Prüfung und Analyse von Meldungen nach dem Geldwäschereigesetz vom 10. Oktober 1997 (GwG)\n– die Verhinderung von Parallelermittlungen,3. für die Informationsvermittlung an folgende Behörden, sofern diese Daten im Ausland für die Erkennung oder Verhütung von Straftaten benötigt werden:\n– Interpol\n– Europol, in Anwendung von Art. 355a StGB\n– ausländische Polizeistellen, im Rahmen der bilateralen Polizeikooperation\n– ausländische Strafverfolgungsbehörden, in Anwendung von Art. 7 SIaG;4. für die Verhängung und Aufhebung von Fernhaltemassnahmen gegenüber Ausländerinnen und Ausländern nach dem Ausländer- und Integrationsgesetz vom 16. Dezember 2005 (AIG) sowie für die Vorbereitung von Ausweisungsentscheiden gemäss Art. 121 Abs. 2 BV,5. für die Risikobeurteilung von Personen, bei denen Anhaltspunkte bestehen, dass sie eine Gefahr für schützenswerte Personen im Sinne von Art. 22 Abs. 1 des Bundesgesetzes vom 21. März 1997 über die Massnahmen zur Wahrung der inneren Sicherheit (BWIS) darstellen könnten,6. für die Kontrolle des Verbundes der polizeilichen Informationssysteme nach Art. 9 des Bundesgesetzes vom 13. Juni 2008 über die polizeilichen Informationssysteme des Bundes (BPI),7. für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB,8. für die gemäss dem Bundesgesetz vom 23. Dezember 2011 über den ausserprozessualen Zeugenschutz vorgesehene Prüfung der Eignung einer Person für ein Zeugenschutzprogramm sowie für die Risikobeurteilung von Personen, bei denen Anhaltspunkte bestehen, dass sie eine Gefahr für die zu schützende Person darstellen könnten,9. für die Informationsvermittlung an ausländische SIRENE-Büros, sofern diese Daten zur Lokalisierung von Straftätern oder zur Koordinierung und Durchführung von Fernhaltemassnahmen von Ausländerinnen und Ausländern benötigt werden,10. für die Bearbeitung von Gesuchen um Erwerbs- und Ausnahmebewilligungen für Vorläuferstoffe, die Überprüfung dieser Bewilligungen und die Bearbeitung von Verdachtsmeldungen nach dem Vorläuferstoffgesetz vom 25. September 2020;\nb. der Nachrichtendienst des Bundes (NDB):1. für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren und äusseren Sicherheit nach Art. 6 Abs. 1 des Nachrichtendienstgesetzes vom 25. September 2015 (NDG), insbesondere für:\n– die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen\n– die Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Informantinnen und Informanten,2. für die Informationsvermittlung an Europol im Sinne von Art. 355a StGB, sofern diese Daten im Ausland für die Verhütung von Straftaten benötigt werden,3. für die Prüfung von Fernhaltemassnahmen gegenüber Ausländerinnen und Ausländern nach dem AIG sowie für die Vorbereitung von Ausweisungsentscheiden nach Art. 121 Abs. 2 BV,4. für die Beschaffung und Weitergabe von Informationen an ausländische Sicherheitsbehörden im Rahmen von Anfragen nach Art. 12 Abs. 1 Bst. d NDG; Daten, deren Weitergabe nicht im Interesse der betroffenen Person ist, können nur mit deren ausdrücklichen Zustimmung weitergegeben werden;\nc. die Behörden nach Art. 9 NDG, die mit dem NDB zusammenarbeiten:für das frühzeitige Erkennen und Verhindern von Bedrohungen der inneren und äusseren Sicherheit nach Art. 6 Abs. 1 NDG, insbesondere für:\n– die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen\n– die Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Informantinnen und Informanten;\nd. die kantonalen Polizeistellen:1. für die Erkennung oder Verhütung von Straftaten, insbesondere für:\n– die Erhärtung oder Entkräftung eines Anfangsverdachts in Bezug auf mögliche Gefährdungen\n– die Verhinderung von Parallelermittlungen\n– die Glaubwürdigkeitsprüfung bei Befragungen\n– die Überprüfung des Leumunds von Informantinnen und Informanten,\n– den Schutz verdeckter Ermittlerinnen und Ermittler oder verdeckter Fahnderinnen und Fahnder mittels Überprüfung des Gefahrenumfeldes,2. für die Interpretation von Daten aus Polizeidatenbanken,3. für die Abklärung des Sicherheitsrisikos im Rahmen der Zuverlässigkeitsüberprüfungen nach Artikel 108b des Luftfahrtgesetzes vom 21. Dezember 1948;\ne. die Fachstellen für Personensicherheitsprüfungen nach Artikel 31 Absatz 2 des Informationssicherheitsgesetzes vom 18. Dezember 2020 (ISG)::\n1. für die Beurteilung des Risikos im Rahmen von Personensicherheitsprüfungen nach dem ISG,\n2. für Beurteilungen des Gefährdungs-und Missbrauchspotenzials nach dem Militärgesetz vom 3. Februar 1995,\n3. für weitere Beurteilungen des Risikos im Rahmen der in der Spezialgesetzgebung vorgesehenen Prüfungen;\nf. das Staatssekretariat für Migration:1. für die Durchführung von Einbürgerungsverfahren auf Stufe Bund einschliesslich der Nichtigerklärung von Einbürgerungen,2. für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen,3. für Entscheide nach dem Asylgesetz vom 26. Juni 1998 (AsylG), die anhand von Strafdaten getroffen werden müssen;\ng. die für die Einbürgerung auf Stufe Kanton zuständigen kantonalen Behörden:für die Durchführung von Einbürgerungsverfahren auf Stufe Kanton einschliesslich der Nichtigerklärung von Einbürgerungen;\nh. die kantonalen Migrationsbehörden (Fremdenpolizei):für Entscheide gemäss AIG, die anhand von Strafdaten getroffen werden müssen;\ni. die Gruppe Verteidigung:1. für die Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee, einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem Militärgesetz vom 3. Februar 1995 (MG),2. für die Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;\nj. die gemäss kantonaler Gesetzgebung für die Sicherheitsprüfung von Polizistinnen, Polizisten sowie Polizeianwärterinnen und -anwärtern zuständigen Polizeikommandos:für die Prüfung der Voraussetzungen für die Rekrutierung, die Ernennung, die Beförderung, die Degradation, den Ausschluss und die Wiederzulassung von Polizistinnen und Polizisten sowie Polizeianwärterinnen und -anwärtern;\nk. die für die Bewilligung von privaten Sicherheitsdienstleistungen zuständige kantonale Stelle:für die Erteilung und den Entzug von Bewilligungen für Personen, die private Sicherheitsdienstleistungen erbringen, sowie für die Marktzulassung von Sicherheitsunternehmen;\nl. die für den Vollzug des Bundesgesetzes vom 27. September 2013 über die im Ausland erbrachten privaten Sicherheitsdienstleistungen (BPS) zuständige Bundesbehörde:für die Überprüfung von Personen, die für ein Sicherheitsunternehmen nach Art. 2 BPS verantwortlich sind oder die private Sicherheitsdienstleistungen im Ausland erbringen; \nm. das Bundesamt für Statistik:für die Bearbeitung der Daten nach dem Bundesstatistikgesetz vom 9. Oktober 1992 (BStatG), insbesondere für:\n– die Ergänzung der fehlenden Daten zur Person\n– die Qualitätssicherung bei Mehrfachlieferungen von Urteilen; \nn. die für die Meldungen zur Löschung von DNA-Profilen und weiteren erkennungsdienstlichen Daten zuständigen zentralen Stellen der Kantone: für die Abklärung der Voraussetzungen für die Löschung von Profilen nach den Art. 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003 sowie von erkennungsdienstlichen Daten nach Art. 354 StGB;\no. die Vollzugsstelle für den Zivildienst: 1. für den Ausschluss aus dem Zivildienst oder von der Zivildienstleistung nach dem Zivildienstgesetz vom 6. Oktober 1995 (ZDG),2. für die Prüfung des Leumundes für bestimmte Einsätze nach dem ZDG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_46"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zum Behördenauszug 3",
+        "citation": "Art. 47 StReG",
+        "content": "Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Behördenauszug 3 erscheinenden Daten (Art. 39) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:\na. die für den Strassenverkehr zuständigen Behörden der Kantone:für die Erteilung oder den Entzug von Führer- oder Lernfahrausweisen nach dem Strassenverkehrsgesetz vom 19. Dezember 1958;\nb. die für Entscheide über den Ausschluss vom Schutzdienst zuständigen Stellen der Kantone:für die Prüfung eines Ausschlusses vom Schutzdienst nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002;\nc. die Eidgenössische Finanzmarktaufsicht (FINMA):für die Prüfung der Gewähr für einwandfreie Geschäftstätigkeit von Personen, die nach den Finanzmarktgesetzen eine Bewilligung, eine Anerkennung, eine Zulassung oder eine Registrierung der FINMA benötigen;\nd. die Eidgenössische Revisionsaufsichtsbehörde:für die Erteilung oder den Entzug von Zulassungen, die Erteilung von Verweisen und die Verhängung von Massnahmen gegenüber natürlichen Personen, die für staatlich beaufsichtigte Revisionsunternehmen tätig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_47"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zum Behördenauszug 4",
+        "citation": "Art. 48 StReG",
+        "content": "Folgende angeschlossene Behörden können durch ein Abrufverfahren in alle im Behördenauszug 4 erscheinenden Daten (Art. 40) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:\na. die für den Vollzug des Waffengesetzes vom 20. Juni 1997 (WG) zuständigen kantonalen Behörden:für die Erteilung oder den Entzug von Bewilligungen sowie die Beschlagnahme und Einziehung von Waffen nach WG;\nb. die im Bundesamt für Polizei zuständige Stelle:für die Erteilung oder den Entzug von Bewilligungen nach WG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_48"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zu Daten betreffend die Bestellung von Auszügen aus einem ausländischen Strafregister",
+        "citation": "Art. 49 Abs. 1 StReG",
+        "content": "Folgende Behörden können ihre Ersuchen um Auszug aus einem ausländischen Register online erfassen und in die entsprechenden Daten Einsicht nehmen:\na. die an VOSTRA angeschlossenen Behörden:1. wenn für den gewünschten Zweck in einem Staatsvertrag eine entsprechende Auskunftspflicht des ausländischen Strafregisters vorgesehen ist, oder2. wenn das Ersuchen für einen Zweck erfolgt, für den nach diesem Gesetz ein Zugang zu einem schweizerischen Strafregisterauszug möglich wäre;\nb. die registerführende Stelle:für die Weiterleitung von Ersuchen nach Buchstabe a an das ausländische Strafregister und die Verarbeitung der Rückmeldungen aus dem Ausland.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Online abfragende Behörden mit Zugang zu Daten betreffend die Bestellung von Auszügen aus einem ausländischen Strafregister",
+        "citation": "Art. 49 Abs. 2 StReG",
+        "content": "Der Bundesrat präzisiert, welche schweizerischen Behörden zu welchen Zwecken Ersuchen nach Absatz 1 stellen dürfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Schriftlich anfragende Behörden mit Zugang zum Behördenauszug 1",
+        "citation": "Art. 50 StReG",
+        "content": "Nur folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in alle im Behördenauszug 1 erscheinenden Daten (Art. 37) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist:\ndie Behörden der Militärjustiz (Militärgerichte, Auditorinnen, Auditoren, Untersuchungsrichterinnen und -richter):für die Durchführung von Strafverfahren, insbesondere für:\n– die Klärung von Zuständigkeitsfragen\n– die Beurteilung des Vorlebens der beschuldigten Person im Rahmen der Strafzumessung und zur Prognosestellung\n– die Überprüfung des Leumunds von Sachverständigen, Zeuginnen, Zeugen und Auskunftspersonen\n– die Weiterleitung von Informationen über das Vorleben beschuldigter Personen an psychiatrische Gutachterinnen und Gutachter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_50"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Schriftlich anfragende Behörden mit Zugang zum Behördenauszug 2",
+        "citation": "Art. 51 StReG",
+        "content": "Folgende nicht angeschlossene Behörden können auf schriftliches Gesuch hin in alle im Behördenauszug 2 erscheinenden Daten (Art. 38) Einsicht nehmen, soweit dies für die Erfüllung der nachstehend genannten Aufgaben notwendig ist: \na. die kantonalen Kindes- und Erwachsenenschutzbehörden:für die Anordnung und Aufhebung von Massnahmen des Kindes- oder Erwachsenenschutzes;\nb. die nach Art. 429 des Zivilgesetzbuchs (ZGB) zuständigen Ärztinnen und Ärzte:für die Anordnung der fürsorgerischen Unterbringung;\nc. die für die Bewilligung und Aufsicht im Bereich der Pflegekinderaufsicht nach Art. 316 Abs. 2 ZGB zuständigen kantonalen Behörden:für die Leumundsprüfung von Einrichtungen und Betreuungspersonen, die einer Bewilligungspflicht und einer Beaufsichtigung nach Bundesrecht oder kantonalem Recht unterstehen;\nd. die kantonalen Adoptionsbehörden nach Art. 316 Abs. 1bis ZGB:für die Prüfung der Adoptionseignung künftiger Adoptiveltern;\ne. die Zentralstelle Internationale Adoptionen des Bundesamtes für Justiz:für die Erhebung und den Austausch von Informationen über künftige Adoptiveltern im Rahmen von internationalen Adoptionsverfahren;\nf. ...\ng. die Zivilgerichte:für die Beweiserhebung, insbesondere bei der Anordnung und Aufhebung von Kindesschutzmassnahmen;\nh. das Bundesamt für Sport:für die Leumundsprüfung im Hinblick auf die Erteilung, Sistierung oder den Entzug einer Anerkennung als «Jugend und Sport»-Kader nach Art. 10 des Sportförderungsgesetzes vom 17. Juni 2011;\ni. die für die Begnadigung zuständigen Behörden des Bundes und der Kantone:für die Durchführung von Begnadigungsverfahren;\nj. die in Anstalten des Straf- und Massnahmenvollzugs sowie für Untersuchungs- und Sicherheitshaft über personelle Angelegenheiten entscheidende Stelle:für die Sicherheitsprüfung von Vollzugsmitarbeiterinnen und -mitarbeitern und von zum Vollzug beigezogenen Fachpersonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_51"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für ausländische Behörden",
+        "citation": "Art. 52 Abs. 1 StReG",
+        "content": "Die registerführende Stelle gibt den ausländischen Behörden auf deren Ersuchen Strafregisterauszüge ab, sofern ein völkerrechtlicher Vertrag oder ein formelles Gesetz dies vorsieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für ausländische Behörden",
+        "citation": "Art. 52 Abs. 2 StReG",
+        "content": "Sie gibt denjenigen Behördenauszug ab, der bei einer analogen Anfrage aus dem Inland einer entsprechenden schweizerischen Behörde mit gleicher Funktion zustehen würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für ausländische Behörden",
+        "citation": "Art. 52 Abs. 3 StReG",
+        "content": "Die Abgabe von Strafregisterdaten an ausländische Behörden mittels Behördenauszug 1 schliesst die Übermittlung von im Strafregister eingetragenen elektronischen Kopien von Grundurteilen und von nachträglichen Entscheiden (Art. 22 Abs. 1) nicht mit ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für ausländische Behörden",
+        "citation": "Art. 52 Abs. 4 StReG",
+        "content": "Die Weitergabe ins Ausland muss unterbleiben, wenn die betroffene Person oder ihre Angehörigen dadurch der Gefahr ernsthafter Nachteile für Leib, Leben oder Freiheit im Sinne der Konvention vom 4. November 1950 zum Schutze der Menschenrechte und Grundfreiheiten (EMRK) oder anderer, von der Schweiz ratifizierter internationaler Abkommen ausgesetzt werden könnten oder wenn die Gefahr einer Doppelbestrafung droht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für ausländische Behörden",
+        "citation": "Art. 52 Abs. 5 StReG",
+        "content": "Das Eidgenössische Justiz- und Polizeidepartement (EJPD) kann Weisungen über die Abgabe von Strafregisterauszügen an ausländische Behörden erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 2. Kapitel: Zugang für Behörden, Zugang für Rechtsmittelinstanzen",
+        "citation": "Art. 53 StReG",
+        "content": "Die in diesem Gesetz (Art. 43–52) geregelten Zugangsrechte gelten auch für die Rechtsmittelinstanzen dieser zugangsberechtigten Behörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_53"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Privatauszug",
+        "citation": "Art. 54 Abs. 1 StReG",
+        "content": "Jede Person kann bei der registerführenden Stelle einen sie betreffenden Privatauszug (Art. 41) anfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Privatauszug",
+        "citation": "Art. 54 Abs. 2 StReG",
+        "content": "Bestellt eine Person einen Auszug über eine Drittperson, so darf dieser nur mit der schriftlichen Einwilligung der betreffenden Drittperson an die bestellende Person abgegeben werden. Keiner Einwilligung der betreffenden Drittperson bedarf im Rahmen der Vertretungsbefugnis der gesetzliche Vertreter oder die gesetzliche Vertreterin der Drittperson.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Privatauszug",
+        "citation": "Art. 54 Abs. 3 StReG",
+        "content": "Die bestellende Person hat die Identität der Person, über die der Auszug erstellt wird, zu belegen und weitere Angaben zu machen, die zur Identifikation dieser Person nötig sind. Bei Bestellungen über eine Drittperson muss sich die bestellende Person zusätzlich über ihre Identität und gegebenenfalls über ihre Vertretungsbefugnis ausweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Sonderprivatauszug",
+        "citation": "Art. 55 Abs. 1 StReG",
+        "content": "Wer eine berufliche oder eine organisierte ausserberufliche Tätigkeit anbietet oder vermittelt, die einen regelmässigen Kontakt mit Minderjährigen oder mit anderen besonders schutzbedürftigen Personen umfasst oder die eine Tätigkeit im Gesundheitsbereich mit direktem Patientenkontakt beinhaltet, kann für die Leumundsprüfung einer sich bewerbenden oder einer bereits tätigen Person die Vorlage eines Sonderprivatauszugs verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Sonderprivatauszug",
+        "citation": "Art. 55 Abs. 1bis StReG",
+        "content": "Ebenso kann eine Behörde für die Erteilung oder den Entzug einer Bewilligung, die sich auf eine Tätigkeit nach Absatz 1 bezieht, von der betroffenen Person einen Sonderprivatauszug verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Sonderprivatauszug",
+        "citation": "Art. 55 Abs. 2 StReG",
+        "content": "Wer von einer Person einen Sonderprivatauszug verlangt, darf diesen nur für den in den Absätzen 1 und 1bis festgelegten Zweck weitergeben und verwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Sonderprivatauszug",
+        "citation": "Art. 55 Abs. 3 StReG",
+        "content": "Für die Bestellung eines Sonderprivatauszuges gelten die in Artikel 54 festgelegten Bedingungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Sonderprivatauszug",
+        "citation": "Art. 55 Abs. 4 StReG",
+        "content": "Der Bestellung ist zusätzlich ein amtliches Formular beizufügen, auf dem der Anbieter oder Vermittler nach Absatz 1 oder die Bewilligungsbehörde nach Absatz 1bis bestätigt, dass sich die betreffende Person auf eine Tätigkeit nach Absatz 1 bewirbt oder eine solche Tätigkeit ausübt oder für eine solche Tätigkeit eine Bewilligung benötigt und dass sie dazu den Sonderprivatauszug vorlegen muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Gebühren",
+        "citation": "Art. 56 Abs. 1 StReG",
+        "content": "Die registerführende Stelle erhebt für die Ausstellung eines Privatauszugs oder eines Sonderprivatauszuges eine Gebühr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 1. Abschnitt: Privatauszug und Sonderprivatauszug, Gebühren",
+        "citation": "Art. 56 Abs. 2 StReG",
+        "content": "Der Bundesrat regelt die Grundzüge der Bemessung, insbesondere deren Höhe und Zusammensetzung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 2. Abschnitt: Datenschutzrechtliches Auskunftsrecht",
+        "citation": "Art. 57 Abs. 1 StReG",
+        "content": "Jede Person kann bei der registerführenden Stelle Auskunft darüber verlangen, ob in VOSTRA (Art. 16–26) oder in der Hilfsdatenbank zur Bestellung von Privatauszügen und Sonderprivatauszügen (Art. 27) Daten über sie gespeichert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 2. Abschnitt: Datenschutzrechtliches Auskunftsrecht",
+        "citation": "Art. 57 Abs. 2 StReG",
+        "content": "Keine Auskunft wird erteilt über automatisch protokollierte Abfragen (Art. 25), falls die Abfrage erfolgt ist:\na. durch die Bundesanwaltschaft, durch kantonale Staatsanwaltschaften oder durch Jugendstrafbehörden im Sinne von Artikel 6 Absatz 1 Buchstaben b und c JStPO zur Erfüllung der Aufgaben nach Artikel 45 Absatz 1 Buchstabe a des vorliegenden Gesetzes;\nb. durch das Bundesamt für Polizei zur Erfüllung der Aufgaben nach den Artikeln 45 Absatz 1 Buchstabe e und 46 Buchstabe a;\nc. durch kantonale Polizeistellen zur Erfüllung der Aufgaben nach den Artikeln 45 Absatz 1 Buchstabe f und 46 Buchstabe d;\nd. durch den NDB oder durch die Behörden nach Artikel 9 NDG, die mit dem NDB zusammenarbeiten, zur Erfüllung der Aufgaben nach Artikel 46 Buchstaben b und c des vorliegenden Gesetzes;\ne. durch die für die internationale Rechtshilfe zuständige Stelle des Bundesamtes für Justiz zur Erfüllung der Aufgaben nach Artikel 45 Absatz 1 Buchstabe c;\nf. durch ein Zwangsmassnahmengericht oder durch eine Rechtsmittelinstanz, sofern die Abfrage in einem Verfahren zur Genehmigung geheimer Überwachungsmassnahmen erfolgt ist;\ng. durch die registerführende Stelle oder eine KOST, sofern die Abfrage erfolgt ist zum Zwecke der Auszugserstellung für eine Behörde nach den Buchstaben a–f oder für eine ausländische Behörde mit analogen Aufgaben;\nh. durch die Koordinationsstelle der Militärjustiz, sofern die Abfrage erfolgt ist zum Zwecke der Auszugserstellung für eine militärische Untersuchungsbehörde oder für eine militärische Genehmigungsinstanz für geheime Überwachungsmassnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 2. Abschnitt: Datenschutzrechtliches Auskunftsrecht",
+        "citation": "Art. 57 Abs. 3 StReG",
+        "content": "Wer sein Auskunftsrecht geltend machen will, hat sich über seine Identität auszuweisen und ein schriftliches Gesuch einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 2. Abschnitt: Datenschutzrechtliches Auskunftsrecht",
+        "citation": "Art. 57 Abs. 4 StReG",
+        "content": "Die Auskunft wird mündlich in den Räumlichkeiten der registerführenden Stelle erteilt. Es wird kein direkter Einblick über den Computerbildschirm in VOSTRA gewährt. Ist die Person verzeichnet, so kann sie vor Ort alle sie betreffenden Datensätze einsehen. Die entsprechenden Datenblätter, welche die Einträge dokumentieren, dürfen nicht ausgehändigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 3. Kapitel: Zugang für Private, 2. Abschnitt: Datenschutzrechtliches Auskunftsrecht",
+        "citation": "Art. 57 Abs. 5 StReG",
+        "content": "Stellt die Person fest, dass ihre Daten nicht korrekt eingetragen sind, so kann sie ihre Ansprüche nach Artikel 41 des Datenschutzgesetzes vom 25. September 2020 geltend machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an das Bundesamt für Statistik",
+        "citation": "Art. 58 StReG",
+        "content": "Die registerführende Stelle meldet dem Bundesamt für Statistik die für die statistische Bearbeitung nach dem BStatG erforderlichen Daten aus VOSTRA periodisch in elektronischer Form.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_58"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die Gruppe Verteidigung",
+        "citation": "Art. 59 Abs. 1 StReG",
+        "content": "Die registerführende Stelle meldet der Gruppe Verteidigung zu den in Absatz 2 erwähnten Zwecken unverzüglich folgende neu in VOSTRA eingetragenen Daten von Stellungspflichtigen, Angehörigen der Armee sowie Schutzdienstpflichtigen:\na. schweizerische Grundurteile wegen eines Verbrechens oder Vergehens;\nb. ausländische Grundurteile;\nc. freiheitsentziehende Massnahmen;\nd. Entscheide betreffend Nichtbewährung;\ne. hängige Strafverfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die Gruppe Verteidigung",
+        "citation": "Art. 59 Abs. 2 StReG",
+        "content": "Die Gruppe Verteidigung darf die gemeldeten Daten für folgende Zwecke verwenden:\na. Prüfung einer Nichtrekrutierung, einer Zulassung zur Rekrutierung, eines Ausschlusses aus der Armee oder einer Wiederzulassung zur Armee, einer Degradation oder der Eignung für eine Beförderung oder Ernennung nach dem MG;\nb. Prüfung von Hinderungsgründen für die Überlassung der persönlichen Waffe nach dem MG;\nc. Prüfung eines Ausschlusses vom Schutzdienst nach dem Bevölkerungs- und Zivilschutzgesetz vom 4. Oktober 2002.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die Gruppe Verteidigung",
+        "citation": "Art. 59 Abs. 3 StReG",
+        "content": "Die Meldung erfolgt über eine elektronische Schnittstelle zwischen dem Personalinformationssystem der Armee und des Zivilschutzes (PISA) und VOSTRA. Die Aufbereitung der Daten nach Absatz 1 erfolgt automatisiert und unter Verwendung der AHV-Nummer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die zuständigen Strassenverkehrsbehörden",
+        "citation": "Art. 60 Abs. 1 StReG",
+        "content": "Die registerführende Stelle meldet der zuständigen Strassenverkehrsbehörde des Wohnsitz- oder Urteilskantons die neu in VOSTRA eingetragenen schweizerischen Grundurteile, die ein Fahrverbot im Sinne von Artikel 67e StGB oder Artikel 50e MStG enthalten, zur Eintragung in das Informationssystem Verkehrszulassung (IVZ).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die zuständigen Strassenverkehrsbehörden",
+        "citation": "Art. 60 Abs. 2 StReG",
+        "content": "Die Meldung kann über eine elektronische Schnittstelle erfolgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die für die Teilung eingezogener Vermögenswerte zuständige Stelle des Bundesamtes für Justiz",
+        "citation": "Art. 61 StReG",
+        "content": "Die registerführende Stelle meldet der für die Teilung eingezogener Vermögenswerte zuständigen Stelle des Bundesamtes für Justiz die für die Durchführung von Teilungsverfahren nach dem Bundesgesetz vom 19. März 2004 über die Teilung eingezogener Vermögenswerte erforderlichen elektronischen Kopien schweizerischer Grundurteile (Art. 22 Abs. 1), sofern eine Einziehung von Vermögenswerten angeordnet worden ist, deren Bruttobetrag mindestens 100 000 Franken beträgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_61"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Ausländerbehörden sowie an das Staatssekretariat für Migration",
+        "citation": "Art. 62 Abs. 1 StReG",
+        "content": "Die registerführende Stelle meldet den zuständigen kantonalen Ausländerbehörden folgende neu in VOSTRA eingetragenen Daten, falls sie Ausländerinnen und Ausländer betreffen:\na. schweizerische Grundurteile (Art. 18 und 20);\nb. hängige Strafverfahren (Art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Ausländerbehörden sowie an das Staatssekretariat für Migration",
+        "citation": "Art. 62 Abs. 1bis StReG",
+        "content": "Die registerführende Stelle meldet dem Staatssekretariat für Migration folgende neu in VOSTRA eingetragenen Daten, falls sie Ausländerinnen und Ausländer betreffen:\na. schweizerische Grundurteile (Art. 18 und 20);\nb. hängige Strafverfahren (Art. 24);\nc. das effektive oder das von der Vollzugsbehörde festgelegte Ausreisedatum (Art. 20 Abs. 3 Bst. a) mit der Angabe des Ausreisegrundes: Ausschaffung, Auslieferung, Überstellung zum Zwecke des Sanktionsvollzugs im Ausland, freiwillige Ausreise;\nd. den Aufschub des Vollzugs der Landesverweisung;\ne. die Aufhebung des Aufschubs des Vollzugs der Landesverweisung;\nf. Änderungen bei den gemeldeten Daten, welche die Landesverweisung betreffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Ausländerbehörden sowie an das Staatssekretariat für Migration",
+        "citation": "Art. 62 Abs. 2 StReG",
+        "content": "Die gemeldeten Daten dürfen nur verwendet werden, soweit sie für den Vollzug des AIG, des Bürgerrechtsgesetzes vom 20. Juni 2014 oder des AsylG notwendig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Ausländerbehörden sowie an das Staatssekretariat für Migration",
+        "citation": "Art. 62 Abs. 3 StReG",
+        "content": "Die Meldung erfolgt unter Angabe der AHV-Nummer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Waffenbehörden",
+        "citation": "Art. 63 Abs. 1 StReG",
+        "content": "Die registerführende Stelle meldet den für den Vollzug des WG zuständigen kantonalen Behörden die neu in VOSTRA eingetragenen schweizerischen Grundurteile (Art. 18 und 20) und hängigen Strafverfahren (Art. 24), soweit diese eine im Informationssystem über den Erwerb und den Besitz von Feuerwaffen nach Artikel 32a Absatz 2 WG eingetragene Person betreffen und diese Person in diesem Register mit ihrer AHV-Nummer erfasst ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an die kantonalen Waffenbehörden",
+        "citation": "Art. 63 Abs. 2 StReG",
+        "content": "Die gemeldeten Daten dürfen nur verwendet werden, soweit sie für den Vollzug des WG notwendig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 1 StReG",
+        "content": "Die registerführende Stelle teilt in VOSTRA eingetragene Grundurteile und nachträgliche Entscheide gegen ausländische Staatsangehörige gestützt auf das Europäische Übereinkommen vom 20. April 1959 über die Rechtshilfe in Strafsachen oder auf andere völkerrechtliche Verträge dem Heimatstaat mit, sofern dieser bekannt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 2 StReG",
+        "content": "Nicht gemeldet werden:\na. Urteile, die Straftaten betreffen, die nur nach dem Militärstrafrecht strafbar sind;\nb. fiskalische Urteile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 3 StReG",
+        "content": "Die Weitergabe ins Ausland muss unterbleiben, wenn die betroffene Person oder ihre Angehörigen dadurch der Gefahr ernsthafter Nachteile für Leib, Leben oder Freiheit im Sinne der EMRK oder anderer, von der Schweiz ratifizierter internationaler Abkommen ausgesetzt werden könnten oder wenn die Gefahr einer Doppelbestrafung droht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 4 StReG",
+        "content": "Besitzt eine in VOSTRA eingetragene Person mehrere Staatsangehörigkeiten, so erhält jeder staatsvertraglich berechtigte Heimatstaat eine entsprechende Meldung; die Meldung unterbleibt, wenn die Person die schweizerische Staatsangehörigkeit besitzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 5 StReG",
+        "content": "Die Meldung neuer Einträge erfolgt monatlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 7. Titel: Bekanntgabe von Daten aus VOSTRA, 4. Kapitel:, Automatische Weiterleitung von Daten aus VOSTRA an Behörden, Meldungen an den Heimatstaat",
+        "citation": "Art. 64 Abs. 6 StReG",
+        "content": "Das EJPD kann Weisungen über die Meldungen an Behörden des Auslandes erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 8. Titel: Automatische Weiterleitung von Daten an VOSTRA, Schnittstelle zum Personenstandsregister",
+        "citation": "Art. 66 Abs. 1 StReG",
+        "content": "Das Personenstandsregister nach Artikel 45a ZGB meldet VOSTRA die Todesfälle von im Personenstandregister eingetragenen Personen, sofern die betreffende Person auch in VOSTRA verzeichnet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_66"
+    },
+    {
+        "book": "StReG",
+        "title": "StReG, 8. Titel: Automatische Weiterleitung von Daten an VOSTRA, Schnittstelle zum Personenstandsregister",
+        "citation": "Art. 66 Abs. 2 StReG",
+        "content": "Die Meldung erfolgt über eine elektronische Schnittstelle zwischen dem Personenstandsregister und VOSTRA. Die Aufbereitung der Meldungen erfolgt automatisiert und unter Verwendung der AHV-Nummer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/de#art_66"
+    }
+]

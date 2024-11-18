@@ -1,0 +1,1395 @@
+[
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, A. Gegenstand des Gesetzes",
+        "citation": "Art. 1 Abs. 1 VStG",
+        "content": "Der Bund erhebt eine Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens, auf Gewinnen aus Geldspielen im Sinne des Geldspielgesetzes vom 29. September 2017 (BGS), auf Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nach Artikel 1 Absatz 2 Buchstaben d und e BGS diesem nicht unterstehen, und auf Versicherungsleistungen; wo es das Gesetz vorsieht, tritt anstelle der Steuerentrichtung die Meldung der steuerbaren Leistung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_1"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, A. Gegenstand des Gesetzes",
+        "citation": "Art. 1 Abs. 2 VStG",
+        "content": "Die Verrechnungssteuer wird dem Empfänger der um die Steuer gekürzten Leistung nach Massgabe dieses Gesetzes vom Bund oder vom Kanton zu Lasten des Bundes zurückerstattet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_1"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, B. Provision der Kantone",
+        "citation": "Art. 2 Abs. 1 VStG",
+        "content": "Der Anteil der Kantone am jährlichen Reinertrag der Verrechnungssteuer beträgt 10 Prozent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, B. Provision der Kantone",
+        "citation": "Art. 2 Abs. 2 VStG",
+        "content": "Er wird jeweils zu Beginn des Folgejahres auf die Kantone verteilt. Als Bemessungsgrundlage dient die Wohnbevölkerung nach dem letzten verfügbaren Ergebnis der eidgenössischen Volkszählung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, B. Provision der Kantone",
+        "citation": "Art. 2 Abs. 3 VStG",
+        "content": "Der Bundesrat ordnet die Einzelheiten nach Anhörung der Kantonsregierungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, C. Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 1 VStG",
+        "content": "Was dieses Gesetz als Gegenstand der Verrechnungssteuer oder steuerfrei erklärt, ist der Belastung durch gleichgeartete Kantons- und Gemeindesteuern entzogen; Anstände, die sich auf Grund dieser Bestimmung ergeben, beurteilt das Bundesgericht als einzige Instanz (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_3"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Einleitung, C. Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 2 VStG",
+        "content": "Die Verwendung von Urkunden in einem Verfahren, das in Anwendung dieses Gesetzes durchgeführt wird, begründet nicht die Pflicht zur Entrichtung kantonaler Stempelabgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_3"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1. Regel",
+        "citation": "Art. 4 Abs. 1 VStG",
+        "content": "Gegenstand der Verrechnungssteuer auf dem Ertrag beweglichen Kapitalvermögens sind die Zinsen, Renten, Gewinnanteile und sonstigen Erträge:\na. der von einem Inländer ausgegebenen Obligationen, Serienschuldbriefe, Seriengülten und Schuldbuchguthaben;\nb. der von einem Inländer ausgegebenen Aktien, Stammanteile an Gesellschaften mit beschränkter Haftung, Genossenschaftsanteile, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine und Genussscheine;\nc. der von einem Inländer oder von einem Ausländer in Verbindung mit einem Inländer ausgegebenen Anteile an einer kollektiven Kapitalanlage gemäss Kollektivanlagengesetz vom 23. Juni 2006 (KAG);\nd. der Kundenguthaben bei inländischen Banken und Sparkassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1. Regel",
+        "citation": "Art. 4 Abs. 2 VStG",
+        "content": "Die Verlegung des Sitzes einer Aktiengesellschaft, Gesellschaft mit beschränkter Haftung oder Genossenschaft ins Ausland steht steuerlich der Liquidation der Gesellschaft oder Genossenschaft gleich; diese Bestimmung findet auf kollektive Kapitalanlagen gemäss KAG sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1a. Erwerb eigener Beteiligungsrechte",
+        "citation": "Art. 4a Abs. 1 VStG",
+        "content": "Erwirbt eine Gesellschaft oder eine Genossenschaft gestützt auf einen Beschluss über die Herabsetzung des Kapitals oder im Hinblick auf eine Herabsetzung ihres Kapitals eigene Beteiligungsrechte (Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine oder Genussscheine), so unterliegt die Differenz zwischen dem Erwerbspreis und dem einbezahlten Nennwert dieser Beteiligungsrechte der Verrechnungssteuer. Dasselbe gilt, soweit der Erwerb eigener Beteiligungsrechte den Rahmen der Artikel 659 oder 783 des Obligationenrechts (OR) überschreitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1a. Erwerb eigener Beteiligungsrechte",
+        "citation": "Art. 4a Abs. 2 VStG",
+        "content": "Erwirbt eine Gesellschaft oder eine Genossenschaft im Rahmen der Artikel 659 oder 783 OR eigene Beteiligungsrechte, ohne anschliessend ihr Kapital herabzusetzen, so gilt Absatz 1 sinngemäss, wenn die Gesellschaft oder die Genossenschaft diese Beteiligungsrechte nicht innerhalb von sechs Jahren wieder veräussert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1a. Erwerb eigener Beteiligungsrechte",
+        "citation": "Art. 4a Abs. 3 VStG",
+        "content": "Hat eine Gesellschaft oder Genossenschaft eigene Beteiligungsrechte aus Anlass von Verpflichtungen erworben, die auf einer Wandelanleihe, einer Optionsanleihe oder einem Mitarbeiterbeteiligungsplan beruhen, so steht die Frist zur Wiederveräusserung nach Absatz 2 bis zum Erlöschen der betreffenden Verpflichtungen, im Falle des Mitarbeiterbeteiligungsplans jedoch längstens sechs Jahre, still.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 1a. Erwerb eigener Beteiligungsrechte",
+        "citation": "Art. 4a Abs. 4 VStG",
+        "content": "Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben beim Erwerb eigener Beteiligungsrechte nach den Absätzen 1–3 den Liquidationsüberschuss mindestens zur Hälfte den Reserven aus Einlagen, Aufgeldern und Zuschüssen (Reserven aus Kapitaleinlagen) zu belasten. Ist diese Bedingung nicht erfüllt, so wird der Bestand an Reserven aus Kapitaleinlagen dementsprechend korrigiert, höchstens aber im Umfang der vorhandenen Reserven aus Kapitaleinlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1 VStG",
+        "content": "Von der Steuer sind ausgenommen:\na. die Reserven und Gewinne einer Kapitalgesellschaft gemäss Artikel 49 Absatz 1 Buchstabe a des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer (DBG) oder Genossenschaft, die bei einer Umstrukturierung nach Artikel 61 DBG in die Reserven einer aufnehmenden oder umgewandelten inländischen Kapitalgesellschaft oder Genossenschaft übergehen;\nb. die in einer kollektiven Kapitalanlage gemäss KAG erzielten Kapitalgewinne und Erträge aus direktem Grundbesitz sowie die durch die Anleger geleisteten Kapitaleinzahlungen, sofern sie über gesonderten Coupon ausgerichtet werden;\nc. die Zinsen von Kundenguthaben, wenn der Zinsbetrag für ein Kalenderjahr 200 Franken nicht übersteigt;\nd. die Zinsen der Einlagen zur Bildung und Äufnung von auf den Erlebens- oder Todesfall gestellten Guthaben bei Anstalten, Kassen und sonstigen Einrichtungen, die der Alters‐, Invaliditäts- oder Hinterlassenenversicherung oder ‐fürsorge dienen;\ne. ...\nf. die freiwilligen Leistungen einer Aktiengesellschaft, einer Gesellschaft mit beschränkter Haftung oder einer Genossenschaft, sofern diese Leistungen gestützt auf Artikel 59 Absatz 1 Buchstabe c DBG geschäftsmässig begründet sind;\ng. die Zinsen von Banken oder Konzerngesellschaften von Finanzgruppen für von der Eidgenössischen Finanzmarktaufsicht (FINMA) im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigte Fremdkapitalinstrumente nach den Artikeln 11 Absatz 4 und 30b Absatz 6 des Bankengesetzes vom 8. November 1934 (BankG), sofern das betreffende Fremdkapitalinstrument zwischen dem 1. Januar 2013 und dem 31. Dezember 2026 ausgegeben wird;\nh. Zinszahlungen von Teilnehmern an eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 sowie von einer zentralen Gegenpartei an ihre Teilnehmer;\ni. die Zinsen von Banken oder Konzerngesellschaften von Finanzgruppen für Fremdkapitalinstrumente nach Artikel 30b Absatz 7 Buchstabe b BankG, die: \n1. die FINMA im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigt hat: \n– bei nicht systemrelevanten Banken oder bei Konzerngesellschaften von Finanzgruppen: im Zeitpunkt der Emission\n– bei systemrelevanten Banken nach den Artikeln 7 Absatz 1 BankG: im Zeitpunkt der Emission oder bei einem Wechsel von einem ausländischen zu einem schweizerischen Emittenten, und\n2. zwischen dem 1. Januar 2017 und dem 31. Dezember 2026 ausgegeben werden oder deren Emittent während dieser Zeit nach Ziffer 1 wechselt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1bis VStG",
+        "content": "Die Rückzahlung von Reserven aus Kapitaleinlagen, die von den Inhabern der Beteiligungsrechte nach dem 31. Dezember 1996 geleistet worden sind, wird gleich behandelt wie die Rückzahlung von Grund- oder Stammkapital, wenn die Reserven aus Kapitaleinlagen von der Kapitalgesellschaft oder Genossenschaft in der Handelsbilanz auf einem gesonderten Konto ausgewiesen werden und die Gesellschaft oder Genossenschaft jede Veränderung auf diesem Konto der Eidgenössischen Steuerverwaltung (ESTV) meldet. Absatz 1ter bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1ter VStG",
+        "content": "Kapitalgesellschaften und Genossenschaften, die an einer schweizerischen Börse kotiert sind, haben bei der Rückzahlung von Reserven aus Kapitaleinlagen nach Absatz 1bis mindestens im gleichen Umfang übrige Reserven auszuschütten. Ist diese Bedingung nicht erfüllt, so ist die Rückzahlung im Umfang der halben Differenz zwischen der Rückzahlung und der Ausschüttung der übrigen Reserven steuerbar, höchstens aber im Umfang der vorhandenen, handelsrechtlich ausschüttungsfähigen übrigen Reserven. Im gleichen Umfang sind handelsrechtlich ausschüttungsfähige übrige Reserven dem gesonderten Konto für Reserven aus Kapitaleinlagen zuzuweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1quater VStG",
+        "content": "Absatz 1ter ist nicht anwendbar auf Reserven aus Kapitaleinlagen:\na. die bei fusionsähnlichen Zusammenschlüssen durch Einbringen von Beteiligungs- und Mitgliedschaftsrechten an einer ausländischen Kapitalgesellschaft oder Genossenschaft nach Artikel 61 Absatz 1 Buchstabe c DBG oder durch eine grenzüberschreitende Übertragung auf eine inländische Tochtergesellschaft nach Artikel 61 Absatz 1 Buchstabe d DBG nach dem 24. Februar 2008 entstanden sind;\nb. die im Zeitpunkt einer grenzüberschreitenden Fusion oder Umstrukturierung nach Artikel 61 Absatz 1 Buchstabe b und Absatz 3 DBG oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung nach dem 24. Februar 2008 bereits in einer ausländischen Kapitalgesellschaft oder Genossenschaft vorhanden waren;\nc. die an in- und ausländische juristische Personen zurückgezahlt werden, die zu mindestens 10 Prozent am Grund- oder Stammkapital der leistenden Gesellschaft beteiligt sind;\nd. im Falle der Liquidation oder der Verlegung des Sitzes oder der tatsächlichen Verwaltung der Kapitalgesellschaft oder Genossenschaft ins Ausland.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1quinquies VStG",
+        "content": "Die Gesellschaft hat die Reserven aus Kapitaleinlagen nach Absatz 1quater Buchstaben a und b auf einem gesonderten Konto auszuweisen und der ESTV jede Veränderung auf diesem Konto zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1sexies VStG",
+        "content": "Die Absätze 1ter–1quinquies gelten sinngemäss auch für Reserven aus Kapitaleinlagen, die für die Ausgabe von Gratisaktien oder für Gratisnennwerterhöhungen verwendet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 1septies VStG",
+        "content": "Absatz 1bis gilt für Einlagen und Aufgelder, die während eines Kapitalbands nach den Artikeln 653s ff. des OR geleistet werden, nur soweit sie die Rückzahlungen von Reserven im Rahmen dieses Kapitalbands übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, I. Kapitalerträge, 2. Ausnahmen",
+        "citation": "Art. 5 Abs. 2 VStG",
+        "content": "Die Verordnung kann vorschreiben, dass Zinsen verschiedener, von einem Gläubiger oder Verfügungsberechtigten bei der gleichen Bank oder Sparkasse unterhaltener Kundenguthaben zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, II. Gewinne aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 6 Abs. 1 VStG",
+        "content": "Gegenstand der Verrechnungssteuer auf Gewinnen aus Geldspielen sind ausgerichtete einzelne Gewinne, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_6"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, II. Gewinne aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 6 Abs. 2 VStG",
+        "content": "Gegenstand der Verrechnungssteuer auf Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung sind ausgerichtete einzelne Gewinne, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_6"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, III. Versicherungsleistungen, 1. Regel",
+        "citation": "Art. 7 Abs. 1 VStG",
+        "content": "Gegenstand der Verrechnungssteuer auf Versicherungsleistungen sind Kapitalleistungen aus Lebensversicherung sowie Leibrenten und Pensionen, sofern die Versicherung zum inländischen Bestand des Versicherers gehört und bei Eintritt des versicherten Ereignisses der Versicherungsnehmer oder ein Anspruchsberechtigter Inländer ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, III. Versicherungsleistungen, 1. Regel",
+        "citation": "Art. 7 Abs. 2 VStG",
+        "content": "Wird eine Versicherung vom inländischen in einen ausländischen Versicherungsbestand übergeführt oder tritt ein Inländer seine Versicherungsansprüche an einen Ausländer ab, so steht dies steuerlich der Erbringung der Versicherungsleistung gleich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, III. Versicherungsleistungen, 1. Regel",
+        "citation": "Art. 7 Abs. 3 VStG",
+        "content": "Als Kapitalleistung aus Lebensversicherung gilt auch jede Auszahlung von Guthaben im Sinne von Artikel 5 Absatz 1 Buchstabe d, unbekümmert um den Grund dieser Auszahlung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, III. Versicherungsleistungen, 2. Ausnahmen",
+        "citation": "Art. 8 Abs. 1 VStG",
+        "content": "Von der Steuer sind ausgenommen:\na. Kapitalleistungen, wenn der gesamte Leistungsbetrag aus derselben Versicherung 5000 Franken nicht übersteigt;\nb. Renten und Pensionen, wenn ihr Betrag einschliesslich Zulagen im Jahr 500 Franken nicht übersteigt;\nc. Leistungen auf Grund der Bundesgesetze über die Alters- und Hinterlassenenversicherung und die Invalidenversicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_8"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, III. Versicherungsleistungen, 2. Ausnahmen",
+        "citation": "Art. 8 Abs. 2 VStG",
+        "content": "Die Verordnung kann allgemein vorschreiben, dass Kapitalleistungen oder Renten und Pensionen, die beim gleichen Versicherer auf dasselbe Leben gestellt sind, zusammenzurechnen sind; bei offenbarem Missbrauch kann die ESTV eine solche Zusammenrechnung im Einzelfall anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_8"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, IV. Begriffsbestimmungen",
+        "citation": "Art. 9 Abs. 1 VStG",
+        "content": "Inländer ist, wer im Inland Wohnsitz, dauernden Aufenthalt oder statutarischen Sitz hat oder als Unternehmen im inländischen Handelsregister eingetragen ist; als Inländer im Sinne von Artikel 4 gelten auch juristische Personen oder Handelsgesellschaften ohne juristische Persönlichkeit, die ihren statutarischen Sitz im Ausland haben, jedoch tatsächlich im Inland geleitet werden und hier eine Geschäftstätigkeit ausüben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, IV. Begriffsbestimmungen",
+        "citation": "Art. 9 Abs. 2 VStG",
+        "content": "Als Bank oder Sparkasse gilt, wer sich öffentlich zur Annahme verzinslicher Gelder empfiehlt oder fortgesetzt Gelder gegen Zins entgegennimmt; ausgenommen sind Sparvereine, die Einlagen nur von den eigenen Mitgliedern entgegennehmen, sowie Betriebssparkassen, die als Einleger nur das Personal des Betriebes zulassen, sofern diese Vereine oder Kassen die ihnen anvertrauten Gelder ausschliesslich in Werten anlegen, deren Ertrag der Verrechnungssteuer unterliegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, A. Gegenstand der Steuer, IV. Begriffsbestimmungen",
+        "citation": "Art. 9 Abs. 3 VStG",
+        "content": "Wo in diesem Gesetz von kollektiven Kapitalanlagen gemäss KAG die Rede ist, gelten seine Vorschriften für alle Personen, welche die entsprechenden Funktionen ausüben. Die Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden in diesem Gesetz den Kapitalgesellschaften gleichgestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, I. Steuerpflichtiger",
+        "citation": "Art. 10 Abs. 1 VStG",
+        "content": "Steuerpflichtig ist der Schuldner der steuerbaren Leistung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_10"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, I. Steuerpflichtiger",
+        "citation": "Art. 10 Abs. 2 VStG",
+        "content": "Bei kollektiven Kapitalanlagen gemäss KAG sind die Fondsleitung, die Investmentgesellschaft mit variablem Kapital, die Investmentgesellschaft mit festem Kapital und die Kommanditgesellschaft steuerpflichtig. Haben eine Mehrheit der unbeschränkt haftenden Gesellschafter einer Kommanditgesellschaft für kollektive Kapitalanlagen ihren Wohnsitz im Ausland oder handelt es sich bei den unbeschränkt haftenden Gesellschaftern um juristische Personen, an denen eine Mehrheit von Personen mit Wohnsitz oder Sitz im Ausland beteiligt sind, haftet die Depotbank der Kommanditgesellschaft solidarisch für die Steuer auf den ausbezahlten Erträgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_10"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, II. Art der Erfüllung",
+        "citation": "Art. 11 Abs. 1 VStG",
+        "content": "Die Steuerpflicht wird erfüllt durch:\na. Entrichtung der Steuer (Art. 12–18); oder\nb. Meldung der steuerbaren Leistung (Art. 19–20a).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_11"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, II. Art der Erfüllung",
+        "citation": "Art. 11 Abs. 2 VStG",
+        "content": "Die Verordnung umschreibt die Voraussetzungen, unter denen gegen Domizilerklärung (Affidavit) die Verrechnungssteuer auf Erträgen von Anteilen an kollektiven Kapitalanlagen gemäss KAG nicht erhoben wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_11"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 1. Entstehung der Steuerforderung",
+        "citation": "Art. 12 Abs. 1 VStG",
+        "content": "Bei Kapitalerträgen und bei Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind, sowie bei Gewinnen aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind, entsteht die Steuerforderung im Zeitpunkt, in dem die steuerbare Leistung fällig wird. Werden Zinsen kapitalisiert oder wird eine Sitzverlegung ins Ausland (Art. 4 Abs. 2) beschlossen, so bewirkt dies die Entstehung der Steuerforderung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 1. Entstehung der Steuerforderung",
+        "citation": "Art. 12 Abs. 1bis VStG",
+        "content": "Im Falle des Erwerbs eigener Beteiligungsrechte nach Artikel 4a Absatz 2 entsteht die Steuerforderung mit Ablauf der dort geregelten Frist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 1. Entstehung der Steuerforderung",
+        "citation": "Art. 12 Abs. 1ter VStG",
+        "content": "Bei Thesaurierungsfonds entsteht die Steuerforderung im Zeitpunkt der Gutschrift des steuerbaren Ertrages (Art. 4 Abs. 1 Bst. c).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 1. Entstehung der Steuerforderung",
+        "citation": "Art. 12 Abs. 2 VStG",
+        "content": "Bei Versicherungsleistungen entsteht die Steuerforderung mit der Erbringung der Leistung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 1. Entstehung der Steuerforderung",
+        "citation": "Art. 12 Abs. 3 VStG",
+        "content": "Ist der Schuldner aus einem in seiner Person liegenden Grunde ausserstande, die steuerbare Leistung bei ihrer Fälligkeit zu erbringen, so entsteht die Steuerforderung erst im Zeitpunkt, auf den die Leistung oder eine an ihre Stelle tretende Leistung zahlbar gestellt, in jedem Falle aber, wenn sie tatsächlich erbracht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 2. Steuersätze",
+        "citation": "Art. 13 Abs. 1 VStG",
+        "content": "Die Steuer beträgt:\na. auf Kapitalerträgen und auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: 35 Prozent der steuerbaren Leistung;\nb. auf Leibrenten und Pensionen: 15 Prozent der steuerbaren Leistung;\nc. auf sonstigen Versicherungsleistungen: 8 Prozent der steuerbaren Leistung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_13"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 2. Steuersätze",
+        "citation": "Art. 13 Abs. 2 VStG",
+        "content": "Der Bundesrat kann den in Absatz 1 Buchstabe a festgesetzten Steuersatz auf ein Jahresende auf 30 Prozent herabsetzen, wenn es die Entwicklung der Währungslage oder des Kapitalmarktes erfordert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_13"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 3. Überwälzung",
+        "citation": "Art. 14 Abs. 1 VStG",
+        "content": "Die steuerbare Leistung ist bei der Auszahlung, Überweisung, Gutschrift oder Verrechnung ohne Rücksicht auf die Person des Gläubigers um den Steuerbetrag zu kürzen. Vereinbarungen, die dieser Verpflichtung widersprechen, sind nichtig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_14"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 3. Überwälzung",
+        "citation": "Art. 14 Abs. 2 VStG",
+        "content": "Der Steuerpflichtige hat dem Empfänger der steuerbaren Leistung die zur Geltendmachung des Rückerstattungsanspruchs notwendigen Angaben zu machen und auf Verlangen hierüber eine Bescheinigung auszustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_14"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 4. Mithaftung",
+        "citation": "Art. 15 Abs. 1 VStG",
+        "content": "Mit dem Steuerpflichtigen haften solidarisch:\na. für die Steuer einer aufgelösten juristischen Person, einer Handelsgesellschaft ohne juristische Persönlichkeit oder einer kollektiven Kapitalanlage: die mit der Liquidation betrauten Personen bis zum Betrag des Liquidationsergebnisses;\nb. für die Steuer einer juristischen Person oder einer kollektiven Kapitalanlage, die ihren Sitz ins Ausland verlegt: die Organe und im Falle der Kommanditgesellschaft für kollektive Kapitalanlage die Depotbank bis zum Betrage des reinen Vermögens der juristischen Person und der kollektiven Kapitalanlage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 4. Mithaftung",
+        "citation": "Art. 15 Abs. 2 VStG",
+        "content": "Die in Absatz 1 bezeichneten Personen haften nur für Steuer‐, Zins- und Kostenforderungen, die während ihrer Geschäftsführung entstehen, geltend gemacht oder fällig werden; ihre Haftung entfällt, soweit sie nachweisen, dass sie alles ihnen Zumutbare zur Feststellung und Erfüllung der Steuerforderung getan haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 4. Mithaftung",
+        "citation": "Art. 15 Abs. 3 VStG",
+        "content": "Der Mithaftende hat im Verfahren die gleichen Rechte und Pflichten wie der Steuerpflichtige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 5. Fälligkeit; Verzugszins",
+        "citation": "Art. 16 Abs. 1 VStG",
+        "content": "Die Steuer wird fällig:\na. auf Zinsen von Kassenobligationen und Kundenguthaben bei inländischen Banken oder Sparkassen: 30 Tage nach Ablauf jedes Geschäftsvierteljahres für die in diesem Zeitraum fällig gewordenen Zinsen;\nb. ...\nc. auf den übrigen Kapitalerträgen und auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: 30 Tage nach Entstehung der Steuerforderung (Art. 12);\nd. auf Versicherungsleistungen: 30 Tage nach Ablauf jedes Monats für die in diesem Monat erbrachten Leistungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 5. Fälligkeit; Verzugszins",
+        "citation": "Art. 16 Abs. 2 VStG",
+        "content": "Auf Steuerbeträgen, die nach Ablauf der in Absatz 1 geregelten Fälligkeitstermine ausstehen, ist ohne Mahnung ein Verzugszins geschuldet. Der Zinssatz wird vom Eidgenössischen Finanzdepartement bestimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 5. Fälligkeit; Verzugszins",
+        "citation": "Art. 16 Abs. 2bis VStG",
+        "content": "Kein Verzugszins ist geschuldet, wenn die materiellen Voraussetzungen für die Erfüllung der Steuerpflicht durch Meldung der steuerbaren Leistung erfüllt sind nach:\na. Artikel 20 und seinen Ausführungsbestimmungen;\nabis. Artikel 20a und seinen Ausführungsbestimmungen; oder\nb. dem im Einzelfall anwendbaren internationalen Abkommen und den Ausführungs¬bestimmungen zu diesem Abkommen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 5. Fälligkeit; Verzugszins",
+        "citation": "Art. 16 Abs. 3 VStG",
+        "content": "Wird über den Steuerpflichtigen der Konkurs eröffnet oder verlegt er seinen Wohnsitz oder Aufenthalt ins Ausland, so bewirkt dies die Fälligkeit der Steuer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 6. Untergang der Steuerforderung, a. Verjährung",
+        "citation": "Art. 17 Abs. 1 VStG",
+        "content": "Die Steuerforderung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist (Art. 12).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 6. Untergang der Steuerforderung, a. Verjährung",
+        "citation": "Art. 17 Abs. 2 VStG",
+        "content": "Die Verjährung beginnt nicht oder steht stille, solange die Steuerforderung sichergestellt ist oder keiner der Zahlungspflichtigen im Inland Wohnsitz hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 6. Untergang der Steuerforderung, a. Verjährung",
+        "citation": "Art. 17 Abs. 3 VStG",
+        "content": "Die Verjährung wird unterbrochen durch jede Anerkennung der Steuerforderung von Seiten eines Zahlungspflichtigen sowie durch jede auf Geltendmachung des Steueranspruchs gerichtete Amtshandlung, die einem Zahlungspflichtigen zur Kenntnis gebracht wird; mit der Unterbrechung beginnt die Verjährung von neuem.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 6. Untergang der Steuerforderung, a. Verjährung",
+        "citation": "Art. 17 Abs. 4 VStG",
+        "content": "Stillstand und Unterbrechung wirken gegenüber allen Zahlungspflichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, III. Steuerentrichtung, 6. Untergang der Steuerforderung, b. Erlass",
+        "citation": "Art. 18 VStG",
+        "content": "Die Steuerforderung, die bei der Aufwertung sanierungshalber abgeschriebener Beteiligungsrechte oder bei der Einlösung anlässlich einer Sanierung ausgegebener Genussscheine entstanden ist, kann erlassen werden, soweit der Steuerbezug eine offenbare Härte gegen den Empfänger der steuerbaren Leistung bedeuten würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_18"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 1. Bei Versicherungsleistungen",
+        "citation": "Art. 19 Abs. 1 VStG",
+        "content": "Der Versicherer hat seine Steuerpflicht durch Meldung der steuerbaren Versicherungsleistung zu erfüllen, sofern nicht vor Ausrichtung der Leistung der Versicherungsnehmer oder ein Anspruchsberechtigter bei ihm schriftlich Einspruch gegen die Meldung erhoben hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 1. Bei Versicherungsleistungen",
+        "citation": "Art. 19 Abs. 2 VStG",
+        "content": "Übersteigt die infolge des Einspruchs zu entrichtende Steuer die noch zu erbringende Versicherungsleistung, so ist der Einspruch nur wirksam, wenn der Einsprecher dem Versicherer den Fehlbetrag ersetzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 1. Bei Versicherungsleistungen",
+        "citation": "Art. 19 Abs. 3 VStG",
+        "content": "Die Meldungen sind innert 30 Tagen nach Ablauf jedes Monats für die in diesem Monat erbrachten Leistungen schriftlich der ESTV zu erstatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 2. Bei Kapitalerträgen",
+        "citation": "Art. 20 Abs. 1 VStG",
+        "content": "Würde bei Kapitalerträgen die Steuerentrichtung zu unnötigen Umtrieben oder zu einer offenbaren Härte führen, so kann der steuerpflichtigen Person gestattet werden, ihre Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 2. Bei Kapitalerträgen",
+        "citation": "Art. 20 Abs. 2 VStG",
+        "content": "Der Bundesrat umschreibt die Fälle, in denen das Meldeverfahren zulässig ist. Das Meldeverfahren ist insbesondere bei Dividendenausschüttungen und geldwerten Leistungen im inländischen und grenzüberschreitenden Konzernverhältnis zuzulassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 2. Bei Kapitalerträgen",
+        "citation": "Art. 20 Abs. 3 VStG",
+        "content": "In den Fällen nach Artikel 16 Absatz 2bis Buchstaben a und b wird das Meldeverfahren unabhängig davon gewährt, ob die Meldung der steuerbaren Leistung, das Gesuch um Bewilligung des Meldeverfahrens oder die Geltendmachung des Anspruchs auf ein Meldeverfahren rechtzeitig erfolgt oder nicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 3. Bei Naturalgewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 20a Abs. 1 VStG",
+        "content": "Bei Naturalgewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind, sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind, hat die Veranstalterin die Steuerpflicht durch Meldung der steuerbaren Leistung zu erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 3. Bei Naturalgewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 20a Abs. 2 VStG",
+        "content": "Die Meldung ist innert 90 Tagen nach Fälligkeit des Gewinns schriftlich der ESTV zu erstatten. Der Meldung ist eine Wohnsitzbestätigung der Gewinnerin oder des Gewinners beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 3. Bei Naturalgewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 20a Abs. 3 VStG",
+        "content": "Die ESTV leitet die Meldung an die Steuerbehörde des Wohnsitzkantons der Gewinnerin oder des Gewinners weiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Erster Abschnitt: Steuererhebung, B. Steuerpflicht, IV. Meldung statt Steuerentrichtung, 3. Bei Naturalgewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung",
+        "citation": "Art. 20a Abs. 4 VStG",
+        "content": "Das Meldeverfahren wird auch dann gewährt, wenn die Meldung nicht innert 90 Tagen nach Fälligkeit des Gewinns erstattet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, I. Allgemeine Voraussetzungen des Anspruchs",
+        "citation": "Art. 21 Abs. 1 VStG",
+        "content": "Ein nach den Artikeln 22–28 Berechtigter hat Anspruch auf Rückerstattung der ihm vom Schuldner abgezogenen Verrechnungssteuer:\na. auf Kapitalerträgen: wenn er bei Fälligkeit der steuerbaren Leistung das Recht zur Nutzung des den steuerbaren Ertrag abwerfenden Vermögenswertes besass;\nb. auf Gewinnen aus Geldspielen, die nicht nach Artikel 24 Buchstaben i–iter DBG steuerfrei sind, und aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, die nicht nach Artikel 24 Buchstabe j DBG steuerfrei sind: wenn er bei der Ziehung Eigentümer des Loses war oder gewinnberechtigter Teilnehmer ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, I. Allgemeine Voraussetzungen des Anspruchs",
+        "citation": "Art. 21 Abs. 2 VStG",
+        "content": "Die Rückerstattung ist in allen Fällen unzulässig, in denen sie zu einer Steuerumgehung führen würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, I. Allgemeine Voraussetzungen des Anspruchs",
+        "citation": "Art. 21 Abs. 3 VStG",
+        "content": "Wo besondere Verhältnisse es rechtfertigen (Börsengeschäfte u. dgl.), kann die Verordnung die Anspruchsberechtigung abweichend von Absatz 1 regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 1. Natürliche Personen, a. Anspruch",
+        "citation": "Art. 22 Abs. 1 VStG",
+        "content": "Natürliche Personen haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung im Inland Wohnsitz hatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_22"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 1. Natürliche Personen, a. Anspruch",
+        "citation": "Art. 22 Abs. 2 VStG",
+        "content": "Die Verordnung regelt den Rückerstattungsanspruch natürlicher Personen, die infolge blossen Aufenthalts zur Entrichtung von Einkommens- oder Vermögenssteuern des Bundes, eines Kantons oder einer Gemeinde verpflichtet sind; sie kann, wo besondere Verhältnisse es rechtfertigen, die Rückerstattung auch für andere Fälle vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_22"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 1. Natürliche Personen, b. Verwirkung",
+        "citation": "Art. 23 Abs. 1 VStG",
+        "content": "Wer mit der Verrechnungssteuer belastete Einkünfte oder Vermögen, woraus solche Einkünfte fliessen, entgegen gesetzlicher Vorschrift der zuständigen Steuerbehörde nicht angibt, verwirkt den Anspruch auf Rückerstattung der von diesen Einkünften abgezogenen Verrechnungssteuer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_23"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 1. Natürliche Personen, b. Verwirkung",
+        "citation": "Art. 23 Abs. 2 VStG",
+        "content": "Die Verwirkung tritt nicht ein, wenn die Einkünfte oder Vermögen in der Steuererklärung fahrlässig nicht angegeben wurden und in einem noch nicht rechtskräftig abgeschlossenen Veranlagungs-, Revisions- oder Nachsteuerverfahren: \na. nachträglich angegeben werden; oder \nb. von der Steuerbehörde aus eigener Feststellung zu den Einkünften oder Vermögen hinzugerechnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_23"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., a. Anspruch",
+        "citation": "Art. 24 Abs. 1 VStG",
+        "content": "Der Bund, die Kantone und die Gemeinden sowie ihre Anstalten und Betriebe und die unter ihrer Verwaltung stehenden Spezialfonds haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn der den steuerbaren Ertrag abwerfende Vermögenswert in der Rechnung ausgewiesen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., a. Anspruch",
+        "citation": "Art. 24 Abs. 2 VStG",
+        "content": "Juristische Personen und Handelsgesellschaften ohne juristische Persönlichkeit haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung ihren Sitz im Inland hatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., a. Anspruch",
+        "citation": "Art. 24 Abs. 3 VStG",
+        "content": "Ausländische Unternehmen, die für ihre Einkünfte aus einer inländischen Betriebsstätte oder für deren Betriebsvermögen Kantons- oder Gemeindesteuern zu entrichten verpflichtet sind, haben Anspruch auf Rückerstattung der von den Einkünften aus diesem Betriebsvermögen abgezogenen Verrechnungssteuer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., a. Anspruch",
+        "citation": "Art. 24 Abs. 4 VStG",
+        "content": "Ausländische Körperschaften und Anstalten ohne Erwerbszweck haben Anspruch auf Rückerstattung der Verrechnungssteuer, die von Einkünften aus Vermögen abgezogen wurde, das ausschliesslich Kultus-, Unterrichts- oder andern gemeinnützigen Zwecken des Auslandschweizertums dient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., a. Anspruch",
+        "citation": "Art. 24 Abs. 5 VStG",
+        "content": "Die Verordnung regelt den Rückerstattungsanspruch von Stockwerkeigentümergemeinschaften sowie von anderen Personenvereinigungen und Vermögensmassen, die das Recht der Persönlichkeit nicht erlangt haben, aber über eine eigene Organisation verfügen und im Inland tätig sind oder verwaltet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., b. Verwirkung",
+        "citation": "Art. 25 Abs. 1 VStG",
+        "content": "Juristische Personen, Handelsgesellschaften ohne juristische Persönlichkeit und ausländische Unternehmen mit inländischer Betriebsstätte (Art. 24 Abs. 2–4), welche die mit der Verrechnungssteuer belasteten Einkünfte nicht ordnungsgemäss als Ertrag verbuchen, verwirken den Anspruch auf Rückerstattung der von diesen Einkünften abgezogenen Verrechnungssteuer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_25"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 2. Juristische Personen, Geschäftsbetriebe u. dgl., b. Verwirkung",
+        "citation": "Art. 25 Abs. 2 VStG",
+        "content": "Wo besondere Verhältnisse es rechtfertigen (Gratisaktien u. dgl.), kann die Verordnung Ausnahmen von dem in Absatz 1 aufgestellten Erfordernis der Verbuchung als Ertrag zulassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_25"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 3. Kollektive Kapitalanlagen",
+        "citation": "Art. 26 VStG",
+        "content": "Die kollektive Kapitalanlage, welche die Verrechnungssteuer auf den Erträgen von Anteilen an einer kollektiven Kapitalanlage gemäss KAG entrichtet (Art. 10 Abs. 2), hat für Rechnung der kollektiven Kapitalanlage Anspruch auf Rückerstattung der zu ihren Lasten abgezogenen Verrechnungssteuer; Artikel 25 findet sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_26"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 4. Ausländische Inhaber von Anteilen an kollektiven Kapitalanlagen",
+        "citation": "Art. 27 VStG",
+        "content": "Ausländische Inhaber von Anteilen an einer kollektiven Kapitalanlage gemäss KAG haben Anspruch auf Rückerstattung der von den Erträgen dieser Anteile abgezogenen Verrechnungssteuer, sofern diese Erträge zu mindestens 80 Prozent von ausländischen Quellen entstammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_27"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 5. Ausländische Staaten, internationale Organisationen, Diplomaten u. dgl.",
+        "citation": "Art. 28 Abs. 1 VStG",
+        "content": "Ausländische Staaten haben Anspruch auf Rückerstattung der Verrechnungssteuer, soweit diese auf Zinsen von Guthaben abgezogen wurde, die sie ausschliesslich für die Bedürfnisse ihrer diplomatischen und konsularischen Vertretungen bei inländischen Banken unterhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 5. Ausländische Staaten, internationale Organisationen, Diplomaten u. dgl.",
+        "citation": "Art. 28 Abs. 2 VStG",
+        "content": "Die gemäss dem Gaststaatgesetz vom 22. Juni 2007 von der Steuerpflicht ausgenommenen Begünstigten haben Anspruch auf Rückerstattung der Verrechnungssteuer, wenn sie bei Fälligkeit der steuerbaren Leistung nach gesetzlicher Vorschrift, Vertragsrecht oder Übung von der Entrichtung kantonaler Steuern auf Wertpapieren und Bankguthaben sowie auf dem Ertrag solcher Werte befreit waren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, II. Berechtigte, 5. Ausländische Staaten, internationale Organisationen, Diplomaten u. dgl.",
+        "citation": "Art. 28 Abs. 3 VStG",
+        "content": "Hält ein ausländischer Staat nicht Gegenrecht, so wird ihm sowie den Angehörigen seiner diplomatischen oder konsularischen Vertretungen die Rückerstattung versagt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 1. Antrag",
+        "citation": "Art. 29 Abs. 1 VStG",
+        "content": "Wer Rückerstattung der Verrechnungssteuer beansprucht, hat sie bei der zuständigen Behörde schriftlich zu beantragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 1. Antrag",
+        "citation": "Art. 29 Abs. 2 VStG",
+        "content": "Der Antrag kann frühestens nach Ablauf des Kalenderjahres, in dem die steuerbare Leistung fällig geworden ist, gestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 1. Antrag",
+        "citation": "Art. 29 Abs. 3 VStG",
+        "content": "Wo wichtige Gründe vorliegen (Beendigung der Steuerpflicht, Auflösung einer juristischen Person, Konkurs und dergleichen) oder wo besondere Härten es rechtfertigen, kann der Antrag vorzeitig gestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 2. Zuständige Behörden",
+        "citation": "Art. 30 Abs. 1 VStG",
+        "content": "Natürliche Personen haben ihren Antrag auf Rückerstattung bei der Steuerbehörde desjenigen Kantons einzureichen, in dem sie am Ende des Kalenderjahres, in dem die steuerbare Leistung fällig wurde, Wohnsitz hatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 2. Zuständige Behörden",
+        "citation": "Art. 30 Abs. 2 VStG",
+        "content": "Juristische Personen, Handelsgesellschaften ohne juristische Persönlichkeit und alle sonstigen in Absatz 1 nicht genannten Anspruchsberechtigten haben ihren Antrag bei der ESTV einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, III. Geltendmachung des Anspruchs, 2. Zuständige Behörden",
+        "citation": "Art. 30 Abs. 3 VStG",
+        "content": "Wo die Verhältnisse es rechtfertigen, kann der Bundesrat die Zuständigkeit abweichend ordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, IV. Befriedigung des Anspruchs",
+        "citation": "Art. 31 Abs. 1 VStG",
+        "content": "Die Kantone befriedigen den Anspruch in der Regel bis zur Höhe der vom Antragsteller zu entrichtenden Kantons- und Gemeindesteuern in Form der Verrechnung, für den Überschuss durch Rückerstattung in bar; sie können in ihren Vollzugsvorschriften die volle Rückerstattung in bar vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, IV. Befriedigung des Anspruchs",
+        "citation": "Art. 31 Abs. 2 VStG",
+        "content": "Die Kantons- und Gemeindesteuern, mit welchen die Verrechnungssteuer gemäss Absatz 1 zu verrechnen ist, werden in den kantonalen Vollzugsvorschriften bezeichnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, IV. Befriedigung des Anspruchs",
+        "citation": "Art. 31 Abs. 3 VStG",
+        "content": "Wird der Antrag auf Rückerstattung mit der kantonalen Steuererklärung oder, wenn keine solche einzureichen ist, innert einer vom Kanton zu bestimmenden Frist gestellt, so wird mit den im gleichen Jahr zu entrichtenden Kantons- oder Gemeindesteuern verrechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, IV. Befriedigung des Anspruchs",
+        "citation": "Art. 31 Abs. 4 VStG",
+        "content": "Die zu verrechnenden oder zurückzuerstattenden Beträge werden nicht verzinst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, V. Untergang des Anspruchs infolge Zeitablaufs",
+        "citation": "Art. 32 Abs. 1 VStG",
+        "content": "Der Anspruch auf Rückerstattung erlischt, wenn der Antrag nicht innert drei Jahren nach Ablauf des Kalenderjahres, in dem die steuerbare Leistung fällig geworden ist, gestellt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_32"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, A. Rückerstattung der Steuer auf Kapitalerträgen und auf Gewinnen aus Geldspielen sowie aus Lotterien und Geschicklichkeitsspielen zur Verkaufsförderung, V. Untergang des Anspruchs infolge Zeitablaufs",
+        "citation": "Art. 32 Abs. 2 VStG",
+        "content": "Wird die Verrechnungssteuer erst auf Grund einer Beanstandung der ESTV entrichtet und überwälzt, und ist die Frist gemäss Absatz 1 bereits abgelaufen oder verbleiben von der Entrichtung der Steuer bis zu ihrem Ablauf nicht mindestens 60 Tage, so beginnt mit der Entrichtung der Steuer eine neue Frist von 60 Tagen zur Einreichung des Antrages.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_32"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, B. Rückerstattung der Steuer auf Versicherungsleistungen",
+        "citation": "Art. 33 Abs. 1 VStG",
+        "content": "Der Empfänger der um die Verrechnungssteuer gekürzten Versicherungsleistung hat Anspruch auf Rückerstattung der Steuer, wenn er die Abzugsbescheinigung des Versicherers (Art. 14 Abs. 2) beibringt und alle Angaben vermittelt, die zur Geltendmachung der mit der Versicherung zusammenhängenden Steueransprüche des Bundes und der Kantone erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, B. Rückerstattung der Steuer auf Versicherungsleistungen",
+        "citation": "Art. 33 Abs. 2 VStG",
+        "content": "Wer Rückerstattung beansprucht, hat sie bei der ESTV schriftlich zu beantragen; der Anspruch erlischt, wenn der Antrag nicht innert drei Jahren nach Ablauf des Kalenderjahres, in dem die Versicherungsleistung erbracht worden ist, gestellt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Zweiter Abschnitt: Steuerrückerstattung, B. Rückerstattung der Steuer auf Versicherungsleistungen",
+        "citation": "Art. 33 Abs. 3 VStG",
+        "content": "Die Artikel 31 Absatz 4 und 32 Absatz 2 finden Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, I. Organisation, 1. ESTV",
+        "citation": "Art. 34 Abs. 1 VStG",
+        "content": "Die ESTV erlässt für die Erhebung und Rückerstattung der Verrechnungssteuer alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer andern Behörde vorbehalten sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_34"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, I. Organisation, 1. ESTV",
+        "citation": "Art. 34 Abs. 2 VStG",
+        "content": "Soweit die Rückerstattung der Verrechnungssteuer den Kantonen übertragen ist, sorgt die ESTV für die gleichmässige Handhabung der Bundesvorschriften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_34"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren",
+        "citation": "Art. 34a Abs. 1 VStG",
+        "content": "Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren",
+        "citation": "Art. 34a Abs. 2 VStG",
+        "content": "Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren",
+        "citation": "Art. 34a Abs. 3 VStG",
+        "content": "Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die steuerpflichtige oder antragstellende Person anerkennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren, 2. Kantonale Behörden",
+        "citation": "Art. 35 Abs. 1 VStG",
+        "content": "Organisation und Amtsführung der mit dem Vollzug dieses Gesetzes betrauten kantonalen Behörden werden, soweit das Bundesrecht nichts anderes bestimmt, durch das kantonale Recht geregelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren, 2. Kantonale Behörden",
+        "citation": "Art. 35 Abs. 2 VStG",
+        "content": "Jeder Kanton bestellt eine von der Verwaltung unabhängige Rekurskommission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren, 2. Kantonale Behörden",
+        "citation": "Art. 35 Abs. 3 VStG",
+        "content": "Die Kantone bestimmen in ihren Vollzugsvorschriften die Amtsstellen, denen die Rückerstattung der Verrechnungssteuer obliegt (Verrechnungssteuerämter).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 1a. Elektronische Verfahren, 2. Kantonale Behörden",
+        "citation": "Art. 35 Abs. 4 VStG",
+        "content": "Die kantonalen Vollzugsvorschriften zu diesem Gesetze sind dem Bund zur Genehmigung zu unterbreiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 2a. Elektronische Verfahren im Kanton",
+        "citation": "Art. 35a Abs. 1 VStG",
+        "content": "Die Kantone sehen die Möglichkeit elektronischer Verfahren vor. Dabei stellen sie die Authentizität und Integrität der übermittelten Daten nach kantonalem Recht sicher.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 2a. Elektronische Verfahren im Kanton",
+        "citation": "Art. 35a Abs. 2 VStG",
+        "content": "Sie sehen bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der Unterzeichnung die Möglichkeit einer elektronischen Bestätigung der Angaben durch die antragstellende Person vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, 2a. Elektronische Verfahren im Kanton",
+        "citation": "Art. 35a Abs. 3 VStG",
+        "content": "Sie sehen vor, dass die Steuerbehörde der antragstellenden Person mit deren Einverständnis Dokumente in elektronischer Form zustellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 36 Abs. 1 VStG",
+        "content": "Die Steuerbehörden der Kantone, Bezirke, Kreise und Gemeinden und die ESTV unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie haben sich kostenlos die zweckdienlichen Meldungen zu erstatten, die benötigten Auskünfte zu erteilen und in amtliche Akten Einsicht zu gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 36 Abs. 2 VStG",
+        "content": "Die Verwaltungsbehörden des Bundes und die andern als die in Absatz 1 genannten Behörden der Kantone, Bezirke, Kreise und Gemeinden sind gegenüber der ESTV auskunftspflichtig, sofern die verlangten Auskünfte für die Durchführung dieses Gesetzes von Bedeutung sein können. Eine Auskunft darf nur verweigert werden, soweit ihr wesentliche öffentliche Interessen, insbesondere die innere oder äussere Sicherheit des Bundes oder der Kantone entgegenstehen, oder die Auskunft die angegangene Behörde in der Durchführung ihrer Aufgabe wesentlich beeinträchtigen würde. Das Post-, Telefon- und Telegrafengeheimnis ist zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 36 Abs. 3 VStG",
+        "content": "Anstände über die Auskunftspflicht von Verwaltungsbehörden des Bundes entscheidet der Bundesrat, Anstände über die Auskunftspflicht von Behörden der Kantone, Bezirke, Kreise und Gemeinden, sofern die kantonale Regierung das Auskunftsbegehren abgelehnt hat, das Bundesgericht (Art. 110 ff. des Bundesrechtspflegegesetzes vom 16. Dez. 1943).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 36 Abs. 4 VStG",
+        "content": "Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen sind im Rahmen dieser Aufgaben gleich den Behörden zur Auskunft verpflichtet; Absatz 3 findet sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 36a Abs. 1 VStG",
+        "content": "Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 36a Abs. 2 VStG",
+        "content": "Die ESTV und die Behörden nach Artikel 36 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 36 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 36a Abs. 3 VStG",
+        "content": "Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 36a Abs. 4 VStG",
+        "content": "Personendaten und die zu ihrer Bearbeitung verwendeten Einrichtungen wie Datenträger, EDV-Programme und Programmdokumentationen sind vor unbefugtem Verwenden, Verändern oder Zerstören sowie vor Diebstahl zu schützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 36a Abs. 5 VStG",
+        "content": "Der Bundesrat kann Ausführungsbestimmungen erlassen, insbesondere über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu erfassenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie die Archivierung und Vernichtung der Daten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, III. Schweigepflicht",
+        "citation": "Art. 37 Abs. 1 VStG",
+        "content": "Wer mit dem Vollzug dieses Gesetzes betraut ist oder dazu beigezogen wird, hat gegenüber andern Amtsstellen und Privaten über die in Ausübung seines Amtes gemachten Wahrnehmungen Stillschweigen zu bewahren und den Einblick in amtliche Akten zu verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_37"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, A. Behörden, III. Schweigepflicht",
+        "citation": "Art. 37 Abs. 2 VStG",
+        "content": "Keine Geheimhaltungspflicht besteht:\na. bei Leistung von Amtshilfe nach Artikel 36 Absatz 1 und bei Erfüllung einer Pflicht zur Anzeige strafbarer Handlungen;\nb. gegenüber Organen der Rechtspflege und der Verwaltung, die vom Bundesrat allgemein oder vom Eidgenössischen Finanzdepartement im Einzelfalle zur Einholung amtlicher Auskünfte bei den mit dem Vollzug dieses Gesetzes betrauten Behörden ermächtigt worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_37"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 1. Anmeldung als Steuerpflichtiger; Selbstveranlagung",
+        "citation": "Art. 38 Abs. 1 VStG",
+        "content": "Wer auf Grund dieses Gesetzes steuerpflichtig wird, hat sich unaufgefordert bei der ESTV anzumelden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 1. Anmeldung als Steuerpflichtiger; Selbstveranlagung",
+        "citation": "Art. 38 Abs. 2 VStG",
+        "content": "Der Steuerpflichtige hat der ESTV bei Fälligkeit der Steuer (Art. 16) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Steuer zu entrichten oder die an ihre Stelle tretende Meldung (Art. 19 und 20) zu erstatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 1. Anmeldung als Steuerpflichtiger; Selbstveranlagung",
+        "citation": "Art. 38 Abs. 3 VStG",
+        "content": "Für Meldeverfahren nach Artikel 20a Absatz 1 ist die Meldung innert 90 Tagen nach Fälligkeit der steuerbaren Leistung zusammen mit den Belegen und einer Wohnsitzbestätigung der Gewinnerin oder des Gewinners zu erstatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 1. Anmeldung als Steuerpflichtiger; Selbstveranlagung",
+        "citation": "Art. 38 Abs. 4 VStG",
+        "content": "Bei Meldungen nach Artikel 19 über Versicherungsleistungen an inländische natürliche Personen ist deren AHV-Nummer anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 1. Anmeldung als Steuerpflichtiger; Selbstveranlagung",
+        "citation": "Art. 38 Abs. 5 VStG",
+        "content": "Inländische natürliche Personen mit Anspruch auf Versicherungsleistungen nach Artikel 7 müssen der nach Artikel 19 meldepflichtigen Person ihre AHV-Nummer bekanntgeben. Fehlt die Selbstauskunft, so werden die Verzugsfolgen aus Gesetz oder Vertrag bei der meldepflichtigen Person bis zum Erhalt der AHV-Nummer aufgeschoben. Artikel 19 Absatz 3 bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 2. Auskunftspflicht",
+        "citation": "Art. 39 Abs. 1 VStG",
+        "content": "Der Steuerpflichtige hat der ESTV über alle Tatsachen, die für die Steuerpflicht oder für die Steuerbemessung von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere:\na. Steuerabrechnungen, Steuererklärungen und Fragebogen vollständig und genau auszufüllen;\nb. seine Geschäftsbücher ordnungsgemäss zu führen und sie, die Belege und andere Urkunden auf Verlangen beizubringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 2. Auskunftspflicht",
+        "citation": "Art. 39 Abs. 2 VStG",
+        "content": "Die Bestreitung der Pflicht, die Verrechnungssteuer zu entrichten oder eine an ihre Stelle tretende Meldung zu erstatten, entbindet nicht von der Auskunftspflicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 2. Auskunftspflicht",
+        "citation": "Art. 39 Abs. 3 VStG",
+        "content": "Wird die Auskunftspflicht bestritten, so trifft die ESTV eine Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 3. Überprüfung",
+        "citation": "Art. 40 Abs. 1 VStG",
+        "content": "Die Erfüllung der Pflicht zur Anmeldung als Steuerpflichtiger, die Steuerabrechnungen und -ablieferungen sowie die Erfüllung der Meldepflicht gemäss den Artikeln 19 und 20 werden durch die ESTV überprüft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 3. Überprüfung",
+        "citation": "Art. 40 Abs. 2 VStG",
+        "content": "Die ESTV kann zur Abklärung des Sachverhalts die Geschäftsbücher, die Belege und andere Urkunden des Steuerpflichtigen an Ort und Stelle prüfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 3. Überprüfung",
+        "citation": "Art. 40 Abs. 3 VStG",
+        "content": "Ergibt sich, dass der Steuerpflichtige seinen gesetzlichen Pflichten nicht nachgekommen ist, so ist ihm Gelegenheit zu geben, zu den erhobenen Aussetzungen Stellung zu nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 3. Überprüfung",
+        "citation": "Art. 40 Abs. 4 VStG",
+        "content": "Lässt sich der Anstand nicht erledigen, so trifft die ESTV einen Entscheid.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 3. Überprüfung",
+        "citation": "Art. 40 Abs. 5 VStG",
+        "content": "Die anlässlich einer Prüfung gemäss Absatz 1 oder 2 bei einer Bank oder Sparkasse im Sinne des Bankengesetzes vom 8. November 1934, bei der Schweizerischen Nationalbank oder bei einer Pfandbriefzentrale gemachten Feststellungen dürfen ausschliesslich für die Durchführung der Verrechnungssteuer verwendet werden. Das Bankgeheimnis ist zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 4. Entscheide der ESTV",
+        "citation": "Art. 41 VStG",
+        "content": "Die ESTV trifft alle Verfügungen und Entscheide, welche die Erhebung der Verrechnungssteuer notwendig macht; sie trifft einen Entscheid insbesondere dann, wenn:\na. die Steuerforderung, die Mithaftung oder die Überwälzungspflicht bestritten wird;\nb. für einen bestimmten Fall vorsorglich die amtliche Feststellung der Steuerpflicht, der Grundlagen der Steuerberechnung, der Mithaftung oder der Überwälzungspflicht beantragt wird;\nc. der Steuerpflichtige oder Mithaftende die gemäss Abrechnung geschuldete Steuer nicht entrichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_41"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 5. Einsprache",
+        "citation": "Art. 42 Abs. 1 VStG",
+        "content": "Verfügungen und Entscheide der ESTV können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 5. Einsprache",
+        "citation": "Art. 42 Abs. 2 VStG",
+        "content": "Die Einsprache ist schriftlich bei der ESTV einzureichen; sie hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 5. Einsprache",
+        "citation": "Art. 42 Abs. 3 VStG",
+        "content": "Ist gültig Einsprache erhoben worden, so hat die ESTV die Verfügung oder den Entscheid ohne Bindung an die gestellten Anträge zu überprüfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 5. Einsprache",
+        "citation": "Art. 42 Abs. 4 VStG",
+        "content": "Das Einspracheverfahren ist trotz Rückzug der Einsprache weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass die Verfügung oder der Entscheid dem Gesetz nicht entspricht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 5. Einsprache",
+        "citation": "Art. 42 Abs. 5 VStG",
+        "content": "Der Einspracheentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 6. Kosten",
+        "citation": "Art. 44 Abs. 1 VStG",
+        "content": "Im Veranlagungs- und im Einspracheverfahren werden in der Regel keine Kosten berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_44"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 6. Kosten",
+        "citation": "Art. 44 Abs. 2 VStG",
+        "content": "Ohne Rücksicht auf den Ausgang des Verfahrens können Kosten von Untersuchungsmassnahmen demjenigen auferlegt werden, der sie schuldhaft verursacht hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_44"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, a. Betreibung",
+        "citation": "Art. 45 Abs. 1 VStG",
+        "content": "Wird der Anspruch auf Steuern, Zinsen und Kosten auf Mahnung hin nicht befriedigt, so ist Betreibung einzuleiten; vorbehalten bleibt die Eingabe in einem Konkurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_45"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, a. Betreibung",
+        "citation": "Art. 45 Abs. 2 VStG",
+        "content": "Ist die Steuerforderung noch nicht rechtskräftig festgesetzt und wird sie bestritten, so unterbleibt ihre endgültige Kollokation, bis ein rechtskräftiger Steuerentscheid vorliegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_45"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, b. Übergang der Rückgriffsansprüche",
+        "citation": "Art. 46 Abs. 1 VStG",
+        "content": "Fällt der Steuerpflichtige in Konkurs oder wird in einer gegen ihn gerichteten Betreibung das Pfändungsbegehren gestellt, bevor er seiner Pflicht zur Steuerüberwälzung nachgekommen ist, so gehen die ihm zustehenden Rückgriffsansprüche bis zur Höhe der noch nicht bezahlten Steuer auf den Bund über.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_46"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, c. Sicherstellung",
+        "citation": "Art. 47 Abs. 1 VStG",
+        "content": "Die ESTV kann Steuern, Zinsen und Kosten, auch wenn sie weder rechtskräftig festgesetzt noch fällig sind, sicherstellen lassen, wenn:\na. der Bezug als gefährdet erscheint;\nb. der Zahlungspflichtige keinen Wohnsitz in der Schweiz hat oder Anstalten trifft, den Wohnsitz in der Schweiz aufzugeben oder sich im Handelsregister löschen zu lassen;\nc. der Zahlungspflichtige mit der Zahlung der Steuer in Verzug ist oder wiederholt in Verzug war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, c. Sicherstellung",
+        "citation": "Art. 47 Abs. 2 VStG",
+        "content": "Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben. Wird die Sicherstellung aufgrund von Absatz 1 Buchstabe a oder b angeordnet, so gilt die Sicherstellungsverfügung als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs; die Einsprache gegen den Arrestbefehl ist ausgeschlossen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, c. Sicherstellung",
+        "citation": "Art. 47 Abs. 3 VStG",
+        "content": "Gegen Sicherstellungsverfügungen der ESTV kann beim Bundesverwaltungsgericht Beschwerde geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Steuererhebung, 7. Zwangsvollstreckung, c. Sicherstellung",
+        "citation": "Art. 47 Abs. 4 VStG",
+        "content": "Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, a. Pflichten des Antragstellers",
+        "citation": "Art. 48 Abs. 1 VStG",
+        "content": "Wer Rückerstattung der Verrechnungssteuer verlangt, hat der zuständigen Behörde über alle Tatsachen, die für den Rückerstattungsanspruch von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere:\na. die Antragsformulare und Fragebogen vollständig und genau auszufüllen;\nb. auf Verlangen Steuerabzugsbescheinigungen (Art. 14 Abs. 2) zu beschaffen und Geschäftsbücher, Belege und andere Urkunden beizubringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_48"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, a. Pflichten des Antragstellers",
+        "citation": "Art. 48 Abs. 2 VStG",
+        "content": "Kommt der Antragsteller seinen Auskunftspflichten nicht nach und kann der Rückerstattungsanspruch ohne die von der Behörde verlangten Auskünfte nicht abgeklärt werden, so wird der Antrag abgewiesen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_48"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, b. Pflichten Dritter",
+        "citation": "Art. 49 Abs. 1 VStG",
+        "content": "Der Aussteller einer Steuerabzugsbescheinigung ist verpflichtet, dem Antragsteller auf sein Verlangen zuhanden der zuständigen Behörde ergänzende schriftliche Auskünfte zu erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, b. Pflichten Dritter",
+        "citation": "Art. 49 Abs. 2 VStG",
+        "content": "Mitgesellschafter, Miteigentümer und Gesamthänder sind verpflichtet, der zuständigen Behörde auf Verlangen über das Rechtsverhältnis, das sie mit dem Antragsteller verbindet, insbesondere über seine Anteile, Ansprüche und Bezüge, Auskunft zu erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, b. Pflichten Dritter",
+        "citation": "Art. 49 Abs. 3 VStG",
+        "content": "Bestreitet der Dritte seine Auskunftspflicht, so trifft die Behörde eine Verfügung, die mit Einsprache und Beschwerde angefochten werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, c. Überprüfung",
+        "citation": "Art. 50 Abs. 1 VStG",
+        "content": "Die zuständige Behörde ist befugt, die vom Antragsteller oder gemäss Artikel 49 Absatz 2 von Dritten erteilten Auskünfte an Ort und Stelle nachzuprüfen und dabei in die Bücher und Belege sowie in andere Urkunden Einblick zu nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, c. Überprüfung",
+        "citation": "Art. 50 Abs. 2 VStG",
+        "content": "Die ESTV ist überdies befugt, die Steuerabzugsbescheinigungen (Art. 14 Abs. 2) und die sie ergänzenden Auskünfte (Art. 49 Abs. 1) beim Aussteller zu überprüfen. Artikel 40 Absatz 5 findet Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 1. Allgemeine Bestimmungen, c. Überprüfung",
+        "citation": "Art. 50 Abs. 3 VStG",
+        "content": "Die kantonalen Behörden können im Übrigen von den ihnen als Veranlagungsbehörde eingeräumten Befugnissen Gebrauch machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 2. Rückerstattung durch den Bund",
+        "citation": "Art. 51 Abs. 1 VStG",
+        "content": "Entspricht die ESTV einem Antrag nicht oder nur teilweise, und lässt sich der Anstand nicht auf andere Weise erledigen, so trifft sie einen Entscheid.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 2. Rückerstattung durch den Bund",
+        "citation": "Art. 51 Abs. 2 VStG",
+        "content": "Die nicht auf einem Entscheid nach Absatz 1 beruhende Rückerstattung steht unter dem Vorbehalt einer späteren Nachprüfung des Anspruchs; nach Ablauf von drei Jahren seit Gewährung der Rückerstattung ist die Nachprüfung nur noch in Verbindung mit einem Strafverfahren zulässig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 2. Rückerstattung durch den Bund",
+        "citation": "Art. 51 Abs. 3 VStG",
+        "content": "Ergibt die Nachprüfung, dass die Rückerstattung zu Unrecht gewährt worden ist, und verweigern der Antragsteller, seine Erben oder die Mithaftenden die Wiedereinzahlung, so trifft die ESTV einen auf Wiedereinzahlung lautenden Entscheid.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 2. Rückerstattung durch den Bund",
+        "citation": "Art. 51 Abs. 4 VStG",
+        "content": "Die Artikel 42–44 über das Einsprache- und Beschwerdeverfahren und die Verfahrenskosten sowie, im Falle von Absatz 3, auch die Artikel 45 und 47 über Betreibung und Sicherstellung finden sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, a. Entscheid des Verrechnungssteueramtes",
+        "citation": "Art. 52 Abs. 1 VStG",
+        "content": "Das kantonale Verrechnungssteueramt prüft die bei ihm eingereichten Anträge, untersucht den Sachverhalt und trifft alle Massnahmen, welche die richtige Ermittlung des Rückerstattungsanspruchs nötig macht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, a. Entscheid des Verrechnungssteueramtes",
+        "citation": "Art. 52 Abs. 2 VStG",
+        "content": "Nach Abschluss seiner Untersuchung trifft das Verrechnungssteueramt einen Entscheid über den Rückerstattungsanspruch; der Entscheid kann mit der Veranlagungsverfügung verbunden werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, a. Entscheid des Verrechnungssteueramtes",
+        "citation": "Art. 52 Abs. 3 VStG",
+        "content": "Wird dem Rückerstattungsantrag nicht oder nicht in vollem Umfange entsprochen, so ist der Entscheid kurz zu begründen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, a. Entscheid des Verrechnungssteueramtes",
+        "citation": "Art. 52 Abs. 4 VStG",
+        "content": "Die vom Verrechnungssteueramt bewilligte Rückerstattung steht unter dem Vorbehalt einer Überprüfung des Anspruchs durch die ESTV gemäss Artikel 57.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, b. Einsprache",
+        "citation": "Art. 53 Abs. 1 VStG",
+        "content": "Gegen den Entscheid des kantonalen Verrechnungssteueramtes kann innert 30 Tagen nach der Eröffnung bei dieser Amtsstelle schriftlich Einsprache erhoben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, b. Einsprache",
+        "citation": "Art. 53 Abs. 2 VStG",
+        "content": "Auf das Einspracheverfahren finden die Bestimmungen der Artikel 42 und 44 sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, b. Einsprache",
+        "citation": "Art. 53 Abs. 3 VStG",
+        "content": "Vorbehalten bleibt Artikel 55.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 1 VStG",
+        "content": "Gegen den Einspracheentscheid des kantonalen Verrechnungssteueramtes kann innert 30 Tagen nach der Eröffnung bei der kantonalen Rekurskommission schriftlich Beschwerde erhoben werden; die Beschwerde hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben. Vorbehalten bleibt Artikel 55.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 2 VStG",
+        "content": "Die Rekurskommission trifft die erforderlichen Untersuchungsmassnahmen; die Artikel 48–50 finden sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 3 VStG",
+        "content": "Der ESTV ist Gelegenheit zu geben, am Verfahren teilzunehmen und Anträge zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 4 VStG",
+        "content": "Das Beschwerdeverfahren ist trotz Rückzug der Beschwerde weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass der Entscheid dem Gesetz nicht entspricht, oder wenn die Eidgenössische oder die kantonale Steuerverwaltung Anträge gestellt hat und aufrechterhält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 5 VStG",
+        "content": "Die Rekurskommission trifft den Beschwerdeentscheid auf Grund des Ergebnisses ihrer Untersuchung ohne Bindung an die gestellten Anträge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, c. Beschwerde an die kantonale Rekurskommission",
+        "citation": "Art. 54 Abs. 6 VStG",
+        "content": "Der Beschwerdeentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten; er ist den von ihm unmittelbar Betroffenen sowie der kantonalen und der ESTV schriftlich zu eröffnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, d. Ergänzendes kantonales Recht",
+        "citation": "Art. 55 VStG",
+        "content": "Der Kanton kann in seinen Vollzugsvorschriften bestimmen, dass sich das Einspracheverfahren und das Verfahren vor der kantonalen Rekurskommission nach den für die Anfechtung und Überprüfung der Steuerveranlagung massgebenden kantonalen Verfahrensvorschriften (einschliesslich der Fristen) richtet, wenn der Entscheid über den Rückerstattungsanspruch mit einer Veranlagungsverfügung verbunden worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_55"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Steuerrückerstattung, 3. Rückerstattung durch den Kanton, e. Beschwerde an das Bundesgericht",
+        "citation": "Art. 56 VStG",
+        "content": "Der Entscheid der kantonalen Rekurskommission kann durch Beschwerde beim Bundesgericht angefochten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_56"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, I. Rechnungstellung; Überprüfung; Kürzung",
+        "citation": "Art. 57 Abs. 1 VStG",
+        "content": "Die Kantone stellen dem Bund Rechnung über die von ihnen zurückerstatteten Verrechnungssteuern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, I. Rechnungstellung; Überprüfung; Kürzung",
+        "citation": "Art. 57 Abs. 2 VStG",
+        "content": "Die ESTV überprüft die Abrechnungen der Kantone; sie kann dabei in alle massgebenden Unterlagen der Kantone, Bezirke, Kreise und Gemeinden Einsicht nehmen, im Einzelfalle weitere Untersuchungsmassnahmen anordnen oder von den Untersuchungsbefugnissen eines Verrechnungssteueramtes selber Gebrauch machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, I. Rechnungstellung; Überprüfung; Kürzung",
+        "citation": "Art. 57 Abs. 3 VStG",
+        "content": "Ergibt die Überprüfung, dass die vom Verrechnungssteueramt gewährte Rückerstattung zu Unrecht erfolgt ist, so ordnet die ESTV vorsorglich eine entsprechende Kürzung des Betrages an, den der Kanton mit einer der nächsten Abrechnungen beansprucht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, I. Rechnungstellung; Überprüfung; Kürzung",
+        "citation": "Art. 57 Abs. 4 VStG",
+        "content": "Nach Ablauf von drei Jahren seit Ende des Kalenderjahres, in dem der Entscheid des Verrechnungssteueramtes über die Rückerstattung rechtskräftig geworden ist, kann die Kürzung nur noch in Verbindung mit einem Strafverfahren angeordnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, II. Folgen der Kürzung",
+        "citation": "Art. 58 Abs. 1 VStG",
+        "content": "Ist gemäss Artikel 57 Absatz 3 vorsorglich eine Kürzung angeordnet worden, so kann das kantonale Verrechnungssteueramt von demjenigen, der in den Genuss der beanstandeten Rückerstattung gelangt ist, deren Rückleistung verlangen; der Rückleistungsanspruch des Kantons erlischt, wenn er nicht innert sechs Monaten seit Eröffnung der vorsorglichen Kürzung durch Entscheid geltend gemacht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, II. Folgen der Kürzung",
+        "citation": "Art. 58 Abs. 2 VStG",
+        "content": "Gegen den Entscheid über die Rückleistungspflicht kann der Betroffene innert 30 Tagen seit der Eröffnung bei der kantonalen Rekurskommission Beschwerde erheben; die Artikel 54 und 56 finden Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, II. Folgen der Kürzung",
+        "citation": "Art. 58 Abs. 3 VStG",
+        "content": "Stellt der Beschwerdeentscheid fest, dass keine Rückleistungspflicht besteht, so fällt die vorsorgliche Kürzung dahin; schützt er den Rückleistungsanspruch ganz oder zum Teil, so wird die Kürzung in diesem Umfange endgültig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, II. Folgen der Kürzung",
+        "citation": "Art. 58 Abs. 4 VStG",
+        "content": "Macht das Verrechnungssteueramt ohne Zustimmung der ESTV die Rückleistung nicht geltend oder hat es sie in seinem rechtskräftig gewordenen Entscheid nicht in der vollen Höhe geltend gemacht, so wird die vorsorgliche Kürzung endgültig, sofern sie der Kanton nicht innert neun Monaten nach ihrer Eröffnung durch Klage beim Bundesgericht anficht (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, C. Abrechnung zwischen Bund und Kantonen, II. Folgen der Kürzung",
+        "citation": "Art. 58 Abs. 5 VStG",
+        "content": "Der rechtskräftige Rückleistungsentscheid des kantonalen Verrechnungssteueramtes oder der kantonalen Rekurskommission steht einem vollstreckbaren Gerichtsurteil im Sinne von Artikel 80 des Schuldbetreibungs- und Konkursgesetzes gleich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, D. Revision und Erläuterung von Entscheiden",
+        "citation": "Art. 59 Abs. 1 VStG",
+        "content": "Auf die Revision und die Erläuterung von Entscheiden der ESTV und der kantonalen Behörden werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 sinngemäss angewandt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_59"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, E. Berichtigung von kantonalen Abrechnungen",
+        "citation": "Art. 60 Abs. 1 VStG",
+        "content": "Rechnungsfehler und Schreibversehen in der Abrechnung der Kantone gemäss Artikel 57 können innert drei Jahren seit der Rechnungsstellung berichtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_60"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Dritter Abschnitt: Behörden und Verfahren, E. Berichtigung von kantonalen Abrechnungen",
+        "citation": "Art. 60 Abs. 2 VStG",
+        "content": "Lässt sich der Anstand nicht erledigen, so trifft die zuständige Behörde einen Entscheid, der mit Einsprache und Beschwerde angefochten werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_60"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, I. Hinterziehung",
+        "citation": "Art. 61 VStG",
+        "content": "Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern\na. dem Bunde Verrechnungssteuern vorenthält,\nb. die Pflicht zur Meldung einer steuerbaren Leistung (Art. 19 und 20) nicht erfüllt oder eine unwahre Meldung erstattet,\nc. eine ungerechtfertigte Rückerstattung der Verrechnungssteuer oder einen andern unrechtmässigen Steuervorteil erwirkt,wird, sofern nicht die Strafbestimmung von Artikel 14 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, wegen Hinterziehung mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Dreifachen der hinterzogenen Steuer oder des unrechtmässigen Vorteils bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_61"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, II. Steuergefährdung",
+        "citation": "Art. 62 Abs. 1 VStG",
+        "content": "Wer die gesetzmässige Durchführung der Verrechnungssteuer gefährdet, indem er vorsätzlich oder fahrlässig:\na. im Steuererhebungsverfahren der Pflicht zur Anmeldung als Steuerpflichtiger, zur Einreichung von Steuererklärungen, Aufstellungen und Abrechnungen, zur Erteilung von Auskünften und zur Vorlage von Geschäftsbüchern und Belegen nicht nachkommt;\nb. als Steuerpflichtiger oder an seiner Stelle eine unrichtige Abzugsbescheinigung aushändigt (Art. 14 Abs. 2);\nc. in einer Aufstellung oder Abrechnung, in einer Meldung oder einem Affidavit (Art. 11), in einem Antrag auf Rückerstattung der Steuer, in einem Gesuch um Steuererlass oder -befreiung unwahre Angaben macht oder erhebliche Tatsachen verschweigt oder dabei unwahre Belege über erhebliche Tatsachen vorlegt;\nd. als Steuerpflichtiger, Antragsteller oder auskunftspflichtiger Dritter unrichtige Auskünfte erteilt;\ne. Rückerstattungsansprüche geltend macht, die ihm nicht zustehen oder für die er bereits befriedigt worden ist;\nf. der Pflicht zur ordnungsgemässen Führung und Aufbewahrung der Geschäftsbücher, Register und Belege zuwiderhandelt, oder\ng. die ordnungsgemässe Durchführung einer Buchprüfung oder andern amtlichen Kontrolle erschwert, behindert oder verunmöglicht,wird, sofern nicht eine der Strafbestimmungen der Artikel 14–16 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, mit Busse bis zu 20 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_62"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, II. Steuergefährdung",
+        "citation": "Art. 62 Abs. 2 VStG",
+        "content": "Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe g bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_62"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, III. Verletzung der Überwälzungsvorschrift",
+        "citation": "Art. 63 VStG",
+        "content": "Wer vorsätzlich oder fahrlässig die Überwälzung der Verrechnungssteuer unterlässt oder zu unterlassen verspricht, wird mit Busse bis zu 10 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_63"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, IV. Ordnungswidrigkeiten",
+        "citation": "Art. 64 Abs. 1 VStG",
+        "content": "Mit Busse bis zu 5000 Franken wird bestraft, wer:\na. eine Bedingung, an welche eine besondere Bewilligung geknüpft wurde, nicht einhält;\nb. einer Vorschrift dieses Gesetzes, einer Ausführungsverordnung oder einer aufgrund solcher Vorschriften erlassenen allgemeinen Weisung oder unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt;\nc. für die Handlungen nach Artikel 20 Absatz 3 die Fristen nach dessen Ausführungsbestimmungen nicht einhält;\nd. die Frist nach Artikel 20a Absatz 2 nicht einhält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_64"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, A. Widerhandlungen, IV. Ordnungswidrigkeiten",
+        "citation": "Art. 64 Abs. 2 VStG",
+        "content": "Strafbar ist auch die fahrlässige Begehung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_64"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, B. Verhältnis zum Bundesgesetz über die Verwaltungsstrafrecht; Besonderheiten für Widerhandlungen im kantonalen Verfahren",
+        "citation": "Art. 67 Abs. 1 VStG",
+        "content": "Das Verwaltungsstrafrechtsgesetz vom 22. März 1974 findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die ESTV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_67"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, B. Verhältnis zum Bundesgesetz über die Verwaltungsstrafrecht; Besonderheiten für Widerhandlungen im kantonalen Verfahren",
+        "citation": "Art. 67 Abs. 2 VStG",
+        "content": "Wird die Widerhandlung im Verfahren vor einer kantonalen Behörde begangen, so ist diese zur Anzeige an die ESTV verpflichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_67"
+    },
+    {
+        "book": "VStG",
+        "title": "VStG, Vierter Abschnitt: Strafbestimmungen, B. Verhältnis zum Bundesgesetz über die Verwaltungsstrafrecht; Besonderheiten für Widerhandlungen im kantonalen Verfahren",
+        "citation": "Art. 67 Abs. 3 VStG",
+        "content": "Die kantonale Behörde kann für Ordnungswidrigkeiten (Art. 64) Bussen bis zu 500 Franken verhängen; das Verfahren richtet sich nach den einschlägigen Bestimmungen der kantonalen Steuergesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/de#art_67"
+    }
+]

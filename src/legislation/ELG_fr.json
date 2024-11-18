@@ -1,0 +1,828 @@
+[
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 1, Applicabilité de la LPGA",
+        "citation": "Art. 1 al. 1 LPC",
+        "content": "La loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA) s’applique aux prestations versées en vertu du chap. 2, à moins que la présente loi ne déroge expressément à la LPGA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_1"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 1, Applicabilité de la LPGA",
+        "citation": "Art. 1 al. 2 LPC",
+        "content": "Les art. 32 et 33 LPGA s’appliquent aux prestations des institutions d’utilité publique visées au chap. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_1"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 1, Dispositions générales, Principe",
+        "citation": "Art. 2 al. 1 LPC",
+        "content": "La Confédération et les cantons accordent aux personnes qui remplissent les conditions fixées aux art. 4 à 6 des prestations complémentaires destinées à la couverture des besoins vitaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_2"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 1, Dispositions générales, Principe",
+        "citation": "Art. 2 al. 2 LPC",
+        "content": "Les cantons peuvent allouer des prestations allant au-delà de celles qui sont prévues par la présente loi et fixer les conditions d’octroi de ces prestations. Le prélèvement de cotisations patronales est exclu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_2"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 1, Dispositions générales, Composantes des prestations complémentaires",
+        "citation": "Art. 3 al. 1 LPC",
+        "content": "Les prestations complémentaires se composent:\na. de la prestation complémentaire annuelle;\nb. du remboursement des frais de maladie et d’invalidité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_3"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 1, Dispositions générales, Composantes des prestations complémentaires",
+        "citation": "Art. 3 al. 2 LPC",
+        "content": "La prestation complémentaire annuelle est une prestation en espèces (art. 15 LPGA); le remboursement des frais de maladie et d’invalidité est une prestation en nature (art. 14 LPGA).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_3"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions générales",
+        "citation": "Art. 4 al. 1 LPC",
+        "content": "Les personnes qui ont leur domicile et leur résidence habituelle (art. 13 LPGA) en Suisse ont droit à des prestations complémentaires dès lors qu’elles:\na. perçoivent une rente de vieillesse de l’assurance-vieillesse et survivants (AVS);\nabis. ont droit à une rente de veuve ou de veuf de l’AVS, tant qu’elles n’ont pas atteint l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS);\nater. perçoivent, en vertu de l’art. 24b LAVS, une rente de veuve ou de veuf en lieu et place d’une rente de vieillesse;\naquater. ont droit à une rente d’orphelin de l’AVS;\nb. auraient droit à une rente de l’AVS:\n1. si elles justifiaient de la durée de cotisation minimale requise à l’art. 29, al. 1, LAVS,\n2. si la personne décédée justifiait de cette durée de cotisation minimale, pour autant que la personne veuve n’ait pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS;\nc. ont droit à une rente ou à une allocation pour impotent de l’assurance-invalidité (AI) ou perçoivent des indemnités journalières de l’AI sans interruption pendant six mois au moins;\nd. auraient droit à une rente de l’AI si elles justifiaient de la durée de cotisation minimale requise à l’art. 36, al. 1, de la loi du 19 juin 1959 sur l’assurance-invalidité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_4"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions générales",
+        "citation": "Art. 4 al. 2 LPC",
+        "content": "Ont aussi droit à des prestations complémentaires les époux séparés et les personnes divorcées qui ont leur domicile et leur résidence habituelle (art. 13 LPGA) en Suisse, s’ils perçoivent une rente complémentaire de l’AVS ou de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_4"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions générales",
+        "citation": "Art. 4 al. 3 LPC",
+        "content": "La résidence habituelle en Suisse au sens de l’al. 1 est considérée comme interrompue lorsqu’une personne:\na. séjourne à l’étranger pendant plus de trois mois de manière ininterrompue, ou\nb. séjourne à l’étranger pendant plus de trois mois au total au cours d’une même année civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_4"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions générales",
+        "citation": "Art. 4 al. 4 LPC",
+        "content": "Le Conseil fédéral détermine le moment de la suspension et de la reprise du versement des prestations, ainsi que les cas dans lesquels la résidence habituelle en Suisse est exceptionnellement considérée comme n’étant pas interrompue lorsque le séjour à l’étranger dure un an au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_4"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 1 LPC",
+        "content": "Les étrangers n’ont droit à des prestations complémentaires que s’ils séjournent de manière légale en Suisse. Ils doivent y avoir résidé de manière ininterrompue pendant les dix années précédant immédiatement la date à laquelle ils demandent la prestation complémentaire (délai de carence).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 2 LPC",
+        "content": "Pour les réfugiés et les apatrides, le délai de carence est de cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 3 LPC",
+        "content": "Pour les étrangers qui auraient droit à une rente extraordinaire de l’AVS ou de l’AI en vertu d’une convention de sécurité sociale, le délai de carence est de:\na. cinq ans s’ils ont droit à une rente de l’AI ou qu’ils y auraient droit s’ils justifiaient de la durée de cotisation minimale requise à l’art. 36, al. 1, de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité;\nb. cinq ans s’ils ont droit à une rente de survivants de l’AVS et n’ont pas atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS ou qu’ils y auraient droit si la personne décédée justifiait, au moment de son décès, de la durée de cotisation minimale requise à l’art. 29, al. 1, LAVS;\nc. cinq ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, et que la rente de vieillesse remplace ou remplacerait une rente de survivants de l’AVS ou une rente de l’AI;\nd. dix ans s’ils perçoivent une rente de vieillesse de l’AVS ou s’ils ont atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS, et que la rente de vieillesse ne remplace pas ou ne remplacerait pas une rente de survivants de l’AVS ni une rente de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 4 LPC",
+        "content": "Les étrangers qui ne sont ni des réfugiés ni des apatrides et qui ne sont pas visés à l’al. 3 ont droit aux prestations complémentaires s’ils satisfont au délai de carence visé à l’al. 1 et remplissent une des conditions fixées à l’art. 4, al. 1, let. a, abis, ater, b, ch. 2, et c, ou les conditions prévues à l’art. 4, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 5 LPC",
+        "content": "Si un étranger séjourne à l’étranger pendant plus de trois mois de manière ininterrompue ou pendant plus de trois mois au total au cours d’une même année civile, un nouveau délai de carence commence à courir après son retour en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Conditions supplémentaires pour les étrangers",
+        "citation": "Art. 5 al. 6 LPC",
+        "content": "Le Conseil fédéral détermine les cas dans lesquels le délai de carence est exceptionnellement considéré comme n’étant pas interrompu lorsque le séjour à l’étranger dure un an au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_5"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Age minimal",
+        "citation": "Art. 6 LPC",
+        "content": "Les personnes ayant droit à une allocation pour impotent ont droit aux prestations complémentaires si elles ont au moins 18 ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_6"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Exclusion de toute restriction cantonale",
+        "citation": "Art. 7 LPC",
+        "content": "Le droit aux prestations complémentaires est indépendant de la durée de domicile ou de séjour dans le canton concerné et n’est pas subordonné à la jouissance des droits civiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_7"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 2, Droit aux prestations complémentaires, Refus d’octroi de prestations complémentaires",
+        "citation": "Art. 8 LPC",
+        "content": "Les prestations complémentaires sont refusées temporairement ou définitivement si une rente a été refusée sur la base de l’art. 21, al. 1 ou 2, LPGA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_8"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 1 LPC",
+        "content": "Le montant de la prestation complémentaire annuelle correspond à la part des dépenses reconnues qui excède les revenus déterminants, mais au moins au plus élevé des montants suivants:\na. la réduction des primes la plus élevée prévue par le canton pour les personnes ne bénéficiant ni de prestations complémentaires ni de prestations d’aide sociale;\nb. 60 % du montant forfaitaire annuel pour l’assurance obligatoire des soins au sens de l’art. 10, al. 3, let. d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 1bis LPC",
+        "content": "Les étrangers visés à l’art. 5, al. 3, peuvent prétendre au plus à une prestation complémentaire annuelle d’un montant équivalant au minimum de la rente ordinaire complète correspondante tant qu’ils ne satisfont pas au délai de carence visé à l’art. 5, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 2 LPC",
+        "content": "Les dépenses reconnues et les revenus déterminants des conjoints et des personnes qui ont des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI sont additionnés. Il en va de même pour des orphelins faisant ménage commun.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 3 LPC",
+        "content": "Pour les couples dont l’un des conjoints ou les deux vivent dans un home ou dans un hôpital, la prestation complémentaire annuelle est calculée séparément pour chacun des conjoints sur la base des principes suivants:\na. les dépenses reconnues sont prises en compte pour le conjoint auquel elles se rapportent; si la dépense concerne les deux conjoints, elle est prise en compte à raison de moitié pour chacun d’eux; \nb. les revenus déterminants sont soumis au partage par moitié, à l’exception de l’imputation de la fortune; le Conseil fédéral peut prévoir d’autres exceptions pour les revenus qui ne concernent qu’un conjoint;\nc. la fortune est prise en compte à raison de moitié pour chacun des conjoints; si un couple ou un des conjoints est propriétaire d’un immeuble qui sert d’habitation à l’un des conjoints tandis que l’autre vit dans un home ou dans un hôpital, la fortune est prise en compte à raison de trois quarts pour le conjoint vivant dans le home ou l’hôpital et à raison d’un quart pour le conjoint vivant à domicile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 4 LPC",
+        "content": "Il n’est pas tenu compte, dans le calcul de la prestation complémentaire annuelle, des enfants dont les revenus déterminants dépassent les dépenses reconnues.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Calcul et montant de la prestation complémentaire annuelle",
+        "citation": "Art. 9 al. 5 LPC",
+        "content": "Le Conseil fédéral édicte des dispositions sur:\na. l’addition des dépenses reconnues et des revenus déterminants de membres d’une même famille; il peut prévoir des exceptions, notamment pour ceux des enfants qui donnent droit à une rente pour enfant de l’AVS ou de l’AI;\nb. l’évaluation des revenus déterminants, des dépenses reconnues et de la fortune;\nc. la prise en compte du revenu de l’activité lucrative pouvant raisonnablement être exigée de personnes partiellement invalides et de veuves sans enfants mineurs;\ncbis. la prise en compte des dettes hypothécaires pour le calcul de la fortune nette;\nd. la période à prendre en considération pour déterminer les revenus et les dépenses;\ne. le forfait pour frais accessoires d’une personne résidant dans un immeuble à titre de propriétaire ou d’usufruitier;\nf. le forfait pour frais de chauffage d’un appartement loué, si le locataire doit les supporter lui-même;\ng. la coordination avec la réduction des primes prévues par la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal);\nh. la définition de la notion de home.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Conditions relatives à la fortune",
+        "citation": "Art. 9a al. 1 LPC",
+        "content": "Les personnes dont la fortune nette est inférieure aux seuils suivants ont droit à des prestations complémentaires:\na. 100 000 francs pour les personnes seules; \nb. 200 000 francs pour les couples;\nc. 50 000 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Conditions relatives à la fortune",
+        "citation": "Art. 9a al. 2 LPC",
+        "content": "L’immeuble qui sert d’habitation au bénéficiaire de prestations complémentaires ou à une autre personne comprise dans le calcul de ces prestations et dont l’une de ces personnes au moins est propriétaire n’est pas considéré comme un élément de la fortune nette au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Conditions relatives à la fortune",
+        "citation": "Art. 9a al. 3 LPC",
+        "content": "Les parts de fortune visées à l’art. 11a, al. 2 à 4, font partie de la fortune nette au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Conditions relatives à la fortune",
+        "citation": "Art. 9a al. 4 LPC",
+        "content": "Le Conseil fédéral peut ajuster ces valeurs de manière appropriée s’il modifie les prestations visées à l’art. 19.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_9_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1 LPC",
+        "content": "Pour les personnes qui ne vivent pas en permanence ni pour une période de plus de trois mois dans un home ou dans un hôpital (personnes vivant à domicile), les dépenses reconnues comprennent:\na. les montants destinés à la couverture des besoins vitaux, soit, par année:\n1. 20 100 francs pour les personnes seules,\n2. 30 150 francs pour les couples,\n3. 10 515 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de 11 ans et plus; la totalité du montant déterminant étant prise en compte pour les deux premiers enfants, les deux tiers pour deux autres enfants et un tiers pour chacun des enfants suivants,\n4. 7380 francs pour les enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI et âgés de moins de 11 ans; ce montant est applicable au premier enfant; le montant applicable à chaque enfant supplémentaire est obtenu par réduction d’un sixième du montant applicable à l’enfant qui précède; le montant pour le cinquième enfant s’applique aussi aux enfants suivants;\nb. le loyer d’un appartement et les frais accessoires y relatifs; en cas de présentation d’un décompte final des frais accessoires, ni demande de restitution, ni paiement rétroactif ne peuvent être pris en considération; le montant annuel maximal reconnu est de:\n1. pour une personne vivant seule: 17 580 francs dans la région 1, 17 040 francs dans la région 2 et 15 540 francs dans la région 3,\n2. si plusieurs personnes vivent dans le même ménage:\n– pour la deuxième personne: un supplément de 3240 francs dans la région 1, 3180 francs dans la région 2 et 3240 francs dans la région 3\n– pour la troisième personne: un supplément de 2280 francs dans la région 1 et de 1920 francs dans les régions 2 et 3\n– pour la quatrième personne: un supplément de 2100 francs dans la région 1, 1980 francs dans la région 2 et 1680 francs dans la région 3,\n3. 6420 francs supplémentaires si la location d’un appartement permettant la circulation d’une chaise roulante est nécessaire;\nc. la valeur locative, en lieu et place du loyer, pour les personnes qui habitent dans un immeuble sur lequel elles ou une autre personne comprise dans le calcul de la prestation complémentaire ont un droit de propriété, un usufruit ou un droit d’habitation; la let. b est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1bis LPC",
+        "content": "Si plusieurs personnes vivent dans le même ménage, le montant maximal reconnu au titre du loyer est calculé individuellement pour chaque ayant droit ou pour chaque personne comprise dans le calcul commun des prestations complémentaires en vertu de l’art. 9, al. 2, puis la somme des montants pris en compte est divisée par le nombre de personnes vivant dans le ménage. Les suppléments ne sont accordés que pour les deuxième, troisième et quatrième personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1ter LPC",
+        "content": "Pour les personnes vivant en communauté d’habitation, lorsqu’il n’y a pas de calcul commun en vertu de l’art. 9, al. 2, le montant pris en considération est le montant annuel maximal reconnu au titre du loyer pour une personne vivant dans un ménage de deux personnes. Le Conseil fédéral détermine le mode de calcul du montant maximal pour:\na. les couples vivant ensemble en communauté d’habitation;\nb. les personnes vivant en communauté d’habitation avec des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1quater LPC",
+        "content": "Le Conseil fédéral règle la répartition des communes entre les trois régions. Il se base à cet effet sur les niveaux géographiques définis par l’Office fédéral de la statistique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1quinquies LPC",
+        "content": "Le Département fédéral de l’intérieur fixe la répartition des communes au sein d’une ordonnance. Il réexamine la répartition des niveaux géographiques sur lesquelles elle repose lors de toute modification par l’Office fédéral de la statistique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1sexies LPC",
+        "content": "Les cantons peuvent demander une réduction ou une augmentation de 10 % au plus des montants maximaux reconnus au titre du loyer dans une commune. Il est donné suite à la demande de réduction des montants maximaux si et aussi longtemps que le loyer d’au moins 90 % des bénéficiaires de prestations complémentaires est couvert par les montants maximaux correspondants. Le Conseil fédéral règle la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 1septies LPC",
+        "content": "Le Conseil fédéral examine au moins tous les dix ans si et dans quelle mesure les montants maximaux couvrent le loyer effectif des bénéficiaires de prestations complémentaires et rend publics les résultats de son examen. Il procède à cet examen et à la publication plus tôt si l’indice des loyers a évolué de plus de 10 % depuis le dernier examen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 2 LPC",
+        "content": "Pour les personnes qui vivent en permanence ou pour une période de plus de trois mois dans un home ou dans un hôpital (personnes vivant dans un home ou un hôpital), les dépenses reconnues comprennent:\na. la taxe journalière pour chacune des journées facturées par le home ou l’hôpital; les cantons peuvent fixer la limite maximale des frais à prendre en considération en raison d’un séjour dans un home ou dans un hôpital; les cantons veillent à ce que le séjour dans un établissement médico-social reconnu ne mène pas, en règle générale, à une dépendance à l’égard de l’aide sociale;\nb. un montant, arrêté par les cantons, pour les dépenses personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Dépenses reconnues",
+        "citation": "Art. 10 al. 3 LPC",
+        "content": "Sont en outre reconnus comme dépenses, pour toutes les personnes:\na. les frais d’obtention du revenu, jusqu’à concurrence du revenu brut de l’activité lucrative;\nb. les frais d’entretien des bâtiments et les intérêts hypothécaires, jusqu’à concurrence du rendement brut de l’immeuble;\nc. les cotisations aux assurances sociales de la Confédération, à l’exclusion des primes d’assurance-maladie;\nd. le montant pour l’assurance obligatoire des soins; il consiste en un montant forfaitaire annuel qui correspond au montant de la prime moyenne cantonale ou régionale pour l’assurance obligatoire des soins (couverture accidents comprise), mais qui n’excède pas celui de la prime effective;\ne. les pensions alimentaires versées en vertu du droit de la famille;\nf. les frais nets de prise en charge extrafamiliale d’enfants qui n’ont pas encore atteint l’âge de 11 ans révolus, pour autant que cette prise en charge soit nécessaire et dûment établie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_10"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 1 LPC",
+        "content": "Les revenus déterminants comprennent:\na. deux tiers des ressources en espèces ou en nature provenant de l’exercice d’une activité lucrative, pour autant qu’elles excèdent annuellement 1000 francs pour les personnes seules et 1500 francs pour les couples et les personnes qui ont des enfants ayant droit à une rente d’orphelin ou donnant droit à une rente pour enfant de l’AVS ou de l’AI; pour les conjoints qui n’ont pas droit aux prestations complémentaires, le revenu de l’activité lucrative est pris en compte à hauteur de 80 %; pour les personnes invalides ayant droit à une indemnité journalière de l’AI, le revenu de l’activité lucrative est intégralement pris en compte;\nb. le produit de la fortune mobilière et immobilière, y compris la valeur annuelle d’un usufruit ou d’un droit d’habitation ou la valeur locative annuelle d’un immeuble dont le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire, et qui sert d’habitation à l’une de ces personnes au moins;\nc. un quinzième de la fortune nette, un dixième pour les bénéficiaires de rentes de vieillesse, dans la mesure où elle dépasse 30 000 francs pour les personnes seules, 50 000 francs pour les couples et 15 000 francs pour les orphelins et les enfants donnant droit à des rentes pour enfant de l’AVS ou de l’AI; si le bénéficiaire de prestations complémentaires ou une autre personne comprise dans le calcul de ces prestations est propriétaire d’un immeuble qui sert d’habitation à l’une de ces personnes au moins, seule la valeur de l’immeuble supérieure à 112 500 francs entre en considération au titre de la fortune;\nd. les rentes, pensions et autres prestations périodiques, y compris les rentes de l’AVS et de l’AI;\ndbis. la rente entière, même si seul un pourcentage de la rente est ajourné en vertu de l’art. 39, al. 1, LAVS ou perçu de manière anticipée en vertu de l’art. 40, al. 1, LAVS;\ne. les prestations touchées en vertu d’un contrat d’entretien viager ou de toute autre convention analogue;\nf. les allocations familiales;\ng. ...\nh. les pensions alimentaires prévues par le droit de la famille;\ni. la réduction des primes accordée pour une période pour laquelle des prestations complémentaires sont attribuées avec effet rétroactif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 1bis LPC",
+        "content": "En dérogation à l’al. 1, let. c, seule la valeur de l’immeuble supérieure à 300 000 francs entre en considération au titre de la fortune lorsque l’une des conditions suivantes est remplie: \na. un couple ou un des conjoints est propriétaire d’un immeuble qui sert d’habitation à l’un des conjoints tandis que l’autre vit dans un home ou dans un hôpital; \nb. le bénéficiaire d’une allocation pour impotent de l’AVS, de l’AI, de l’assurance-accidents ou de l’assurance militaire vit dans un immeuble dont lui-même ou son conjoint est propriétaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 1ter LPC",
+        "content": "Les personnes ayant droit à des prestations de l’AI en vertu des art. 10 et 22 de la loi fédérale du 19 juin 1959 sur l’assurance-invalidité qui perçoivent un pourcentage de leur rente de manière anticipée en vertu de l’art. 40, al. 1, LAVS ne sont pas considérées comme des bénéficiaires d’une rente de vieillesse pour la prise en compte de la fortune nette en vertu de l’al. 1, let. c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 2 LPC",
+        "content": "Pour les personnes vivant dans un home ou dans un hôpital, les cantons peuvent fixer le montant de la fortune qui sera pris en compte en dérogeant à l’al. 1, let. c. Les cantons sont autorisés à augmenter, jusqu’à concurrence d’un cinquième, ce montant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 3 LPC",
+        "content": "Ne sont pas pris en compte:\na. les aliments fournis par les proches en vertu des art. 328 à 330 du code civil;\nb. les prestations d’aide sociale;\nc. les prestations provenant de personnes et d’institutions publiques ou privées ayant un caractère d’assistance manifeste;\nd. les allocations pour impotents des assurances sociales;\ne. les bourses d’études et autres aides financières destinées à l’instruction;\nf. la contribution d’assistance versée par l’AVS ou par l’AI;\ng. les contributions de l’assurance obligatoire des soins aux coûts des soins dispensés dans un home, lorsque la taxe journalière ne comprend pas les coûts des soins au sens de la LAMal;\nh. le supplément de rente selon l’art. 34bis LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Revenus déterminants",
+        "citation": "Art. 11 al. 4 LPC",
+        "content": "Le Conseil fédéral détermine les cas dans lesquels les allocations pour impotents des assurances sociales doivent être prises en compte dans les revenus déterminants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Renonciation à des revenus ou parts de fortune",
+        "citation": "Art. 11a al. 1 LPC",
+        "content": "Si une personne renonce volontairement à exercer une activité lucrative que l’on pourrait raisonnablement exiger d’elle, le revenu hypothétique correspondant est pris en compte comme revenu déterminant. La prise en compte de ce revenu est réglée par l’art. 11, al. 1, let. a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Renonciation à des revenus ou parts de fortune",
+        "citation": "Art. 11a al. 2 LPC",
+        "content": "Les autres revenus, parts de fortune et droits légaux ou contractuels auxquels l’ayant droit a renoncé sans obligation légale et sans contre-prestation adéquate sont pris en compte dans les revenus déterminants comme s’il n’y avait pas renoncé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Renonciation à des revenus ou parts de fortune",
+        "citation": "Art. 11a al. 3 LPC",
+        "content": "Un dessaisissement de fortune est également pris en compte si, à partir de la naissance d’un droit à une rente de survivant de l’AVS ou à une rente de l’AI, plus de 10 % de la fortune est dépensée par année sans qu’un motif important ne le justifie. Si la fortune est inférieure ou égale à 100 000 francs, la limite est de 10 000 francs par année. Le Conseil fédéral règle les modalités; il définit en particulier la notion de «motif important».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Renonciation à des revenus ou parts de fortune",
+        "citation": "Art. 11a al. 4 LPC",
+        "content": "L’al. 3 s’applique aux bénéficiaires d’une rente de vieillesse de l’AVS également pour les dix années qui précèdent la naissance du droit à la rente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_11_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Naissance et extinction du droit à des prestations complémentaires annuelles",
+        "citation": "Art. 12 al. 1 LPC",
+        "content": "Le droit à une prestation complémentaire annuelle prend naissance le premier jour du mois au cours duquel la demande est déposée, pour autant que toutes les conditions légales soient remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_12"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Naissance et extinction du droit à des prestations complémentaires annuelles",
+        "citation": "Art. 12 al. 2 LPC",
+        "content": "Si la demande est déposée dans les six mois suivant l’admission dans un home ou un hôpital, le droit aux prestations prend naissance le premier jour du mois au cours duquel l’admission a eu lieu, pour autant que toutes les conditions légales soient remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_12"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Naissance et extinction du droit à des prestations complémentaires annuelles",
+        "citation": "Art. 12 al. 3 LPC",
+        "content": "Ce droit s’éteint à la fin du mois au cours duquel l’une des conditions dont il dépend cesse d’être remplie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_12"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Naissance et extinction du droit à des prestations complémentaires annuelles",
+        "citation": "Art. 12 al. 4 LPC",
+        "content": "Le Conseil fédéral édicte des dispositions sur le paiement des arriérés de prestations; il peut réduire la durée prévue à l’art. 24, al. 1, LPGA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_12"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Financement",
+        "citation": "Art. 13 al. 1 LPC",
+        "content": "Les prestations complémentaires annuelles sont supportées à hauteur de cinq huitièmes par la Confédération et de trois huitièmes par les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_13"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Financement",
+        "citation": "Art. 13 al. 2 LPC",
+        "content": "Pour les personnes vivant dans un home ou un hôpital, la Confédération prend à sa charge cinq huitièmes des prestations complémentaires annuelles, si la somme du montant destiné à la couverture des besoins vitaux au sens de l’art. 10, al. 1, let. a, ch. 1, du montant de 13 200 francs pour le loyer et des montants pour les dépenses reconnues au sens de l’art. 10, al. 3, n’est pas couverte par les revenus déterminants; les revenus en rapport direct avec le séjour dans un home ou dans un hôpital ne sont pas pris en compte. Le solde est à la charge des cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_13"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Financement",
+        "citation": "Art. 13 al. 3 LPC",
+        "content": "La contribution de la Confédération est financée en premier lieu par le produit de l’impôt sur le tabac et les boissons distillées. Le montant manquant est couvert au moyen des ressources générales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_13"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 3, Prestation complémentaire annuelle, Financement",
+        "citation": "Art. 13 al. 4 LPC",
+        "content": "Le Conseil fédéral peut prévoir des procédures simplifiées pour déterminer la part fédérale et fixe la procédure à suivre pour son versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_13"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 1 LPC",
+        "content": "Les cantons remboursent aux bénéficiaires d’une prestation complémentaire annuelle les frais suivants de l’année civile en cours, s’ils sont dûment établis:\na. frais de traitement dentaire;\nb. frais d’aide, de soins et d’assistance à domicile ou dans d’autres structures ambulatoires;\nbbis. frais de séjours passagers dans un home ou dans un hôpital, d’une durée maximale de trois mois; lorsque le séjour dans un home ou dans un hôpital excède trois mois, la prestation complémentaire annuelle est calculée rétroactivement, sur la base des dépenses reconnues visées à l’art. 10, al. 2, depuis l’admission dans le home ou l’hôpital;\nc. frais liés aux cures balnéaires et aux séjours de convalescence prescrits par un médecin;\nd. frais liés à un régime alimentaire particulier;\ne. frais de transport vers le centre de soins le plus proche;\nf. frais de moyens auxiliaires;\ng. frais payés au titre de la participation aux coûts selon l’art. 64 LAMal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 2 LPC",
+        "content": "Les cantons précisent quels frais peuvent être remboursés en vertu de l’al. 1. Ils peuvent limiter le remboursement aux dépenses nécessaires dans les limites d’une fourniture économique et adéquate des prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 3 LPC",
+        "content": "Les cantons peuvent fixer les montants maximaux des frais de maladie et d’invalidité qu’ils remboursent en plus de la prestation complémentaire annuelle. Par année, ceux-ci ne peuvent toutefois être inférieurs aux montants suivants:\na. pour les personnes vivant à domicile\n1. personnes seules ou veuves, conjoints de personnes vivant dans un home ou un hôpital:25 000 francs\n2. couples:50 000 francs\n3. orphelins de père et de mère:10 000 francs\nb. pour les personnes vivant dans un home ou un hôpital  6 000 francs",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 4 LPC",
+        "content": "Pour les personnes vivant à domicile qui ont droit à une allocation pour impotent de l’AI ou de l’assurance-accidents, le montant minimal fixé à l’al. 3, let. a, ch. 1, s’élève à 90 000 francs lorsque l’impotence est grave, dans la mesure où les frais de soins et d’assistance ne sont pas couverts par l’allocation pour impotent et la contribution d’assistance de l’AVS ou de l’AI. Le Conseil fédéral règle l’augmentation de ce montant pour les personnes dont l’impotence est moyenne ainsi que l’augmentation du montant pour les couples.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 5 LPC",
+        "content": "L’augmentation prévue à l’al. 4 subsiste pour les personnes bénéficiant d’une allocation pour impotent de l’AVS qui percevaient auparavant une allocation pour impotent de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 6 LPC",
+        "content": "Les personnes qui, en raison de revenus excédentaires, n’ont pas droit à une prestation complémentaire annuelle, ont droit au remboursement des frais de maladie et d’invalidité qui dépassent la part des revenus excédentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Frais de maladie et d’invalidité",
+        "citation": "Art. 14 al. 7 LPC",
+        "content": "Les cantons peuvent rembourser directement au fournisseur les frais facturés qui n’ont pas encore été acquittés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_14"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Délai de dépôt de la demande de remboursement",
+        "citation": "Art. 15 LPC",
+        "content": "Les frais de maladie et d’invalidité sont remboursés aux conditions suivantes:\na. le remboursement est demandé dans les quinze mois à compter de la facturation;\nb. les frais sont intervenus à une époque pendant laquelle le requérant remplissait les conditions fixées aux art. 4 à 6.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_15"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 2, Prestations complémentaires, Section 4, Remboursement des frais de maladie et d’invalidité par les cantons, Financement",
+        "citation": "Art. 16 LPC",
+        "content": "Les cantons financent les prestations prévues à l’art. 14.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_16"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Section 5, Restitution des prestations légalement perçues, Étendue de la restitution",
+        "citation": "Art. 16a al. 1 LPC",
+        "content": "Les prestations légalement perçues en vertu de l’art. 3, al. 1, doivent être restituées à la charge de la succession après le décès du bénéficiaire. La restitution est seulement exigible pour la part de la succession supérieure à 40 000 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_16_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Section 5, Restitution des prestations légalement perçues, Étendue de la restitution",
+        "citation": "Art. 16a al. 2 LPC",
+        "content": "Pour les couples, l’obligation de restituer prend naissance au décès du conjoint survivant, sous réserve des conditions de restitution prévues à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_16_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Section 5, Restitution des prestations légalement perçues, Péremption ",
+        "citation": "Art. 16b LPC",
+        "content": "Le droit de demander la restitution s’éteint un an après le moment où l’organe visé à l’art. 21, al. 2, a eu connaissance du fait, mais au plus tard dix ans après le versement de la prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_16_b"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Subventions",
+        "citation": "Art. 17 al. 1 LPC",
+        "content": "La Confédération alloue annuellement:\na. un montant maximal de 16,5 millions de francs à la fondation suisse Pro Senectute;\nb. un montant maximal de 14,5 millions de francs à l’association suisse Pro Infirmis;\nc. un montant maximal de 2,7 millions de francs à la fondation suisse Pro Juventute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_17"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Subventions",
+        "citation": "Art. 17 al. 2 LPC",
+        "content": "Le Conseil fédéral décide de l’augmentation des montants maximaux visés à l’al. 1 lorsqu’il fixe les nouvelles rentes au sens de l’art. 33ter LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_17"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Subventions",
+        "citation": "Art. 17 al. 3 LPC",
+        "content": "Il fixe le montant des subventions annuelles. Il édicte des dispositions sur leur répartition entre les organes centraux, cantonaux et régionaux des institutions d’utilité publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_17"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Subventions",
+        "citation": "Art. 17 al. 4 LPC",
+        "content": "Les subventions allouées aux fondations Pro Senectute et Pro Juventute sont financées par les ressources de l’AVS et celles allouées à Pro Infirmis par les ressources de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_17"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Affectation",
+        "citation": "Art. 18 al. 1 LPC",
+        "content": "Les subventions allouées aux institutions doivent être affectées:\na. au versement de prestations uniques ou périodiques à des ressortissants suisses dans le besoin qui ont leur domicile et leur résidence habituelle en Suisse et qui sont âgés, veufs, orphelins ou invalides;\nb. au versement de prestations uniques ou périodiques à des ressortissants étrangers, à des réfugiés et à des apatrides dans le besoin, âgés, veufs, orphelins ou invalides qui ont leur domicile et leur résidence habituelle en Suisse et résident en Suisse depuis cinq ans au moins;\nc. au financement des dépenses résultant de prestations en nature ou en services en faveur de personnes âgées ou invalides ainsi que des veuves, des veufs et des orphelins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_18"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Affectation",
+        "citation": "Art. 18 al. 2 LPC",
+        "content": "Les personnes qui bénéficient durablement de l’aide sociale ne peuvent pas bénéficier des prestations visées à l’al. 1, let. a et b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_18"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Affectation",
+        "citation": "Art. 18 al. 3 LPC",
+        "content": "Les institutions d’utilité publique définissent les principes régissant l’affectation des subventions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_18"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 3, Prestations des institutions d’utilité publique, Affectation",
+        "citation": "Art. 18 al. 4 LPC",
+        "content": "Le Conseil fédéral peut:\na. édicter des dispositions complémentaires sur l’affectation des subventions;\nb. prévoir, dans des cas de rigueur, une réglementation spéciale en faveur des invalides indigents qui ont bénéficié ou qui bénéficieront vraisemblablement d’une prestation de l’assurance-invalidité;\nc. délimiter le champ d’activité des diverses institutions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_18"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Adaptation des prestations",
+        "citation": "Art. 19 LPC",
+        "content": "Le Conseil fédéral peut, lorsqu’il fixe les nouvelles rentes conformément à l’art. 33ter LAVS, adapter de manière appropriée le montant des dépenses reconnues (art. 10, al. 1), des revenus déterminants (art. 11, al. 1) et des frais de maladie et d’invalidité (art. 14, al. 3 et 4).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_19"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Exécution forcée et compensation",
+        "citation": "Art. 20 al. 1 LPC",
+        "content": "Les prestations au sens de la présente loi sont soustraites à toute exécution forcée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_20"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Exécution forcée et compensation",
+        "citation": "Art. 20 al. 2 LPC",
+        "content": "Les créances en restitution peuvent être compensées avec les prestations suivantes:\na. les prestations complémentaires échues;\nb. les prestations échues dues en vertu de lois régissant d’autres assurances sociales, pour autant que ces lois autorisent la compensation; \nc. les prestations échues de la prévoyance professionnelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_20"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Exécution forcée et compensation",
+        "citation": "Art. 20 al. 3 LPC",
+        "content": "Avant de procéder à la compensation, la remise de l’obligation de restituer prévue à l’art. 25, al. 1, LPGA doit être examinée d’office.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_20"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Exécution forcée et compensation",
+        "citation": "Art. 20 al. 4 LPC",
+        "content": "Si un organe d’exécution a annoncé la compensation d’une prestation échue à une autre assurance sociale ou à une autre institution de prévoyance, cet organisme ne peut plus se libérer en versant la prestation à l’assuré à concurrence de la compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_20"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 1 LPC",
+        "content": "Le canton de domicile du bénéficiaire est compétent pour fixer et verser les prestations complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 1bis LPC",
+        "content": "Il reste compétent lorsque le bénéficiaire entre dans un home, un hôpital ou une autre institution situés dans un autre canton, ou lorsqu’une personne majeure est placée, par décision d’une autorité, dans une famille résidant dans un autre canton.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 1ter LPC",
+        "content": "Il est également compétent si le droit aux prestations complémentaires naît après l’admission dans un home, un hôpital ou une autre institution, ou après le placement dans une famille.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 1quater LPC",
+        "content": "Si la personne considérée élit domicile dans le canton où se situe le home ou l’institution, le canton dans lequel elle était domiciliée avant l’admission est compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 1quinquies LPC",
+        "content": "Si une personne venant de l’étranger est immédiatement admise dans un home, un hôpital ou une autre institution, le canton dans lequel cette personne élit domicile est compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 2 LPC",
+        "content": "Les cantons désignent les organes chargés de recevoir et d’examiner les demandes, de fixer et de verser les prestations. Ils peuvent confier ces tâches aux caisses cantonales de compensation, mais non aux autorités compétentes en matière d’aide sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 3 LPC",
+        "content": "Les cantons informent les ayants droit potentiels de manière adéquate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Organisation et procédure",
+        "citation": "Art. 21 al. 4 LPC",
+        "content": "Les prestations complémentaires peuvent être versées conjointement avec la rente de l’AVS ou de l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Versement du montant pour l’assurance obligatoire des soins",
+        "citation": "Art. 21a al. 1 LPC",
+        "content": "En dérogation à l’art. 20 LPGA, le montant pour l’assurance obligatoire des soins visé à l’art. 10, al. 3, let. d, est versé directement à l’assureur-maladie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Versement du montant pour l’assurance obligatoire des soins",
+        "citation": "Art. 21a al. 2 LPC",
+        "content": "Si la prestation complémentaire annuelle est inférieure au montant pour l’assurance obligatoire des soins, le montant de la prestation complémentaire annuelle est versé à l’assureur-maladie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Versement du montant pour l’assurance obligatoire des soins",
+        "citation": "Art. 21a al. 3 LPC",
+        "content": "Le montant de la prestation complémentaire annuelle pour le séjour dans un home ou un hôpital au sens de l’art. 10, al. 2, let. a, peut, en dérogation à l’art. 20 LPGA, être cédé et versé directement au fournisseur de prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_21_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Comptabilité",
+        "citation": "Art. 22 LPC",
+        "content": "Le Conseil fédéral édicte les dispositions nécessaires concernant la comptabilité des organes visés à l’art. 21, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_22"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Révision",
+        "citation": "Art. 23 al. 1 LPC",
+        "content": "Les services qui fixent et versent les prestations complémentaires doivent être révisés au moins une fois par an. La révision doit s’étendre au respect des dispositions légales, à la comptabilité, aux comptes annuels et à la gestion en général.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_23"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Révision",
+        "citation": "Art. 23 al. 2 LPC",
+        "content": "La révision d’une caisse de compensation qui fixe et verse les prestations complémentaires incombe au bureau de révision compétent en vertu de l’art. 68 LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_23"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Révision",
+        "citation": "Art. 23 al. 3 LPC",
+        "content": "Le canton désigne le bureau de révision chargé de la révision des autres organes d’exécution. Il peut confier cette tâche à un bureau de révision reconnu comme organe de révision des caisses de compensation ou à un service de contrôle cantonal approprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_23"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Révision",
+        "citation": "Art. 23 al. 4 LPC",
+        "content": "L’art. 72b, let. e, LAVS est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_23"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Répartition des frais administratifs",
+        "citation": "Art. 24 al. 1 LPC",
+        "content": "Les frais administratifs afférents à la fixation et au versement des prestations complémentaires annuelles sont répartis entre la Confédération et les cantons en proportion de leur quote-part aux dépenses consacrées aux prestations complémentaires au sens de l’art. 13, al. 1 et 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_24"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Répartition des frais administratifs",
+        "citation": "Art. 24 al. 2 LPC",
+        "content": "Le Conseil fédéral règle les modalités du calcul des frais et la procédure. Il peut établir un forfait par cas et prévoir une réduction adéquate de la participation de la Confédération aux frais administratifs en cas d’infractions répétées aux dispositions de la présente loi, des ordonnances afférentes ou des directives établies par l’Office fédéral des assurances sociales (OFAS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_24"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Responsabilité en cas de dommage",
+        "citation": "Art. 25 LPC",
+        "content": "En dérogation à l’art. 78 LPGA, la responsabilité en cas de dommage des organes au sens de l’art. 21, al. 2, est régie par le droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_25"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Dispositions applicables de la LAVS",
+        "citation": "Art. 26 al. 1 LPC",
+        "content": "Sont applicables par analogie les dispositions suivantes de la LAVS qui concernent:\na. les systèmes d’information (art. 49a, 49b et 72a, al. 2, let. b, LAVS);\nb. le traitement de données personnelles (art. 49f LAVS);\nc. la communication de données (art. 50a LAVS);\nd. l’utilisation systématique du numéro AVS (art. 50c et 153b à 153i LAVS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Dispositions applicables de la LAVS",
+        "citation": "Art. 26 al. 2 LPC",
+        "content": "Les organes visés à l’art. 21, al. 2, ont accès en ligne au registre central des prestations courantes en espèces de la Centrale de compensation (art. 50b LAVS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Communication de données aux autorités migratoires",
+        "citation": "Art. 26a LPC",
+        "content": "Aux fins de vérification des conditions du regroupement familial en Suisse et du droit de séjourner en Suisse, les organes chargés de fixer et de verser les prestations complémentaires communiquent spontanément aux autorités migratoires, en vertu de l’art. 97, al. 3, let. dter de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration et en dérogation à l’art. 33 LPGA, le versement à un étranger d’une prestation complémentaire annuelle selon l’art. 3, al. 1, let. a. Ils leur communiquent les cas d’une certaine importance lorsque les prestations complémentaires se limitent au remboursement des frais de maladie et d’invalidité au sens de l’art. 3, al. 1, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26_a"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Système d’information PC",
+        "citation": "Art. 26b LPC",
+        "content": "La Centrale de compensation régie par l’art. 71 LAVS gère un système d’information pour le traitement des données du domaine des prestations complémentaires (système d’information PC), en particulier pour assurer la transparence sur les prestations complémentaires perçues et soutenir les organes visés à l’art. 21, al. 2, dans l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26_b"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Accès en ligne",
+        "citation": "Art. 26c al. 1 LPC",
+        "content": "Peuvent accéder en ligne au système d’information PC:\na. les organes visés à l’art. 21, al. 2;\nb. l’OFAS;\nc. les communes auxquelles le canton a confié la fixation et le versement des prestations complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26_c"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Accès en ligne",
+        "citation": "Art. 26c al. 2 LPC",
+        "content": "Pour l’exécution des tâches qui leur sont assignées à l’art. 18, la fondation suisse Pro Senectute, l’association suisse Pro Infirmis et la fondation suisse Pro Juventute ont accès en ligne aux informations afin de savoir si la personne considérée perçoit une prestation complémentaire annuelle, si elle est comprise dans le calcul de la prestation complémentaire et quel organe octroie cette prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_26_c"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Surveillance de la Confédération",
+        "citation": "Art. 28 al. 1 LPC",
+        "content": "Le Conseil fédéral surveille l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_28"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Surveillance de la Confédération",
+        "citation": "Art. 28 al. 2 LPC",
+        "content": "Les art. 72, 72a et 72b, let. a à c et i, LAVS s’appliquent par analogie à la surveillance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_28"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Approbation des dispositions d’exécution et des principes",
+        "citation": "Art. 29 al. 1 LPC",
+        "content": "Les dispositions d’exécution édictées par les cantons sont soumises à l’approbation de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_29"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Approbation des dispositions d’exécution et des principes",
+        "citation": "Art. 29 al. 2 LPC",
+        "content": "Les principes définis par les institutions d’utilité publique sont soumis à l’approbation de l’OFAS; ils sont contraignants pour leurs organes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_29"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Exclusion du recours contre le tiers responsable",
+        "citation": "Art. 30 LPC",
+        "content": "Les art. 72 à 75 LPGA ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_30"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Dispositions pénales",
+        "citation": "Art. 31 al. 1 LPC",
+        "content": "Est puni, à moins qu’il ne s’agisse d’un crime ou d’un délit frappé d’une peine plus élevée par le code pénal, d’une peine pécuniaire n’excédant pas 180 jours-amende:\na. celui qui, par des indications fausses ou incomplètes, ou de toute autre manière, obtient d’un canton ou d’une institution d’utilité publique, pour lui-même ou pour autrui, l’octroi indu d’une prestation au sens de la présente loi;\nb. celui qui, par des indications fausses ou incomplètes, ou de toute autre manière, obtient sans droit une subvention au sens de la présente loi;\nc. celui qui n’observe pas l’obligation de garder le secret ou abuse, dans l’application de la présente loi, de sa fonction ou tire avantage de sa situation professionnelle au détriment de tiers ou pour son propre profit;\nd. celui qui manque à son obligation de communiquer (art. 31, al. 1, LPGA).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_31"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Dispositions pénales",
+        "citation": "Art. 31 al. 2 LPC",
+        "content": "Est puni d’une amende de 5000 francs au plus, à moins que les faits ne relèvent de l’al. 1:\na. celui qui, en violation de son obligation, donne sciemment des renseignements inexacts ou refuse d’en donner;\nb. celui qui s’oppose à un contrôle ordonné par l’autorité compétente ou rend ce contrôle impossible de toute autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_31"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 4, Dispositions communes, Dispositions pénales",
+        "citation": "Art. 31 al. 3 LPC",
+        "content": "L’art. 90 LAVS est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_31"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 5, Relation avec le droit européen",
+        "citation": "Art. 32 al. 1 LPC",
+        "content": "Pour les personnes qui sont ou qui ont été soumises à la législation sur la sécurité sociale de la Suisse ou d’un ou de plusieurs États de l’Union européenne et qui sont des ressortissants suisses ou des ressortissants de l’un des États de l’Union européenne, pour les réfugiés ou les apatrides qui résident en Suisse ou dans un État de l’Union européenne, ainsi que pour les membres de la famille et les survivants de ces personnes, les actes ci-après, dans leur version qui lie la Suisse en vertu de l’annexe II, section A, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes) sont applicables aux prestations comprises dans le champ d’application de la présente loi:\na. le règlement (CE) no 883/2004;\nb. le règlement (CE) no 987/2009;\nc. le règlement (CEE) no 1408/71;\nd. le règlement (CEE) no 574/72.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_32"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 5, Relation avec le droit européen",
+        "citation": "Art. 32 al. 2 LPC",
+        "content": "Pour les personnes qui sont ou qui ont été soumises à la législation sur la sécurité sociale de la Suisse, de l’Islande, de la Norvège ou du Liechtenstein et qui sont des ressortissants suisses ou des ressortissants de l’Islande, de la Norvège ou du Liechtenstein, ou qui résident en tant que réfugiés ou apatrides en Suisse ou sur le territoire de l’Islande, de la Norvège ou du Liechtenstein, ainsi que pour les membres de la famille et les survivants de ces personnes, les actes ci-après, dans leur version qui lie la Suisse en vertu de l’appendice 2 de l’annexe K de la Convention du 4 janvier 1960 instituant l’Association européenne de libre-échange (convention AELE) sont applicables aux prestations comprises dans le champ d’application de la présente loi:\na. le règlement (CE) no 883/2004;\nb. le règlement (CE) no 987/2009;\nc. le règlement (CEE) no 1408/71;\nd. le règlement (CEE) no 574/72.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_32"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 5, Relation avec le droit européen",
+        "citation": "Art. 32 al. 3 LPC",
+        "content": "Le Conseil fédéral adapte les renvois aux actes de l’Union européenne visés aux al. 1 et 2 chaque fois qu’une modification de l’annexe II de l’accord sur la libre circulation des personnes et de l’appendice 2 de l’annexe K de la convention AELE est adoptée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_32"
+    },
+    {
+        "book": "ELG",
+        "title": "LPC, Chapitre 5, Relation avec le droit européen",
+        "citation": "Art. 32 al. 4 LPC",
+        "content": "Les expressions «États membres de l’Union européenne», «États membres de la Communauté européenne», «États de l’Union européenne» et «États de la Communauté européenne» figurant dans la présente loi les États auxquels s’applique l’accord sur la libre circulation des personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/804/fr#art_32"
+    }
+]

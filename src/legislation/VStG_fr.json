@@ -1,0 +1,1395 @@
+[
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, A. Objet de la loi",
+        "citation": "Art. 1 al. 1 LIA",
+        "content": "La Confédération perçoit un impôt anticipé sur les revenus de capitaux mobiliers, sur les gains provenant de jeux d’argent au sens de la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr), sur les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas soumis à la LJAr selon l’art. 1, al. 2, let. d et e, de cette loi, ainsi que sur les prestations d’assurances; dans les cas prévus par la loi, la déclaration de la prestation imposable remplace le paiement de l’impôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_1"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, A. Objet de la loi",
+        "citation": "Art. 1 al. 2 LIA",
+        "content": "La Confédération, ou le canton pour le compte de la Confédération, rembourse l’impôt anticipé, conformément à la présente loi, au bénéficiaire de la prestation diminuée de l’impôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_1"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, B. Commission des cantons",
+        "citation": "Art. 2 al. 1 LIA",
+        "content": "La quote-part des cantons au produit net annuel de l’impôt anticipé s’élève à 10 %.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, B. Commission des cantons",
+        "citation": "Art. 2 al. 2 LIA",
+        "content": "Elle est répartie entre les cantons au début de l’année suivante. La répartition est faite en fonction de leur population résidante, sur la base des derniers résultats disponibles du recensement fédéral de la population.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, B. Commission des cantons",
+        "citation": "Art. 2 al. 3 LIA",
+        "content": "Le Conseil fédéral fixe les modalités d’application après avoir consulté les gouvernements cantonaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_2"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, C. Relation avec le droit cantonal",
+        "citation": "Art. 3 al. 1 LIA",
+        "content": "Les objets que la présente loi soumet à l’impôt anticipé ou qu’elle déclare exonérés sont soustraits à toute charge constituée par des impôts cantonaux et communaux du même genre; le Tribunal fédéral connaît en instance unique des contestations relatives à cette disposition (art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_3"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Introduction, C. Relation avec le droit cantonal",
+        "citation": "Art. 3 al. 2 LIA",
+        "content": "L’emploi de documents dans une procédure fondée sur la présente loi ne peut entraîner l’obligation d’acquitter des droits de timbre cantonaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_3"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1. Règle",
+        "citation": "Art. 4 al. 1 LIA",
+        "content": "L’impôt anticipé sur les revenus de capitaux mobiliers a pour objet les intérêts, rentes, participations aux bénéfices et tous autres rendements:\na. des obligations émises par une personne domiciliée en Suisse, des cédules hypothécaires et lettres de rentes émises en série, ainsi que des avoirs figurant au livre de la dette;\nb. des actions, parts sociales de sociétés à responsabilité limitée et de sociétés coopératives, bons de participation sociale des banques coopératives, bons de participation ou bons de jouissance, émis par une personne domiciliée en Suisse;\nc. des parts d’un placement collectif de capitaux au sens de la loi du 23 juin 2006 sur les placements collectifs (LPCC) émises par une personne domiciliée en Suisse ou par une personne domiciliée à l’étranger conjointement avec une personne domiciliée en Suisse;\nd. des avoirs de clients auprès de banques et de caisses d’épargne suisses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1. Règle",
+        "citation": "Art. 4 al. 2 LIA",
+        "content": "Le transfert du siège d’une société anonyme, d’une société à responsabilité limitée ou d’une société coopérative à l’étranger est assimilé à une liquidation du point de vue fiscal; la présente disposition est applicable par analogie aux placements collectifs au sens de la LPCC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1a. Acquisition de ses propres droits de participation",
+        "citation": "Art. 4a al. 1 LIA",
+        "content": "La société de capitaux ou la société coopérative qui acquiert ses propres droits de participation (actions, parts sociales de sociétés à responsabilité limitée et de sociétés coopératives, bons de participation sociale de banques coopératives, bons de participation ou de jouissance) en vertu d’une décision réduisant son capital ou dans l’intention de le réduire doit l’impôt anticipé sur la différence entre le prix d’acquisition et la valeur nominale libérée de ces droits. Il en va de même lorsque l’acquisition dépasse le cadre de l’art. 659 ou 783 du code des obligations (CO).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1a. Acquisition de ses propres droits de participation",
+        "citation": "Art. 4a al. 2 LIA",
+        "content": "L’al. 1 s’applique par analogie à la société de capitaux ou à la société coopérative qui a acquis ses propres droits de participation conformément aux art. 659 ou 783 CO et ne réduit pas son capital ultérieurement ni ne revend ces droits dans un délai de six ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1a. Acquisition de ses propres droits de participation",
+        "citation": "Art. 4a al. 3 LIA",
+        "content": "Si la société de capitaux ou la société coopérative acquiert ses propres droits de participation dans le cadre d’engagements découlant d’un emprunt convertible ou à option ou d’un plan de participation du personnel, le délai de revente fixé à l’al. 2 est suspendu jusqu’à l’extinction de ces engagements, mais au plus pendant six ans pour les plans de participation du personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 1a. Acquisition de ses propres droits de participation",
+        "citation": "Art. 4a al. 4 LIA",
+        "content": "Les sociétés de capitaux et sociétés coopératives qui sont cotées dans une bourse suisse doivent, lors de l’acquisition de leurs propres droits de participation conformément aux al. 1 à 3, porter l’excédent de liquidation au moins pour moitié à la charge des réserves issues d’apports, d’agios et de versements supplémentaires (réserves issues d’apports de capital). Si cette condition n’est pas remplie, le montant des réserves issues d’apports de capital est corrigé en conséquence, mais au plus à hauteur des réserves issues d’apports de capital qui sont disponibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_4_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1 LIA",
+        "content": "Ne sont pas soumis à l’impôt anticipé:\na. les réserves et bénéfices d’une société de capitaux au sens de l’art. 49, al. 1, let. a, de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct (LIFD) ou d’une société coopérative qui, lors d’une restructuration au sens de l’art. 61 de la loi précitée, passent dans les réserves d’une société de capitaux ou d’une société coopérative suisse reprenante ou nouvelle;\nb. les bénéfices en capital réalisés dans un placement collectif de capitaux au sens de la LPCC et le rendement de ses immeubles détenus en propriété directe, ainsi que les capitaux versés par les investisseurs, si la distribution est faite au moyen d’un coupon distinct;\nc. les intérêts des avoirs de clients, si le montant de l’intérêt n’excède pas 200 francs pour une année civile;\nd. les intérêts des dépôts destinés à constituer et alimenter un avoir en cas de survie ou de décès auprès d’établissements, caisses et autres institutions servant à l’assurance-vieillesse, invalidité ou survivants, ou à la prévoyance sociale;\ne. ...\nf. Les prestations bénévoles d’une société anonyme, d’une société à responsabilité limitée ou d’une société coopérative, pour autant que ces prestations constituent des charges justifiées par l’usage commercial au sens de l’art. 59, al. 1, let. c, LIFD;\ng. les intérêts des banques ou des sociétés affiliées à des groupes financiers pour les instruments d’emprunt visés à l’art. 11, al. 4, et 30b, al. 6, de la loi du 8 novembre 1934 sur les banques (LB) et approuvés par l’Autorité fédérale de surveillance des marchés financiers (FINMA) pour répondre aux exigences réglementaires, si la date d’émission de l’instrument d’emprunt est comprise entre le 1er janvier 2013 et le 31 décembre 2026;\nh. les intérêts versés par des participants à une contrepartie centrale au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers et ceux versés par une contrepartie centrale à ses participants;\ni. les intérêts de banques ou des sociétés affiliées à des groupes financiers pour les instruments d’emprunts visés à l’art. 30b, al. 7, let. b, LB, si:\n1. la FINMA a, pour répondre aux exigences réglementaires, approuvé l’instrument d’emprunt:\n– pour les banques n’ayant pas une importance systémique ou pour les sociétés affiliées à des groupes financiers: au moment de l’émission\n– pour les banques d’importance systémique au sens de l’art. 7, al. 1, LB: au moment de l’émission ou lors du passage d’un émetteur étranger à un émetteur suisse, \n2. l’instrument d’emprunt est émis entre le 1er janvier 2017 et le 31 décembre 2026 ou un changement d’émetteur au sens du ch. 1 a lieu pendant cette période.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1bis LIA",
+        "content": "Le remboursement de réserves issues d’apports de capital effectués par les détenteurs des droits de participation après le 31 décembre 1996 est traité de la même manière que le remboursement du capital-actions ou du capital social si la société de capitaux ou la société coopérative comptabilise les réserves issues d’apports de capital sur un compte spécial de son bilan commercial et communique toute modification de ce compte à l’Administration fédérale des contributions (AFC). L’al. 1ter est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1ter LIA",
+        "content": "Lors du remboursement de réserves issues d’apports de capital conformément à l’al. 1bis, les sociétés de capitaux et sociétés coopératives qui sont cotées dans une bourse suisse doivent distribuer d’autres réserves au moins pour un montant équivalent. Si cette condition n’est pas remplie, le remboursement est imposable à hauteur de la moitié de la différence entre le remboursement et la distribution des autres réserves, mais au plus à hauteur du montant des autres réserves disponibles pouvant être distribuées en vertu du droit commercial. Les autres réserves pouvant être distribuées en vertu du droit commercial doivent être créditées à hauteur d’un montant équivalent sur le compte spécial des réserves issues d’apports de capital.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1quater LIA",
+        "content": "L’al. 1ter ne s’applique pas aux réserves issues d’apports de capital:\na. qui ont été constituées après le 24 février 2008 dans le cadre de concentrations équivalant économiquement à des fusions, par l’apport de droits de participation ou de droits de sociétariat dans une société de capitaux ou une société coopérative étrangère au sens de l’art. 61, al. 1, let. c, de la loi fédérale sur l’impôt fédéral direct ou lors d’un transfert transfrontalier dans une société de capitaux suisse selon l’art. 61, al. 1, let. d, de cette loi;\nb. qui existaient déjà au sein d’une société de capitaux ou d’une société coopérative étrangère au moment d’une fusion ou restructuration transfrontalière au sens de l’art. 61, al. 1, let. b, et al. 3, de la loi fédérale sur l’impôt fédéral direct ou du déplacement du siège ou de l’administration effective d’après le 24 février 2008;\nc. qui sont remboursées à des personnes morales suisses ou étrangères qui détiennent au moins 10 % du capital-actions ou du capital social de la société qui effectue le versement;\nd. dans le cas de liquidation ou de déplacement du siège ou de l’administration effective de la société de capitaux ou de la société coopérative à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1quinquies LIA",
+        "content": "La société doit comptabiliser les réserves issues d’apports de capital visées à l’al. 1quater, let. a et b, sur un compte spécial et communiquer toute modification de ce compte à l’AFC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1sexies LIA",
+        "content": "Les al. 1ter à 1quinquies s’appliquent par analogie en cas d’utilisation de réserves issues d’apports de capital pour l’émission d’actions gratuites ou l’augmentation gratuite de la valeur nominale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 1septies LIA",
+        "content": "L’al. 1bis ne s’applique aux apports et aux agios qui sont versés pendant la durée d’une marge de fluctuation du capital au sens des art. 653s ss CO que dans la mesure où ils dépassent les remboursements de réserves dans le cadre de ladite marge de fluctuation du capital.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, I. Revenu de capitaux mobiliers, 2. Exceptions",
+        "citation": "Art. 5 al. 2 LIA",
+        "content": "L’ordonnance peut prescrire que les intérêts de plusieurs avoirs de clients qu’un même créancier ou qu’une même personne ayant le droit d’en disposer détient auprès de la même banque ou de la même caisse d’épargne doivent être additionnés; en cas d’abus manifeste, l’AFC peut ordonner l’addition de ces intérêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_5"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, II. Gains provenant de jeux d’argent et gains provenant de jeux d’adresse et de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 6 al. 1 LIA",
+        "content": "L’impôt anticipé sur les gains provenant de jeux d’argent a pour objet les gains effectivement versés qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à iter, LIFD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_6"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, II. Gains provenant de jeux d’argent et gains provenant de jeux d’adresse et de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 6 al. 2 LIA",
+        "content": "L’impôt anticipé sur les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes a pour objet les gains effectivement versés qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_6"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, III. Prestations d’assurances, 1. Règles",
+        "citation": "Art. 7 al. 1 LIA",
+        "content": "L’impôt anticipé sur les prestations d’assurances a pour objet les prestations en capital faites en vertu d’assurances sur la vie, ainsi que les rentes viagères et les pensions, si l’assurance appartient au portefeuille suisse de l’assureur et si, au moment où se produit l’événement assuré, le preneur d’assurance ou un ayant droit est domicilié en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, III. Prestations d’assurances, 1. Règles",
+        "citation": "Art. 7 al. 2 LIA",
+        "content": "Le transfert d’une assurance d’un portefeuille suisse dans un portefeuille étranger, ainsi que la cession de prétentions d’assurances d’une personne domiciliée en Suisse à une personne domiciliée à l’étranger, sont assimilés, pour l’impôt anticipé, au versement de la prestation d’assurance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, III. Prestations d’assurances, 1. Règles",
+        "citation": "Art. 7 al. 3 LIA",
+        "content": "Tout versement d’avoirs au sens de l’art. 5, al. 1, let. d, est également considéré comme prestation en capital faite en vertu d’une assurance sur la vie, quelle que soit la cause de ce versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_7"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, III. Prestations d’assurances, 2. Exceptions",
+        "citation": "Art. 8 al. 1 LIA",
+        "content": "Sont exonérées de l’impôt anticipé:\na. les prestations en capital, si le total des prestations découlant de la même assurance n’excède pas 5000 francs;\nb. les rentes et pensions, si leur montant, y compris les allocations supplémentaires, n’excède pas 500 francs par an;\nc. les prestations prévues par les lois fédérales du 20 décembre 1946 sur l’assurance-vieillesse et survivants et du 19 juin 1959 sur l’assurance-invalidité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_8"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, III. Prestations d’assurances, 2. Exceptions",
+        "citation": "Art. 8 al. 2 LIA",
+        "content": "L’ordonnance peut prescrire d’une manière générale que les prestations en capital ou les rentes et pensions d’un même assureur sur une même tête soient additionnées; l’AFC peut imposer une telle addition, s’il y a abus manifeste, dans un cas particulier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_8"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, IV. Définitions",
+        "citation": "Art. 9 al. 1 LIA",
+        "content": "L’expression «domicilié en Suisse» s’applique à quiconque possède son domicile en Suisse, y réside d’une manière durable, y a son siège statutaire ou y est inscrit comme entreprise au registre du commerce; sont également considérées comme domiciliées en Suisse au sens de l’art. 4 les personnes morales ou sociétés commerciales sans personnalité juridique dont le siège statutaire se trouve à l’étranger, mais qui sont effectivement dirigées en Suisse et y exercent une activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, IV. Définitions",
+        "citation": "Art. 9 al. 2 LIA",
+        "content": "L’expression «banque ou caisse d’épargne» s’applique à quiconque s’offre publiquement à recevoir des fonds portant intérêt ou accepte de façon constante des fonds contre intérêt; sont exceptées les associations d’épargne qui n’acceptent des versements que de leurs propres membres et les caisses d’épargne d’entreprise qui n’admettent comme épargnants que le personnel de l’entreprise, si ces associations ou ces caisses replacent les fonds qui leur sont confiés exclusivement en valeurs dont le rendement est soumis à l’impôt anticipé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, A. Objet de l’impôt, IV. Définitions",
+        "citation": "Art. 9 al. 3 LIA",
+        "content": "Toute disposition de la présente loi traitant de placements collectifs de capitaux au sens de la LPCC s’applique par analogie à toutes les personnes qui exercent les fonctions correspondantes. Les sociétés d’investissement à capital fixe au sens de l’art. 110 LPCC sont assimilées dans la présente loi aux sociétés de capitaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_9"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, I. Contribuable",
+        "citation": "Art. 10 al. 1 LIA",
+        "content": "L’obligation fiscale incombe au débiteur de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_10"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, I. Contribuable",
+        "citation": "Art. 10 al. 2 LIA",
+        "content": "Lorsqu’il s’agit de placements collectifs au sens de la LPCC, la direction du fonds, la société d’investissement à capital variable ou fixe et la société en commandite de placements collectifs sont soumis à l’impôt anticipé. Si une majorité des associés indéfiniment responsables d’une société en commandite de placements collectifs ont leur domicile à l’étranger ou si les associés indéfiniment responsables sont des personnes morales dans lesquelles participent une majorité de personnes dont le domicile ou le siège se trouvent à l’étranger, la banque dépositaire de la société en commandite de placements collectifs est solidairement responsable pour l’impôt sur les rendements versés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_10"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, II. Forme de l’exécution",
+        "citation": "Art. 11 al. 1 LIA",
+        "content": "L’obligation fiscale est exécutée par:\na. le paiement de l’impôt (art. 12 à 18), ou\nb. la déclaration de la prestation imposable (art. 19 à 20a).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_11"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, II. Forme de l’exécution",
+        "citation": "Art. 11 al. 2 LIA",
+        "content": "L’ordonnance fixe les conditions de la non-perception de l’impôt anticipé sur les rendements de parts de placements collectifs au sens de la LPCC contre remise d’une déclaration bancaire (affidavit).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_11"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 1. Naissance de la créance fiscale",
+        "citation": "Art. 12 al. 1 LIA",
+        "content": "Pour les revenus de capitaux mobiliers, pour les gains provenant de jeux d’argent qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à iter, LIFD et pour les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD, la créance fiscale prend naissance au moment où échoit la prestation imposable. La capitalisation d’intérêts ou la décision de transférer le siège à l’étranger (art. 4, al. 2) entraîne la naissance de la créance fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 1. Naissance de la créance fiscale",
+        "citation": "Art. 12 al. 1bis LIA",
+        "content": "En cas d’acquisition par une société de ses propres droits de participation selon l’art. 4a, al. 2, la créance fiscale naît à l’expiration du délai fixé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 1. Naissance de la créance fiscale",
+        "citation": "Art. 12 al. 1ter LIA",
+        "content": "Lorsqu’il s’agit d’un fonds de thésaurisation, la créance fiscale prend naissance au moment où le rendement imposable (art. 4, al. 1, let. c) est crédité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 1. Naissance de la créance fiscale",
+        "citation": "Art. 12 al. 2 LIA",
+        "content": "Pour les prestations d’assurances, la créance fiscale prend naissance au moment du versement de la prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 1. Naissance de la créance fiscale",
+        "citation": "Art. 12 al. 3 LIA",
+        "content": "Si, pour une raison dépendant de sa personne, le débiteur n’est pas en mesure d’exécuter la prestation imposable à l’échéance, la créance fiscale prend naissance seulement à la date à laquelle est reporté le versement de cette prestation ou de toute autre prestation la remplaçant, mais en tout cas au moment de l’exécution effective.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_12"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 2. Taux",
+        "citation": "Art. 13 al. 1 LIA",
+        "content": "L’impôt anticipé s’élève:\na. pour les revenus de capitaux mobiliers, les gains provenant de jeux d’argent qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à iter, LIFD et les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD: à 35 % de la prestation imposable;\nb. pour les rentes viagères et les pensions: à 15 % de la prestation imposable;\nc. pour les autres prestations d’assurances: à 8 % de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_13"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 2. Taux",
+        "citation": "Art. 13 al. 2 LIA",
+        "content": "Le Conseil fédéral peut, à la fin d’une année, réduire le taux de l’impôt fixé à l’al. 1, let. a à 30 %, lorsque la situation monétaire ou le marché des capitaux l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_13"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 3. Transfert",
+        "citation": "Art. 14 al. 1 LIA",
+        "content": "Le contribuable doit, en versant, virant, créditant ou imputant la prestation imposable, en déduire le montant de l’impôt anticipé, sans avoir égard à la personne du créancier; toute convention contraire est nulle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_14"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 3. Transfert",
+        "citation": "Art. 14 al. 2 LIA",
+        "content": "Le contribuable doit donner au bénéficiaire de la prestation imposable les indications nécessaires pour faire valoir le droit au remboursement et, à sa demande, lui délivrer une attestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_14"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 4. Responsabilité solidaire",
+        "citation": "Art. 15 al. 1 LIA",
+        "content": "Sont responsables solidairement avec le contribuable:\na. pour l’impôt anticipé dû par une personne morale, une société commerciale sans personnalité juridique ou un placement collectif de capitaux en liquidation: les personnes chargées de la liquidation, jusqu’à concurrence du produit de la liquidation;\nb. pour l’impôt anticipé dû par une personne morale ou un placement collectif de capitaux qui transfère son siège à l’étranger: les organes de cette personne ou, dans le cas de la société en commandite de placements collectifs, la banque dépositaire jusqu’à concurrence de la fortune nette de la personne morale et du placement collectif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 4. Responsabilité solidaire",
+        "citation": "Art. 15 al. 2 LIA",
+        "content": "Les personnes désignées à l’al. 1 ne répondent que des créances d’impôt, intérêts et frais qui prennent naissance, que l’autorité fait valoir ou qui échoient pendant leur gestion; leur responsabilité s’éteint si elles établissent qu’elles ont fait tout ce qu’on pouvait attendre d’elles pour déterminer et exécuter la créance fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 4. Responsabilité solidaire",
+        "citation": "Art. 15 al. 3 LIA",
+        "content": "La personne solidairement responsable a, dans la procédure, les mêmes droits et devoirs que le contribuable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_15"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 5. Échéance; intérêt moratoire",
+        "citation": "Art. 16 al. 1 LIA",
+        "content": "L’impôt anticipé échoit:\na. sur les intérêts des obligations de caisse et des avoirs de clients auprès de banques ou de caisses d’épargne suisses: trente jours après l’expiration de chaque trimestre commercial, pour les intérêts échus pendant ce trimestre;\nb. ...\nc. sur les autres revenus de capitaux mobiliers, sur les gains provenant de jeux d’argent qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à iter, LIFD et sur les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD: trente jours après la naissance de la créance fiscale (art. 12);\nd. sur les prestations d’assurances: trente jours après l’expiration de chaque mois, pour les prestations exécutées pendant ce mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 5. Échéance; intérêt moratoire",
+        "citation": "Art. 16 al. 2 LIA",
+        "content": "Un intérêt moratoire est dû, sans sommation, sur les montants d’impôt dès que les délais fixés à l’al. 1 sont échus. Le Département fédéral des finances fixe le taux de l’intérêt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 5. Échéance; intérêt moratoire",
+        "citation": "Art. 16 al. 2bis LIA",
+        "content": "Aucun intérêt moratoire n’est dû si les conditions matérielles d’exécution de l’obligation fiscale par une déclaration de la prestation imposable sont remplies conformément à:\na. l’art. 20 et ses dispositions d’exécution, \nabis. l’art. 20a et ses dispositions d’exécution, ou à\nb. la convention internationale applicable dans le cas d’espèce et ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 5. Échéance; intérêt moratoire",
+        "citation": "Art. 16 al. 3 LIA",
+        "content": "L’ouverture de la faillite du débiteur ou le transfert à l’étranger de son domicile ou de son lieu de séjour entraînent l’échéance de l’impôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_16"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 6. Extinction de la créance fiscale, a. Prescription",
+        "citation": "Art. 17 al. 1 LIA",
+        "content": "La créance fiscale se prescrit par cinq ans dès la fin de l’année civile au cours de laquelle elle a pris naissance (art. 12).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 6. Extinction de la créance fiscale, a. Prescription",
+        "citation": "Art. 17 al. 2 LIA",
+        "content": "La prescription ne court pas, ou elle est suspendue, tant que la créance fiscale est l’objet d’une garantie, ou tant qu’aucune des personnes tenues au paiement n’est domiciliée en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 6. Extinction de la créance fiscale, a. Prescription",
+        "citation": "Art. 17 al. 3 LIA",
+        "content": "La prescription est interrompue chaque fois qu’une personne tenue au paiement reconnaît la créance fiscale et chaque fois qu’un acte officiel tendant à recouvrer la créance est porté à la connaissance d’une personne tenue au paiement. À chaque interruption, un nouveau délai de prescription commence à courir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 6. Extinction de la créance fiscale, a. Prescription",
+        "citation": "Art. 17 al. 4 LIA",
+        "content": "La suspension et l’interruption ont effet à l’égard de toutes les personnes tenues au paiement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_17"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, III. Paiement de l’impôt, 6. Extinction de la créance fiscale, b. Remise",
+        "citation": "Art. 18 LIA",
+        "content": "La créance fiscale qui a pris naissance à la suite de la revalorisation de droits de participation amortis aux fins d’assainissement, ou lors du rachat de bons de jouissance émis à l’occasion d’un assainissement, peut faire l’objet d’une remise, dans la mesure où le recouvrement de l’impôt aurait des conséquences manifestement rigoureuses pour le bénéficiaire de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_18"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 1. Pour les prestations d’assurances",
+        "citation": "Art. 19 al. 1 LIA",
+        "content": "L’assureur doit exécuter son obligation fiscale par une déclaration de la prestation d’assurance imposable, à moins qu’avant le versement le preneur d’assurance ou un ayant droit ne lui ait signifié par écrit son opposition à la déclaration.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 1. Pour les prestations d’assurances",
+        "citation": "Art. 19 al. 2 LIA",
+        "content": "Si l’impôt anticipé que l’assureur doit payer par suite de l’opposition dépasse le montant de la prestation qui doit encore être versé, l’opposition à la déclaration n’est valable que si l’opposant rembourse la différence à l’assureur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 1. Pour les prestations d’assurances",
+        "citation": "Art. 19 al. 3 LIA",
+        "content": "Les déclarations doivent être adressées par écrit à l’AFC dans les trente jours qui suivent l’expiration de chaque mois, pour les prestations exécutées pendant ce mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_19"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 2. Pour les revenus de capitaux mobiliers",
+        "citation": "Art. 20 al. 1 LIA",
+        "content": "S’il apparaît que le paiement de l’impôt sur les revenus de capitaux mobiliers entraînerait des complications inutiles ou des rigueurs manifestes, le contribuable peut être autorisé à exécuter son obligation fiscale par une déclaration de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 2. Pour les revenus de capitaux mobiliers",
+        "citation": "Art. 20 al. 2 LIA",
+        "content": "Le Conseil fédéral définit les cas dans lesquels la procédure de déclaration est admise. La procédure de déclaration doit être admise en particulier pour les dividendes et les prestations appréciables en argent versés au sein d’un groupe suisse ou international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 2. Pour les revenus de capitaux mobiliers",
+        "citation": "Art. 20 al. 3 LIA",
+        "content": "Dans les cas visés à l’art. 16, al. 2bis, let. a et b, la procédure de déclaration est admise même si la déclaration de la prestation imposable, la demande d’autorisation du recours à la procédure de déclaration ou la demande d’application de la procédure de déclaration n’est pas déposée dans le délai imparti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 3. Pour les gains en nature provenant de jeux d’argent ainsi que de jeux d’adresse ou de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 20a al. 1 LIA",
+        "content": "Pour les gains en nature provenant de jeux d’argent qui ne sont pas exonérés de l’impôt en vertu de l’art. 24, let. i à iter, LIFD et pour les gains en nature provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt en vertu de l’art. 24, let. j, LIFD, il incombe à l’organisateur d’exécuter l’obligation fiscale par une déclaration de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 3. Pour les gains en nature provenant de jeux d’argent ainsi que de jeux d’adresse ou de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 20a al. 2 LIA",
+        "content": "La déclaration doit être adressée par écrit à l’AFC dans les nonante jours qui suivent l’échéance du gain. Elle doit être accompagnée d’une attestation de domicile du gagnant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 3. Pour les gains en nature provenant de jeux d’argent ainsi que de jeux d’adresse ou de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 20a al. 3 LIA",
+        "content": "L’AFC transmet la déclaration à l’autorité fiscale du canton dans lequel se trouve le domicile du gagnant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 1, Perception de l’impôt anticipé, B. Obligation fiscale, IV. Déclaration remplaçant le paiement de l’impôt, 3. Pour les gains en nature provenant de jeux d’argent ainsi que de jeux d’adresse ou de loteries destinés à promouvoir les ventes",
+        "citation": "Art. 20a al. 4 LIA",
+        "content": "La procédure de déclaration est également admise lorsque la déclaration n’est pas déposée dans les nonante jours qui suivent l’échéance du gain.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_20_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, I. Conditions générales du droit au remboursement",
+        "citation": "Art. 21 al. 1 LIA",
+        "content": "L’ayant droit au sens des art. 22 à 28 peut demander le remboursement de l’impôt anticipé retenu à sa charge par le débiteur:\na. pour l’impôt sur les revenus de capitaux mobiliers: s’il avait au moment de l’échéance de la prestation imposable le droit de jouissance sur les valeurs qui ont produit le rendement soumis à l’impôt;\nb. pour les gains provenant de jeux d’argent qui ne sont pas exonérés de l’impôt selon l’art. 24, let. i à iter, LIFD et les gains provenant de jeux d’adresse ou de loteries destinés à promouvoir les ventes qui ne sont pas exonérés de l’impôt selon l’art. 24, let. j, LIFD: s’il était propriétaire du billet de loterie au moment du tirage ou s’il est le participant en droit de percevoir le gain.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, I. Conditions générales du droit au remboursement",
+        "citation": "Art. 21 al. 2 LIA",
+        "content": "Le remboursement est inadmissible dans tous les cas où il pourrait permettre d’éluder un impôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, I. Conditions générales du droit au remboursement",
+        "citation": "Art. 21 al. 3 LIA",
+        "content": "Lorsque des circonstances spéciales le justifient (opérations boursières, etc.), l’ordonnance peut régler le droit au remboursement en dérogeant à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_21"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 1. Personnes physiques, a. Droit au remboursement",
+        "citation": "Art. 22 al. 1 LIA",
+        "content": "Les personnes physiques ont droit au remboursement de l’impôt anticipé si elles étaient domiciliées en Suisse à l’échéance de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_22"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 1. Personnes physiques, a. Droit au remboursement",
+        "citation": "Art. 22 al. 2 LIA",
+        "content": "L’ordonnance règle le droit au remboursement des personnes physiques qui sont tenues, du fait de leur simple séjour, à payer des impôts fédéraux, cantonaux ou communaux sur le revenu ou sur la fortune; lorsque les circonstances spéciales le justifient, elle peut prévoir le remboursement également dans d’autres cas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_22"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 1. Personnes physiques, b. Déchéance du droit",
+        "citation": "Art. 23 al. 1 LIA",
+        "content": "Celui qui, contrairement aux prescriptions légales, ne déclare pas aux autorités fiscales compétentes un revenu grevé de l’impôt anticipé ou la fortune d’où provient ce revenu perd le droit au remboursement de l’impôt anticipé déduit de ce revenu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_23"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 1. Personnes physiques, b. Déchéance du droit",
+        "citation": "Art. 23 al. 2 LIA",
+        "content": "Il n’y a pas de déchéance du droit si l’omission du revenu ou de la fortune dans la déclaration d’impôt est due à une négligence et si, dans une procédure de taxation, de révision ou de rappel d’impôt dont la décision n’est pas encore entrée en force, ce revenu ou cette fortune:\na. sont déclarés ultérieurement, ou \nb. ont été portés au compte du revenu ou de la fortune suite à une constatation faite par l’autorité fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_23"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., a. Droit au remboursement",
+        "citation": "Art. 24 al. 1 LIA",
+        "content": "La Confédération, les cantons et les communes, ainsi que leurs établissements, leurs entreprises et les fonds spéciaux placés sous leur administration, ont droit au remboursement de l’impôt anticipé si les valeurs qui ont produit le rendement soumis à l’impôt apparaissent dans les comptes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., a. Droit au remboursement",
+        "citation": "Art. 24 al. 2 LIA",
+        "content": "Les personnes morales et les sociétés commerciales sans personnalité juridique ont droit au remboursement de l’impôt anticipé si elles avaient leur siège en Suisse à l’échéance de la prestation imposable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., a. Droit au remboursement",
+        "citation": "Art. 24 al. 3 LIA",
+        "content": "Les entreprises étrangères qui sont tenues de payer des impôts cantonaux ou communaux sur leurs revenus provenant d’un établissement stable en Suisse, ou sur la fortune d’exploitation de cet établissement, ont droit au remboursement de l’impôt anticipé déduit du revenu de cette fortune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., a. Droit au remboursement",
+        "citation": "Art. 24 al. 4 LIA",
+        "content": "Les collectivités et institutions établies à l’étranger qui n’ont pas une activité lucrative ont droit au remboursement de l’impôt anticipé qui a été déduit du revenu de la fortune exclusivement affectée au culte, à l’instruction ou à d’autres oeuvres d’utilité publique en faveur des Suisses résidant à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., a. Droit au remboursement",
+        "citation": "Art. 24 al. 5 LIA",
+        "content": "L’ordonnance règle le droit au remboursement des communautés de copropriétaires par étages ainsi que d’autres groupements de personnes et masses de biens qui n’ont pas la personnalité juridique, mais qui possèdent leur propre organisation et exercent leur activité en Suisse ou y sont administrés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_24"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., b. Déchéance du droit",
+        "citation": "Art. 25 al. 1 LIA",
+        "content": "Les personnes morales, les sociétés commerciales sans personnalité juridique et les entreprises étrangères ayant un établissement stable en Suisse (art. 24, al. 2, 3 et 4) qui ne comptabilisent pas régulièrement comme rendement un revenu grevé de l’impôt anticipé perdent le droit au remboursement de l’impôt déduit de ce revenu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_25"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 2. Personnes morales, entreprises commerciales, etc., b. Déchéance du droit",
+        "citation": "Art. 25 al. 2 LIA",
+        "content": "Lorsque des circonstances spéciales le justifient (actions gratuites, etc.), l’ordonnance peut permettre des exceptions à la condition, posée à l’al. 1, que le revenu grevé soit comptabilisé comme rendement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_25"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 3. Placements collectifs de capitaux",
+        "citation": "Art. 26 LIA",
+        "content": "Le placement collectif qui acquitte l’impôt anticipé sur les rendements de parts d’un placement collectif au sens de la LPCC (art. 10, al. 2) a droit, pour son compte, au remboursement de l’impôt anticipé retenu à la charge de ce placement; l’art. 25 est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_26"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 4. Porteurs étrangers de parts de placements collectifs de capitaux",
+        "citation": "Art. 27 LIA",
+        "content": "Les porteurs de parts d’un placement collectif au sens de la LPCC qui sont domiciliés à l’étranger ont droit au remboursement de l’impôt anticipé déduit du rendement de ces parts, à condition qu’au moins 80 % de ce rendement provienne de sources étrangères.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_27"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 5. États étrangers, organisations internatio, diploma, etc.",
+        "citation": "Art. 28 al. 1 LIA",
+        "content": "Les États étrangers ont droit au remboursement de l’impôt anticipé en tant qu’il a été déduit des intérêts d’avoirs placés par eux dans des banques suisses à l’usage exclusif de leurs représentations diplomatiques et consulaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 5. États étrangers, organisations internatio, diploma, etc.",
+        "citation": "Art. 28 al. 2 LIA",
+        "content": "Les bénéficiaires d’exemptions fiscales en vertu de la loi du 22 juin 2007 sur l’État hôte ont droit au remboursement de l’impôt anticipé si, à l’échéance de la prestation imposable, les dispositions légales, les conventions ou l’usage les exonèrent du paiement d’impôts cantonaux sur les titres et avoirs en banque et sur le rendement de ces valeurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, II. Ayants droit, 5. États étrangers, organisations internatio, diploma, etc.",
+        "citation": "Art. 28 al. 3 LIA",
+        "content": "Si un État étranger n’accorde pas la réciprocité, le remboursement lui est refusé, ainsi qu’aux membres de ses représentations diplomatiques et consulaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_28"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 1. Demande",
+        "citation": "Art. 29 al. 1 LIA",
+        "content": "Celui qui veut obtenir le remboursement de l’impôt anticipé doit présenter une demande écrite à l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 1. Demande",
+        "citation": "Art. 29 al. 2 LIA",
+        "content": "La demande peut être présentée au plus tôt après l’expiration de l’année civile au cours de laquelle la prestation imposable est échue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 1. Demande",
+        "citation": "Art. 29 al. 3 LIA",
+        "content": "La demande peut être présentée auparavant lorsqu’il existe de justes motifs (fin de l’assujettissement, dissolution d’une personne morale, faillite, etc.) ou que des conséquences particulièrement rigoureuses le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_29"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 2. Autorités compétentes",
+        "citation": "Art. 30 al. 1 LIA",
+        "content": "Les personnes physiques doivent faire valoir leur demande en remboursement auprès des autorités fiscales du canton où elles étaient domiciliées à l’expiration de l’année civile au cours de laquelle la prestation imposable est échue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 2. Autorités compétentes",
+        "citation": "Art. 30 al. 2 LIA",
+        "content": "Les personnes morales, les sociétés commerciales sans personnalité juridique et tous les autres ayants droit qui ne sont pas mentionnées à l’al. 1 doivent présenter leur demande à l’AFC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, III. Exercice du droit au remboursement, 2. Autorités compétentes",
+        "citation": "Art. 30 al. 3 LIA",
+        "content": "Lorsque les circonstances le justifient, le Conseil fédéral peut régler différemment la compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_30"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, IV. Forme du remboursement",
+        "citation": "Art. 31 al. 1 LIA",
+        "content": "Les cantons remboursent l’impôt anticipé, en règle générale, sous forme d’imputation sur les impôts cantonaux et communaux que doit payer le requérant, le surplus étant versé en espèces; ils peuvent prévoir, dans leurs dispositions d’exécution, le remboursement total de l’impôt en espèces.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, IV. Forme du remboursement",
+        "citation": "Art. 31 al. 2 LIA",
+        "content": "Les impôts cantonaux et communaux sur lesquels l’impôt anticipé est imputé, conformément à l’al. 1, seront désignés dans les dispositions cantonales d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, IV. Forme du remboursement",
+        "citation": "Art. 31 al. 3 LIA",
+        "content": "Lorsque la demande en remboursement est adressée en même temps que la déclaration d’impôt cantonale ou, s’il n’y a pas de déclaration à présenter, dans un délai à fixer par le canton, l’imputation se fait sur les impôts cantonaux et communaux qui doivent être payés pendant la même année.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, IV. Forme du remboursement",
+        "citation": "Art. 31 al. 4 LIA",
+        "content": "Les montants à imputer ou à rembourser ne portent pas intérêt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_31"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, V. Extinction du droit au remboursement par suite d’expiration du délai",
+        "citation": "Art. 32 al. 1 LIA",
+        "content": "Le droit au remboursement s’éteint si la demande n’est pas présentée dans les trois ans après l’expiration de l’année civile au cours de laquelle la prestation est échue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_32"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, A. Remboursement de l’impôt sur les revenus de capitaux mobiliers, les gains provenant de jeux d’argent et les gains provenant de de jeux d’adresse ou de loteries destinés à promouvoir les ventes, V. Extinction du droit au remboursement par suite d’expiration du délai",
+        "citation": "Art. 32 al. 2 LIA",
+        "content": "Si l’impôt anticipé n’est payé et transféré qu’à la suite d’une contestation de l’AFC et si le délai fixé à l’al. 1 est expiré ou qu’il ne reste pas au moins soixante jours depuis le paiement de l’impôt jusqu’à l’expiration du délai, un délai supplémentaire de soixante jours pour présenter la demande commence à courir depuis le paiement de l’impôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_32"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, B. Remboursement de l’impôt sur les prestations d’assurances",
+        "citation": "Art. 33 al. 1 LIA",
+        "content": "Le bénéficiaire d’une prestation d’assurance diminuée de l’impôt anticipé a droit au remboursement de l’impôt s’il produit l’attestation de l’assureur concernant la déduction (art. 14, al. 2) et fournit toutes les indications permettant de faire valoir les prétentions fiscales de la Confédération et des cantons relatives à l’assurance en question.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, B. Remboursement de l’impôt sur les prestations d’assurances",
+        "citation": "Art. 33 al. 2 LIA",
+        "content": "Celui qui prétend avoir droit au remboursement doit présenter une demande écrite à l’AFC; le droit s’éteint si la demande n’est pas présentée dans le délai de trois ans après l’expiration de l’année civile au cours de laquelle la prestation d’assurance a été exécutée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 2, Remboursement de l’impôt anticipé, B. Remboursement de l’impôt sur les prestations d’assurances",
+        "citation": "Art. 33 al. 3 LIA",
+        "content": "Les art. 31, al. 4, et 32, al. 2, sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_33"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 1. AFC",
+        "citation": "Art. 34 al. 1 LIA",
+        "content": "Pour la perception et le remboursement de l’impôt anticipé, l’AFC arrête toutes les instructions et prend toutes les décisions qui ne sont pas réservées expressément à une autre autorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_34"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 1. AFC",
+        "citation": "Art. 34 al. 2 LIA",
+        "content": "Dans la mesure où les cantons sont chargés du remboursement de l’impôt anticipé, l’AFC veille à l’application uniforme des prescriptions fédérales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_34"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 1a. Procédures électroniques",
+        "citation": "Art. 34a al. 1 LIA",
+        "content": "Le Conseil fédéral peut prescrire l’exécution par voie électronique des procédures prévues par la présente loi. Il arrête les modalités de cette exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 1a. Procédures électroniques",
+        "citation": "Art. 34a al. 2 LIA",
+        "content": "Lorsqu’une procédure est exécutée par voie électronique, l’AFC assure l’authenticité et l’intégrité des données transmises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 1a. Procédures électroniques",
+        "citation": "Art. 34a al. 3 LIA",
+        "content": "Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, l’AFC peut reconnaître, en lieu et place de la signature électronique qualifiée, une autre forme de confirmation électronique des données par le contribuable ou le requérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_34_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2. Autorités cantonales",
+        "citation": "Art. 35 al. 1 LIA",
+        "content": "Sous réserve des prescriptions du droit fédéral, le droit cantonal règle l’organisation et la gestion des autorités cantonales chargées de l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2. Autorités cantonales",
+        "citation": "Art. 35 al. 2 LIA",
+        "content": "Chaque canton institue une commission de recours indépendante de l’administration.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2. Autorités cantonales",
+        "citation": "Art. 35 al. 3 LIA",
+        "content": "Les cantons déterminent, dans leurs dispositions d’exécution, les offices auxquels incombe le remboursement de l’impôt anticipé (offices cantonaux de l’impôt anticipé).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2. Autorités cantonales",
+        "citation": "Art. 35 al. 4 LIA",
+        "content": "Les dispositions cantonales d’exécution de la présente loi doivent être soumises à l’approbation de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2a. Procédures électroniques prévues par les cantons",
+        "citation": "Art. 35a al. 1 LIA",
+        "content": "Les cantons prévoient la possibilité de recourir à des procédures électroniques. Dans ce cadre, ils assurent conformément au droit cantonal l’authenticité et l’intégrité des données transmises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2a. Procédures électroniques prévues par les cantons",
+        "citation": "Art. 35a al. 2 LIA",
+        "content": "Lorsqu’un écrit dont la signature est prescrite par la loi est déposé par voie électronique, les cantons prévoient, en lieu et place de la signature, la possibilité d’une confirmation électronique des données par le requérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, I. Organisation, 2a. Procédures électroniques prévues par les cantons",
+        "citation": "Art. 35a al. 3 LIA",
+        "content": "Ils prévoient que l’autorité fiscale remet des documents au requérant sous forme électronique avec l’accord de ce dernier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_35_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, II. Assistance administrative",
+        "citation": "Art. 36 al. 1 LIA",
+        "content": "Les autorités fiscales des cantons, districts, cercles et communes et l’AFC se prêtent assistance dans l’accomplissement de leur tâche; elles doivent, gratuitement, se faire les communications appropriées, se donner les renseignements nécessaires et se permettre mutuellement la consultation de pièces officielles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, II. Assistance administrative",
+        "citation": "Art. 36 al. 2 LIA",
+        "content": "Les autorités administratives de la Confédération, ainsi que les autorités des cantons, districts, cercles et communes autres que celles qui sont mentionnées à l’al. 1 ont l’obligation de renseigner l’AFC, si les renseignements demandés peuvent être importants pour l’exécution de la présente loi. Un renseignement ne peut être refusé que si des intérêts publics importants s’y opposent, en particulier la sécurité intérieure ou extérieure de la Confédération ou des cantons, ou si le renseignement devait gêner notablement l’autorité sollicitée dans l’accomplissement de sa tâche. Le secret des postes, téléphones et télégraphes doit être sauvegardé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, II. Assistance administrative",
+        "citation": "Art. 36 al. 3 LIA",
+        "content": "Les différends portant sur l’obligation des autorités administratives fédérales en matière de renseignements sont jugés par le Conseil fédéral; les différends relatifs à l’obligation des autorités des cantons, districts, cercles et communes en matière de renseignements sont jugés par le Tribunal fédéral, si le gouvernement cantonal a rejeté la demande de renseignements (art. 110 ss de l’Organisation judiciaire du 16 déc. 1943).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, II. Assistance administrative",
+        "citation": "Art. 36 al. 4 LIA",
+        "content": "Les organisations auxquelles ont été confiées des tâches relevant de l’administration publique sont, dans les limites de ces tâches, astreintes en matière de renseignements aux mêmes obligations que les autorités. L’al. 3 est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, IIa. Traitement des données",
+        "citation": "Art. 36a al. 1 LIA",
+        "content": "L’AFC gère, pour l’accomplissement des tâches qui lui incombent en vertu de la présente loi, un système d’information. Celui-ci peut contenir des données sensibles portant sur des sanctions administratives ou pénales importantes en matière fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, IIa. Traitement des données",
+        "citation": "Art. 36a al. 2 LIA",
+        "content": "L’AFC et les autorités citées à l’art. 36, al. 1, échangent les données qui peuvent être utiles à l’accomplissement de leurs tâches. Les autorités citées à l’art. 36, al. 2 et 4, communiquent à l’AFC les données qui peuvent être importantes pour l’exécution de la présente loi. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, IIa. Traitement des données",
+        "citation": "Art. 36a al. 3 LIA",
+        "content": "Les données sont communiquées dans des cas d’espèce ou sous forme de listes ou encore sur des supports de données électroniques. Elles peuvent également être rendues accessibles au moyen d’une procédure d’appel. Cette assistance administrative est gratuite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, IIa. Traitement des données",
+        "citation": "Art. 36a al. 4 LIA",
+        "content": "Les données personnelles et les équipements utilisés, tels que les supports de données, les programmes informatiques et la documentation concernant ces programmes, doivent être protégés de toute manipulation, modification ou destruction non autorisées ainsi que du vol.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, IIa. Traitement des données",
+        "citation": "Art. 36a al. 5 LIA",
+        "content": "Le Conseil fédéral peut édicter des dispositions d’exécution portant notamment sur l’organisation et la gestion du système d’information, les catégories de données à saisir, l’accès aux données ainsi que les autorisations de traitement, la durée de conservation, l’archivage et la destruction des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_36_a"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, III. Secret",
+        "citation": "Art. 37 al. 1 LIA",
+        "content": "Quiconque est chargé de l’exécution de la présente loi ou appelé à y prêter son concours est tenu, à l’égard d’autres services officiels et des personnes privées, de garder le secret sur ce qu’il apprend dans l’exercice de ses fonctions et de refuser la consultation des pièces officielles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_37"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, A. Autorités, III. Secret",
+        "citation": "Art. 37 al. 2 LIA",
+        "content": "L’obligation du secret n’existe pas:\na. s’il s’agit de prêter l’assistance prévue à l’art. 36, al. 1, ou de satisfaire à l’obligation de dénoncer des actes punissables;\nb. à l’égard des organes judiciaires ou administratifs qui ont été autorisés, par le Conseil fédéral d’une manière générale ou par le Département fédéral des finances dans un cas particulier, à demander des renseignements officiels aux autorités chargées de l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_37"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 1. Inscription comme contribuable; taxation par le contribuable lui-même",
+        "citation": "Art. 38 al. 1 LIA",
+        "content": "Celui qui est assujetti à l’impôt anticipé, conformément à la présente loi, est tenu de s’inscrire auprès de l’AFC sans attendre d’y être invité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 1. Inscription comme contribuable; taxation par le contribuable lui-même",
+        "citation": "Art. 38 al. 2 LIA",
+        "content": "Le contribuable doit, à l’échéance de l’impôt (art. 16), remettre à l’AFC, sans attendre d’y être invité, le relevé prescrit accompagné des pièces justificatives, et en même temps payer l’impôt ou faire la déclaration remplaçant le paiement (art. 19 et 20).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 1. Inscription comme contribuable; taxation par le contribuable lui-même",
+        "citation": "Art. 38 al. 3 LIA",
+        "content": "La procédure de déclaration au sens de l’art. 20a, al. 1, s’effectue dans les nonante jours qui suivent l’échéance de la prestation imposable et la déclaration doit être accompagnée des pièces justificatives et d’une attestation de domicile du gagnant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 1. Inscription comme contribuable; taxation par le contribuable lui-même",
+        "citation": "Art. 38 al. 4 LIA",
+        "content": "Toute déclaration au sens de l’art. 19 de prestations d’assurances servies à des personnes physiques domiciliées en Suisse doit mentionner le numéro AVS de ces dernières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 1. Inscription comme contribuable; taxation par le contribuable lui-même",
+        "citation": "Art. 38 al. 5 LIA",
+        "content": "Les personnes physiques domiciliées en Suisse qui ont droit à des prestations d’assurances au sens de l’art. 7 doivent communiquer leur numéro AVS à la personne soumise à l’obligation de déclarer au sens de l’art. 19. Si ce numéro n’est pas fourni, les effets légaux ou contractuels de la demeure sont suspendus pour la personne soumise à l’obligation de déclarer jusqu’à ce que cette personne l’ait reçu. L’art. 19, al. 3, est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_38"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 2. Obligation de donner des renseignements",
+        "citation": "Art. 39 al. 1 LIA",
+        "content": "Le contribuable doit renseigner en conscience l’AFC sur tous les faits qui peuvent avoir de l’importance pour déterminer l’assujettissement ou les bases de calcul de l’impôt; il doit en particulier:\na. remplir complètement et exactement les relevés et déclarations d’impôt, ainsi que les questionnaires;\nb. tenir ses livres avec soin et les produire, à la requête de l’autorité, avec les pièces justificatives et autres documents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 2. Obligation de donner des renseignements",
+        "citation": "Art. 39 al. 2 LIA",
+        "content": "La contestation de l’obligation de payer l’impôt anticipé ou de faire la déclaration remplaçant le paiement ne libère pas de l’obligation de donner des renseignements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 2. Obligation de donner des renseignements",
+        "citation": "Art. 39 al. 3 LIA",
+        "content": "Si l’obligation de donner des renseignements est contestée, l’AFC rend une décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_39"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 3. Contrôle",
+        "citation": "Art. 40 al. 1 LIA",
+        "content": "L’AFC contrôle l’accomplissement de l’obligation de s’inscrire comme contribuable; elle contrôle également les relevés et paiements d’impôt, ainsi que la remise des déclarations, conformément aux art. 19 et 20.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 3. Contrôle",
+        "citation": "Art. 40 al. 2 LIA",
+        "content": "L’AFC peut, pour élucider les faits, examiner sur place les livres du contribuable, les pièces justificatives et autres documents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 3. Contrôle",
+        "citation": "Art. 40 al. 3 LIA",
+        "content": "S’il se révèle que le contribuable n’a pas rempli ses obligations légales, l’occasion doit lui être donnée de s’expliquer sur les manquements constatés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 3. Contrôle",
+        "citation": "Art. 40 al. 4 LIA",
+        "content": "Si le différend ne peut être vidé, l’AFC rend une décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 3. Contrôle",
+        "citation": "Art. 40 al. 5 LIA",
+        "content": "Les constatations faites à l’occasion d’un contrôle selon l’al. 1 ou l’al. 2 auprès d’une banque ou d’une caisse d’épargne au sens de la Loi sur  les banques, auprès de la Banque nationale suisse ou auprès d’une centrale des lettres de gage ne doivent être utilisées que pour l’application de l’impôt anticipé. Le secret bancaire doit être respecté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_40"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 4. Décisions de l’AFC",
+        "citation": "Art. 41 LIA",
+        "content": "L’AFC rend toutes les décisions qui sont nécessaires pour la perception de l’impôt anticipé; elle rend une décision, en particulier:\na. lorsque la créance fiscale, la responsabilité solidaire ou l’obligation du transfert est contestée;\nb. lorsque, dans un cas déterminé, il lui est demandé, à titre provisionnel, de fixer officiellement l’assujettissement, les bases du calcul de l’impôt, la responsabilité solidaire ou l’obligation du transfert;\nc. lorsque le contribuable ou la personne solidairement responsable ne paie pas l’impôt dû selon le relevé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_41"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 5. Réclamation",
+        "citation": "Art. 42 al. 1 LIA",
+        "content": "Les décisions de l’AFC peuvent faire l’objet d’une réclamation dans les trente jours suivant leur notification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 5. Réclamation",
+        "citation": "Art. 42 al. 2 LIA",
+        "content": "La réclamation doit être adressée par écrit à l’AFC; elle doit contenir des conclusions précises et indiquer les faits qui la motivent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 5. Réclamation",
+        "citation": "Art. 42 al. 3 LIA",
+        "content": "Si la réclamation a été valablement formée, l’AFC revoit sa décision sans être liée par les conclusions présentées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 5. Réclamation",
+        "citation": "Art. 42 al. 4 LIA",
+        "content": "La procédure de réclamation est poursuivie, nonobstant le retrait de la réclamation, s’il y a des indices que la décision attaquée n’est pas conforme à la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 5. Réclamation",
+        "citation": "Art. 42 al. 5 LIA",
+        "content": "La décision sur réclamation doit être motivée et indiquer la voie de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_42"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 6. Frais",
+        "citation": "Art. 44 al. 1 LIA",
+        "content": "En règle générale, la procédure de perception et de réclamation est gratuite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_44"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 6. Frais",
+        "citation": "Art. 44 al. 2 LIA",
+        "content": "Quelle que soit l’issue de la procédure, les frais des enquêtes peuvent être mis à la charge de celui qui les a occasionnés par sa faute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_44"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, a. Poursuite",
+        "citation": "Art. 45 al. 1 LIA",
+        "content": "Si, après sommation, le débiteur ne paie pas les impôts, intérêts et frais, la poursuite est ouverte; la production de la créance dans une faillite est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_45"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, a. Poursuite",
+        "citation": "Art. 45 al. 2 LIA",
+        "content": "Si la créance fiscale n’est pas encore fixée par une décision passée en force et qu’elle soit contestée, sa collocation définitive n’a pas lieu tant qu’une décision passée en force fait défaut.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_45"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, b. Transfert des droits de recours",
+        "citation": "Art. 46 al. 1 LIA",
+        "content": "Si un contribuable qui n’a pas encore exécuté son obligation de mettre l’impôt à la charge du bénéficiaire est déclaré en faillite ou si, dans une poursuite engagée contre lui, la saisie est requise, ses droits de recours passent à la Confédération jusqu’à concurrence de l’impôt non encore payé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_46"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, c. Sûretés",
+        "citation": "Art. 47 al. 1 LIA",
+        "content": "L’AFC peut demander des sûretés pour les impôts, intérêts et frais, même s’ils ne sont pas encore fixés par une décision passée en force ou ne sont pas encore échus:\na. lorsque le recouvrement paraît menacé;\nb. lorsque le débiteur de l’impôt n’a pas de domicile en Suisse, ou qu’il prend des dispositions pour abandonner son domicile en Suisse ou se faire radier du registre du commerce;\nc. lorsque le débiteur de l’impôt est en demeure ou qu’il a été en demeure à plusieurs reprises pour le paiement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, c. Sûretés",
+        "citation": "Art. 47 al. 2 LIA",
+        "content": "La demande de sûretés doit indiquer le motif juridique de la garantie, le montant à garantir, ainsi que l’office qui reçoit les sûretés. Si la demande de sûretés se fonde sur l’al. 1, let. a ou b, elle vaut ordonnance de séquestre au sens de l’art. 274 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; l’opposition à l’ordonnance de séquestre est exclue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, c. Sûretés",
+        "citation": "Art. 47 al. 3 LIA",
+        "content": "Les demandes de sûretés de l’AFC peuvent faire l’objet d’un recours devant le Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, I. Perception de l’impôt, 7. Exécution forcée, c. Sûretés",
+        "citation": "Art. 47 al. 4 LIA",
+        "content": "Le recours contre de telles décisions n’a pas d’effet suspensif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_47"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, a. Obligations du requérant",
+        "citation": "Art. 48 al. 1 LIA",
+        "content": "Celui qui demande le remboursement de l’impôt anticipé doit renseigner en conscience l’autorité compétente sur tous les faits qui peuvent avoir de l’importance pour déterminer le droit au remboursement; il doit en particulier:\na. remplir complètement et exactement les formules de demandes et les questionnaires;\nb. fournir, à la requête de l’autorité, les attestations concernant la déduction de l’impôt (art. 14, al. 2) et produire les livres, pièces justificatives et autres documents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_48"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, a. Obligations du requérant",
+        "citation": "Art. 48 al. 2 LIA",
+        "content": "Si le requérant ne satisfait pas à ses obligations de donner des renseignements et que le droit au remboursement ne puisse être déterminé sans les renseignements requis par l’autorité, la demande est rejetée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_48"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, b. Obligations de tiers",
+        "citation": "Art. 49 al. 1 LIA",
+        "content": "La personne qui a établi une attestation concernant la déduction de l’impôt anticipé est tenue de donner au requérant, à sa demande, des renseignements complémentaires écrits, à l’intention de l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, b. Obligations de tiers",
+        "citation": "Art. 49 al. 2 LIA",
+        "content": "Les associés, copropriétaires et indivis sont tenus de renseigner l’autorité compétente, à sa demande, sur le rapport juridique qui les lie au requérant, en particulier sur ses parts, prétentions et prélèvements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, b. Obligations de tiers",
+        "citation": "Art. 49 al. 3 LIA",
+        "content": "Si le tiers conteste son obligation de donner des renseignements, l’autorité rend une décision qui peut être attaquée par la voie de la réclamation et du recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_49"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, c. Contrôle",
+        "citation": "Art. 50 al. 1 LIA",
+        "content": "L’autorité compétente peut contrôler sur place les renseignements donnés par le requérant, ou par des tiers conformément à l’art. 49, al. 2, et examiner à cette occasion les livres, pièces justificatives et autres documents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, c. Contrôle",
+        "citation": "Art. 50 al. 2 LIA",
+        "content": "L’AFC peut en outre contrôler auprès de la personne qui les a établies les attestations concernant la déduction de l’impôt (art. 14, al. 2), ainsi que les renseignements complémentaires donnés (art. 49, al. 1). L’art. 40, al. 5, est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 1. Dispositions générales, c. Contrôle",
+        "citation": "Art. 50 al. 3 LIA",
+        "content": "Les autorités cantonales peuvent faire usage au surplus des pouvoirs qui leurs sont attribués en leur qualité d’autorité de taxation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_50"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 2. Remboursement par la Confédération",
+        "citation": "Art. 51 al. 1 LIA",
+        "content": "Si l’AFC rejette la demande en tout ou en partie, elle rend une décision, à moins que le différend ne puisse être vidé d’une autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 2. Remboursement par la Confédération",
+        "citation": "Art. 51 al. 2 LIA",
+        "content": "Tout remboursement qui n’est pas fondé sur une décision selon l’al. 1 est fait sous réserve d’un contrôle ultérieur du droit; après un délai de trois ans depuis le remboursement, le contrôle ne peut plus être opéré qu’en rapport avec une procédure pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 2. Remboursement par la Confédération",
+        "citation": "Art. 51 al. 3 LIA",
+        "content": "S’il ressort du contrôle que le remboursement a été accordé à tort et si le requérant, ses héritiers ou les personnes solidairement responsables refusent d’en restituer le montant, l’AFC rend une décision demandant la restitution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 2. Remboursement par la Confédération",
+        "citation": "Art. 51 al. 4 LIA",
+        "content": "Les art. 42 à 44 sur la procédure de réclamation et de recours et sur les frais de procédure, ainsi que, dans le cas de l’al. 3, les art. 45 et 47 sur la poursuite et les sûretés, sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_51"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, a. Décision de l’office cantonal de l’impôt anticipé",
+        "citation": "Art. 52 al. 1 LIA",
+        "content": "L’office cantonal de l’impôt anticipé examine les demandes qui lui sont présentées, détermine les faits et prend toutes les mesures nécessaires pour fixer exactement le droit au remboursement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, a. Décision de l’office cantonal de l’impôt anticipé",
+        "citation": "Art. 52 al. 2 LIA",
+        "content": "Après clôture de son enquête, l’office cantonal de l’impôt anticipé rend une décision sur le droit au remboursement; la décision de remboursement peut être liée à la décision de taxation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, a. Décision de l’office cantonal de l’impôt anticipé",
+        "citation": "Art. 52 al. 3 LIA",
+        "content": "Si l’office cantonal de l’impôt anticipé rejette la demande en tout ou en partie, il doit motiver brièvement sa décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, a. Décision de l’office cantonal de l’impôt anticipé",
+        "citation": "Art. 52 al. 4 LIA",
+        "content": "Le remboursement accordé par l’office cantonal de l’impôt anticipé est fait sous réserve d’un contrôle ultérieur du droit au remboursement par l’AFC, conformément à l’art. 57.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_52"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, b. Réclamation",
+        "citation": "Art. 53 al. 1 LIA",
+        "content": "La décision de l’office cantonal de l’impôt anticipé peut, dans les trente jours suivant sa notification, faire l’objet d’une réclamation écrite à cet office.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, b. Réclamation",
+        "citation": "Art. 53 al. 2 LIA",
+        "content": "Les dispositions des art. 42 et 44 sont applicables par analogie à la procédure de réclamation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, b. Réclamation",
+        "citation": "Art. 53 al. 3 LIA",
+        "content": "L’art. 55 est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_53"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 1 LIA",
+        "content": "La décision rendue sur réclamation par l’office cantonal de l’impôt anticipé peut, dans les trente jours suivant sa notification, être attaquée par voie de recours écrit à la commission cantonale de recours; le recours doit contenir des conclusions précises et indiquer les faits qui le motivent. L’art. 55 est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 2 LIA",
+        "content": "La commission de recours prend les mesures d’enquête nécessaires; les art. 48 à 50 sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 3 LIA",
+        "content": "La possibilité doit être donnée à l’AFC de prendre part à la procédure et de déposer des conclusions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 4 LIA",
+        "content": "La procédure de recours est poursuivie, nonobstant le retrait du recours, s’il y a des indices que la décision attaquée n’est pas conforme à la loi, de même que si l’administration fédérale ou l’administration cantonale des contributions a déposé des conclusions et les maintient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 5 LIA",
+        "content": "La commission de recours rend la décision sur recours en se fondant sur le résultat de son enquête, sans être liée par les conclusions déposées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, c. Recours à la commission cantonale de recours",
+        "citation": "Art. 54 al. 6 LIA",
+        "content": "La décision doit être motivée et indiquer la voie de recours; elle est communiquée par écrit aux personnes qu’elle touche directement, ainsi qu’aux administrations cantonale et fédérale des contributions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_54"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, d. Droit cantonal complémentaire",
+        "citation": "Art. 55 LIA",
+        "content": "Les cantons peuvent, dans leurs dispositions d’exécution, prescrire que la procédure de réclamation et la procédure de recours à la commission cantonale de recours (y compris les délais) se règlent d’après les prescriptions de la procédure cantonale en matière de contestation et de contrôle de la taxation, lorsque la décision de remboursement a été liée à une décision de taxation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_55"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, B. Procédure, II. Remboursement de l’impôt, 3. Remboursement par le canton, e. Recours au Tribunal fédéral",
+        "citation": "Art. 56 LIA",
+        "content": "La décision de la commission cantonale de recours peut faire l’objet d’un recours devant le Tribunal fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_56"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, I. Relevé; contrôle; réduction",
+        "citation": "Art. 57 al. 1 LIA",
+        "content": "Les cantons adressent à la Confédération un relevé des montants d’impôt anticipé qu’ils ont remboursés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, I. Relevé; contrôle; réduction",
+        "citation": "Art. 57 al. 2 LIA",
+        "content": "L’AFC contrôle les relevés des cantons; à cet effet, elle peut consulter toutes pièces utiles auprès des cantons, districts, cercles et communes et ordonner, dans des cas particuliers, d’autres mesures d’enquête ou faire elle-même usage des pouvoirs d’enquête d’un office cantonal de l’impôt anticipé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, I. Relevé; contrôle; réduction",
+        "citation": "Art. 57 al. 3 LIA",
+        "content": "Si le contrôle révèle que le remboursement a été accordé à tort par l’office cantonal de l’impôt anticipé, l’AFC ordonne, à titre provisoire, une réduction correspondante du montant réclamé par le canton dans un de ses prochains relevés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, I. Relevé; contrôle; réduction",
+        "citation": "Art. 57 al. 4 LIA",
+        "content": "Après un délai de trois ans depuis l’expiration de l’année civile au cours de laquelle la décision de l’office cantonal de l’impôt anticipé est passée en force, l’AFC ne peut plus ordonner la réduction qu’en rapport avec une procédure pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_57"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, II. Conséquences de la réduction",
+        "citation": "Art. 58 al. 1 LIA",
+        "content": "Si une réduction à titre provisoire a été ordonnée, conformément à l’art. 57, al. 3, l’office cantonal de l’impôt anticipé peut demander la restitution de l’impôt à celui qui a bénéficié du remboursement; le droit du canton à la restitution s’éteint s’il n’est pas exercé en la forme d’une décision dans les six mois suivant la notification de la réduction provisoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, II. Conséquences de la réduction",
+        "citation": "Art. 58 al. 2 LIA",
+        "content": "La décision du canton sur l’obligation de restituer peut, dans les trente jours suivant sa notification, être attaquée par voie de recours à la commission cantonale de recours; les art. 54 et 56 sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, II. Conséquences de la réduction",
+        "citation": "Art. 58 al. 3 LIA",
+        "content": "La réduction provisoire devient caduque si la décision sur recours dénie l’obligation de restituer; si elle l’admet en totalité ou en partie, la réduction devient définitive dans la même mesure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, II. Conséquences de la réduction",
+        "citation": "Art. 58 al. 4 LIA",
+        "content": "Lorsque, sans le consentement de l’AFC, l’office cantonal de l’impôt anticipé ne demande pas la restitution, ou lorsque, dans sa décision entrée en force, il ne l’a pas demandée pour la totalité du montant, la réduction provisoire devient définitive, à moins que le canton n’intente une action devant le Tribunal fédéral dans les neuf mois qui suivent sa notification (art. 120 de la loi du 17 juin 2005 sur le Tribunal fédéral).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, C. Règlement de comptes entre la Confédération et les cantons, II. Conséquences de la réduction",
+        "citation": "Art. 58 al. 5 LIA",
+        "content": "La décision de restitution rendue par l’office cantonal de l’impôt anticipé ou la commission cantonale de recours est assimilée à un jugement exécutoire au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_58"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, D. Revision et interprétation de décisions",
+        "citation": "Art. 59 al. 1 LIA",
+        "content": "Les art. 66 à 69 de la loi fédérale du 20 décembre 1968 sur la procédure administrative sont applicables par analogie à la revision et à l’interprétation des décisions de l’AFC et des autorités cantonales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_59"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, E. Rectification des relevés cantonaux",
+        "citation": "Art. 60 al. 1 LIA",
+        "content": "Les erreurs de calcul et d’écriture dans les relevés des cantons selon l’art. 57 peuvent être corrigées dans les trois ans depuis l’envoi du relevé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_60"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 3, Autorités et procédure, E. Rectification des relevés cantonaux",
+        "citation": "Art. 60 al. 2 LIA",
+        "content": "Si le différend ne peut être vidé, l’autorité compétente rend une décision qui peut être attaquée par la voie de la réclamation et du recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_60"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, I. Soustraction d’impôt",
+        "citation": "Art. 61 LIA",
+        "content": "Celui qui, intentionnellement ou par négligence, à son propre avantage ou à celui d’un tiers:\na. soustrait des montants d’impôt anticipé à la Confédération;\nb. ne satisfait pas à l’obligation de déclarer une prestation imposable (art. 19 et 20) ou fait une fausse déclaration;\nc. obtient un remboursement injustifié de l’impôt anticipé, ou quelque autre avantage fiscal illicite,encourt, pour soustraction d’impôt, une amende jusqu’à concurrence de 30 000 francs ou, s’il en résulte un montant supérieur, jusqu’au triple de l’impôt soustrait, à moins que l’art. 14 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif ne soit applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_61"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, II. Mise en péril de l’impôt",
+        "citation": "Art. 62 al. 1 LIA",
+        "content": "Celui qui, intentionnellement ou par négligence, aura mis en péril l’exécution légale de l’impôt anticipé:\na. en ne satisfaisant pas, dans la procédure de perception de l’impôt, à l’obligation de s’annoncer comme contribuable, de remettre des déclarations, états et relevés, de donner des renseignements et de produire des livres et pièces justificatives;\nb. en remettant, comme contribuable ou à la place du contribuable, une attestation inexacte sur la déduction de l’impôt (art. 14, al. 2);\nc. en donnant des indications inexactes ou en celant des faits importants dans un état ou relevé, dans une déclaration ou un affidavit (art. 11), dans une demande de remboursement, de remise ou d’exonération d’impôt, ou en présentant des pièces justificatives inexactes à l’appui de faits importants;\nd.  en donnant des renseignements inexacts en qualité de contribuable, de requérant ou de tiers astreint à donner des renseignements;\ne. en faisant valoir un droit au remboursement qui ne lui appartient pas ou qui a déjà été satisfait;\nf. en contrevenant à l’obligation de tenir régulièrement et de conserver des livres, registres et pièces justificatives, ou\ng. en rendant plus difficile, en empêchant ou en rendant impossible l’exécution régulière d’un examen des livres ou d’autres contrôles officiels,encourt une amende pouvant aller jusqu’à 20 000 francs, à moins que l’une des dispositions pénales des art. 14 à 16 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif ne soit applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_62"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, II. Mise en péril de l’impôt",
+        "citation": "Art. 62 al. 2 LIA",
+        "content": "Lorsqu’il s’agit d’une infraction au sens de l’al. 1, let. g, la poursuite pénale selon l’art. 285 du code pénal suisse est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_62"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, III. Violation de l’obligation du transfert",
+        "citation": "Art. 63 LIA",
+        "content": "Celui qui, intentionnellement ou par négligence, aura omis ou promis d’omettre le transfert de l’impôt anticipé encourt une amende pouvant aller jusqu’à 10 000 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_63"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, IV. Inobservation de prescriptions d’ordre",
+        "citation": "Art. 64 al. 1 LIA",
+        "content": "Est puni d’une amende de 5000 francs au plus quiconque:\na. n’observe pas une condition de laquelle dépend une autorisation particulière;\nb. contrevient à une prescription de la présente loi ou d’une ordonnance d’exécution, aux instructions générales arrêtées sur la base de telles prescriptions, ou à une décision à lui signifiée sous la menace de la peine prévue au présent article;\nc. ne respecte pas les délais prévus pour les actes mentionnés à l’art. 20, al. 3, fixés dans les dispositions d’exécution qui s’y rapportent; \nd. ne respecte pas le délai visé à l’art. 20a, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_64"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, A. Infractions, IV. Inobservation de prescriptions d’ordre",
+        "citation": "Art. 64 al. 2 LIA",
+        "content": "L’infraction par négligence est également punissable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_64"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, B. Rapport avec la loi sur le droit pénal administratif; particularités pour les infractions dans la procédure cantonale",
+        "citation": "Art. 67 al. 1 LIA",
+        "content": "La loi fédérale du 22 mars 1974 sur le droit pénal administratif est applicable; l’AFC est l’autorité administrative compétente pour poursuivre et juger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_67"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, B. Rapport avec la loi sur le droit pénal administratif; particularités pour les infractions dans la procédure cantonale",
+        "citation": "Art. 67 al. 2 LIA",
+        "content": "Si l’infraction a été commise dans une procédure ouverte devant une autorité cantonale, cette dernière est tenue de dénoncer l’infraction à l’AFC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_67"
+    },
+    {
+        "book": "VStG",
+        "title": "LIA, Chapitre 4, Dispositions pénales, B. Rapport avec la loi sur le droit pénal administratif; particularités pour les infractions dans la procédure cantonale",
+        "citation": "Art. 67 al. 3 LIA",
+        "content": "L’autorité cantonale a la faculté d’infliger une amende pouvant aller jusqu’à 500 francs pour l’inobservation de prescriptions d’ordre (art. 64); la procédure se règle d’après les dispositions correspondantes de la législation fiscale cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1966/371_385_384/fr#art_67"
+    }
+]

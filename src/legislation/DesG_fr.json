@@ -1,0 +1,828 @@
+[
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Objet",
+        "citation": "Art. 1 LDes",
+        "content": "La présente loi protège en tant que designs la création de produits ou de parties de produits caractérisés notamment par la disposition de lignes, de surfaces, de contours ou de couleurs, ou par le matériau utilisé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_1"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Conditions",
+        "citation": "Art. 2 al. 1 LDes",
+        "content": "Un design peut être protégé à condition d’être nouveau et original.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Conditions",
+        "citation": "Art. 2 al. 2 LDes",
+        "content": "Un design n’est pas nouveau si un design identique, qui pouvait être connu des milieux spécialisés du secteur concerné en Suisse, a été divulgué au public avant la date de dépôt ou de priorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Conditions",
+        "citation": "Art. 2 al. 3 LDes",
+        "content": "Un design n’est pas original si, par l’impression générale qu’il dégage, il ne se distingue d’un design qui pouvait être connu des milieux spécialisés du secteur concerné en Suisse que par des caractéristiques mineures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Divulgations non dommageables",
+        "citation": "Art. 3 LDes",
+        "content": "La divulgation d’un design dans les douze mois précédant la date de dépôt ou de priorité ne peut être opposée au titulaire du droit sur ce design (titulaire) si:\na. elle est le fait de tiers ayant agi de manière abusive au détriment de l’ayant droit;\nb. elle est le fait de l’ayant droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_3"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 1, Objet et conditions, Motifs d’exclusion",
+        "citation": "Art. 4 LDes",
+        "content": "La protection d’un design est exclue si:\na. aucun design au sens de l’art. 1 n’a été déposé;\nb. le design ne remplit pas les conditions fixées à l’art. 2 au moment du dépôt;\nc. les caractéristiques du design découlent exclusivement de la fonction technique du produit;\nd. le design viole le droit fédéral ou un traité international;\ne. le design est contraire à l’ordre public ou aux bonnes mœurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_4"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Naissance du droit sur un design et durée de la protection",
+        "citation": "Art. 5 al. 1 LDes",
+        "content": "Le droit sur un design prend naissance par l’enregistrement du design dans le Registre des designs (registre).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Naissance du droit sur un design et durée de la protection",
+        "citation": "Art. 5 al. 2 LDes",
+        "content": "La protection est de cinq ans à compter de la date de dépôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Naissance du droit sur un design et durée de la protection",
+        "citation": "Art. 5 al. 3 LDes",
+        "content": "Elle peut être prolongée de quatre périodes de cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Priorité découlant du dépôt",
+        "citation": "Art. 6 LDes",
+        "content": "Le droit sur un design appartient à la personne qui a effectué le dépôt en premier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_6"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Personnes autorisées à effectuer un dépôt",
+        "citation": "Art. 7 al. 1 LDes",
+        "content": "Est autorisé à effectuer un dépôt le créateur du design, son ayant cause ou un tiers à qui le droit appartient à un autre titre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_7"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 2, Existence du droit sur un design, Personnes autorisées à effectuer un dépôt",
+        "citation": "Art. 7 al. 2 LDes",
+        "content": "Si plusieurs personnes ont créé ensemble le design, elles sont autorisées à le déposer en commun, sauf convention contraire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_7"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Étendue de la protection",
+        "citation": "Art. 8 LDes",
+        "content": "La protection du droit sur un design s’étend aux designs qui présentent les mêmes caractéristiques essentielles et qui, de ce fait, dégagent la même impression générale qu’un design enregistré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_8"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Effets du droit sur un design",
+        "citation": "Art. 9 al. 1 LDes",
+        "content": "Le droit sur un design confère à son titulaire le droit d’interdire à des tiers d’utiliser le design à des fins industrielles. Par utilisation, on entend notamment la fabrication, l’entreposage, l’offre, la mise en circulation, l’importation, l’exportation, le transit ainsi que la possession à ces fins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Effets du droit sur un design",
+        "citation": "Art. 9 al. 1bis LDes",
+        "content": "L’importation, l’exportation et le transit de marchandises de fabrication industrielle peuvent être interdits par le titulaire, même lorsqu’ils ne sont effectués qu’à des fins privées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Effets du droit sur un design",
+        "citation": "Art. 9 al. 2 LDes",
+        "content": "Le titulaire peut également interdire à des tiers de participer à une utilisation illicite, de la favoriser ou de la faciliter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Devoir d’informer du titulaire",
+        "citation": "Art. 10 LDes",
+        "content": "Quiconque revêt des marchandises ou des papiers de commerce d’une mention relative au droit sur un design sans indiquer le numéro attribué à celui-ci, est tenu de le communiquer gratuitement sur demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_10"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Pluralité de titulaires",
+        "citation": "Art. 11 LDes",
+        "content": "S’il y a plusieurs titulaires, les droits prévus à l’art. 9 leur reviennent en commun, sauf convention contraire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_11"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Droit de poursuivre l’utilisation",
+        "citation": "Art. 12 al. 1 LDes",
+        "content": "Le titulaire ne peut pas interdire à des tiers de poursuivre l’utilisation dans la même mesure qu’auparavant, lorsque ceux-ci ont, de bonne foi, utilisé le design en Suisse au cours des périodes suivantes:\na. avant la date de dépôt ou de priorité;\nb. pendant la durée de l’ajournement de la publication (art. 26).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_12"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Droit de poursuivre l’utilisation",
+        "citation": "Art. 12 al. 2 LDes",
+        "content": "Le droit de poursuivre l’utilisation ne peut être transféré qu’avec l’entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_12"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Droit d’utilisation parallèle",
+        "citation": "Art. 13 al. 1 LDes",
+        "content": "Le titulaire ne peut pas opposer le design enregistré à des tiers qui l’ont utilisé de bonne foi, à titre professionnel, en Suisse, entre le dernier jour du délai imparti pour le paiement de la taxe pour une nouvelle période de protection et le jour où une requête de poursuite de la procédure a été déposée (art. 31), ou qui ont pris des mesures particulières à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Droit d’utilisation parallèle",
+        "citation": "Art. 13 al. 2 LDes",
+        "content": "Le droit d’utilisation parallèle ne peut être transféré qu’avec l’entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Droit d’utilisation parallèle",
+        "citation": "Art. 13 al. 3 LDes",
+        "content": "La personne qui revendique le droit d’utilisation parallèle verse au titulaire une indemnité équitable à partir du moment où le droit sur le design est rétabli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Transfert",
+        "citation": "Art. 14 al. 1 LDes",
+        "content": "Le titulaire peut transférer tout ou partie de son droit sur le design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Transfert",
+        "citation": "Art. 14 al. 2 LDes",
+        "content": "Le transfert requiert la forme écrite, mais pas l’inscription dans le registre. Le transfert n’a d’effet à l’égard de tiers de bonne foi qu’après son inscription.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Transfert",
+        "citation": "Art. 14 al. 3 LDes",
+        "content": "Jusqu’à l’inscription du transfert:\na. les preneurs de licence de bonne foi peuvent se libérer de leurs obligations en fournissant leur prestation à l’ancien titulaire;\nb. les actions prévues par la présente loi peuvent être intentées contre l’ancien titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Licence",
+        "citation": "Art. 15 al. 1 LDes",
+        "content": "Le titulaire peut autoriser des tiers à utiliser, à titre exclusif ou non, le droit sur le design ou certains droits en découlant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_15"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Licence",
+        "citation": "Art. 15 al. 2 LDes",
+        "content": "À la demande de l’une des personnes concernées, la licence est inscrite dans le registre. Elle devient ainsi opposable à tout droit acquis postérieurement découlant du design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_15"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Usufruit et droit de gage",
+        "citation": "Art. 16 al. 1 LDes",
+        "content": "Le droit sur un design peut faire l’objet d’un usufruit ou d’un droit de gage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Usufruit et droit de gage",
+        "citation": "Art. 16 al. 2 LDes",
+        "content": "L’usufruit et le droit de gage n’ont d’effet à l’égard d’acquéreurs de bonne foi du droit sur le design qu’après leur inscription. L’inscription est effectuée à la demande de l’une des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Usufruit et droit de gage",
+        "citation": "Art. 16 al. 3 LDes",
+        "content": "Jusqu’à l’inscription d’un usufruit, les preneurs de licence de bonne foi peuvent se libérer de leurs obligations en fournissant leur prestation à l’ancien titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 3, Étendue de la protection et effets, Exécution forcée",
+        "citation": "Art. 17 LDes",
+        "content": "Le droit sur un design peut être l’objet de mesures d’exécution forcée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_17"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 4, Représentation",
+        "citation": "Art. 18 al. 1 LDes",
+        "content": "Quiconque participe à une procédure administrative prévue dans la présente loi sans avoir de domicile ou de siège en Suisse doit élire un domicile de notification en Suisse, à moins que le droit international ou l’autorité étrangère compétente n’autorise la notification directe dans l’État considéré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_18"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 1, Dispositions générales, Section 4, Représentation",
+        "citation": "Art. 18 al. 2 LDes",
+        "content": "L’Institut fédéral de la Propriété intellectuelle (IPI) est autorisé à remettre à l’autorité étrangère compétente une déclaration indiquant que, dans le domaine de la propriété intellectuelle, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_18"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Conditions générales",
+        "citation": "Art. 19 al. 1 LDes",
+        "content": "Le dépôt d’un design est réputé effectué lorsqu’une demande d’enregistrement est présentée à l’IPI. La demande doit contenir:\na. une requête d’enregistrement;\nb. une représentation du design se prêtant à la reproduction; si cette condition n’est pas remplie, l’IPI impartit au déposant un délai pour y remédier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Conditions générales",
+        "citation": "Art. 19 al. 2 LDes",
+        "content": "La taxe pour la première période de protection doit en outre être acquittée dans le délai imparti par l’IPI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Conditions générales",
+        "citation": "Art. 19 al. 3 LDes",
+        "content": "En cas de dépôt d’un design en deux dimensions (dessin) pour lequel le déposant a demandé l’ajournement de la publication conformément à l’art. 26, un exemplaire du design peut être déposé à la place de sa représentation. S’il est prévu de maintenir la protection du design après un ajournement, une représentation du design se prêtant à la reproduction doit au préalable être remise à l’IPI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Conditions générales",
+        "citation": "Art. 19 al. 4 LDes",
+        "content": "Contre versement d’une taxe, le design peut être décrit en 100 mots au plus afin d’expliquer la représentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Dépôt multiple",
+        "citation": "Art. 20 al. 1 LDes",
+        "content": "Des designs qui appartiennent à la même classe de produits en vertu de l’Arrangement de Locarno du 8 octobre 1968 instituant une classification internationale pour les dessins et modèles industriels peuvent faire l’objet d’un dépôt multiple.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_20"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Dépôt multiple",
+        "citation": "Art. 20 al. 2 LDes",
+        "content": "Le Conseil fédéral peut limiter le dépôt multiple quant aux dimensions et au poids.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_20"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 1, Dépôt, Effets du dépôt",
+        "citation": "Art. 21 LDes",
+        "content": "Le dépôt crée la présomption de la nouveauté et de l’originalité du design ainsi que la présomption du droit de le déposer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_21"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 2, Priorité, Conditions et effets de la priorité",
+        "citation": "Art. 22 al. 1 LDes",
+        "content": "Lorsqu’un design a été légalement déposé pour la première fois dans un autre État partie à la Convention d’Union de Paris du 20 mars 1883 pour la protection de la propriété industrielle, ou que le dépôt a effet dans l’un de ces États, le déposant ou son ayant cause peut revendiquer la date du premier dépôt pour déposer le même design en Suisse, à condition que le dépôt en Suisse ait lieu dans les six mois qui suivent le premier dépôt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_22"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 2, Priorité, Conditions et effets de la priorité",
+        "citation": "Art. 22 al. 2 LDes",
+        "content": "Le premier dépôt dans un État accordant la réciprocité à la Suisse déploie les mêmes effets que le premier dépôt dans un État partie à la Convention d’Union de Paris.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_22"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 2, Priorité, Règles de forme",
+        "citation": "Art. 23 al. 1 LDes",
+        "content": "Quiconque entend revendiquer un droit de priorité doit présenter une déclaration de priorité à l’IPI. Celui-ci peut exiger la remise d’un document de priorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 2, Priorité, Règles de forme",
+        "citation": "Art. 23 al. 2 LDes",
+        "content": "Le droit à cette revendication s’éteint si les délais et les exigences de forme fixés par le Conseil fédéral ne sont pas respectés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 2, Priorité, Règles de forme",
+        "citation": "Art. 23 al. 3 LDes",
+        "content": "L’inscription d’une priorité ne constitue qu’une présomption en faveur du titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Enregistrement",
+        "citation": "Art. 24 al. 1 LDes",
+        "content": "Tout design déposé conformément aux dispositions légales est enregistré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Enregistrement",
+        "citation": "Art. 24 al. 2 LDes",
+        "content": "L’IPI n’entre pas en matière sur la demande d’enregistrement si les exigences de forme prévues à l’art. 19, al. 1 et 2, ne sont pas remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Enregistrement",
+        "citation": "Art. 24 al. 3 LDes",
+        "content": "Il rejette la demande d’enregistrement si un motif d’exclusion prévu à l’art. 4, let. a, d ou e, est manifeste.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Enregistrement",
+        "citation": "Art. 24 al. 4 LDes",
+        "content": "Toutes les modifications concernant l’existence du droit sur le design ou la qualité de titulaire doivent en outre être inscrites dans le registre. Le Conseil fédéral peut prévoir l’inscription d’autres indications, telles que les restrictions au droit de disposer ordonnées par les tribunaux ou les autorités chargées de l’exécution forcée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Publication",
+        "citation": "Art. 25 al. 1 LDes",
+        "content": "Sur la base des enregistrements figurant dans le registre, l’IPI publie les indications prévues dans l’ordonnance ainsi qu’une reproduction du design déposé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_25"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Publication",
+        "citation": "Art. 25 al. 2 LDes",
+        "content": "L’IPI détermine l’organe de publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_25"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Ajournement de la publication",
+        "citation": "Art. 26 al. 1 LDes",
+        "content": "Le déposant peut demander par écrit que la publication soit ajournée de 30 mois au plus à compter de la date de dépôt ou de priorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Ajournement de la publication",
+        "citation": "Art. 26 al. 2 LDes",
+        "content": "Pendant la durée de l’ajournement, le titulaire peut demander à tout moment la publication immédiate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Ajournement de la publication",
+        "citation": "Art. 26 al. 3 LDes",
+        "content": "L’IPI garde secret le design déposé jusqu’à l’expiration de l’ajournement. Le secret est maintenu si le dépôt est retiré avant l’échéance de l’ajournement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Communication électronique avec les autorités",
+        "citation": "Art. 26a al. 1 LDes",
+        "content": "Le Conseil fédéral peut autoriser l’IPI à réglementer les communications par voie électronique dans le cadre des dispositions générales de la procédure fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Communication électronique avec les autorités",
+        "citation": "Art. 26a al. 2 LDes",
+        "content": "Les dossiers peuvent être tenus et conservés sous forme électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Communication électronique avec les autorités",
+        "citation": "Art. 26a al. 3 LDes",
+        "content": "Le registre peut être tenu sous forme électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Communication électronique avec les autorités",
+        "citation": "Art. 26a al. 4 LDes",
+        "content": "L’IPI peut rendre ses données accessibles aux tiers, notamment en ligne; il peut exiger une rémunération pour ce service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Communication électronique avec les autorités",
+        "citation": "Art. 26a al. 5 LDes",
+        "content": "Les publications de l’IPI peuvent être présentées sous forme électronique; la version électronique ne fait cependant foi que si les données sont publiées exclusivement sous forme électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Publicité du registre et consultation des pièces",
+        "citation": "Art. 27 al. 1 LDes",
+        "content": "Quiconque peut consulter le registre, demander des renseignements sur son contenu et en demander des extraits; l’art. 26 est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Publicité du registre et consultation des pièces",
+        "citation": "Art. 27 al. 2 LDes",
+        "content": "Le dossier des designs enregistrés peut également être consulté. Le Conseil fédéral ne peut restreindre le droit à la consultation du dossier qu’à la condition que le secret de fabrication ou d’affaires ou d’autres intérêts prépondérants s’y opposent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Publicité du registre et consultation des pièces",
+        "citation": "Art. 27 al. 3 LDes",
+        "content": "À titre exceptionnel, le dossier peut être consulté avant l’inscription, pour autant que cela reste sans effets sur les conditions et la portée de la protection (art. 2 à 17). Le Conseil fédéral règle les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Radiation de l’enregistrement",
+        "citation": "Art. 28 LDes",
+        "content": "L’IPI procède à la radiation partielle ou totale de l’enregistrement:\na. si le titulaire en fait la demande;\nb. si l’enregistrement n’est pas prolongé;\nc. si les taxes prévues n’ont pas été acquittées;\nd. si l’enregistrement est déclaré nul par un jugement entré en force;\ne. si le délai de protection prévu à l’art. 5 est écoulé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_28"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 3, Inscription et prolongation de la protection; communication électronique avec les autorités, Dépôt international",
+        "citation": "Art. 29 LDes",
+        "content": "Quiconque procède au dépôt international d’un dessin ou modèle industriel (design) désignant la Suisse bénéficie de la protection que la présente loi confère au titulaire d’un dépôt effectué en Suisse. Les dispositions de l’Arrangement de La Haye du 6 novembre 1925 concernant le dépôt international des dessins et modèles industriels priment celles de la présente loi si elles sont plus favorables au titulaire du dépôt international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_29"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 2, Dépôt et enregistrement, Section 4, Taxes",
+        "citation": "Art. 30 LDes",
+        "content": "Le montant des taxes à payer en vertu de la présente loi et de son ordonnance ainsi que les modalités de paiement sont régis par le règlement du 28 avril 1997 sur les taxes de l’Institut Fédéral de la Propriété Intellectuelle (IPI-RT).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_30"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 1, Poursuite de la procédure en cas d’inobservation d’un délai",
+        "citation": "Art. 31 al. 1 LDes",
+        "content": "Le déposant ou le titulaire qui n’a pas observé un délai devant être tenu à l’égard de l’IPI peut requérir de celui-ci la poursuite de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 1, Poursuite de la procédure en cas d’inobservation d’un délai",
+        "citation": "Art. 31 al. 2 LDes",
+        "content": "Il doit présenter sa requête dans les deux mois à compter du moment où il a eu connaissance de l’inobservation du délai, mais au plus tard dans les six mois à compter de l’expiration du délai non observé. En outre, pendant ces délais, il doit accomplir intégralement l’acte omis et s’acquitter de la taxe prévue pour la poursuite de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 1, Poursuite de la procédure en cas d’inobservation d’un délai",
+        "citation": "Art. 31 al. 3 LDes",
+        "content": "L’acceptation de la requête a pour effet de rétablir la situation qui eût résulté de l’accomplissement de l’acte en temps utile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 1, Poursuite de la procédure en cas d’inobservation d’un délai",
+        "citation": "Art. 31 al. 4 LDes",
+        "content": "La poursuite de la procédure est exclue en cas d’inobservation des délais:\na. impartis pour présenter la requête de poursuite de la procédure;\nb. impartis pour revendiquer une priorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en constatation",
+        "citation": "Art. 33 LDes",
+        "content": "A qualité pour intenter une action en constatation de l’existence ou de l’inexistence d’un droit ou d’un rapport juridique prévu par la présente loi, toute personne qui établit qu’elle y a un intérêt juridique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_33"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en cession",
+        "citation": "Art. 34 al. 1 LDes",
+        "content": "A qualité pour intenter une action en cession du droit sur un design contre son titulaire, toute personne qui fait valoir un droit préférable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en cession",
+        "citation": "Art. 34 al. 2 LDes",
+        "content": "Si le titulaire est de bonne foi, l’action doit être intentée contre lui dans les deux ans qui suivent la publication du design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en cession",
+        "citation": "Art. 34 al. 3 LDes",
+        "content": "Si la cession est prononcée, les licences ou autres droits octroyés à des tiers dans l’intervalle s’éteignent; ces tiers ont toutefois droit à l’octroi d’une licence non exclusive s’ils ont utilisé le design de bonne foi, à titre professionnel, en Suisse, ou s’ils ont pris des mesures particulières à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en cession",
+        "citation": "Art. 34 al. 4 LDes",
+        "content": "Les prétentions en dommages-intérêts sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en exécution d’une prestation",
+        "citation": "Art. 35 al. 1 LDes",
+        "content": "Le titulaire qui subit ou risque de subir une violation de ses droits peut demander au tribunal:\na. de l’interdire, si elle est imminente;\nb. de la faire cesser, si elle dure encore;\nc. d’obliger le défendeur à indiquer la provenance et le nombre des objets en sa possession fabriqués illicitement, et à désigner les destinataires et le nombre des objets qui ont été remis à des acquéreurs industriels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en exécution d’une prestation",
+        "citation": "Art. 35 al. 2 LDes",
+        "content": "Sont réservées les actions intentées en vertu du code des obligations qui tendent au paiement de dommages-intérêts, à la réparation du tort moral ainsi qu’à la remise du gain en vertu des dispositions sur la gestion d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en exécution d’une prestation",
+        "citation": "Art. 35 al. 3 LDes",
+        "content": "L’action en exécution d’une prestation ne peut être intentée qu’après l’enregistrement du design. Le demandeur peut faire valoir le dommage rétroactivement depuis le moment où le défendeur a eu connaissance du contenu de la demande d’enregistrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Action en exécution d’une prestation",
+        "citation": "Art. 35 al. 4 LDes",
+        "content": "Les preneurs de licence exclusive peuvent intenter une action indépendamment de l’inscription de la licence, pour autant que le contrat de licence ne l’exclue pas explicitement. Tout preneur de licence peut intervenir dans une procédure en contre-façon pour faire valoir le dommage qu’il a subi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Confiscation dans la procédure civile",
+        "citation": "Art. 36 LDes",
+        "content": "Le tribunal peut ordonner la confiscation assortie de la réalisation ou de la destruction des objets fabriqués illicitement, ou des instruments, de l’outillage et des autres moyens destinés principalement à leur fabrication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_36"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Mesures provisionnelles",
+        "citation": "Art. 38 LDes",
+        "content": "Toute personne qui demande des mesures provisionnelles peut en particulier requérir du juge qu’il les ordonne dans l’un des buts suivants:\na. assurer la conservation des preuves;\nb. déterminer la provenance des objets fabriqués illicitement;\nc. préserver l’état de fait;\nd. assurer à titre provisoire la prévention ou la cessation du trouble.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_38"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Publication du jugement",
+        "citation": "Art. 39 LDes",
+        "content": "Sur requête de la partie qui obtient gain de cause, le tribunal peut ordonner la publication du jugement aux frais de l’autre partie. Il détermine le mode et l’étendue de la publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_39"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 3, Droit civil, Communication des jugements",
+        "citation": "Art. 40 LDes",
+        "content": "Les tribunaux communiquent gratuitement à l’IPI les jugements exécutoires en version intégrale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_40"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Violation du droit sur un design",
+        "citation": "Art. 41 al. 1 LDes",
+        "content": "Sur plainte du titulaire, est puni d’une peine privative de liberté d’un an au plus ou d’une peine pécuniaire, toute personne qui, intentionnellement, viole le droit du titulaire:\na. en utilisant illicitement son design;\nb. en collaborant à son utilisation, en la favorisant ou en la facilitant;\nc. en refusant d’indiquer à l’autorité compétente la provenance et le nombre des objets en sa possession fabriqués illicitement ainsi que les destinataires et le nombre des objets qui ont été remis à des acquéreurs industriels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_41"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Violation du droit sur un design",
+        "citation": "Art. 41 al. 2 LDes",
+        "content": "Si l’auteur de l’infraction agit par métier, il est poursuivi d’office. La peine est une peine privative de liberté de cinq ans au plus ou une peine pécuniaire. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_41"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Actes non punissables",
+        "citation": "Art. 41a al. bis LDes",
+        "content": "Les actes visés à l’art. 9, al. 1 ne sont pas punissables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_41_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Infractions commises dans le cadre de la gestion d’une entreprise",
+        "citation": "Art. 42 LDes",
+        "content": "Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif s’appliquent aux infractions commises dans la gestion d’une entreprise par un subordonné, un mandataire ou un représentant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_42"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Suspension de la procédure",
+        "citation": "Art. 43 al. 1 LDes",
+        "content": "Si le prévenu invoque la nullité ou l’absence de violation du droit sur le design dans une procédure civile, le tribunal peut suspendre la procédure pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Suspension de la procédure",
+        "citation": "Art. 43 al. 2 LDes",
+        "content": "Si le prévenu invoque la nullité ou l’absence de violation du droit sur le design dans la procédure pénale, le tribunal peut lui impartir un délai convenable pour intenter une action dans une procédure civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Suspension de la procédure",
+        "citation": "Art. 43 al. 3 LDes",
+        "content": "La prescription est suspendue pendant la suspension de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Confiscation dans la procédure pénale",
+        "citation": "Art. 44 LDes",
+        "content": "Même en cas d’acquittement, le tribunal peut ordonner la confiscation ou la destruction des objets fabriqués illicitement ainsi que des instruments, de l’outillage et des autres moyens destinés principalement à leur fabrication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_44"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 4, Droit pénal, Poursuite pénale",
+        "citation": "Art. 45 LDes",
+        "content": "La poursuite pénale incombe aux cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_45"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Dénonciation d’objets suspects",
+        "citation": "Art. 46 al. 1 LDes",
+        "content": "L’Office fédéral de la douane et de la sécurité des frontières (OFDF) est habilité à informer le titulaire d’un design déposé lorsqu’il y a lieu de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_46"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Dénonciation d’objets suspects",
+        "citation": "Art. 46 al. 2 LDes",
+        "content": "Dans ce cas, l’OFDF est habilité à retenir les objets pendant trois jours ouvrables afin de permettre au titulaire de déposer une demande en vertu de l’art. 47.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_46"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande d’intervention",
+        "citation": "Art. 47 al. 1 LDes",
+        "content": "Lorsque le titulaire d’un design déposé ou le preneur de licence qui a qualité pour agir ont des indices concrets permettant de soupçonner que l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie sont imminentes, ils peuvent demander par écrit à l’OFDF de refuser la mainlevée de ces objets.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande d’intervention",
+        "citation": "Art. 47 al. 2 LDes",
+        "content": "Le requérant fournit à l’OFDF toutes les indications dont il dispose et dont celui-ci a besoin pour statuer sur la demande; il lui remet notamment une description précise des objets.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande d’intervention",
+        "citation": "Art. 47 al. 3 LDes",
+        "content": "L’OFDF statue définitivement. Il peut percevoir une taxe pour couvrir les frais administratifs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Rétention des objets",
+        "citation": "Art. 48 al. 1 LDes",
+        "content": "Lorsque, à la suite d’une demande déposée en vertu de l’art. 47, al. 1, l’OFDF a des raisons fondées de soupçonner l’introduction dans le territoire douanier suisse d’objets fabriqués illicitement ou leur sortie, il en informe le requérant, d’une part, et le déclarant, le possesseur ou le propriétaire des objets, d’autre part.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Rétention des objets",
+        "citation": "Art. 48 al. 2 LDes",
+        "content": "Afin de permettre au requérant d’obtenir des mesures provisionnelles, l’OFDF retient les objets en cause durant dix jours ouvrables au plus à compter de la communication prévue à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Rétention des objets",
+        "citation": "Art. 48 al. 3 LDes",
+        "content": "Si les circonstances le justifient, l’OFDF peut retenir les objets en cause durant un délai supplémentaire de dix jours ouvrables au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Échantillons",
+        "citation": "Art. 48a al. 1 LDes",
+        "content": "Sur demande, l’OFDF est habilité, pendant la durée de la rétention des objets, à remettre ou à envoyer au requérant des échantillons à des fins d’examen ou à le laisser examiner sur place les objets retenus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Échantillons",
+        "citation": "Art. 48a al. 2 LDes",
+        "content": "Le requérant supporte les frais liés au prélèvement et à l’envoi des échantillons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Échantillons",
+        "citation": "Art. 48a al. 3 LDes",
+        "content": "Une fois l’examen des échantillons effectué, ceux-ci doivent être restitués, pour autant que cela se justifie. Si des échantillons demeurent chez le requérant, ils sont soumis aux dispositions de la législation douanière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Protection des secrets de fabrication ou d’affaires",
+        "citation": "Art. 48b al. 1 LDes",
+        "content": "En même temps que la communication visée à l’art. 48, al. 1 l’OFDF informe le déclarant, le possesseur ou le propriétaire des objets de la possibilité, prévue à l’art. 48a, al. 1, de remettre des échantillons au requérant ou de le laisser examiner sur place les objets retenus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Protection des secrets de fabrication ou d’affaires",
+        "citation": "Art. 48b al. 2 LDes",
+        "content": "Le déclarant, le possesseur ou le propriétaire des objets peut demander d’assister à l’examen afin de protéger ses secrets de fabrication ou d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Protection des secrets de fabrication ou d’affaires",
+        "citation": "Art. 48b al. 3 LDes",
+        "content": "Sur demande motivée du déclarant, du possesseur ou du propriétaire des objets, l’OFDF peut refuser la remise d’échantillons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande de destruction des objets",
+        "citation": "Art. 48c al. 1 LDes",
+        "content": "Lorsqu’il dépose une demande en vertu de l’art. 47, al. 1 le requérant peut demander par écrit à l’OFDF la destruction des objets.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande de destruction des objets",
+        "citation": "Art. 48c al. 2 LDes",
+        "content": "Lorsqu’une demande de destruction est déposée, l’OFDF en informe le déclarant, le possesseur ou le propriétaire des objets dans le cadre de l’information visée à l’art. 48, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Demande de destruction des objets",
+        "citation": "Art. 48c al. 3 LDes",
+        "content": "La demande de destruction ne donne pas lieu à une prolongation des délais prévus à l’art. 48, al. 2 et 3 pour l’obtention de mesures provisionnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Approbation",
+        "citation": "Art. 48d al. 1 LDes",
+        "content": "La destruction des objets requiert l’approbation du déclarant, du possesseur ou du propriétaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_d"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Approbation",
+        "citation": "Art. 48d al. 2 LDes",
+        "content": "L’approbation est réputée acquise lorsque le déclarant, le possesseur ou le propriétaire des objets ne s’oppose pas expressément à leur destruction dans les délais prévus à l’art. 48, al. 2 et 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_d"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Moyens de preuve",
+        "citation": "Art. 48e LDes",
+        "content": "Avant la destruction des produits, l’OFDF prélève des échantillons et les conserve en tant que moyens de preuve en vue d’une éventuelle action en dommages-intérêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_e"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Dommages-intérêts",
+        "citation": "Art. 48f al. 1 LDes",
+        "content": "Si la destruction des objets se révèle infondée, le requérant répond seul du dommage qui en résulte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_f"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Dommages-intérêts",
+        "citation": "Art. 48f al. 2 LDes",
+        "content": "Si le déclarant, le possesseur ou le propriétaire des objets donne son approbation par écrit à leur destruction et que celle-ci se révèle par la suite infondée, le requérant ne peut être tenu de verser des dommages-intérêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_f"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Coûts",
+        "citation": "Art. 48g al. 1 LDes",
+        "content": "Le requérant supporte les frais liés à la destruction des objets.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_g"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Coûts",
+        "citation": "Art. 48g al. 2 LDes",
+        "content": "La question des coûts liés au prélèvement et à la conservation des échantillons au sens de l’art. 48e est tranchée par le juge dans le cadre de l’appréciation des dommages-intérêts visés à l’art. 48f, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_48_g"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Déclaration de responsabilité et dommages-intérêts",
+        "citation": "Art. 49 al. 1 LDes",
+        "content": "Si la rétention des objets risque d’occasionner un dommage, l’OFDF peut la subordonner à la condition que le requérant lui fournisse une déclaration de responsabilité. Si les circonstances le justifient, il peut, en lieu et place, exiger du requérant qu’il fournisse des sûretés adéquates.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_49"
+    },
+    {
+        "book": "DesG",
+        "title": "LDes, Chapitre 3, Voies de droit, Section 5, Intervention de l’Office fédéral de la douane et de la sécurité des frontières, Déclaration de responsabilité et dommages-intérêts",
+        "citation": "Art. 49 al. 2 LDes",
+        "content": "Le requérant est tenu de réparer le dommage causé par la rétention des objets et par le prélèvement d’échantillons si des mesures provisionnelles n’ont pas été ordonnées ou si elles se sont révélées infondées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/fr#art_49"
+    }
+]

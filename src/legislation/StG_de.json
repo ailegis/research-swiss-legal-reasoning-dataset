@@ -1,0 +1,765 @@
+[
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, I. Gegenstand des Gesetzes",
+        "citation": "Art. 1 Abs. 1 StG",
+        "content": "Der Bund erhebt Stempelabgaben:\na. auf der Ausgabe folgender inländischer Urkunden:\n1. Aktien,\n2. Stammanteile von Gesellschaften mit beschränkter Haftung und Anteilscheine von Genossenschaften,\n2bis. Partizipationsscheine und Beteiligungsscheine von Genossenschaftsbanken,\n3. Genussscheine,\n4. und 5. ...\nb. auf dem Umsatz der folgenden inländischen und ausländischen Urkunden:\n1. Obligationen,\n2. Aktien,\n3. Stammanteile von Gesellschaften mit beschränkter Haftung und Anteilscheine von Genossenschaften,\n3bis. Partizipationsscheine und Beteiligungsscheine von Genossenschaftsbanken,\n4. Genussscheine,\n5. Anteile an kollektiven Kapitalanlagen gemäss Kollektivanlagengesetz vom 23. Juni 2006 (KAG),\n6. Papiere, die dieses Gesetz den Urkunden nach den Ziffern 1–5 gleichstellt;\nc. auf der Zahlung von Versicherungsprämien gegen Quittung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_1"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, I. Gegenstand des Gesetzes",
+        "citation": "Art. 1 Abs. 2 StG",
+        "content": "Werden bei den in Absatz 1 erwähnten Rechtsvorgängen keine Urkunden ausgestellt oder umgesetzt, so treten an ihre Stelle die der Feststellung der Rechtsvorgänge dienenden Geschäftsbücher oder sonstigen Urkunden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_1"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, III. Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 1 StG",
+        "content": "Urkunden, welche dieses Gesetz als Gegenstand einer Stempelabgabe oder steuerfrei erklärt, dürfen von den Kantonen nicht mit gleichgearteten Abgaben oder Registrierungsgebühren belastet werden. Anstände, die sich auf Grund dieser Bestimmung ergeben, beurteilt das Bundesgericht als einzige Instanz (Art. 116 des Bundesrechtspflegegesetzes vom 16. Dez. 1943 – OG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_3"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, III. Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 2 StG",
+        "content": "Zu den steuerfreien Urkunden gehören auch die Frachturkunden im Gepäck-, Tier- und Güterverkehr der Schweizerischen Bundesbahnen und der vom Bund konzessionierten Transportunternehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_3"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, IV. Begriffsbestimmungen",
+        "citation": "Art. 4 Abs. 1 StG",
+        "content": "Inländer ist, wer im Inland Wohnsitz, dauernden Aufenthalt, statutarischen oder gesetzlichen Sitz hat oder als Unternehmen im inländischen Handelsregister eingetragen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, IV. Begriffsbestimmungen",
+        "citation": "Art. 4 Abs. 2 StG",
+        "content": "Investmentgesellschaften mit festem Kapital nach Artikel 110 KAG werden in diesem Gesetz den Kapitalgesellschaften gleichgestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, IV. Begriffsbestimmungen",
+        "citation": "Art. 4 Abs. 3 StG",
+        "content": "Obligationen sind schriftliche, auf feste Beträge lautende Schuldanerkennungen, die zum Zwecke der kollektiven Kapitalbeschaffung oder Anlagegewährung oder der Konsolidierung von Verbindlichkeiten in einer Mehrzahl von Exemplaren ausgegeben werden, namentlich Anleihensobligationen mit Einschluss der Partialen von Anleihen, für welche ein Grundpfandrecht gemäss Artikel 875 des Zivilgesetzbuches  besteht, Rententitel, Pfandbriefe, Kassenobligationen, Kassen- und Depositenscheine sowie Schuldbuchforderungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, IV. Begriffsbestimmungen",
+        "citation": "Art. 4 Abs. 4 StG",
+        "content": "Den Obligationen gleichgestellt sind:\na. in einer Mehrzahl ausgegebene Wechsel, wechselähnliche Schuldverschreibungen und andere Diskontpapiere, sofern sie zur Unterbringung im Publikum bestimmt sind;\nb. Ausweise über Unterbeteiligungen an Darlehensforderungen;\nc. in einer Mehrzahl ausgegebene, der kollektiven Kapitalbeschaffung dienende Buchforderungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Einleitung, IV. Begriffsbestimmungen",
+        "citation": "Art. 4 Abs. 5 StG",
+        "content": "Geldmarktpapiere sind Obligationen mit einer festen Laufzeit von nicht mehr als zwölf Monaten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, I. Gegenstand der Abgabe, Beteiligungsrechte",
+        "citation": "Art. 5 Abs. 1 StG",
+        "content": "Gegenstand der Abgabe sind:\na. die entgeltliche oder unentgeltliche Begründung und Erhöhung des Nennwertes von Beteiligungsrechten in Form von:\n– Aktien inländischer Aktiengesellschaften und Kommanditaktiengesellschaften;\n– Stammanteilen inländischer Gesellschaften mit beschränkter Haftung;\n– Genossenschaftsanteilen inländischer Genossenschaften;\n– Genussscheinen inländischer Gesellschaften oder Genossenschaften. Als Genussscheine gelten Urkunden über Ansprüche auf einen Anteil am Reingewinn oder am Liquidationsergebnis;\n– Partizipationsscheinen inländischer Gesellschaften, Genossenschaften oder gewerblicher Unternehmen des öffentlichen Rechts;\n– Beteiligungsscheinen von Genossenschaftsbanken.\nb. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_5"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, I. Gegenstand der Abgabe, Beteiligungsrechte",
+        "citation": "Art. 5 Abs. 2 StG",
+        "content": "Der Begründung von Beteiligungsrechten im Sinne von Absatz 1 Buchstabe a sind gleichgestellt:\na. die Zuschüsse, die die Gesellschafter oder Genossenschafter ohne entsprechende Gegenleistung an die Gesellschaft oder Genossenschaft erbringen, ohne dass das im Handelsregister eingetragene Gesellschaftskapital oder der einbezahlte Betrag der Genossenschaftsanteile erhöht wird;\nb. der Handwechsel der Mehrheit der Aktien, Stammanteilen oder Genossenschaftsanteile an einer inländischen Gesellschaft oder Genossenschaft, die wirtschaftlich liquidiert oder in liquide Form gebracht worden ist;\nc. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_5"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, I. Gegenstand der Abgabe, Ausnahmen",
+        "citation": "Art. 6 Abs. 1 StG",
+        "content": "Von der Abgabe sind ausgenommen:\na. die Beteiligungsrechte an Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung oder Genossenschaften, die sich, ohne einen Erwerbszweck zu verfolgen, entweder der Fürsorge für Bedürftige und Kranke, der Förderung des Kultus, des Unterrichts sowie anderer gemeinnütziger Zwecke oder der Beschaffung von Wohnungen zu mässigen Mietzinsen oder der Gewährung von Bürgschaften widmen, sofern nach den Statuten\n– die Dividende auf höchstens 6 Prozent des einbezahlten Gesellschafts- oder Genossenschaftskapitals beschränkt,\n– die Ausrichtung von Tantiemen ausgeschlossen und\n– bei der Auflösung der Gesellschaft oder Genossenschaft der nach Rückzahlung des einbezahlten Gesellschafts- oder Genossenschaftskapitals verbleibende Teil des Vermögens einem der erwähnten Zwecke zuzuwenden ist;\nabis. Beteiligungsrechte, die in Durchführung von Beschlüssen über Fusionen oder diesen wirtschaftlich gleichkommende Zusammenschlüsse, Umwandlungen und Spaltungen von Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung oder Genossenschaften begründet oder erhöht werden;\nater. die Begründung oder Erhöhung des Nennwerts von Beteiligungsrechten an Gesellschaften, die ausschliesslich in öffentlicher Hand sind und einen öffentlichen Zweck nach Artikel 1 des Bundesgesetzes vom 17. März 2023 über den Einsatz elektronischer Mittel zur Erfüllung von Behördenaufgaben verfolgen, sowie gleichgestellte Vorgänge zur Begründung von Beteiligungsrechten an solchen Gesellschaften;\nb. die Begründung oder Nennwerterhöhung von Beteiligungsrechten an Genossenschaften, soweit die Leistungen der Genossenschafter im Sinne von Artikel 5 gesamthaft eine Million Franken nicht übersteigen;\nc. die Beteiligungsrechte an Transportunternehmen, die aus Investitionsbeiträgen der öffentlichen Hand zu deren Gunsten begründet oder erhöht werden;\nd. die Beteiligungsrechte, die unter Verwendung früherer Aufgelder und Zuschüsse der Gesellschafter oder Genossenschafter begründet oder erhöht werden, sofern die Gesellschaft oder Genossenschaft nachweist, dass sie auf diesen Leistungen die Abgabe entrichtet hat;\ne. ...\nf. ...\ng. die Beteiligungsrechte, die unter Verwendung eines Partizipationskapitals oder Beteiligungskapitals einer Genossenschaftsbank begründet oder erhöht werden, sofern die Gesellschaft oder Genossenschaft nachweist, dass sie auf diesem Partizipationskapital oder Beteiligungskapital die Abgabe entrichtet hat;\nh. die bei der Gründung oder Kapitalerhöhung einer Aktiengesellschaft, einer Kommanditaktiengesellschaft oder einer Gesellschaft mit beschränkter Haftung entgeltlich ausgegebenen Beteiligungsrechte, soweit die Leistungen der Gesellschafter gesamthaft eine Million Franken nicht übersteigen;\ni. die Begründung von Anteilen von kollektiven Kapitalanlagen gemäss KAG;\nj. Beteiligungsrechte, die zur Übernahme eines Betriebes oder Teilbetriebes einer Aktiengesellschaft, Kommanditaktiengesellschaft, Gesellschaft mit beschränkter Haftung oder Genossenschaft begründet oder erhöht werden, sofern gemäss letzter Jahresbilanz die Hälfte des Kapitals und der gesetzlichen Reserven dieser Gesellschaft oder Genossenschaft nicht mehr gedeckt ist;\nk. die bei offenen Sanierungen vorgenommene Begründung von Beteiligungsrechten oder die Erhöhung von deren Nennwert bis zur Höhe vor der Sanierung sowie Zuschüsse von Gesellschaftern oder Genossenschaftern bei stillen Sanierungen, soweit:\n– bestehende Verluste beseitigt werden, und\n– die Leistungen der Gesellschafter oder Genossenschafter gesamthaft 10 Millionen Franken nicht übersteigen;\nl. die Beteiligungsrechte an Banken oder Konzerngesellschaften von Finanzgruppen, die unter Verwendung des von der Eidgenössischen Finanzmarktaufsicht im Hinblick auf die Erfüllung regulatorischer Erfordernisse genehmigten Wandlungskapitals nach den Artikeln 13 Absatz 1 oder 30b Absatz 7 Buchstabe b des Bankengesetzes vom 8. November 1934 begründet oder erhöht werden;\nm....",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_6"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, I. Gegenstand der Abgabe, Ausnahmen",
+        "citation": "Art. 6 Abs. 2 StG",
+        "content": "Fallen die Voraussetzungen der Abgabebefreiung dahin, so ist auf den noch bestehenden Beteiligungsrechten die Abgabe zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_6"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, II. Entstehung der Abgabeforderung",
+        "citation": "Art. 7 Abs. 1 StG",
+        "content": "Die Abgabeforderung entsteht:\na. bei Aktien, Partizipationsscheinen, Stammanteilen von Gesellschaften mit beschränkter Haftung und bei Beteiligungsscheinen von Genossenschaftsbanken: im Zeitpunkt der Eintragung der Begründung oder der Erhöhung der Beteiligungsrechte ins Handelsregister;\nabis. bei Beteiligungsrechten, die im Verfahren der bedingten Kapitalerhöhung begründet werden: im Zeitpunkt ihrer Ausgabe;\nb. ...\nc. bei Genossenschaftsanteilen: im Zeitpunkt ihrer Begründung oder Erhöhung;\nd. bei Genussscheinen: im Zeitpunkt ihrer Ausgabe oder Erhöhung;\ne. bei Zuschüssen und bei einem Handwechsel der Mehrheit von Beteiligungsrechten: im Zeitpunkt des Zuschusses oder des Handwechsels;\nf. bei Beteiligungsrechten, die im Rahmen eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts ausgegeben werden, am Ende des Kapitalbands.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_7"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, III. Abgabesätze und Berechnungsgrundlage, Beteiligungsrechte",
+        "citation": "Art. 8 Abs. 1 StG",
+        "content": "Die Abgabe auf Beteiligungsrechten beträgt 1 Prozent und wird berechnet:\na. bei der Begründung und Erhöhung von Beteiligungsrechten: vom Betrag, der der Gesellschaft oder Genossenschaft als Gegenleistung für die Beteiligungsrechte zufliesst, mindestens aber vom Nennwert;\nb. auf Zuschüssen: vom Betrag des Zuschusses;\nc. beim Handwechsel der Mehrheit von Beteiligungsrechten: vom Reinvermögen, das sich im Zeitpunkt des Handwechsels in der Gesellschaft oder Genossenschaft befindet, mindestens aber vom Nennwert aller bestehenden Beteiligungsrechte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_8"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, III. Abgabesätze und Berechnungsgrundlage, Beteiligungsrechte",
+        "citation": "Art. 8 Abs. 3 StG",
+        "content": "Sachen und Rechte sind zum Verkehrswert im Zeitpunkt ihrer Einbringung zu bewerten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_8"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, III. Abgabesätze und Berechnungsgrundlage, Besondere Fälle",
+        "citation": "Art. 9 Abs. 1 StG",
+        "content": "Die Abgabe beträgt:\na. ...\nb. ...\nc. ...\nd. auf unentgeltlich ausgegebenen Genussscheinen: 3 Franken je Genussschein;\ne. auf Beteiligungsrechten, die in Durchführung von Beschlüssen über die Fusion, Spaltung oder Umwandlung von Einzelunternehmen, Handelsgesellschaften ohne juristische Persönlichkeit, Vereinen, Stiftungen oder Unternehmen des öffentlichen Rechts begründet oder erhöht werden, sofern der bisherige Rechtsträger während mindestens fünf Jahren bestand: 1 Prozent des Nennwerts, vorbehältlich der Ausnahmen in Artikel 6 Absatz 1 Buchstabe h. Über den Mehrwert wird nachträglich abgerechnet, soweit während den der Umstrukturierung nachfolgenden fünf Jahren die Beteiligungsrechte veräussert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, III. Abgabesätze und Berechnungsgrundlage, Besondere Fälle",
+        "citation": "Art. 9 Abs. 2 StG",
+        "content": "Von den Einzahlungen, die während eines Geschäftsjahres auf das Genossenschaftskapital gemacht werden, wird die Abgabe nur soweit erhoben, als diese Einzahlungen die Rückzahlungen auf dem Genossenschaftskapital während des gleichen Geschäftsjahres übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, III. Abgabesätze und Berechnungsgrundlage, Besondere Fälle",
+        "citation": "Art. 9 Abs. 3 StG",
+        "content": "Auf den Beträgen, die der Gesellschaft im Rahmen eines Kapitalbands nach den Artikeln 653s ff. des Obligationenrechts zufliessen, wird die Abgabe nur soweit erhoben, als diese Zuflüsse die Rückzahlungen im Rahmen dieses Kapitalbands übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, IV. Abgabepflicht",
+        "citation": "Art. 10 Abs. 1 StG",
+        "content": "Für Beteiligungsrechte ist die Gesellschaft oder Genossenschaft abgabepflichtig. Für die beim Handwechsel der Mehrheit von Beteiligungsrechten (Art. 5 Abs. 2 Bst. b) geschuldete Abgabe haftet der Veräusserer der Beteiligungsrechte solidarisch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_10"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, V. Fälligkeit der Abgabeforderung",
+        "citation": "Art. 11 StG",
+        "content": "Die Abgabe wird fällig:\na. auf Genossenschaftsanteilen: 30 Tage nach Geschäftsabschluss;\nb. auf Beteiligungsrechten: 30 Tage nach Ablauf des Vierteljahres, in dem die Abgabeforderung entstanden ist (Art. 7);\nc. in allen andern Fällen: 30 Tage nach Entstehung der Abgabeforderung (Art. 7).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_11"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Erster Abschnitt: Emissionsabgabe, VI. Stundung und Erlass der Abgabeforderung",
+        "citation": "Art. 12 StG",
+        "content": "Wenn bei der offenen oder stillen Sanierung einer Aktiengesellschaft, Kommanditaktiengesellschaft, Gesellschaft mit beschränkter Haftung oder Genossenschaft die Erhebung der Emissionsabgabe eine offenbare Härte bedeuten würde, so soll die Abgabe gestundet oder erlassen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_12"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 13 Abs. 1 StG",
+        "content": "Gegenstand der Abgabe ist die entgeltliche Übertragung von Eigentum an den in Absatz 2 bezeichneten Urkunden, sofern eine der Vertragsparteien oder einer der Vermittler Effektenhändler nach Absatz 3 ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 13 Abs. 2 StG",
+        "content": "Steuerbare Urkunden sind:\na. die von einem Inländer ausgegebenen:\n1. Obligationen (Art. 4 Abs. 3 und 4),\n2. Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Anteilscheine und Beteiligungsscheine von Genossenschaften, Partizipationsscheine, Genussscheine,\n3. Anteile an kollektiven Kapitalanlagen gemäss KAG;\nb. die von einem Ausländer ausgegebenen Urkunden, die in ihrer wirtschaftlichen Funktion den Titeln nach Buchstabe a gleichstehen. Der Bundesrat hat die Ausgabe von ausländischen Titeln von der Abgabe auszunehmen, wenn die Entwicklung der Währungslage oder des Kapitalmarktes es erfordert;\nc. Ausweise über Unterbeteiligungen an Urkunden der in Buchstaben a und b bezeichneten Arten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 13 Abs. 3 StG",
+        "content": "Effektenhändler sind:\na. die Banken, die bankähnlichen Finanzgesellschaften im Sinne des Bankengesetzes vom 8. November 1934, die Schweizerische Nationalbank sowie die zentralen Gegenparteien im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015;\nb. die nicht unter Buchstabe a fallenden inländischen natürlichen und juristischen Personen und Personengesellschaften, inländischen Anstalten und Zweigniederlassungen ausländischer Unternehmen, deren Tätigkeit ausschliesslich oder zu einem wesentlichen Teil darin besteht,\n1. für Dritte den Handel mit steuerbaren Urkunden zu betreiben (Händler), oder\n2. als Anlageberater oder Vermögensverwalter Kauf und Verkauf von steuerbaren Urkunden zu vermitteln (Vermittler);\nc. ...\nd. die nicht unter die Buchstaben a und b fallenden inländischen Aktiengesellschaften, Kommanditaktiengesellschaften, Gesellschaften mit beschränkter Haftung und Genossenschaften sowie inländischen Einrichtungen der beruflichen Vorsorge und der gebundenen Vorsorge, deren Aktiven nach Massgabe der letzten Bilanz zu mehr als 10 Millionen Franken aus steuerbaren Urkunden nach Absatz 2 bestehen;\ne. ...\nf. der Bund, die Kantone und die politischen Gemeinden samt ihren Anstalten, sofern sie in ihrer Rechnung für mehr als 10 Millionen Franken steuerbare Urkunden nach Absatz 2 ausweisen, sowie die inländischen Einrichtungen der Sozialversicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 13 Abs. 4 StG",
+        "content": "Als inländische Einrichtungen der beruflichen Vorsorge und der gebundenen Vorsorge nach Absatz 3 Buchstabe d gelten:\na. die Einrichtungen nach Artikel 48 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge (BVG) und nach Artikel 331 des Obligationenrechts, der Sicherheitsfonds sowie die Auffangeinrichtung nach den Artikeln 56 und 60 BVG;\nb. Freizügigkeitsstiftungen nach den Artikeln 10 Absatz 3 und 19 der Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflichen Alters‐, Hinterlassenen- und Invalidenvorsorge;\nc. die Träger der in Artikel 1 Absatz 1 Buchstabe b der Verordnung vom 13. November 1985 über die steuerliche Abzugsberechtigung für Beiträge an anerkannte Vorsorgeformen erwähnten gebundenen Vorsorgeversicherungen und Vorsorgevereinbarungen;\nd. Anlagestiftungen, die sich der Anlage und der Verwaltung von Vermögen von Vorsorgeeinrichtungen nach den Buchstaben a–c widmen und unter der Stiftungsaufsicht des Bundes oder der Kantone stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 13 Abs. 5 StG",
+        "content": "Als inländische Einrichtungen der Sozialversicherung nach Absatz 3 Buchstabe f gelten: der Ausgleichsfonds der Alters- und Hinterlassenenversicherung sowie der Ausgleichsfonds der Arbeitslosenversicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Ausnahmen",
+        "citation": "Art. 14 Abs. 1 StG",
+        "content": "Von der Abgabe sind ausgenommen:\na. die Ausgabe inländischer Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung und von Genossenschaften, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine, Genussscheine, Anteile an kollektiven Kapitalanlagen nach KAG, Obligationen und Geldmarktpapiere, einschliesslich der Festübernahme durch eine Bank oder Beteiligungsgesellschaft und der Zuteilung bei einer nachfolgenden Emission;\nb. die Sacheinlage von Urkunden zur Liberierung in- oder ausländischer Aktien, Stammanteile von Gesellschaften mit beschränkter Haftung, Genossenschaftsanteile, Beteiligungsscheine von Genossenschaftsbanken, Partizipationsscheine und Anteile von kollektiven Kapitalanlagen nach KAG;\nc. ...\nd. der Handel mit Bezugsrechten;\ne. die Rückgabe von Urkunden zur Tilgung;\nf. die Ausgabe von Obligationen ausländischer Schuldner, die auf eine fremde Währung lauten (Euroobligationen), sowie von Beteiligungsrechten an ausländischen Gesellschaften. Als Euroobligationen gelten ausschliesslich Titel, bei denen sowohl die Vergütung des Zinses als auch die Rückzahlung des Kapitals in einer fremden Währung erfolgen;\ng. der Handel mit in- und ausländischen Geldmarktpapieren;\nh. die Vermittlung oder der Kauf und Verkauf von ausländischen Obligationen, soweit der Käufer oder der Verkäufer eine ausländische Vertragspartei ist;\ni. die mit einer Umstrukturierung, insbesondere einer Fusion, Spaltung oder Umwandlung verbundene Übertragung steuerbarer Urkunden von der übernommenen, spaltenden oder umwandelnden Unternehmung auf die aufnehmende oder umgewandelte Unternehmung;\nj. der Erwerb oder die Veräusserung von steuerbaren Urkunden im Rahmen von Umstrukturierungen nach den Artikeln 61 Absatz 3 und 64 Absatz 1bis des Bundesgesetzes vom 14. Dezember 1990 über die direkte Bundessteuer sowie bei der Übertragung von Beteiligungen von mindestens 20 Prozent am Grund- oder Stammkapital anderer Gesellschaften auf eine in- oder ausländische Konzerngesellschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_14"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, I. Gegenstand der Abgabe, Ausnahmen",
+        "citation": "Art. 14 Abs. 3 StG",
+        "content": "Der gewerbsmässige Effektenhändler gemäss Artikel 13 Absatz 3 Buchstabe a und b Ziffer 1 ist von dem auf ihn selbst entfallenden Teil der Abgaben befreit, soweit er Titel aus seinem Handelsbestand veräussert oder zur Äufnung dieses Bestandes erwirbt. Als Handelsbestand gelten die aus steuerbaren Urkunden zusammengesetzten Titelbestände, die sich aus der Handelstätigkeit der gewerbsmässigen Händler ergeben, nicht aber Beteiligungen und Bestände mit Anlagecharakter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_14"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, II. Entstehung der Abgabeforderung",
+        "citation": "Art. 15 Abs. 1 StG",
+        "content": "Die Abgabeforderung entsteht mit dem Abschluss des Geschäftes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_15"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, II. Entstehung der Abgabeforderung",
+        "citation": "Art. 15 Abs. 2 StG",
+        "content": "Bei bedingten oder ein Wahlrecht einräumenden Geschäften entsteht die Abgabeforderung mit der Erfüllung des Geschäftes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_15"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, III. Abgabesatz und Berechnungsgrundlage, Regel",
+        "citation": "Art. 16 Abs. 1 StG",
+        "content": "Die Abgabe wird auf dem Entgelt berechnet und beträgt:\na. 1,5 Promille für von einem Inländer ausgegebene Urkunden;\nb. 3 Promille für von einem Ausländer ausgegebene Urkunden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_16"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, III. Abgabesatz und Berechnungsgrundlage, Regel",
+        "citation": "Art. 16 Abs. 2 StG",
+        "content": "Besteht das Entgelt nicht in einer Geldsumme, so ist der Verkehrswert der vereinbarten Gegenleistung massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_16"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Regel",
+        "citation": "Art. 17 Abs. 1 StG",
+        "content": "Abgabepflichtig ist der Effektenhändler.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Regel",
+        "citation": "Art. 17 Abs. 2 StG",
+        "content": "Er schuldet eine halbe Abgabe:\na. wenn er vermittelt: für jede Vertragspartei, die sich weder als registrierter Effektenhändler noch als von der Abgabe befreiter Anleger ausweist;\nb. wenn er Vertragspartei ist: für sich selbst und die Gegenpartei, die sich weder als registrierter Effektenhändler noch als von der Abgabe befreiter Anleger ausweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Regel",
+        "citation": "Art. 17 Abs. 3 StG",
+        "content": "Der Effektenhändler gilt als Vermittler, wenn er\na. mit seinem Auftraggeber zu den Originalbedingungen des mit der Gegenpartei abgeschlossenen Geschäftes abrechnet;\nb. lediglich Gelegenheit zum Geschäftsabschluss nachweist;\nc. die Urkunden am Tage ihres Erwerbs weiterveräussert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Von der Abgabe befreite Anleger",
+        "citation": "Art. 17a Abs. 1 StG",
+        "content": "Von der Abgabe nach Artikel 17 Absatz 2 befreit sind:\na. ausländische Staaten und Zentralbanken;\nb. inländische kollektive Kapitalanlagen nach Artikel 7 KAG;\nc. ausländische kollektive Kapitalanlagen nach Artikel 119 KAG;\nd. ausländische Einrichtungen der Sozialversicherung;\ne. ausländische Einrichtungen der beruflichen Vorsorge;\nf. ausländische Lebensversicherer, die einer der Bundesaufsicht vergleichbaren ausländischen Regulierung unterstehen;\ng. ausländische Gesellschaften, deren Aktien an einer anerkannten Börse kotiert sind, sowie ihre ausländischen konsolidierten Konzerngesellschaften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Von der Abgabe befreite Anleger",
+        "citation": "Art. 17a Abs. 2 StG",
+        "content": "Als ausländische Einrichtungen der Sozialversicherung gelten Einrichtungen, welche die gleichen Aufgaben wie inländische Einrichtungen nach Artikel 13 Absatz 5 erfüllen und einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Von der Abgabe befreite Anleger",
+        "citation": "Art. 17a Abs. 3 StG",
+        "content": "Als ausländische Einrichtungen der beruflichen Vorsorge gelten Einrichtungen:\na. die der Alters‐, Hinterlassenen- und Invalidenvorsorge dienen;\nb. deren Mittel dauernd und ausschliesslich für die berufliche Vorsorge bestimmt sind; und\nc. die einer der Bundesaufsicht vergleichbaren Aufsicht unterstellt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Emissionsgeschäfte",
+        "citation": "Art. 18 Abs. 1 StG",
+        "content": "Der Effektenhändler gilt als Vertragspartei, wenn er die Urkunden bei ihrer Emission fest übernimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Emissionsgeschäfte",
+        "citation": "Art. 18 Abs. 2 StG",
+        "content": "Übernimmt der Effektenhändler die Urkunden als Unterbeteiligter von einem andern Effektenhändler und gibt er sie während der Emission weiter, so ist er von dem auf ihn entfallenden Teil der Abgaben ausgenommen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Emissionsgeschäfte",
+        "citation": "Art. 18 Abs. 3 StG",
+        "content": "Der Effektenhändler gilt ferner als Vertragspartei, wenn er Ausweise über Unterbeteiligungen an Darlehensforderungen ausgibt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Geschäfte mit ausländischen Banken und Börsenagenten",
+        "citation": "Art. 19 Abs. 1 StG",
+        "content": "Ist beim Abschluss eines Geschäftes eine ausländische Bank, ein ausländischer Börsenagent oder eine zentrale Gegenpartei im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 Vertragspartei, so entfällt die diese Partei betreffende halbe Abgabe. Das Gleiche gilt für Titel, die von einer als Gegenpartei auftretenden Börse bei der Ausübung von standardisierten Derivaten übernommen oder geliefert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_19"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, IV. Abgabepflicht, Zum Zweck der Steuersicherung zwischengeschaltete Organisationen",
+        "citation": "Art. 19a StG",
+        "content": "Wer im Wohnsitzstaat einer natürlichen Person einer staatlichen Bewilligungs- oder Kontrollpflicht untersteht und ausschliesslich die Melde- und Steuerpflichten für deren in der Schweiz gehaltene Vermögenswerte erfüllt, ist für die damit verbundenen Geschäfte von der Umsatzabgabe befreit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_19_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Zweiter Abschnitt: Umsatzabgabe, V. Fälligkeit der Abgabeforderung",
+        "citation": "Art. 20 StG",
+        "content": "Die Abgabe wird 30 Tage nach Ablauf des Vierteljahres fällig, in dem die Abgabeforderung entstanden ist (Art. 15).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_20"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, I. Gegenstand der Abgabe, Regel",
+        "citation": "Art. 21 StG",
+        "content": "Gegenstand der Abgabe sind die Prämienzahlungen für Versicherungen,\na. die zum inländischen Bestand eines der Aufsicht des Bundes unterstellten oder eines inländischen öffentlich-rechtlichen Versicherers gehören;\nb. die ein inländischer Versicherungsnehmer mit einem nicht der Bundesaufsicht unterstellten ausländischen Versicherer abgeschlossen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_21"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, I. Gegenstand der Abgabe, Ausnahmen",
+        "citation": "Art. 22 StG",
+        "content": "Von der Abgabe ausgenommen sind die Prämienzahlungen für die\na. nichtrückkaufsfähige Lebensversicherung sowie die rückkaufsfähige Lebensversicherung mit periodischer Prämienzahlung; der Bundesrat legt in einer Verordnung die notwendigen Abgrenzungen fest;\nabis. Lebensversicherung, soweit diese der beruflichen Vorsorge im Sinne des BVG dient;\nater. Lebensversicherung, welche von einem Versicherungsnehmer mit Wohnsitz im Ausland abgeschlossen wird;\nb. Kranken- und Invaliditätsversicherung;\nc. Unfallversicherung;\nd. Transportversicherung für Güter;\ne. Versicherung für Elementarschäden an Kulturland und Kulturen;\nf. Arbeitslosenversicherung;\ng. Hagelversicherung;\nh. Viehversicherung;\ni. Rückversicherung;\nk. Kaskoversicherung für die in der Verordnung zu umschreibenden Luftfahrzeuge und Schiffe, die im Wesentlichen im Ausland der gewerbsmässigen Beförderung von Personen und Gütern dienen;\nl. Feuer‐, Diebstahl‐, Glas‐, Wasserschaden‐, Kredit‐, Maschinen- und Schmuckversicherung, sofern der Abgabepflichtige nachweist, dass sich die versicherte Sache im Ausland befindet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_22"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, II. Entstehung der Abgabeforderung",
+        "citation": "Art. 23 StG",
+        "content": "Die Abgabeforderung entsteht mit der Zahlung der Prämie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_23"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, III. Abgabesätze und Berechnungsgrundlage",
+        "citation": "Art. 24 Abs. 1 StG",
+        "content": "Die Abgabe beträgt 5 Prozent der Barprämie; für die Lebensversicherung beträgt sie 2,5 Prozent der Barprämie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_24"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, III. Abgabesätze und Berechnungsgrundlage",
+        "citation": "Art. 24 Abs. 2 StG",
+        "content": "Die Abgabepflichtigen haben in ihren Büchern für jeden einzelnen Versicherungszweig die steuerbaren und die befreiten Prämien gesondert auszuweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_24"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, IV. Abgabepflicht",
+        "citation": "Art. 25 StG",
+        "content": "Abgabepflichtig ist der Versicherer. Ist die Versicherung mit einem ausländischen Versicherer abgeschlossen worden (Art. 21 Bst. b), so hat der inländische Versicherungsnehmer die Abgabe zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_25"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Dritter Abschnitt: Abgabe auf Versicherungsprämien, V. Fälligkeit der Abgabeforderung",
+        "citation": "Art. 26 StG",
+        "content": "Die Abgabe wird 30 Tage nach Ablauf des Vierteljahres fällig, in dem die Abgabeforderung entstanden ist (Art. 23).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_26"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, I. Festsetzung der Abgaben",
+        "citation": "Art. 27 Abs. 1 StG",
+        "content": "Für die Festsetzung der Abgaben ist der wirkliche Inhalt der Urkunden oder Rechtsvorgänge massgebend; von den Beteiligten gebrauchte unrichtige Bezeichnungen und Ausdrucksweisen fallen nicht in Betracht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_27"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, I. Festsetzung der Abgaben",
+        "citation": "Art. 27 Abs. 2 StG",
+        "content": "Kann der für die Abgabepflicht oder für die Abgabebemessung massgebende Sachverhalt nicht eindeutig abgeklärt werden, so ist er durch Abwägung aller auf Grund pflichtgemässer Ermittlung festgestellten Umstände zu erschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_27"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, II. Umrechnung ausländischer Währungen",
+        "citation": "Art. 28 Abs. 1 StG",
+        "content": "Lautet der für die Abgabeberechnung massgebende Betrag auf eine ausländische Währung, so ist er auf den Zeitpunkt der Entstehung der Abgabeforderung (Art. 7, 15, 23) in Schweizerfranken umzurechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_28"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, II. Umrechnung ausländischer Währungen",
+        "citation": "Art. 28 Abs. 2 StG",
+        "content": "Ist unter den Parteien kein bestimmter Umrechnungskurs vereinbart worden, so ist der Umrechnung das Mittel der Geld- und Briefkurse am letzten Werktage vor der Entstehung der Abgabeforderung zugrunde zu legen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_28"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, III. Verzugszins",
+        "citation": "Art. 29 StG",
+        "content": "Auf Abgabebeträgen, die nach Ablauf der in den Artikeln 11, 20 und 26 geregelten Fälligkeitstermine ausstehen, ist ohne Mahnung ein Verzugszins geschuldet. Der Zinssatz wird vom Eidgenössischen Finanzdepartement bestimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_29"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, IV. Verjährung der Abgabeforderung",
+        "citation": "Art. 30 Abs. 1 StG",
+        "content": "Die Abgabeforderung verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem sie entstanden ist (Art. 7, 15, 23).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, IV. Verjährung der Abgabeforderung",
+        "citation": "Art. 30 Abs. 2 StG",
+        "content": "Die Verjährung beginnt nicht oder steht still, solange die Abgabeforderung sichergestellt oder gestundet ist oder keiner der Zahlungspflichtigen im Inland Wohnsitz hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, IV. Verjährung der Abgabeforderung",
+        "citation": "Art. 30 Abs. 3 StG",
+        "content": "Die Verjährung wird unterbrochen durch jede Anerkennung der Abgabeforderung von Seiten eines Zahlungspflichtigen sowie durch jede auf Geltendmachung des Abgabeanspruches gerichtete Amtshandlung, die einem Zahlungspflichtigen zur Kenntnis gebracht wird; mit der Unterbrechung beginnt die Verjährung von neuem.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Vierter Abschnitt: Gemeinsame Bestimmungen für alle Abgaben, IV. Verjährung der Abgabeforderung",
+        "citation": "Art. 30 Abs. 4 StG",
+        "content": "Stillstand und Unterbrechung wirken gegenüber allen Zahlungspflichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, I. Eidgenössische Steuerverwaltung",
+        "citation": "Art. 31 StG",
+        "content": "Die Eidgenössische Steuerverwaltung (ESTV) erlässt für die Erhebung der Stempelabgaben alle Weisungen, Verfügungen und Entscheide, die nicht ausdrücklich einer anderen Behörde vorbehalten sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_31"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 32 Abs. 1 StG",
+        "content": "Die Steuerbehörden der Kantone, Bezirke, Kreise und Gemeinden und die ESTV unterstützen sich gegenseitig in der Erfüllung ihrer Aufgabe; sie haben sich kostenlos die zweckdienlichen Meldungen zu erstatten, die benötigten Auskünfte zu erteilen und in amtliche Akten Einsicht zu gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 32 Abs. 2 StG",
+        "content": "Die Verwaltungsbehörden des Bundes und die andern als die in Absatz 1 genannten Behörden der Kantone, Bezirke, Kreise und Gemeinden sind gegenüber der Eidgenössischen Steuerverwaltung auskunftspflichtig, sofern die verlangten Auskünfte für die Durchführung dieses Gesetzes von Bedeutung sein können. Eine Auskunft darf nur verweigert werden, soweit ihr wesentliche öffentliche Interessen, insbesondere die innere oder äussere Sicherheit des Bundes oder der Kantone entgegenstehen, oder die Auskunft die angegangene Behörde in der Durchführung ihrer Aufgabe wesentlich beeinträchtigen würde. Das Post‐, Telefon- und Telegrafengeheimnis ist zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 32 Abs. 3 StG",
+        "content": "Anstände über die Auskunftspflicht von Verwaltungsbehörden des Bundes entscheidet der Bundesrat, Anstände über die Auskunftspflicht von Behörden der Kantone, Bezirke, Kreise und Gemeinden, sofern die kantonale Regierung das Auskunftsbegehren abgelehnt hat, das Bundesgericht (Art. 120 des Bundesgerichtsgesetzes vom 17. Juni 2005).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, II. Amtshilfe",
+        "citation": "Art. 32 Abs. 4 StG",
+        "content": "Die mit öffentlich-rechtlichen Aufgaben betrauten Organisationen sind im Rahmen dieser Aufgaben gleich den Behörden zur Auskunft verpflichtet; Absatz 3 findet sinngemässe Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 32a Abs. 1 StG",
+        "content": "Die ESTV betreibt zur Erfüllung der Aufgaben nach diesem Gesetz ein Informationssystem. Dieses kann besonders schützenswerte Personendaten über administrative und strafrechtliche Sanktionen enthalten, die steuerrechtlich wesentlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 32a Abs. 2 StG",
+        "content": "Die ESTV und die Behörden nach Artikel 32 Absatz 1 geben einander die Daten weiter, die für die Erfüllung ihrer Aufgaben dienlich sein können. Die Behörden nach Artikel 32 Absätze 2 und 4 geben der ESTV die Daten weiter, die für die Durchführung dieses Gesetzes von Bedeutung sein können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 32a Abs. 3 StG",
+        "content": "Die Daten werden einzeln, auf Listen oder auf elektronischen Datenträgern übermittelt. Sie können auch mittels eines Abrufverfahrens zugänglich gemacht werden. Diese Amtshilfe ist kostenlos.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 32a Abs. 4 StG",
+        "content": "Personendaten und die zu ihrer Bearbeitung verwendeten Einrichtungen wie Datenträger, EDV-Programme und Programmdokumentationen sind vor unbefugtem Verwenden, Verändern oder Zerstören sowie vor Diebstahl zu schützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, IIa. Datenbearbeitung",
+        "citation": "Art. 32a Abs. 5 StG",
+        "content": "Der Bundesrat kann Ausführungsbestimmungen erlassen, insbesondere über die Organisation und den Betrieb des Informationssystems, über die Kategorien der zu erfassenden Daten, über die Zugriffs- und Bearbeitungsberechtigung, über die Aufbewahrungsdauer sowie die Archivierung und Vernichtung der Daten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, III. Schweigepflicht",
+        "citation": "Art. 33 Abs. 1 StG",
+        "content": "Wer mit dem Vollzug dieses Gesetzes betraut ist oder dazu beigezogen wird, hat gegenüber andern Amtsstellen und Privaten über die in Ausübung seines Amtes gemachten Wahrnehmungen Stillschweigen zu bewahren und den Einblick in amtliche Akten zu verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_33"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, A. Behörden, III. Schweigepflicht",
+        "citation": "Art. 33 Abs. 2 StG",
+        "content": "Keine Geheimhaltungspflicht besteht:\na. bei Leistung von Amtshilfe nach Artikel 32 Absatz 1 und bei Erfüllung einer Pflicht zur Anzeige strafbarer Handlungen;\nb. gegenüber Organen der Rechtspflege und der Verwaltung, die vom Bundesrat allgemein oder vom Eidgenössischen Finanzdepartement im Einzelfalle zur Einholung amtlicher Auskünfte bei den mit dem Vollzug dieses Gesetzes betrauten Behörden ermächtigt worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_33"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Anmeldung als Abgabepflichtiger; Selbstveranlagung",
+        "citation": "Art. 34 Abs. 1 StG",
+        "content": "Wer auf Grund dieses Gesetzes abgabepflichtig wird, hat sich unaufgefordert bei der ESTV anzumelden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_34"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Anmeldung als Abgabepflichtiger; Selbstveranlagung",
+        "citation": "Art. 34 Abs. 2 StG",
+        "content": "Der Abgabepflichtige hat der ESTV bei Fälligkeit der Abgabe (Art. 11, 20, 26) unaufgefordert die vorgeschriebene Abrechnung mit den Belegen einzureichen und gleichzeitig die Abgabe zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_34"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Auskunft des Abgabepflichtigen",
+        "citation": "Art. 35 Abs. 1 StG",
+        "content": "Der Abgabepflichtige hat der ESTV über alle Tatsachen, die für die Abgabepflicht oder für die Abgabebemessung von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen; er hat insbesondere:\na. Steuerabrechnungen, Steuererklärungen und Fragebogen vollständig und genau auszufüllen;\nb. seine Geschäftsbücher ordnungsgemäss zu führen und sie, die Belege und andere Urkunden auf Verlangen beizubringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Auskunft des Abgabepflichtigen",
+        "citation": "Art. 35 Abs. 2 StG",
+        "content": "Die Bestreitung der Abgabepflicht entbindet nicht von der Auskunftspflicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Auskunft des Abgabepflichtigen",
+        "citation": "Art. 35 Abs. 3 StG",
+        "content": "Wird die Auskunftspflicht bestritten, so trifft die ESTV eine Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Auskunft Dritter",
+        "citation": "Art. 36 Abs. 1 StG",
+        "content": "Die bei der Gründung oder Kapitalerhöhung einer Gesellschaft oder Genossenschaft mitwirkenden Personen (insbesondere Banken, Notare und Treuhänder) haben der ESTV auf Verlangen über alle Tatsachen, die für die Abgabepflicht oder für die Bemessung der Emissionsabgabe von Bedeutung sein können, nach bestem Wissen und Gewissen Auskunft zu erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_36"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Auskunft Dritter",
+        "citation": "Art. 36 Abs. 2 StG",
+        "content": "Wird die Auskunftspflicht bestritten, so findet Artikel 35 Absatz 3 Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_36"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Überprüfung",
+        "citation": "Art. 37 Abs. 1 StG",
+        "content": "Die Erfüllung der Pflicht zur Anmeldung als Abgabepflichtiger sowie die Steuerabrechnungen und -ablieferungen werden von der ESTV überprüft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Überprüfung",
+        "citation": "Art. 37 Abs. 2 StG",
+        "content": "Die ESTV kann zur Abklärung des Sachverhalts die Geschäftsbücher, die Belege und andere Urkunden des Abgabepflichtigen an Ort und Stelle prüfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Überprüfung",
+        "citation": "Art. 37 Abs. 3 StG",
+        "content": "Ergibt sich, dass der Abgabepflichtige seinen gesetzlichen Pflichten nicht nachgekommen ist, so ist ihm Gelegenheit zu geben, zu den erhobenen Aussetzungen Stellung zu nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Überprüfung",
+        "citation": "Art. 37 Abs. 4 StG",
+        "content": "Lässt sich der Anstand nicht erledigen, so trifft die ESTV einen Entscheid.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, I. Abgabeerhebung, Überprüfung",
+        "citation": "Art. 37 Abs. 5 StG",
+        "content": "Die anlässlich einer Prüfung gemäss Absatz 1 oder 2 bei einer Bank oder Sparkasse im Sinne des Bankengesetzes vom 8. November 1934, bei der Schweizerischen Nationalbank oder bei einer Pfandbriefzentrale gemachten Feststellungen dürfen ausschliesslich für die Durchführung der Stempelabgaben verwendet werden. Das Bankgeheimnis ist zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, II. Entscheide der ESTV",
+        "citation": "Art. 38 StG",
+        "content": "Die ESTV trifft alle Verfügungen und Entscheide, welche die Abgabeerhebung notwendig macht; sie trifft einen Entscheid insbesondere dann, wenn\na. die Abgabeforderung oder die Mithaftung bestritten wird;\nb. für einen bestimmten Fall vorsorglich die amtliche Feststellung der Abgabepflicht, der Grundlagen der Abgabebemessung oder der Mithaftung beantragt wird;\nc. der Abgabepflichtige oder Mithaftende die gemäss Abrechnung geschuldete Abgabe nicht entrichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_38"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, III. Einsprache, ...",
+        "citation": "Art. 39 Abs. 1 StG",
+        "content": "Verfügungen und Entscheide der ESTV können innert 30 Tagen nach der Eröffnung mit Einsprache angefochten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, III. Einsprache, ...",
+        "citation": "Art. 39 Abs. 2 StG",
+        "content": "Die Einsprache ist schriftlich bei der ESTV einzureichen; sie hat einen bestimmten Antrag zu enthalten und die zu seiner Begründung dienenden Tatsachen anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, III. Einsprache, ...",
+        "citation": "Art. 39 Abs. 3 StG",
+        "content": "Ist gültig Einsprache erhoben worden, so hat die ESTV die Verfügung oder den Entscheid ohne Bindung an die gestellten Anträge zu überprüfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, III. Einsprache, ...",
+        "citation": "Art. 39 Abs. 4 StG",
+        "content": "Das Einspracheverfahren ist trotz Rückzug der Einsprache weiterzuführen, wenn Anhaltspunkte dafür vorliegen, dass die Verfügung oder der Entscheid dem Gesetz nicht entspricht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, III. Einsprache, ...",
+        "citation": "Art. 39 Abs. 5 StG",
+        "content": "Der Einspracheentscheid ist zu begründen und hat eine Rechtsmittelbelehrung zu enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, IV. Kosten",
+        "citation": "Art. 41 Abs. 1 StG",
+        "content": "Im Veranlagungs- und im Einspracheverfahren werden in der Regel keine Kosten berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_41"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, IV. Kosten",
+        "citation": "Art. 41 Abs. 2 StG",
+        "content": "Ohne Rücksicht auf den Ausgang des Verfahrens können die Kosten von Untersuchungsmassnahmen demjenigen auferlegt werden, der sie schuldhaft verursacht hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_41"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, IVa. Elektronische Verfahren",
+        "citation": "Art. 41a Abs. 1 StG",
+        "content": "Der Bundesrat kann die elektronische Durchführung von Verfahren nach diesem Gesetz vorschreiben. Dabei regelt er die Modalitäten der Durchführung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, IVa. Elektronische Verfahren",
+        "citation": "Art. 41a Abs. 2 StG",
+        "content": "Die ESTV stellt bei der elektronischen Durchführung von Verfahren die Authentizität und Integrität der übermittelten Daten sicher.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, IVa. Elektronische Verfahren",
+        "citation": "Art. 41a Abs. 3 StG",
+        "content": "Sie kann bei der elektronischen Einreichung von Eingaben, deren Unterzeichnung gesetzlich vorgeschrieben ist, anstelle der qualifizierten elektronischen Signatur eine andere elektronische Bestätigung der Angaben durch die abgabepflichtige Person anerkennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Betreibung",
+        "citation": "Art. 42 Abs. 1 StG",
+        "content": "Wird der Anspruch auf Abgaben, Zinsen und Kosten auf Mahnung hin nicht befriedigt, so ist Betreibung einzuleiten; vorbehalten bleibt die Eingabe in einem Konkurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_42"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Betreibung",
+        "citation": "Art. 42 Abs. 2 StG",
+        "content": "Ist die Abgabeforderung noch nicht rechtskräftig festgesetzt und wird sie bestritten, so unterbleibt ihre endgültige Kollokation, bis ein rechtskräftiger Abgabeentscheid vorliegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_42"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Sicherstellung",
+        "citation": "Art. 43 Abs. 1 StG",
+        "content": "Die ESTV kann Abgaben, Zinsen und Kosten, auch wenn sie weder rechtskräftig festgesetzt noch fällig sind, sicherstellen lassen, wenn\na. der Bezug als gefährdet erscheint;\nb. der Zahlungspflichtige keinen Wohnsitz in der Schweiz hat oder Anstalten trifft, den Wohnsitz in der Schweiz aufzugeben oder sich im Handelsregister löschen zu lassen;\nc. der Zahlungspflichtige mit der Zahlung der Abgabe in Verzug ist oder wiederholt in Verzug war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Sicherstellung",
+        "citation": "Art. 43 Abs. 2 StG",
+        "content": "Die Sicherstellungsverfügung hat den Rechtsgrund der Sicherstellung, den sicherzustellenden Betrag und die Stelle, welche die Sicherheiten entgegennimmt, anzugeben. Wird die Sicherstellung aufgrund von Absatz 1 Buchstaben a oder b angeordnet, so gilt die Sicherstellungsverfügung als Arrestbefehl im Sinne von Artikel 274 des Bundesgesetzes über Schuldbetreibung und Konkurs; die Einsprache gegen den Arrestbefehl ist ausgeschlossen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Sicherstellung",
+        "citation": "Art. 43 Abs. 3 StG",
+        "content": "Gegen Sicherstellungsverfügungen der ESTV kann beim Bundesverwaltungsgericht Beschwerde geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, B. Verfahren, V. Zwangsvollstreckung, Sicherstellung",
+        "citation": "Art. 43 Abs. 4 StG",
+        "content": "Beschwerden gegen Sicherstellungsverfügungen haben keine aufschiebende Wirkung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Fünfter Abschnitt: Behörden und Verfahren, C. Revision und Erläuterung von Entscheiden",
+        "citation": "Art. 44 Abs. 1 StG",
+        "content": "Auf die Revision und die Erläuterung von Entscheiden der ESTV werden die Artikel 66–69 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 sinngemäss angewandt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_44"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, A. Widerhandlungen, I. Hinterziehung",
+        "citation": "Art. 45 Abs. 1 StG",
+        "content": "Wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern, dem Bunde Stempelabgaben vorenthält oder sich oder einem andern auf andere Weise einen unrechtmässigen Abgabevorteil verschafft, wird, sofern nicht die Strafbestimmung von Artikel 14 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, wegen Hinterziehung mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Dreifachen der hinterzogenen Abgabe oder des unrechtmässigen Vorteils bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_45"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, A. Widerhandlungen, II. Abgabegefährdung",
+        "citation": "Art. 46 Abs. 1 StG",
+        "content": "Wer die gesetzmässige Erhebung der Stempelabgaben gefährdet, indem er vorsätzlich oder fahrlässig\na. der Pflicht zur Anmeldung als Abgabepflichtiger, zur Einreichung von Steuererklärungen, Aufstellungen und Abrechnungen, zur Erteilung von Auskünften und zur Vorlage von Geschäftsbüchern, Registern und Belegen nicht nachkommt;\nb. in einer Steuererklärung, Aufstellung oder Abrechnung, in einem Antrag auf Befreiung, Rückerstattung, Stundung oder Erlass von Abgaben unwahre Angaben macht oder erhebliche Tatsachen verschweigt oder dabei unwahre Belege über erhebliche Tatsachen vorlegt;\nc. als Abgabepflichtiger oder auskunftspflichtiger Dritter unrichtige Auskünfte erteilt;\nd. der Pflicht zur ordnungsgemässen Führung und Aufbewahrung der Geschäftsbücher, Register und Belege zuwiderhandelt;\ne. die ordnungsgemässe Durchführung einer Buchprüfung oder andern amtlichen Kontrolle erschwert, behindert oder verunmöglicht oder\nf. wahrheitswidrig erklärt, Effektenhändler zu sein oder nach Streichung im Register der Effektenhändler die abgegebenen Erklärungen nicht widerruft,wird, sofern nicht eine der Strafbestimmungen der Artikel 14–16 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 zutrifft, mit Busse bis zu 20 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_46"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, A. Widerhandlungen, II. Abgabegefährdung",
+        "citation": "Art. 46 Abs. 2 StG",
+        "content": "Bei einer Widerhandlung im Sinne von Absatz 1 Buchstabe e bleibt die Strafverfolgung nach Artikel 285 des Strafgesetzbuches vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_46"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, A. Widerhandlungen, III. Ordnungswidrigkeiten",
+        "citation": "Art. 47 Abs. 1 StG",
+        "content": "Wer eine Bedingung, an die eine besondere Bewilligung geknüpft wurde, nicht einhält,wer einer Vorschrift dieses Gesetzes, einer Verordnung oder einer auf Grund solcher Vorschriften erlassenen allgemeinen Weisung oder unter Hinweis auf die Strafdrohung dieses Artikels an ihn gerichteten Einzelverfügung zuwiderhandelt,wird mit Busse bis zu 5000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_47"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, A. Widerhandlungen, III. Ordnungswidrigkeiten",
+        "citation": "Art. 47 Abs. 2 StG",
+        "content": "Strafbar ist auch die fahrlässige Begehung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_47"
+    },
+    {
+        "book": "StG",
+        "title": "StG, Sechster Abschnitt: Strafbestimmungen, B. Verhältnis zum Verwaltungsstrafrechtsgesetz",
+        "citation": "Art. 50 Abs. 1 StG",
+        "content": "Das Verwaltungsstrafrechtsgesetz vom 22. März 1974 findet Anwendung; verfolgende und urteilende Verwaltungsbehörde im Sinne jenes Gesetzes ist die ESTV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/de#art_50"
+    }
+]

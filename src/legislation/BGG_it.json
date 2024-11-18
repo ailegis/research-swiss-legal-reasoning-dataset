@@ -1,0 +1,2158 @@
+[
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Autorità giudiziaria suprema",
+        "citation": "Art. 1 cpv. 1 LTF",
+        "content": "Il Tribunale federale è l’autorità giudiziaria suprema della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_1"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Autorità giudiziaria suprema",
+        "citation": "Art. 1 cpv. 2 LTF",
+        "content": "Esercita la vigilanza sulla gestione del Tribunale penale federale, del Tribunale amministrativo federale e del Tribunale federale dei brevetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_1"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Autorità giudiziaria suprema",
+        "citation": "Art. 1 cpv. 3 LTF",
+        "content": "Si compone di 35–45 giudici ordinari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_1"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Autorità giudiziaria suprema",
+        "citation": "Art. 1 cpv. 4 LTF",
+        "content": "Si compone inoltre di giudici non di carriera; il loro numero è al massimo pari a due terzi di quello dei giudici ordinari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_1"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Autorità giudiziaria suprema",
+        "citation": "Art. 1 cpv. 5 LTF",
+        "content": "L’Assemblea federale stabilisce il numero dei giudici mediante ordinanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_1"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Indipendenza",
+        "citation": "Art. 2 cpv. 1 LTF",
+        "content": "Nella sua attività giurisdizionale il Tribunale federale è indipendente e sottostà al solo diritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_2"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Indipendenza",
+        "citation": "Art. 2 cpv. 2 LTF",
+        "content": "Le sue sentenze possono essere annullate o modificate soltanto da esso medesimo e conformemente alle disposizioni della legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_2"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Rapporto con l’Assemblea federale",
+        "citation": "Art. 3 cpv. 1 LTF",
+        "content": "L’Assemblea federale esercita l’alta vigilanza sul Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_3"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Rapporto con l’Assemblea federale",
+        "citation": "Art. 3 cpv. 2 LTF",
+        "content": "Decide ogni anno sull’approvazione del progetto di preventivo, del consuntivo e del rapporto di gestione del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_3"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Sede",
+        "citation": "Art. 4 cpv. 1 LTF",
+        "content": "La sede del Tribunale federale è Losanna.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_4"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 1: Statuto, Sede",
+        "citation": "Art. 4 cpv. 2 LTF",
+        "content": "Una o più corti hanno sede a Lucerna.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_4"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Elezione",
+        "citation": "Art. 5 cpv. 1 LTF",
+        "content": "I giudici sono eletti dall’Assemblea federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_5"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Elezione",
+        "citation": "Art. 5 cpv. 2 LTF",
+        "content": "È eleggibile chiunque abbia diritto di voto in materia federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_5"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità",
+        "citation": "Art. 6 cpv. 1 LTF",
+        "content": "I giudici non possono essere membri dell’Assemblea federale o del Consiglio federale, né esercitare alcun’altra funzione al servizio della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_6"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità",
+        "citation": "Art. 6 cpv. 2 LTF",
+        "content": "Non possono esercitare alcuna attività che pregiudichi l’adempimento della loro funzione, l’indipendenza del Tribunale o la sua dignità, né esercitare professionalmente la rappresentanza in giudizio dinanzi al Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_6"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità",
+        "citation": "Art. 6 cpv. 3 LTF",
+        "content": "Non possono esercitare alcuna funzione ufficiale per uno Stato estero, né accettare titoli o decorazioni conferiti da autorità estere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_6"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità",
+        "citation": "Art. 6 cpv. 4 LTF",
+        "content": "I giudici ordinari non possono esercitare alcuna funzione al servizio di un Cantone né altre attività lucrative. Non possono neppure essere membri della direzione, dell’amministrazione, dell’ufficio di vigilanza o dell’ufficio di revisione di un’impresa commerciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_6"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Attività accessoria",
+        "citation": "Art. 7 cpv. 1 LTF",
+        "content": "Il Tribunale federale può autorizzare i giudici ordinari a esercitare un’attività accessoria senza scopo lucrativo in quanto non siano pregiudicati il pieno adempimento della loro funzione e l’indipendenza e la dignità del Tribunale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_7"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Attività accessoria",
+        "citation": "Art. 7 cpv. 2 LTF",
+        "content": "Determina mediante regolamento le condizioni per il rilascio di tale autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_7"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità personale",
+        "citation": "Art. 8 cpv. 1 LTF",
+        "content": "Non possono esercitare nel medesimo tempo la funzione di giudice del Tribunale federale:\na. i coniugi, i partner registrati e le persone che convivono stabilmente;\nb. i coniugi o partner registrati di persone che tra loro sono fratelli o sorelle, nonché le persone che convivono stabilmente con persone che tra loro sono fratelli o sorelle;\nc. i parenti in linea retta e, fino al terzo grado compreso, in linea collaterale;\nd. gli affini in linea retta e, fino al terzo grado compreso, in linea collaterale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_8"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Incompatibilità personale",
+        "citation": "Art. 8 cpv. 2 LTF",
+        "content": "La regola di cui al capoverso 1 lettera d vale, applicata per analogia, anche riguardo alle persone che convivono stabilmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_8"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Durata della carica",
+        "citation": "Art. 9 cpv. 1 LTF",
+        "content": "I giudici stanno in carica sei anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_9"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Durata della carica",
+        "citation": "Art. 9 cpv. 2 LTF",
+        "content": "I giudici che compiono 68 anni lasciano la carica alla fine dell’anno civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_9"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Durata della carica",
+        "citation": "Art. 9 cpv. 3 LTF",
+        "content": "I seggi divenuti vacanti sono riassegnati per il resto del periodo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_9"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Giuramento",
+        "citation": "Art. 10 cpv. 1 LTF",
+        "content": "Prima di entrare in carica, i giudici giurano di adempiere coscienziosamente il loro dovere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_10"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Giuramento",
+        "citation": "Art. 10 cpv. 2 LTF",
+        "content": "Il giuramento è prestato dinanzi alla rispettiva corte sotto la presidenza del presidente del Tribunale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_10"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Giuramento",
+        "citation": "Art. 10 cpv. 3 LTF",
+        "content": "Il giuramento può essere sostituito dalla promessa solenne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_10"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 2: Giudici, Luogo di residenza",
+        "citation": "Art. 12 LTF",
+        "content": "I giudici scelgono liberamente il loro luogo di residenza, che dev’essere in Svizzera; i giudici ordinari devono tuttavia poter raggiungere rapidamente il Tribunale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_12"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Principio",
+        "citation": "Art. 13 LTF",
+        "content": "Il Tribunale federale determina la sua organizzazione e amministrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_13"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza",
+        "citation": "Art. 14 cpv. 1 LTF",
+        "content": "L’Assemblea federale elegge, scegliendoli tra i giudici ordinari:\na. il presidente del Tribunale federale;\nb. il vicepresidente del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_14"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza",
+        "citation": "Art. 14 cpv. 2 LTF",
+        "content": "Il presidente e il vicepresidente stanno in carica due anni; la rielezione è possibile, ma una volta sola.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_14"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza",
+        "citation": "Art. 14 cpv. 3 LTF",
+        "content": "Il presidente presiede la Corte plenaria e la Commissione amministrativa (art. 17). Rappresenta il Tribunale federale verso l’esterno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_14"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza",
+        "citation": "Art. 14 cpv. 4 LTF",
+        "content": "In caso di impedimento, il presidente è rappresentato dal vicepresidente o, se anche questi è impedito, dal giudice con la maggiore anzianità di servizio; se vi sono più giudici con la stessa anzianità di servizio, dal più anziano tra di loro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_14"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Corte plenaria",
+        "citation": "Art. 15 cpv. 1 LTF",
+        "content": "La Corte plenaria si compone dei giudici ordinari. Le competono:\na. l’emanazione dei regolamenti concernenti l’organizzazione e l’amministrazione del Tribunale, la ripartizione delle cause, l’esercizio della vigilanza sul Tribunale penale federale e sul Tribunale amministrativo federale, la composizione delle controversie tra giudici, l’informazione, le tasse di giustizia, le spese ripetibili accordate alle parti e le indennità concesse a patrocinatori d’ufficio, periti e testimoni;\nb. le nomine, in quanto non siano attribuite mediante regolamento a un altro organo del Tribunale;\nc. l’adozione del rapporto di gestione;\nd. la designazione delle corti e la nomina dei loro presidenti su proposta della Commissione amministrativa;\ne. la proposta all’Assemblea federale per la nomina del presidente e del vicepresidente;\nf. l’assunzione del segretario generale e del suo sostituto su proposta della Commissione amministrativa;\ng. le decisioni concernenti l’adesione ad associazioni internazionali;\nh. altri compiti attribuitile per legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_15"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Corte plenaria",
+        "citation": "Art. 15 cpv. 2 LTF",
+        "content": "La Corte plenaria delibera validamente soltanto se alla seduta o alla procedura per circolazione degli atti partecipano almeno due terzi dei giudici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_15"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Conferenza dei presidenti",
+        "citation": "Art. 16 cpv. 1 LTF",
+        "content": "La Conferenza dei presidenti consta dei presidenti delle corti. Si costituisce autonomamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_16"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Conferenza dei presidenti",
+        "citation": "Art. 16 cpv. 2 LTF",
+        "content": "La Conferenza dei presidenti è competente per:\na. emanare istruzioni e regole uniformi per la stesura delle sentenze;\nb. coordinare la giurisprudenza delle corti; rimane salvo l’articolo 23;\nc. esprimersi sui progetti di atti normativi sottoposti a procedura di consultazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_16"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Commissione amministrativa",
+        "citation": "Art. 17 cpv. 1 LTF",
+        "content": "La Commissione amministrativa è composta:\na. del presidente del Tribunale federale;\nb. del vicepresidente del Tribunale federale;\nc. di altri tre giudici al massimo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_17"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Commissione amministrativa",
+        "citation": "Art. 17 cpv. 2 LTF",
+        "content": "Il segretario generale partecipa con voto consultivo alle sedute della Commissione amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_17"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Commissione amministrativa",
+        "citation": "Art. 17 cpv. 3 LTF",
+        "content": "I giudici di cui al capoverso 1 lettera c sono eletti dalla Corte plenaria per un periodo di due anni; sono rieleggibili, ma una volta sola.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_17"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Commissione amministrativa",
+        "citation": "Art. 17 cpv. 4 LTF",
+        "content": "La Commissione amministrativa è responsabile dell’amministrazione del Tribunale. È competente per:\na. assegnare i giudici non di carriera alle diverse corti, su proposta della Conferenza dei presidenti;\nb. adottare il progetto di preventivo e il consuntivo a destinazione dell’Assemblea federale;\nc. assumere i cancellieri del Tribunale e attribuirli alle corti in base alle proposte delle corti medesime;\nd. approntare sufficienti servizi scientifici e amministrativi;\ne. assicurare un’adeguata formazione continua del personale;\nf. autorizzare i giudici ordinari a svolgere attività accessorie, sentita la Conferenza dei presidenti;\ng. esercitare la vigilanza sul Tribunale penale federale e sul Tribunale amministrativo federale;\nh. svolgere tutte le altre mansioni amministrative che non rientrano nella competenza della Corte plenaria o della Conferenza dei presidenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_17"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Corti",
+        "citation": "Art. 18 cpv. 1 LTF",
+        "content": "Le corti sono costituite per due anni. La loro composizione è resa pubblica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_18"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Corti",
+        "citation": "Art. 18 cpv. 2 LTF",
+        "content": "Per costituire le corti si tiene adeguatamente conto delle conoscenze specifiche dei giudici e delle lingue ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_18"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Corti",
+        "citation": "Art. 18 cpv. 3 LTF",
+        "content": "Ciascun giudice può essere tenuto a prestare il proprio concorso in una corte diversa dalla sua.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_18"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza delle corti",
+        "citation": "Art. 19 cpv. 1 LTF",
+        "content": "I presidenti delle corti sono eletti per due anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_19"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza delle corti",
+        "citation": "Art. 19 cpv. 2 LTF",
+        "content": "In caso di impedimento, il presidente è rappresentato dal giudice con la maggior anzianità di servizio; se vi sono più giudici con la stessa anzianità di servizio, dal più anziano tra di loro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_19"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Presidenza delle corti",
+        "citation": "Art. 19 cpv. 3 LTF",
+        "content": "La presidenza di una corte non può essere esercitata per più di sei anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_19"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Composizione",
+        "citation": "Art. 20 cpv. 1 LTF",
+        "content": "Di regola, le corti giudicano nella composizione di tre giudici (collegio giudicante).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_20"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Composizione",
+        "citation": "Art. 20 cpv. 2 LTF",
+        "content": "Giudicano nella composizione di cinque giudici se la causa concerne una questione di diritto di importanza fondamentale o se un giudice lo richiede. Sono eccettuati i ricorsi contro decisioni delle autorità cantonali di vigilanza in materia di esecuzione e fallimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_20"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Composizione",
+        "citation": "Art. 20 cpv. 3 LTF",
+        "content": "Le corti giudicano nella composizione di cinque giudici anche i ricorsi contro atti normativi cantonali che sottostanno al referendum e contro decisioni cantonali sull’ammissibilità di un’iniziativa o sull’esigenza di un referendum. Sono eccettuati i ricorsi in materia comunale o inerenti a un altro ente di diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_20"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Votazione",
+        "citation": "Art. 21 cpv. 1 LTF",
+        "content": "Salvo che la legge disponga altrimenti, la Corte plenaria, la Conferenza dei presidenti, la Commissione amministrativa e le corti deliberano, prendono le decisioni e procedono alle nomine a maggioranza assoluta dei voti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_21"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Votazione",
+        "citation": "Art. 21 cpv. 2 LTF",
+        "content": "In caso di parità di voti, quello del presidente decide; se si tratta di nomine o assunzioni, decide la sorte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_21"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Votazione",
+        "citation": "Art. 21 cpv. 3 LTF",
+        "content": "L’astensione è esclusa nelle decisioni prese in una procedura secondo gli articoli 72–129.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_21"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Ripartizione delle cause",
+        "citation": "Art. 22 LTF",
+        "content": "Il Tribunale federale disciplina mediante regolamento la ripartizione delle cause tra le corti in funzione della materia, la composizione dei collegi giudicanti e l’impiego dei giudici non di carriera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_22"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Modifica della giurisprudenza e precedenti",
+        "citation": "Art. 23 cpv. 1 LTF",
+        "content": "Una corte può derogare alla giurisprudenza di una o più altre corti soltanto con il consenso delle corti interessate riunite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_23"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Modifica della giurisprudenza e precedenti",
+        "citation": "Art. 23 cpv. 2 LTF",
+        "content": "Se deve giudicare una questione di diritto concernente più corti, la corte giudicante, qualora lo ritenga opportuno ai fini dell’elaborazione del diritto giudiziale o per garantire una giurisprudenza uniforme, chiede il consenso delle corti interessate riunite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_23"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Modifica della giurisprudenza e precedenti",
+        "citation": "Art. 23 cpv. 3 LTF",
+        "content": "Le corti riunite deliberano validamente soltanto se alla seduta o alla procedura per circolazione degli atti partecipano almeno due terzi dei giudici ordinari di ciascuna corte interessata. La decisione è presa senza dibattimento e a porte chiuse; è vincolante per la corte che deve giudicare la causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_23"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Cancellieri",
+        "citation": "Art. 24 cpv. 1 LTF",
+        "content": "I cancellieri partecipano all’istruzione e al giudizio delle cause. Hanno voto consultivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_24"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Cancellieri",
+        "citation": "Art. 24 cpv. 2 LTF",
+        "content": "Elaborano rapporti sotto la responsabilità di un giudice e redigono le sentenze del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_24"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Cancellieri",
+        "citation": "Art. 24 cpv. 3 LTF",
+        "content": "Adempiono gli altri compiti che il regolamento affida loro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_24"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Amministrazione",
+        "citation": "Art. 25 cpv. 1 LTF",
+        "content": "Il Tribunale federale gode di autonomia amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Amministrazione",
+        "citation": "Art. 25 cpv. 2 LTF",
+        "content": "Istituisce i suoi servizi e assume il personale necessario.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Amministrazione",
+        "citation": "Art. 25 cpv. 3 LTF",
+        "content": "Tiene una contabilità propria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Infrastruttura",
+        "citation": "Art. 25a cpv. 1 LTF",
+        "content": "Il Dipartimento federale delle finanze è competente per l’approntamento, la gestione e la manutenzione degli edifici utilizzati dal Tribunale federale. Esso tiene adeguatamente in considerazione le esigenze del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Infrastruttura",
+        "citation": "Art. 25a cpv. 2 LTF",
+        "content": "Il Tribunale federale sopperisce autonomamente ai suoi bisogni in beni e servizi nell’ambito della logistica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Infrastruttura",
+        "citation": "Art. 25a cpv. 3 LTF",
+        "content": "Il Tribunale federale e il Consiglio federale disciplinano in una convenzione i dettagli della collaborazione tra il Tribunale federale e il Dipartimento federale delle finanze. In singoli punti possono pattuire una ripartizione delle competenze diversa da quanto stabilito nei capoversi precedenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica",
+        "citation": "Art. 25b cpv. 1 LTF",
+        "content": "Per l’utilizzazione dell’infrastruttura elettronica del Tribunale federale, nell’ambito della sua attività amministrativa si applicano per analogia gli articoli 57i–57q della legge del 21 marzo 1997 sull’organizzazione del Governo e dell’Amministrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25_b"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Protezione dei dati derivanti dall’utilizzazione dell’infrastruttura elettronica",
+        "citation": "Art. 25b cpv. 2 LTF",
+        "content": "Il Tribunale federale emana le disposizioni d’esecuzione necessarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_25_b"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Segretariato generale",
+        "citation": "Art. 26 cpv. 1 LTF",
+        "content": "Il segretario generale dirige l’amministrazione del Tribunale, compresi i servizi scientifici. Dirige inoltre il segretariato della Corte plenaria, della Conferenza dei presidenti e della Commissione amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_26"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Segretariato generale",
+        "citation": "Art. 26 cpv. 2 LTF",
+        "content": "Il segretario generale e il suo sostituto sono nominati per la durata della carica. La durata della carica corrisponde a quella dei giudici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_26"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Informazione",
+        "citation": "Art. 27 cpv. 1 LTF",
+        "content": "Il Tribunale federale informa il pubblico sulla sua giurisprudenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_27"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Informazione",
+        "citation": "Art. 27 cpv. 2 LTF",
+        "content": "La pubblicazione delle sentenze avviene di norma in forma anonimizzata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_27"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Informazione",
+        "citation": "Art. 27 cpv. 3 LTF",
+        "content": "Il Tribunale federale disciplina in un regolamento i principi dell’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_27"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Informazione",
+        "citation": "Art. 27 cpv. 4 LTF",
+        "content": "Per la cronaca giudiziaria, il Tribunale federale può prevedere un accreditamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_27"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Principio di trasparenza",
+        "citation": "Art. 28 cpv. 1 LTF",
+        "content": "La legge del 17 dicembre 2004 sulla trasparenza si applica per analogia al Tribunale federale laddove esso svolga compiti amministrativi o mansioni connesse alla vigilanza sul Tribunale amministrativo federale o sul Tribunale penale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_28"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 1: Statuto e organizzazione, Sezione 3: Organizzazione e amministrazione, Principio di trasparenza",
+        "citation": "Art. 28 cpv. 2 LTF",
+        "content": "Il Tribunale federale designa un organo di ricorso che pronuncia sui ricorsi contro le sue decisioni concernenti l’accesso a documenti ufficiali. Può prevedere che non venga svolta una procedura di conciliazione; in tal caso, sulla domanda di accedere ai documenti ufficiali si pronuncia con decisione ricorribile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_28"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 1: Competenza, Esame",
+        "citation": "Art. 29 cpv. 1 LTF",
+        "content": "Il Tribunale federale esamina d’ufficio la sua competenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_29"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 1: Competenza, Esame",
+        "citation": "Art. 29 cpv. 2 LTF",
+        "content": "In caso di dubbio, procede a uno scambio di opinioni con l’autorità che presume competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_29"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 1: Competenza, Incompetenza",
+        "citation": "Art. 30 cpv. 1 LTF",
+        "content": "Se si ritiene incompetente, il Tribunale federale pronuncia la non entrata nel merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_30"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 1: Competenza, Incompetenza",
+        "citation": "Art. 30 cpv. 2 LTF",
+        "content": "Se da uno scambio di opinioni risulta che è competente un’altra autorità o se la competenza di un’altra autorità federale appare verosimile, il Tribunale federale trasmette la causa a tale autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_30"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 1: Competenza, Questioni pregiudiziali",
+        "citation": "Art. 31 LTF",
+        "content": "Se è competente nel merito, il Tribunale federale giudica anche sulle questioni pregiudiziali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_31"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Giudice dell’istruzione",
+        "citation": "Art. 32 cpv. 1 LTF",
+        "content": "Il presidente della corte dirige il procedimento quale giudice dell’istruzione sino alla pronuncia della sentenza; può delegare questo compito a un altro giudice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_32"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Giudice dell’istruzione",
+        "citation": "Art. 32 cpv. 2 LTF",
+        "content": "Il giudice dell’istruzione decide quale giudice unico circa lo stralcio dal ruolo delle cause divenute prive di oggetto, ritirate o risolte tramite transazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_32"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Giudice dell’istruzione",
+        "citation": "Art. 32 cpv. 3 LTF",
+        "content": "Le decisioni del giudice dell’istruzione non sono impugnabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_32"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Disciplina",
+        "citation": "Art. 33 cpv. 1 LTF",
+        "content": "Chiunque, durante il procedimento dinanzi al Tribunale federale, offende le convenienze o turba l’andamento della causa, è punito con l’ammonimento o con la multa disciplinare fino a 1000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_33"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Disciplina",
+        "citation": "Art. 33 cpv. 2 LTF",
+        "content": "In caso di malafede o temerarietà processuale, la parte e il suo patrocinatore possono essere puniti con la multa disciplinare fino a 2000 franchi e, in caso di recidiva, fino a 5000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_33"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 2: Direzione del processo, Disciplina",
+        "citation": "Art. 33 cpv. 3 LTF",
+        "content": "Il giudice che presiede un’udienza può far espellere dalla sala le persone che non ottemperano ai suoi ordini e punirle con la multa disciplinare fino a 1000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_33"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Motivi di ricusazione",
+        "citation": "Art. 34 cpv. 1 LTF",
+        "content": "I giudici e i cancellieri si ricusano se:\na. hanno un interesse personale nella causa;\nb. hanno partecipato alla medesima causa in altra veste, segnatamente come membri di un’autorità, consulenti giuridici di una parte, periti o testimoni;\nc. sono coniugi o partner registrati di una parte, del suo patrocinatore o di una persona che ha partecipato alla medesima causa come membro dell’autorità inferiore ovvero convivono stabilmente con loro;\nd. sono parenti o affini in linea retta, o in linea collaterale fino al terzo grado, con una parte, il suo patrocinatore o una persona che ha partecipato alla medesima causa come membro dell’autorità inferiore;\ne. per altri motivi, segnatamente a causa di rapporti di stretta amicizia o di personale inimicizia con una parte o il suo patrocinatore, potrebbero avere una prevenzione nella causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_34"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Motivi di ricusazione",
+        "citation": "Art. 34 cpv. 2 LTF",
+        "content": "La partecipazione a un procedimento anteriore del Tribunale federale non è in sé un motivo di ricusazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_34"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Obbligo di comunicare",
+        "citation": "Art. 35 LTF",
+        "content": "Il giudice o cancelliere che si trovi in un caso di ricusazione deve comunicarlo tempestivamente al presidente della corte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_35"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Domanda di ricusazione",
+        "citation": "Art. 36 cpv. 1 LTF",
+        "content": "La parte che intende chiedere la ricusazione di un giudice o cancelliere deve presentare una domanda scritta al Tribunale federale non appena viene a conoscenza del motivo di ricusazione. Deve rendere verosimili i fatti su cui si fonda la domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_36"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Domanda di ricusazione",
+        "citation": "Art. 36 cpv. 2 LTF",
+        "content": "Il giudice o cancelliere interessato si esprime sul motivo di ricusazione invocato dalla parte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_36"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Decisione",
+        "citation": "Art. 37 cpv. 1 LTF",
+        "content": "Se il motivo di ricusazione è contestato dal giudice o cancelliere interessato o da un altro membro della corte, quest’ultima decide in assenza dell’interessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_37"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Decisione",
+        "citation": "Art. 37 cpv. 2 LTF",
+        "content": "La decisione può essere presa senza che sia sentita la controparte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_37"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Decisione",
+        "citation": "Art. 37 cpv. 3 LTF",
+        "content": "Se il numero dei giudici di cui è domandata la ricusazione è tale da rendere impossibile una deliberazione valida, il presidente del Tribunale federale designa per sorteggio, tra i presidenti dei tribunali superiori dei Cantoni non interessati nella causa, tanti giudici straordinari non di carriera necessari per decidere sulla ricusazione e, all’occorrenza, giudicare la causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_37"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Violazione delle norme sulla ricusazione",
+        "citation": "Art. 38 cpv. 1 LTF",
+        "content": "Gli atti ai quali ha partecipato una persona tenuta a ricusarsi sono annullati se una parte lo domanda entro cinque giorni da quello in cui è venuta a conoscenza del motivo di ricusazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_38"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Violazione delle norme sulla ricusazione",
+        "citation": "Art. 38 cpv. 2 LTF",
+        "content": "Le misure probatorie non rinnovabili possono essere prese in considerazione dall’autorità cui compete la decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_38"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 3: Ricusazione, Violazione delle norme sulla ricusazione",
+        "citation": "Art. 38 cpv. 3 LTF",
+        "content": "Se il motivo di ricusazione è scoperto soltanto dopo la chiusura del procedimento, si applicano le disposizioni sulla revisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_38"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Recapito",
+        "citation": "Art. 39 cpv. 1 LTF",
+        "content": "Le parti devono comunicare al Tribunale federale il loro domicilio o la loro sede.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_39"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Recapito",
+        "citation": "Art. 39 cpv. 2 LTF",
+        "content": "Possono inoltre indicare un recapito elettronico e consentire che le notificazioni siano fatte loro per via elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_39"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Recapito",
+        "citation": "Art. 39 cpv. 3 LTF",
+        "content": "Le parti domiciliate all’estero devono designare un recapito in Svizzera. Se non ottemperano a tale incombenza, le notificazioni loro destinate possono essere omesse o avvenire mediante pubblicazione in un foglio ufficiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_39"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Patrocinatori",
+        "citation": "Art. 40 cpv. 1 LTF",
+        "content": "Nelle cause civili e penali sono ammessi come patrocinatori dinanzi al Tribunale federale soltanto gli avvocati che la legge del 23 giugno 2000 sugli avvocati o un trattato internazionale autorizza a esercitare la rappresentanza in giudizio in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_40"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Patrocinatori",
+        "citation": "Art. 40 cpv. 2 LTF",
+        "content": "I patrocinatori devono giustificare il loro mandato mediante procura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_40"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Incapacità di stare direttamente in giudizio",
+        "citation": "Art. 41 cpv. 1 LTF",
+        "content": "Se una parte non è manifestamente in grado di far valere da sé le proprie ragioni in giudizio, il Tribunale federale può invitarla a designare un patrocinatore. Se non dà seguito a tale invito entro il termine impartitole, il Tribunale le designa un avvocato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_41"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Incapacità di stare direttamente in giudizio",
+        "citation": "Art. 41 cpv. 2 LTF",
+        "content": "L’avvocato designato dal Tribunale federale ha diritto a un’indennità adeguata, versata dalla cassa del Tribunale, in quanto le spese di patrocinio non possano essere coperte dalle spese ripetibili e la parte sia insolvibile. Se in seguito è in grado di farlo, la parte è tenuta a risarcire la cassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_41"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 1 LTF",
+        "content": "Gli atti scritti devono essere redatti in una lingua ufficiale, contenere le conclusioni, i motivi e l’indicazione dei mezzi di prova ed essere firmati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 2 LTF",
+        "content": "Nei motivi occorre spiegare in modo conciso perché l’atto impugnato viola il diritto. Qualora il ricorso sia ammissibile soltanto se concerne una questione di diritto di importanza fondamentale o un caso particolarmente importante per altri motivi, occorre spiegare perché la causa adempie siffatta condizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 3 LTF",
+        "content": "Se sono in possesso della parte, i documenti indicati come mezzi di prova devono essere allegati; se l’atto scritto è diretto contro una decisione, anche questa deve essere allegata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 4 LTF",
+        "content": "In caso di trasmissione per via elettronica, la parte o il suo patrocinatore deve munire l’atto scritto di una firma elettronica qualificata secondo la legge del 18 marzo 2016 sulla firma elettronica. Il Tribunale federale determina mediante regolamento:\na. il formato dell’atto scritto e dei relativi allegati;\nb. le modalità di trasmissione;\nc. le condizioni alle quali può essere richiesta la trasmissione successiva di documenti cartacei in caso di problemi tecnici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 5 LTF",
+        "content": "Se mancano la firma della parte o del suo patrocinatore, la procura dello stesso o gli allegati prescritti, o se il patrocinatore non è autorizzato in quanto tale, è fissato un congruo termine per sanare il vizio, con la comminatoria che altrimenti l’atto scritto non sarà preso in considerazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 6 LTF",
+        "content": "Gli atti illeggibili, sconvenienti, incomprensibili, prolissi o non redatti in una lingua ufficiale possono essere del pari rinviati al loro autore affinché li modifichi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Atti scritti",
+        "citation": "Art. 42 cpv. 7 LTF",
+        "content": "Gli atti scritti dovuti a condotta processuale da querulomane o altrimenti abusiva sono inammissibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_42"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 4: Parti, patrocinatori, atti scritti, Memoria integrativa",
+        "citation": "Art. 43 LTF",
+        "content": "Il Tribunale federale accorda alla parte che ne abbia fatto richiesta nel ricorso un congruo termine per completarne la motivazione se:\na. ritiene ammissibile un ricorso interposto in materia di assistenza giudiziaria internazionale;\nb. l’estensione straordinaria o la particolare difficoltà della causa lo richiede.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_43"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Decorrenza",
+        "citation": "Art. 44 cpv. 1 LTF",
+        "content": "I termini la cui decorrenza dipende da una notificazione o dal verificarsi di un evento decorrono a partire dal giorno successivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_44"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Decorrenza",
+        "citation": "Art. 44 cpv. 2 LTF",
+        "content": "Una notificazione recapitabile soltanto dietro firma del destinatario o di un terzo autorizzato a riceverla è reputata avvenuta al più tardi il settimo giorno dopo il primo tentativo di consegna infruttuoso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_44"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Scadenza",
+        "citation": "Art. 45 cpv. 1 LTF",
+        "content": "Se l’ultimo giorno del termine è un sabato, una domenica o un giorno riconosciuto festivo dal diritto federale o cantonale, il termine scade il primo giorno feriale seguente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_45"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Scadenza",
+        "citation": "Art. 45 cpv. 2 LTF",
+        "content": "È determinante il diritto del Cantone ove ha domicilio o sede la parte o il suo patrocinatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_45"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Sospensione",
+        "citation": "Art. 46 cpv. 1 LTF",
+        "content": "I termini stabiliti in giorni dalla legge o dal giudice sono sospesi:\na. dal settimo giorno precedente la Pasqua al settimo giorno successivo alla Pasqua incluso;\nb. dal 15 luglio al 15 agosto incluso;\nc. dal 18 dicembre al 2 gennaio incluso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_46"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Sospensione",
+        "citation": "Art. 46 cpv. 2 LTF",
+        "content": "Il capoverso 1 non si applica nei procedimenti concernenti:\na. l’effetto sospensivo e altre misure provvisionali; \nb. l’esecuzione cambiaria; \nc. i diritti politici (art. 82 lett. c);\nd. l’assistenza giudiziaria internazionale in materia penale e l’assistenza amministrativa internazionale in materia fiscale;\ne. gli appalti pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_46"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Proroga",
+        "citation": "Art. 47 cpv. 1 LTF",
+        "content": "I termini stabiliti dalla legge non possono essere prorogati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_47"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Proroga",
+        "citation": "Art. 47 cpv. 2 LTF",
+        "content": "I termini stabiliti dal giudice possono essere prorogati per motivi sufficienti se ne è fatta domanda prima della scadenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_47"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Osservanza",
+        "citation": "Art. 48 cpv. 1 LTF",
+        "content": "Gli atti scritti devono essere consegnati al Tribunale federale oppure, all’indirizzo di questo, alla posta svizzera o a una rappresentanza diplomatica o consolare svizzera al più tardi l’ultimo giorno del termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_48"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Osservanza",
+        "citation": "Art. 48 cpv. 2 LTF",
+        "content": "In caso di trasmissione per via elettronica, per il rispetto di un termine è determinante il momento in cui è rilasciata la ricevuta attestante che la parte ha eseguito tutte le operazioni necessarie per la trasmissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_48"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Osservanza",
+        "citation": "Art. 48 cpv. 3 LTF",
+        "content": "Il termine è reputato osservato anche se l’atto scritto perviene in tempo utile all’autorità inferiore o a un’autorità federale o cantonale incompetente. In tal caso, l’atto deve essere trasmesso senza indugio al Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_48"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Osservanza",
+        "citation": "Art. 48 cpv. 4 LTF",
+        "content": "Il termine per il versamento di anticipi o la prestazione di garanzie è osservato se, prima della sua scadenza, l’importo dovuto è versato alla posta svizzera, o addebitato a un conto postale o bancario in Svizzera, in favore del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_48"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Notificazione viziata",
+        "citation": "Art. 49 LTF",
+        "content": "Una notificazione viziata, segnatamente l’indicazione inesatta o incompleta dei rimedi giuridici o la mancanza di tale indicazione, qualora sia prescritta, non può causare alcun pregiudizio alle parti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_49"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Restituzione per inosservanza",
+        "citation": "Art. 50 cpv. 1 LTF",
+        "content": "Se, per un motivo diverso dalla notificazione viziata, una parte o il suo patrocinatore sono stati impediti senza loro colpa di agire nel termine stabilito, quest’ultimo è restituito in quanto, entro 30 giorni dalla cessazione dell’impedimento, la parte ne faccia domanda motivata e compia l’atto omesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_50"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 5: Termini, Restituzione per inosservanza",
+        "citation": "Art. 50 cpv. 2 LTF",
+        "content": "La restituzione del termine può essere accordata anche dopo la notificazione della sentenza; in tal caso la sentenza è annullata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_50"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Calcolo",
+        "citation": "Art. 51 cpv. 1 LTF",
+        "content": "Il valore litigioso à determinato:\na. in caso di ricorso contro una decisione finale, dalle conclusioni rimaste controverse dinanzi all’autorità inferiore;\nb. in caso di ricorso contro una decisione parziale, dall’insieme delle conclusioni che erano controverse dinanzi all’autorità che ha pronunciato la decisione;\nc. in caso di ricorso contro decisioni pregiudiziali e incidentali, dalle conclusioni che sono controverse dinanzi all’autorità competente nel merito;\nd. in caso di azione, dalle conclusioni dell’attore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_51"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Calcolo",
+        "citation": "Art. 51 cpv. 2 LTF",
+        "content": "Se nelle conclusioni non è chiesto il pagamento di una somma di denaro determinata, il Tribunale federale stabilisce il valore litigioso secondo il suo apprezzamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_51"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Calcolo",
+        "citation": "Art. 51 cpv. 3 LTF",
+        "content": "Gli interessi, i frutti, le spese giudiziarie e ripetibili fatti valere come pretese accessorie, i diritti riservati e le spese di pubblicazione della sentenza non entrano in linea di conto nella determinazione del valore litigioso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_51"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Calcolo",
+        "citation": "Art. 51 cpv. 4 LTF",
+        "content": "Le rendite e prestazioni periodiche hanno il valore del capitale che rappresentano. Se la loro durata è incerta o illimitata, è considerato valore del capitale l’importo annuo della rendita o della prestazione moltiplicato per venti o, se si tratta di rendite vitalizie, il valore attuale del capitale corrispondente alla rendita.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_51"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Pluralità di pretese",
+        "citation": "Art. 52 LTF",
+        "content": "Nelle cause di carattere pecuniario le conclusioni di una parte o di litisconsorti sono sommate, sempreché non si escludano a vicenda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_52"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Domanda riconvenzionale",
+        "citation": "Art. 53 cpv. 1 LTF",
+        "content": "L’importo della domanda riconvenzionale non è sommato con quello della domanda principale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_53"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 6: Valore litigioso, Domanda riconvenzionale",
+        "citation": "Art. 53 cpv. 2 LTF",
+        "content": "Qualora le pretese della domanda principale e quelle della domanda riconvenzionale si escludano a vicenda e una della due domande non raggiunga il valore litigioso minimo, tale valore è reputato raggiunto anche per quest’ultima se il ricorso verte su entrambe le domande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_53"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 7: Lingua del procedimento",
+        "citation": "Art. 54 cpv. 1 LTF",
+        "content": "Il procedimento si svolge in una delle lingue ufficiali (tedesco, francese, italiano, rumantsch grischun), di regola nella lingua della decisione impugnata. Se le parti utilizzano un’altra lingua ufficiale, il procedimento può svolgersi in tale lingua.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_54"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 7: Lingua del procedimento",
+        "citation": "Art. 54 cpv. 2 LTF",
+        "content": "Nei procedimenti promossi mediante azione è tenuto conto della lingua delle parti, sempreché si tratti di una lingua ufficiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_54"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 7: Lingua del procedimento",
+        "citation": "Art. 54 cpv. 3 LTF",
+        "content": "Se una parte produce documenti non redatti in una lingua ufficiale, il Tribunale federale può, previo assenso delle altre parti, rinunciare a esigerne la traduzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_54"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 7: Lingua del procedimento",
+        "citation": "Art. 54 cpv. 4 LTF",
+        "content": "Per il rimanente, il Tribunale federale ordina una traduzione se necessario.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_54"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Principio",
+        "citation": "Art. 55 cpv. 1 LTF",
+        "content": "La procedura probatoria è retta dagli articoli 36, 37 e 39–65 della legge del 4 dicembre 1947 di procedura civile federale (PC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_55"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Principio",
+        "citation": "Art. 55 cpv. 2 LTF",
+        "content": "Il giudice dell’istruzione può prendere lui stesso le misure probatorie necessarie o demandarne l’adozione alle autorità federali o cantonali competenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_55"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Principio",
+        "citation": "Art. 55 cpv. 3 LTF",
+        "content": "Procede all’audizione di testimoni, alle ispezioni oculari e all’interrogatorio delle parti insieme con un secondo giudice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_55"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Presenza delle parti e consultazione dei documenti",
+        "citation": "Art. 56 cpv. 1 LTF",
+        "content": "Le parti hanno diritto di assistere all’assunzione delle prove e di consultare i documenti prodotti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_56"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Presenza delle parti e consultazione dei documenti",
+        "citation": "Art. 56 cpv. 2 LTF",
+        "content": "Se la tutela di interessi pubblici o privati preponderanti lo esige, il Tribunale federale prende conoscenza di un mezzo di prova in assenza delle parti o delle controparti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_56"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 8: Procedura probatoria, Presenza delle parti e consultazione dei documenti",
+        "citation": "Art. 56 cpv. 3 LTF",
+        "content": "Se in tal caso intende utilizzare il mezzo di prova a pregiudizio di una parte, il Tribunale federale gliene comunica il contenuto essenziale per la causa e le dà la possibilità di esprimersi e di indicare controprove.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_56"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Dibattimento",
+        "citation": "Art. 57 LTF",
+        "content": "Il presidente della corte può ordinare un dibattimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_57"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Deliberazione",
+        "citation": "Art. 58 cpv. 1 LTF",
+        "content": "Il Tribunale federale delibera oralmente se:a. il presidente della corte lo ordina o un giudice lo chiede;b. non vi è unanimità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_58"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Deliberazione",
+        "citation": "Art. 58 cpv. 2 LTF",
+        "content": "Negli altri casi, il Tribunale federale giudica mediante circolazione degli atti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_58"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Pubblicità",
+        "citation": "Art. 59 cpv. 1 LTF",
+        "content": "I dibattimenti come pure le deliberazioni orali e le successive votazioni sono pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_59"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Pubblicità",
+        "citation": "Art. 59 cpv. 2 LTF",
+        "content": "Se vi è motivo di temere che siano minacciati la sicurezza, l’ordine pubblico o i buoni costumi o se lo giustifica l’interesse di un partecipante al procedimento, il Tribunale federale può ordinare che si proceda in tutto o in parte a porte chiuse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_59"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Pubblicità",
+        "citation": "Art. 59 cpv. 3 LTF",
+        "content": "Il Tribunale federale mette a disposizione del pubblico il dispositivo delle sue sentenze non deliberate pubblicamente per 30 giorni dopo la loro notificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_59"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Notificazione della sentenza",
+        "citation": "Art. 60 cpv. 1 LTF",
+        "content": "Il testo integrale della sentenza, con l’indicazione del nome dei giudici e del cancelliere, è notificato alle parti, all’autorità inferiore e a eventuali altri partecipanti al procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_60"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Notificazione della sentenza",
+        "citation": "Art. 60 cpv. 2 LTF",
+        "content": "Se ha deliberato la sentenza oralmente, il Tribunale federale ne notifica senza indugio il dispositivo ai partecipanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_60"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Notificazione della sentenza",
+        "citation": "Art. 60 cpv. 3 LTF",
+        "content": "Previo assenso dei destinatari, le decisioni possono essere notificate per via elettronica. Sono munite di una firma elettronica secondo la legge del 18 marzo 2016 sulla firma elettronica. Il Tribunale federale determina mediante regolamento:\na. la firma da utilizzare;\nb. il formato della decisione e dei relativi allegati;\nc. le modalità di trasmissione;\nd. il momento in cui la decisione è considerata notificata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_60"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 9: Procedura di giudizio, Giudicato",
+        "citation": "Art. 61 LTF",
+        "content": "Le sentenze del Tribunale federale passano in giudicato il giorno in cui sono pronunciate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_61"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Garanzie per spese giudiziarie e ripetibili",
+        "citation": "Art. 62 cpv. 1 LTF",
+        "content": "La parte che adisce il Tribunale federale deve versare un anticipo equivalente alle spese giudiziarie presunte. Se motivi particolari lo giustificano, il Tribunale può rinunciare in tutto o in parte a esigere l’anticipo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_62"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Garanzie per spese giudiziarie e ripetibili",
+        "citation": "Art. 62 cpv. 2 LTF",
+        "content": "Se non ha un domicilio fisso in Svizzera o la sua insolvibilità è accertata, la parte può essere obbligata, su domanda della controparte, a prestare garanzie per eventuali spese ripetibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_62"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Garanzie per spese giudiziarie e ripetibili",
+        "citation": "Art. 62 cpv. 3 LTF",
+        "content": "Il giudice dell’istruzione stabilisce un congruo termine per il versamento dell’anticipo o la prestazione delle garanzie. Se il termine scade infruttuoso, impartisce un termine suppletorio. Se l’anticipo non è versato o le garanzie non sono prestate nemmeno nel termine suppletorio, il Tribunale federale non entra nel merito dell’istanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_62"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Anticipazione dei disborsi",
+        "citation": "Art. 63 cpv. 1 LTF",
+        "content": "Ciascuna parte deve anticipare i disborsi causati dalle proprie richieste durante il procedimento e, proporzionalmente, quelli causati da richieste congiunte o da atti ordinati d’ufficio dal Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_63"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Anticipazione dei disborsi",
+        "citation": "Art. 63 cpv. 2 LTF",
+        "content": "Il giudice dell’istruzione stabilisce un congruo termine per il versamento dell’anticipo. Se il termine scade infruttuoso, impartisce un termine suppletorio. Se l’anticipo non è versato neppure nel termine suppletorio, l’atto per cui è stato chiesto non è eseguito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_63"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Gratuito patrocinio",
+        "citation": "Art. 64 cpv. 1 LTF",
+        "content": "Se una parte non dispone dei mezzi necessari e le sue conclusioni non sembrano prive di probabilità di successo, il Tribunale federale la dispensa, su domanda, dal pagamento delle spese giudiziarie e dalla prestazione di garanzie per le spese ripetibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_64"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Gratuito patrocinio",
+        "citation": "Art. 64 cpv. 2 LTF",
+        "content": "Se è necessario per tutelare i diritti di tale parte, il Tribunale federale le designa un avvocato. Questi ha diritto a un’indennità adeguata, versata dalla cassa del Tribunale, in quanto le spese di patrocinio non possano essere coperte dalle spese ripetibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_64"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Gratuito patrocinio",
+        "citation": "Art. 64 cpv. 3 LTF",
+        "content": "La corte decide sulla domanda di gratuito patrocinio nella composizione di tre giudici. Rimangono salvi i casi trattati in procedura semplificata secondo l’articolo 108. Il gratuito patrocinio può essere concesso dal giudice dell’istruzione se è indubbio che le relative condizioni sono adempiute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_64"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Gratuito patrocinio",
+        "citation": "Art. 64 cpv. 4 LTF",
+        "content": "Se in seguito è in grado di farlo, la parte è tenuta a risarcire la cassa del Tribunale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_64"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese giudiziarie",
+        "citation": "Art. 65 cpv. 1 LTF",
+        "content": "Le spese giudiziarie comprendono la tassa di giustizia, l’emolumento per la copia di atti scritti, le spese per le traduzioni in o da una lingua non ufficiale e le indennità versate a periti e testimoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_65"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese giudiziarie",
+        "citation": "Art. 65 cpv. 2 LTF",
+        "content": "La tassa di giustizia è stabilita in funzione del valore litigioso, dell’ampiezza e della difficoltà della causa, del modo di condotta processuale e della situazione finanziaria delle parti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_65"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese giudiziarie",
+        "citation": "Art. 65 cpv. 3 LTF",
+        "content": "Di regola, il suo importo è di:\na. 200 a 5000 franchi nelle controversie senza interesse pecuniario;\nb. 200 a 100 000 franchi nelle altre controversie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_65"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese giudiziarie",
+        "citation": "Art. 65 cpv. 4 LTF",
+        "content": "È di 200 a 1000 franchi, a prescindere dal valore litigioso, nelle controversie:\na. concernenti prestazioni di assicurazioni sociali;\nb. concernenti discriminazioni fondate sul sesso;\nc. risultanti da un rapporto di lavoro, sempreché il valore litigioso non superi 30 000 franchi;\nd. secondo gli articoli 7 e 8 della legge del 13 dicembre 2002 sui disabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_65"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese giudiziarie",
+        "citation": "Art. 65 cpv. 5 LTF",
+        "content": "Se motivi particolari lo giustificano, il Tribunale federale può aumentare tali importi, ma al massimo fino al doppio nei casi di cui al capoverso 3 e fino a 10 000 franchi nei casi di cui al capoverso 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_65"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Onere e ripartizione delle spese giudiziarie",
+        "citation": "Art. 66 cpv. 1 LTF",
+        "content": "Di regola, le spese giudiziarie sono addossate alla parte soccombente. Se le circostanze lo giustificano, il Tribunale federale può ripartirle in modo diverso o rinunciare ad addossarle alle parti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_66"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Onere e ripartizione delle spese giudiziarie",
+        "citation": "Art. 66 cpv. 2 LTF",
+        "content": "In caso di desistenza o di transazione, il Tribunale federale può rinunciare in tutto o in parte a riscuotere le spese giudiziarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_66"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Onere e ripartizione delle spese giudiziarie",
+        "citation": "Art. 66 cpv. 3 LTF",
+        "content": "Le spese inutili sono pagate da chi le causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_66"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Onere e ripartizione delle spese giudiziarie",
+        "citation": "Art. 66 cpv. 4 LTF",
+        "content": "Alla Confederazione, ai Cantoni, ai Comuni e alle organizzazioni incaricate di compiti di diritto pubblico non possono di regola essere addossate spese giudiziarie se, senza avere alcun interesse pecuniario, si rivolgono al Tribunale federale nell’esercizio delle loro attribuzioni ufficiali o se le loro decisioni in siffatte controversie sono impugnate mediante ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_66"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Onere e ripartizione delle spese giudiziarie",
+        "citation": "Art. 66 cpv. 5 LTF",
+        "content": "Salvo diversa disposizione, le spese giudiziarie addossate congiuntamente a più persone sono da queste sostenute in parti eguali e con responsabilità solidale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_66"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese del procedimento anteriore",
+        "citation": "Art. 67 LTF",
+        "content": "Se modifica la decisione impugnata, il Tribunale federale può ripartire diversamente le spese del procedimento anteriore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_67"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese ripetibili",
+        "citation": "Art. 68 cpv. 1 LTF",
+        "content": "Nella sentenza il Tribunale federale determina se e in che misura le spese della parte vincente debbano essere sostenute da quella soccombente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_68"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese ripetibili",
+        "citation": "Art. 68 cpv. 2 LTF",
+        "content": "La parte soccombente è di regola tenuta a risarcire alla parte vincente, secondo la tariffa del Tribunale federale, tutte le spese necessarie causate dalla controversia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_68"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese ripetibili",
+        "citation": "Art. 68 cpv. 3 LTF",
+        "content": "Alla Confederazione, ai Cantoni, ai Comuni e alle organizzazioni incaricate di compiti di diritto pubblico non sono di regola accordate spese ripetibili se vincono una causa nell’esercizio delle loro attribuzioni ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_68"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese ripetibili",
+        "citation": "Art. 68 cpv. 4 LTF",
+        "content": "Si applica per analogia l’articolo 66 capoversi 3 e 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_68"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 10: Spese, Spese ripetibili",
+        "citation": "Art. 68 cpv. 5 LTF",
+        "content": "Il Tribunale federale conferma, annulla o modifica, a seconda dell’esito del procedimento, la decisione sulle spese ripetibili pronunciata dall’autorità inferiore. Può stabilire esso stesso l’importo di tali spese secondo la tariffa federale o cantonale applicabile o incaricarne l’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_68"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 11: Esecuzione, Sentenze che impongono una prestazione pecuniaria",
+        "citation": "Art. 69 LTF",
+        "content": "Le sentenze che impongono il pagamento di una somma di denaro o la prestazione di garanzie pecuniarie sono eseguite conformemente alla legge federale dell’11 aprile 1889 sull’esecuzione e sul fallimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_69"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 11: Esecuzione, Altre sentenze",
+        "citation": "Art. 70 cpv. 1 LTF",
+        "content": "Le sentenze del Tribunale federale che non impongono il pagamento di una somma di denaro o la prestazione di garanzie pecuniarie sono eseguite dai Cantoni nello stesso modo di quelle passate in giudicato dei loro tribunali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_70"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 11: Esecuzione, Altre sentenze",
+        "citation": "Art. 70 cpv. 2 LTF",
+        "content": "Le sentenze sono invece eseguite conformemente alle seguenti disposizioni:\na. articoli 41–43 della legge federale del 20 dicembre 1968 sulla procedura amministrativa, se il Tribunale federale le ha pronunciate in una causa che in prima istanza è di competenza di un’autorità amministrativa federale;\nb. articoli 74–78 PC, se il Tribunale federale le ha pronunciate su azione;\nc. articoli 74 e 75 della legge del 19 marzo 2010 sull’organizzazione delle autorità penali, se il Tribunale federale le ha pronunciate in una causa penale che sottostà alla giurisdizione federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_70"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 11: Esecuzione, Altre sentenze",
+        "citation": "Art. 70 cpv. 4 LTF",
+        "content": "In caso di esecuzione viziata può essere interposto ricorso al Consiglio federale. Quest’ultimo adotta le misure necessarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_70"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 2: Disposizioni generali di procedura, Sezione 12: Disposizioni suppletive",
+        "citation": "Art. 71 LTF",
+        "content": "Nei casi per i quali la presente legge non prevede disposizioni speciali sulla procedura si applicano per analogia le prescrizioni della PC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_71"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Principio",
+        "citation": "Art. 72 cpv. 1 LTF",
+        "content": "Il Tribunale federale giudica i ricorsi contro le decisioni pronunciate in materia civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_72"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Principio",
+        "citation": "Art. 72 cpv. 2 LTF",
+        "content": "Al ricorso in materia civile soggiacciono anche:\na. le decisioni in materia di esecuzione e fallimento;\nb. le decisioni in rapporto diretto con il diritto civile pronunciate in applicazione di norme di diritto pubblico, segnatamente le decisioni:\n1. sul riconoscimento e l’esecuzione di decisioni e sull’assistenza giudiziaria in materia civile,\n2. sulla tenuta del registro fondiario, dei registri dello stato civile, del registro di commercio e dei registri in materia di marchi, disegni e modelli, brevetti d’invenzione, varietà vegetali e topografie,\n3. sull’autorizzazione al cambiamento del nome,\n4. in materia di vigilanza sulle fondazioni, eccettuati gli istituti di previdenza e di libero passaggio,\n5. in materia di vigilanza sugli esecutori testamentari e altri rappresentanti previsti dal diritto successorio,\n6. in materia di protezione dei minori e degli adulti,\n7. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_72"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Eccezione",
+        "citation": "Art. 73 LTF",
+        "content": "Il ricorso è inammissibile contro le decisioni pronunciate nell’ambito della procedura di opposizione alla registrazione di un marchio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_73"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Valore litigioso minimo",
+        "citation": "Art. 74 cpv. 1 LTF",
+        "content": "Nelle cause di carattere pecuniario il ricorso è ammissibile soltanto se il valore litigioso ammonta almeno a:\na. 15 000 franchi nelle controversie in materia di diritto del lavoro e di locazione;\nb. 30 000 franchi in tutti gli altri casi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_74"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Valore litigioso minimo",
+        "citation": "Art. 74 cpv. 2 LTF",
+        "content": "Quando il valore litigioso non raggiunge l’importo determinante secondo il capoverso 1, il ricorso è ammissibile:\na. se la controversia concerne una questione di diritto di importanza fondamentale;\nb. se una legge federale prevede un’istanza cantonale unica;\nc. contro le decisioni delle autorità cantonali di vigilanza in materia di esecuzione e fallimento;\nd. contro le decisioni del giudice del fallimento e del concordato;\ne.  contro le decisioni del Tribunale federale dei brevetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_74"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Autorità inferiori",
+        "citation": "Art. 75 cpv. 1 LTF",
+        "content": "Il ricorso è ammissibile contro le decisioni pronunciate dalle autorità cantonali di ultima istanza, dal Tribunale amministrativo federale e dal Tribunale federale dei brevetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_75"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Autorità inferiori",
+        "citation": "Art. 75 cpv. 2 LTF",
+        "content": "I Cantoni istituiscono tribunali superiori quali autorità cantonali di ultima istanza. Tali tribunali giudicano su ricorso, salvo nei casi in cui:\na. una legge federale prevede un’istanza cantonale unica;\nb. un tribunale specializzato nelle controversie di diritto commerciale giudica in istanza cantonale unica;\nc. è proposta loro direttamente, con il consenso di tutte le parti, un’azione con un valore litigioso di almeno 100 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_75"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Diritto di ricorso",
+        "citation": "Art. 76 cpv. 1 LTF",
+        "content": "Ha diritto di interporre ricorso in materia civile chi:\na. ha partecipato al procedimento dinanzi all’autorità inferiore o è stato privato della possibilità di farlo; e\nb. è particolarmente toccato dalla decisione impugnata e ha un interesse degno di protezione all’annullamento o alla modifica della stessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_76"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Diritto di ricorso",
+        "citation": "Art. 76 cpv. 2 LTF",
+        "content": "Il diritto di ricorrere contro le decisioni di cui all’articolo 72 capoverso 2 spetta inoltre alla Cancelleria federale, ai dipartimenti federali o, in quanto lo preveda il diritto federale, ai servizi loro subordinati, se la decisione impugnata viola la legislazione federale nella sfera dei loro compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_76"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Giurisdizione arbitrale",
+        "citation": "Art. 77 cpv. 1 LTF",
+        "content": "A prescindere dal valore litigioso, contro le decisioni arbitrali è ammesso il ricorso in materia civile:\na. nella giurisdizione arbitrale internazionale, alle condizioni di cui agli articoli 190–192 della legge federale del 18 dicembre 1987 sul diritto internazionale privato;\nb. nella giurisdizione arbitrale nazionale, alle condizioni di cui agli articoli 389–395 del Codice di procedura civile del 19 dicembre 2008.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_77"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Giurisdizione arbitrale",
+        "citation": "Art. 77 cpv. 2 LTF",
+        "content": "In questi casi non sono applicabili gli articoli 48 capoverso 3, 90–98, 103 capoverso 2, 105 capoverso 2 e 106 capoverso 1, nonché l’articolo 107 capoverso 2 per quanto quest’ultimo permetta al Tribunale federale di giudicare esso stesso nel merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_77"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Giurisdizione arbitrale",
+        "citation": "Art. 77 cpv. 2bis LTF",
+        "content": "Gli atti scritti possono essere redatti in lingua inglese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_77"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 1: Ricorso in materia civile, Giurisdizione arbitrale",
+        "citation": "Art. 77 cpv. 3 LTF",
+        "content": "Il Tribunale federale esamina soltanto quelle censure che sono state sollevate e motivate nel ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_77"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Principio",
+        "citation": "Art. 78 cpv. 1 LTF",
+        "content": "Il Tribunale federale giudica i ricorsi contro le decisioni pronunciate in materia penale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_78"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Principio",
+        "citation": "Art. 78 cpv. 2 LTF",
+        "content": "Al ricorso in materia penale soggiacciono anche le decisioni concernenti:\na. le pretese civili trattate unitamente alla causa penale;\nb. l’esecuzione di pene e misure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_78"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Eccezione",
+        "citation": "Art. 79 LTF",
+        "content": "Il ricorso è inammissibile contro le decisioni della Corte dei reclami penali del Tribunale penale federale, eccetto che si tratti di decisioni in materia di provvedimenti coattivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_79"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Autorità inferiori",
+        "citation": "Art. 80 cpv. 1 LTF",
+        "content": "Il ricorso è ammissibile contro le decisioni delle autorità cantonali di ultima istanza e contro le decisioni della Corte dei reclami penali e della Corte d’appello del Tribunale penale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_80"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Autorità inferiori",
+        "citation": "Art. 80 cpv. 2 LTF",
+        "content": "I Cantoni istituiscono tribunali superiori quali autorità cantonali di ultima istanza. Tali tribunali giudicano su ricorso. Sono fatti salvi i casi in cui secondo il Codice di procedura penale del 5 ottobre 2007 (CPP) si pronuncia, quale istanza cantonale unica, un giudice dei provvedimenti coercitivi o un altro giudice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_80"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Diritto di ricorso",
+        "citation": "Art. 81 cpv. 1 LTF",
+        "content": "Ha diritto di interporre ricorso in materia penale chi:\na. ha partecipato al procedimento dinanzi all’autorità inferiore o è stato privato della possibilità di farlo; e\nb. ha un interesse giuridicamente protetto all’annullamento o alla modifica della decisione impugnata, segnatamente:\n1. l’imputato,\n2. il rappresentante legale dell’accusato,\n3. il pubblico ministero, salvo se si tratta di decisioni che ordinano, prorogano o mettono fine alla carcerazione preventiva o di sicurezza,\n4. ...\n5. l’accusatore privato, se la decisione impugnata può influire sul giudizio delle sue pretese civili,\n6. il querelante, per quanto trattasi del diritto di querela come tale,\n7. nelle cause penali amministrative secondo la legge federale del 22 marzo 1974 sul diritto penale amministrativo, il pubblico ministero della Confederazione e l’amministrazione interessata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_81"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Diritto di ricorso",
+        "citation": "Art. 81 cpv. 2 LTF",
+        "content": "Un’autorità federale è legittimata a ricorrere se il diritto federale prevede che la decisione deve esserle comunicata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_81"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 2: Ricorso in materia penale, Diritto di ricorso",
+        "citation": "Art. 81 cpv. 3 LTF",
+        "content": "Il diritto di ricorrere contro le decisioni di cui all’articolo 78 capoverso 2 lettera b spetta inoltre alla Cancelleria federale, ai dipartimenti federali o, in quanto lo preveda il diritto federale, ai servizi loro subordinati, se la decisione impugnata viola la legislazione federale nella sfera dei loro compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_81"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Principio",
+        "citation": "Art. 82 LTF",
+        "content": "Il Tribunale federale giudica i ricorsi:\na. contro le decisioni pronunciate in cause di diritto pubblico;\nb. contro gli atti normativi cantonali;\nc. concernenti il diritto di voto dei cittadini nonché le elezioni e votazioni popolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_82"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Eccezioni",
+        "citation": "Art. 83 LTF",
+        "content": "Il ricorso è inammissibile contro:\na. le decisioni in materia di sicurezza interna o esterna del Paese, neutralità, protezione diplomatica e altri affari esteri, in quanto il diritto internazionale non conferisca un diritto al giudizio da parte di un tribunale;\nb. le decisioni in materia di naturalizzazione ordinaria;\nc. le decisioni in materia di diritto degli stranieri concernenti:\n1. l’entrata in Svizzera,\n2. i permessi o autorizzazioni al cui ottenimento né il diritto federale né il diritto internazionale conferiscono un diritto,\n3. l’ammissione provvisoria,\n4. l’espulsione fondata sull’articolo 121 capoverso 2 della Costituzione federale e l’allontanamento,\n5. le deroghe alle condizioni d’ammissione,\n6. la proroga del permesso per frontalieri, il cambiamento di Cantone, il cambiamento d’impiego del titolare di un permesso per frontalieri, nonché il rilascio di documenti di viaggio a stranieri privi di documenti;\nd. le decisioni in materia d’asilo pronunciate:\n1. dal Tribunale amministrativo federale, salvo quelle che concernono persone contro le quali è pendente una domanda d’estradizione presentata dallo Stato che hanno abbandonato in cerca di protezione,\n2. da un’autorità cantonale inferiore e concernenti un permesso o un’autorizzazione al cui ottenimento né il diritto federale né il diritto internazionale conferiscono un diritto;\ne. le decisioni concernenti il rifiuto dell’autorizzazione a procedere penalmente contro membri di autorità o contro agenti della Confederazione;\nf. le decisioni in materia di appalti pubblici se:\n1. non si pone alcuna questione di diritto d’importanza fondamentale; sono fatti salvi i ricorsi contro gli appalti del Tribunale amministrativo federale, del Tribunale penale federale, del Tribunale federale dei brevetti, del Ministero pubblico della Confederazione e delle autorità giudiziarie cantonali superiori, o\n2. il valore stimato della commessa non raggiunge il valore soglia determinante secondo l’articolo 52 capoverso 1 in combinato disposto con l’allegato 4 numero 2 della legge federale del 21 giugno 2019 sugli appalti pubblici;\nfbis. le decisioni del Tribunale amministrativo federale concernenti decisioni secondo l’articolo 32i della legge del 20 marzo 2009 sul trasporto di viaggiatori;\ng. le decisioni in materia di rapporti di lavoro di diritto pubblico, in quanto concernano una controversia non patrimoniale, ma non la parità dei sessi; \nh. le decisioni concernenti l’assistenza amministrativa internazionale, eccettuata l’assistenza amministrativa in materia fiscale;\ni. le decisioni in materia di servizio militare, civile o di protezione civile;\nj. le decisioni in materia di approvvigionamento economico del Paese adottate in situazioni di grave penuria;\nk. le decisioni concernenti i sussidi al cui ottenimento la legislazione non conferisce un diritto;\nl. le decisioni concernenti l’imposizione di dazi operata in base alla classificazione tariffaria o al peso delle merci;\nm. le decisioni concernenti il condono o la dilazione del pagamento di tributi; in deroga alla presente disposizione, il ricorso è ammissibile contro le decisioni concernenti il condono dell’imposta federale diretta o dell’imposta cantonale o comunale sul reddito e sull’utile se concerne una questione di diritto di importanza fondamentale o se si tratta per altri motivi di un caso particolarmente importante;\nn. le decisioni in materia di energia nucleare concernenti:\n1. l’esigenza di un nulla osta o la modifica di un’autorizzazione o di una decisione,\n2. l’approvazione di un piano d’accantonamenti per le spese di smaltimento antecedenti lo spegnimento di un impianto nucleare,\n3. i nulla osta;\no. le decisioni in materia di circolazione stradale concernenti l’omologazione del tipo di veicoli;\np. le decisioni del Tribunale amministrativo federale in materia di traffico delle telecomunicazioni, radiotelevisione e poste concernenti:\n1. concessioni oggetto di una pubblica gara,\n2. controversie secondo l’articolo 11a della legge del 30 aprile 1997 sulle telecomunicazioni;\n3. controversie secondo l’articolo 8 della legge del 17 dicembre 2010 sulle poste; \nq. le decisioni in materia di medicina dei trapianti concernenti:\n1. l’iscrizione nella lista d’attesa,\n2. l’attribuzione di organi;\nr. le decisioni in materia di assicurazione malattie pronunciate dal Tribunale amministrativo federale in virtù dell’articolo 34 della legge del 17 giugno 2005 sul Tribunale amministrativo federale (LTAF);\ns. le decisioni in materia di agricoltura concernenti:\n1. ...\n2. la delimitazione delle zone nell’ambito del catasto della produzione;\nt. le decisioni concernenti l’esito di esami e di altre valutazioni della capacità, segnatamente nei settori della scuola, della formazione continua e dell’esercizio della professione;\nu. le decisioni in materia di offerte pubbliche di acquisto (art. 125–141 della L del 19 giu. 2015 sull’infrastruttura finanziaria);\nv. le decisioni del Tribunale amministrativo federale concernenti divergenze d’opinione tra autorità in materia di assistenza amministrativa o giudiziaria a livello nazionale;\nw. le decisioni in materia di diritto dell’elettricità concernenti l’approvazione dei piani di impianti elettrici a corrente forte e di impianti elettrici a corrente debole e l’espropriazione dei diritti necessari per la costruzione o l’esercizio di siffatti impianti, se non si pone alcuna questione di diritto d’importanza fondamentale;\nx. le decisioni concernenti la concessione di contributi di solidarietà ai sensi della legge federale del 30 settembre 2016 sulle misure coercitive a scopo assistenziale e i collocamenti extrafamiliari prima del 1981, tranne se si pone una questione di diritto di importanza fondamentale o si tratta di un caso particolarmente importante per altri motivi;\ny. le decisioni pronunciate dal Tribunale amministrativo federale nelle procedure amichevoli per evitare un’imposizione non conforme alla convenzione internazionale applicabile in ambito fiscale;\nz. le decisioni concernenti le autorizzazioni edilizie di impianti eolici d’interesse nazionale secondo l’articolo 71c capoverso 1 lettera b della legge federale del 30 settembre 2016 sull’energia e le autorizzazioni di competenza cantonale a esse necessariamente connesse, se non si pone alcuna questione di diritto d’importanza fondamentale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_83"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Assistenza internazionale in materia penale",
+        "citation": "Art. 84 cpv. 1 LTF",
+        "content": "Contro le decisioni nel campo dell’assistenza giudiziaria internazionale in materia penale il ricorso è ammissibile soltanto se concerne un’estradizione, un sequestro, la consegna di oggetti o beni oppure la comunicazione di informazioni inerenti alla sfera segreta e si tratti di un caso particolarmente importante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_84"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Assistenza internazionale in materia penale",
+        "citation": "Art. 84 cpv. 2 LTF",
+        "content": "Un caso è particolarmente importante segnatamente laddove vi sono motivi per ritenere che sono stati violati elementari principi procedurali o che il procedimento all’estero presenta gravi lacune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_84"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Assistenza amministrativa in materia fiscale",
+        "citation": "Art. 84a LTF",
+        "content": "Contro le decisioni nel campo dell’assistenza amministrativa internazionale in materia fiscale il ricorso è ammissibile soltanto se concerne una questione di diritto di importanza fondamentale o se si tratta per altri motivi di un caso particolarmente importante ai sensi dell’articolo 84 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_84_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Valore litigioso minimo",
+        "citation": "Art. 85 cpv. 1 LTF",
+        "content": "In materia patrimoniale il ricorso è inammissibile:\na. nel campo della responsabilità dello Stato se il valore litigioso è inferiore a 30 000 franchi;\nb. nel campo dei rapporti di lavoro di diritto pubblico, se il valore litigioso è inferiore a 15 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_85"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Valore litigioso minimo",
+        "citation": "Art. 85 cpv. 2 LTF",
+        "content": "Se il valore litigioso non raggiunge l’importo determinante secondo il capoverso 1, il ricorso è nondimeno ammissibile se si pone una questione di diritto di importanza fondamentale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_85"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in generale",
+        "citation": "Art. 86 cpv. 1 LTF",
+        "content": "Il ricorso è ammissibile contro le decisioni:\na. del Tribunale amministrativo federale;\nb. del Tribunale penale federale; \nc. dell’autorità indipendente di ricorso in materia radiotelevisiva;\nd. delle autorità cantonali di ultima istanza, sempreché non sia ammissibile il ricorso al Tribunale amministrativo federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_86"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in generale",
+        "citation": "Art. 86 cpv. 2 LTF",
+        "content": "I Cantoni istituiscono tribunali superiori che giudicano quali autorità di grado immediatamente inferiore al Tribunale federale, in quanto un’altra legge federale non preveda che le decisioni di altre autorità giudiziarie sono impugnabili mediante ricorso al Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_86"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in generale",
+        "citation": "Art. 86 cpv. 3 LTF",
+        "content": "Per le decisioni di carattere prevalentemente politico i Cantoni possono istituire quale autorità di grado immediatamente inferiore al Tribunale federale un’autorità diversa da un tribunale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_86"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in caso di ricorsi contro atti normativi",
+        "citation": "Art. 87 cpv. 1 LTF",
+        "content": "Gli atti normativi cantonali sono direttamente impugnabili mediante ricorso se non è possibile avvalersi di alcun rimedio giuridico cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_87"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in caso di ricorsi contro atti normativi",
+        "citation": "Art. 87 cpv. 2 LTF",
+        "content": "Se il diritto cantonale prevede un rimedio giuridico contro gli atti normativi, si applica l’articolo 86.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_87"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in materia di diritti politici",
+        "citation": "Art. 88 cpv. 1 LTF",
+        "content": "I ricorsi concernenti il diritto di voto dei cittadini nonché le elezioni e votazioni popolari sono ammissibili:\na. in materia cantonale, contro gli atti delle autorità cantonali di ultima istanza;\nb. in materia federale, contro le decisioni della Cancelleria federale e dei Governi cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_88"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Autorità inferiori in materia di diritti politici",
+        "citation": "Art. 88 cpv. 2 LTF",
+        "content": "I Cantoni prevedono un rimedio giuridico contro gli atti delle autorità che possono violare i diritti politici dei cittadini in materia cantonale. Quest’obbligo non si estende agli atti del Parlamento e del Governo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_88"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Diritto di ricorso",
+        "citation": "Art. 89 cpv. 1 LTF",
+        "content": "Ha diritto di interporre ricorso in materia di diritto pubblico chi:\na. ha partecipato al procedimento dinanzi all’autorità inferiore o è stato privato della possibilità di farlo;\nb. è particolarmente toccato dalla decisione o dall’atto normativo impugnati; e\nc. ha un interesse degno di protezione all’annullamento o alla modifica degli stessi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_89"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Diritto di ricorso",
+        "citation": "Art. 89 cpv. 2 LTF",
+        "content": "Hanno inoltre diritto di ricorrere:\na. la Cancelleria federale, i dipartimenti federali o, in quanto lo preveda il diritto federale, i servizi loro subordinati, se l’atto impugnato può violare la legislazione federale nella sfera dei loro compiti;\nb. in materia di rapporti di lavoro del personale federale, l’organo competente dell’Assemblea federale;\nc. i Comuni e gli altri enti di diritto pubblico, se fanno valere la violazione di garanzie loro conferite dalla costituzione cantonale o dalla Costituzione federale;\nd. le persone, le organizzazioni e le autorità legittimate al ricorso in virtù di un’altra legge federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_89"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 3: Il Tribunale federale giurisdizione ordinaria di ricorso, Sezione 3: Ricorso in materia di diritto pubblico, Diritto di ricorso",
+        "citation": "Art. 89 cpv. 3 LTF",
+        "content": "In materia di diritti politici (art. 82 lett. c), il diritto di ricorrere spetta inoltre a chiunque abbia diritto di voto nell’affare in causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_89"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Decisioni finali",
+        "citation": "Art. 90 LTF",
+        "content": "Il ricorso è ammissibile contro le decisioni che pongono fine al procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_90"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Decisioni parziali",
+        "citation": "Art. 91 LTF",
+        "content": "Il ricorso è ammissibile contro una decisione che:\na. concerne soltanto talune conclusioni, se queste possono essere giudicate indipendentemente dalle altre;\nb. pone fine al procedimento soltanto per una parte dei litisconsorti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_91"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Decisioni pregiudiziali e incidentali sulla competenza e la ricusazione",
+        "citation": "Art. 92 cpv. 1 LTF",
+        "content": "Il ricorso è ammissibile contro le decisioni pregiudiziali e incidentali notificate separatamente e concernenti la competenza o domande di ricusazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_92"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Decisioni pregiudiziali e incidentali sulla competenza e la ricusazione",
+        "citation": "Art. 92 cpv. 2 LTF",
+        "content": "Tali decisioni non possono più essere impugnate ulteriormente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_92"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Altre decisioni pregiudiziali e incidentali",
+        "citation": "Art. 93 cpv. 1 LTF",
+        "content": "Il ricorso è ammissibile contro altre decisioni pregiudiziali e incidentali notificate separatamente se:\na. esse possono causare un pregiudizio irreparabile; o\nb. l’accoglimento del ricorso comporterebbe immediatamente una decisione finale consentendo di evitare una procedura probatoria defatigante o dispendiosa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_93"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Altre decisioni pregiudiziali e incidentali",
+        "citation": "Art. 93 cpv. 2 LTF",
+        "content": "Le decisioni pregiudiziali e incidentali nel campo dell’assistenza giudiziaria internazionale in materia penale e nel campo dell’asilo non sono impugnabili. Rimangono salvi i ricorsi contro le decisioni sulla carcerazione in vista d’estradizione come anche sul sequestro di beni e valori, sempreché siano adempiute le condizioni di cui al capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_93"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Altre decisioni pregiudiziali e incidentali",
+        "citation": "Art. 93 cpv. 3 LTF",
+        "content": "Se il ricorso in virtù dei capoversi 1 e 2 non è ammissibile o non è stato interposto, le decisioni pregiudiziali e incidentali possono essere impugnate mediante ricorso contro la decisione finale in quanto influiscano sul contenuto della stessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_93"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 1: Decisioni impugnabili, Denegata e ritardata giustizia",
+        "citation": "Art. 94 LTF",
+        "content": "Può essere interposto ricorso se la giurisdizione adita nega o ritarda indebitamente la pronuncia di una decisione impugnabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_94"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 2: Motivi di ricorso, Diritto svizzero",
+        "citation": "Art. 95 LTF",
+        "content": "Il ricorrente può far valere la violazione:\na. del diritto federale;\nb. del diritto internazionale;\nc. dei diritti costituzionali cantonali;\nd. delle disposizioni cantonali in materia di diritto di voto dei cittadini e di elezioni e votazioni popolari;\ne. del diritto intercantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_95"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 2: Motivi di ricorso, Diritto estero",
+        "citation": "Art. 96 LTF",
+        "content": "Il ricorrente può far valere che:\na. non è stato applicato il diritto estero richiamato dal diritto internazionale privato svizzero;\nb. il diritto estero richiamato dal diritto internazionale privato svizzero non è stato applicato correttamente, sempreché la decisione non concerna una causa di natura pecuniaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_96"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 2: Motivi di ricorso, Accertamento inesatto dei fatti",
+        "citation": "Art. 97 cpv. 1 LTF",
+        "content": "Il ricorrente può censurare l’accertamento dei fatti soltanto se è stato svolto in modo manifestamente inesatto o in violazione del diritto ai sensi dell’articolo 95 e l’eliminazione del vizio può essere determinante per l’esito del procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_97"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 2: Motivi di ricorso, Accertamento inesatto dei fatti",
+        "citation": "Art. 97 cpv. 2 LTF",
+        "content": "Se il ricorso è diretto contro una decisione d’assegnazione o rifiuto di prestazioni pecuniarie dell’assicurazione militare o dell’assicurazione contro gli infortuni, può essere censurato qualsiasi accertamento inesatto o incompleto dei fatti giuridicamente rilevanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_97"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 2: Motivi di ricorso, Limitazione dei motivi di ricorso",
+        "citation": "Art. 98 LTF",
+        "content": "Contro le decisioni in materia di misure cautelari il ricorrente può far valere soltanto la violazione di diritti costituzionali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_98"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 3: Nuove allegazioni",
+        "citation": "Art. 99 cpv. 1 LTF",
+        "content": "Possono essere addotti nuovi fatti e nuovi mezzi di prova soltanto se ne dà motivo la decisione dell’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_99"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 3: Nuove allegazioni",
+        "citation": "Art. 99 cpv. 2 LTF",
+        "content": "Non sono ammissibili nuove conclusioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_99"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 1 LTF",
+        "content": "Il ricorso contro una decisione deve essere depositato presso il Tribunale federale entro 30 giorni dalla notificazione del testo integrale della decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 2 LTF",
+        "content": "Il termine è di dieci giorni per i ricorsi contro le decisioni:\na. delle autorità cantonali di vigilanza in materia di esecuzione e fallimento;\nb. nel campo dell’assistenza giudiziaria internazionale in materia penale e dell’assistenza amministrativa internazionale in materia fiscale;\nc. in materia di ritorno di un minore secondo la Convenzione europea del 20 maggio 1980 sul riconoscimento e l’esecuzione delle decisioni in materia di affidamento di minori e sul ristabilimento dell’affidamento oppure secondo la Convenzione del 25 ottobre 1980 sugli aspetti civili del rapimento internazionale di minori;\nd. del Tribunale federale dei brevetti in materia di rilascio di una licenza secondo l’articolo 40d della legge del 25 giugno 1954 sui brevetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 3 LTF",
+        "content": "Il termine è di cinque giorni per i ricorsi contro le decisioni:\na. delle autorità cantonali di vigilanza in materia di esecuzione e fallimento pronunciate nell’ambito dell’esecuzione cambiaria;\nb. dei Governi cantonali su ricorsi concernenti votazioni federali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 4 LTF",
+        "content": "Il termine è di tre giorni per i ricorsi contro le decisioni dei Governi cantonali su ricorsi concernenti le elezioni al Consiglio nazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 5 LTF",
+        "content": "Per i ricorsi concernenti conflitti di competenza tra due Cantoni, il termine decorre al più tardi dal giorno in cui in ciascun Cantone sono state pronunciate decisioni impugnabili mediante ricorso al Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro decisioni",
+        "citation": "Art. 100 cpv. 7 LTF",
+        "content": "Il ricorso per denegata o ritardata giustizia può essere interposto in ogni tempo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_100"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 4: Termine di ricorso, Ricorso contro atti normativi",
+        "citation": "Art. 101 LTF",
+        "content": "Il ricorso contro un atto normativo deve essere depositato presso il Tribunale federale entro 30 giorni dalla pubblicazione di tale atto secondo il diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_101"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Scambio di scritti",
+        "citation": "Art. 102 cpv. 1 LTF",
+        "content": "Se necessario, il Tribunale federale notifica il ricorso all’autorità inferiore e a eventuali altre parti, altri partecipanti al procedimento o autorità legittimate a ricorrere impartendo loro un termine per esprimersi in merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_102"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Scambio di scritti",
+        "citation": "Art. 102 cpv. 2 LTF",
+        "content": "L’autorità inferiore gli trasmette gli atti entro tale termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_102"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Scambio di scritti",
+        "citation": "Art. 102 cpv. 3 LTF",
+        "content": "Di regola non si procede a un ulteriore scambio di scritti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_102"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Effetto sospensivo",
+        "citation": "Art. 103 cpv. 1 LTF",
+        "content": "Di regola il ricorso non ha effetto sospensivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_103"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Effetto sospensivo",
+        "citation": "Art. 103 cpv. 2 LTF",
+        "content": "Nei limiti delle conclusioni presentate, il ricorso ha effetto sospensivo:\na. in materia civile, se è diretto contro una sentenza costitutiva;\nb. in materia penale, se è diretto contro una decisione che infligge una pena detentiva senza sospensione condizionale o una misura privativa della libertà; l’effetto sospensivo non si estende alla decisione sulle pretese civili;\nc. nei procedimenti nel campo dell’assistenza giudiziaria internazionale in materia penale, se è diretto contro una decisione di chiusura o contro qualsiasi altra decisione che autorizza la comunicazione di informazioni inerenti alla sfera segreta o la consegna di oggetti o beni;\nd. nei procedimenti nel campo dell’assistenza amministrativa internazionale in materia fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_103"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Effetto sospensivo",
+        "citation": "Art. 103 cpv. 3 LTF",
+        "content": "Il giudice dell’istruzione può, d’ufficio o ad istanza di parte, decidere altrimenti circa l’effetto sospensivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_103"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Altre misure cautelari",
+        "citation": "Art. 104 LTF",
+        "content": "Il giudice dell’istruzione può, d’ufficio o ad istanza di parte, ordinare misure cautelari al fine di conservare lo stato di fatto o tutelare provvisoriamente interessi minacciati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_104"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Fatti determinanti",
+        "citation": "Art. 105 cpv. 1 LTF",
+        "content": "Il Tribunale federale fonda la sua sentenza sui fatti accertati dall’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_105"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Fatti determinanti",
+        "citation": "Art. 105 cpv. 2 LTF",
+        "content": "Può rettificare o completare d’ufficio l’accertamento dei fatti dell’autorità inferiore se è stato svolto in modo manifestamente inesatto o in violazione del diritto ai sensi dell’articolo 95.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_105"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Fatti determinanti",
+        "citation": "Art. 105 cpv. 3 LTF",
+        "content": "Se il ricorso è diretto contro una decisione d’assegnazione o rifiuto di prestazioni pecuniarie dell’assicurazione militare o dell’assicurazione contro gli infortuni, il Tribunale federale non è vincolato dall’accertamento dei fatti operato dall’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_105"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Applicazione del diritto",
+        "citation": "Art. 106 cpv. 1 LTF",
+        "content": "Il Tribunale federale applica d’ufficio il diritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_106"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Applicazione del diritto",
+        "citation": "Art. 106 cpv. 2 LTF",
+        "content": "Esamina la violazione di diritti fondamentali e di disposizioni di diritto cantonale e intercantonale soltanto se il ricorrente ha sollevato e motivato tale censura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_106"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Sentenza",
+        "citation": "Art. 107 cpv. 1 LTF",
+        "content": "Il Tribunale federale non può andare oltre le conclusioni delle parti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_107"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Sentenza",
+        "citation": "Art. 107 cpv. 2 LTF",
+        "content": "Se accoglie il ricorso, giudica esso stesso nel merito o rinvia la causa all’autorità inferiore affinché pronunci una nuova decisione. Può anche rinviare la causa all’autorità che ha deciso in prima istanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_107"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Sentenza",
+        "citation": "Art. 107 cpv. 3 LTF",
+        "content": "Se ritiene inammissibile un ricorso interposto nel campo dell’assistenza giudiziaria internazionale in materia penale o dell’assistenza amministrativa internazionale in materia fiscale, il Tribunale federale prende la decisione di non entrare nel merito entro 15 giorni dalla chiusura di un eventuale scambio di scritti. Nel campo dell’assistenza giudiziaria internazionale non è tenuto a rispettare tale termine se la procedura d’estradizione concerne una persona sulla cui domanda d’asilo non è ancora stata pronunciata una decisione finale passata in giudicato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_107"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 5: Altre disposizioni di procedura, Sentenza",
+        "citation": "Art. 107 cpv. 4 LTF",
+        "content": "Sui ricorsi interposti contro le decisioni del Tribunale federale dei brevetti in materia di rilascio di una licenza secondo l’articolo 40d della legge del 25 giugno 195419 sui brevetti, il Tribunale federale decide entro un mese dalla presentazione del ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_107"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Giudice unico",
+        "citation": "Art. 108 cpv. 1 LTF",
+        "content": "Il presidente della corte decide in procedura semplificata circa:\na. la non entrata nel merito su ricorsi manifestamente inammissibili;\nb. la non entrata nel merito su ricorsi manifestamente non motivati in modo sufficiente (art. 42 cpv. 2);\nc. la non entrata nel merito su ricorsi querulomani o abusivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_108"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Giudice unico",
+        "citation": "Art. 108 cpv. 2 LTF",
+        "content": "Può delegare questo compito a un altro giudice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_108"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Giudice unico",
+        "citation": "Art. 108 cpv. 3 LTF",
+        "content": "La motivazione della decisione si limita a una breve indicazione del motivo d’inammissibilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_108"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Corti trimembri",
+        "citation": "Art. 109 cpv. 1 LTF",
+        "content": "Le corti giudicano nella composizione di tre giudici circa la non entrata nel merito su ricorsi che non sollevano una questione di diritto di importanza fondamentale o non riguardano un caso particolarmente importante, se il ricorso è ammissibile soltanto a una condizione siffatta (art. 74 e 83–85). L’articolo 58 capoverso 1 lettera b non è applicabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_109"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Corti trimembri",
+        "citation": "Art. 109 cpv. 2 LTF",
+        "content": "Le corti decidono nella stessa composizione, con voto unanime, su:\na. la reiezione di ricorsi manifestamente infondati;\nb. l’accoglimento di ricorsi manifestamente fondati, segnatamente se l’atto impugnato diverge dalla giurisprudenza del Tribunale federale e non vi è motivo di riesaminare tale giurisprudenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_109"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 6: Procedura semplificata, Corti trimembri",
+        "citation": "Art. 109 cpv. 3 LTF",
+        "content": "La decisione è motivata sommariamente. Può rimandare in tutto od in parte alla decisione impugnata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_109"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Giudizio da parte di un’autorità giudiziaria",
+        "citation": "Art. 110 LTF",
+        "content": "Laddove la presente legge prescriva di istituire un tribunale quale autorità cantonale di ultima istanza, i Cantoni provvedono affinché quest’ultimo o un’autorità giudiziaria di istanza inferiore esamini liberamente i fatti e applichi d’ufficio il diritto determinante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_110"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Unità procedurale",
+        "citation": "Art. 111 cpv. 1 LTF",
+        "content": "Chi ha diritto di ricorrere al Tribunale federale deve poter essere parte nei procedimenti dinanzi a tutte le autorità cantonali inferiori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_111"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Unità procedurale",
+        "citation": "Art. 111 cpv. 2 LTF",
+        "content": "Le autorità federali che hanno diritto di ricorrere al Tribunale federale possono avvalersi dei rimedi giuridici previsti dal diritto cantonale e, in quanto ne facciano richiesta, partecipare ai procedimenti dinanzi alle autorità cantonali inferiori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_111"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Unità procedurale",
+        "citation": "Art. 111 cpv. 3 LTF",
+        "content": "L’autorità di grado immediatamente inferiore al Tribunale federale deve poter esaminare almeno le censure di cui agli articoli 95–98. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_111"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Notificazione delle decisioni",
+        "citation": "Art. 112 cpv. 1 LTF",
+        "content": "Le decisioni impugnabili mediante ricorso al Tribunale federale sono notificate per scritto alle parti. Contengono:\na. le conclusioni, i motivi, le allegazioni probatorie e le dichiarazioni processuali delle parti, in quanto non risultino dagli atti;\nb. i motivi determinanti di fatto e di diritto, segnatamente l’indicazione delle disposizioni legali applicate;\nc. il dispositivo;\nd. l’indicazione dei rimedi giuridici, con menzione del valore litigioso nei casi in cui la presente legge prevede un valore litigioso minimo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_112"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Notificazione delle decisioni",
+        "citation": "Art. 112 cpv. 2 LTF",
+        "content": "Se il diritto cantonale lo prevede, l’autorità può notificare la sua decisione senza motivarla. In tal caso le parti possono chiedere, entro 30 giorni, il testo integrale della decisione. La decisione non può essere eseguita finché tale termine non scade infruttuoso o il testo integrale della stessa non è notificato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_112"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Notificazione delle decisioni",
+        "citation": "Art. 112 cpv. 3 LTF",
+        "content": "Se una decisione non soddisfa le esigenze di cui al capoverso 1, il Tribunale federale può rinviarla all’autorità cantonale affinché la completi o annullarla.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_112"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 4: Procedura di ricorso, Sezione 7: Procedura cantonale, Notificazione delle decisioni",
+        "citation": "Art. 112 cpv. 4 LTF",
+        "content": "Nei campi in cui autorità federali hanno diritto di ricorrere al Tribunale federale, il Consiglio federale determina quali decisioni devono essere loro notificate dalle autorità cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_112"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Principio",
+        "citation": "Art. 113 LTF",
+        "content": "Il Tribunale federale giudica i ricorsi in materia costituzionale interposti contro le decisioni cantonali di ultima istanza laddove non sia ammissibile il ricorso ordinario secondo gli articoli 72–89.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_113"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Autorità inferiori",
+        "citation": "Art. 114 LTF",
+        "content": "Le disposizioni del capitolo 3 concernenti le autorità cantonali inferiori (art. 75 e 86) si applicano per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_114"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Diritto di ricorso",
+        "citation": "Art. 115 LTF",
+        "content": "È legittimato al ricorso in materia costituzionale chiunque:\na. ha partecipato alla procedura dinanzi all’autorità inferiore o non gliene è stata data la possibilità; e\nb. ha un interesse legittimo all’annullamento o alla modifica della decisione impugnata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_115"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Motivi di ricorso",
+        "citation": "Art. 116 LTF",
+        "content": "Con il ricorso in materia costituzionale può essere censurata la violazione di diritti costituzionali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_116"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Procedura di ricorso",
+        "citation": "Art. 117 LTF",
+        "content": "Alla procedura di ricorso in materia costituzionale si applicano per analogia gli articoli 90–94, 99, 100, 102, 103 capoversi 1 e 3, 104, 106 capoverso 2 e 107–112.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_117"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Fatti determinanti",
+        "citation": "Art. 118 cpv. 1 LTF",
+        "content": "Il Tribunale federale fonda la sua sentenza sui fatti accertati dall’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_118"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Fatti determinanti",
+        "citation": "Art. 118 cpv. 2 LTF",
+        "content": "Può rettificare o completare d’ufficio l’accertamento dei fatti operato dall’autorità inferiore se è stato svolto in violazione del diritto ai sensi dell’articolo 116.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_118"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Ricorso ordinario simultaneo",
+        "citation": "Art. 119 cpv. 1 LTF",
+        "content": "La parte che intende impugnare una decisione sia con un ricorso ordinario sia con un ricorso in materia costituzionale deve presentare entrambi i ricorsi con una sola e medesima istanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Ricorso ordinario simultaneo",
+        "citation": "Art. 119 cpv. 2 LTF",
+        "content": "Il Tribunale federale tratta i due ricorsi nella stessa procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5: Ricorso sussidiario in materia costituzionale, Ricorso ordinario simultaneo",
+        "citation": "Art. 119 cpv. 3 LTF",
+        "content": "Esamina le diverse censure secondo le disposizioni applicabili ai due diversi tipi di ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5a:, Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale",
+        "citation": "Art. 119a cpv. 1 LTF",
+        "content": "Il Tribunale federale giudica le domande di revisione delle decisioni arbitrali nella giurisdizione arbitrale internazionale alle condizioni di cui all’articolo 190a della legge federale del 18 dicembre 1987 sul diritto internazionale privato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5a:, Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale",
+        "citation": "Art. 119a cpv. 2 LTF",
+        "content": "La procedura di revisione è retta dagli articoli 77 capoverso 2bis e 126. Se non ritiene manifestamente inammissibile o infondata la domanda di revisione, il Tribunale federale la notifica alla controparte e al tribunale arbitrale perché si esprimano in merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5a:, Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale",
+        "citation": "Art. 119a cpv. 3 LTF",
+        "content": "Se accoglie la domanda di revisione, il Tribunale federale annulla il lodo e rinvia gli atti al tribunale arbitrale per un nuovo giudizio o formula le debite considerazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 5a:, Revisione di decisioni arbitrali nella giurisdizione arbitrale internazionale",
+        "citation": "Art. 119a cpv. 4 LTF",
+        "content": "Se il tribunale arbitrale non è più al completo, è applicabile l’articolo 179 della legge federale sul diritto internazionale privato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_119_a"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 6: Azione",
+        "citation": "Art. 120 cpv. 1 LTF",
+        "content": "Il Tribunale federale giudica su azione come giurisdizione unica:\na. i conflitti di competenza tra autorità federali, da una parte, e autorità cantonali, dall’altra;\nb. le controversie di diritto civile e di diritto pubblico tra la Confederazione e i Cantoni o tra Cantoni;\nc. le pretese di risarcimento del danno o di indennità a titolo di riparazione morale risultanti dall’attività ufficiale delle persone di cui all’articolo 1 capoverso 1 lettere a–cbis della legge del 14 marzo 1958 sulla responsabilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_120"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 6: Azione",
+        "citation": "Art. 120 cpv. 2 LTF",
+        "content": "L’azione è inammissibile se un’altra legge federale abilita un’altra autorità a pronunciare su tali controversie. La decisione di questa autorità è impugnabile in ultima istanza con ricorso al Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_120"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 6: Azione",
+        "citation": "Art. 120 cpv. 3 LTF",
+        "content": "La procedura in sede di azione è retta dalla PC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_120"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Violazione di norme procedurali",
+        "citation": "Art. 121 LTF",
+        "content": "La revisione di una sentenza del Tribunale federale può essere domandata se:\na. sono state violate le norme concernenti la composizione del Tribunale o la ricusazione;\nb. il Tribunale ha accordato a una parte sia più di quanto essa abbia domandato, o altra cosa senza che la legge lo consenta, sia meno di quanto riconosciuto dalla controparte;\nc. il Tribunale non ha giudicato su singole conclusioni;\nd. il Tribunale, per svista, non ha tenuto conto di fatti rilevanti che risultano dagli atti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_121"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Violazione della Convenzione europea dei diritti dell’uomo",
+        "citation": "Art. 122 LTF",
+        "content": "La revisione di una sentenza del Tribunale federale per violazione della Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) può essere domandata se:\na. la Corte europea dei diritti dell’uomo ha constatato in una sentenza definitiva (art. 44 CEDU) che la CEDU o i suoi protocolli sono stati violati oppure ha chiuso la causa con una composizione amichevole (art. 39 CEDU);\nb. un’indennità non è atta a compensare le conseguenze della violazione; e\nc. la revisione è necessaria per rimediare alla violazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_122"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Altri motivi",
+        "citation": "Art. 123 cpv. 1 LTF",
+        "content": "La revisione può essere domandata se nell’ambito di un procedimento penale è dimostrato che un crimine o un delitto ha influito sulla sentenza a pregiudizio dell’instante, anche se non è stata pronunciata una condanna. Se il procedimento penale non è possibile, la prova può essere addotta in altro modo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_123"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Altri motivi",
+        "citation": "Art. 123 cpv. 2 LTF",
+        "content": "La revisione può inoltre essere domandata:\na. in materia civile e di diritto pubblico, se l’instante, dopo la pronuncia della sentenza, viene a conoscenza di fatti rilevanti o ritrova mezzi di prova decisivi che non ha potuto addurre nel procedimento precedente, esclusi i fatti e i mezzi di prova posteriori alla sentenza;\nb. in materia penale, se sono adempiute le condizioni di cui all’articolo 410 capoversi 1 lettere a e b e 2 CPP;\nc. in materia di pretese di risarcimento di un danno nucleare, per i motivi di cui all’articolo 5 capoverso 5 della legge federale del 13 giugno 2008 sulla responsabilità civile in materia nucleare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_123"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Termine",
+        "citation": "Art. 124 cpv. 1 LTF",
+        "content": "La domanda di revisione deve essere depositata presso il Tribunale federale:\na. per violazione delle norme sulla ricusazione, entro 30 giorni dalla scoperta del motivo di ricusazione;\nb. per violazione di altre norme procedurali, entro 30 giorni dalla notificazione del testo integrale della sentenza;\nc. per violazione della CEDU, entro 90 giorni da quello in cui la sentenza della Corte europea dei diritti dell’uomo diviene definitiva ai sensi dell’articolo 44 CEDU;\nd. per altri motivi, entro 90 giorni dalla loro scoperta, non prima però della notificazione del testo integrale della sentenza o della chiusura del procedimento penale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_124"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Termine",
+        "citation": "Art. 124 cpv. 2 LTF",
+        "content": "Dopo dieci anni dalla pronuncia della sentenza la revisione non può più essere domandata, salvo:\na. in materia penale, per i motivi di cui all’articolo 123 capoversi 1 e 2 lettera b;\nb. negli altri casi, per il motivo di cui all’articolo 123 capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_124"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Termine",
+        "citation": "Art. 124 cpv. 3 LTF",
+        "content": "Sono fatti salvi i termini particolari di cui all’articolo 5 capoverso 5 della legge federale del 13 giugno 2008 sulla responsabilità civile in materia nucleare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_124"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Perenzione",
+        "citation": "Art. 125 LTF",
+        "content": "La revisione di una sentenza del Tribunale federale che conferma la decisione dell’autorità inferiore non può essere chiesta per un motivo scoperto prima della pronuncia della sentenza e che avrebbe potuto essere invocato con domanda di revisione dinanzi a tale autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_125"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Misure cautelari",
+        "citation": "Art. 126 LTF",
+        "content": "Dopo la ricezione della domanda di revisione, il giudice dell’istruzione può, d’ufficio o ad istanza di parte, sospendere l’esecuzione della sentenza impugnata o ordinare altre misure cautelari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_126"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Scambio di scritti",
+        "citation": "Art. 127 LTF",
+        "content": "Se non ritiene inammissibile o infondata la domanda di revisione, il Tribunale federale la notifica all’autorità inferiore e a eventuali altre parti, altri partecipanti al procedimento o autorità legittimate a ricorrere; nel contempo impartisce loro un termine per esprimersi in merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_127"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Sentenza",
+        "citation": "Art. 128 cpv. 1 LTF",
+        "content": "Se ammette il motivo di revisione invocato dall’instante, il Tribunale federale annulla la sentenza precedente e ne pronuncia una nuova.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_128"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Sentenza",
+        "citation": "Art. 128 cpv. 2 LTF",
+        "content": "Se annulla una sentenza di rinvio della causa all’autorità inferiore, il Tribunale federale determina gli effetti di tale annullamento nei riguardi della nuova decisione eventualmente già pronunciata dall’autorità inferiore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_128"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 1: Revisione, Sentenza",
+        "citation": "Art. 128 cpv. 3 LTF",
+        "content": "Se pronuncia una nuova sentenza in una causa penale, si applica per analogia l’articolo 415 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_128"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 2: Interpretazione e rettifica",
+        "citation": "Art. 129 cpv. 1 LTF",
+        "content": "Se il dispositivo di una sentenza del Tribunale federale è poco chiaro, incompleto o ambiguo o contiene elementi che sono in contraddizione tra loro o con i motivi oppure errori redazionali o di calcolo, il Tribunale federale, su domanda scritta di una parte o d’ufficio, interpreta o rettifica la sentenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_129"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 2: Interpretazione e rettifica",
+        "citation": "Art. 129 cpv. 2 LTF",
+        "content": "L’interpretazione di una sentenza di rinvio della causa può essere domandata soltanto se l’autorità inferiore non ha ancora pronunciato la nuova decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_129"
+    },
+    {
+        "book": "BGG",
+        "title": "LTF, Capitolo 7: Revisione, interpretazione e rettifica, Sezione 2: Interpretazione e rettifica",
+        "citation": "Art. 129 cpv. 3 LTF",
+        "content": "Si applicano per analogia gli articoli 126 e 127.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/218/it#art_129"
+    }
+]

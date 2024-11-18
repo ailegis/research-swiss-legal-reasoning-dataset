@@ -1,0 +1,1626 @@
+[
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 1 LSIn",
+        "content": "La presente legge ha lo scopo di garantire il trattamento sicuro delle informazioni di competenza della Confederazione nonché l’impiego sicuro dei mezzi informatici della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_1"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 2 LSIn",
+        "content": "Mira in tal modo a tutelare gli interessi pubblici seguenti:\na. la capacità di decisione e d’azione delle autorità e organizzazioni della Confederazione; \nb. la sicurezza interna ed esterna della Svizzera;\nc. gli interessi della politica estera della Svizzera;\nd. gli interessi della politica economica, finanziaria e monetaria della Svizzera; \ne. l’adempimento degli obblighi legali e contrattuali delle autorità e organizzazioni della Confederazione in materia di protezione delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_1"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Autorità e organizzazioni assoggettate",
+        "citation": "Art. 2 cpv. 1 LSIn",
+        "content": "La presente legge si applica alle autorità seguenti (autorità assoggettate):\na. l’Assemblea federale;\nb. il Consiglio federale;\nc. i tribunali della Confederazione;\nd. il Ministero pubblico della Confederazione e l’Autorità di vigilanza sul Ministero pubblico della Confederazione; \ne. la Banca nazionale svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Autorità e organizzazioni assoggettate",
+        "citation": "Art. 2 cpv. 2 LSIn",
+        "content": "Si applica alle organizzazioni seguenti (organizzazioni assoggettate):\na. i Servizi del Parlamento;\nb. l’Amministrazione federale;\nc. le amministrazioni dei tribunali della Confederazione;\nd. l’esercito;\ne. le organizzazioni di cui all’articolo 2 capoverso 4 della legge del 21 marzo 1997 sull’organizzazione del Governo e dell’Amministrazione (LOGA), per i loro compiti amministrativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Autorità e organizzazioni assoggettate",
+        "citation": "Art. 2 cpv. 3 LSIn",
+        "content": "Il Consiglio federale può limitare il campo d’applicazione della presente legge per le organizzazioni di cui all’articolo 2 capoversi 3 e 4 LOGA a quelle che:\na. esercitano attività sensibili sotto il profilo della sicurezza; o\nb. per l’adempimento dei loro compiti impiegano o accedono a mezzi informatici della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Autorità e organizzazioni assoggettate",
+        "citation": "Art. 2 cpv. 4 LSIn",
+        "content": "Può limitare a talune disposizioni della presente legge il campo d’applicazione secondo il capoverso 3. Al riguardo, tiene conto dell’autonomia esecutiva delle organizzazioni interessate in virtù delle rispettive disposizioni organizzative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Autorità e organizzazioni assoggettate",
+        "citation": "Art. 2 cpv. 5 LSIn",
+        "content": "Alle organizzazioni di diritto pubblico o privato che gestiscono infrastrutture critiche ma che non sono contemplate ai capoversi 1‒3 si applicano gli articoli 74–80. La legislazione speciale può dichiarare applicabili altre disposizioni della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Applicabilità ai Cantoni",
+        "citation": "Art. 3 cpv. 1 LSIn",
+        "content": "Ai Cantoni si applicano unicamente le disposizioni concernenti: \na. le informazioni classificate, qualora essi trattino informazioni classificate della Confederazione; e\nb. la sicurezza nell’impiego dei mezzi informatici, qualora essi accedano a mezzi informatici della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_3"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Applicabilità ai Cantoni",
+        "citation": "Art. 3 cpv. 2 LSIn",
+        "content": "Le disposizioni di cui al capoverso 1 non si applicano se i Cantoni garantiscono una sicurezza delle informazioni almeno equivalente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_3"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Rapporto con altre leggi federali",
+        "citation": "Art. 4 cpv. 1 LSIn",
+        "content": "La legge del 17 dicembre 2004 sulla trasparenza prevale sulla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_4"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Rapporto con altre leggi federali",
+        "citation": "Art. 4 cpv. 2 LSIn",
+        "content": "Nel caso di informazioni la cui protezione è disciplinata anche in altre leggi federali, le disposizioni della presente legge si applicano a titolo completivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_4"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 5 LSIn",
+        "content": "Ai sensi della presente legge s’intende per:\na. mezzi informatici: mezzi delle tecnologie dell’informazione e della comunicazione, segnatamente applicazioni, sistemi d’informazione e collezioni di dati nonché installazioni, prodotti e servizi che servono all’elaborazione elettronica delle informazioni;\nb. attività sensibile sotto il profilo della sicurezza:\n1. il trattamento di informazioni classificate «confidenziale» o «segreto», \n2. l’amministrazione, l’esercizio, la manutenzione e la verifica di mezzi informatici del livello di sicurezza «protezione elevata» o «protezione molto elevata»,\n3. l’accesso a zone di sicurezza, in particolare alle zone di protezione 2 o 3 di un’opera secondo la legislazione sulla protezione delle opere militari;\nc. infrastrutture critiche: le infrastrutture per l’approvvigionamento di acqua potabile e di energia, le infrastrutture nei settori dell’informazione, della comunicazione e dei trasporti nonché altri processi, sistemi e installazioni essenziali per il funzionamento dell’economia e per il benessere della popolazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_5"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Sicurezza delle informazioni",
+        "citation": "Art. 6 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché le necessità di protezione delle informazioni per le quali sono competenti siano valutate sotto il profilo di un eventuale pregiudizio degli interessi di cui all’articolo 1 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Sicurezza delle informazioni",
+        "citation": "Art. 6 cpv. 2 LSIn",
+        "content": "Provvedono affinché, conformemente alle rispettive necessità di protezione, tali informazioni:\na. siano accessibili soltanto alle persone autorizzate (confidenzialità);\nb. siano disponibili quando sono necessarie (disponibilità);\nc. non possano essere modificate senza autorizzazione o per inavvertenza (integrità);\nd. siano trattate in maniera documentabile (tracciabilità).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Sicurezza delle informazioni",
+        "citation": "Art. 6 cpv. 3 LSIn",
+        "content": "Provvedono affinché i mezzi informatici che esse impiegano per l’adempimento dei loro compiti legali siano protetti dall’utilizzazione abusiva e dalle perturbazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Sicurezza delle informazioni",
+        "citation": "Art. 6 cpv. 4 LSIn",
+        "content": "Al riguardo, tengono conto dei principi di adeguatezza, economicità e facilità d’uso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Responsabilità direttiva suprema",
+        "citation": "Art. 7 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate provvedono, nel rispettivo ambito di competenza, affinché la sicurezza delle informazioni sia organizzata, applicata e verificata secondo lo stato della scienza e della tecnica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_7"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Responsabilità direttiva suprema",
+        "citation": "Art. 7 cpv. 2 LSIn",
+        "content": "Stabiliscono:\na. i loro obiettivi in materia di sicurezza delle informazioni;\nb. i parametri per la gestione dei rischi;\nc. le conseguenze in caso di inosservanza delle prescrizioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_7"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Gestione dei rischi",
+        "citation": "Art. 8 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché nel rispettivo ambito di competenza i rischi per la sicurezza delle informazioni siano costantemente valutati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Gestione dei rischi",
+        "citation": "Art. 8 cpv. 2 LSIn",
+        "content": "Adottano le misure necessarie per evitare i rischi o ridurli a un livello accettabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Gestione dei rischi",
+        "citation": "Art. 8 cpv. 3 LSIn",
+        "content": "I rischi considerati accettabili devono essere formalmente accettati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Collaborazione con terzi",
+        "citation": "Art. 9 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate che collaborano con terzi provvedono affinché i requisiti e le misure previsti dalla presente legge siano iscritti nelle convenzioni e nei contratti corrispondenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_9"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Collaborazione con terzi",
+        "citation": "Art. 9 cpv. 2 LSIn",
+        "content": "Provvedono a un’adeguata verifica dell’applicazione delle misure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_9"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Procedura in caso di violazioni della sicurezza delle informazioni",
+        "citation": "Art. 10 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché le violazioni della sicurezza delle informazioni siano individuate tempestivamente, le loro cause accertate e le eventuali ripercussioni ridotte al minimo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_10"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 1: Principi, Procedura in caso di violazioni della sicurezza delle informazioni",
+        "citation": "Art. 10 cpv. 2 LSIn",
+        "content": "Le autorità assoggettate provvedono affinché in vista di eventuali violazioni gravi della sicurezza delle informazioni, tali da compromettere l’adempimento di compiti indispensabili della Confederazione, siano stabilite pianificazioni preventive e svolte corrispondenti esercitazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_10"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Principi della classificazione",
+        "citation": "Art. 11 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché le informazioni che soddisfano i criteri di cui all’articolo 13 siano classificate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_11"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Principi della classificazione",
+        "citation": "Art. 11 cpv. 2 LSIn",
+        "content": "La classificazione è ridotta allo stretto necessario e per quanto possibile limitata nel tempo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_11"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Competenze",
+        "citation": "Art. 12 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate designano le persone e i servizi competenti per la classificazione delle informazioni (servizi incaricati della classificazione).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Competenze",
+        "citation": "Art. 12 cpv. 2 LSIn",
+        "content": "Le classificazioni possono essere modificate o soppresse soltanto dal servizio incaricato della classificazione o dal servizio al quale esso è subordinato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Competenze",
+        "citation": "Art. 12 cpv. 3 LSIn",
+        "content": "Il Consiglio federale disciplina la declassificazione degli archivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Livelli di classificazione",
+        "citation": "Art. 13 cpv. 1 LSIn",
+        "content": "Sono classificate «ad uso interno» le informazioni la cui conoscenza da parte di persone non autorizzate può pregiudicare gli interessi di cui all’articolo 1 capoverso 2 lettere a‒d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Livelli di classificazione",
+        "citation": "Art. 13 cpv. 2 LSIn",
+        "content": "Sono classificate «confidenziale» le informazioni la cui conoscenza da parte di persone non autorizzate può pregiudicare considerevolmente gli interessi di cui all’articolo 1 capoverso 2 lettere a‒d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Livelli di classificazione",
+        "citation": "Art. 13 cpv. 3 LSIn",
+        "content": "Sono classificate «segreto» le informazioni la cui conoscenza da parte di persone non autorizzate può pregiudicare gravemente gli interessi di cui all’articolo 1 capoverso 2 lettere a‒d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Accesso a informazioni classificate",
+        "citation": "Art. 14 cpv. 1 LSIn",
+        "content": "Ottengono l’accesso a informazioni classificate soltanto le persone che offrono la garanzia di gestirle in modo appropriato e che:\na. necessitano delle informazioni per l’adempimento di un compito legale; o \nb. dispongono di un’autorizzazione di accesso convenuta contrattualmente e necessitano delle informazioni per l’adempimento dei compiti loro affidati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Accesso a informazioni classificate",
+        "citation": "Art. 14 cpv. 2 LSIn",
+        "content": "L’accesso ad archivi classificati è retto dalle disposizioni della legislazione in materia di archiviazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Accesso a informazioni classificate",
+        "citation": "Art. 14 cpv. 3 LSIn",
+        "content": "Sono fatte salve le limitazioni di accesso disciplinate da trattati internazionali secondo l’articolo 87.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Accesso a informazioni classificate nell’ambito di procedure particolari",
+        "citation": "Art. 15 cpv. 1 LSIn",
+        "content": "L’accesso a informazioni classificate in seno all’Assemblea federale, ai Servizi del Parlamento, ai tribunali e ai ministeri pubblici è retto dal rispettivo diritto procedurale applicabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_15"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 2: Classificazione delle informazioni, Accesso a informazioni classificate nell’ambito di procedure particolari",
+        "citation": "Art. 15 cpv. 2 LSIn",
+        "content": "Prima di decidere di concedere l’accesso a un’informazione secondo il capoverso 1, l’organo parlamentare o il tribunale competente può consultare il servizio incaricato della classificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_15"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Procedura di sicurezza",
+        "citation": "Art. 16 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate stabiliscono una procedura per garantire la sicurezza delle informazioni nell’impiego di mezzi informatici (procedura di sicurezza).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Procedura di sicurezza",
+        "citation": "Art. 16 cpv. 2 LSIn",
+        "content": "La procedura di sicurezza comprende in particolare:\na. la valutazione della necessità di protezione delle informazioni prima dell’impiego di mezzi informatici;\nb. l’applicazione delle misure di sicurezza e la relativa verifica;\nc. la determinazione della competenza per il rilascio del nullaosta di sicurezza relativo ai mezzi informatici;\nd. la procedura in caso di mutamento dei rischi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Procedura di sicurezza",
+        "citation": "Art. 16 cpv. 3 LSIn",
+        "content": "Per l’esecuzione della procedura di sicurezza è competente l’autorità od organizzazione assoggettata che decide l’impiego dei mezzi informatici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Livelli di sicurezza",
+        "citation": "Art. 17 cpv. 1 LSIn",
+        "content": "Il livello di sicurezza «protezione di base» si applica a tutti i mezzi informatici, salvo a quelli che devono essere attribuiti a un livello di sicurezza più elevato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Livelli di sicurezza",
+        "citation": "Art. 17 cpv. 2 LSIn",
+        "content": "Ai mezzi informatici si applica il livello di sicurezza «protezione elevata» se:\na. una violazione della confidenzialità, della disponibilità, dell’integrità o della tracciabilità delle informazioni che trattano può pregiudicare considerevolmente gli interessi di cui all’articolo 1 capoverso 2;\nb. la loro utilizzazione abusiva o la loro perturbazione può pregiudicare considerevolmente gli interessi di cui all’articolo 1 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Livelli di sicurezza",
+        "citation": "Art. 17 cpv. 3 LSIn",
+        "content": "Ai mezzi informatici si applica il livello di sicurezza «protezione molto elevata» se:\na. una violazione della confidenzialità, della disponibilità, dell’integrità o della tracciabilità delle informazioni che trattano può pregiudicare gravemente gli interessi di cui all’articolo 1 capoverso 2; \nb. la loro utilizzazione abusiva o la loro perturbazione può pregiudicare gravemente gli interessi di cui all’articolo 1 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Misure di sicurezza",
+        "citation": "Art. 18 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate stabiliscono i requisiti minimi per i livelli di sicurezza di cui all’articolo 17.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Misure di sicurezza",
+        "citation": "Art. 18 cpv. 2 LSIn",
+        "content": "Tutti i mezzi informatici devono soddisfare i requisiti minimi del livello di sicurezza «protezione di base».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Misure di sicurezza",
+        "citation": "Art. 18 cpv. 3 LSIn",
+        "content": "Per i mezzi informatici del livello di sicurezza «protezione molto elevata» l’efficacia delle misure deve essere verificata periodicamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Sicurezza durante l’esercizio",
+        "citation": "Art. 19 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate garantiscono la sicurezza dei mezzi informatici che gestiscono per loro stesse o su mandato di un’altra autorità od organizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_19"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 3: Sicurezza nell’impiego di mezzi informatici, Sicurezza durante l’esercizio",
+        "citation": "Art. 19 cpv. 2 LSIn",
+        "content": "Il trattamento di dati personali nell’ambito della sorveglianza delle reti è retto per analogia dagli articoli 57i‒57q LOGA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_19"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 4: Misure relative alle persone, Condizioni per l’accesso a informazioni e mezzi informatici della Confederazione",
+        "citation": "Art. 20 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché le persone che hanno accesso a informazioni, mezzi informatici, locali e altre infrastrutture della Confederazione:\na. siano scelte con cura; \nb. siano identificate in funzione dei rischi;\nc. seguano formazioni e formazioni continue adeguate al loro livello;\nd. se necessario, siano tenute a mantenere il segreto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 4: Misure relative alle persone, Condizioni per l’accesso a informazioni e mezzi informatici della Confederazione",
+        "citation": "Art. 20 cpv. 2 LSIn",
+        "content": "Possono impiegare metodi di verifica biometrici se è necessario per l’identificazione delle persone in funzione dei rischi. I dati biometrici sono distrutti allo scadere dell’autorizzazione d’accesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 4: Misure relative alle persone, Condizioni per l’accesso a informazioni e mezzi informatici della Confederazione",
+        "citation": "Art. 20 cpv. 3 LSIn",
+        "content": "Come identificatore di persone possono inoltre utilizzare sistematicamente il numero AVS di cui all’articolo 50c della legge federale del 20 dicembre 1946 sull’assicurazione per la vecchiaia e per i superstiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 4: Misure relative alle persone, Criteri restrittivi per il rilascio di autorizzazioni",
+        "citation": "Art. 21 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono affinché autorizzazioni d’accesso a informazioni, mezzi informatici, locali e altre infrastrutture della Confederazione siano rilasciate soltanto alle persone che ne hanno bisogno per l’adempimento dei loro compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_21"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 4: Misure relative alle persone, Criteri restrittivi per il rilascio di autorizzazioni",
+        "citation": "Art. 21 cpv. 2 LSIn",
+        "content": "Le autorizzazioni sono revocate al termine del rapporto di lavoro o del contratto oppure all’adempimento del compito. Possono essere bloccate o revocate senza preavviso se sussistono indizi concreti di un pericolo per la sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_21"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 5: Protezione fisica Principio",
+        "citation": "Art. 22 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate provvedono a garantire una protezione fisica adeguata delle informazioni e dei mezzi informatici di cui sono responsabili contro gli abusi e le perturbazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_22"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 5: Protezione fisica Zone di sicurezza",
+        "citation": "Art. 23 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate possono designare come zone di sicurezza settori e locali nei quali:\na. sono trattate frequentemente informazioni classificate «confidenziale» o «segreto»; o\nb. sono impiegati mezzi informatici del livello di sicurezza «protezione elevata» o «protezione molto elevata».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 5: Protezione fisica Zone di sicurezza",
+        "citation": "Art. 23 cpv. 2 LSIn",
+        "content": "Sono autorizzate a:\na. proibire l’introduzione di determinati oggetti, in particolare apparecchi per registrazioni audiovisive;\nb. sorvegliare i settori sensibili sotto il profilo della sicurezza con apparecchi per registrazioni audiovisive;\nc. eseguire perquisizioni di borse e persone;\nd. eseguire senza preavviso controlli di locali, anche in assenza degli impiegati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 5: Protezione fisica Zone di sicurezza",
+        "citation": "Art. 23 cpv. 3 LSIn",
+        "content": "Nelle zone di sicurezza nelle quali sono trattate frequentemente informazioni classificate «segreto» oppure sono impiegati mezzi informatici del livello di sicurezza «protezione molto elevata», le autorità e organizzazioni assoggettate possono operare impianti di telecomunicazione che provocano interferenze secondo l’articolo 34 capoverso 1ter della legge del 30 aprile 1997 sulle telecomunicazioni (LTC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 5: Protezione fisica Zone di sicurezza",
+        "citation": "Art. 23 cpv. 4 LSIn",
+        "content": "Sono fatte salve le prescrizioni particolari per le zone di sicurezza definite in virtù di trattati internazionali secondo l’articolo 87 nonché le prescrizioni applicabili alle zone di protezione di opere secondo la legislazione sulla protezione delle opere militari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Impiego di sistemi di gestione delle identità",
+        "citation": "Art. 24 cpv. 1 LSIn",
+        "content": "Ai fini della gestione centralizzata dei dati per l’identificazione delle persone che hanno accesso a informazioni, mezzi informatici, locali e altre infrastrutture, le autorità assoggettate possono gestire appositi sistemi d’informazione (sistemi di gestione delle identità).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Impiego di sistemi di gestione delle identità",
+        "citation": "Art. 24 cpv. 2 LSIn",
+        "content": "I sistemi di gestione delle identità verificano l’identità e le caratteristiche relative alle autorizzazioni di persone, macchine e sistemi. Trasmettono il risultato ai sistemi d’informazione collegati affinché questi possano accertare le autorizzazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Impiego di sistemi di gestione delle identità",
+        "citation": "Art. 24 cpv. 3 LSIn",
+        "content": "Le autorità assoggettate designano un servizio responsabile per ogni sistema di gestione delle identità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Scambio e armonizzazione dei dati",
+        "citation": "Art. 25 cpv. 1 LSIn",
+        "content": "I sistemi di gestione delle identità possono scambiare e armonizzare dati con i sistemi d’informazione collegati, con registri di persone e di utenti nonché con altri sistemi di gestione delle identità di autorità assoggettate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_25"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Scambio e armonizzazione dei dati",
+        "citation": "Art. 25 cpv. 2 LSIn",
+        "content": "Lo scambio e l’armonizzazione sono limitati ai dati il cui trattamento è autorizzato nel rispettivo sistema.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_25"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 2: Misure generali, Sezione 6: Sistemi di gestione delle identità, Disposizioni esecutive",
+        "citation": "Art. 26 LSIn",
+        "content": "Le autorità assoggettate emanano disposizioni esecutive concernenti in particolare:\na. la protezione e la sicurezza dei dati;\nb. i dati personali trattati;\nc. lo scambio e l’armonizzazione di dati con altri sistemi;\nd. la verbalizzazione e la trasmissione dei relativi dati ai sistemi d’informazione collegati;\ne. il controllo periodico del trattamento dei dati personali da parte di un organo esterno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_26"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Scopo e contenuto del controllo",
+        "citation": "Art. 27 cpv. 1 LSIn",
+        "content": "Il controllo di sicurezza relativo alle persone serve a valutare se l’esercizio di un’attività sensibile sotto il profilo della sicurezza da parte di una persona, nel quadro della sua funzione o di un mandato, possa costituire un rischio per la sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Scopo e contenuto del controllo",
+        "citation": "Art. 27 cpv. 2 LSIn",
+        "content": "A tal fine sono raccolti dati rilevanti per la sicurezza concernenti il modo di vita della persona da controllare, in particolare le sue relazioni personali strette e quelle familiari, la sua situazione finanziaria e i suoi rapporti con l’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Scopo e contenuto del controllo",
+        "citation": "Art. 27 cpv. 3 LSIn",
+        "content": "I dati concernenti l’esercizio dei diritti costituzionali possono essere trattati unicamente qualora sussista un sospetto concreto che la persona da controllare eserciti tali diritti per preparare o compiere attività che potrebbero pregiudicare considerevolmente gli interessi di cui all’articolo 1 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Elenco delle funzioni",
+        "citation": "Art. 28 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate emanano, per il rispettivo ambito di competenza, un elenco delle funzioni che implicano l’esercizio di un’attività sensibile sotto il profilo della sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_28"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Elenco delle funzioni",
+        "citation": "Art. 28 cpv. 2 LSIn",
+        "content": "Verificano periodicamente la correttezza dell’elenco e lo adeguano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_28"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Persone da controllare",
+        "citation": "Art. 29 cpv. 1 LSIn",
+        "content": "Sono sottoposti a un controllo di sicurezza relativo alle persone:\na. gli impiegati della Confederazione, i collaboratori esterni e i militari che esercitano una funzione prevista in un elenco secondo l’articolo 28;\nb. gli impiegati cantonali che esercitano un’attività sensibile sotto il profilo della sicurezza;\nc. i terzi che eseguono per un’autorità od organizzazione assoggettata un mandato che implica l’esercizio di un’attività sensibile sotto il profilo della sicurezza;\nd. le persone che devono essere sottoposte a un controllo di sicurezza in virtù di un trattato internazionale secondo l’articolo 87.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Persone da controllare",
+        "citation": "Art. 29 cpv. 2 LSIn",
+        "content": "Le persone alle quali un’autorità estera o un’organizzazione internazionale intende affidare l’esercizio di un’attività sensibile sotto il profilo della sicurezza sono sottoposte a un controllo di sicurezza se la Svizzera ha concluso con lo Stato o l’organizzazione internazionale interessati un trattato internazionale secondo l’articolo 87.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Persone da controllare",
+        "citation": "Art. 29 cpv. 3 LSIn",
+        "content": "Le persone che esercitano una funzione che non figura ancora in un elenco secondo l’articolo 28 possono, previo consenso dell’autorità assoggettata, essere sottoposte in via eccezionale a un controllo di sicurezza. L’elenco in questione deve essere adeguato alla prima occasione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Persone da controllare",
+        "citation": "Art. 29 cpv. 4 LSIn",
+        "content": "I candidati alle seguenti funzioni non sono assoggettati al controllo di sicurezza relativo alle persone:\na. membro dell’Assemblea federale;\nb. membro del Consiglio federale o cancelliere della Confederazione;\nc. giudice di un tribunale della Confederazione;\nd. procuratore generale della Confederazione;\ne. membro dell’Autorità di vigilanza sul Ministero pubblico della Confederazione;\nebis. capo dell’Incaricato federale della protezione dei dati e della trasparenza;\nf. generale;\ng. magistrato cantonale eletto dal Popolo o dal parlamento cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 1: Disposizioni generali, Livelli di controllo",
+        "citation": "Art. 30 LSIn",
+        "content": "Le autorità assoggettate attribuiscono alle attività sensibili sotto il profilo della sicurezza uno dei livelli di controllo seguenti:\na. il controllo di sicurezza di base, alle attività sensibili sotto il profilo della sicurezza il cui esercizio contrario alle prescrizioni o non appropriato può pregiudicare considerevolmente gli interessi di cui all’articolo 1 capoverso 2;\nb. il controllo di sicurezza ampliato, alle attività sensibili sotto il profilo della sicurezza il cui esercizio contrario alle prescrizioni o non appropriato può pregiudicare gravemente gli interessi di cui all’articolo 1 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_30"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Servizi competenti",
+        "citation": "Art. 31 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate e i Cantoni designano i servizi competenti per: \na. avviare i controlli di sicurezza relativi alle persone (servizi promotori);\nb. decidere di affidare l’esercizio dell’attività sensibile sotto il profilo della sicurezza (servizi decisori).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_31"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Servizi competenti",
+        "citation": "Art. 31 cpv. 2 LSIn",
+        "content": "Per l’esecuzione dei controlli di sicurezza relativi alle persone il Consiglio federale designa uno o più servizi specializzati (servizi specializzati CSP). Nell’effettuare la loro valutazione essi non sono vincolati a istruzioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_31"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Consenso e collaborazione",
+        "citation": "Art. 32 cpv. 1 LSIn",
+        "content": "I controlli di sicurezza relativi alle persone possono essere eseguiti unicamente con il consenso della persona da controllare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Consenso e collaborazione",
+        "citation": "Art. 32 cpv. 2 LSIn",
+        "content": "Le persone soggette all’obbligo di leva, i militari e i militi della protezione civile possono essere sottoposti al controllo di sicurezza senza il loro consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Consenso e collaborazione",
+        "citation": "Art. 32 cpv. 3 LSIn",
+        "content": "La persona da controllare è tenuta a collaborare all’accertamento dei fatti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Momento del controllo di sicurezza relativo alle persone",
+        "citation": "Art. 33 cpv. 1 LSIn",
+        "content": "Per le persone di cui all’articolo 29 capoverso 1 lettere a e b, il controllo di sicurezza dev’essere avviato prima dell’attribuzione della funzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Momento del controllo di sicurezza relativo alle persone",
+        "citation": "Art. 33 cpv. 2 LSIn",
+        "content": "Per le persone di cui all’articolo 29 capoverso 1 lettera a la cui nomina compete al Consiglio federale, il controllo di sicurezza dev’essere concluso prima che la persona sia proposta per la nomina.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Momento del controllo di sicurezza relativo alle persone",
+        "citation": "Art. 33 cpv. 3 LSIn",
+        "content": "Per le persone di cui all’articolo 29 capoverso 1 lettera c, il controllo di sicurezza dev’essere concluso prima che sia affidato loro l’esercizio dell’attività sensibile sotto il profilo della sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Momento del controllo di sicurezza relativo alle persone",
+        "citation": "Art. 33 cpv. 4 LSIn",
+        "content": "Per le persone di cui all’articolo 29 capoverso 1 lettera d, il controllo di sicurezza ha luogo nel momento previsto dal corrispondente trattato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Raccolta dei dati",
+        "citation": "Art. 34 cpv. 1 LSIn",
+        "content": "Per il controllo di sicurezza di base, il servizio specializzato CSP può raccogliere dati sulla persona da controllare dalle fonti seguenti:\na. dal casellario giudiziale;\nb. presso le autorità penali, tramite richiesta di informazioni e atti concernenti procedimenti penali in corso, conclusi o abbandonati;\nc. presso gli organi di sicurezza della Confederazione, il Servizio delle attività informative della Confederazione (SIC), gli organi dell’esercito nonché altri organi della Confederazione, sempre che trattino dati necessari per la valutazione del rischio per la sicurezza;\nd. dai registri e dagli atti degli organi di sicurezza dei Cantoni e della polizia;\ne. dai registri delle autorità di esecuzione e fallimento;\nf. dagli atti di precedenti controlli di sicurezza relativi alle persone;\ng. da fonti pubblicamente accessibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Raccolta dei dati",
+        "citation": "Art. 34 cpv. 2 LSIn",
+        "content": "Per il controllo di sicurezza ampliato, può inoltre raccogliere dati dalle fonti seguenti:\na. presso le autorità fiscali federali e cantonali;\nb. dai registri dei controlli degli abitanti;\nc. presso istituti finanziari e banche con i quali la persona da controllare intrattiene relazioni d’affari;\nd. mediante audizione della persona da controllare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Raccolta dei dati",
+        "citation": "Art. 34 cpv. 3 LSIn",
+        "content": "Se dai dati raccolti risultano indizi concreti di un rischio per la sicurezza oppure se per la valutazione non sono disponibili dati sufficienti relativi a un periodo di tempo adeguato, il servizio specializzato CSP può procedere all’audizione della persona da controllare. Con il consenso di quest’ultima può procedere anche all’audizione di terzi; rende attenti detti terzi che essi sono liberi di fornire le informazioni o meno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Raccolta dei dati",
+        "citation": "Art. 34 cpv. 4 LSIn",
+        "content": "I dati relativi a terzi che sono indissolubilmente connessi con dati relativi alla persona da controllare possono essere trattati unicamente se è indispensabile per la valutazione del rischio per la sicurezza. Il servizio specializzato CSP informa i terzi interessati in merito a tale trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Assistenza amministrativa",
+        "citation": "Art. 35 cpv. 1 LSIn",
+        "content": "I dati che devono essere raccolti presso un’autorità estera o un’organizzazione internazionale lo sono per il tramite dell’autorità o dell’organizzazione competente secondo l’articolo 34.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_35"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Assistenza amministrativa",
+        "citation": "Art. 35 cpv. 2 LSIn",
+        "content": "Se dai dati raccolti risultano indizi concreti di criminalità organizzata o internazionale, il servizio specializzato CSP consulta gli uffici centrali di polizia giudiziaria della Confederazione. Tali uffici comunicano al servizio specializzato CSP unicamente i dati personali rilevanti sotto il profilo della sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_35"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Assunzione dei costi",
+        "citation": "Art. 36 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni di diritto pubblico presso le quali è consentito raccogliere dati o che devono collaborare alla procedura sono tenute a collaborare gratuitamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Assunzione dei costi",
+        "citation": "Art. 36 cpv. 2 LSIn",
+        "content": "I terzi per i quali la collaborazione implica un onere considerevole sono indennizzati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Assunzione dei costi",
+        "citation": "Art. 36 cpv. 3 LSIn",
+        "content": "La Confederazione si assume le spese dei controlli di sicurezza relativi alle persone effettuati sugli impiegati cantonali di cui all’articolo 29 capoverso 1 lettera b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Abbandono della procedura",
+        "citation": "Art. 37 cpv. 1 LSIn",
+        "content": "Il servizio specializzato CSP abbandona la procedura di controllo se la persona da controllare revoca il suo consenso o non entra più in considerazione per la funzione o il mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_37"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 2: Esecuzione, Abbandono della procedura",
+        "citation": "Art. 37 cpv. 2 LSIn",
+        "content": "Comunica l’abbandono della procedura di controllo alla persona interessata e al servizio promotore. La persona interessata è considerata non controllata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_37"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Rischio per la sicurezza",
+        "citation": "Art. 38 cpv. 1 LSIn",
+        "content": "Sussiste un rischio per la sicurezza se, sulla base dei dati raccolti, vi sono indizi concreti che con elevata probabilità la persona controllata eserciterà l’attività sensibile sotto il profilo della sicurezza in maniera contraria alle prescrizioni o non appropriata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Rischio per la sicurezza",
+        "citation": "Art. 38 cpv. 2 LSIn",
+        "content": "La probabilità di un esercizio contrario alle prescrizioni o non appropriato dell’attività sensibile sotto il profilo della sicurezza può essere considerata elevata in particolare quando sussistono indizi concreti che la persona presenta una delle caratteristiche seguenti:\na. mancanza di integrità personale o di affidabilità;\nb. ricattabilità o corruttibilità; o\nc. facoltà di giudizio o di decisione compromessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Rischio per la sicurezza",
+        "citation": "Art. 38 cpv. 3 LSIn",
+        "content": "La valutazione del rischio per la sicurezza deve fondarsi, a prescindere dalla colpa della persona sottoposta al controllo, sulle circostanze oggettive inerenti alla sua situazione personale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Risultato della valutazione",
+        "citation": "Art. 39 cpv. 1 LSIn",
+        "content": "Quale risultato della valutazione, il servizio specializzato CSP rilascia una delle dichiarazioni seguenti, avente il significato indicato qui appresso:\na. dichiarazione di sicurezza, non sussiste alcun rischio per la sicurezza;\nb. dichiarazione di sicurezza con riserva, sussiste un rischio per la sicurezza che può essere ridotto a un livello accettabile definendo determinate condizioni; il servizio specializzato CSP raccomanda tali condizioni;\nc. dichiarazione di rischio, sussiste un rischio per la sicurezza;\nd. dichiarazione di constatazione, per la valutazione del rischio per la sicurezza non sono disponibili dati sufficienti relativi a un periodo di tempo adeguato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_39"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Risultato della valutazione",
+        "citation": "Art. 39 cpv. 2 LSIn",
+        "content": "Prima di rilasciare una dichiarazione secondo il capoverso 1 lettere b‒d, il servizio specializzato CSP offre alla persona sottoposta al controllo la possibilità di esprimersi al riguardo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_39"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Comunicazione",
+        "citation": "Art. 40 cpv. 1 LSIn",
+        "content": "Il servizio specializzato CSP comunica per scritto la sua dichiarazione alla persona controllata e al servizio decisore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Comunicazione",
+        "citation": "Art. 40 cpv. 2 LSIn",
+        "content": "Per le persone la cui nomina compete al Consiglio federale il servizio specializzato CSP comunica la sua dichiarazione al dipartimento proponente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Comunicazione",
+        "citation": "Art. 40 cpv. 3 LSIn",
+        "content": "Il servizio specializzato CSP può comunicare la sua dichiarazione a un altro servizio decisore se la persona controllata:\na. è soggetta a un controllo di sicurezza relativo alle persone secondo la presente legge per un’altra attività sensibile sotto il profilo della sicurezza;\nb. è soggetta a una verifica dell’affidabilità secondo un’altra legge federale;\nc. in quanto militare è soggetta a una valutazione secondo l’articolo 113 della legge militare del 3 febbraio 1995.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 3: Valutazione del rischio per la sicurezza, Comunicazione",
+        "citation": "Art. 40 cpv. 4 LSIn",
+        "content": "Se già prima della conclusione della valutazione dispone di indizi concreti secondo i quali potrebbe sussistere un rischio per la sicurezza, il servizio specializzato CSP può comunicare per scritto le constatazioni provvisorie ai servizi di cui ai capoversi 1‒3 nonché alla persona sottoposta al controllo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Esercizio dell’attività sensibile sotto il profilo della sicurezza",
+        "citation": "Art. 41 cpv. 1 LSIn",
+        "content": "Le dichiarazioni dei servizi specializzati CSP hanno carattere di raccomandazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Esercizio dell’attività sensibile sotto il profilo della sicurezza",
+        "citation": "Art. 41 cpv. 2 LSIn",
+        "content": "Il servizio di cui all’articolo 31 capoverso 1 lettera b stabilisce, dopo aver preso atto della dichiarazione, se la persona controllata può esercitare l’attività sensibile sotto il profilo della sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Esercizio dell’attività sensibile sotto il profilo della sicurezza",
+        "citation": "Art. 41 cpv. 3 LSIn",
+        "content": "Può vincolare l’esercizio dell’attività sensibile sotto il profilo della sicurezza a determinate condizioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Esercizio dell’attività sensibile sotto il profilo della sicurezza",
+        "citation": "Art. 41 cpv. 4 LSIn",
+        "content": "Comunica la propria decisione al servizio specializzato CSP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Uso plurimo di una dichiarazione",
+        "citation": "Art. 42 LSIn",
+        "content": "È possibile rinunciare all’esecuzione del controllo di sicurezza relativo alle persone se alla persona interessata è già stata rilasciata una dichiarazione per un livello di controllo almeno equivalente:\na. per un’altra attività sensibile sotto il profilo della sicurezza secondo la presente legge;\nb. nel quadro di una verifica dell’affidabilità secondo un’altra legge federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_42"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Ripetizione",
+        "citation": "Art. 43 cpv. 1 LSIn",
+        "content": "Il controllo di sicurezza relativo alle persone è ripetuto come segue:\na. il controllo di sicurezza di base, al più presto dopo cinque e al più tardi dopo dieci anni;\nb. il controllo di sicurezza ampliato, al più presto dopo tre e al più tardi dopo cinque anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Ripetizione",
+        "citation": "Art. 43 cpv. 2 LSIn",
+        "content": "Il Consiglio federale può rinunciare alla ripetizione del controllo di sicurezza di base per talune funzioni dell’esercito e della protezione civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Ripetizione",
+        "citation": "Art. 43 cpv. 3 LSIn",
+        "content": "Se ha motivo di presumere che dall’ultimo controllo sono emersi nuovi rischi, il servizio promotore o il servizio decisore può chiedere al servizio specializzato CSP, con motivazione scritta, la ripetizione del controllo di sicurezza relativo alle persone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Tutela giurisdizionale",
+        "citation": "Art. 44 cpv. 1 LSIn",
+        "content": "Dopo aver ricevuto la dichiarazione secondo l’articolo 39 capoverso 1, la persona controllata ha 30 giorni di tempo per:\na. consultare i documenti relativi al controllo;\nb. esigere la rettifica dei dati errati o la distruzione dei dati non più attuali;\nc. far apporre una menzione che rileva il carattere contestato dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Tutela giurisdizionale",
+        "citation": "Art. 44 cpv. 2 LSIn",
+        "content": "La restrizione del diritto d’accesso è retta dall’articolo 26 della legge federale del 25 settembre 2020 sulla protezione dei dati (LPD).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Tutela giurisdizionale",
+        "citation": "Art. 44 cpv. 3 LSIn",
+        "content": "La dichiarazione costituisce un atto materiale secondo l’articolo 25a della legge federale del 20 dicembre 1968 sulla procedura amministrativa. La persona controllata può interporre ricorso contro una dichiarazione secondo l’articolo 39 capoverso 1 lettere b−d presso il Tribunale amministrativo federale entro 30 giorni dalla sua ricezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Tutela giurisdizionale",
+        "citation": "Art. 44 cpv. 4 LSIn",
+        "content": "Se il servizio decisore è il Tribunale federale o il Tribunale amministrativo federale, si applica per analogia l’articolo 36 capoversi 2 e 4 della legge del 24 marzo 2000 sul personale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 4: Conseguenze della dichiarazione, Tutela giurisdizionale",
+        "citation": "Art. 44 cpv. 5 LSIn",
+        "content": "Del rimanente, la procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 1 LSIn",
+        "content": "I servizi specializzati CSP gestiscono un sistema d’informazione. Quest’ultimo serve per l’esecuzione:\na. dei controlli di sicurezza relativi alle persone;\nb. delle valutazioni del potenziale di pericolo o di abuso per quanto riguarda l’arma personale;\nc. dei controlli dell’affidabilità;\nd. dei controlli dell’attendibilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 2 LSIn",
+        "content": "Ciascun servizio specializzato CSP è responsabile della liceità del trattamento dei dati personali contenuti nel sistema d’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 3 LSIn",
+        "content": "Nel sistema d’informazione possono essere trattati dati personali degni di particolare protezione secondo l’articolo 5 lettera c LPD, sempre che sia necessario per la valutazione del rischio per la sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 3bis LSIn",
+        "content": "Con i dati del sistema d’informazione può essere eseguita una profilazione, compresa una profilazione a rischio elevato, secondo la LPD per analizzare, valutare, qualificare o prevedere i seguenti aspetti personali di una persona fisica concernenti gli scopi del trattamento secondo il capoverso l:\na. rischio per la sicurezza;\nb. potenziale di pericolo e di abuso per quanto riguarda l’arma personale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 4 LSIn",
+        "content": "Il sistema d’informazione contiene i dati seguenti:\na. dati sull’identità delle persone da sottoporre al controllo o controllate, compreso il numero AVS e il numero del passaporto;\nb. i dati secondo gli articoli 34 e 35;\nc. la valutazione del rischio per la sicurezza;\nd. la dichiarazione secondo l’articolo 39 capoverso 1;\ne. la decisione del servizio decisore;\nf. dati e atti di procedure di ricorso;\ng. elenchi e statistiche che contengono dati secondo le lettere a‒f.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 5 LSIn",
+        "content": "Il trattamento dei dati di cui al capoverso 4 al di fuori del sistema d’informazione dev’essere menzionato nel sistema d’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Sistema d’informazione per i controlli di sicurezza relativi alle persone",
+        "citation": "Art. 45 cpv. 6 LSIn",
+        "content": "I dati di cui al capoverso 4 possono essere raccolti automaticamente e sistematicamente mediante interrogazione dei seguenti sistemi d’informazione:\na. casellario giudiziale informatizzato VOSTRA conformemente alla legge del 17 giugno 2016 sul casellario giudiziale;\nb. registro nazionale di polizia di cui all’articolo 17 della legge federale del 13 giugno 2008 sui sistemi d’informazione di polizia della Confederazione;\nd. le banche dati dell’Ufficio centrale Armi secondo l’articolo 32a capoverso 1 della legge del 20 giugno 1997 sulle armi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 46 cpv. 1 LSIn",
+        "content": "I servizi seguenti hanno accesso, mediante procedura di richiamo, ai dati qui appresso contenuti nel sistema d’informazione:\na. i servizi promotori, ai dati di cui all’articolo 45 capoverso 4 lettera b che hanno registrato essi stessi in occasione dell’avvio del controllo nonché ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e;\nb. i servizi decisori, ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e;\nc. gli incaricati della sicurezza delle informazioni secondo l’articolo 81, per l’adempimento dei loro compiti di controllo, ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e;\nd. i servizi della Confederazione e dei Cantoni presso i quali vengono raccolti dati secondo l’articolo 37, ai dati di cui all’articolo 45 capoverso 4 lettera a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 46 cpv. 2 LSIn",
+        "content": "I servizi seguenti hanno accesso, tramite un’interfaccia, ai dati qui appresso contenuti nel sistema d’informazione:\na. il servizio specializzato di cui all’articolo 51 capoverso 2, per l’esecuzione della procedura di sicurezza relativa alle aziende secondo gli articoli 49‒73, tramite il sistema d’informazione di cui all’articolo 70, ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e;\nb. l’Aggruppamento Difesa:\n1. per l’adempimento dei suoi compiti secondo l’articolo 13 della legge federale del 3 ottobre 2008 sui sistemi d’informazione militari (LSIM), tramite il sistema di gestione del personale dell’esercito di cui all’articolo 12 LSIM, ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e,\n2. per l’adempimento dei suoi compiti secondo l’articolo 19 LSIM, tramite il sistema d’informazione per il reclutamento di cui all’articolo 18 LSIM, ai dati di cui all’articolo 45 capoverso 4 lettere a ed e,\n3. per l’adempimento dei suoi compiti secondo l’articolo 157 LSIM, tramite il sistema d’informazione per le richieste di visita di cui all’articolo 156 LSIM, ai dati di cui all’articolo 45 capoverso 4 lettere a ed e,\n4. per l’adempimento dei suoi compiti secondo l’articolo 163 LSIM, tramite il sistema d’informazione per i controlli dell’accesso di cui all’articolo 162 LSIM, ai dati di cui all’articolo 45 capoverso 4 lettere a ed e;\nc. il servizio competente per le attestazioni di sicurezza internazionali di cui all’articolo 48 lettera c, ai dati di cui all’articolo 45 capoverso 4 lettere a, d ed e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 46 cpv. 3 LSIn",
+        "content": "I servizi specializzati CSP possono inoltre comunicare ad altri servizi della Confederazione dati di cui all’articolo 45 capoverso 4 lettere a ed e, sempre che sia necessario per il controllo dell’accesso a una zona di sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 46 cpv. 4 LSIn",
+        "content": "Possono comunicare alle autorità e organizzazioni assoggettate elenchi e statistiche di cui all’articolo 45 capoverso 1 lettera g, sempre che sia necessario per l’adempimento dei rispettivi compiti di controllo secondo la presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 47 cpv. 1 LSIn",
+        "content": "I servizi specializzati CSP possono registrare le audizioni secondo l’articolo 34 capoversi 2 lettera d e 3 con apparecchiature tecniche e conservare le registrazioni su supporti di dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 47 cpv. 2 LSIn",
+        "content": "Conservano i dati fintanto che la persona interessata esercita l’attività sensibile sotto il profilo della sicurezza, ma al massimo per dieci anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 47 cpv. 3 LSIn",
+        "content": "L’archiviazione dei dati è retta dalle prescrizioni della legislazione in materia di archiviazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 5: Trattamento di dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 47 cpv. 4 LSIn",
+        "content": "Se la procedura di controllo è abbandonata oppure la persona controllata non assume la funzione prevista o rifiuta il mandato, tutti i dati e i documenti connessi con il controllo di sicurezza relativo alle persone sono distrutti al più tardi dopo tre mesi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 3: Controllo di sicurezza relativo alle persone, Sezione 6: Disposizioni del Consiglio federale",
+        "citation": "Art. 48 LSIn",
+        "content": "Il Consiglio federale disciplina:\na. la procedura del controllo di sicurezza relativo alle persone;\nb. l’organizzazione dei servizi specializzati CSP;\nc. le modalità di rilascio delle attestazioni di sicurezza per le persone che operano nel contesto internazionale;\nd. la responsabilità della protezione dei dati in relazione con il sistema d’informazione di cui all’articolo 45 e la sicurezza dei dati;\ne. il controllo periodico del trattamento dei dati personali da parte di un organo esterno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_48"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Scopo della procedura",
+        "citation": "Art. 49 LSIn",
+        "content": "La procedura di sicurezza relativa alle aziende ha lo scopo di garantire la sicurezza delle informazioni in occasione dell’adempimento di mandati pubblici da parte di imprese, imprese subappaltatrici o loro parti (aziende), sempre che i mandati comportino l’esercizio di un’attività sensibile sotto il profilo della sicurezza (mandati sensibili).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_49"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Aziende interessate",
+        "citation": "Art. 50 cpv. 1 LSIn",
+        "content": "Possono essere sottoposte alla procedura di sicurezza relativa alle aziende:\na. le aziende alle quali un’autorità od organizzazione assoggettata intende assegnare un mandato sensibile;\nb. le aziende con sede in Svizzera che si candidano per un mandato per il quale necessitano di un’attestazione di sicurezza aziendale secondo l’articolo 66.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Aziende interessate",
+        "citation": "Art. 50 cpv. 2 LSIn",
+        "content": "La procedura può essere eseguita soltanto con il consenso dell’azienda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Aziende interessate",
+        "citation": "Art. 50 cpv. 3 LSIn",
+        "content": "Le aziende di cui al capoverso 1 lettera b assumono i costi della procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Abbandono della procedura",
+        "citation": "Art. 51 cpv. 1 LSIn",
+        "content": "La procedura di sicurezza relativa alle aziende è abbandonata se l’azienda:\na. revoca il suo consenso o non collabora alla procedura;\nb. ritira la sua offerta;\nc. non entra più in considerazione per il mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_51"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 1: Disposizioni generali, Abbandono della procedura",
+        "citation": "Art. 51 cpv. 2 LSIn",
+        "content": "Il servizio specializzato competente per l’esecuzione della procedura di sicurezza relativa alle aziende (servizio specializzato PSA) comunica l’abbandono della procedura all’azienda e all’autorità od organizzazione aggiudicante (mandante).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_51"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Domanda di avvio della procedura",
+        "citation": "Art. 52 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni assoggettate che intendono assegnare un mandato sensibile domandano l’avvio della procedura al servizio specializzato PSA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Domanda di avvio della procedura",
+        "citation": "Art. 52 cpv. 2 LSIn",
+        "content": "Le autorità assoggettate designano i servizi competenti per la presentazione della domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Domanda di avvio della procedura",
+        "citation": "Art. 52 cpv. 3 LSIn",
+        "content": "Per le aziende di cui all’articolo 50 capoverso 1 lettera b, la domanda è presentata dall’autorità estera o dall’organizzazione internazionale competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Esame della domanda",
+        "citation": "Art. 53 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA esamina la domanda e avvia la procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_53"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Esame della domanda",
+        "citation": "Art. 53 cpv. 2 LSIn",
+        "content": "Può, d’intesa con il mandante, rinunciare all’avvio della procedura se con altre misure il rischio per la sicurezza può essere ridotto a un livello accettabile. Raccomanda misure in tal senso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_53"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 2: Avvio della procedura Definizione dei requisiti di sicurezza",
+        "citation": "Art. 54 LSIn",
+        "content": "Il servizio specializzato PSA definisce, d’intesa con il mandante, i requisiti in materia di sicurezza delle informazioni per la procedura di aggiudicazione e per l’adempimento del mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_54"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Idoneità",
+        "citation": "Art. 55 cpv. 1 LSIn",
+        "content": "Il mandante comunica al servizio specializzato PSA quali aziende entrano in considerazione per l’esecuzione del mandato sensibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Idoneità",
+        "citation": "Art. 55 cpv. 2 LSIn",
+        "content": "Il servizio specializzato PSA valuta se tali aziende sono idonee per l’esecuzione del mandato sensibile o se sussiste un rischio per la sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Idoneità",
+        "citation": "Art. 55 cpv. 3 LSIn",
+        "content": "Nell’effettuare la sua valutazione non è vincolato a istruzioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Raccolta dei dati",
+        "citation": "Art. 56 cpv. 1 LSIn",
+        "content": "Per la valutazione dell’idoneità, il servizio specializzato PSA può raccogliere dati:\na. presso l’azienda;\nb. presso il SIC;\nc. da fonti pubblicamente accessibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_56"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Raccolta dei dati",
+        "citation": "Art. 56 cpv. 2 LSIn",
+        "content": "Può chiedere a servizi esteri e internazionali di trasmettergli i corrispondenti dati. Le richieste a servizi d’informazioni esteri avvengono per il tramite del SIC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_56"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Rischio per la sicurezza",
+        "citation": "Art. 57 cpv. 1 LSIn",
+        "content": "Sussiste un rischio per la sicurezza se, sulla base dei dati raccolti, vi sono indizi concreti che con elevata probabilità l’azienda eseguirà il mandato sensibile in maniera contraria alle prescrizioni o non appropriata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Rischio per la sicurezza",
+        "citation": "Art. 57 cpv. 2 LSIn",
+        "content": "La probabilità di un’esecuzione contraria alle prescrizioni o non appropriata del mandato sensibile può essere considerata elevata in particolare se:\na. l’azienda manca d’integrità o affidabilità;\nb. l’azienda è controllata da Stati esteri o da organizzazioni estere di diritto pubblico o privato oppure è sotto il loro influsso e tale controllo o influsso è incompatibile con la tutela degli interessi di cui all’articolo 1 capoverso 2;\nc. per impiegati dell’azienda indispensabili all’esecuzione del mandato sensibile è stata rilasciata una dichiarazione di rischio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Rischio per la sicurezza",
+        "citation": "Art. 57 cpv. 3 LSIn",
+        "content": "La valutazione del rischio per la sicurezza deve fondarsi, a prescindere dalla colpa, sulle circostanze oggettive inerenti all’azienda interessata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Notifica della valutazione ed esclusione dalla procedura di aggiudicazione",
+        "citation": "Art. 58 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA comunica la sua valutazione al mandante e la notifica all’azienda mediante decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Notifica della valutazione ed esclusione dalla procedura di aggiudicazione",
+        "citation": "Art. 58 cpv. 2 LSIn",
+        "content": "Se il servizio specializzato PSA giunge alla conclusione che l’esecuzione del mandato sensibile presenta un rischio per la sicurezza, il mandante esclude l’azienda dalla procedura di aggiudicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 3: Valutazione delle aziende, Notifica della valutazione ed esclusione dalla procedura di aggiudicazione",
+        "citation": "Art. 58 cpv. 3 LSIn",
+        "content": "Se presso tutte le aziende prese in considerazione l’esecuzione del mandato sensibile presenta un rischio per la sicurezza, il mandante può comunque assegnare il mandato a una di esse. Il servizio specializzato PSA abbandona la procedura di sicurezza relativa alle aziende. Il mandante applica per analogia le misure secondo gli articoli 59, 60, 63 e 64.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 4: Piano in materia di sicurezza, Aggiudicazione e piano in materia di sicurezza",
+        "citation": "Art. 59 cpv. 1 LSIn",
+        "content": "Il mandante comunica al servizio specializzato PSA quale azienda ha ottenuto il mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 4: Piano in materia di sicurezza, Aggiudicazione e piano in materia di sicurezza",
+        "citation": "Art. 59 cpv. 2 LSIn",
+        "content": "L’azienda allestisce un piano in materia di sicurezza secondo le direttive del servizio specializzato PSA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 4: Piano in materia di sicurezza, Aggiudicazione e piano in materia di sicurezza",
+        "citation": "Art. 59 cpv. 3 LSIn",
+        "content": "Il servizio specializzato PSA esamina il piano in materia di sicurezza. Può raccogliere i dati necessari per scritto o mediante un’ispezione dell’azienda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 4: Piano in materia di sicurezza, Controlli di sicurezza relativi alle persone",
+        "citation": "Art. 60 cpv. 1 LSIn",
+        "content": "Gli impiegati dell’azienda ai quali si intende affidare l’esercizio di un’attività sensibile sotto il profilo della sicurezza sono sottoposti a un controllo di sicurezza relativo alle persone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_60"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 4: Piano in materia di sicurezza, Controlli di sicurezza relativi alle persone",
+        "citation": "Art. 60 cpv. 2 LSIn",
+        "content": "Il servizio specializzato PSA è competente per la decisione secondo l’articolo 41 capoverso 2. Se la procedura è abbandonata perché non vi è nessuna azienda idonea per l’esecuzione del mandato (art. 58 cpv. 3), la decisione è di competenza del mandante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_60"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Rilascio della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 61 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA rilascia all’azienda una dichiarazione di sicurezza aziendale sotto forma di decisione non appena l’azienda ha attuato in maniera comprovata il piano in materia di sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Rilascio della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 61 cpv. 2 LSIn",
+        "content": "Rifiuta di rilasciare la dichiarazione di sicurezza aziendale e abbandona la procedura di sicurezza relativa alle aziende se l’azienda non attua il piano in materia di sicurezza. Pronuncia una decisione corrispondente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Rilascio della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 61 cpv. 3 LSIn",
+        "content": "Le decisioni secondo i capoversi 1 e 2 sono comunicate al mandante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Rilascio della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 61 cpv. 4 LSIn",
+        "content": "Il mandante è vincolato alla decisione del servizio specializzato PSA; è fatto salvo l’articolo 58 capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Rilascio della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 61 cpv. 5 LSIn",
+        "content": "La durata di validità della dichiarazione di sicurezza aziendale è di cinque anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Esecuzione di un mandato sensibile",
+        "citation": "Art. 62 LSIn",
+        "content": "Il mandante può autorizzare l’esecuzione di un mandato sensibile soltanto dopo che il servizio specializzato PSA ha rilasciato la dichiarazione di sicurezza aziendale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_62"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Obblighi dell’azienda",
+        "citation": "Art. 63 cpv. 1 LSIn",
+        "content": "Le aziende titolari di una dichiarazione di sicurezza aziendale devono applicare in permanenza le misure del piano in materia di sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_63"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Obblighi dell’azienda",
+        "citation": "Art. 63 cpv. 2 LSIn",
+        "content": "Annunciano senza indugio al servizio specializzato PSA e al mandante tutti i cambiamenti e gli incidenti rilevanti sotto il profilo della sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_63"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Controlli e misure di protezione",
+        "citation": "Art. 64 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA è autorizzato a:\na. ispezionare senza preavviso i settori nei quali è eseguito il mandato sensibile;\nb. consultare i documenti rilevanti per il mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_64"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Controlli e misure di protezione",
+        "citation": "Art. 64 cpv. 2 LSIn",
+        "content": "Se sussistono indizi concreti che in un’azienda la sicurezza delle informazioni è minacciata, il servizio specializzato PSA può adottare immediatamente le misure di protezione necessarie e in particolare mettere al sicuro documenti e materiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_64"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Procedura semplificata in caso di aggiudicazione di altri mandati sensibili",
+        "citation": "Art. 65 LSIn",
+        "content": "Le aziende titolari di una dichiarazione di sicurezza aziendale sono considerate idonee per altri mandati sensibili. Il servizio specializzato PSA verifica se il piano in materia di sicurezza dev’essere adeguato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_65"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Attestazione internazionale di sicurezza aziendale ",
+        "citation": "Art. 66 LSIn",
+        "content": "Il servizio specializzato PSA rilascia all’azienda interessata, su richiesta, un’attestazione internazionale di sicurezza aziendale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_66"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Revoca della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 67 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA revoca la dichiarazione di sicurezza aziendale se:\na. l’azienda non adempie i propri obblighi secondo l’articolo 63;\nb. nel quadro di una ripetizione della procedura emerge un rischio per la sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Revoca della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 67 cpv. 2 LSIn",
+        "content": "Comunica la revoca all’azienda e al mandante mediante decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 5: Dichiarazione di sicurezza aziendale, Revoca della dichiarazione di sicurezza aziendale",
+        "citation": "Art. 67 cpv. 3 LSIn",
+        "content": "Se la dichiarazione di sicurezza aziendale è revocata, il mandante ritira immediatamente il mandato; è fatto salvo l’articolo 58 capoverso 3. L’azienda non ha diritto ad alcun indennizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 6: Ripetizione della procedura e tutela giurisdizionale, Ripetizione della procedura",
+        "citation": "Art. 68 LSIn",
+        "content": "La procedura di sicurezza relativa alle aziende è ripetuta se:\na. al momento della scadenza della validità della dichiarazione di sicurezza aziendale è in corso l’esecuzione di un mandato sensibile;\nb. vi sono indizi concreti che in seguito a cambiamenti sostanziali in seno all’azienda sono emersi nuovi rischi per la sicurezza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_68"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 6: Ripetizione della procedura e tutela giurisdizionale, Tutela giurisdizionale",
+        "citation": "Art. 69 cpv. 1 LSIn",
+        "content": "Dopo la notifica di una decisione del servizio specializzato PSA, l’azienda ha 30 giorni di tempo per:\na. consultare i documenti;\nb. esigere la rettifica dei dati errati o la distruzione dei dati non più attuali;\nc. far apporre una menzione che rileva il carattere contestato dei dati;\nd. interporre ricorso presso il Tribunale amministrativo federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_69"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 6: Ripetizione della procedura e tutela giurisdizionale, Tutela giurisdizionale",
+        "citation": "Art. 69 cpv. 2 LSIn",
+        "content": "La restrizione del diritto d’accesso è retta dall’articolo 26 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_69"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Sistema d’informazione per la procedura di sicurezza relativa alle aziende",
+        "citation": "Art. 70 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA gestisce un sistema d’informazione per l’esecuzione e la gestione della procedura di sicurezza relativa alle aziende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Sistema d’informazione per la procedura di sicurezza relativa alle aziende",
+        "citation": "Art. 70 cpv. 2 LSIn",
+        "content": "Nel sistema d’informazione possono essere trattati dati personali degni di particolare protezione secondo l’articolo 5 lettera c LPD, sempre che sia necessario per l’esecuzione della procedura di sicurezza relativa alle aziende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Sistema d’informazione per la procedura di sicurezza relativa alle aziende",
+        "citation": "Art. 70 cpv. 3 LSIn",
+        "content": "Il sistema d’informazione contiene i dati seguenti:\na. i dati secondo gli articoli 56 e 59 capoverso 3;\nb. il risultato della valutazione secondo l’articolo 55 capoverso 2;\nc. i risultati dei controlli di sicurezza relativi alle persone secondo l’articolo 60 capoverso 1 necessari per la procedura di sicurezza relativa alle aziende;\nd. la decisione del servizio specializzato PSA secondo l’articolo 60 capoverso 2;\ne. i nomi di tutte le aziende titolari di una dichiarazione di sicurezza aziendale;\nf. le misure risultanti da eventuali controlli secondo l’articolo 64;\ng. dati e atti di procedure di ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Sistema d’informazione per la procedura di sicurezza relativa alle aziende",
+        "citation": "Art. 70 cpv. 4 LSIn",
+        "content": "Il servizio specializzato PSA è responsabile della sicurezza del sistema d’informazione e della liceità del trattamento dei dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 71 cpv. 1 LSIn",
+        "content": "I servizi seguenti hanno accesso, mediante procedura di richiamo, ai dati qui appresso:\na. i mandanti, ai dati di cui all’articolo 70 capoverso 3 lettere b e d‒g;\nb. le aziende interessate, sempre che siano state autorizzate dal Consiglio federale, in virtù dell’articolo 31 capoverso 1 lettera a, ad avviare controlli di sicurezza relativi alle persone nel rispettivo ambito di competenza, ai dati di cui all’articolo 70 capoverso 3 lettera d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_71"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Diritti d’accesso e comunicazione dei dati",
+        "citation": "Art. 71 cpv. 2 LSIn",
+        "content": "Il servizio specializzato PSA può inoltre comunicare ad altri servizi della Confederazione i dati di cui all’articolo 70 capoverso 3 lettere b‒d, sempre che sia necessario per garantire la sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_71"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 72 cpv. 1 LSIn",
+        "content": "Il servizio specializzato PSA conserva i dati fintanto che l’azienda interessata è in possesso di una dichiarazione di sicurezza aziendale, ma al massimo per dieci anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 72 cpv. 2 LSIn",
+        "content": "L’archiviazione dei dati è retta dalle disposizioni della legislazione in materia di archiviazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 7: Trattamento dei dati personali, Conservazione, archiviazione e distruzione dei dati",
+        "citation": "Art. 72 cpv. 3 LSIn",
+        "content": "Se la procedura di sicurezza relativa alle aziende è abbandonata, tutti i relativi dati e atti sono distrutti al più tardi dopo tre mesi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 4: Procedura di sicurezza relativa alle aziende, Sezione 8: Disposizioni del Consiglio federale",
+        "citation": "Art. 73 LSIn",
+        "content": "Il Consiglio federale disciplina:\na. i dettagli della procedura di sicurezza relativa alle aziende;\nb. l’applicazione alle imprese subappaltatrici della procedura di sicurezza relativa alle aziende; \nc. l’organizzazione del servizio specializzato PSA;\nd. la sicurezza dei dati nel sistema d’informazione secondo l’articolo 70;\ne. il controllo periodico del trattamento dei dati personali da parte di un organo esterno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_73"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Compiti della Confederazione",
+        "citation": "Art. 74 cpv. 1 LSIn",
+        "content": "La Confederazione sostiene i gestori di infrastrutture critiche per garantire che le interruzioni delle reti e dei sistemi nonché gli abusi siano rari, di breve durata, gestibili e che il danno sia limitato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Compiti della Confederazione",
+        "citation": "Art. 74 cpv. 2 LSIn",
+        "content": "Il sostegno nell’ambito della sicurezza delle informazioni comprende:\na. l’identificazione e la valutazione tempestive di minacce, pericoli, vulnerabilità e lacune nella sicurezza;\nb. l’individuazione di incidenti;\nc. la tutela e il ripristino della sicurezza delle informazioni dopo un incidente;\nd. il seguito del trattamento degli incidenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Compiti della Confederazione",
+        "citation": "Art. 74 cpv. 3 LSIn",
+        "content": "La Confederazione gestisce un servizio nazionale di preallerta e un punto di contatto per misure preventive e reattive nell’ambito della sicurezza tecnica delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Compiti della Confederazione",
+        "citation": "Art. 74 cpv. 4 LSIn",
+        "content": "Provvede affinché i gestori di infrastrutture critiche possano scambiare informazioni in modo sicuro tra di loro e con i servizi competenti della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Compiti della Confederazione",
+        "citation": "Art. 74 cpv. 5 LSIn",
+        "content": "Il Consiglio federale designa i servizi della Confederazione competenti per tali compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Trattamento di dati personali",
+        "citation": "Art. 75 cpv. 1 LSIn",
+        "content": "Per l’adempimento dei propri compiti, i servizi di cui all’articolo 74 capoverso 5 possono trattare elementi di indirizzo di cui all’articolo 3 lettera f LTC e i relativi dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Trattamento di dati personali",
+        "citation": "Art. 75 cpv. 2 LSIn",
+        "content": "Possono trattare i dati di cui al capoverso 1 anche se questi contengono informazioni concernenti:\na. opinioni religiose, filosofiche o politiche; il trattamento è ammesso unicamente qualora sia necessario per la valutazione di minacce e pericoli concreti nell’ambito della sicurezza delle informazioni;\nb. procedimenti e sanzioni di carattere amministrativo o penale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Trattamento di dati personali",
+        "citation": "Art. 75 cpv. 3 LSIn",
+        "content": "I dati personali possono essere trattati all’insaputa delle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Trattamento di dati personali",
+        "citation": "Art. 75 cpv. 4 LSIn",
+        "content": "In caso di indizi concreti di usurpazione d’identità o di utilizzazione non autorizzata di elementi di indirizzo, le persone interessate devono essere informate. È fatto salvo l’articolo 20 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello nazionale",
+        "citation": "Art. 76 cpv. 1 LSIn",
+        "content": "I servizi di cui all’articolo 74 capoverso 5 possono comunicare ai gestori di infrastrutture critiche dati personali di cui all’articolo 75, sempre che sia appropriato per garantire la sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello nazionale",
+        "citation": "Art. 76 cpv. 2 LSIn",
+        "content": "Possono comunicare ai fornitori e ai gestori di servizi informatici e di comunicazione dati personali di cui all’articolo 75, sempre che sia necessario per garantire la sicurezza delle informazioni di infrastrutture critiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello nazionale",
+        "citation": "Art. 76 cpv. 3 LSIn",
+        "content": "I gestori di infrastrutture critiche nonché i fornitori e i gestori di servizi informatici e di comunicazione possono comunicare ai servizi di cui all’articolo 74 capoverso 5 dati, inclusi dati personali, inerenti a un incidente determinato. I servizi di cui all’articolo 74 capoverso 5 possono trasmettere tali dati ai fini del perseguimento penale unicamente previo consenso esplicito del fornitore dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello internazionale",
+        "citation": "Art. 77 cpv. 1 LSIn",
+        "content": "I servizi di cui all’articolo 74 capoverso 5 possono scambiare dati di cui all’articolo 75 con servizi esteri e internazionali competenti per la protezione di infrastrutture critiche se tali dati sono necessari per l’adempimento di compiti corrispondenti a quelli secondo l’articolo 74.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello internazionale",
+        "citation": "Art. 77 cpv. 2 LSIn",
+        "content": "Lo scambio di dati secondo il capoverso 1 è ammesso soltanto se i servizi esteri e internazionali garantiscono che i dati sono trattati esclusivamente per i fini previsti da tale disposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Cooperazione a livello internazionale",
+        "citation": "Art. 77 cpv. 3 LSIn",
+        "content": "Se i dati sono necessari per un procedimento legale all’estero, si applicano le disposizioni in materia di assistenza amministrativa e di assistenza giudiziaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Sistema d’informazione per il sostegno alle infrastrutture critiche",
+        "citation": "Art. 78 cpv. 1 LSIn",
+        "content": "I servizi di cui all’articolo 74 capoverso 5 gestiscono un sistema d’informazione per garantire lo scambio sicuro di informazioni con i gestori di infrastrutture critiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Sistema d’informazione per il sostegno alle infrastrutture critiche",
+        "citation": "Art. 78 cpv. 2 LSIn",
+        "content": "Il sistema d’informazione contiene le informazioni seguenti:\na. descrizioni e valutazioni di minacce e pericoli;\nb. istruzioni per individuare e risolvere tecnicamente gli incidenti;\nc. analisi di incidenti e raccomandazioni in materia di sicurezza;\nd. analisi delle vulnerabilità dei mezzi informatici;\ne. corrispondenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Sistema d’informazione per il sostegno alle infrastrutture critiche",
+        "citation": "Art. 78 cpv. 3 LSIn",
+        "content": "Le informazioni di cui al capoverso 2 possono contenere anche dati personali secondo l’articolo 75.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Conservazione e archiviazione dei dati",
+        "citation": "Art. 79 cpv. 1 LSIn",
+        "content": "I servizi di cui all’articolo 74 capoverso 5 conservano i dati personali soltanto fino a che sono utili per prevenire minacce o individuare incidenti, ma al massimo per cinque anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_79"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Conservazione e archiviazione dei dati",
+        "citation": "Art. 79 cpv. 2 LSIn",
+        "content": "L’archiviazione dei dati è retta dalle disposizioni della legislazione in materia di archiviazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_79"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 5: Infrastrutture critiche, Disposizioni del Consiglio federale",
+        "citation": "Art. 80 LSIn",
+        "content": "Il Consiglio federale disciplina:\na. la ripartizione dei compiti, la collaborazione e lo scambio di informazioni tra i servizi di cui all’articolo 74 capoverso 5 e il SIC;\nb. la comunicazione di informazioni a gestori di infrastrutture critiche, a terzi nonché a servizi esteri e internazionali;\nc. la responsabilità in materia di protezione dei dati in relazione con il sistema d’informazione di cui all’articolo 78 e la sicurezza dei dati;\nd. il controllo periodico del trattamento dei dati personali nel sistema d’informazione di cui all’articolo 78 da parte di un organo esterno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_80"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Incaricati della sicurezza delle informazioni",
+        "citation": "Art. 81 cpv. 1 LSIn",
+        "content": "Le autorità e organizzazioni seguenti designano per il rispettivo ambito di competenza un incaricato della sicurezza delle informazioni e un sostituto:\na. il Consiglio federale;\nb. la Delegazione amministrativa dell’Assemblea federale;\nc. i tribunali della Confederazione;\nd. il Ministero pubblico della Confederazione;\ne. la Banca nazionale svizzera;\nf. i dipartimenti e la Cancelleria federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Incaricati della sicurezza delle informazioni",
+        "citation": "Art. 81 cpv. 2 LSIn",
+        "content": "Gli incaricati della sicurezza delle informazioni hanno i compiti seguenti:\na. offrono consulenza e assistenza ai servizi competenti, nel rispettivo ambito, per l’adempimento dei compiti e degli obblighi secondo la presente legge;\nb. dirigono, su incarico della rispettiva autorità od organizzazione, l’organizzazione specialistica in materia di sicurezza delle informazioni e la relativa gestione dei rischi;\nc. verificano, su incarico della rispettiva autorità od organizzazione, il rispetto delle direttive in materia di sicurezza delle informazioni, redigono rapporti e propongono le misure necessarie;\nd. possono annunciare incidenti rilevanti sotto il profilo della sicurezza al servizio specializzato della Confederazione per la sicurezza delle informazioni e ai servizi di cui all’articolo 74 capoverso 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Incaricati della sicurezza delle informazioni",
+        "citation": "Art. 81 cpv. 3 LSIn",
+        "content": "Agli incaricati della sicurezza delle informazioni non sono attribuiti compiti suscettibili di generare un conflitto d’interessi con i compiti di cui al capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Conferenza degli incaricati della sicurezza delle informazioni",
+        "citation": "Art. 82 cpv. 1 LSIn",
+        "content": "La Conferenza degli incaricati della sicurezza delle informazioni è composta degli incaricati della sicurezza delle informazioni secondo l’articolo 81 capoverso 1, di due rappresentanti dei Cantoni e dell’Incaricato federale della protezione dei dati e della trasparenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Conferenza degli incaricati della sicurezza delle informazioni",
+        "citation": "Art. 82 cpv. 2 LSIn",
+        "content": "Ha i compiti seguenti:\na. promuove l’esecuzione uniforme della presente legge;\nb. partecipa alla standardizzazione dei requisiti e delle misure secondo l’articolo 85;\nc. offre consulenza al servizio specializzato della Confederazione per la sicurezza delle informazioni in tutte le questioni relative al coordinamento dell’esecuzione e in questioni d’importanza strategica;\nd. provvede allo scambio di informazioni, in particolare in relazione con la gestione dei rischi nonché con problemi e incidenti nell’ambito della sicurezza delle informazioni;\ne. provvede al coordinamento con altri servizi che adempiono compiti nell’ambito della sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Conferenza degli incaricati della sicurezza delle informazioni",
+        "citation": "Art. 82 cpv. 3 LSIn",
+        "content": "Adotta un proprio regolamento interno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Servizio specializzato della Confederazione per la sicurezza delle informazioni",
+        "citation": "Art. 83 cpv. 1 LSIn",
+        "content": "Il Servizio specializzato della Confederazione per la sicurezza delle informazioni ha i compiti seguenti:\na. offre consulenza e assistenza alle autorità assoggettate, ai loro incaricati della sicurezza delle informazioni e ai Cantoni nell’esecuzione della presente legge;\nb. può formulare raccomandazioni in caso di minacce per la sicurezza delle informazioni della Confederazione;\nc. può eseguire verifiche su richiesta delle autorità assoggettate;\nd. può valutare, su richiesta delle autorità assoggettate, i rischi per la sicurezza delle informazioni connessi con l’impiego di nuove tecnologie;\ne. può verificare, su richiesta delle autorità e organizzazioni assoggettate, se i loro processi, mezzi, installazioni, oggetti e prestazioni soddisfano i requisiti in materia di sicurezza delle informazioni;\nf. può dirigere e coordinare, su richiesta delle autorità assoggettate, la sicurezza delle informazioni nel quadro di progetti importanti che coinvolgono più autorità;\ng. è l’interlocutore per i contatti specialistici con servizi svizzeri, esteri e internazionali;\nh. redige annualmente per il Consiglio federale un rapporto sullo stato della sicurezza delle informazioni della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Servizio specializzato della Confederazione per la sicurezza delle informazioni",
+        "citation": "Art. 83 cpv. 2 LSIn",
+        "content": "L’Incaricato del Consiglio federale per la sicurezza delle informazioni è nel contempo capo del Servizio specializzato della Confederazione per la sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 1: Organizzazione, Servizio specializzato della Confederazione per la sicurezza delle informazioni",
+        "citation": "Art. 83 cpv. 3 LSIn",
+        "content": "Il Consiglio federale disciplina l’organizzazione del Servizio specializzato della Confederazione per la sicurezza delle informazioni. Può assegnargli ulteriori compiti a favore dell’Amministrazione federale e dell’esercito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Disposizioni esecutive",
+        "citation": "Art. 84 cpv. 1 LSIn",
+        "content": "Le autorità assoggettate emanano le disposizioni esecutive. Il Consiglio federale può delegare alla Cancelleria federale l’emanazione di disposizioni esecutive per gli affari del Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Disposizioni esecutive",
+        "citation": "Art. 84 cpv. 2 LSIn",
+        "content": "Nel caso dell’Assemblea federale, le competenze che la presente legge attribuisce alle autorità assoggettate sono assunte dalla sua Delegazione amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Disposizioni esecutive",
+        "citation": "Art. 84 cpv. 3 LSIn",
+        "content": "Le disposizioni esecutive del Consiglio federale si applicano per analogia alle autorità assoggettate, sempre che esse non emanino disposizioni esecutive proprie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Requisiti e misure standardizzati",
+        "citation": "Art. 85 cpv. 1 LSIn",
+        "content": "Il Consiglio federale stabilisce, secondo lo stato della scienza e della tecnica, requisiti standardizzati nonché misure organizzative, tecniche, edili e riguardanti il personale standardizzate per garantire la sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Requisiti e misure standardizzati",
+        "citation": "Art. 85 cpv. 2 LSIn",
+        "content": "Può delegare tale compito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Requisiti e misure standardizzati",
+        "citation": "Art. 85 cpv. 3 LSIn",
+        "content": "I requisiti e le misure standardizzati hanno carattere di raccomandazione, sempre che non siano dichiarati vincolanti dalle autorità assoggettate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Cantoni",
+        "citation": "Art. 86 cpv. 1 LSIn",
+        "content": "I Cantoni provvedono alla verifica periodica dell’applicazione e dell’efficacia della sicurezza delle informazioni secondo l’articolo 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Cantoni",
+        "citation": "Art. 86 cpv. 2 LSIn",
+        "content": "Informano il Servizio specializzato della Confederazione per la sicurezza delle informazioni sull’esito delle verifiche secondo il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Cantoni",
+        "citation": "Art. 86 cpv. 3 LSIn",
+        "content": "Ogni Cantone designa un servizio quale interlocutore delle autorità assoggettate per le questioni inerenti alla sicurezza delle informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Cantoni",
+        "citation": "Art. 86 cpv. 4 LSIn",
+        "content": "Il Consiglio federale stabilisce in quali casi i Cantoni possono ricorrere alle prestazioni dei servizi specializzati secondo la presente legge per la loro sicurezza delle informazioni. Le prestazioni sono soggette al pagamento di un emolumento. Il Consiglio federale stabilisce l’ammontare degli emolumenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Trattati internazionali",
+        "citation": "Art. 87 LSIn",
+        "content": "Il Consiglio federale è autorizzato a concludere trattati internazionali nel campo della sicurezza delle informazioni per:\na. lo scambio di informazioni su pericoli, vulnerabilità e incidenti in tale ambito, in particolare per quanto riguarda le infrastrutture critiche;\nb. lo scambio di informazioni classificate;\nc. l’esecuzione di controlli di sicurezza relativi alle persone e di procedure di sicurezza relative alle aziende;\nd. il riconoscimento di dichiarazioni di sicurezza;\ne. l’esecuzione di controlli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_87"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Valutazione",
+        "citation": "Art. 88 cpv. 1 LSIn",
+        "content": "Il Consiglio federale provvede affinché l’applicazione, l’adeguatezza, l’efficacia e l’economicità della presente legge siano periodicamente verificate da un servizio indipendente quale il Controllo federale delle finanze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_88"
+    },
+    {
+        "book": "ISG",
+        "title": "LSIn, Capitolo 6: Organizzazione ed esecuzione, Sezione 2: Esecuzione, Valutazione",
+        "citation": "Art. 88 cpv. 2 LSIn",
+        "content": "Redige periodicamente un rapporto per le commissioni competenti dell’Assemblea federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/it#art_88"
+    }
+]

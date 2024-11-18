@@ -1,0 +1,464 @@
+[
+    {
+        "book": "WEG",
+        "title": "WEG, Einleitung, Zweck",
+        "citation": "Art. 1 WEG",
+        "content": "1 Das Gesetz bezweckt, die Erschliessung von Land für den Wohnungsbau sowie den Bau von Wohnungen zu fördern, die Wohnkosten, vorab die Mietzinse, zu verbilligen und den Erwerb von Wohnungs- und Hauseigentum zu erleichtern.2 Bei der Durchführung dieser Aufgaben arbeitet der Bund mit den interessierten Organisationen zusammen.3 Die Zuständigkeit der Kantone zur Ergänzung der Massnahmen des Bundes bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_1"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, Einleitung, Begriffe",
+        "citation": "Art. 2 WEG",
+        "content": "1 Wohnungen sind Räume, die für die dauernde Unterkunft von Personen geeignet und bestimmt sind.2 Eigentumswohnungen und Eigenheime gelten als Wohnungen im Sinne dieses Gesetzes.3 Zweit- und Ferienwohnungen fallen nicht unter das Gesetz.4 Auf Heime findet das Gesetz nur Anwendung, soweit es die Erschliessung und Sicherung von Land für den Wohnungsbau sowie die Wohnungsmarktforschung, Bauforschung und Baurationalisierung betrifft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_2"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, Verhältnis zur Raumplanung und zum Umweltschutz",
+        "citation": "Art. 3 WEG",
+        "content": "Der Bund fördert die Erschliessung von Bauland nach Massgabe der Raumplanung und des Umweltschutzes. Er trifft nach den folgenden Bestimmungen zusätzliche Massnahmen zur Förderung und Sicherstellung der Erschliessung sowie zur Beschaffung von Land für den Wohnungsbau und kann hierfür besondere Hilfe leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_3"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 1. Abschnitt: Allgemeines, Begriff",
+        "citation": "Art. 4 WEG",
+        "content": "1 Unter Groberschliessung wird die Versorgung eines zu überbauenden Gebiets mit den Hauptsträngen der Erschliessungsanlagen verstanden, namentlich Wasser-, Energieversorgungs- und Abwasserleitungen sowie Strassen und Wege, die unmittelbar dem zu erschliessenden Gebiet dienen.2 Die Feinerschliessung umfasst den Anschluss der einzelnen Grundstücke an die Hauptstränge der Erschliessungsanlagen mit Einschluss von öffentlich zugänglichen Quartierstrassen und öffentlichen Leitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_4"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 1. Abschnitt: Allgemeines, Erschliessungspflicht",
+        "citation": "Art. 5 WEG",
+        "content": "1 Die Grob- und Feinerschliessung der für den Wohnungsbau bestimmten Bauzonen ist entsprechend dem Bedarf in angemessenen Etappen innerhalb von 10 bis 15 Jahren durchzuführen.2 Das kantonale Recht bezeichnet die für die Erschliessung verantwortlichen öffentlichrechtlichen Körperschaften. Es kann die Feinerschliessung den Eigentümern überbinden und hat in diesem Fall die Ersatzvornahme durch die öffentlichrechtlichen Körperschaften vorzusehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_5"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 1. Abschnitt: Allgemeines, Erschliessungsbeiträge",
+        "citation": "Art. 6 WEG",
+        "content": "1 Die nach kantonalem Recht zuständigen öffentlichrechtlichen Körperschaften erheben von den Grundeigentümern angemessene Beiträge an die Kosten der Groberschliessung; die Beiträge werden kurz nach Fertigstellung der Anlagen fällig.2 Die Kosten der Feinerschliessung sind ganz oder zum überwiegenden Teil den Grundeigentümern zu überbinden.3 Der Bundesrat erlässt Rahmenbestimmungen, insbesondere über Höhe und Fälligkeit der Beitragsleistungen. Er trägt dabei Härtefällen und besonderen Verhältnissen Rechnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_6"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 2. Abschnitt: Umlegung von Bauland und Grenzregulierung, Grundsatz",
+        "citation": "Art. 7 WEG",
+        "content": "Ist die Erschliessung und die Überbauung eines Gebiets für den Wohnungsbau oder die Erneuerung von Wohnquartieren wegen ungünstiger Grundstückgrössen und ‐grenzen erschwert, so ist durch Umgestaltung der Grundstücke nach Form, Grösse und Gruppierung oder durch Grenzregulierung eine rationelle Überbauung zu ermöglichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_7"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 2. Abschnitt: Umlegung von Bauland und Grenzregulierung, Erschliessungs- und Neuordnungsumlegung",
+        "citation": "Art. 8 WEG",
+        "content": "1 Die Umlegung von überbauten und nicht überbauten Grundstücken wird eingeleitet auf Beschluss der zuständigen kantonalen Behörden oder durch Beschluss der Mehrheit der beteiligten Grundeigentümer, der mehr als die Hälfte des betroffenen Gebiets gehört.2 Die Kantone können die Befugnis zur behördlichen Anordnung der Landumlegung den Gemeinden erteilen; sie können ferner die Anforderungen an den Beschluss der beteiligten Grundeigentümer auf Einleitung der Umlegung erleichtern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_8"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 2. Abschnitt: Umlegung von Bauland und Grenzregulierung, Bauverpflichtung",
+        "citation": "Art. 9 WEG",
+        "content": "1 Werden die Eigentumsverhältnisse nach Artikel 8 neu geordnet, so kann die Zuteilung der Grundstücke mit der Auflage verbunden werden, dass die Grundstücke in einer für den Eigentümer zumutbaren Frist überbaut oder für Zwecke, die der Überbauung dienen, zur Verfügung gestellt werden (Bauverpflichtung).2 Die Bauverpflichtung ist im Grundbuch anzumerken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_9"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 2. Abschnitt: Umlegung von Bauland und Grenzregulierung, Grenzregulierung",
+        "citation": "Art. 10 WEG",
+        "content": "1 Wird die zweckmässige Überbauung eines Grundstückes oder einer Gruppe von Grundstücken infolge ungünstigen Grenzverlaufs erschwert oder verunmöglicht, so können die interessierten Eigentümer die Mitwirkung der Eigentümer der anstossenden Grundstücke bei der Grenzverbesserung verlangen.2 Im Rahmen einer solchen Grenzregulierung kann der Abtausch von Land im unbedingt nötigen Umfang und die Abtretung von höchstens drei Aren Land verlangt werden, sofern dadurch die Überbaubarkeit wesentlich verbessert wird und der Abtausch oder die Abtretung für den betroffenen Eigentümer nicht unzumutbar erscheint.3 Die Kantone können die Durchführung von Grenzregulierungen von Amtes wegen anordnen. Sie können die gleiche Befugnis den Gemeinden übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_10"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 1. Kapitel: Erschliessungsrecht, 2. Abschnitt: Umlegung von Bauland und Grenzregulierung, Zuständigkeit und Verfahren",
+        "citation": "Art. 11 WEG",
+        "content": "1 Das kantonale Recht ordnet Zuständigkeit und Verfahren sowie im Rahmen des Bundesrechtes die materiellen Grundsätze für die Umlegung von Bauland und die Grenzregulierung. Es stellt die Durchführung der Bauverpflichtung sicher und regelt den Rechtsschutz.2 Für Baulandumlegungen und Grenzregulierungen nach den Artikeln 8–10 dürfen keine Handänderungssteuern oder ähnliche Abgaben erhoben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_11"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 1. Abschnitt: Art",
+        "citation": "Art. 12 WEG",
+        "content": "Der Bund kann öffentlichrechtlichen Körperschaften sowie Trägern und Organisationen des Wohnungsbaues Darlehen zur Erschliessung von Land für den Wohnungsbau vermitteln und verbürgen. Er kann, wenn die Finanzierung infolge Mittelverknappung auf dem Kapitalmarkt erschwert ist, auch selber Darlehen gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_12"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 2. Abschnitt: Umfang",
+        "citation": "Art. 13 WEG",
+        "content": "1 Die Bundeshilfe erstreckt sich auf die Kosten der Groberschliessung.2 Bundeshilfe an die Kosten der Feinerschliessung wird geleistet, wenn und soweit das zu erschliessende Land mit öffentlicher Hilfe verbilligtem Wohnungsbau zugeführt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_13"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 3. Abschnitt: Voraussetzungen, Bedingungen und Auflagen, Raumplanung",
+        "citation": "Art. 14 WEG",
+        "content": "Die Erschliessungsanlagen, für deren Erstellung die Bundeshilfe verlangt wird, müssen den Richt- und Nutzungsplänen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_14"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 3. Abschnitt: Voraussetzungen, Bedingungen und Auflagen, Beitragsleistung",
+        "citation": "Art. 15 WEG",
+        "content": "Die Bundeshilfe setzt voraus, dass die Grundeigentümer zu angemessenen, in kurzer Zeit nach Fertigstellung der Anlagen fällig werdenden Beiträgen an die Erschliessungskosten nach Artikel 6 dieses Gesetzes verpflichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_15"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 3. Abschnitt: Voraussetzungen, Bedingungen und Auflagen, Bedingungen und Auflagen im Einzelfall",
+        "citation": "Art. 16 WEG",
+        "content": "1 Die zuständigen Bundesbehörden können Bedingungen und Auflagen zur Sicherstellung des Zwecks der Bundeshilfe festlegen, wie zweckmässige Grundstückgestaltung sowie Gewährleistung der Feinerschliessung und der Überbauung innerhalb angemessener Frist.2 Erschliessungsanlagen, die mit der rechtskräftigen Orts- und Regionalplanung übereinstimmen, gelten als zweckmässig im Sinne von Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_16"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 4. Abschnitt: Darlehen, Höhe",
+        "citation": "Art. 17 WEG",
+        "content": "1 Die Darlehen belaufen sich in der Regel auf 100 Prozent der für die Bundeshilfe in Betracht fallenden Kosten.2 Von Bund, Kantonen oder Dritten bis zum Zeitpunkt der Auszahlung des Darlehens geleistete Beiträge sind bei der Bestimmung der Höhe zu berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_17"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 4. Abschnitt: Darlehen, Tilgung und Verzinsung",
+        "citation": "Art. 18 WEG",
+        "content": "1 Das Darlehen muss innerhalb von längstens 20, ausnahmsweise längstens 25 Jahren seit der Auszahlung zurückbezahlt werden.2 Die Darlehen können zu günstigeren als den marktüblichen Zinssätzen gewährt, und es kann in den ersten Jahren auf die Tilgung verzichtet werden.3 Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_18"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 4. Abschnitt: Darlehen, Darlehen Dritter und Verbürgung",
+        "citation": "Art. 19 WEG",
+        "content": "Die vom Bund vermittelten und verbürgten Darlehen sind in Bezug auf die Verzinsung und Tilgung den direkten Bundesdarlehen gleichgestellt. Ein allfälliger Zinsunterschied wird vom Bund getragen. Soweit nötig, bevorschusst er die Tilgungszahlungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_19"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 2. Kapitel: Erschliessungshilfe, 4. Abschnitt: Darlehen, Sicherungsbestimmungen",
+        "citation": "Art. 20 WEG",
+        "content": "Werden die an die Zusicherung der Bundeshilfe geknüpften allgemeinen Voraussetzungen oder besonderen Bedingungen und Auflagen nicht erfüllt, so sind die Darlehen zum marktüblichen Satz zu verzinsen. Für zu Unrecht entgegengenommene Zinsvergünstigungen ist der entsprechende Zinsunterschied nachzuzahlen. Die zuständige Bundesstelle kann ferner die Laufzeit herabsetzen und die ganze oder teilweise Rückzahlung der Darlehen verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_20"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 3. Kapitel: Vorsorglicher Landerwerb, Allgemeines",
+        "citation": "Art. 21 WEG",
+        "content": "Der Bund kann den vorsorglichen Erwerb von Land für den Wohnungsbau fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_21"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 3. Kapitel: Vorsorglicher Landerwerb, Art und Umfang",
+        "citation": "Art. 22 WEG",
+        "content": "1 Der Bund kann öffentlichrechtlichen Körperschaften sowie Trägern und Organisationen des gemeinnützigen Wohnungsbaus Darlehen für den vorsorglichen Landerwerb vermitteln und verbürgen. Er kann, wenn die Finanzierung infolge Mittelverknappung auf dem Kapitalmarkt erschwert ist, auch selber Darlehen gewähren.2 Die Darlehen können sich auch auf die Zinsen der Landerwerbskosten erstrecken.3 Die Darlehen betragen in der Regel 50 Prozent der gesamten Landerwerbskosten und sind grundpfändlich sicherzustellen. Allfällige gesetzliche Belehnungsgrenzen sind nicht anwendbar.4 Der Bundesrat setzt die allgemeinen Voraussetzungen der Hilfe fest und umschreibt die Auflagen und Bedingungen, die an die Hilfe geknüpft werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_22"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 3. Kapitel: Vorsorglicher Landerwerb, Baurecht",
+        "citation": "Art. 23 WEG",
+        "content": "Die Hilfe des Bundes für den vorsorglichen Landerwerb kann auch für die Bevorschussung von Baurechtszinsen gewährt werden, sofern\n– das Baurecht von einer öffentlich-rechtlichen Körperschaft oder einer gemeinnützigen Institution erteilt wird,\n– es zu Bedingungen gewährt wird, die für den Baurechtsnehmer gegenüber dem Kauf des Landes nachweisbar erheblich günstiger sind und\n– sichergestellt ist, dass die Überbauung in der Regel innerhalb von längstens fünf Jahren erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_23"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 1. Titel: Erschliessung und Sicherung von Land für den Wohnungsbau, 3. Kapitel: Vorsorglicher Landerwerb, Sicherungsmassnahmen",
+        "citation": "Art. 24 WEG",
+        "content": "1 Dem Bund steht an Grundstücken, die mit seiner Hilfe erworben wurden, während der Dauer der Darlehenshingabe oder -verbürgung sowie zehn Jahre über diese Dauer hinaus ein Vorkaufsrecht zu.2 Es steht ihm an solchen Grundstücken überdies ein Kaufsrecht zu, sofern die Grundstücke ihrem Zweck entfremdet oder nicht binnen 10 Jahren nach ihrem Erwerb erschlossen oder überbaut werden und weiterhin ein Bedarf an Wohnungen vorhanden ist. Erfolgt die Zweckentfremdung im öffentlichen Interesse oder besteht kein Bedarf mehr an Wohnungen, so kann der Bund statt das Kaufsrecht auszuüben, die Darlehen samt Zinsen zurückverlangen. Das Kaufsrecht dauert 15 Jahre seit dem Datum der Gewährung der Bundeshilfe.3 Die Ausübung des Vorkaufsrechts und des Kaufsrechts erfolgt zu den um den Mehrwert des Eigenkapitals erhöhten Selbstkosten; der Bundesrat ordnet die Berechnung des Mehrwertes.4 Vorkaufs- und Kaufsrecht sind im Grundbuch als öffentlichrechtliche Eigentumsbeschränkungen anzumerken. Sie können den Kantonen, Gemeinden sowie Organisationen und Trägern des gemeinnützigen Wohnungsbaus abgetreten werden. Die zuständige Bundesstelle kann unter den in den Ausführungsvorschriften zu umschreibenden Voraussetzungen auf das Kaufsrecht verzichten.5 Diese Bestimmungen gelten sinngemäss für das Baurecht.6 Die grundpfändliche Belastung der mit Bundeshilfe erworbenen Grundstücke bedarf der Zustimmung des Bundes.7 Die weiteren Einzelheiten ordnet der Bundesrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 1. Kapitel: Wohnungsmarktforschung, Grundsatz",
+        "citation": "Art. 25 WEG",
+        "content": "1 Der Bund kann die Wohnungsmarktforschung fördern. Sie soll insbesondere die Übersicht über die Marktverhältnisse verbessern, die Angebots- und Nachfragetendenzen auf dem Wohnungsmarkt ermitteln und die Wohnbedürfnisse abklären.2 Er stimmt die Forschungstätigkeiten und die statistischen Erhebungen aufeinander ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_25"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 1. Kapitel: Wohnungsmarktforschung, Durchführung",
+        "citation": "Art. 26 WEG",
+        "content": "Soweit der Bund die Wohnungsmarktforschung nicht selbst betreibt, kann er Forschungsaufträge an geeignete öffentliche und private Institutionen und Fachleute erteilen oder sich finanziell an Arbeiten Dritter beteiligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_26"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 1. Kapitel: Wohnungsmarktforschung, Auskunftspflicht",
+        "citation": "Art. 27 WEG",
+        "content": "Jedermann hat die für Forschungen und Erhebungen nach Artikel 25 erforderlichen Angaben zur Verfügung zu stellen. Geschäftsgeheimnisse sind zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_27"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 28 WEG",
+        "content": "1 Der Bund kann, vor allem im Interesse der Baurationalisierung, Forschungs- und Entwicklungsarbeiten auf dem Gebiet des Bauwesens fördern. Er stimmt die Forschungs- und Entwicklungsarbeiten aufeinander ab und sorgt für die Verbreitung ihm zugänglicher Forschungsergebnisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_28"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 28 WEG",
+        "content": "2 Der Bund kann die Normierung und Standardisierung von Bauteilen und Bauten fördern.3 Der Bund kann die Anwendung rationeller Bauarten und Arbeitsmethoden fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_28"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 2. Abschnitt: Durchführung, Förderung im Allgemeinen",
+        "citation": "Art. 29 WEG",
+        "content": "1 Der Bund stellt Forschungs- und Entwicklungspläne sowie Dringlichkeitsordnungen auf.2 Die Förderung erfolgt durch Erteilung von Forschungs- und Entwicklungsauf-trägen an geeignete öffentliche oder private Institutionen und Fachleute oder durch finanzielle Beteiligung an Arbeiten Dritter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_29"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 2. Abschnitt: Durchführung, Ausmass der Beteiligung",
+        "citation": "Art. 30 WEG",
+        "content": "Der Bund beteiligt sich in der Regel bis zu 40 Prozent an den Kosten von Forschungs- und Entwicklungsarbeiten, soweit er nicht direkte Aufträge erteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_30"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 2. Abschnitt: Durchführung, Richtlinien über die Baurationalisierung",
+        "citation": "Art. 31 WEG",
+        "content": "1 Der Bundesrat erlässt Richtlinien über die Baurationalisierung.2 Er trägt dabei dem jeweiligen Stand der Forschung und Technik, den regionalen Besonderheiten, der Erhaltung des Orts- und Landschaftsbildes sowie der Lebensweise der Bevölkerung Rechnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_31"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 2. Titel: Wohnungsmarktforschung, Bauforschung und Baurationalisierung, 2. Kapitel: Bauforschung und Baurationalisierung, 3. Abschnitt: Bauvorschriften",
+        "citation": "Art. 32 WEG",
+        "content": "1 Soweit nötig, erlässt der Bundesrat die für die Baurationalisierung unerlässlichen rechtlichen Vorschriften.2 Artikel 31 Absatz 2 ist sinngemäss anwendbar.3 Die Kantone und die interessierten Organisationen sind vorher anzuhören.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_32"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 3. Titel: Kapitalbeschaffung, Grundsatz",
+        "citation": "Art. 33 WEG",
+        "content": "Ist die Finanzierung einer ausreichenden Zahl von Wohnungen nicht sichergestellt, so kann der Bund Darlehen vermitteln und verbürgen. Er kann, wenn die Finanzierung infolge Mittelverknappung auf dem Kapitalmarkt erschwert ist auch selber Darlehen gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_33"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 1. Teil: Förderung des Wohnungsbaus im allgemeinen, 3. Titel: Kapitalbeschaffung, Durchführung",
+        "citation": "Art. 34 WEG",
+        "content": "1 Die Darlehen werden Finanzinstituten oder öffentlichrechtlichen Körperschaften zur Verfügung gestellt und sind zu marktüblichen Sätzen zu verzinsen.2 Der Bundesrat regelt die Laufzeit und die Tilgungsfristen unter Berücksichtigung der Marktverhältnisse.3 Er ordnet die Voraussetzungen, unter denen die Mittel an die Gesuchsteller weiterzuleiten sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_34"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 1. Titel: Grundsatz",
+        "citation": "Art. 35 WEG",
+        "content": "1 Der Bund unterstützt durch gezielte Massnahmen nach den folgenden Bestimmungen den Bau von Wohnungen zu besonders günstigen Mietzinsen.2 Diese Massnahmen erstrecken sich auf\na. die Grundverbilligung, die bei Erfüllung bestimmter Voraussetzungen mit der Restfinanzierungshilfe eine möglichst tiefe Ansetzung des Anfangsmietzinses unter den Eigentümerlasten ermöglicht;\nb. die Zusatzverbilligung zur Senkung des kostendeckenden Anfangsmietzinses um insgesamt 30 Prozent für Wohnungen für Bevölkerungskreise mit beschränkten Einkommen;\nc. die Zusatzverbilligung zur Senkung des kostendeckenden Anfangsmietzinses um insgesamt 40 Prozent für Wohnungen für Betagte, Invalide und Pflegebedürftige mit Einschluss des für deren Betreuung erforderlichen Personals sowie für Wohnungen von Personen, die in Ausbildung stehen.3 Die Zahl der mit Bundeshilfe jährlich zu verbilligenden Wohnungen richtet sich nach den Bedürfnissen des Marktes und der verfügbaren Mittel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_35"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Finanzierung",
+        "citation": "Art. 36 WEG",
+        "content": "Zur Durchführung der Grundverbilligung vermittelt und verbürgt der Bund grundpfändlich sicherzustellende Darlehen von in der Regel bis zu 90 Prozent der zulässigen Anlagekosten. Er kann, wenn die Finanzierung infolge Mittelverknappung auf dem Kapitalmarkt erschwert ist, auch selber Darlehen gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_36"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Vorschüsse",
+        "citation": "Art. 37 WEG",
+        "content": "1 Zur Deckung des Unterschieds zwischen den Eigentümerlasten und dem grundverbilligten Mietzins leistet der Bund rückzahlbare, verzinsliche und grundpfändlich sicherzustellende Vorschüsse.2 Als Eigentümerlasten gelten die Zinsen des investierten Fremd- und Eigenkapitals, die Unterhalts- und Verwaltungskosten und Leistungen, die die Tilgung der Hypothekarschulden auf 60 Prozent der Anlagekosten in 25 Jahren ermöglichen.3 Der grundverbilligte Mietzins ist derjenige, der unter Einberechnung einer Jährlichen Mietzinserhöhung während 25 Jahren die Eigentümerlasten nach Absatz 2 deckt. Die in Absatz 2 nicht erwähnten Eigentümerlasten gelten als Nebenkosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Vorschüsse",
+        "citation": "Art. 37 WEG",
+        "content": "4 Die Vorschüsse sind höchstens zum üblichen Satz der zweiten Hypothek zu verzinsen. Bei nicht termingerechter Rückzahlung der Vorschüsse oder Bezahlung der Zinsen wird zusätzlich ein marktüblicher Verzugszins berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Unterhalts- und Verwaltungskosten: Nebenkosten",
+        "citation": "Art. 38 WEG",
+        "content": "1 Die Unterhalts- und Verwaltungskosten sind der Kostenentwicklung anzupassen.2 Die Nebenkosten können dem Mieter gesondert nach Aufwand verrechnet werden. Es betrifft dies insbesondere Heizung und Warmwasser, Stromverbrauch, Hauswartkosten und Gartenunterhalt sowie öffentliche Abgaben, wie Objektsteuern, Strassenbeleuchtungsprämien, Gebäudeversicherungsprämien, Kehrichtabfuhrgebühren. Wasserzins und Abwasserreinigungsgebühren.3 Der Bundesrat ordnet die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_38"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Bedingungen",
+        "citation": "Art. 39 WEG",
+        "content": "Die Restfinanzierungshilfe wird dem Eigentümer gewährt, der sich zur Rückzahlung der Darlehen nach dem Finanzierungsplan verpflichtet und sich der Mietzinsüberwachung (Art. 45) unterstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_39"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Mietzinsausfälle, Änderungen des Mietzinsplanes",
+        "citation": "Art. 40 WEG",
+        "content": "1 Entstehen infolge besonderer Umstände Mietzinsausfälle oder wird der Mietzinsplan zuungunsten des Eigentümers geändert, so kann ihm der Bund zur Erfüllung der Verpflichtungen aus dem Finanzierungs- und Tilgungsplan zusätzliche Vorschüsse oder, wenn es die Umstände rechtfertigen, nicht rückzahlbare Zuschüsse gewähren. Nötigenfalls können die Rückzahlungen von Vorschüssen gestundet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Mietzinsausfälle, Änderungen des Mietzinsplanes",
+        "citation": "Art. 40 Abs. 2 WEG",
+        "content": "Nach 30 Jahren noch geschuldete Vorschüsse und Zinsbetreffnisse werden vom Bund erlassen, soweit:\na. sie nach dem Finanzierungs- und Tilgungsplan bis zu diesem Zeitpunkt nicht zur Rückzahlung fällig geworden sind; und\nb. die fälligen Vorschüsse und Zinsbetreffnisse bezahlt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Mietzinsausfälle, Änderungen des Mietzinsplanes",
+        "citation": "Art. 40 Abs. Eingefügt durch Ziff. I des BG vom 21. März 2003, in Kraft seit 1. Okt. 2003 (AS 2003 3098 3099; BBl 2002 2829). WEG",
+        "content": "2bis Ein Erlass vor Ablauf von 30 Jahren ist möglich, wenn die Marktverhältnisse es erfordern und Verluste aus Bürgschafts- oder Schuldverpflichtungen verringert oder vermieden werden können, oder bei der Zwangsverwertung von Liegenschaften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Mietzinsausfälle, Änderungen des Mietzinsplanes",
+        "citation": "Art. 40 Abs. 2ter WEG",
+        "content": "...3 Der Bundesrat ordnet die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 2. Titel: Grundverbilligung, Sicherung des Aufschubs der Eigenkapitalverzinsung",
+        "citation": "Art. 41 WEG",
+        "content": "Hauseigentümern, die zur weiteren Verbilligung der Mietzinse die Verzinsung des Eigenkapitals aufgeschoben haben und aus wichtigen Gründen gezwungen sind, die Liegenschaft oder die Wohnung zu verkaufen, gewährleistet der Bund einen Verkaufspreis, der jenem Preis entspricht, zu dem der Bund bei Ausübung des Kaufs- und Vorkaufsrechts gemäss Artikel 50 Absatz 2 die Liegenschaft oder Wohnung erwerben könnte. Der Betrag des anrechenbaren Eigenkapitals erhöht sich um den Betrag der aufgeschobenen Eigenkapitalzinsen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_41"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 3. Titel: Zusatzverbilligung",
+        "citation": "Art. 42 WEG",
+        "content": "1 Die Zusatzverbilligung besteht in jährlich gleich bleibenden, nicht rückzahlbaren Zuschüssen des Bundes.2 Sie setzt die Grundverbilligung voraus. Die Zusatzverbilligung kann auch Eigentümern gewährt werden, die alle Bedingungen der Grundverbilligung erfüllen, auf die Beanspruchung der Restfinanzierungshilfe jedoch verzichtet haben.3 Die mit der Zusatzverbilligung erstellten und erneuerten Wohnungen dürfen nur an Personen vermietet werden, deren Einkommen die vom Bundesrat festzusetzenden Grenzen nicht übersteigen.4 Der Bundesrat setzt die übrigen Voraussetzungen für die Zusatzverbilligung fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_42"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 4. Titel: Weitere Bestimmungen, Erneuerung bestehender Wohnungen",
+        "citation": "Art. 43 WEG",
+        "content": "Der Bundesrat ordnet die Voraussetzungen, unter denen Bundeshilfe an die Erneuerung bestehender Wohnungen gewährt wird. Dabei dürfen die Gesamtkosten nicht höher liegen als die Kosten vergleichbarer neuer Wohnungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_43"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 4. Titel: Weitere Bestimmungen, Anforderungen an die Bauvorhaben",
+        "citation": "Art. 44 WEG",
+        "content": "Die Bauvorhaben müssen den Anforderungen der Landes‐, Regional- und Ortsplanung, den Mindestvorschriften über Grösse und Ausstattung sowie den Anforderungen der Baurationalisierung entsprechen, sich in Bezug auf Land- und Baukosten an die jeweils geltenden Grenzen halten und den in der betreffenden Region bestehenden Wohnbedürfnissen Rechnung tragen, insbesondere durch Einbezug von Wohnungen für Betagte, Invalide, kinderreiche Familien und Personen mit beschränkten Erwerbsmöglichkeiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_44"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 4. Titel: Weitere Bestimmungen, Mietzinsüberwachung",
+        "citation": "Art. 45 Abs. 1 WEG",
+        "content": "Die auf Grund dieses Gesetzes verbilligten Mietzinse unterliegen bis zur vollständigen Tilgung der Bundesvorschüsse und Zinsbeträge, mindestens aber während 25 Jahren, einer amtlichen Mietzinsüberwachung. Diese kann vorzeitig beendet werden beim Erlass der Vorschüsse und Zinsbetreffnisse (Art. 40) oder nach Vorliegen eines öffentlich-rechtlichen Aufhebungsvertrages.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_45"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 4. Titel: Weitere Bestimmungen, Mietzinsüberwachung",
+        "citation": "Art. 45 Abs. 2 WEG",
+        "content": "Die von den zuständigen Behörden festgelegten Mietzinse dürfen während der Dauer der Mietzinsüberwachung nur im Rahmen der vom Bundesrat zu ordnenden Mietzinsanpassungen geändert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_45"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 2. Teil: Besondere Massnahmen zur Verbilligung der Mietzinse (Gemeinnütziger Wohnungsbau), 4. Titel: Weitere Bestimmungen, Zweckerhaltung",
+        "citation": "Art. 46 WEG",
+        "content": "1 Die mit Hilfe der besonderen Massnahmen zur Verbilligung der Mietzinse erstellten oder erneuerten Wohnungen dürfen bis zur vollständigen Tilgung der Bundesvorschüsse und Zinsbetreffnisse, mindestens aber während 25 Jahren bzw. bis zum Erlass der Vorschüsse und Zinsbetreffnisse (Art. 40) nur für Wohnzwecke verwendet werden. Eine vorzeitige Beendigung der Bundeshilfe und des Zweckerhaltungsgebots ist durch öffentlich-rechtlichen Aufhebungsvertrag frühestens nach Ablauf von 15 Jahren seit Beginn der Bundeshilfe möglich. Voraussetzung ist, dass zu diesem Zeitpunkt kein Haushalt mehr Anspruch auf die Zusatzverbilligung II nach der Verordnung zum Wohnbau- und Eigentumsförderungsgesetz vom 30. November 1981 hat, die Vorschüsse und Zinsbetreffnisse zurückbezahlt sind und der Bund aus der Bürgschaft entlassen worden ist.2 Zur Sicherung des Zweckentfremdungsverbots steht dem Bund bis zur vollständigen Tilgung der Bundesvorschüsse und Zinsbetreffnisse, mindestens aber während 25 Jahren bzw. bis zum Erlass der Vorschüsse und Zinsbetreffnisse (Art. 40) ein gesetzliches Kaufs- und Vorkaufsrecht in der Höhe der Selbstkosten zu.3 Das Zweckentfremdungsverbot sowie das damit verbundene Kaufs- und Vorkaufsrecht sind für die Dauer ihrer Geltung als öffentlich-rechtliche Eigentumsbeschränkung im Grundbuch anzumerken.4 Vorkaufs- und Kaufsrecht können den Kantonen, Gemeinden sowie Organisationen und Trägern des gemeinnützigen Wohnungsbaus abgetreten werden. Die zuständige Bundesstelle kann unter den in den Ausführungsvorschriften zu umschreibenden Voraussetzungen auf das Kaufsrecht verzichten.5 Die weiteren Einzelheiten ordnet der Bundesrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 3. Teil: Förderung des Erwerbs von Wohnungs- und Hauseigentum, Grundsatz",
+        "citation": "Art. 47 WEG",
+        "content": "1 Der Bund kann den Erwerb von Wohnungs- und Hauseigentum für den eigenen Bedarf natürlicher Personen fördern, die mangels ausreichendem eigenem Vermögen oder ungenügendem Erwerbseinkommen nicht in der Lage sind, das hierfür nötige Eigenkapital zur Verfügung zu stellen. 2 Die Förderung gilt auch für sonstige dingliche oder persönliche Rechte, die eigentumsähnliche Ansprüche begründen, sowie für gemeinschaftlich begründetes Eigentum.3 Die Förderung hat zur Voraussetzung, dass der Eigentümer die Verzinsung und Tilgung von Nachgangshypotheken angemessen sicherstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_47"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 3. Teil: Förderung des Erwerbs von Wohnungs- und Hauseigentum, Art der Hilfe",
+        "citation": "Art. 48 WEG",
+        "content": "1 Der Bund vermittelt, verbürgt oder gewährt im Rahmen von Artikel 47 Darlehen und Vorschüsse in sinngemässer Anwendung der Artikel 35–39, 43, 44 und 46 dieses Gesetzes.2 Ferner kann der Bund in sinngemässer Anwendung des Artikels 42 nicht rückzahlbare Zuschüsse gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_48"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 3. Teil: Förderung des Erwerbs von Wohnungs- und Hauseigentum, Umwandlung von Wohnungen",
+        "citation": "Art. 49 WEG",
+        "content": "1 Mietwohnungen, bei denen Vorschüsse für die Grundverbilligung noch nichtvollständig zurückbezahlt sind, können in Eigentumswohnungen umgewandelt werden, deren Erwerb durch den Bund im Sinne der Artikel 47 und 48 gefördert wird.2 Die zuständige Bundesbehörde kann beim Vorliegen wichtiger Gründe bewilligen, dass Eigentumswohnungen, bei denen Vorschüsse für die Grundverbilligung noch nicht vollständig zurückbezahlt sind, in Mietwohnungen umgewandelt werden, deren Mietzinse durch die Grundverbilligung im Sinne von Artikel 35 Absatz 2 Buchstabe a gesenkt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_49"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 3. Teil: Förderung des Erwerbs von Wohnungs- und Hauseigentum, Sicherstellung",
+        "citation": "Art. 50 WEG",
+        "content": "1 Mit Bundeshilfe erworbenes Wohnungs- und Hauseigentum darf während der Dauer der Hilfe, mindestens aber während 25 Jahren, ohne Zustimmung des Bundes weder seinem Zweck entfremdet noch mit Gewinn veräussert werden.2 Zur Sicherung des Zweckentfremdungs- und des Veräusserungsverbotes steht dem Bund während der Dauer ihrer Geltung ein Kaufs- und Vorkaufsrecht zu den Selbstkosten zu, erhöht um den Mehrwert des Eigenkapitals; der Bundesrat ordnet die Berechnung des Mehrwertes. Das Kaufs- und das Vorkaufsrecht können den Kantonen, Gemeinden sowie Organisationen und Trägern des gemeinnützigen Wohnungsbaus abgetreten werden.3 Das Zweckentfremdungs- und das Veräusserungsverbot sowie das mit ihnen verknüpfte Kaufs- und Vorkaufsrecht sind für die Dauer ihrer Geltung als öffentlichrechtliche Eigentumsbeschränkung im Grundbuch anzumerken.4 Die weiteren Einzelheiten ordnet der Bundesrat. Er umschreibt insbesondere die Voraussetzungen, unter denen die Zustimmung zur freihändigen Veräusserung zu erteilen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_50"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 4. Teil: Förderung von Trägern und Organisationen des gemeinnützigen Wohnungsbaus, Allgemeines",
+        "citation": "Art. 51 WEG",
+        "content": "1 Der Bund kann die Tätigkeit von Trägern und Organisationen des gemeinnützigen Wohnungsbaus insbesondere durch Gewährung von Bürgschaften, Darlehen oder durch Kapitalbeteiligung fördern.2 Er kann zu diesem Zweck entsprechende Organisationen schaffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_51"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 4. Teil: Förderung von Trägern und Organisationen des gemeinnützigen Wohnungsbaus, Voraussetzungen und Sicherstellung",
+        "citation": "Art. 52 WEG",
+        "content": "Die Förderung setzt voraus, dass die Träger und Organisationen die vom Bundesrat zu ordnenden Mindestanforderungen hinsichtlich Zweckbestimmung, Zwecksicherung, Geschäftsführung und Statuten erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_52"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Beschaffung der Mittel",
+        "citation": "Art. 53 WEG",
+        "content": "1 Die Bundesversammlung bewilligt die zulasten der Finanzrechnung aufzubringenden Mittel mit mehrjährigen Verpflichtungskosten.2 Soweit zu Lasten der Kapitalrechnung Mittel bereitgestellt werden, setzt der Bundesrat verbindliche Grenzen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Beschaffung der Mittel",
+        "citation": "Art. 53 Abs. 3 WEG",
+        "content": "Die Bundesversammlung kann mit einfachem Bundesbeschluss vorsehen, dass Leistungen des Bundes nach Artikel 37 unmittelbar der Bestandesrechnung belastet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Beschaffung der Mittel",
+        "citation": "Art. 53 Abs. 4 WEG",
+        "content": "Für die Ausrichtung der Vorschüsse der Grundverbilligung bewilligt die Bundesversammlung ab dem Jahr 2001 jährliche Zahlungskredite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Bundesamt für Wohnungswesen",
+        "citation": "Art. 54 WEG",
+        "content": "1 Der Bund errichtet ein Bundesamt für Wohnungswesen (Bundesamt).2 Dem Bundesamt obliegt der Vollzug dieses Gesetzes, soweit er Sache des Bundes ist.3 Das Bundesamt stimmt die Vollzugstätigkeit des Bundes und der Kantone aufeinander ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_54"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Zuständigkeit und Verfahren bei der Kredithilfe",
+        "citation": "Art. 56 WEG",
+        "content": "1 Gesuche um Kredithilfe sind dem Bundesamt einzureichen. Dieses trifft nach Abklärung der Voraussetzungen und der finanziellen Möglichkeiten eine Verfügung.2 Die zur Verwirklichung der Kreditzusicherung vom Bund mit den Gesuchstellern sowie allfälligen Dritten einzugehenden Rechtsverhältnisse, wie Darlehen, Bürgschaft, Pfandbestellung, Garantie- und andere Zahlungsversprechen, werden durch öffentlich-rechtlichen Vertrag begründet, der der schriftlichen Form bedarf.3 Der Bundesrat ordnet die Voraussetzungen, unter denen Befugnisse an Dritte übertragen werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_56"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Zuständigkeit und Verfahren bei Bundesbeiträgen",
+        "citation": "Art. 57 WEG",
+        "content": "1 Beitragsgesuche sind dem Bundesamt einzureichen. Dieses trifft nach Abklärung der Voraussetzungen und der finanziellen Möglichkeiten eine Verfügung.2 Der Gesuchsteller hat dem Bundesamt binnen 30 Tagen seit Eintritt der Rechtskraft der Beitragszusicherung schriftlich mitzuteilen, ob er die an die Zusicherung geknüpften Verpflichtungen übernimmt. Die Annahme hat vorbehaltlos zu erfolgen.3 Übernimmt der Gesuchsteller die an die Beitragszusicherung geknüpften Verpflichtungen, so wird dadurch ein nach der Verfügung des Bundesamtes umschriebenes öffentlich-rechtliches Vertragsverhältnis begründet.4 Übernimmt der Gesuchsteller die an die Beitragszusicherung geknüpften Verpflichtungen nicht fristgerecht, so fällt die vom Bundesamt getroffene Verfügung dahin. Das Bundesamt kann die Frist nach Absatz 2 nötigenfalls erstrecken.5 Der Bundesrat ordnet die weiteren Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Rechtsanspruch auf Bundeshilfe",
+        "citation": "Art. 58 WEG",
+        "content": "Ein Rechtsanspruch auf Bundeshilfe entsteht erst mit der rechtskräftigen Verfügung über ihre Zusicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_58"
+    },
+    {
+        "book": "WEG",
+        "title": "WEG, 5. Teil: Verschiedene Bestimmungen, Ergänzendes Recht",
+        "citation": "Art. 60 WEG",
+        "content": "Soweit dieses Gesetz oder die gestützt darauf zu erlassenden Ausführungsvorschriften Rechtsfragen hinsichtlich der Ordnung der vom Bund mit Gesuchstellern und Dritten einzugehenden Rechtsverhältnisse, wie Darlehen, Bürgschaften und Pfandbestellungen, offen lassen finden ergänzend die einschlägigen Bestimmungen des Zivilrechts (ZGB und OR) Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/de#art_60"
+    }
+]

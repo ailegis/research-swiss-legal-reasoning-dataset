@@ -1,0 +1,212 @@
+[
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Requisiti",
+        "citation": "Art. 1 cpv. 1 OCPD",
+        "content": "Gli organismi che effettuano certificazioni in materia di protezione dei dati secondo l’articolo 13 LPD (organismi di certificazione) devono essere accreditati. L’accreditamento è retto dall’ordinanza del 17 giugno 1996 sull’accreditamento e sulla designazione (OAccD), per quanto la presente ordinanza non disponga altrimenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Requisiti",
+        "citation": "Art. 1 cpv. 2 OCPD",
+        "content": "Sono necessari due accreditamenti distinti per certificare:\na. l’organizzazione e la procedura (sistemi di gestione) relative al trattamento dei dati;\nb. i prodotti, segnatamente i sistemi e i programmi di trattamento di dati e l’hardware, nonché i servizi e i processi relativi al trattamento dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Requisiti",
+        "citation": "Art. 1 cpv. 3 OCPD",
+        "content": "Gli organismi di certificazione devono disporre di un’organizzazione e di una procedura di certificazione ben definite (programma di certificazione).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Requisiti",
+        "citation": "Art. 1 cpv. 4 OCPD",
+        "content": "I requisiti minimi concernenti la qualifica del personale addetto alla certificazione sono disciplinati nell’allegato. Gli organismi di certificazione devono dimostrare di impiegare personale qualificato secondo questi criteri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Procedura di accreditamento",
+        "citation": "Art. 2 OCPD",
+        "content": "Il Servizio d’accreditamento svizzero (SAS) consulta l’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) in merito alla procedura di accreditamento e ai controlli nonché alla sospensione e alla revoca dell’accreditamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_2"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Organismi di certificazione esteri",
+        "citation": "Art. 3 cpv. 1 OCPD",
+        "content": "Gli organismi di certificazione esteri che desiderano esercitare l’attività sul territorio svizzero devono dimostrare di possedere una qualifica equivalente a quella richiesta in Svizzera, di adempiere i requisiti di cui all’articolo 1 capoversi 3 e 4 e di conoscere sufficientemente la legislazione svizzera sulla protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Organismi di certificazione esteri",
+        "citation": "Art. 3 cpv. 2 OCPD",
+        "content": "L’IFPDT riconosce un organismo di certificazione straniero dopo aver consultato il SAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Organismi di certificazione esteri",
+        "citation": "Art. 3 cpv. 3 OCPD",
+        "content": "Può rilasciare riconoscimenti limitati nel tempo e vincolarli a oneri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 1: Organismi di certificazione, Organismi di certificazione esteri",
+        "citation": "Art. 3 cpv. 4 OCPD",
+        "content": "Revoca il riconoscimento se non sono più adempiuti condizioni o oneri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Oggetto della certificazione",
+        "citation": "Art. 4 cpv. 1 OCPD",
+        "content": "È possibile certificare:\na. i sistemi di gestione;\nb. i prodotti, i servizi e i processi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Oggetto della certificazione",
+        "citation": "Art. 4 cpv. 2 OCPD",
+        "content": "La certificazione dei sistemi di gestione può riguardare l’intero sistema, una parte dell’organizzazione o procedure specifiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Oggetto della certificazione",
+        "citation": "Art. 4 cpv. 3 OCPD",
+        "content": "La certificazione dei prodotti, dei servizi e dei processi può riguardare:\na. i prodotti destinati in prevalenza al trattamento di dati personali o generanti, al momento del loro impiego, dati personali;\nb. i servizi o i processi destinati in prevalenza al trattamento di dati personali o generanti dati personali;",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per il programma di certificazione",
+        "citation": "Art. 5 cpv. 1 OCPD",
+        "content": "Il programma di certificazione deve disciplinare almeno:\na. i criteri di perizia come pure i requisiti che ne conseguono per gli oggetti da certificare; \nb. le modalità di svolgimento della procedura, in particolare le misure applicabili in caso di irregolarità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per il programma di certificazione",
+        "citation": "Art. 5 cpv. 2 OCPD",
+        "content": "Nell’elaborare il programma di certificazione occorre tenere conto dei seguenti punti:\na. i dati personali trattati;\nb. le infrastrutture elettroniche utilizzate per il trattamento dei dati personali;\nc. le misure organizzative relative al trattamento dei dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per il programma di certificazione",
+        "citation": "Art. 5 cpv. 3 OCPD",
+        "content": "I criteri di perizia devono rispettare tutti i principi dell’articolo 6 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per il programma di certificazione",
+        "citation": "Art. 5 cpv. 4 OCPD",
+        "content": "Il programma di certificazione deve essere conforme alle norme applicabili secondo l’allegato 2 dell’OAccD, nonché alle altre norme tecniche applicabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per la certificazione dei sistemi di gestione ",
+        "citation": "Art. 6 cpv. 1 OCPD",
+        "content": "La perizia del sistema di gestione riguarda:\na. la politica di protezione dei dati;\nb. la documentazione degli obiettivi, dei rischi e delle misure atte a garantire la protezione dei dati e la sicurezza dei dati;\nc. i provvedimenti organizzativi e tecnici finalizzati a realizzare gli obiettivi e le misure fissate, in particolare i provvedimenti tesi a eliminare le lacune riscontrate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per la certificazione dei sistemi di gestione ",
+        "citation": "Art. 6 cpv. 2 OCPD",
+        "content": "L’IFPDT emana direttive sui requisiti minimi che un sistema di gestione deve adempiere. Tiene conto dei requisiti internazionali in materia di installazione, gestione, sorveglianza e ottimizzazione di tali sistemi di gestione e in particolare delle seguenti norme tecniche:\na. UNI EN ISO 9001: Sistemi di gestione per la qualità – Requisiti;\nb. UNI CEI EN ISO/IEC 27001, Tecnologie Informatiche – Tecniche di sicurezza - Sistemi di gestione della sicurezza dell’informazione – Requisiti;\nc. UNI CEI EN ISO/IEC 27701, Tecniche di sicurezza – Estensione a ISO/IEC 27001 e ISO/IEC 27002 per la gestione delle informazioni in ambito privacy – Requisiti e linee guida.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per la certificazione di prodotti, servizi e processi",
+        "citation": "Art. 7 cpv. 1 OCPD",
+        "content": "La perizia di prodotti, servizi e processi deve permettere di verificare che siano garantiti in particolare i seguenti principi:\na. la riservatezza, l’integrità, la disponibilità e la tracciabilità dei dati personali trattati;\nb. la rinuncia a trattare dati personali, per quanto lo scopo d’impiego del prodotto, del servizio o del processo non lo richieda; \nc. la trasparenza del trattamento di dati personali;\nd. le misure tecniche indispensabili che permettono all’utente di rispettare altri principi o obblighi in materia di protezione dei dati, segnatamente i diritti delle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Requisiti per la certificazione di prodotti, servizi e processi",
+        "citation": "Art. 7 cpv. 2 OCPD",
+        "content": "L’IFPDT emana direttive sui altri criteri in materia di protezione dei dati di cui tenere conto nell’ambito della perizia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Rilascio e validità della certificazione",
+        "citation": "Art. 8 cpv. 1 OCPD",
+        "content": "L’organismo di certificazione certifica il sistema di gestione, il prodotto, il servizio o il processo se sono soddisfatti i requisiti legali in materia di protezione dei dati e gli altri requisiti derivanti dalla presente ordinanza e dalle direttive dell’IFPDT o da qualsiasi altra norma equivalente. La certificazione può essere vincolata a oneri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Rilascio e validità della certificazione",
+        "citation": "Art. 8 cpv. 2 OCPD",
+        "content": "La certificazione è valida per tre anni. L’organismo di certificazione verifica ogni anno se le condizioni determinanti per la certificazione continuano a essere adempiute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Riconoscimento di certificazioni estere",
+        "citation": "Art. 9 OCPD",
+        "content": "Dopo aver consultato il SAS, l’IFPDT riconosce le certificazioni estere purché l’adempimento dei requisiti della legislazione svizzera sia garantito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_9"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 2: Oggetto e procedura di certificazione, Esenzione dall’obbligo di effettuare una valutazione d’impatto sulla protezione dei dati",
+        "citation": "Art. 10 OCPD",
+        "content": "Il titolare privato del trattamento può rinunciare a una valutazione d’impatto sulla protezione dei dati conformemente all’articolo 22 capoverso 5 LPD soltanto se la certificazione include il trattamento per il quale dovrebbe essere effettuata la valutazione d’impatto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_10"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Sospensione e revoca della certificazione ",
+        "citation": "Art. 11 cpv. 1 OCPD",
+        "content": "L’organismo di certificazione può sospendere o revocare una certificazione accordata, in particolare se nell’ambito della verifica constata gravi lacune. Si è in presenza di una grave lacuna in particolare se:\na. le condizioni essenziali della certificazione dei dati non sono più adempiute; o\nb. una certificazione è utilizzata in modo ingannevole o abusivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Sospensione e revoca della certificazione ",
+        "citation": "Art. 11 cpv. 2 OCPD",
+        "content": "Nei casi di controversia in merito alla sospensione o alla revoca, il giudizio e la procedura sono retti dalle disposizioni di diritto civile applicabili al rapporto contrattuale tra l’organismo di certificazione e il fornitore di programmi o sistemi di trattamento dei dati personali, il titolare del trattamento o il responsabile del trattamento certificati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Misure di sorveglianza dell’IFPDT: procedura",
+        "citation": "Art. 12 cpv. 1 OCPD",
+        "content": "L’IFPDT informa l’organismo di certificazione se constata gravi lacune presso un fornitore di programmi o sistemi di trattamento di dati personali, un titolare del trattamento o un responsabile del trattamento certificati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Misure di sorveglianza dell’IFPDT: procedura",
+        "citation": "Art. 12 cpv. 2 OCPD",
+        "content": "L’organismo di certificazione invita senza indugio il fornitore di programmi o sistemi di trattamento di dati personali, il titolare del trattamento o il responsabile del trattamento certificati a eliminare la lacuna riscontrata entro 30 giorni dalla ricezione della comunicazione dell’IFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Misure di sorveglianza dell’IFPDT: procedura",
+        "citation": "Art. 12 cpv. 3 OCPD",
+        "content": "Se la lacuna non è eliminata entro 30 giorni, l’organismo di certificazione sospende la certificazione. La certificazione va revocata se appare improbabile che venga a crearsi o venga ripristinata una situazione conforme al diritto entro un periodo di tempo ragionevole.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Sezione 3: Sanzioni, Misure di sorveglianza dell’IFPDT: procedura",
+        "citation": "Art. 12 cpv. 4 OCPD",
+        "content": "Se la lacuna non è eliminata entro il termine previsto dal capoverso 2 e l’organismo di certificazione non ha sospeso o revocato la certificazione, l’IFPDT ordina una misura ai sensi dell’articolo 51 capoverso 1 LPD. Segnatamente, può ordinare la sospensione o la revoca della certificazione. Se indirizza l’ordine all’organismo di certificazione, ne informa il SAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/it#art_12"
+    }
+]

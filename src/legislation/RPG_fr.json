@@ -1,0 +1,940 @@
+[
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Buts",
+        "citation": "Art. 1 al. 1 LAT",
+        "content": "La Confédération, les cantons et les communes veillent à une utilisation mesurée du sol et à la séparation entre les parties constructibles et non constructibles du territoire. Ils coordonnent celles de leurs activités qui ont des effets sur l’organisation du territoire et ils s’emploient à réaliser une occupation du territoire propre à garantir un développement harmonieux de l’ensemble du pays. Dans l’accomplissement de leurs tâches, ils tiennent compte des données naturelles ainsi que des besoins de la population et de l’économie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_1"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Buts",
+        "citation": "Art. 1 al. 2 LAT",
+        "content": "Ils soutiennent par des mesures d’aménagement les efforts qui sont entrepris notamment aux fins:\na. de protéger les bases naturelles de la vie, telles que le sol, l’air, l’eau, la forêt et le paysage;\nabis. d’orienter le développement de l’urbanisation vers l’intérieur du milieu bâti, en maintenant une qualité de l’habitat appropriée;\nb. de créer un milieu bâti compact;\nbbis. de créer et de maintenir un milieu bâti favorable à l’exercice des activités économiques;\nc. de favoriser la vie sociale, économique et culturelle des diverses régions du pays et de promouvoir une décentralisation judicieuse de l’urbanisation et de l’économie;\nd. de garantir des sources d’approvisionnement suffisantes dans le pays;\ne. d’assurer la défense générale du pays;\nf. d’encourager l’intégration des étrangers et la cohésion sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_1"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Obligation d’aménager le territoire",
+        "citation": "Art. 2 al. 1 LAT",
+        "content": "Pour celles de leurs tâches dont l’accomplissement a des effets sur l’organisation du territoire, la Confédération, les cantons et les communes établissent des plans d’aménagement en veillant à les faire concorder.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Obligation d’aménager le territoire",
+        "citation": "Art. 2 al. 2 LAT",
+        "content": "Ils tiennent compte des effets que leurs autres activités peuvent indirectement avoir sur l’organisation du territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Obligation d’aménager le territoire",
+        "citation": "Art. 2 al. 3 LAT",
+        "content": "Les autorités chargées de l’aménagement du territoire veillent à laisser aux autorités qui leur sont subordonnées en cette matière la liberté d’appréciation nécessaire à l’accomplissement de leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Principes régissant l’aménagement",
+        "citation": "Art. 3 al. 1 LAT",
+        "content": "Les autorités chargées de l’aménagement du territoire tiennent compte des principes suivants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Principes régissant l’aménagement",
+        "citation": "Art. 3 al. 2 LAT",
+        "content": "Le paysage doit être préservé. Il convient notamment:\na. de réserver à l’agriculture suffisamment de bonnes terres cultivables, en particulier, les surfaces d’assolement;\nb. de veiller à ce que les constructions prises isolément ou dans leur ensemble ainsi que les installations s’intègrent dans le paysage;\nc. de tenir libres les bords des lacs et des cours d’eau et de faciliter au public l’accès aux rives et le passage le long de celles-ci;\nd. de conserver les sites naturels et les territoires servant au délassement;\ne. de maintenir la forêt dans ses diverses fonctions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Principes régissant l’aménagement",
+        "citation": "Art. 3 al. 3 LAT",
+        "content": "Les territoires réservés à l’habitat et à l’exercice des activités économiques seront aménagés selon les besoins de la population et leur étendue limitée. Il convient notamment:\na. de répartir judicieusement les lieux d’habitation et les lieux de travail et de les planifier en priorité sur des sites desservis de manière appropriée par les transports publics;\nabis. de prendre les mesures propres à assurer une meilleure utilisation dans les zones à bâtir des friches, des surfaces sous-utilisées ou des possibilités de densification des surfaces de l’habitat;\nb. de préserver autant que possible les lieux d’habitation des atteintes nuisibles ou incommodantes, telles que la pollution de l’air, le bruit et les trépidations;\nc. de maintenir ou de créer des voies cyclables et des chemins pour piétons;\nd. d’assurer les conditions dont dépend un approvisionnement suffisant en biens et services;\ne. de ménager dans le milieu bâti de nombreux aires de verdure et espaces plantés d’arbres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Principes régissant l’aménagement",
+        "citation": "Art. 3 al. 4 LAT",
+        "content": "Il importe de déterminer selon des critères rationnels l’implantation des constructions et installations publiques ou d’intérêt public. Il convient notamment:\na. de tenir compte des besoins spécifiques des régions et de réduire les disparités choquantes entre celles-ci;\nb. de faciliter l’accès de la population aux établissements tels qu’écoles, centres de loisirs et services publics;\nc. d’éviter ou de maintenir dans leur ensemble à un minimum les effets défavorables qu’exercent de telles implantations sur le milieu naturel, la population et l’économie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Information et participation",
+        "citation": "Art. 4 al. 1 LAT",
+        "content": "Les autorités chargées de l’aménagement du territoire renseignent la population sur les plans dont la présente loi prévoit l’établissement, sur les objectifs qu’ils visent et sur le déroulement de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Information et participation",
+        "citation": "Art. 4 al. 2 LAT",
+        "content": "Elles veillent à ce que la population puisse participer de manière adéquate à l’établissement des plans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Information et participation",
+        "citation": "Art. 4 al. 3 LAT",
+        "content": "Les plans prévus par la présente loi peuvent être consultés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1 LAT",
+        "content": "Le droit cantonal établit un régime de compensation permettant de tenir compte équitablement des avantages et des inconvénients majeurs qui résultent de mesures d’aménagement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1bis LAT",
+        "content": "Les avantages résultant de mesures d’aménagement sont compensés par une taxe d’au moins 20 %. La compensation est exigible lorsque le bien-fonds est construit ou aliéné. Le droit cantonal conçoit le régime de compensation de façon à compenser au moins les plus-values résultant du classement durable de terrains en zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1ter LAT",
+        "content": "Le produit de la taxe est utilisé pour financer les mesures prévues à l’al. 2, ou d’autres mesures d’aménagement du territoire prévues à l’art. 3, en particulier aux al. 2, let. a, et 3, let. abis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1quater LAT",
+        "content": "Lors du calcul de la taxe, le montant qui est utilisé dans un délai approprié pour l’acquisition d’un bâtiment agricole de remplacement destiné à être exploité à titre personnel est déduit de l’avantage résultant d’un classement en zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1quinquies LAT",
+        "content": "Le droit cantonal peut prévoir une exemption de la taxe dans les cas suivants:\na. elle serait due par une collectivité publique;\nb. son produit escompté serait insuffisant au regard du coût de son prélèvement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 1sexies LAT",
+        "content": "En cas d’impôt sur les gains immobiliers, la taxe perçue est déduite du gain en tant que partie des impenses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 2 LAT",
+        "content": "Une juste indemnité est accordée lorsque des mesures d’aménagement apportent au droit de propriété des restrictions équivalant à une expropriation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 1, Introduction, Compensation et indemnisation",
+        "citation": "Art. 5 al. 3 LAT",
+        "content": "Les cantons peuvent prescrire la mention au registre foncier du versement d’indemnités dues par suite de restrictions au droit de propriété.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Études de base",
+        "citation": "Art. 6 al. 2 LAT",
+        "content": "En vue d’établir leurs plans directeurs, les cantons élaborent des études de base dans lesquelles ils désignent les parties du territoire qui:\na. se prêtent à l’agriculture;\nb. se distinguent par leur beauté ou leur valeur, ont une importance pour le délassement ou exercent une fonction écologique marquante;\nbbis. se prêtent à la production d’électricité à partir d’énergies renouvelables;\nc. sont gravement menacées par des forces naturelles ou par des nuisances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Études de base",
+        "citation": "Art. 6 al. 3 LAT",
+        "content": "De plus, les cantons décrivent dans les études de base l’état et le développement:\na. des territoires urbanisés;\nb. des transports;\nbbis. de l’approvisionnement, notamment en électricité issue des énergies renouvelables;\nbter. des constructions et installations publiques;\nc. des terres agricoles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Études de base",
+        "citation": "Art. 6 al. 4 LAT",
+        "content": "Ils tiennent compte des conceptions et plans sectoriels de la Confédération, des plans directeurs des cantons voisins, ainsi que des programmes de développement régional et des plans d’aménagement régional.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Collaboration entre autorités",
+        "citation": "Art. 7 al. 1 LAT",
+        "content": "Les cantons collaborent avec les autorités fédérales et avec celles des cantons voisins lorsque leurs tâches entrent en concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Collaboration entre autorités",
+        "citation": "Art. 7 al. 2 LAT",
+        "content": "Lorsque les cantons ne s’entendent pas entre eux ou avec la Confédération sur la coordination de celles de leurs activités qui ont un effet sur l’organisation du territoire, il leur est loisible de demander l’application de la procédure de conciliation (art. 12).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Collaboration entre autorités",
+        "citation": "Art. 7 al. 3 LAT",
+        "content": "Les cantons contigus à la frontière nationale s’emploient à collaborer avec les autorités des régions limitrophes des pays voisins lorsque les mesures qu’ils prennent peuvent avoir des effets au-delà de la frontière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Contenu minimal des plans directeurs",
+        "citation": "Art. 8 al. 1 LAT",
+        "content": "Tous les cantons établissent un plan directeur dans lequel ils précisent au moins:\na. le cours que doit suivre l’aménagement de leur territoire;\nb. la façon de coordonner les activités qui ont des effets sur l’organisation du territoire, afin d’atteindre le développement souhaité;\nc. une liste de priorités et les moyens à mettre en œuvre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_8"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Contenu minimal des plans directeurs",
+        "citation": "Art. 8 al. 2 LAT",
+        "content": "Les projets qui ont des incidences importantes sur le territoire et l’environnement doivent avoir été prévus dans le plan directeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_8"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Contenu du plan directeur dans le domaine de l’urbanisation",
+        "citation": "Art. 8a al. 1 LAT",
+        "content": "Dans le domaine de l’urbanisation, le plan directeur définit notamment:\na. la dimension totale des surfaces affectées à l’urbanisation, leur répartition dans le canton et la manière de coordonner leur expansion à l’échelle régionale;\nb. la manière de coordonner l’urbanisation et les transports et de garantir un équipement rationnel qui permet d’économiser du terrain;\nc. la manière de concentrer le développement d’une urbanisation de qualité à l’intérieur du milieu bâti;\nd. la manière d’assurer la conformité des zones à bâtir aux conditions de l’art. 15;\ne. la manière de renforcer la requalification urbaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_8_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Contenu du plan directeur dans le domaine de l’énergie",
+        "citation": "Art. 8b LAT",
+        "content": "Le plan directeur désigne les zones et les tronçons de cours d’eau qui se prêtent à l’utilisation d’énergies renouvelables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_8_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Force obligatoire et adaptation",
+        "citation": "Art. 9 al. 1 LAT",
+        "content": "Les plans directeurs ont force obligatoire pour les autorités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Force obligatoire et adaptation",
+        "citation": "Art. 9 al. 2 LAT",
+        "content": "Lorsque les circonstances se sont modifiées, que de nouvelles tâches se présentent, ou qu’il est possible de trouver une meilleure solution d’ensemble aux problèmes de l’aménagement, les plans directeurs feront l’objet des adaptations nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Force obligatoire et adaptation",
+        "citation": "Art. 9 al. 3 LAT",
+        "content": "Les plans directeurs seront réexaminés intégralement tous les dix ans et, au besoin, remaniés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Compétence et procédure",
+        "citation": "Art. 10 al. 1 LAT",
+        "content": "Les cantons règlent la compétence et la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_10"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Compétence et procédure",
+        "citation": "Art. 10 al. 2 LAT",
+        "content": "Ils règlent la manière dont les communes, les autres organismes qui exercent des activités ayant des effets sur l’organisation du territoire et les organisations de protection de l’environnement, de la nature ou du paysage ayant qualité pour recourir au sens de l’art. 55 de la loi du 7 octobre 1983 sur la protection de l’environnement et de l’art. 12 de la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage sont appelés à coopérer à l’élaboration des plans directeurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_10"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Approbation par le Conseil fédéral",
+        "citation": "Art. 11 al. 1 LAT",
+        "content": "Le Conseil fédéral approuve les plans directeurs et leurs adaptations s’ils sont conformes à la présente loi, notamment s’ils tiennent compte de manière adéquate de celles des tâches de la Confédération et des cantons voisins dont l’accomplissement a des effets sur l’organisation du territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_11"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Approbation par le Conseil fédéral",
+        "citation": "Art. 11 al. 2 LAT",
+        "content": "L’approbation des plans directeurs par le Conseil fédéral leur confère force obligatoire pour les autorités de la Confédération et pour celles des cantons voisins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_11"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Procédure de conciliation",
+        "citation": "Art. 12 al. 1 LAT",
+        "content": "Si le Conseil fédéral ne peut pas approuver un plan directeur ou une partie de celui-ci, il ordonne l’ouverture d’une procédure de conciliation après avoir entendu les intéressés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Procédure de conciliation",
+        "citation": "Art. 12 al. 2 LAT",
+        "content": "Il interdit pour la durée de la procédure de conciliation toute intervention de nature à influer défavorablement sur l’issue des pourparlers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 1, Plans directeurs des cantons, Procédure de conciliation",
+        "citation": "Art. 12 al. 3 LAT",
+        "content": "Lorsqu’aucun accord n’est intervenu, le Conseil fédéral statue au plus tard trois ans après l’ouverture de la procédure de conciliation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 2, Mesures particulières de la Confédération, Conceptions et plans sectoriels",
+        "citation": "Art. 13 al. 1 LAT",
+        "content": "Pour exercer celles de ses activités qui ont des effets sur l’organisation du territoire, la Confédération procède à des études de base; elle établit les conceptions et plans sectoriels nécessaires et les fait concorder.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_13"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 2, Mesures particulières de la Confédération, Conceptions et plans sectoriels",
+        "citation": "Art. 13 al. 2 LAT",
+        "content": "Elle collabore avec les cantons et leur donne connaissance en temps utile de ses conceptions et plans sectoriels ainsi que de ses projets de construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_13"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Définition",
+        "citation": "Art. 14 al. 1 LAT",
+        "content": "Les plans d’affectation règlent le mode d’utilisation du sol.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_14"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Définition",
+        "citation": "Art. 14 al. 2 LAT",
+        "content": "Ils délimitent en premier lieu les zones à bâtir, les zones agricoles et les zones à protéger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_14"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à bâtir",
+        "citation": "Art. 15 al. 1 LAT",
+        "content": "Les zones à bâtir sont définies de telle manière qu’elles répondent aux besoins prévisibles pour les quinze années suivantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à bâtir",
+        "citation": "Art. 15 al. 2 LAT",
+        "content": "Les zones à bâtir surdimensionnées doivent être réduites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à bâtir",
+        "citation": "Art. 15 al. 3 LAT",
+        "content": "L’emplacement et la dimension des zones à bâtir doivent être coordonnés par-delà les frontières communales en respectant les buts et les principes de l’aménagement du territoire. En particulier, il faut maintenir les surfaces d’assolement et préserver la nature et le paysage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à bâtir",
+        "citation": "Art. 15 al. 4 LAT",
+        "content": "De nouveaux terrains peuvent être classés en zone à bâtir si les conditions suivantes sont réunies:\na. ils sont propres à la construction;\nb. ils seront probablement nécessaires à la construction dans les quinze prochaines années même si toutes les possibilités d’utilisation des zones à bâtir réservées ont été épuisées et ils seront équipés et construits à cette échéance;\nc. les terres cultivables ne sont pas morcelées;\nd. leur disponibilité est garantie sur le plan juridique;\ne. ils permettent de mettre en œuvre le plan directeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à bâtir",
+        "citation": "Art. 15 al. 5 LAT",
+        "content": "La Confédération et les cantons élaborent ensemble des directives techniques relatives au classement de terrains en zone à bâtir, notamment à la manière de calculer la surface répondant aux besoins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Disponibilité des terrains constructibles",
+        "citation": "Art. 15a al. 1 LAT",
+        "content": "Les cantons prennent en collaboration avec les communes les mesures nécessaires pour que les zones à bâtir soient utilisées conformément à leur affectation, notamment en ordonnant des mesures d’amélioration foncières telles que le remembrement de terrains (art. 20).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Disponibilité des terrains constructibles",
+        "citation": "Art. 15a al. 2 LAT",
+        "content": "Le droit cantonal prévoit que, si l’intérêt public le justifie, l’autorité compétente peut imposer un délai à la construction et, en cas d’inexécution, ordonner les mesures prévues par le droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_15_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones agricoles",
+        "citation": "Art. 16 al. 1 LAT",
+        "content": "Les zones agricoles servent à garantir la base d’approvisionnement du pays à long terme, à sauvegarder le paysage et les espaces de délassement et à assurer l’équilibre écologique; elles devraient être maintenues autant que possible libres de toute construction en raison des différentes fonctions de la zone agricole et comprennent:\na. les terrains qui se prêtent à l’exploitation agricole ou à l’horticulture productrice et sont nécessaires à l’accomplissement des différentes tâches dévolues à l’agriculture;\nb. les terrains qui, dans l’intérêt général, doivent être exploités par l’agriculture.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones agricoles",
+        "citation": "Art. 16 al. 2 LAT",
+        "content": "Il importe, dans la mesure du possible, de délimiter des surfaces continues d’une certaine étendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones agricoles",
+        "citation": "Art. 16 al. 3 LAT",
+        "content": "Dans leurs plans d’aménagement, les cantons tiennent compte de façon adéquate des différentes fonctions des zones agricoles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations conformes à l’affectation de la zone agricole",
+        "citation": "Art. 16a al. 1 LAT",
+        "content": "Sont conformes à l’affectation de la zone agricole les constructions et installations qui sont nécessaires à l’exploitation agricole ou à l’horticulture productrice. Cette notion de conformité peut être restreinte en vertu de l’art. 16, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations conformes à l’affectation de la zone agricole",
+        "citation": "Art. 16a al. 1bis LAT",
+        "content": "Les constructions et installations nécessaires à la production d’énergie à partir de biomasse ou aux installations de compost qui leur sont liées peuvent être déclarées conformes à l’affectation de la zone et autorisées dans une exploitation agricole si la biomasse utilisée est en rapport étroit avec l’agriculture et avec l’exploitation. Les autorisations doivent être liées à la condition que ces constructions et installations ne serviront qu’à l’usage autorisé. Le Conseil fédéral règle les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations conformes à l’affectation de la zone agricole",
+        "citation": "Art. 16a al. 2 LAT",
+        "content": "Les constructions et installations qui servent au développement interne d’une exploitation agricole ou d’une exploitation pratiquant l’horticulture productrice sont conformes à l’affectation de la zone. Le Conseil fédéral règle les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations conformes à l’affectation de la zone agricole",
+        "citation": "Art. 16a al. 3 LAT",
+        "content": "Les constructions et installations dépassant le cadre de ce qui peut être admis au titre du développement interne peuvent être déclarées conformes à l’affectation de la zone et autorisées lorsqu’elles seront implantées dans une partie de la zone agricole que le canton a désignée à cet effet moyennant une procédure de planification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations pour la détention et l’utilisation de chevaux",
+        "citation": "Art. 16abis al. 1 LAT",
+        "content": "Les constructions et installations nécessaires à la détention de chevaux sont conformes à l’affectation de la zone et autorisées dans une entreprise agricole existante au sens de la loi fédérale du 4 octobre 1991 sur le droit foncier rural si l’entreprise dispose de pâturages et d’une base fourragère provenant majoritairement de l’exploitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations pour la détention et l’utilisation de chevaux",
+        "citation": "Art. 16abis al. 2 LAT",
+        "content": "Des places à sol ferme peuvent être autorisées pour l’utilisation des chevaux détenus dans l’exploitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations pour la détention et l’utilisation de chevaux",
+        "citation": "Art. 16abis al. 3 LAT",
+        "content": "Les installations directement liées à l’utilisation des chevaux telles que les selleries ou les vestiaires sont autorisées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Constructions et installations pour la détention et l’utilisation de chevaux",
+        "citation": "Art. 16abis al. 4 LAT",
+        "content": "Le Conseil fédéral règle les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Interdiction d’utilisation et démolition",
+        "citation": "Art. 16b al. 1 LAT",
+        "content": "Les constructions et les installations qui ne sont plus utilisées conformément à l’affectation de la zone et qui ne peuvent pas être affectées à un autre usage en vertu des art. 24 à 24e doivent cesser d’être utilisées. Cette interdiction est levée dès que ces constructions ou installations peuvent être réaffectées à un usage conforme à l’affectation de la zone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Interdiction d’utilisation et démolition",
+        "citation": "Art. 16b al. 2 LAT",
+        "content": "Si l’autorisation est limitée dans le temps ou assortie d’une condition résolutoire, les constructions ou installations doivent être démolies et l’état antérieur rétabli dès que l’autorisation devient caduque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_16_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à protéger",
+        "citation": "Art. 17 al. 1 LAT",
+        "content": "Les zones à protéger comprennent:\na. les cours d’eau, les lacs et leurs rives;\nb. les paysages d’une beauté particulière, d’un grand intérêt pour les sciences naturelles ou d’une grande valeur en tant qu’éléments du patrimoine culturel;\nc. les localités typiques, les lieux historiques, les monuments naturels ou culturels;\nd. les biotopes des animaux et des plantes dignes d’être protégés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_17"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Zones à protéger",
+        "citation": "Art. 17 al. 2 LAT",
+        "content": "Au lieu de délimiter des zones à protéger, le droit cantonal peut prescrire d’autres mesures adéquates.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_17"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Autres zones et territoires",
+        "citation": "Art. 18 al. 1 LAT",
+        "content": "Le droit cantonal peut prévoir d’autres zones d’affectation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Autres zones et territoires",
+        "citation": "Art. 18 al. 2 LAT",
+        "content": "Il peut régler le cas des territoires non affectés ou de ceux dont l’affectation est différée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Autres zones et territoires",
+        "citation": "Art. 18 al. 3 LAT",
+        "content": "L’aire forestière est définie et protégée par la législation sur les forêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Installations solaires",
+        "citation": "Art. 18a al. 1 LAT",
+        "content": "Dans les zones à bâtir et les zones agricoles, les installations solaires suffisamment adaptées aux toits ne nécessitent pas d’autorisation selon l’art. 22, al. 1. De tels projets doivent être simplement annoncés à l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Installations solaires",
+        "citation": "Art. 18a al. 2 LAT",
+        "content": "Le droit cantonal peut:\na. désigner des types déterminés de zones à bâtir où l’aspect esthétique est mineur, dans lesquels d’autres installations solaires peuvent aussi être dispensées d’autorisation;\nb. prévoir une obligation d’autorisation dans des types précisément définis de zones à protéger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Installations solaires",
+        "citation": "Art. 18a al. 3 LAT",
+        "content": "Les installations solaires sur des biens culturels ou dans des sites naturels d’importance cantonale ou nationale sont toujours soumises à une autorisation de construire. Elles ne doivent pas porter d’atteinte majeure à ces biens ou sites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Installations solaires",
+        "citation": "Art. 18a al. 4 LAT",
+        "content": "Pour le reste, l’intérêt à l’utilisation de l’énergie solaire sur des constructions existantes ou nouvelles l’emporte en principe sur les aspects esthétiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Équipement",
+        "citation": "Art. 19 al. 1 LAT",
+        "content": "Un terrain est réputé équipé lorsqu’il est desservi d’une manière adaptée à l’utilisation prévue par des voies d’accès et par des conduites auxquelles il est possible de se raccorder sans frais disproportionnés pour l’alimentation en eau et en énergie, ainsi que pour l’évacuation des eaux usées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Équipement",
+        "citation": "Art. 19 al. 2 LAT",
+        "content": "Les zones à bâtir sont équipées par la collectivité intéressée dans le délai prévu par le programme d’équipement, si nécessaire de manière échelonnée. Le droit cantonal règle la participation financière des propriétaires fonciers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Équipement",
+        "citation": "Art. 19 al. 3 LAT",
+        "content": "Si la collectivité intéressée n’équipe pas les zones à bâtir dans les délais prévus, elle doit permettre aux propriétaires fonciers d’équiper eux-mêmes leur terrain selon les plans approuvés par elle ou les autoriser à lui avancer les frais des équipements selon les dispositions du droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 1, But et contenu, Remembrement",
+        "citation": "Art. 20 LAT",
+        "content": "Lorsque la réalisation de plans d’affectation l’exige, le remembrement peut être ordonné d’office et au besoin exécuté par l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_20"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Force obligatoire et adaptation",
+        "citation": "Art. 21 al. 1 LAT",
+        "content": "Les plans d’affectation ont force obligatoire pour chacun.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_21"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Force obligatoire et adaptation",
+        "citation": "Art. 21 al. 2 LAT",
+        "content": "Lorsque les circonstances se sont sensiblement modifiées, les plans d’affectation feront l’objet des adaptations nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_21"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Autorisation de construire",
+        "citation": "Art. 22 al. 1 LAT",
+        "content": "Aucune construction ou installation ne peut être créée ou transformée sans autorisation de l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Autorisation de construire",
+        "citation": "Art. 22 al. 2 LAT",
+        "content": "L’autorisation est délivrée si:\na. la construction ou l’installation est conforme à l’affectation de la zone;\nb. le terrain est équipé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Autorisation de construire",
+        "citation": "Art. 22 al. 3 LAT",
+        "content": "Le droit fédéral et le droit cantonal peuvent poser d’autres conditions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Exceptions prévues à l’intérieur de la zone à bâtir",
+        "citation": "Art. 23 LAT",
+        "content": "Le droit cantonal règle les exceptions prévues à l’intérieur de la zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_23"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Exceptions prévues hors de la zone à bâtir",
+        "citation": "Art. 24 LAT",
+        "content": "En dérogation à l’art. 22, al. 2, let. a, des autorisations peuvent être délivrées pour de nouvelles constructions ou installations ou pour tout changement d’affectation si:\na. l’implantation de ces constructions ou installations hors de la zone à bâtir est imposée par leur destination;\nb. aucun intérêt prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Changement d’affectation hors de la zone à bâtir ne nécessitant pas de travaux de transformation",
+        "citation": "Art. 24a al. 1 LAT",
+        "content": "Lorsque le changement d’affectation de constructions et d’installations sises hors de la zone à bâtir ne nécessite pas de travaux de transformation au sens de l’art. 22, al. 1, l’autorisation doit être accordée aux conditions suivantes:\na. ce changement d’affectation n’a pas d’incidence sur le territoire, l’équipement et l’environnement;\nb. il ne contrevient à aucune autre loi fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Changement d’affectation hors de la zone à bâtir ne nécessitant pas de travaux de transformation",
+        "citation": "Art. 24a al. 2 LAT",
+        "content": "L’autorisation est accordée sous réserve d’une nouvelle décision prise d’office en cas de modification des circonstances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 1 LAT",
+        "content": "Lorsqu’une entreprise agricole au sens de la loi fédérale du 4 octobre 1991 sur le droit foncier rural ne peut subsister sans un revenu complémentaire, les travaux de transformation destinés à l’exercice d’une activité accessoire non agricole proche de l’exploitation dans des constructions et installations existantes peuvent être autorisés. L’exigence découlant de l’art. 24, let. a, ne doit pas être satisfaite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 1bis LAT",
+        "content": "Les activités accessoires qui sont, par leur nature, étroitement liées à l’entreprise agricole peuvent être autorisées indépendamment de la nécessité d’un revenu complémentaire; des agrandissements mesurés sont admissibles lorsque les constructions et installations existantes sont trop petites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 1ter LAT",
+        "content": "Dans les centres d’exploitation temporaires, les travaux de transformation ne peuvent être autorisés qu’à l’intérieur des constructions et installations existantes et uniquement pour des activités accessoires de restauration ou d’hébergement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 1quater LAT",
+        "content": "Pour éviter les distorsions de concurrence, les activités accessoires non agricoles doivent satisfaire aux mêmes exigences légales et conditions cadres que les entreprises commerciales ou artisanales en situation comparable dans la zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 2 LAT",
+        "content": "L’activité accessoire ne peut être exercée que par l’exploitant de l’entreprise agricole ou la personne avec laquelle il vit en couple. L’engagement de personnel affecté de façon prépondérante ou exclusive à l’activité accessoire n’est autorisé que pour les activités accessoires au sens de l’al. 1bis. Dans tous les cas, le travail dans ce secteur d’exploitation doit être accompli de manière prépondérante par la famille de l’exploitant de l’entreprise agricole.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 3 LAT",
+        "content": "L’activité accessoire doit être mentionnée au registre foncier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 4 LAT",
+        "content": "De telles activités accessoires font partie de l’entreprise agricole et sont soumises à l’interdiction de partage matériel et de morcellement au sens des art. 58 à 60 de la loi fédérale du 4 octobre 1991 sur le droit foncier rural.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Activités accessoires non agricoles hors de la zone à bâtir",
+        "citation": "Art. 24b al. 5 LAT",
+        "content": "Les dispositions de la loi fédérale sur le droit foncier rural concernant les entreprises accessoires non agricoles ne s’appliquent pas aux activités accessoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone",
+        "citation": "Art. 24c al. 1 LAT",
+        "content": "Hors de la zone à bâtir, les constructions et installations qui peuvent être utilisées conformément à leur destination mais qui ne sont plus conformes à l’affectation de la zone bénéficient en principe de la garantie de la situation acquise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone",
+        "citation": "Art. 24c al. 2 LAT",
+        "content": "L’autorité compétente peut autoriser la rénovation de telles constructions et installations, leur transformation partielle, leur agrandissement mesuré ou leur reconstruction, pour autant que les bâtiments aient été érigés ou transformés légalement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone",
+        "citation": "Art. 24c al. 3 LAT",
+        "content": "Il en va de même des bâtiments d’habitation agricoles et des bâtiments d’exploitation agricole qui leur sont contigus et ont été érigés ou transformés légalement avant l’attribution du bien-fonds à un territoire non constructible au sens du droit fédéral. Le Conseil fédéral édicte des dispositions pour éviter les conséquences négatives pour l’agriculture.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone",
+        "citation": "Art. 24c al. 4 LAT",
+        "content": "Les modifications apportées à l’aspect extérieur du bâtiment doivent être nécessaires à un usage d’habitation répondant aux normes usuelles ou à un assainissement énergétique ou encore viser à une meilleure intégration dans le paysage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Constructions et installations existantes sises hors de la zone à bâtir et non conformes à l’affectation de la zone",
+        "citation": "Art. 24c al. 5 LAT",
+        "content": "Dans tous les cas, les exigences majeures de l’aménagement du territoire doivent être remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Habitations sans rapport avec l’agriculture, constructions et installations dignes de protection ",
+        "citation": "Art. 24d al. 1 LAT",
+        "content": "L’utilisation de bâtiments d’habitation agricoles conservés dans leur substance peut être autorisée à des fins d’habitation sans rapport avec l’agriculture.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Habitations sans rapport avec l’agriculture, constructions et installations dignes de protection ",
+        "citation": "Art. 24d al. 2 LAT",
+        "content": "Le changement complet d’affectation de constructions et d’installations jugées dignes d’être protégées peut être autorisé à condition que:\na. celles-ci aient été placées sous protection par l’autorité compétente;\nb. leur conservation à long terme ne puisse être assurée d’une autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Habitations sans rapport avec l’agriculture, constructions et installations dignes de protection ",
+        "citation": "Art. 24d al. 3 LAT",
+        "content": "Les autorisations prévues par le présent article ne peuvent être délivrées que si:\na. la construction ou l’installation n’est plus nécessaire à son usage antérieur, qu’elle se prête à l’utilisation envisagée et qu’elle n’implique pas une construction de remplacement que n’imposerait aucune nécessité;\nb. l’aspect extérieur et la structure architecturale du bâtiment demeurent pour l’essentiel inchangés;\nc. tout au plus une légère extension des équipements existants est nécessaire et que tous les coûts supplémentaires d’infrastructure occasionnés par le changement complet d’affectation de la construction ou de l’installation sont à la charge du propriétaire;\nd. l’exploitation agricole des terrains environnants n’est pas menacée;\ne. aucun intérêt prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 1 LAT",
+        "content": "Des travaux de transformation sont autorisés dans les bâtiments et les parties de bâtiments inhabités et conservés dans leur substance s’ils permettent aux personnes qui habitent à proximité d’y détenir des animaux à titre de loisir dans des conditions respectueuses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 2 LAT",
+        "content": "Dans le cadre de l’al. 1, de nouvelles installations extérieures sont autorisées dans la mesure où la détention convenable des animaux l’exige. Afin d’assurer une détention respectueuse des animaux, ces installations peuvent excéder les dimensions minimales prévues par la loi pour autant que les exigences majeures de l’aménagement du territoire soient respectées et que l’installation en question soit construite de manière réversible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 3 LAT",
+        "content": "Les installations extérieures peuvent servir à l’utilisation des animaux à titre de loisir pour autant que cela n’occasionne pas de transformations ni de nouvelles incidences sur le territoire et l’environnement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 4 LAT",
+        "content": "Les clôtures qui servent au pacage et qui n’ont pas d’incidences négatives sur le paysage sont autorisées aussi dans les cas où les animaux sont détenus en zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 5 LAT",
+        "content": "Les autorisations prévues par le présent article ne peuvent être délivrées que si les conditions prévues à l’art. 24d, al. 3, sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 2, Effets, Détention d’animaux à titre de loisir",
+        "citation": "Art. 24e al. 6 LAT",
+        "content": "Le Conseil fédéral règle les modalités. Il définit notamment le rapport entre les possibilités de transformation prévues par le présent article et celles prévues aux art. 24c et 24d, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Compétence cantonale",
+        "citation": "Art. 25 al. 1 LAT",
+        "content": "Les cantons règlent la compétence et la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Compétence cantonale",
+        "citation": "Art. 25 al. 1bis LAT",
+        "content": "Ils impartissent des délais dont ils règlent les effets dans toutes les procédures requises pour implanter, transformer ou changer d’affectation les constructions et installations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Compétence cantonale",
+        "citation": "Art. 25 al. 2 LAT",
+        "content": "Pour tous les projets de construction situés hors de la zone à bâtir, l’autorité cantonale compétente décide si ceux-ci sont conformes à l’affectation de la zone ou si une dérogation peut être accordée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Principes de la coordination",
+        "citation": "Art. 25a al. 1 LAT",
+        "content": "Une autorité chargée de la coordination est désignée lorsque l’implantation ou la transformation d’une construction ou d’une installation nécessite des décisions émanant de plusieurs autorités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Principes de la coordination",
+        "citation": "Art. 25a al. 2 LAT",
+        "content": "L’autorité chargée de la coordination:\na. peut prendre les dispositions nécessaires pour conduire les procédures;\nb. veille à ce que toutes les pièces du dossier de requête soient mises en même temps à l’enquête publique;\nc. recueille les avis circonstanciés relatifs au projet auprès de toutes les autorités cantonales et fédérales concernées par la procédure;\nd. veille à la concordance matérielle ainsi que, en règle générale, à une notification commune ou simultanée des décisions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Principes de la coordination",
+        "citation": "Art. 25a al. 3 LAT",
+        "content": "Les décisions ne doivent pas être contradictoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Principes de la coordination",
+        "citation": "Art. 25a al. 4 LAT",
+        "content": "Ces principes sont applicables par analogie à la procédure des plans d’affectation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Approbation des plans d’affectation par une autorité cantonale",
+        "citation": "Art. 26 al. 1 LAT",
+        "content": "Une autorité cantonale approuve les plans d’affectation et leurs adaptations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Approbation des plans d’affectation par une autorité cantonale",
+        "citation": "Art. 26 al. 2 LAT",
+        "content": "Elle examine s’ils sont conformes aux plans directeurs cantonaux approuvés par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Approbation des plans d’affectation par une autorité cantonale",
+        "citation": "Art. 26 al. 3 LAT",
+        "content": "L’approbation des plans d’affectation par l’autorité cantonale leur confère force obligatoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Zones réservées",
+        "citation": "Art. 27 al. 1 LAT",
+        "content": "S’il n’existe pas de plan d’affectation ou que l’adaptation d’un tel plan s’impose, l’autorité compétente peut prévoir des zones réservées dans des territoires exactement délimités. À l’intérieur de ces zones, rien ne doit être entrepris qui puisse entraver l’établissement du plan d’affectation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_27"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Zones réservées",
+        "citation": "Art. 27 al. 2 LAT",
+        "content": "Une zone réservée ne peut être prévue que pour cinq ans au plus; le droit cantonal peut prolonger ce délai.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_27"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 2, Mesures d’aménagement, Chapitre 3, Plans d’affectation, Section 3, Compétence et procédure, Restrictions des cantons concernant les constructions hors de la zone à bâtir",
+        "citation": "Art. 27a LAT",
+        "content": "La législation cantonale peut prévoir des restrictions aux art. 16a, al. 2, 24b, 24c et 24d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_27_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 3, Contributions fédérales, Contribution aux indemnisations pour des mesures de protection",
+        "citation": "Art. 29 LAT",
+        "content": "La Confédération peut contribuer au versement d’indemnités résultant de mesures de protection au sens de l’art. 17, lorsque ces mesures de protection présentent une importance particulière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_29"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 3, Contributions fédérales, Contributions en faveur de projets ",
+        "citation": "Art. 29a al. 1 LAT",
+        "content": "En collaboration avec les cantons, les villes et les communes, la Confédération peut encourager, dans une perspective de développement durable, des projets qui améliorent la qualité de l’habitat et la cohésion sociale dans les zones d’habitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_29_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 3, Contributions fédérales, Contributions en faveur de projets ",
+        "citation": "Art. 29a al. 2 LAT",
+        "content": "L’Office fédéral du développement territorial coordonne cet encouragement avec les services fédéraux concernés et assure une valorisation systématique des expériences faites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_29_a"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 3, Contributions fédérales, Condition à l’octroi d’autres subventions",
+        "citation": "Art. 30 LAT",
+        "content": "Lorsqu’en vertu d’autres lois fédérales, la Confédération alloue des subventions en faveur de mesures qui ont des effets sur l’organisation du territoire, elle exige que celles-ci soient conformes aux plans directeurs approuvés par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_30"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 4, Organisation, Services cantonaux",
+        "citation": "Art. 31 LAT",
+        "content": "Les cantons désignent un service chargé de l’aménagement du territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_31"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 4, Organisation, Service fédéral de l’aménagement du territoire",
+        "citation": "Art. 32 LAT",
+        "content": "Le service compétent de la Confédération est l’Office fédéral du développement territorial.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_32"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit cantonal",
+        "citation": "Art. 33 al. 1 LAT",
+        "content": "Les plans d’affectation sont mis à l’enquête publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit cantonal",
+        "citation": "Art. 33 al. 2 LAT",
+        "content": "Le droit cantonal prévoit au moins une voie de recours contre les décisions et les plans d’affectation fondés sur la présente loi et sur les dispositions cantonales et fédérales d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit cantonal",
+        "citation": "Art. 33 al. 3 LAT",
+        "content": "Il prévoit\na. que la qualité pour recourir est reconnue au moins dans les mêmes limites que pour le recours en matière de droit public devant le Tribunal fédéral;\nb. qu’une autorité de recours au moins ait un libre pouvoir d’examen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit cantonal",
+        "citation": "Art. 33 al. 4 LAT",
+        "content": "Les recours contre les décisions rendues par les autorités cantonales doivent être portés devant une autorité de recours unique lorsque l’art. 25a, al. 1, est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit fédéral",
+        "citation": "Art. 34 al. 1 LAT",
+        "content": "Les recours devant les autorités fédérales sont régis par les dispositions générales de la procédure fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_34"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit fédéral",
+        "citation": "Art. 34 al. 2 LAT",
+        "content": "Les cantons et les communes ont qualité pour recourir contre les décisions prises par l’autorité cantonale de dernière instance et portant sur:\na. des indemnisations résultant de restrictions apportées au droit de propriété (art. 5);\nb. la reconnaissance de la conformité à l’affectation de la zone de constructions et d’installations sises hors de la zone à bâtir;\nc. des autorisations visées aux art. 24 à 24d et 37a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_34"
+    },
+    {
+        "book": "RPG",
+        "title": "LAT, Titre 5, Protection juridique, Droit fédéral",
+        "citation": "Art. 34 al. 3 LAT",
+        "content": "L’Office fédéral de l’agriculture a qualité pour recourir contre les décisions portant sur des projets qui requièrent des surfaces d’assolement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/fr#art_34"
+    }
+]

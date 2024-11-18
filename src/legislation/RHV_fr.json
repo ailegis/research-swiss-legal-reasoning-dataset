@@ -1,0 +1,478 @@
+[
+    {
+        "book": "RHV",
+        "title": "OHR, Section 1, Dispositions générales, Objet",
+        "citation": "Art. 1 al. 1 OHR",
+        "content": "Dans le cadre de l’harmonisation de registres, la présente ordonnance règle\na. la tenue des registres officiels de personnes (registres);\nb. l’échange de données entre les registres;\nc. la livraison à l’Office fédéral de la statistique (OFS) de données en provenance de ces registres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 1, Dispositions générales, Objet",
+        "citation": "Art. 1 al. 2 OHR",
+        "content": "Elle règle par ailleurs la plateforme centrale informatique de communication de la Confédération (sedex).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 1, Dispositions générales, Objet",
+        "citation": "Art. 1 al. 3 OHR",
+        "content": "Elle contient des dispositions complémentaires sur le numéro AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 OHR",
+        "content": "Au sens de la présente ordonnance, on entend par:\na. ménage privé: l’ensemble des personnes qui occupent le même logement dans le même bâtiment;\nabis. ménages collectifs:\n1. les homes pour personnes âgées et les établissements médico-sociaux,\n2. les foyers et les maisons d’éducation pour enfants et adolescents,\n3. les internats et les foyers d’étudiants,\n4. les établissements pour handicapés,\n5. les hôpitaux, les établissements de soins et autres institutions dans le domaine de la santé,\n6. les établissements d’exécution des peines et mesures,\n7. les centres d’hébergement de requérants d’asile,\n8. les monastères et les établissements d’hébergement de congrégations et autres associations religieuses;\nb. sedex: plateforme centrale informatique de communication que la Confédération met à la disposition des services autorisés pour la transmission sécurisée de données (secure data exchange);\nc. jeton («token»): élément unique, non falsifiable, qui sert à identifier un participant ou une participante au sein d’un réseau informatique (p. ex. au sein d’Internet).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_2"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 2, Tenue des registres, Modifications",
+        "citation": "Art. 3 al. 1 OHR",
+        "content": "L’OFS doit être préalablement informé de toute modification substantielle ou suppression de registre au sens de l’art. 2 LHR.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 2, Tenue des registres, Modifications",
+        "citation": "Art. 3 al. 2 OHR",
+        "content": "Est substantielle toute modification qui affecte les objectifs de la statistique fédérale, en particulier lorsque les identificateurs, les caractères requis ou le rythme d’actualisation sont touchés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 2, Tenue des registres, Protection des données",
+        "citation": "Art. 4 OHR",
+        "content": "Les services qui tiennent les registres visés à l’art. 2 LHR sont personnellement responsables de la protection des données dans le cadre de la tenue de ces registres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_4"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Principes",
+        "citation": "Art. 5 al. 1 OHR",
+        "content": "L’échange de données entre les registres visés à l’art. 2 LHR et la livraison de données à l’OFS se font via sedex ou au moyen de supports électroniques de données selon les directives de l’OFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Principes",
+        "citation": "Art. 5 al. 2 OHR",
+        "content": "L’échange de données au sein d’un canton peut avoir lieu par l’intermédiaire de systèmes mis en place à cet effet par ledit canton et ses communes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Principes",
+        "citation": "Art. 5 al. 3 OHR",
+        "content": "La Confédération met sedex gratuitement à la disposition des services qui tiennent des registres. Elle prend à sa charge les coûts de développement, d’exploitation et d’entretien de cette plateforme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Principes",
+        "citation": "Art. 5 al. 4 OHR",
+        "content": "L’OFS est l’unité responsable de sedex à la Confédération. Il peut en confier l’exploitation à des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Échange de données entre les registres des habitants",
+        "citation": "Art. 6 al. 1 OHR",
+        "content": "L’échange de données entre les registres des habitants lors d’arrivées et de départs se fait de manière continue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Échange de données entre les registres des habitants",
+        "citation": "Art. 6 al. 2 OHR",
+        "content": "L’échange intercantonal de données se fait sous forme cryptée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Échange de données entre les registres des habitants",
+        "citation": "Art. 6 al. 3 OHR",
+        "content": "L’OFS coordonne la préparation de la mise en œuvre de l’échange de données via sedex, d’entente avec les cantons et l’Association eCH.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres fédéraux à l’OFS",
+        "citation": "Art. 7 al. 1 OHR",
+        "content": "Les données des registres visés à l’art. 2, al. 1, LHR sont livrées gratuitement à l’OFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres fédéraux à l’OFS",
+        "citation": "Art. 7 al. 2 OHR",
+        "content": "L’OFS peut contrôler la qualité des données livrées. S’il constate que celles-ci sont incomplètes ou erronées, il peut ordonner une nouvelle livraison pour le même jour de référence; il précise alors quelles données doivent lui être livrées encore une fois et la date de leur livraison.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres fédéraux à l’OFS",
+        "citation": "Art. 7 al. 3 OHR",
+        "content": "Le contenu et la périodicité des livraisons de données sont réglés par l’ordonnance du 30 juin 1993 concernant l’exécution des relevés statistiques fédéraux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres cantonaux à l’OFS",
+        "citation": "Art. 8 al. 1 OHR",
+        "content": "Les services qui tiennent les registres visés à l’art. 2, al. 2, LHR livrent quatre fois par an à l’OFS les données au sens de l’art. 6 LHR. Le canton désigne le service responsable de la livraison de ces données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres cantonaux à l’OFS",
+        "citation": "Art. 8 al. 2 OHR",
+        "content": "Les données livrées se rapportent successivement au 31 mars, au 30 juin, au 30 septembre et au 31 décembre. Les données doivent parvenir à l’OFS au plus tard le dernier jour du mois suivant le jour de référence. Le premier jour de référence est le 31 mars 2010.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres cantonaux à l’OFS",
+        "citation": "Art. 8 al. 3 OHR",
+        "content": "Les données livrées à l’OFS doivent chaque fois être complètes. Elles doivent contenir au minimum les informations suivantes:\na. les personnes annoncées dans la commune le jour de référence, indépendamment de la relation d’annonce conformément au catalogue des caractères;\nb. les personnes décédées au cours des douze mois précédant le jour de référence;\nc. les personnes ayant quitté la commune au cours des douze mois précédant le jour de référence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Livraison de données des registres cantonaux à l’OFS",
+        "citation": "Art. 8 al. 4 OHR",
+        "content": "Si les données sont livrées régulièrement au moyen d’un support électronique, l’OFS doit en être avisé au plus tard trois mois avant le premier jour de référence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Ménages collectifs",
+        "citation": "Art. 9 OHR",
+        "content": "Les cantons s’assurent que les personnes vivant dans des ménages collectifs sont inscrites dans les registres visés à l’art. 2, al. 2, LHR.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_9"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 1 OHR",
+        "content": "L’OFS exploite un service de validation afin de garantir que les données livrées par les registres visés à l’art. 2, al. 2, LHR remplissent les critères de qualité requis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 2 OHR",
+        "content": "Ce service de validation contrôle que:\na. les données livrées sont complètes;\nb. le contenu du registre au sens de l’art. 6 LHR y figure;\nc. les identificateurs sont appliqués correctement et que les exigences du catalogue des caractères sont respectées;\nd. l’identificateur fédéral de bâtiment (EGID) est correct et que l’identificateur fédéral de logement (EWID) est plausible, après comparaison avec le registre fédéral des bâtiments et des logements (RegBL);\ne. les informations relatives à une personne donnée sont plausibles compte tenu des règles de plausibilité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 3 OHR",
+        "content": "L’OFS fixe les règles de plausibilité dans une directive et publie cette dernière sur Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 4 OHR",
+        "content": "Il communique les erreurs constatées au service chargé de la livraison des données selon l’art. 8, al. 1. Ce service fait le nécessaire pour que les erreurs soient corrigées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 5 OHR",
+        "content": "Si les données livrées sont incomplètes ou erronées, l’OFS peut ordonner une nouvelle livraison pour le même jour de référence. Il précise alors quelles données doivent lui être livrées encore une fois et fixe la date de livraison.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 3, Transmission de données, Validation des données pour la statistique",
+        "citation": "Art. 10 al. 6 OHR",
+        "content": "Le service de validation répertorie dans un protocole le nombre et le type des erreurs constatées de telle manière qu’il ne soit pas possible de faire des recoupements avec des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Raccordement des registres cantonaux",
+        "citation": "Art. 11 al. 1 OHR",
+        "content": "Le service compétent au sens de l’art. 9 LHR indique à l’OFS quels sont, sur le territoire cantonal, les services tenant des registres visés à l’art. 2, al. 2, LHR qui sont raccordés à sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Raccordement des registres cantonaux",
+        "citation": "Art. 11 al. 2 OHR",
+        "content": "Ces derniers sont eux-mêmes responsables de leur raccordement à sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Adaptateur de raccordement",
+        "citation": "Art. 12 al. 1 OHR",
+        "content": "La transmission de données via sedex se fait exclusivement par l’intermédiaire d’un adaptateur de raccordement à sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Adaptateur de raccordement",
+        "citation": "Art. 12 al. 2 OHR",
+        "content": "La Confédération développe cet adaptateur et le met gratuitement à la disposition des services qui tiennent les registres. Elle prend à sa charge les coûts d’optimisation de cet adaptateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Adaptateur de raccordement",
+        "citation": "Art. 12 al. 3 OHR",
+        "content": "Les services qui tiennent les registres visés à l’art. 2, al. 2, LHR prennent à leur charge les frais d’installation et d’exploitation de l’adaptateur, ainsi que les coûts d’adaptation de leur logiciel et de leur matériel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Certification",
+        "citation": "Art. 13 al. 1 OHR",
+        "content": "Le logiciel du registre doit être certifié pour l’utilisation de sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Certification",
+        "citation": "Art. 13 al. 2 OHR",
+        "content": "La certification se fait par déclaration spontanée du donneur de licence au service de certification. Par cette déclaration, le donneur de licence confirme que son logiciel peut communiquer avec sedex par l’intermédiaire de l’adaptateur de raccordement conformément aux prescriptions de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Certification",
+        "citation": "Art. 13 al. 3 OHR",
+        "content": "L’OFS fait office de service de certification. Il tient une liste des logiciels de registre autorisés par déclaration spontanée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Transmission de données",
+        "citation": "Art. 14 al. 1 OHR",
+        "content": "Les données sont transmises via sedex sous forme cryptée dans une enveloppe électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Transmission de données",
+        "citation": "Art. 14 al. 2 OHR",
+        "content": "Chaque transmission fait l’objet d’un protocole. Les données transmises ne peuvent être lues que par le destinataire qui y est autorisé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Transmission de données",
+        "citation": "Art. 14 al. 3 OHR",
+        "content": "Pour chaque transmission effectuée avec succès, sedex envoie une confirmation à l’émetteur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Transmission de données",
+        "citation": "Art. 14 al. 4 OHR",
+        "content": "Si le service autorisé ne prend pas livraison de l’enveloppe dans un délai d’un mois, celle-ci est effacée avec son contenu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Utilisation de sedex à d’autres fins officielles",
+        "citation": "Art. 15 al. 1 OHR",
+        "content": "Toute transmission de données via sedex effectuée à d’autres fins officielles doit se faire conformément aux directives de l’OFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Utilisation de sedex à d’autres fins officielles",
+        "citation": "Art. 15 al. 2 OHR",
+        "content": "La perception d’émoluments par l’OFS est réglée par l’ordonnance du 25 juin 2003 sur les émoluments et indemnités perçus pour les prestations de services statistiques des unités administratives de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Protection des données",
+        "citation": "Art. 16 OHR",
+        "content": "Les autres utilisateurs qui ont recours à sedex doivent prendre les mêmes mesures de protection des données que les services qui tiennent les registres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_16"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Identité numérique",
+        "citation": "Art. 17 al. 1 OHR",
+        "content": "Une identité numérique est attribuée gratuitement aux services qui tiennent les registres et qui sont raccordés à sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Identité numérique",
+        "citation": "Art. 17 al. 2 OHR",
+        "content": "L’OFS tient une liste de ces services et de leur identité numérique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 4, Utilisation de sedex, Identité numérique",
+        "citation": "Art. 17 al. 3 OHR",
+        "content": "L’Office fédéral de l’informatique et de la télécommunication délivre à chacun de ces services ainsi qu’à chacun des autres utilisateurs de sedex un certificat servant:\na. à vérifier leur signature électronique;\nb. à les authentifier;\nc. à crypter les données électroniques qui leur sont destinées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Annonce d’utilisation systématique du numéro AVS à la Centrale de compensation (CdC)",
+        "citation": "Art. 18 OHR",
+        "content": "Le service compétent au sens de l’art. 9 LHR annonce collectivement, pour tous les services du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR, l’utilisation systématique du numéro AVS, conformément à l’art. 134ter du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS), à la Centrale de compensation (CdC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_18"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Première mise à jour complète des registres au sein du canton",
+        "citation": "Art. 19 al. 1 OHR",
+        "content": "Le service compétent au sens de l’art. 9 LHR s’assure que tous les services au sein du canton qui tiennent les registres visés à l’art. 2, al. 2, LHR demandent la première attribution globale et la communication du numéro AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Première mise à jour complète des registres au sein du canton",
+        "citation": "Art. 19 al. 2 OHR",
+        "content": "La procédure pour l’attribution et la communication du numéro est faite selon les art. 133bis et  134quater du RAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Première mise à jour complète des registres au sein du canton",
+        "citation": "Art. 19 al. 3 OHR",
+        "content": "L’OFS coordonne l’attribution et la communication d’entente avec la CdC et les services compétents au sens de l’art. 9 LHR.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Première mise à jour complète des registres au sein du canton",
+        "citation": "Art. 19 al. 4 OHR",
+        "content": "D’entente avec les services compétents au sens de l’art. 9 LHR, l’OFS fixe comment, à partir de quelle date et par rapport à quel jour de référence les données cantonales nécessaires à l’attribution et à la communication peuvent être livrées à la CdC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Première mise à jour complète des registres au sein du canton",
+        "citation": "Art. 19 al. 5 OHR",
+        "content": "La CdC transmet le numéro AVS aux services qui tiennent les registres et leur redonne les informations qu’ils avaient livrées en vue de l’attribution ou de la communication. Elle fournit de plus les données personnelles officielles provenant des systèmes d’information Infostar et SYMIC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Communication au sein du canton",
+        "citation": "Art. 20 al. 1 OHR",
+        "content": "Les services qui tiennent les registres visés à l’art. 2, al. 2, LHR peuvent communiquer le numéro AVS aux services et institutions qui sont autorisés en vertu de lois fédérales ou cantonales à utiliser systématiquement le numéro AVS pour accomplir leurs tâches légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Communication au sein du canton",
+        "citation": "Art. 20 al. 2 OHR",
+        "content": "Dans ce cas, la perception d’émoluments relève du droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Mise à jour des registres fédéraux",
+        "citation": "Art. 21 al. 1 OHR",
+        "content": "La première attribution globale et la communication du numéro AVS aux registres visés à l’art. 2, al. 1, LHR sont réglées par les art. 133bis et 134quater du RAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Mise à jour des registres fédéraux",
+        "citation": "Art. 21 al. 2 OHR",
+        "content": "L’OFS coordonne la communication d’entente avec la CdC et les services chargés de tenir ces registres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Mise à jour des registres fédéraux",
+        "citation": "Art. 21 al. 3 OHR",
+        "content": "L’OFS fixe comment, à partir de quelle date et par rapport à quel jour de référence les données nécessaires à l’attribution et à la communication peuvent être livrées à la CdC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 5, Numéro AVS, Mise à jour du numéro AVS",
+        "citation": "Art. 22 OHR",
+        "content": "Les registres tiennent le numéro AVS à jour.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_22"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 6, Services cantonaux",
+        "citation": "Art. 23 al. 1 OHR",
+        "content": "Le service compétent au sens de l’art. 9 LHR coordonne la procédure et veille au respect des délais d’exécution de l’harmonisation des registres, d’entente avec l’OFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 6, Services cantonaux",
+        "citation": "Art. 23 al. 2 OHR",
+        "content": "Il peut, pour contrôler l’exécution et la qualité de l’harmonisation dans son canton, demander le protocole établi par le service de validation conformément à l’art. 10, al. 6.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Banque de données",
+        "citation": "Art. 24 al. 1 OHR",
+        "content": "L’OFS exploite le répertoire d’adresses au sens de l’art. 16, al. 3, LHR comme banque de données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Banque de données",
+        "citation": "Art. 24 al. 2 OHR",
+        "content": "Il met cette banque de données à jour une fois par trimestre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Utilisation",
+        "citation": "Art. 25 OHR",
+        "content": "L’OFS utilise le répertoire d’adresses uniquement à des fins statistiques, de recherche et de planification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_25"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Utilisation statistique par les cantons et les communes",
+        "citation": "Art. 26 al. 1 OHR",
+        "content": "Les services cantonaux et communaux compétents en matière statistique peuvent demander à l’OFS de leur communiquer les données relatives à leur territoire conformément à l’art. 17, al. 2, LHR. Ils doivent lui adresser leur demande par écrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Utilisation statistique par les cantons et les communes",
+        "citation": "Art. 26 al. 2 OHR",
+        "content": "L’OFS livre ces données au maximum une fois par trimestre et au plus tôt un mois après avoir reçu la dernière livraison de données du canton. Les données sont livrées sous forme cryptée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Utilisation statistique par les cantons et les communes",
+        "citation": "Art. 26 al. 3 OHR",
+        "content": "Ces données peuvent uniquement être utilisées comme base d’échantillonnage en vue de la réalisation par les cantons et les communes de leurs propres relevés statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Règlement d’utilisation",
+        "citation": "Art. 27 al. 1 OHR",
+        "content": "L’OFS définit les conditions d’utilisation du répertoire d’adresses dans un règlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_27"
+    },
+    {
+        "book": "RHV",
+        "title": "OHR, Section 7, Répertoire d’adresses, Règlement d’utilisation",
+        "citation": "Art. 27 al. 2 OHR",
+        "content": "Le répertoire d’adresses ne peut pas être transmis à des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/fr#art_27"
+    }
+]

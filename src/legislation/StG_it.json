@@ -1,0 +1,765 @@
+[
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, I. Oggetto della legge",
+        "citation": "Art. 1 cpv. 1 LTB",
+        "content": "La Confederazione riscuote tasse di bollo su:\na. l’emissione dei seguenti titoli svizzeri:\n1. azioni,\n2. quote sociali di società a garanzia limitata e di società cooperative,\n2bis. buoni di partecipazione e buoni di partecipazione di banche cooperative,\n3. buoni di godimento;\n4. e 5. ...\nb. la negoziazione dei seguenti titoli svizzeri e esteri:\n1. obbligazioni,\n2. azioni,\n3. quote sociali di società a garanzia limitata e di società cooperative,\n3bis. buoni di partecipazione e buoni di partecipazione di banche cooperative,\n4. buoni di godimento,\n5. quote a investimenti collettivi di capitale ai sensi della legge del 23 giugno 2006 sugli investimenti collettivi (LICol);\n6. documenti che giusta la presente legge sono assimilati ai titoli designati ai numeri da 1 a 5.\nc. il pagamento contro quietanza di premi di assicurazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_1"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, I. Oggetto della legge",
+        "citation": "Art. 1 cpv. 2 LTB",
+        "content": "Se non vengono emessi o consegnati titoli per gli atti giuridici di cui al capoverso 1, i libri di commercio o gli altri documenti che servono ad accertarli tengono luogo dei titoli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_1"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, III. Rapporto con il diritto cantonale",
+        "citation": "Art. 3 cpv. 1 LTB",
+        "content": "I documenti che la presente legge assoggetta a una tassa di bollo o dichiara esenti non possono essere gravati dai Cantoni con contribuzioni o tasse di registro dello stesso genere. Il Tribunale federale giudica come istanza unica le contestazioni derivanti dalla presente disposizione (art. 116 LF del 16 dic. 1943 sull’organizzazione giudiziaria, OG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_3"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, III. Rapporto con il diritto cantonale",
+        "citation": "Art. 3 cpv. 2 LTB",
+        "content": "I documenti esenti comprendono anche i documenti in uso per il trasporto di bagagli, animali e merci da parte delle Ferrovie federali svizzere e delle imprese di trasporto titolari di una concessione rilasciata dalla Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_3"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, IV. Definizioni",
+        "citation": "Art. 4 cpv. 1 LTB",
+        "content": "Si considera svizzero o domiciliato in Svizzera chiunque ha il domicilio in Svizzera, vi dimora durevolmente, vi ha la sede statutaria o legale o è iscritto come impresa nel registro svizzero di commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, IV. Definizioni",
+        "citation": "Art. 4 cpv. 2 LTB",
+        "content": "Nella presente legge le società di investimento a capitale fisso ai sensi dell’articolo 109 LICol sono equiparate alle società di capitali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, IV. Definizioni",
+        "citation": "Art. 4 cpv. 3 LTB",
+        "content": "Sono obbligazioni i riconoscimenti di debito scritti, concernenti importi fissi e emessi in più esemplari, per raccogliere collettivamente capitale o offrire possibilità collettive di investimento oppure in vista del consolidamento di impegni. Sono considerate obbligazioni in questo senso segnatamente le obbligazioni di prestiti, compresi i titoli di prestito garantiti da un pegno immobiliare giusta l’articolo 875 del Codice civile, i titoli di rendita, le cartelle ipotecarie, le obbligazioni di cassa, i certificati di cassa e di deposito, nonché i crediti iscritti nel libro dei debiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, IV. Definizioni",
+        "citation": "Art. 4 cpv. 4 LTB",
+        "content": "Sono parimenti considerati obbligazioni:\na. gli effetti cambiari, i riconoscimenti di debito analoghi agli effetti cambiari e gli altri effetti scontabili emessi in più esemplari destinati ad essere offerti al pubblico;\nb. i certificati concernenti sottopartecipazioni a crediti da mutui;\nc. i crediti contabili emessi in più esemplari per procacciarsi collettivamente capitale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Introduzione, IV. Definizioni",
+        "citation": "Art. 4 cpv. 5 LTB",
+        "content": "Sono titoli del mercato monetario le obbligazioni con una durata contrattuale fissa che non supera dodici mesi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_4"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, I. Oggetto della tassa, Diritti di partecipazione",
+        "citation": "Art. 5 cpv. 1 LTB",
+        "content": "Soggiacciono alla tassa:\na. la costituzione e l’aumento del valore nominale a titolo oneroso o gratuito di diritti di partecipazione in forma di:\n– azioni di società anonime e di società in accomandita per azioni, svizzere,\n– quote sociali di società a garanzia limitata svizzere,\n– quote sociali di società cooperative svizzere,\n– buoni di godimento di società svizzere. Si considerano buoni di godimento i documenti attestanti il diritto di partecipare ad una quota dell’utile netto o del ricavo di liquidazione,\n– buoni di partecipazione di società o imprese commerciali svizzere di diritto pubblico,\n– buoni di partecipazione di banche cooperative;\nb. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_5"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, I. Oggetto della tassa, Diritti di partecipazione",
+        "citation": "Art. 5 cpv. 2 LTB",
+        "content": "Alla costituzione di diritti di partecipazione giusta il capoverso 1 lettera a sono equiparati:\na. i versamenti suppletivi che i soci fanno alla società, senza una corrispondente controprestazione e senza aumento del capitale sociale iscritto nel registro di commercio o dell’ammontare versato sulle quote sociali della società cooperativa;\nb. il trasferimento della maggioranza delle azioni e, ove trattasi di società a garanzia limitata e di società cooperative, delle quote sociali di una società svizzera economicamente liquidata o i cui attivi sono stati convertiti in mezzi liquidi;\nc. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_5"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, I. Oggetto della tassa, Eccezioni",
+        "citation": "Art. 6 cpv. 1 LTB",
+        "content": "Non soggiacciono alla tassa:\na. i diritti di partecipazione a società anonime, società in accomandita per azioni, società a garanzia limitata o società cooperative che, escluso ogni fine di lucro, si dedicano all’assistenza degli indigenti e dei malati, favoriscono il culto, l’istruzione o altre opere di pubblica utilità oppure procurano abitazioni a pigione moderata o concedono fideiussioni, purché, a norma degli statuti:\n– i dividendi siano limitati al 6 per cento, al massimo, del capitale sociale versato,\n– l’assegnazione di tantièmes sia esclusa,\n– la parte del patrimonio rimanente dopo il rimborso del capitale sociale versato sia destinata, in caso di scioglimento della società, ad uno degli scopi summenzionati;\na.bis  i diritti di partecipazione creati o aumentati in esecuzione di deliberazioni relative a fusioni o riunioni aventi economicamente carattere di fusione, a trasformazioni e scissioni di società anonime, società in accomandita per azioni, società a garanzia limitata o società cooperative;\na.ter  la costituzione o l’aumento del valore nominale di diritti di partecipazione a società che sono esclusivamente di proprietà pubblica e perseguono uno scopo di pubblica utilità secondo l’articolo 1 della legge federale del 17 marzo 2023 concernente l’impiego di mezzi elettronici per l’adempimento dei compiti delle autorità, nonché operazioni equivalenti finalizzate alla costituzione di diritti di partecipazione a tali società;\nb. la costituzione o l’aumento del valore nominale di diritti di partecipazione a società cooperative, nella misura in cui le prestazioni dei soci ai sensi dell’articolo 5 non superino complessivamente un milione di franchi;\nc. i diritti di partecipazione a imprese di trasporto costituiti o aumentati in favore dei poteri pubblici in ragione dei loro contributi d’investimento;\nd. i diritti di partecipazione costituiti o aumentati mediante aggi e anticipazioni dei soci, per quanto la società provi di aver pagato la tassa di bollo su dette prestazioni;\ne. ...\nf. ...\ng. i diritti di partecipazione costituiti o aumentati mediante l’impiego del capitale di partecipazione o del capitale di partecipazione di una banca cooperativa, se la società o la società cooperativa prova di aver pagato la tassa su tale capitale;\nh. i diritti di partecipazione costituiti a titolo oneroso al momento della costituzione o dell’aumento di capitale di una società anonima, di una società in accomandita per azioni o di una società a garanzia limitata, per quanto le prestazioni dei soci non superino complessivamente un milione di franchi;\ni. la creazione di quote di investimenti collettivi di capitale ai sensi della LICol;\nj. i diritti di partecipazione costituiti o aumentati per riprendere un’azienda o una parte di azienda di una società anonima, di una società in accomandita per azioni, di una società a garanzia limitata o di una società cooperativa, se dall’ultimo bilancio annuale risulta che la metà del capitale e delle riserve legali di questa società non è più coperta;\nk. la costituzione di diritti di partecipazione o l’aumento del loro valore nominale, in caso di risanamento aperto, sino a concorrenza del loro importo prima del risanamento, nonché i pagamenti suppletivi dei soci in caso di risanamento tacito nella misura in cui:\n– le perdite esistenti siano eliminate, e\n– le prestazioni dei soci non superino complessivamente 10 milioni di franchi;\nl. i diritti di partecipazione a banche o società di gruppi finanziari costituiti o aumentati mediante capitale convertibile secondo l’articolo 13 capoverso 1 o 30b capoverso 7 lettera b della legge dell’8 novembre 1934 sulle banche approvato dall’Autorità federale di vigilanza sui mercati finanziari ai fini dell’adempimento di esigenze prudenziali;\nm. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_6"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, I. Oggetto della tassa, Eccezioni",
+        "citation": "Art. 6 cpv. 2 LTB",
+        "content": "Caduti i presupposti di esenzione, la tassa deve essere pagata su i diritti di partecipazione ancora esistenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_6"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, II. Nascita del credito fiscale",
+        "citation": "Art. 7 cpv. 1 LTB",
+        "content": "Il credito fiscale sorge:\na. quanto alle azioni, buoni di partecipazione, quote sociali di società a garanzia limitata e buoni di partecipazione di banche cooperative: con l’iscrizione nel registro di commercio della costituzione o dell’aumento dei diritti di partecipazione;\na.bis  quanto ai diritti di partecipazione costituiti nella procedura d’aumento condizionale del capitale: all’atto dell’emissione;\nb. ...\nc. quanto alle quote sociali di società cooperative: all’atto della costituzione o dell’aumento;\nd. quanto ai buoni di godimento: all’atto dell’emissione o dell’aumento;\ne. quanto ai versamenti suppletivi e ai trasferimenti della maggioranza dei diritti di partecipazione: all’atto del versamento o del trasferimento;\nf. quanto ai diritti di partecipazione emessi nell’ambito del margine di variazione del capitale secondo gli articoli 653s segg. del Codice delle obbligazioni , allo scadere della sua validità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_7"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, III. Aliquote e calcolo della tassa, Diritti di partecipazione",
+        "citation": "Art. 8 cpv. 1 LTB",
+        "content": "La tassa sui diritti di partecipazione è dell’1 per cento ed è calcolata:\na. quanto alla costituzione e all’aumento di diritti di partecipazione: su l’ammontare percepito dalla società a titolo di controprestazione dei diritti di partecipazione, ma almeno sul valore nominale;\nb. quanto ai versamenti: sul loro ammontare;\nc. quanto al trasferimento della maggioranza dei diritti di partecipazione: su la sostanza netta di cui dispone la società, all’atto del trasferimento, ma almeno sul valore nominale di tutti i diritti di partecipazione esistenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_8"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, III. Aliquote e calcolo della tassa, Diritti di partecipazione",
+        "citation": "Art. 8 cpv. 3 LTB",
+        "content": "Cose e diritti sono valutati al valore venale all’atto del conferimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_8"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, III. Aliquote e calcolo della tassa, Casi speciali",
+        "citation": "Art. 9 cpv. 1 LTB",
+        "content": "La tassa è:\na. ...\nb. ...\nc. ...\nd. quanto ai buoni di godimento emessi gratuitamente: di 3 franchi per buono di godimento;\ne. quanto ai diritti di partecipazione costituiti o aumentati conformemente a decisioni di fusione, scissione o trasformazione di imprese individuali, società commerciali senza personalità giuridica, associazioni, fondazioni o imprese di diritto pubblico, se il soggetto giuridico interessato esisteva da almeno cinque anni: dell’1 per cento del valore nominale, fatta salva l’eccezione di cui all’articolo 6 capoverso 1 lettera h. Il plusvalore è conteggiato a posteriori in quanto i diritti di partecipazione siano alienati nei cinque anni seguenti la ristrutturazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, III. Aliquote e calcolo della tassa, Casi speciali",
+        "citation": "Art. 9 cpv. 2 LTB",
+        "content": "I versamenti eseguiti nel corso di un esercizio sul capitale sociale di una società cooperativa soggiacciono alla tassa soltanto nella misura in cui superano i rimborsi di capitale sociale durante lo stesso esercizio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, III. Aliquote e calcolo della tassa, Casi speciali",
+        "citation": "Art. 9 cpv. 3 LTB",
+        "content": "Gli importi versati alla società nell’ambito di un margine di variazione del capitale secondo gli articoli 653s segg. del Codice delle obbligazioni soggiacciono alla tassa soltanto nella misura in cui superano i rimborsi di capitale effettuati nell’ambito del suddetto margine di variazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_9"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, IV. Obbligo fiscale",
+        "citation": "Art. 10 cpv. 1 LTB",
+        "content": "Per i diritti di partecipazione l’obbligo fiscale incombe alla società. In caso di trasferimento della maggioranza dei diritti di partecipazione (art. 5 cpv. 2 lett. b) l’alienante è responsabile solidalmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_10"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, IV. Obbligo fiscale",
+        "citation": "Art. 10 cpv. 4 LTB",
+        "content": "Per i certificati concernenti sottopartecipazioni a crediti da mutui nei confronti di debitori svizzeri l’obbligo fiscale incombe alla persona domiciliata in Svizzera che li emette.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_10"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, V. Esigibilità del credito fiscale",
+        "citation": "Art. 11 LTB",
+        "content": "La tassa è esigibile:\na. sulle quote in società cooperative: 30 giorni dopo la chiusura dell’esercizio;\nb. sui diritti di partecipazione: 30 giorni dopo la fine del trimestre nel corso del quale è sorto il credito fiscale (art. 7);\nc. in tutti gli altri casi: 30 giorni dopo che è sorto il credito fiscale (art. 7).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_11"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo primo: Tassa d’emissione, VI. Dilazione e condono del credito fiscale",
+        "citation": "Art. 12 LTB",
+        "content": "Se, in occasione del risanamento aperto o tacito di società anonima, società in accomandita per azioni, società a garanzia limitata o società cooperativa, la riscossione della tassa di bollo d’emissione dovesse avere conseguenze particolarmente gravose, la riscossione va prorogata o la tassa condonata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_12"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Norma",
+        "citation": "Art. 13 cpv. 1 LTB",
+        "content": "La tassa ha per oggetto il trasferimento a titolo oneroso della proprietà dei documenti di cui al capoverso 2, sempreché uno dei contraenti o dei mediatori sia un negoziatore di titoli secondo il capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Norma",
+        "citation": "Art. 13 cpv. 2 LTB",
+        "content": "Sono documenti imponibili:\na. i titoli seguenti emessi da persona domiciliata in Svizzera:\n1. obbligazioni (art. 4 cpv. 3 e 4),\n2. le azioni, le quote sociali di società a garanzia limitata, le quote sociali e i buoni di partecipazione di società cooperative, i buoni di partecipazione, i buoni di godimento,\n3. quote di investimenti collettivi di capitale ai sensi della LICol;\nb. i titoli emessi da persona domiciliata all’estero, equiparabili nella loro funzione economica a quelli di cui alla lettera a. Il Consiglio federale deve esentare dalla tassa l’emissione di titoli esteri ove l’evoluzione monetaria o del mercato dei capitali lo esiga;\nc. i certificati concernenti sottopartecipazioni a titoli del genere indicato alle lettere a e b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Norma",
+        "citation": "Art. 13 cpv. 3 LTB",
+        "content": "Sono negoziatori di titoli:\na. le banche e le società finanziarie affini alle banche ai sensi della legge dell’8 novembre 1934 sulle banche, la Banca nazionale svizzera, nonché le controparti centrali ai sensi della legge del 19 giugno 2015 sull’infrastruttura finanziaria;\nb. le persone fisiche e giuridiche e le società di persone svizzere, gli stabilimenti e succursali svizzeri di imprese straniere che non rientrano nella definizione della lettera a e la cui attività consiste esclusivamente o essenzialmente:\n1. nell’esercizio del commercio di documenti imponibili per il conto di terzi (negoziatori), oppure\n2. nella mediazione della compravendita di documenti imponibili come consulenti in investimenti o gerenti di patrimoni (mediatori);\nc. ...\nd. le società anonime, società in accomandita per azioni, società a garanzia limitata e società cooperative svizzere nonché gli istituti svizzeri di previdenza professionale e di previdenza vincolata che non rientrano nella definizione delle lettere a e b e i cui attivi, secondo l’ultimo bilancio, sono composti per oltre 10 milioni di franchi da documenti imponibili giusta il capoverso 2;\ne. ...\nf. la Confederazione, i Cantoni e i Comuni con i propri stabilimenti sempreché nei loro conti espongano documenti imponibili giusta il capoverso 2 per oltre 10 milioni di franchi, nonché gli istituti svizzeri delle assicurazioni sociali.\n4 Sono considerati istituti svizzeri di previdenza professionale e di previdenza vincolata ai sensi del capoverso 3 lettera d:\na. gli istituti di cui all’articolo 48 della legge federale del 25 giugno 1982 sulla previdenza professionale per la vecchiaia, i superstiti e l’invalidità (LPP) e all’articolo 331 del Codice delle obbligazioni, il fondo di garanzia nonché l’istituto collettore di cui agli articoli 56 e 60 LPP;\nb. le fondazioni di libero passaggio di cui agli articoli 10 capoverso 3 e 19 dell’ordinanza del 3 ottobre 1994 sul libero passaggio;\nc. gli istituti che concludono assicurazioni e convenzioni di previdenza vincolata ai sensi dell’articolo 1 capoverso 1 lettera b dell’ordinanza del 13 novembre 1985 sulla legittimazione alle deduzioni fiscali per i contributi a forme di previdenza riconosciute;\nd. le fondazioni d’investimento che si occupano dell’investimento e della gestione dei fondi degli istituti di previdenza di cui alle lettere a–c e che sono soggette alla sorveglianza della Confederazione o dei Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Norma",
+        "citation": "Art. 13 cpv. 5 LTB",
+        "content": "Sono considerati istituti svizzeri delle assicurazioni sociali ai sensi del capoverso 3 lettera f il fondo di compensazione dell’assicurazione per la vecchiaia e i superstiti nonché il fondo dell’assicurazione contro la disoccupazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_13"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Eccezioni",
+        "citation": "Art. 14 cpv. 1 LTB",
+        "content": "Non soggiacciono alla tassa:\na. l’emissione di azioni, quote sociali di società a garanzia limitata e di società cooperative, buoni di partecipazione di banche cooperative, buoni di partecipazione, buoni di godimento, quote di investimenti collettivi di capitale ai sensi della LICol, obbligazioni e titoli del mercato monetario svizzeri, comprese l’assunzione definitiva di titoli da parte di una banca o di una società di partecipazione e l’assegnazione di titoli in occasione di un’emissione successiva;\nb. il conferimento di documenti che servono a liberare azioni, quote sociali di società a garanzia limitata e di società cooperative, buoni di partecipazione di banche cooperative, buoni di partecipazione e quote di investimenti collettivi di capitale ai sensi della LICol svizzeri o esteri;\nc. ...\nd. il commercio di diritti d’opzione;\ne. la restituzione di documenti per la loro estinzione;\nf. l’emissione di obbligazioni di debitori stranieri in valuta estera (euro-obbligazioni), nonché di diritti di partecipazione a società straniere. Si considerano euro-obbligazioni esclusivamente i titoli i cui versamenti di interessi e il cui rimborso di capitale vengono effettuati in valuta estera;\ng. il commercio di titoli del mercato monetario svizzeri ed esteri;\nh. la mediazione o la compera e la vendita di obbligazioni straniere, se il compratore o il venditore è parte contraente straniera;\ni. il trasferimento di documenti imponibili, connesso a una ristrutturazione, segnatamente a una fusione, scissione o trasformazione, effettuato dall’impresa assunta od oggetto della scissione o della trasformazione all’impresa assuntrice o trasformata;\nj. l’acquisto o l’alienazione di documenti imponibili nell’ambito di ristrutturazioni secondo gli articoli 61 capoverso 3 e 64 capoverso 1bis della legge federale del 14 dicembre 1990 sull’imposta federale diretta, nonché nel caso in cui partecipazioni di almeno il 20 per cento al capitale azionario o sociale di altre società vengano trasferite a una società svizzera o estera del gruppo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_14"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, I. Oggetto della tassa, Eccezioni",
+        "citation": "Art. 14 cpv. 3 LTB",
+        "content": "Il negoziatore professionale di titoli giusta l’articolo 13 capoverso 3 lettere a e b numero 1 è esentato dalla quota di tassa che lo concerne quando aliena titoli facenti parte del suo stock commerciale o ne acquista per aumentarlo. Si considera stock commerciale lo stock di documenti imponibili che risulta dall’attività commerciale del negoziatore professionale, non però le partecipazioni e gli stock aventi il carattere di investimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_14"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, II. Nascita del credito fiscale",
+        "citation": "Art. 15 cpv. 1 LTB",
+        "content": "Il credito fiscale sorge al momento della stipulazione del negozio giuridico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_15"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, II. Nascita del credito fiscale",
+        "citation": "Art. 15 cpv. 2 LTB",
+        "content": "Per i negozi soggetti a condizione o concedenti un diritto d’opzione, il credito fiscale sorge al momento dell’adempimento del negozio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_15"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, III. Aliquote e calcolo della tassa, Norma",
+        "citation": "Art. 16 cpv. 1 LTB",
+        "content": "La tassa è calcolata sul controvalore ed è:\na. dell’1,5 per mille per i documenti emessi da persone domiciliate in Svizzera;\nb. del 3 per mille per i documenti emessi da persone domiciliate all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_16"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, III. Aliquote e calcolo della tassa, Norma",
+        "citation": "Art. 16 cpv. 2 LTB",
+        "content": "Se il controvalore non è costituito da una somma in denaro è determinante il valore venale della controprestazione concordata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_16"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Norma",
+        "citation": "Art. 17 cpv. 1 LTB",
+        "content": "L’obbligo fiscale incombe al negoziatore di titoli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Norma",
+        "citation": "Art. 17 cpv. 2 LTB",
+        "content": "Egli deve la metà della tassa:\na. se è mediatore, per ogni contraente che non prova di essere registrato come negoziatore di titoli o investitore esentato;\nb. se è contraente, per se stesso e per la controparte che non prova di essere registrata come negoziatore di titoli o investitore esentato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Norma",
+        "citation": "Art. 17 cpv. 3 LTB",
+        "content": "Il negoziatore di titoli è considerato quale mediatore:\na. se regola i suoi conti con il committente alle condizioni originali del negozio concluso con la controparte;\nb. se si limita a segnalare alle parti la possibilità di concludere un negozio;\nc. se aliena i documenti il giorno stesso in cui li ha acquistati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Investitori esentati",
+        "citation": "Art. 17a cpv. 1 LTB",
+        "content": "Sono considerati investitori esentati ai sensi dell’articolo 17 capoverso 2:\na. gli Stati esteri e le banche centrali;\nb. gli investimenti collettivi di capitale svizzeri ai sensi dell’articolo 7 LICol;\nc. gli investimenti collettivi di capitale esteri ai sensi dell’articolo 119 LICol;\nd. gli istituti esteri delle assicurazioni sociali;\ne. gli istituti esteri di previdenza professionale;\nf. le società d’assicurazione sulla vita estere soggette a un disciplinamento estero equivalente alla sorveglianza della Confederazione;\ng. le società estere le cui azioni sono quotate a una borsa riconosciuta, nonché le loro società estere consolidate appartenenti a un medesimo gruppo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Investitori esentati",
+        "citation": "Art. 17a cpv. 2 LTB",
+        "content": "Sono considerati istituti esteri delle assicurazioni sociali gli istituti che svolgono le stesse mansioni degli istituti svizzeri citati nell’articolo 13 capoverso 5 e che soggiacciono a una sorveglianza equivalente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Investitori esentati",
+        "citation": "Art. 17a cpv. 3 LTB",
+        "content": "Sono considerati istituti esteri di previdenza professionale gli istituti:\na. che si occupano di previdenza professionale per la vecchiaia, i superstiti e l’invalidità;\nb. le cui risorse sono destinate durevolmente ed esclusivamente alla previdenza professionale; e\nc. che soggiacciono a una sorveglianza equivalente a quella della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_17_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Operazioni d’emissione",
+        "citation": "Art. 18 cpv. 1 LTB",
+        "content": "Il negoziatore di titoli è considerato contraente se assume definitivamente i documenti all’atto dell’emissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Operazioni d’emissione",
+        "citation": "Art. 18 cpv. 2 LTB",
+        "content": "Il negoziatore di titoli che, in qualità di sottopartecipante, acquista documenti da un altro negoziatore e li ricolloca durante l’emissione è esonerato dalla parte di tassa che lo concerne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Operazioni d’emissione",
+        "citation": "Art. 18 cpv. 3 LTB",
+        "content": "Il negoziatore di titoli è inoltre considerato parte contraente se emette certificati concernenti la sottopartecipazione a crediti da mutui.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_18"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Negozi conclusi con banche o agenti di borsa stranieri",
+        "citation": "Art. 19 cpv. 1 LTB",
+        "content": "Se al momento della conclusione di un negozio una delle parti contraenti è una banca straniera o un agente di borsa straniero o una controparte centrale ai sensi della legge del 19 giugno 2015 sull’infrastruttura finanziaria, la mezza tassa dovuta da detta parte contraente decade. Lo stesso vale per i titoli ripresi o forniti da una borsa che agisce in qualità di controparte nell’ambito dell’esercizio di prodotti derivati standardizzati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_19"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, IV. Obbligo fiscale, Organizzazioni interposte ai fini della garanzia dell’imposta",
+        "citation": "Art. 19a LTB",
+        "content": "Chi nello Stato di domicilio di una persona fisica è soggetto a un obbligo statale di autorizzazione o controllo e adempie esclusivamente gli obblighi di notifica e fiscali per i valori patrimoniali che tale persona detiene in Svizzera è esentato dalla tassa di negoziazione per le operazioni relative a questi valori patrimoniali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_19_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo secondo: Tassa di negoziazione, V. Esigibilità del credito fiscale",
+        "citation": "Art. 20 LTB",
+        "content": "La tassa è esigibile 30 giorni dopo la fine del trimestre nel corso del quale è sorto il credito fiscale (art. 15).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_20"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, I. Oggetto della tassa, Norma",
+        "citation": "Art. 21 LTB",
+        "content": "La tassa ha per oggetto i pagamenti di premi per assicurazioni:\na. che fanno parte del portafoglio svizzero di un assicuratore sottoposto a vigilanza della Confederazione o di un assicuratore svizzero con statuto di diritto pubblico;\nb. conchiuse da un contraente svizzero con un assicuratore estero non sottoposto alla vigilanza della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_21"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, I. Oggetto della tassa, Eccezioni",
+        "citation": "Art. 22 LTB",
+        "content": "Non soggiacciono alla tassa i pagamenti di premi per l’assicurazione:\na. sulla vita, non riscattabile o riscattabile con pagamento periodico dei premi; il Consiglio federale stabilisce per ordinanza le necessarie delimitazioni;\nabis  sulla vita, nella misura in cui tale assicurazione serve alla previdenza professionale ai sensi della LPP;\nater  sulla vita, conclusa da uno stipulante domiciliato all’estero.\nb. contro le malattie e l’invalidità;\nc. contro gli infortuni;\nd. di merci trasportate;\ne. contro i danni cagionati a terreni agricoli e colture dalla forze della natura;\nf. contro la disoccupazione;\ng. contro i danni della grandine;\nh. del bestiame;\ni. di rischi già assicurati (riassicurazione);\nk. di aeromobili e di navi definiti nell’ordinanza, adibiti essenzialmente all’estero al trasporto professionale di persone e cose (assicurazione casco);\nl. contro l’incendio, il furto, la rottura vetri, i danni dalle acque, per il credito, le macchine e i gioielli, se il contribuente dimostra che la cosa assicurata si trova all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_22"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, II. Nascita del credito fiscale",
+        "citation": "Art. 23 LTB",
+        "content": "Il credito fiscale sorge al momento del pagamento del premio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_23"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, III. Aliquote e calcolo della tassa",
+        "citation": "Art. 24 cpv. 1 LTB",
+        "content": "La tassa è calcolata sul premio netto a contanti ed è del 5 per cento; per l’assicurazione sulla vita essa è del 2,5 per cento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_24"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, III. Aliquote e calcolo della tassa",
+        "citation": "Art. 24 cpv. 2 LTB",
+        "content": "Nella loro contabilità, i contribuenti devono indicare separatamente per ogni ramo assicurativo, i premi di assicurazione imponibili e quelli esenti dall’imposta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_24"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, IV. Obbligo fiscale",
+        "citation": "Art. 25 LTB",
+        "content": "L’obbligo fiscale incombe all’assicuratore. Se l’assicurazione è stata conchiusa con un assicuratore estero (art. 21 lett. b), la tassa è pagata dal contraente svizzero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_25"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo terzo: Tassa sui premi di assicurazione, V. Esigibilità del credito fiscale",
+        "citation": "Art. 26 LTB",
+        "content": "La tassa è esigibile 30 giorni dopo la fine del trimestre nel corso del quale è sorto il credito fiscale (art. 23).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_26"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, I. Determinazione",
+        "citation": "Art. 27 cpv. 1 LTB",
+        "content": "Per la determinazione delle tasse di bollo fa stato il contenuto reale dei documenti o degli atti giuridici; non si tiene conto delle denominazioni o espressioni inesatte adoperate dagli interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_27"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, I. Determinazione",
+        "citation": "Art. 27 cpv. 2 LTB",
+        "content": "Se non sia accertabile in modo univoco, la fattispecie determinante per l’obbligo fiscale o per il calcolo della tassa deve essere desunta dall’apprezzamento di tutte le circostanze diligentemente costatate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_27"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, II. Conversione di valute estere",
+        "citation": "Art. 28 cpv. 1 LTB",
+        "content": "La somma determinante per il calcolo della tassa, espressa in valuta estera, è da convertire in franchi svizzeri al momento in cui è sorto il credito fiscale (art. 7, 15, 23).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_28"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, II. Conversione di valute estere",
+        "citation": "Art. 28 cpv. 2 LTB",
+        "content": "Se le parti non hanno convenuto un corso determinante per la conversione, questa è fatta in base alla media fra i corsi delle divise e delle valute all’ultimo giorno feriale precedente quello in cui è sorto il credito fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_28"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, III. Interessi di mora",
+        "citation": "Art. 29 LTB",
+        "content": "Sulle tasse di bollo non ancora pagate dopo la scadenza dei termini di cui agli articoli 11, 20 e 26 è riscosso, senza diffida, un interesse di mora. Il tasso d’interesse è stabilito dal Dipartimento federale delle finanze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_29"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, IV. Prescrizioni",
+        "citation": "Art. 30 cpv. 1 LTB",
+        "content": "Il credito fiscale si prescrive in cinque anni a contare dalla fine dell’anno civile in cui è sorto (art. 7, 15, 23).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, IV. Prescrizioni",
+        "citation": "Art. 30 cpv. 2 LTB",
+        "content": "La prescrizione non decorre, o rimane sospesa, fintanto che il credito fiscale è garantito o ne è prorogata la riscossione o nessuna delle persone tenute al pagamento ha il domicilio in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, IV. Prescrizioni",
+        "citation": "Art. 30 cpv. 3 LTB",
+        "content": "La prescrizione è interrotta ogni volta che una persona tenuta al pagamento riconosce il credito fiscale e ogni volta che un atto ufficiale inteso ad esigerlo è notificato a una detta persona; da ogni interruzione decorre un nuovo termine di prescrizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quarto: Disposizioni generali per tutte le tasse di bollo, IV. Prescrizioni",
+        "citation": "Art. 30 cpv. 4 LTB",
+        "content": "La sospensione e l’interruzione hanno effetto per tutte le persone tenute al pagamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_30"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, I. Amministrazione federale delle contribuzioni",
+        "citation": "Art. 31 LTB",
+        "content": "L’Amministrazione federale delle contribuzioni (AFC) emana tutte le istruzioni e prende tutte le decisioni in materia di riscossione della tassa di bollo che non sono espressamente riservate ad altra autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_31"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, II. Assistenza fra le autorità",
+        "citation": "Art. 32 cpv. 1 LTB",
+        "content": "Le autorità fiscali dei Cantoni, distretti, circoli, Comuni e l’AFC si prestano reciproca assistenza nello svolgimento dei loro compiti; esse devono farsi le notificazioni opportune, comunicarsi le informazioni necessarie e concedersi la consultazione degli atti ufficiali, a titolo gratuito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, II. Assistenza fra le autorità",
+        "citation": "Art. 32 cpv. 2 LTB",
+        "content": "Le autorità amministrative della Confederazione e le autorità dei Cantoni, distretti, circoli e Comuni, diverse da quelle menzionate al capoverso 1, hanno l’obbligo di fornire informazioni all’AFC, qualora le informazioni domandate possano essere di qualche momento nell’applicazione della presente legge. Un’informazione può essere ricusata soltanto se vi ostano interessi pubblici importanti, in particolare la sicurezza interna od esterna della Confederazione o dei Cantoni, oppure se l’informazione intralcia in misura notevole lo svolgimento dei compiti dell’autorità sollecitata. Il segreto postale, telefonico o telegrafico deve essere rispettato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, II. Assistenza fra le autorità",
+        "citation": "Art. 32 cpv. 3 LTB",
+        "content": "Le controversie sull’obbligo delle autorità amministrative federali di fornire informazioni sono giudicate dal Consiglio federale; quelle sul medesimo obbligo delle autorità dei Cantoni, distretti, circoli e Comuni sono giudicate dal Tribunale federale, se il Governo cantonale ha respinto la domanda d’informazioni (art. 120 della L del 17 giu. 2005 sul Tribunale federale).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, II. Assistenza fra le autorità",
+        "citation": "Art. 32 cpv. 4 LTB",
+        "content": "Gli organismi cui sono affidati compiti di diritto pubblico sono, nei limiti di questi compiti, tenuti a fornire informazioni come le autorità. Il capoverso 3 è applicabile per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, IIa. Trattamento dei dati",
+        "citation": "Art. 32a cpv. 1 LTB",
+        "content": "L’AFC gestisce, per l’adempimento dei compiti in virtù della presente legge, un sistema d’informazione. Quest’ultimo può contenere dati personali degni di particolare protezione riguardanti sanzioni amministrative e penali rilevanti in materia fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, IIa. Trattamento dei dati",
+        "citation": "Art. 32a cpv. 2 LTB",
+        "content": "L’AFC e le autorità di cui all’articolo 32 capoverso 1 si trasmettono i dati che possono essere utili per l’adempimento dei loro compiti. Le autorità di cui all’articolo 32 capoversi 2 e 4 trasmettono all’AFC i dati che possono essere importanti per l’esecuzione della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, IIa. Trattamento dei dati",
+        "citation": "Art. 32a cpv. 3 LTB",
+        "content": "I dati sono trasmessi singolarmente, mediante liste o su supporti elettronici di dati. Possono essere resi accessibili anche mediante una procedura di richiamo. L’assistenza amministrativa è gratuita.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, IIa. Trattamento dei dati",
+        "citation": "Art. 32a cpv. 4 LTB",
+        "content": "I dati personali e i dispositivi utilizzati per il loro trattamento, quali i supporti di dati, i programmi informatici e la relativa documentazione devono essere protetti da qualsiasi manipolazione, modifica o distruzione non autorizzata nonché dal furto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, IIa. Trattamento dei dati",
+        "citation": "Art. 32a cpv. 5 LTB",
+        "content": "Il Consiglio federale può emanare disposizioni d’esecuzione, concernenti in particolare l’organizzazione e la gestione del sistema d’informazione, le categorie di dati da rilevare, il diritto d’accesso e di trattamento, la durata di conservazione, l’archiviazione e la distruzione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_32_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, III. Obbligo del segreto",
+        "citation": "Art. 33 cpv. 1 LTB",
+        "content": "Chiunque è incaricato di applicare la presente legge, o è chiamato a concorrervi, è tenuto, nei confronti di altri servizi ufficiali e di persone private, a mantenere il segreto su quanto apprende nell’esercizio delle sue funzioni e a ricusare la consultazione di atti ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_33"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, A. Autorità, III. Obbligo del segreto",
+        "citation": "Art. 33 cpv. 2 LTB",
+        "content": "Non vi è obbligo di osservare il segreto d’ufficio:\na. nel caso di assistenza fra le autorità conformemente all’articolo 32 capoverso 1 di denuncia obbligatoria di reati;\nb. nei confronti degli organi giudiziari o amministrativi autorizzati dal Consiglio federale, in genere, o dal Dipartimento federale delle finanze, in casi particolari, a domandare informazioni ufficiali alle autorità incaricate di applicare la presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_33"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Iscrizione come contribuente; autoaccertamento",
+        "citation": "Art. 34 cpv. 1 LTB",
+        "content": "Chiunque diviene soggetto alla tassa di bollo in base alla presente legge ha l’obbligo di annunciarsi come contribuente presso l’AFC, senza esservi sollecitato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_34"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Iscrizione come contribuente; autoaccertamento",
+        "citation": "Art. 34 cpv. 2 LTB",
+        "content": "Il contribuente, alla scadenza della tassa (art. 11, 20 e 26), è tenuto a presentare all’AFC, senza esservi sollecitato, il rendiconto prescritto, corredato dei documenti giustificativi, e a pagare in pari tempo la tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_34"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Informazioni del contribuente",
+        "citation": "Art. 35 cpv. 1 LTB",
+        "content": "Il contribuente deve indicare coscienziosamente all’AFC tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo della tassa; egli è tenuto in particolare a:\na. compilare in tutte le loro parti ed esattamente i moduli dei rendiconti e delle dichiarazioni d’imposta e dei questionari;\nb. tenere regolarmente i libri di commercio e, su richiesta dell’autorità, presentarli corredati dei giustificativi e di altri documenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Informazioni del contribuente",
+        "citation": "Art. 35 cpv. 2 LTB",
+        "content": "La contestazione dell’obbligo di pagare la tassa non dispensa dall’obbligo di fornire informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Informazioni del contribuente",
+        "citation": "Art. 35 cpv. 3 LTB",
+        "content": "Se l’obbligo di fornire informazioni è contestato, l’AFC prende una decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_35"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Informazioni di terzi",
+        "citation": "Art. 36 cpv. 1 LTB",
+        "content": "Le persone (in particolare le banche, i notai e i fiduciari) che concorrono alla costituzione o all’aumento di capitale di una società devono indicare coscienziosamente all’AFC, a sua richiesta, tutti i fatti che possono essere rilevanti per l’accertamento dell’obbligo fiscale e il calcolo delle tassa d’emissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_36"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Informazioni di terzi",
+        "citation": "Art. 36 cpv. 2 LTB",
+        "content": "Se l’obbligo di fornire informazioni è contestato, l’articolo 35 capoverso 3 si applica per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_36"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Verifica",
+        "citation": "Art. 37 cpv. 1 LTB",
+        "content": "L’AFC controlla se viene soddisfatto l’obbligo di annunciarsi come contribuente e verifica i rendiconti e i versamenti della tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Verifica",
+        "citation": "Art. 37 cpv. 2 LTB",
+        "content": "L’AFC, per chiarire la fattispecie, può verificare sul posto i libri di commercio, i giustificativi e gli altri documenti del contribuente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Verifica",
+        "citation": "Art. 37 cpv. 3 LTB",
+        "content": "Se risulta che il contribuente non ha soddisfatto agli obblighi di legge, deve essergli data la possibilità di spiegarsi in merito ai fatti contestatigli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Verifica",
+        "citation": "Art. 37 cpv. 4 LTB",
+        "content": "Se la controversia non può essere composta, l’AFC prende una decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, I. Riscossione della tassa, Verifica",
+        "citation": "Art. 37 cpv. 5 LTB",
+        "content": "Le constatazioni fatte in occasione di un controllo secondo il capoverso 1 o 2 presso una banca o una cassa di risparmio ai sensi della legge federale dell’8 novembre 1934 su le banche e le casse di risparmio, o presso la Banca nazionale svizzera oppure presso una centrale d’emissione di obbligazioni fondiarie possono essere utilizzate soltanto per l’applicazione delle tasse di bollo. Il segreto bancario va rispettato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_37"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, II. Decisioni dell’AFC",
+        "citation": "Art. 38 LTB",
+        "content": "L’AFC prende tutte le decisioni necessarie per la riscossione della tassa, in particolare quando:\na. il credito fiscale o la responsabilità solidale sono contestati;\nb. in un caso determinato, essa è richiesta di stabilire d’ufficio, a titolo preventivo, l’obbligo fiscale, le basi di calcolo della tassa o la responsabilità solidale;\nc. il contribuente o la persona responsabile in solido non paga la tassa dovuta secondo il rendiconto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_38"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, III. Reclamo, ...",
+        "citation": "Art. 39 cpv. 1 LTB",
+        "content": "Le decisioni dell’AFC possono essere impugnate con reclamo nel termine di 30 giorni dalla notificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, III. Reclamo, ...",
+        "citation": "Art. 39 cpv. 2 LTB",
+        "content": "Il reclamo deve essere presentato per scritto all’AFC; esso deve contenere conclusioni precise e indicare i fatti sui quali è fondato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, III. Reclamo, ...",
+        "citation": "Art. 39 cpv. 3 LTB",
+        "content": "Se il reclamo è ammissibile, l’AFC riesamina la decisione senza essere vincolata dalle conclusioni presentate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, III. Reclamo, ...",
+        "citation": "Art. 39 cpv. 4 LTB",
+        "content": "La procedura di reclamo è continuata, anche se il reclamo è ritirato, quando vi sono indizi che la decisione impugnata non è conforme alla legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, III. Reclamo, ...",
+        "citation": "Art. 39 cpv. 5 LTB",
+        "content": "La decisione su reclamo deve essere motivata e indicare i rimedi giuridici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_39"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, IV. Spese",
+        "citation": "Art. 41 cpv. 1 LTB",
+        "content": "Le procedure di riscossione e di reclamo sono, di regola, gratuite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_41"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, IV. Spese",
+        "citation": "Art. 41 cpv. 2 LTB",
+        "content": "Qualunque sia il risultato della procedura, le spese delle indagini possono essere addossate a chi le abbia cagionate per colpa propria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_41"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, IVa. Procedure elettroniche",
+        "citation": "Art. 41a cpv. 1 LTB",
+        "content": "Il Consiglio federale può prescrivere lo svolgimento per via elettronica delle procedure previste dalla presente legge. Ne disciplina le modalità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, IVa. Procedure elettroniche",
+        "citation": "Art. 41a cpv. 2 LTB",
+        "content": "In caso di svolgimento di procedure per via elettronica, l’AFC garantisce l’autenticità e l’integrità dei dati trasmessi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, IVa. Procedure elettroniche",
+        "citation": "Art. 41a cpv. 3 LTB",
+        "content": "In caso di presentazione per via elettronica di atti scritti per i quali la legge prescrive la firma, l’AFC può riconoscere, invece della firma elettronica qualificata, un’altra modalità di conferma dei dati per via elettronica da parte del contribuente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_41_a"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Esecuzione",
+        "citation": "Art. 42 cpv. 1 LTB",
+        "content": "L’esecuzione è promossa se, dopo diffida, il debitore non paga la tassa, gli interessi e le spese; è riservata l’insinuazione del credito nel fallimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_42"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Esecuzione",
+        "citation": "Art. 42 cpv. 2 LTB",
+        "content": "Se il credito fiscale non è ancora accertato con una decisione passata in giudicato, ed è contestato, la sua collocazione definitiva non si opera sino a quando non esista una decisione passata in giudicato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_42"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Garanzie",
+        "citation": "Art. 43 cpv. 1 LTB",
+        "content": "L’AFC può esigere garanzie per le tasse, gli interessi e le spese, anche se non siano ancora accertati con decisione passata in giudicato, né scaduti, quando:\na. l’esazione appare in pericolo;\nb. il debitore della tassa non ha domicilio in Svizzera o si appresta ad abbandonare il domicilio in Svizzera o prende disposizioni per farsi radiare dal registro di commercio;\nc. il debitore è in mora con il pagamento della tassa o lo è stato a più riprese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Garanzie",
+        "citation": "Art. 43 cpv. 2 LTB",
+        "content": "La richiesta di garanzie deve indicarne la causa giuridica, l’ammontare da garantire e l’ufficio incaricato di riceverle. Se la richiesta di garanzie si fonda sul capoverso 1 lettere a o b, essa vale come decreto di sequestro, di cui all’articolo 274 della legge federale dell’11 aprile 1889 sulla esecuzione e sul fallimento. L’opposizione al decreto di sequestro non è ammessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Garanzie",
+        "citation": "Art. 43 cpv. 3 LTB",
+        "content": "Le richieste di garanzia dell’AFC possono essere impugnate mediante ricorso al Tribunale amministrativo federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, B. Procedura, V. Esecuzione forzata, Garanzie",
+        "citation": "Art. 43 cpv. 4 LTB",
+        "content": "Il ricorso contro la richiesta di garanzia non ha effetto sospensivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_43"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo quinto: Autorità e procedura, C. Revisione e interpretazione delle decisioni",
+        "citation": "Art. 44 cpv. 1 LTB",
+        "content": "Gli articoli 66 a 69 della legge federale del 20 dicembre 1968 sulla procedura amministrativa sono applicabili per analogia alla revisione e all’interpretazione delle decisioni dell’AFC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_44"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, A. Infrazioni, I. Sottrazione d’imposta",
+        "citation": "Art. 45 cpv. 1 LTB",
+        "content": "Chiunque, intenzionalmente o per negligenza, al fine di procacciare un profitto a sé o a un terzo, sottrae le tasse di bollo alla Confederazione od ottiene in altro modo, per sé o per un terzo, un profitto fiscale illecito, è, in quanto non si applichi l’articolo 14 della legge federale del 22 marzo 1974 sul diritto penale amministrativo, punito a titolo di sottrazione d’imposta con la multa fino a 30 000 franchi o fino al triplo della tassa sottratta o del profitto illecito, se tale triplo supera 30 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_45"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, A. Infrazioni, II. Messa in pericolo della tassa",
+        "citation": "Art. 46 cpv. 1 LTB",
+        "content": "Chiunque, intenzionalmente o per negligenza, compromette la riscossione legale delle tasse di bollo in quanto:\na. non assolve l’obbligo di annunciarsi come contribuente, di presentare le notifiche, le distinte e i rendiconti, di fornire le informazioni, di presentare i libri di commercio, i registri e i documenti giustificativi;\nb. fornisce dati falsi o tace fatti rilevanti in una notifica, in una distinta o in rendiconto, in un’istanza di esenzione, di rimborso, di proroga della riscossione o di condono di tasse, o presenta a tale occasione documenti inesatti su fatti rilevanti;\nc. fornisce informazioni inesatte come contribuente o terza persona tenuta a dare informazioni;\nd. contravviene all’obbligo di tenere regolarmente e di conservate i libri di commercio, i registri e i documenti giustificativi;\ne. intralcia, impedisce o rende impossibile l’esecuzione normale di una verifica contabile o di altri controlli ufficiali;\nf. si dichiara, contrariamente alla verità, negoziatore di titoli o omette di revocare la notifica dopo essere stato cancellato dal registro dei negoziatori di titoliè punito, in quanto non si applichi una disposizione penale degli articoli 14 a 16 della legge federale del 22 marzo 1974 sul diritto penale amministrativo, con la multa fino a 20 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_46"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, A. Infrazioni, II. Messa in pericolo della tassa",
+        "citation": "Art. 46 cpv. 2 LTB",
+        "content": "È riservata l’azione penale conformemente all’articolo 285 del Codice penale svizzero, quando trattasi di un’infrazione nel senso del capoverso 1 lettera e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_46"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, A. Infrazioni, III. Inosservanza di prescrizioni d’ordine",
+        "citation": "Art. 47 cpv. 1 LTB",
+        "content": "Chiunque non adempie una condizione cui fu subordinata un’autorizzazione speciale,chiunque contravviene a una prescrizione della presente legge o di un’ordinanza, alle istruzioni di carattere generale emanate in base a tali prescrizioni o a una decisione notificatagli con la comminatoria della pena contemplata nel presente articolo,è punito con una multa fino a 5000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_47"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, A. Infrazioni, III. Inosservanza di prescrizioni d’ordine",
+        "citation": "Art. 47 cpv. 2 LTB",
+        "content": "È punito anche chi agisce per negligenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_47"
+    },
+    {
+        "book": "StG",
+        "title": "LTB, Capo sesto: Disposizioni penali, B. Rapporto con la legge federale sul diritto penale amministrativo",
+        "citation": "Art. 50 cpv. 1 LTB",
+        "content": "La legge federale del 22 marzo 1974 sul diritto penale amministrativo è applicabile; l’autorità amministrativa incaricata del procedimento e del giudizio a tenore di quella legge è l’AFC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/11_11_11/it#art_50"
+    }
+]

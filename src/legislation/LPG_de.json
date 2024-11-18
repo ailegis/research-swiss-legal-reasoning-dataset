@@ -1,0 +1,800 @@
+[
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 1 Abs. 1 LPG",
+        "content": "Dieses Gesetz gilt für die Pacht:\na. von Grundstücken zur landwirtschaftlichen Nutzung;\nb. von landwirtschaftlichen Gewerben im Sinne der Artikel 5 und 7 Absätze 1, 2, 3 und 5 des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht (BGBB);\nc. nichtlandwirtschaftlicher Nebengewerbe, die mit einem landwirtschaftlichen Gewerbe eine wirtschaftliche Einheit bilden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 1 Abs. 2 LPG",
+        "content": "Das Gesetz gilt auch für Rechtsgeschäfte, die das gleiche bezwecken wie die landwirtschaftliche Pacht und ohne Unterstellung unter das Gesetz den von diesem angestrebten Schutz vereiteln würden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 1 Abs. 3 LPG",
+        "content": "Für die Pacht von Allmenden, Alpen und Weiden sowie von Nutzungs- und Anteilsrechten an solchen gelten die Bestimmungen über die Pacht von landwirtschaftlichen Grundstücken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 1. Abschnitt: Grundsatz",
+        "citation": "Art. 1 Abs. 4 LPG",
+        "content": "Soweit dieses Gesetz nicht anwendbar ist oder keine besonderen Vorschriften enthält, gilt das Obligationenrecht, mit Ausnahme der Bestimmungen über die Pacht von Wohn- und Geschäftsräumen und über die Hinterlegung des Pachtzinses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Kleine Grundstücke",
+        "citation": "Art. 2 Abs. 1 LPG",
+        "content": "Dieses Gesetz gilt nicht für die Pacht:\na. von Rebgrundstücken unter 15 Aren;\nb. anderer landwirtschaftlicher Grundstücke ohne Gebäude und unter 25 Aren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Kleine Grundstücke",
+        "citation": "Art. 2 Abs. 2 LPG",
+        "content": "Die Kantone können dem Gesetz auch kleinere Grundstücke unterstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Kleine Grundstücke",
+        "citation": "Art. 2 Abs. 3 LPG",
+        "content": "Die Flächen von mehreren, vom gleichen Eigentümer an den gleichen Pächter verpachteten Grundstücken werden zusammengerechnet. Das gleiche gilt, wenn ein Eigentümer ein Grundstück an verschiedene Pächter verpachtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Grundstücke in der Bauzone",
+        "citation": "Art. 2a Abs. 1 LPG",
+        "content": "Dieses Gesetz gilt nicht für die Pacht von Grundstücken zur landwirtschaftlichen Nutzung, wenn der Pachtgegenstand vollständig in einer Bauzone nach Artikel 15 des Raumplanungsgesetzes vom 22. Juni 1979 liegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_2_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Grundstücke in der Bauzone",
+        "citation": "Art. 2a Abs. 2 LPG",
+        "content": "Landwirtschaftliche Pachtverträge, deren Gegenstand während der Vertragsdauer vollständig einer Bauzone nach Artikel 15 des Raumplanungsgesetzes vom 22. Juni 1979 zugeteilt wird, bleiben dem landwirtschaftlichen Pachtrecht während der laufenden gesetzlichen Pachtdauer oder einer längeren vertraglichen Dauer oder einer gerichtlich erstreckten Pachtdauer unterstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_2_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 1. Kapitel: Geltungsbereich, 2. Abschnitt: Ausnahmen, Alpen und Weiden",
+        "citation": "Art. 3 LPG",
+        "content": "Die Kantone können für die Pacht von Alpen und Weiden sowie von Nutzungs- und Anteilsrechten an solchen abweichende Bestimmungen erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_3"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 1. Abschnitt: Begriff",
+        "citation": "Art. 4 Abs. 1 LPG",
+        "content": "Durch den landwirtschaftlichen Pachtvertrag verpflichtet sich der Verpächter, dem Pächter ein Gewerbe oder ein Grundstück zur landwirtschaftlichen Nutzung zu überlassen, und der Pächter, dafür einen Zins zu bezahlen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_4"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 2. Abschnitt: Vorpachtrecht, Vorpachtrecht der Nachkommen des Verpächters",
+        "citation": "Art. 5 Abs. 1 LPG",
+        "content": "Die Kantone können für Nachkommen des Verpächters eines landwirtschaftlichen Gewerbes, welche dieses selber bewirtschaften wollen und dafür geeignet sind, ein Vorpachtrecht vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 2. Abschnitt: Vorpachtrecht, Vorpachtrecht der Nachkommen des Verpächters",
+        "citation": "Art. 5 Abs. 2 LPG",
+        "content": "Der Nachkomme kann ein solches Vorpachtrecht einem Dritten nur dann entgegenhalten, wenn es im Grundbuch angemerkt worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 2. Abschnitt: Vorpachtrecht, Vorpachtrecht der Nachkommen des Verpächters",
+        "citation": "Art. 5 Abs. 3 LPG",
+        "content": "Im Übrigen regeln die Kantone die Einzelheiten und das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 2. Abschnitt: Vorpachtrecht, Vorpachtrecht an Alpweiden",
+        "citation": "Art. 6 LPG",
+        "content": "Die Kantone können für Landwirte in Berggegenden ein Vorpachtrecht an benachbarten Alpweiden vorsehen. Sie regeln die Einzelheiten und das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_6"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Erstmalige Verpachtung",
+        "citation": "Art. 7 Abs. 1 LPG",
+        "content": "Die erste Pachtdauer beträgt für landwirtschaftliche Gewerbe mindestens neun Jahre und für einzelne Grundstücke mindestens sechs Jahre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Erstmalige Verpachtung",
+        "citation": "Art. 7 Abs. 2 LPG",
+        "content": "Die Vereinbarung einer kürzeren Pachtdauer ist nur gültig, wenn die Behörde sie bewilligt hat. Das Gesuch ist spätestens drei Monate nach dem Antritt der Pacht einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Erstmalige Verpachtung",
+        "citation": "Art. 7 Abs. 3 LPG",
+        "content": "Eine kürzere Pachtdauer wird bewilligt, wenn persönliche oder wirtschaftliche Verhältnisse einer Partei oder andere sachliche Gründe die Verkürzung rechtfertigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Erstmalige Verpachtung",
+        "citation": "Art. 7 Abs. 4 LPG",
+        "content": "Wird die Bewilligung verweigert oder das Gesuch zu spät eingereicht, so gilt die gesetzliche Mindestpachtdauer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Fortsetzung der Pacht",
+        "citation": "Art. 8 Abs. 1 LPG",
+        "content": "Der Pachtvertrag gilt unverändert für jeweils weitere sechs Jahre, wenn er:\na. auf unbestimmte Zeit abgeschlossen und nicht ordnungsgemäss gekündigt worden ist;\nb. auf bestimmte Zeit abgeschlossen ist und nach der vereinbarten Pachtdauer stillschweigend fortgesetzt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Fortsetzung der Pacht",
+        "citation": "Art. 8 Abs. 2 LPG",
+        "content": "Die Vereinbarung einer Fortsetzung auf kürzere Zeit ist nur gültig, wenn die Behörde sie bewilligt hat. Das Gesuch ist spätestens drei Monate nach Beginn der Fortsetzung einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Fortsetzung der Pacht",
+        "citation": "Art. 8 Abs. 3 LPG",
+        "content": "Die Bestimmungen über die Verkürzung der Pachtdauer bei der erstmaligen Verpachtung gelten sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 3. Abschnitt: Pachtdauer, Pachtdauer für Spezialkulturen",
+        "citation": "Art. 9 LPG",
+        "content": "Für die Pacht von Grundstücken mit Spezialkulturen wie Reben und Obstanlagen können die Kantone eine andere Pachtdauer festsetzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_9"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 4. Abschnitt: Anpassung an veränderte Verhältnisse, Pachtzinsanpassung im Allgemeinen",
+        "citation": "Art. 10 LPG",
+        "content": "Ändert der Bundesrat die Ansätze für die Bemessung des zulässigen Pachtzinses, so kann jede Partei die Anpassung des vereinbarten Pachtzinses auf das folgende Pachtjahr verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_10"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 4. Abschnitt: Anpassung an veränderte Verhältnisse, Pachtzinsanpassung bei Änderung des Ertragswerts",
+        "citation": "Art. 11 LPG",
+        "content": "Wird der Wert eines verpachteten Gewerbes oder Grundstücks infolge eines Naturereignisses, von Bodenverbesserungen, Vergrösserung oder Verminderung der Fläche, Neu- oder Umbauten, Abbruch oder Stilllegung eines Gebäudes oder anderer Umstände dauernd verändert, so kann jede Partei verlangen, dass der Ertragswert neu festgesetzt und der Pachtzins auf Beginn des folgenden Pachtjahres angepasst wird. Dies kann auch verlangt werden, wenn die allgemeinen Grundlagen für die Schätzung des Ertragswerts ändern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_11"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 4. Abschnitt: Anpassung an veränderte Verhältnisse, Anpassung anderer Vertragsbestimmungen",
+        "citation": "Art. 12 LPG",
+        "content": "Jede Partei kann verlangen, dass andere Vertragsbestimmungen an veränderte Verhältnisse angepasst werden, wenn der Vertrag für sie unzumutbar geworden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_12"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 4. Abschnitt: Anpassung an veränderte Verhältnisse, Pachtzinsnachlass",
+        "citation": "Art. 13 LPG",
+        "content": "Ist der gewöhnliche Ertrag wegen eines ausserordentlichen Unglücksfalles oder Naturereignisses vorübergehend beträchtlich zurückgegangen, so kann der Pächter verlangen, dass der Pachtzins für bestimmte Zeit angemessen herabgesetzt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_13"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Kauf bricht Pacht nicht",
+        "citation": "Art. 14 LPG",
+        "content": "Wird der Pachtgegenstand veräussert oder dem Verpächter im Schuldbetreibungs- oder Konkursverfahren entzogen, so tritt der Erwerber in den Pachtvertrag ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_14"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Ausnahmen",
+        "citation": "Art. 15 Abs. 1 LPG",
+        "content": "Der Erwerber kann den Pachtvertrag auflösen, wenn er den Pachtgegenstand unmittelbar zu Bauzwecken oder zu öffentlichen Zwecken oder zur Selbstbewirtschaftung erwirbt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Ausnahmen",
+        "citation": "Art. 15 Abs. 2 LPG",
+        "content": "Will der Erwerber den Pachtvertrag nicht übernehmen, so muss er dem Pächter innert dreier Monate seit Abschluss des Veräusserungsvertrags schriftlich anzeigen, dass die Pacht nach Ablauf einer Frist von mindestens einem Jahr auf den folgenden ortsüblichen Frühjahrs- oder Herbsttermin aufgelöst sei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Ausnahmen",
+        "citation": "Art. 15 Abs. 3 LPG",
+        "content": "Wird die Pacht aufgelöst, so kann der Pächter innert 30 Tagen seit Empfang der Anzeige des Erwerbers auf Erstreckung klagen. Der Richter erstreckt die Pacht um mindestens sechs Monate, jedoch um höchstens zwei Jahre, wenn die Beendigung für den Pächter oder seine Familie eine Härte zur Folge hat, die auch unter Würdigung der Interessen des neuen Eigentümers nicht zu rechtfertigen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Ausnahmen",
+        "citation": "Art. 15 Abs. 4 LPG",
+        "content": "Der Verpächter muss dem Pächter den Schaden ersetzen, der aus der vorzeitigen Beendigung der Pacht entsteht. Der Pächter braucht den Pachtgegenstand erst zu verlassen, wenn ihm Schadenersatz oder hinreichende Sicherheit geleistet worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 5. Abschnitt: Veräusserung des Pachtgegenstandes, Ausnahmen",
+        "citation": "Art. 15 Abs. 5 LPG",
+        "content": "Die vorzeitige Beendigung der Pacht kann mit schriftlicher Zustimmung des Pächters im Veräusserungsvertrag geregelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Kündigung im Allgemeinen",
+        "citation": "Art. 16 Abs. 1 LPG",
+        "content": "Die Kündigung eines Pachtvertrags ist nur gültig, wenn sie schriftlich erfolgt. Auf Verlangen ist sie zu begründen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Kündigung im Allgemeinen",
+        "citation": "Art. 16 Abs. 2 LPG",
+        "content": "Die Kündigungsfrist beträgt ein Jahr, wenn das Gesetz nichts anderes bestimmt; die Parteien können eine längere Frist vereinbaren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Kündigung im Allgemeinen",
+        "citation": "Art. 16 Abs. 3 LPG",
+        "content": "Ist nichts anderes vereinbart, kann nur auf den ortsüblichen Frühjahrs- oder Herbsttermin gekündigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Kündigung im Allgemeinen",
+        "citation": "Art. 16 Abs. 4 LPG",
+        "content": "Liegt der Pachtgegenstand teilweise in einer Bauzone nach Artikel 15 des Raumplanungsgesetzes vom 22. Juni 1979, so kann die Kündigung für die nicht in den Geltungsbereich des BGBB fallenden Grundstücke sowie für den nichtlandwirtschaftlichen Teil der Grundstücke nach Artikel 2 Absatz 2 BGBB ausgesprochen und der Pachtvertrag ohne diese fortgesetzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Vorzeitige Kündigung",
+        "citation": "Art. 17 Abs. 1 LPG",
+        "content": "Ist die Erfüllung des Vertrags für eine Partei aus wichtigen Gründen unzumutbar geworden, so kann sie die Pacht auf den folgenden Frühjahrs- oder Herbsttermin schriftlich kündigen. Die Kündigungsfrist beträgt sechs Monate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_17"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Vorzeitige Kündigung",
+        "citation": "Art. 17 Abs. 2 LPG",
+        "content": "Der Richter bestimmt die vermögensrechtlichen Folgen unter Würdigung aller Umstände.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_17"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Tod des Pächters",
+        "citation": "Art. 18 Abs. 1 LPG",
+        "content": "Stirbt der Pächter, so können seine Erben oder der Verpächter den Pachtvertrag auf den folgenden Frühjahrs- oder Herbsttermin schriftlich kündigen. Die Kündigungsfrist beträgt sechs Monate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Tod des Pächters",
+        "citation": "Art. 18 Abs. 2 LPG",
+        "content": "Wird der Pachtvertrag vom Verpächter gekündigt, so kann ein Nachkomme, der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner des Pächters innert 30 Tagen den Eintritt in den Pachtvertrag erklären. Der Verpächter kann unter mehreren Bewerbern denjenigen bezeichnen, der in den Pachtvertrag eintreten soll.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Tod des Pächters",
+        "citation": "Art. 18 Abs. 3 LPG",
+        "content": "Bietet der Eintretende keine Gewähr für eine ordnungsgemässe Bewirtschaftung des Pachtgegenstandes oder ist die Fortsetzung der Pacht für den Verpächter aus andern Gründen unzumutbar, so kann der Verpächter innert 30 Tagen seit der Eintrittserklärung auf Auflösung des Pachtvertrags klagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Übernahme von Zupachten bei Betriebsübergabe",
+        "citation": "Art. 19 Abs. 1 LPG",
+        "content": "Übergibt der Inhaber ein landwirtschaftliches Gewerbe, das teilweise im Eigentum und teilweise gepachtet ist, einer anderen Person zur Betriebsführung, so kann der Übernehmer des Gewerbes dem Verpächter eines Zupachtgrundstücks schriftlich erklären, dass er dieses Grundstück pachtweise weiterbewirtschaften möchte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_19"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Übernahme von Zupachten bei Betriebsübergabe",
+        "citation": "Art. 19 Abs. 2 LPG",
+        "content": "Lehnt der Verpächter nicht innert dreier Monate seit Empfang der Erklärung den Übernehmer als neuen Pächter ab, oder verlangt er innert derselben Frist nicht den Abschluss eines neuen Pachtvertrages mit dem Übernehmer, so tritt dieser in den laufenden Pachtvertrag ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_19"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Güterzusammenlegung",
+        "citation": "Art. 20 Abs. 1 LPG",
+        "content": "Bringt eine Güterzusammenlegung, eine Umlegung von landwirtschaftlichem Boden oder eine Pachtlandarrondierung für ein verpachtetes Grundstück eine wesentliche Änderung in der Bewirtschaftung mit sich, so kann jede Partei den Pachtvertrag auf Antritt der neuen Bewirtschaftungsverhältnisse schriftlich auflösen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_20"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Güterzusammenlegung",
+        "citation": "Art. 20 Abs. 2 LPG",
+        "content": "Ein Anspruch auf Entschädigung wegen vorzeitiger Beendigung der Pacht besteht nicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_20"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Zahlungsrückstand des Pächters",
+        "citation": "Art. 21 Abs. 1 LPG",
+        "content": "Ist der Pächter während der Pachtzeit mit einer Zinszahlung im Rückstand, so kann ihm der Verpächter schriftlich androhen, dass der Pachtvertrag in sechs Monaten aufgelöst sei, wenn der ausstehende Zins bis dahin nicht bezahlt sei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_21"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 6. Abschnitt: Beendigung der Pacht, Zahlungsrückstand des Pächters",
+        "citation": "Art. 21 Abs. 2 LPG",
+        "content": "Wird der Vertrag aufgelöst, so muss der Pächter den Schaden ersetzen, sofern er nicht beweist, dass ihn kein Verschulden trifft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_21"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Bewirtschaftungspflicht",
+        "citation": "Art. 21a Abs. 1 LPG",
+        "content": "Der Pächter muss den Pachtgegenstand sorgfältig bewirtschaften und namentlich für eine nachhaltige Ertragsfähigkeit des Bodens sorgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_21_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Bewirtschaftungspflicht",
+        "citation": "Art. 21a Abs. 2 LPG",
+        "content": "Die Bewirtschaftungspflicht obliegt dem Pächter selber. Er kann jedoch den Pachtgegenstand unter seiner Verantwortung durch Familienangehörige, Angestellte oder Mitglieder einer Gemeinschaft zur Bewirtschaftung, der er angehört, bewirtschaften oder einzelne Arbeiten durch Dritte ausführen lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_21_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Unterhaltspflicht, Reparaturen",
+        "citation": "Art. 22 Abs. 1 LPG",
+        "content": "Der Verpächter ist verpflichtet, Hauptreparaturen am Pachtgegenstand, die während der Pachtzeit notwendig werden, sobald ihm der Pächter von deren Notwendigkeit Kenntnis gegeben hat, auf seine Kosten auszuführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Unterhaltspflicht, Reparaturen",
+        "citation": "Art. 22 Abs. 2 LPG",
+        "content": "Der Pächter ist berechtigt, notwendige Hauptreparaturen selber auszuführen, wenn der Verpächter sie auf Anzeige hin nicht innert nützlicher Frist vorgenommen und seine Verpflichtung hiezu nicht bestritten hat. Er kann spätestens bei Beendigung der Pacht hiefür Entschädigung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Unterhaltspflicht, Reparaturen",
+        "citation": "Art. 22 Abs. 3 LPG",
+        "content": "Der Pächter ist verpflichtet, auf seine Kosten für den ordentlichen Unterhalt des Pachtgegenstandes zu sorgen. Er hat die kleineren Reparaturen, insbesondere den gewöhnlichen Unterhalt der Wege, Stege, Gräben, Dämme, Zäune, Dächer, Wasserleitungen usw. nach Ortsgebrauch vorzunehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Unterhaltspflicht, Reparaturen",
+        "citation": "Art. 22 Abs. 4 LPG",
+        "content": "Die Parteien können vereinbaren, dass der Pächter eine weitergehende Unterhaltspflicht übernimmt und für Hauptreparaturen aufzukommen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Erneuerungen und Änderungen durch den Pächter",
+        "citation": "Art. 22a Abs. 1 LPG",
+        "content": "Der Pächter darf Erneuerungen und Änderungen am Pachtgegenstand, die über den ordentlichen Unterhalt hinausgehen, sowie Änderungen in der hergebrachten Bewirtschaftungsweise, die über die Pachtzeit hinaus von wesentlicher Bedeutung sein können, nur mit schriftlicher Zustimmung des Verpächters vornehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Erneuerungen und Änderungen durch den Pächter",
+        "citation": "Art. 22a Abs. 2 LPG",
+        "content": "Hat der Verpächter zugestimmt, so kann er die Wiederherstellung des früheren Zustandes nur verlangen, wenn dies schriftlich vereinbart worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Pflichtverletzungen des Pächters",
+        "citation": "Art. 22b LPG",
+        "content": "Der Verpächter kann mit einer Frist von sechs Monaten die Pacht schriftlich auf den folgenden Frühjahr- oder Herbsttermin kündigen, wenn der Pächter trotz schriftlicher Ermahnung beziehungsweise Aufforderung des Verpächters:\na. seine Bewirtschaftungspflicht nach Artikel 21a weiter verletzt;\nb. seine Unterhaltspflicht nach Artikel 22 Absatz 3 weiter verletzt;\nc. eine Erneuerung oder Änderung nach Artikel 22a, die der Pächter ohne schriftliche Zustimmung des Verpächters vorgenommen hat, nicht innert angemessener Frist rückgängig macht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_22_b"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Rückgabe. Verbesserungen und Verschlechterungen",
+        "citation": "Art. 23 Abs. 1 LPG",
+        "content": "Bei Beendigung der Pacht ist der Pachtgegenstand in dem Zustand, in dem er sich befindet, zurückzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Rückgabe. Verbesserungen und Verschlechterungen",
+        "citation": "Art. 23 Abs. 2 LPG",
+        "content": "Sofern nichts anderes vereinbart ist, kann der Pächter bei Beendigung der Pacht verlangen, dass er für den Aufwand für Verbesserungen angemessen entschädigt wird, die er mit Zustimmung des Verpächters vorgenommen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Rückgabe. Verbesserungen und Verschlechterungen",
+        "citation": "Art. 23 Abs. 3 LPG",
+        "content": "Für Verbesserungen, die lediglich aus der gehörigen Bewirtschaftung hervorgegangen sind, kann er keinen Ersatz fordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Rückgabe. Verbesserungen und Verschlechterungen",
+        "citation": "Art. 23 Abs. 4 LPG",
+        "content": "Für Verschlechterungen, die bei gehöriger Bewirtschaftung hätten vermieden werden können, hat er Ersatz zu leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Früchte",
+        "citation": "Art. 24 Abs. 1 LPG",
+        "content": "Der Pächter hat keinen Anspruch auf die Früchte, die bei der Beendigung der Pacht noch nicht geerntet sind, wenn Vertrag oder Ortsgebrauch nichts anderes bestimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_24"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Früchte",
+        "citation": "Art. 24 Abs. 2 LPG",
+        "content": "Er kann aber für seinen Aufwand eine angemessene Entschädigung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_24"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Vorräte",
+        "citation": "Art. 25 Abs. 1 LPG",
+        "content": "Der Pächter muss die Futter-, Streue- und Düngervorräte zurücklassen, die einer ordentlichen Bewirtschaftung im letzten Pachtjahr entsprechen, wenn Vertrag oder Ortsgebrauch nichts anderes bestimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_25"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnitt: Pflichten des Pächters und des Verpächters, Vorräte",
+        "citation": "Art. 25 Abs. 2 LPG",
+        "content": "Hat er beim Pachtantritt weniger empfangen, so hat er ein Recht auf Ersatz des Mehrwertes; hat er mehr empfangen, so hat er für Ersatz zu sorgen oder den Minderwert zu ersetzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_25"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 7. Abschnittbis:, Retentionsrecht des Verpächters",
+        "citation": "Art. 25b LPG",
+        "content": "Der Verpächter hat für einen verfallenen und einen laufenden Jahrespachtzins das gleiche Retentionsrecht wie der Vermieter von Geschäftsräumen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_25_b"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Klage",
+        "citation": "Art. 26 Abs. 1 LPG",
+        "content": "Kündigt eine Partei den Pachtvertrag, so kann die andere Partei innert dreier Monate seit Empfang der Kündigung beim Richter auf Erstreckung der Pacht klagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_26"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Klage",
+        "citation": "Art. 26 Abs. 2 LPG",
+        "content": "Läuft ein auf bestimmte Zeit abgeschlossener Pachtvertrag aus und kommt kein neuer Vertrag zustande, so kann jede Partei spätestens neun Monate vor Ablauf der Pacht beim Richter auf Erstreckung der Pacht klagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_26"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Urteil",
+        "citation": "Art. 27 Abs. 1 LPG",
+        "content": "Der Richter erstreckt die Pacht, wenn dies für den Beklagten zumutbar ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Urteil",
+        "citation": "Art. 27 Abs. 2 LPG",
+        "content": "Hat der Verpächter gekündigt, so muss er nachweisen, dass die Fortsetzung der Pacht für ihn unzumutbar oder aus andern Gründen nicht gerechtfertigt ist. Die Fortsetzung der Pacht ist insbesondere unzumutbar oder nicht gerechtfertigt, wenn:\na. der Pächter schwerwiegend gegen seine gesetzlichen oder vertraglichen Pflichten verstossen hat;\nb. der Pächter zahlungsunfähig ist;\nc. der Verpächter, sein Ehegatte, seine eingetragene Partnerin oder sein eingetragener Partner, ein naher Verwandter oder Verschwägerter den Pachtgegenstand selber bewirtschaften will;\nd. das Gewerbe nicht erhaltenswürdig ist;\ne. der Pachtgegenstand teilweise in einer Bauzone nach Artikel 15 des Raumplanungsgesetzes vom 22. Juni 1979 liegt, für die Grundstücke, die nicht in den Geltungsbereich des BGBB fallen, sowie für den nichtlandwirtschaftlichen Teil der Grundstücke nach Artikel 2 Absatz 2 BGBB.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Urteil",
+        "citation": "Art. 27 Abs. 3 LPG",
+        "content": "Der behördliche Entscheid über den Pachtzins macht die Fortsetzung der Pacht in keinem Fall unzumutbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Urteil",
+        "citation": "Art. 27 Abs. 4 LPG",
+        "content": "Der Richter erstreckt die Pacht um drei bis sechs Jahre. Er würdigt dabei die persönlichen Verhältnisse und berücksichtigt namentlich die Art des Pachtgegenstandes und eine allfällige Abkürzung der Pachtdauer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 8. Abschnitt: Pachterstreckung durch den Richter, Anpassung der Vertragsbestimmungen",
+        "citation": "Art. 28 LPG",
+        "content": "Auf Begehren einer Partei kann der Richter bei Erstreckung der Pacht die Vertragsbestimmungen den veränderten Verhältnissen anpassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_28"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 2. Kapitel: Der landwirtschaftliche Pachtvertrag, 9. Abschnitt: Zwingende Bestimmungen",
+        "citation": "Art. 29 LPG",
+        "content": "Ist nichts anderes bestimmt, so kann der Pächter auf die Rechte, die ihm oder seinen Erben nach den Vorschriften dieses Kapitels zustehen, nicht zum voraus verzichten. Abweichende Vereinbarungen sind nichtig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_29"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Bewilligungspflicht",
+        "citation": "Art. 30 Abs. 1 LPG",
+        "content": "Wer von einem landwirtschaftlichen Gewerbe einzelne Grundstücke oder Teile von einzelnen Grundstücken verpachtet (parzellenweise Verpachtung), bedarf einer Bewilligung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_30"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Bewilligungspflicht",
+        "citation": "Art. 30 Abs. 2 LPG",
+        "content": "Der Verpächter braucht keine Bewilligung, wenn er insgesamt nicht mehr als 10 Prozent der ursprünglichen Nutzfläche des Gewerbes verpachtet und der Pachtgegenstand keine Gebäude umfasst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_30"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Bewilligungsgründe",
+        "citation": "Art. 31 Abs. 1 LPG",
+        "content": "Der Verpächter muss die Bewilligung vor Pachtantritt bei der kantonalen Bewilligungsbehörde einholen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Bewilligungsgründe",
+        "citation": "Art. 31 Abs. 2 LPG",
+        "content": "Die Bewilligung wird nur erteilt, wenn eine der folgenden Voraussetzungen erfüllt ist, nämlich:\na. ...\nb. ...\nc. das landwirtschaftliche Gewerbe nicht mehr erhaltungswürdig ist;\nd. das landwirtschaftliche Gewerbe ganz oder überwiegend in einer Bauzone nach Artikel 15 des Raumplanungsgesetzes liegt;\ne. das Gewerbe nur vorübergehend parzellenweise verpachtet und später wieder als ganzes bewirtschaftet werden soll;\nf. der Verpächter das Gewerbe bisher selber bewirtschaftet hat, dazu jedoch aus persönlichen Gründen, wie schwere Krankheit oder vorgerücktes Alter, nur noch teilweise in der Lage ist;\ng. anstelle der parzellenweise verpachteten Grundstücke oder Grundstücksteile andere Pachtsachen zugepachtet werden, die für den Betrieb des Gewerbes günstiger liegen oder geeigneter sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Bewilligungsgründe",
+        "citation": "Art. 31 Abs. 2bis LPG",
+        "content": "Die Behörde bewilligt ferner die parzellenweise Verpachtung eines landwirtschaftlichen Gewerbes, wenn:\na. ...\nb. die parzellenweise Verpachtung überwiegend dazu dient, andere landwirtschaftliche Gewerbe strukturell zu verbessern;\nc. keine vorkaufs- oder zuweisungsberechtigte Person innerhalb der Verwandtschaft das Gewerbe zur Selbstbewirtschaftung übernehmen will, oder keine andere Person, die in der Erbteilung die Zuweisung verlangen könnte (Art. 11 Abs. 2 des BG vom 4. Okt. 1991 über das bäuerliche Bodenrecht), das Gewerbe zur Verpachtung als Ganzes übernehmen will; und\nd. der Ehegatte, die eingetragene Partnerin oder der eingetragene Partner, der oder die das Gewerbe zusammen mit dem Eigentümer bewirtschaftet hat, der parzellenweisen Verpachtung zustimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Folgen der Bewilligungsverweigerung",
+        "citation": "Art. 32 Abs. 1 LPG",
+        "content": "Wird die Bewilligung verweigert, so löst die Bewilligungsbehörde den Pachtvertrag auf den nächsten zumutbaren Frühjahrs- oder Herbsttermin auf und ordnet die Räumung des Grundstücks an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_32"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 3. Kapitel: Parzellenweise Verpachtung, Folgen der Bewilligungsverweigerung",
+        "citation": "Art. 32 Abs. 2 LPG",
+        "content": "Die Parteien haben keinen Anspruch auf den Ersatz des Schadens, der ihnen aus der Auflösung des Pachtvertrags entsteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_32"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Vertragliche Regelungen",
+        "citation": "Art. 35a Abs. 1 LPG",
+        "content": "Der Pachtzins kann in Geld, einem Teil der Früchte (Teilpacht) oder in einer Sachleistung bestehen. Bei der Teilpacht richtet sich das Recht des Verpächters an den Früchten nach dem Ortsgebrauch, wenn nichts anderes vereinbart ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_35_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Vertragliche Regelungen",
+        "citation": "Art. 35a Abs. 2 LPG",
+        "content": "Der Pächter trägt die Nebenkosten, soweit die Parteien nichts anderes vereinbart haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_35_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Öffentlich-rechtliche Beschränkungen",
+        "citation": "Art. 36 Abs. 1 LPG",
+        "content": "Der Pachtzins unterliegt der behördlichen Kontrolle; er darf das zulässige Mass nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Öffentlich-rechtliche Beschränkungen",
+        "citation": "Art. 36 Abs. 2 LPG",
+        "content": "Der Bundesrat setzt die Sätze für die Verzinsung des Ertragswerts und die Abgeltung der Verpächterlasten fest und bestimmt den Zuschlag für die allgemeinen Vorteile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Öffentlich-rechtliche Beschränkungen",
+        "citation": "Art. 36 Abs. 3 LPG",
+        "content": "Naturalleistungen und andere vereinbarte Nebenleistungen sind an den Pachtzins anzurechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 1. Abschnitt: Grundsätze, Öffentlich-rechtliche Beschränkungen",
+        "citation": "Art. 36 Abs. 4 LPG",
+        "content": "Für die Bemessung des Pachtzinses ist auch zu berücksichtigen, was der Pächter dem Verpächter für eine Mietsache oder einen nichtlandwirtschaftlichen Pachtgegenstand bezahlt, die mit einer überwiegend landwirtschaftlichen Pacht verbunden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Pachtzins für Gewerbe",
+        "citation": "Art. 37 LPG",
+        "content": "Der Pachtzins für landwirtschaftliche Gewerbe setzt sich zusammen aus:\na. einer angemessenen Verzinsung des Ertragswerts nach Artikel 10 BGBB;\nb. der Abgeltung der mittleren Aufwendungen der Verpächter für Anlagen und Einrichtungen (Verpächterlasten).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_37"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Pachtzins für einzelne Grundstücke",
+        "citation": "Art. 38 Abs. 1 LPG",
+        "content": "Der Pachtzins für einzelne Grundstücke setzt sich zusammen aus:\na. einer angemessenen Verzinsung des Ertragswerts im Sinn von Artikel 6 des Bundesgesetzes vom 12. Dezember 1940 über die Entschuldung landwirtschaftlicher Heimwesen;\nb. der Abgeltung der mittleren Aufwendungen der Verpächter für Anlagen und Einrichtungen (Verpächterlasten);\nc. einem Zuschlag für die allgemeinen sich für den Pächter aus einer Zupacht ergebenden Vorteile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Pachtzins für einzelne Grundstücke",
+        "citation": "Art. 38 Abs. 2 LPG",
+        "content": "Im Einzelfall sind auf den Betrieb bezogene Zuschläge von je höchstens 15 Prozent zulässig, wenn das Grundstück:\na. eine bessere Arrondierung ermöglicht;\nb. für den Betrieb des Gewerbes günstig liegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Pachtzins für einzelne Grundstücke",
+        "citation": "Art. 38 Abs. 3 LPG",
+        "content": "Für landwirtschaftliche Gebäude dürfen keine Zuschläge nach den Absätzen 1 Buchstabe c und 2 eingerechnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Zinse für Miet- und nichtlandwirtschaftliche Pachtsachen",
+        "citation": "Art. 39 LPG",
+        "content": "Für die Bemessung des Zinses für Miet- und nichtlandwirtschaftliche Pachtsachen, die mit einer überwiegend landwirtschaftlichen Pacht verbunden sind, gelten die Vorschriften über Massnahmen gegen missbräuchliche Mietzinse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_39"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Zinssatz. Verpächterlasten",
+        "citation": "Art. 40 Abs. 1 LPG",
+        "content": "Der Bundesrat setzt den Satz für die Verzinsung des Ertragswerts aufgrund des durchschnittlichen Zinssatzes für erste Hypotheken im Mittel mehrerer Jahre fest und passt ihn den nachhaltig veränderten Zinsverhältnissen an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_40"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Zinssatz. Verpächterlasten",
+        "citation": "Art. 40 Abs. 3 LPG",
+        "content": "Der Bundesrat bestimmt den Ansatz für die Verpächterlasten nach den durchschnittlichen Aufwendungen in der Bemessungsperiode, die für die Berechnung des Ertragswerts gilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_40"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 2. Abschnitt: Bemessung, Zuschlag für längere Pachtdauer",
+        "citation": "Art. 41 LPG",
+        "content": "Verabreden die Parteien eine Fortsetzungsdauer, welche die gesetzliche Fortsetzungsdauer um mindestens drei Jahre übersteigt, so ist für die ganze Fortsetzungsdauer ein Zuschlag von 15 Prozent zum Pachtzins zulässig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_41"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Pachtzinsbewilligung für Gewerbe",
+        "citation": "Art. 42 Abs. 1 LPG",
+        "content": "Der Pachtzins für Gewerbe bedarf der Bewilligung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Pachtzinsbewilligung für Gewerbe",
+        "citation": "Art. 42 Abs. 2 LPG",
+        "content": "Der Verpächter muss den Pachtzins innert dreier Monate seit dem Pachtantritt oder der mit dem Pächter vereinbarten Anpassung bewilligen lassen. Wird der Pachtzins angepasst, weil der Bundesrat die Sätze für die Bemessung des Pachtzinses geändert hat, so ist keine Bewilligung nötig. Auf Begehren einer Partei erlässt die Behörde über den zulässigen Umfang der Anpassung eine Feststellungsverfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Pachtzinsbewilligung für Gewerbe",
+        "citation": "Art. 42 Abs. 3 LPG",
+        "content": "Erhält die vom Kanton bezeichnete Behörde Kenntnis von einem nichtbewilligten Pachtzins, so leitet sie das Bewilligungsverfahren ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Einsprache gegen den Pachtzins für Grundstücke",
+        "citation": "Art. 43 Abs. 1 LPG",
+        "content": "Gegen den vereinbarten Pachtzins für einzelne Grundstücke können die vom Kanton bezeichneten Behörden bei der Bewilligungsbehörde Einsprache erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_43"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Einsprache gegen den Pachtzins für Grundstücke",
+        "citation": "Art. 43 Abs. 2 LPG",
+        "content": "Die Einsprache ist innert drei Monaten seit Kenntnis des Vertragsabschlusses oder der Anpassung des Pachtzinses zu erheben, spätestens aber innert zwei Jahren seit Pachtantritt oder seit dem Zeitpunkt, auf den die Pachtzinsanpassung erfolgt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_43"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Entscheid der Bewilligungsbehörde",
+        "citation": "Art. 44 Abs. 1 LPG",
+        "content": "Die Bewilligungsbehörde entscheidet, ob der vereinbarte Pachtzins für das Gewerbe oder das Grundstück zulässig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Entscheid der Bewilligungsbehörde",
+        "citation": "Art. 44 Abs. 2 LPG",
+        "content": "Sie setzt zu hohe Pachtzinse auf das erlaubte Mass herab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Entscheid der Bewilligungsbehörde",
+        "citation": "Art. 44 Abs. 3 LPG",
+        "content": "Sie eröffnet ihren Entscheid den Parteien und teilt ihn der zur Einsprache berechtigten Behörde mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Zivilrechtliche Folgen",
+        "citation": "Art. 45 Abs. 1 LPG",
+        "content": "Die Vereinbarung über den Pachtzins ist nichtig, soweit dieser das durch die Behörde festgesetzte Mass übersteigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Zivilrechtliche Folgen",
+        "citation": "Art. 45 Abs. 2 LPG",
+        "content": "Pachtzinse, die aufgrund einer nichtigen Vereinbarung bezahlt worden sind, können innert eines Jahres seit dem rechtskräftigen Entscheid über den Pachtzins, spätestens aber fünf Jahre nach ihrer Bezahlung zurückgefordert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Zivilrechtliche Folgen",
+        "citation": "Art. 45 Abs. 3 LPG",
+        "content": "Die Nichtigkeit des Pachtzinses berührt im Übrigen die Gültigkeit des Pachtvertrages nicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 4. Kapitel: Pachtzins, 3. Abschnitt: Pachtzinskontrolle, Nichtige Abreden",
+        "citation": "Art. 46 LPG",
+        "content": "Die Vertragsparteien können auf die Rechte, die ihnen nach diesem Abschnitt zustehen, nicht zum voraus verzichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_46"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Verfahren",
+        "citation": "Art. 47 LPG",
+        "content": "Soweit dieses Gesetz das verwaltungsrechtliche Verfahren nicht regelt, ordnen es die Kantone; für zivilrechtliche Klagen gelten die Bestimmungen der Zivilprozessordnung vom 19. Dezember 2008.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_47"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Feststellungsverfügung der Verwaltungsbehörde",
+        "citation": "Art. 49 Abs. 1 LPG",
+        "content": "Eine Partei, die ein schutzwürdiges Interesse hat, kann von der zuständigen Behörde feststellen lassen, ob die Verkürzung der Pachtdauer, die parzellenweise Verpachtung, die Zupacht oder der Pachtzins genehmigt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_49"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Feststellungsverfügung der Verwaltungsbehörde",
+        "citation": "Art. 49 Abs. 2 LPG",
+        "content": "Die Partei kann schon vor dem Abschluss des Pachtvertrags um Erlass einer Feststellungsverfügung nachsuchen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_49"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Beschwerde an die kantonale Beschwerdeinstanz",
+        "citation": "Art. 50 Abs. 1 LPG",
+        "content": "Gegen Verfügungen der erstinstanzlichen Verwaltungsbehörde kann innert 30 Tagen Beschwerde bei der kantonalen Beschwerdeinstanz erhoben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_50"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Beschwerde an die kantonale Beschwerdeinstanz",
+        "citation": "Art. 50 Abs. 2 LPG",
+        "content": "Die Beschwerdeinstanz eröffnet ihren Entscheid den Vertragsparteien und dem Einsprecher; sie teilt ihn der Vorinstanz mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_50"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 1. Abschnitt: Verfahren und Rechtsmittel, Auskunftspflicht",
+        "citation": "Art. 52 LPG",
+        "content": "Die Beteiligten müssen der zuständigen Verwaltungsbehörde auf Verlangen Auskunft erteilen, Einsicht in die Urkunden gewähren und den Augenschein gestatten, soweit es für die Erteilung einer Bewilligung, einen Einsprache- oder Beschwerdeentscheid oder eine Feststellungsverfügung notwendig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_52"
+    },
+    {
+        "book": "LPG",
+        "title": "LPG, 5. Kapitel: Verfahren und Behörden, 2. Abschnitt: Kantonale Behörden",
+        "citation": "Art. 53 LPG",
+        "content": "Die Kantone bezeichnen:\na. die Bewilligungsbehörden;\nb. die zur Einsprache berechtigten Behörden;\nc. die Beschwerdeinstanz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/de#art_53"
+    }
+]

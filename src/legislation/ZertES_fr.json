@@ -1,0 +1,380 @@
+[
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 1 SCSE",
+        "content": "La présente loi règle:\na. les exigences de qualité auxquelles doivent répondre certains certificats numériques et leur utilisation;\nb. les conditions auxquelles les fournisseurs de services de certification dans le domaine de la signature électronique et des autres applications des certificats numériques (services de certification) peuvent être reconnus;\nc. les droits et les devoirs des fournisseurs reconnus de services de certification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 2 SCSE",
+        "content": "À l’exception de la responsabilité au sens des art. 17 et 18, elle ne règle pas les effets juridiques de l’utilisation des certificats numériques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 3 SCSE",
+        "content": "Elle vise à:\na. promouvoir la fourniture de services de certification sûrs à un large public;\nb. favoriser l’utilisation des certificats numériques, des signatures électroniques et des cachets électroniques;\nc. permettre la reconnaissance internationale des fournisseurs de services de certification et de leurs prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 SCSE",
+        "content": "Au sens de la présente loi, on entend par:\na. signature électronique: un ensemble de données électroniques qui sont jointes ou liées logiquement à d’autres données électroniques et qui servent à vérifier leur authenticité;\nb. signature électronique avancée: une signature électronique qui remplit les conditions suivantes:\n1. être liée uniquement au titulaire,\n2. permettre d’identifier le titulaire,\n3. être créée par des moyens que le titulaire peut garder sous son contrôle exclusif,\n4. être liée aux données auxquelles elle se rapporte de telle sorte que toute modification ultérieure des données soit détectable;\nc. signature électronique réglementée: une signature électronique avancée créée au moyen d’un dispositif sécurisé de création de signature au sens de l’art. 6 et fondée sur un certificat réglementé se rapportant à une personne physique et valable au moment de sa création;\nd. cachet électronique réglementé: une signature électronique avancée créée au moyen d’un dispositif sécurisé de création de cachet au sens de l’art. 6 et fondée sur un certificat réglementé se rapportant à une entité IDE au sens de l’art. 3, al. 1, let. c, de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises (LIDE) et valable au moment de la création du cachet électronique;\ne. signature électronique qualifiée: une signature électronique réglementée fondée sur un certificat qualifié;\nf. certificat numérique: une attestation numérique qui lie la clé publique d’une paire asymétrique de clés cryptographiques à son titulaire;\ng. certificat réglementé: un certificat numérique qui remplit les conditions fixées à l’art. 7 et est délivré par un fournisseur de services de certification reconnu en vertu de la présente loi;\nh. certificat qualifié: un certificat réglementé qui remplit les conditions fixées à l’art. 8;\ni. horodatage électronique: l’attestation que des données numériques déterminées existent à un moment précis;\nj. horodatage électronique qualifié: un horodatage électronique qui est opéré par un fournisseur de services de certification reconnu en vertu de la présente loi et qui est muni d’un cachet électronique réglementé;\nk. fournisseur de services de certification (fournisseur): un organisme qui certifie des données dans un environnement électronique et qui délivre à cette fin des certificats numériques;\nl. organisme de reconnaissance: un organisme qui est habilité à reconnaître et à surveiller les fournisseurs en vertu des règles d’accréditation de la législation sur les entraves techniques au commerce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_2"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Conditions de la reconnaissance",
+        "citation": "Art. 3 al. 1 SCSE",
+        "content": "Peuvent être reconnues comme fournisseurs les personnes physiques ou morales qui:\na. sont inscrites au registre du commerce;\nb. sont en mesure de délivrer et de gérer des certificats qualifiés conformément aux exigences de la présente loi;\nc. emploient du personnel possédant les connaissances, l’expérience et les qualifications nécessaires;\nd. utilisent des systèmes et des produits informatiques, notamment des dispositifs de création de signature et de cachet, qui soient fiables et sûrs;\ne. possèdent des ressources ou des garanties financières suffisantes;\nf. ont contracté les assurances nécessaires à la couverture de la responsabilité visée à l’art. 17 et des frais que peuvent entraîner les mesures prévues à l’art. 14, al. 2 et 3;\ng. assurent le respect du droit applicable, notamment de la présente loi et de ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Conditions de la reconnaissance",
+        "citation": "Art. 3 al. 2 SCSE",
+        "content": "Les conditions fixées à l’al. 1 sont applicables également aux fournisseurs étrangers. L’organisme de reconnaissance suisse peut reconnaître un fournisseur étranger qui est déjà reconnu par un organisme étranger s’il est prouvé que:\na. la reconnaissance a été octroyée conformément au droit de l’État en question;\nb. les règles du droit de l’État étranger applicables à l’octroi de la reconnaissance sont équivalentes à celles du droit suisse;\nc. l’organisme de reconnaissance étranger possède des qualifications équivalentes à celles qui sont exigées d’un organisme de reconnaissance suisse;\nd. l’organisme de reconnaissance étranger garantit sa collaboration à l’organisme de reconnaissance suisse pour la surveillance du fournisseur en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Conditions de la reconnaissance",
+        "citation": "Art. 3 al. 3 SCSE",
+        "content": "Les unités administratives de la Confédération, des cantons et des communes peuvent être reconnues comme fournisseurs sans avoir à s’inscrire au registre du commerce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Désignation de l’organisme d’accréditation",
+        "citation": "Art. 4 al. 1 SCSE",
+        "content": "Le Conseil fédéral désigne l’organisme d’accréditation des organismes de reconnaissance (organisme d’accréditation).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Désignation de l’organisme d’accréditation",
+        "citation": "Art. 4 al. 2 SCSE",
+        "content": "Faute d’organisme de reconnaissance accrédité, le Conseil fédéral désigne comme tel l’organisme d’accréditation ou un autre organisme approprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Liste des fournisseurs reconnus",
+        "citation": "Art. 5 al. 1 SCSE",
+        "content": "Les organismes de reconnaissance annoncent à l’organisme d’accréditation les fournisseurs qu’ils reconnaissent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 2, Reconnaissance des fournisseurs, Liste des fournisseurs reconnus",
+        "citation": "Art. 5 al. 2 SCSE",
+        "content": "L’organisme d’accréditation tient à la disposition du public la liste des fournisseurs reconnus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 3, Élaboration, stockage et utilisation de clés cryptographiques",
+        "citation": "Art. 6 al. 1 SCSE",
+        "content": "Le Conseil fédéral règle l’élaboration, le stockage et l’utilisation des clés cryptographiques pouvant faire l’objet de certificats réglementés au sens de la présente loi; il veille à assurer un degré de sécurité élevé conforme à l’évolution de la technique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 3, Élaboration, stockage et utilisation de clés cryptographiques",
+        "citation": "Art. 6 al. 2 SCSE",
+        "content": "Les systèmes d’élaboration, de stockage et d’utilisation de clés cryptographiques privées, notamment les dispositifs de création de signatures et de cachets, doivent au moins:\na. garantir que les clés ne puissent, pratiquement, se rencontrer qu’une seule fois et que leur confidentialité soit suffisante;\nb. garantir avec une marge de sécurité suffisante que les clés ne puissent être trouvées par déduction et que leur utilisation soit protégée contre toute falsification par les moyens techniques disponibles;\nc. garantir que les clés peuvent être protégées de manière fiable par le titulaire légitime contre toute utilisation abusive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions applicables aux certificats réglementés",
+        "citation": "Art. 7 al. 1 SCSE",
+        "content": "Un certificat réglementé peut être délivré au nom d’une personne physique ou d’une entité IDE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions applicables aux certificats réglementés",
+        "citation": "Art. 7 al. 2 SCSE",
+        "content": "Il doit contenir les informations suivantes:\na. le numéro de série;\nb. la mention qu’il est délivré à titre de certificat réglementé;\nc. le nom ou la désignation du titulaire de la clé cryptographique privée; s’il existe un risque de confusion, le nom ou la désignation doit être complété par un élément distinctif;\nd. pour les personnes physiques, éventuellement un pseudonyme identifié comme tel à la place du nom;\ne. pour les entités IDE, le numéro unique d’identification des entreprises au sens de la LIDE;\nf. la clé cryptographique publique;\ng. la durée de validité;\nh. le nom, le pays d’établissement et le cachet électronique réglementé du fournisseur qui délivre le certificat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions applicables aux certificats réglementés",
+        "citation": "Art. 7 al. 3 SCSE",
+        "content": "Le certificat peut également contenir les éléments suivants:\na. les qualités spécifiques du titulaire de la clé cryptographique privée, telles que ses qualifications professionnelles;\nb. si le titulaire est une personne physique, la mention qu’elle est habilitée à représenter une entité IDE;\nc. le domaine d’utilisation pour lequel le certificat est prévu;\nd. la valeur limite des transactions pour lesquelles le certificat est prévu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions applicables aux certificats réglementés",
+        "citation": "Art. 7 al. 4 SCSE",
+        "content": "Le Conseil fédéral règle le format des certificats réglementés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions supplémentaires applicables aux certificats qualifiés",
+        "citation": "Art. 8 al. 1 SCSE",
+        "content": "Le certificat qualifié ne peut être délivré qu’à une personne physique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions supplémentaires applicables aux certificats qualifiés",
+        "citation": "Art. 8 al. 2 SCSE",
+        "content": "Il contient la mention qu’il est destiné à n’être utilisé que pour la signature électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 4, Certificats réglementés, Conditions supplémentaires applicables aux certificats qualifiés",
+        "citation": "Art. 8 al. 3 SCSE",
+        "content": "Il contient, en lieu et place de la mention visée à l’art. 7, al. 2, let. b, la mention qu’il est délivré à titre de certificat qualifié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 1 SCSE",
+        "content": "Les fournisseurs reconnus exigent de toute personne qui demande la délivrance d’un certificat réglementé:\na. pour une personne physique: qu’elle se présente en personne et qu’elle apporte la preuve de son identité;\nb. pour une entité IDE qui n’est pas une personne physique: qu’une personne habilitée à la représenter se présente en personne et apporte la preuve de son identité et de son pouvoir de représentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 2 SCSE",
+        "content": "Ils vérifient que les qualifications professionnelles et les autres qualités spécifiques (art. 7, al. 3, let. a) ont été confirmées par l’organisme compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 3 SCSE",
+        "content": "Ils vérifient que la mention des pouvoirs de représentation (art. 7, al. 3, let. b) a été approuvée par l’entité IDE représentée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 4 SCSE",
+        "content": "Le Conseil fédéral désigne les documents de nature à prouver l’identité des personnes qui demandent un certificat et, le cas échéant, à justifier de leurs qualités spécifiques. Il peut prévoir de dispenser les demandeurs de l’obligation de se présenter en personne à certaines conditions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 5 SCSE",
+        "content": "Les fournisseurs reconnus s’assurent en outre que les personnes qui demandent un certificat réglementé possèdent la clé cryptographique privée qui s’y rapporte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Délivrance des certificats réglementés",
+        "citation": "Art. 9 al. 6 SCSE",
+        "content": "Ils peuvent déléguer l’identification d’un requérant à un tiers (bureau d’enregistrement). Ils répondent de l’exécution correcte de cette tâche par ce dernier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Obligation d’informer et de documenter",
+        "citation": "Art. 10 al. 1 SCSE",
+        "content": "Les fournisseurs reconnus tiennent à la disposition du public leurs conditions contractuelles générales et des informations sur leur politique de certification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Obligation d’informer et de documenter",
+        "citation": "Art. 10 al. 2 SCSE",
+        "content": "Ils informent leurs clients, au plus tard lors de la délivrance du certificat réglementé, des conséquences de l’utilisation abusive de leur clé cryptographique privée et des dispositions à prendre, selon les circonstances, pour assurer la confidentialité de cette clé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Obligation d’informer et de documenter",
+        "citation": "Art. 10 al. 3 SCSE",
+        "content": "Ils tiennent un journal de leurs activités. Le Conseil fédéral fixe la durée pendant laquelle le journal et les documents qui s’y rapportent doivent être conservés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Annulation des certificats réglementés",
+        "citation": "Art. 11 al. 1 SCSE",
+        "content": "Les fournisseurs reconnus annulent immédiatement le certificat réglementé:\na. si le titulaire ou son représentant le demande;\nb. s’il s’avère qu’il a été obtenu de manière illicite ou que les renseignements visés à l’art. 7, al. 3, ne sont pas ou ne sont plus exacts;\nc. s’il ne permet plus de garantir le lien avec le titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Annulation des certificats réglementés",
+        "citation": "Art. 11 al. 2 SCSE",
+        "content": "Dans le cas de l’al. 1, let. a, ils s’assurent que la personne qui a demandé l’annulation a qualité pour le faire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Annulation des certificats réglementés",
+        "citation": "Art. 11 al. 3 SCSE",
+        "content": "Ils informent immédiatement de l’annulation le titulaire du certificat réglementé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Service d’annuaire pour les certificats réglementés",
+        "citation": "Art. 12 al. 1 SCSE",
+        "content": "Tout fournisseur reconnu garantit aux intéressés de pouvoir vérifier de façon fiable, en tout temps et selon une procédure usuelle, la validité de tous les certificats réglementés qu’il a délivrés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Service d’annuaire pour les certificats réglementés",
+        "citation": "Art. 12 al. 2 SCSE",
+        "content": "Il peut en outre offrir un service d’annuaire permettant aux intéressés de rechercher et de consulter les certificats réglementés qu’il a délivrés. Un certificat n’est inscrit dans cet annuaire qu’à la demande de son titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Service d’annuaire pour les certificats réglementés",
+        "citation": "Art. 12 al. 3 SCSE",
+        "content": "Les pouvoirs publics peuvent consulter ces données gratuitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Service d’annuaire pour les certificats réglementés",
+        "citation": "Art. 12 al. 4 SCSE",
+        "content": "Le Conseil fédéral détermine la durée minimale pendant laquelle les certificats réglementés qui ne sont plus valables doivent pouvoir continuer d’être vérifiés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Horodatage électronique qualifié",
+        "citation": "Art. 13 SCSE",
+        "content": "Les fournisseurs reconnus procèdent, sur demande, à un horodatage électronique qualifié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_13"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Cessation d’activité",
+        "citation": "Art. 14 al. 1 SCSE",
+        "content": "Les fournisseurs reconnus annoncent en temps utile à l’organisme d’accréditation la cessation de leur activité. Ils lui annoncent immédiatement toute commination de faillite qui leur a été notifiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Cessation d’activité",
+        "citation": "Art. 14 al. 2 SCSE",
+        "content": "L’organisme d’accréditation charge un autre fournisseur reconnu de tenir la liste des certificats réglementés valables, échus ou annulés et de conserver le journal des activités et les documents qui s’y rapportent. Lorsqu’il n’y a pas de fournisseur reconnu, le Conseil fédéral désigne l’organisme compétent pour reprendre ces tâches. Le fournisseur reconnu qui cesse son activité supporte les frais qui en résultent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Cessation d’activité",
+        "citation": "Art. 14 al. 3 SCSE",
+        "content": "L’al. 2 est également applicable en cas de faillite d’un fournisseur reconnu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Protection des données",
+        "citation": "Art. 15 al. 1 SCSE",
+        "content": "Les fournisseurs reconnus et les bureaux d’enregistrement qu’ils ont mandatés ne peuvent traiter que les données personnelles nécessaires à l’accomplissement de leurs tâches. Tout commerce de ces données est interdit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 5, Devoirs des fournisseurs reconnus, Protection des données",
+        "citation": "Art. 15 al. 2 SCSE",
+        "content": "Au surplus, la législation sur la protection des données est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 6, Surveillance des fournisseurs reconnus",
+        "citation": "Art. 16 al. 1 SCSE",
+        "content": "Les organismes de reconnaissance assurent la surveillance des fournisseurs reconnus conformément aux règles de la législation sur les entraves techniques au commerce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 6, Surveillance des fournisseurs reconnus",
+        "citation": "Art. 16 al. 2 SCSE",
+        "content": "Lorsqu’un organisme de reconnaissance retire la reconnaissance à un fournisseur, il l’annonce immédiatement à l’organisme d’accréditation. L’art. 14, al. 2, est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Responsabilité des fournisseurs",
+        "citation": "Art. 17 al. 1 SCSE",
+        "content": "Lorsque les fournisseurs reconnus contreviennent à des obligations découlant de la présente loi ou de ses dispositions d’exécution, ils répondent du dommage causé au titulaire d’un certificat réglementé valable et aux tiers qui se sont fiés à ce certificat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Responsabilité des fournisseurs",
+        "citation": "Art. 17 al. 2 SCSE",
+        "content": "Il leur incombe d’apporter la preuve qu’ils ont respecté les obligations découlant de la présente loi et de ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Responsabilité des fournisseurs",
+        "citation": "Art. 17 al. 3 SCSE",
+        "content": "Les fournisseurs reconnus ne peuvent exclure leur responsabilité découlant de la présente loi pour les dommages causés par eux-mêmes ou leurs auxiliaires. Ils ne répondent toutefois pas du dommage résultant de l’inobservation ou de la violation d’une restriction de l’utilisation du certificat (art. 7, al. 3, let. c et d).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Responsabilité des organismes de reconnaissance",
+        "citation": "Art. 18 SCSE",
+        "content": "Lorsque les organismes de reconnaissance contreviennent à des obligations découlant de la présente loi ou de ses dispositions d’exécution, ils répondent du dommage causé au titulaire d’un certificat réglementé valable et aux tiers qui se sont fiés à ce certificat. L’art. 17, al. 2 et 3, s’applique par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_18"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Prescription",
+        "citation": "Art. 19 al. 1 SCSE",
+        "content": "Les actions prévues par la présente loi se prescrivent par trois ans à compter du jour où la partie lésée a eu connaissance du dommage ainsi que de la personne tenue à réparation, et, dans tous les cas, par dix ans à compter du jour où le fait dommageable s’est produit ou a cessé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Prescription",
+        "citation": "Art. 19 al. 2 SCSE",
+        "content": "Si le fait dommageable résulte d’un acte punissable de la personne tenue à réparation, l’action se prescrit au plus tôt à l’échéance du délai de prescription de l’action pénale. Si la prescription de l’action pénale ne court plus parce qu’un jugement de première instance a été rendu, l’action civile se prescrit au plus tôt par trois ans à compter de la notification du jugement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 7, Responsabilité, Prescription",
+        "citation": "Art. 19 al. 3 SCSE",
+        "content": "Les prétentions résultant d’un contrat sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 8, Conventions internationales",
+        "citation": "Art. 20 al. 1 SCSE",
+        "content": "Le Conseil fédéral peut conclure des conventions internationales pour faciliter l’utilisation et la reconnaissance juridique internationales des signatures électroniques et des autres applications de clés cryptographiques, notamment sur:\na. la reconnaissance des signatures électroniques, des cachets électroniques et des certificats numériques;\nb. la reconnaissance des fournisseurs et l’accréditation des organismes de reconnaissance;\nc. la reconnaissance des essais et des évaluations de conformité;\nd. la reconnaissance des marques de conformité;\ne. la reconnaissance des systèmes d’accréditation et des organismes accrédités;\nf. l’octroi de mandats de normalisation à des organismes internationaux de normalisation, dans la mesure où la législation renvoie à des normes techniques déterminées ou lorsqu’un tel renvoi est prévu;\ng. l’information et la consultation concernant l’élaboration, l’adoption, la modification et l’application de prescriptions ou de normes techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 8, Conventions internationales",
+        "citation": "Art. 20 al. 2 SCSE",
+        "content": "Il édicte les dispositions nécessaires à l’application des conventions internationales portant sur les domaines énumérés à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "SCSE, Section 8, Conventions internationales",
+        "citation": "Art. 20 al. 3 SCSE",
+        "content": "Il peut déléguer à des organismes privés des activités relatives à l’information et à la consultation concernant l’élaboration, l’adoption et la modification de prescriptions ou de normes techniques et prévoir une indemnité à ce titre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/fr#art_20"
+    }
+]

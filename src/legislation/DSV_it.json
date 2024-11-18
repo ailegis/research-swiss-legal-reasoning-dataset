@@ -1,0 +1,744 @@
+[
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Principi",
+        "citation": "Art. 1 cpv. 1 OPDa",
+        "content": "Al fine di garantire una sicurezza dei dati adeguata, il titolare del trattamento e il responsabile del trattamento definiscono la necessità di protezione dei dati personali e stabiliscono i provvedimenti tecnici e organizzativi adeguati in considerazione del rischio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Principi",
+        "citation": "Art. 1 cpv. 2 OPDa",
+        "content": "La necessità di protezione dei dati personali è valutata sulla base dei seguenti criteri:\na. tipo di dati trattati;\nb. scopo, tipo, portata e circostanze del trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Principi",
+        "citation": "Art. 1 cpv. 3 OPDa",
+        "content": "Il rischio per la personalità o i diritti fondamentali della persona interessata è valutato sulla base dei seguenti criteri:\na. cause del rischio;\nb. pericolo sostanziale;\nc. provvedimenti adottati o previsti per minimizzare il rischio;\nd. probabilità e gravità di una violazione della sicurezza dei dati nonostante i provvedimenti adottati o previsti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Principi",
+        "citation": "Art. 1 cpv. 4 OPDa",
+        "content": "Nello stabilire i provvedimenti tecnici e organizzativi si applicano inoltre i seguenti criteri:\na. lo stato della tecnica;\nb. le spese di implementazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Principi",
+        "citation": "Art. 1 cpv. 5 OPDa",
+        "content": "La necessità di protezione dei dati personali, il rischio e i provvedimenti tecnici e organizzativi sono verificati durante l’intera durata del trattamento. Se necessario, i provvedimenti sono aggiornati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Obiettivi",
+        "citation": "Art. 2 OPDa",
+        "content": "Conformemente alla necessità di protezione, il titolare del trattamento e il responsabile del trattamento adottano provvedimenti tecnici e organizzativi affinché i dati trattati:\na. siano accessibili solo alle persone autorizzate (confidenzialità);\nb. siano disponibili quando necessario (disponibilità);\nc. non siano modificati indebitamente o inavvertitamente (integrità);\nd. siano trattati in modo tracciabile (tracciabilità).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_2"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Provvedimenti tecnici e organizzativi",
+        "citation": "Art. 3 cpv. 1 OPDa",
+        "content": "Per garantire la confidenzialità, il titolare del trattamento e il responsabile del trattamento adottano provvedimenti adeguati affinché:\na. le persone autorizzate abbiano accesso solo ai dati personali di cui abbisognano al fine di adempiere i loro compiti (controllo dell’accesso ai dati);\nb. solo le persone autorizzate abbiano accesso ai locali e agli impianti utilizzati per il trattamento dei dati personali (controllo dell’accesso ai locali e agli impianti);\nc. le persone non autorizzate non possano utilizzare i sistemi di trattamento automatizzato di dati personali con l’ausilio di impianti di trasmissione (controllo degli utenti);",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Provvedimenti tecnici e organizzativi",
+        "citation": "Art. 3 cpv. 2 OPDa",
+        "content": "Per garantire la disponibilità e l’integrità, il titolare del trattamento e il responsabile del trattamento adottano provvedimenti adeguati affinché:\na. le persone non autorizzate non possano leggere, copiare, modificare, spostare, cancellare o distruggere supporti di dati (controllo dei supporti di dati);\nb. le persone non autorizzate non possano salvare, leggere, modificare, cancellare o distruggere dati personali nella memoria (controllo di memoria);\nc. le persone non autorizzate non possano leggere, copiare, modificare, cancellare o distruggere dati personali in occasione della comunicazione degli stessi o del trasporto di supporti di dati (controllo del trasporto);\nd. la disponibilità e l’accesso ai dati personali possano essere rapidamente ripristinati in caso di incidente fisico o tecnico (ripristino);\ne. siano disponibili tutte le funzioni del sistema di trattamento automatizzato dei dati (disponibilità), siano segnalati eventuali malfunzionamenti (affidabilità) e i dati personali registrati non siano danneggiati da malfunzionamenti del sistema (integrità dei dati);\nf. sia sempre aggiornato il livello di sicurezza dei sistemi operativi e delle applicazioni e siano colmate le lacune critiche riscontrate (sicurezza del sistema).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Provvedimenti tecnici e organizzativi",
+        "citation": "Art. 3 cpv. 3 OPDa",
+        "content": "Per garantire la tracciabilità, il titolare del trattamento e il responsabile del trattamento adottano provvedimenti adeguati affinché:\na. si possa verificare quali dati personali sono stati introdotti o modificati nel sistema di trattamento automatizzato dei dati, in quale momento e da chi (controllo dell’introduzione);\nb. si possa verificare a chi sono stati comunicati dati personali con l’ausilio di impianti di trasmissione (controllo di comunicazione);\nc. si possano individuare rapidamente le violazioni della sicurezza dei dati (individuazione) e adottare provvedimenti per ridurre o eliminare le conseguenze (eliminazione).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Verbalizzazione",
+        "citation": "Art. 4 cpv. 1 OPDa",
+        "content": "Se dati personali degni di particolare protezione sono trattati automaticamente su grande scala o se si esegue una profilazione a rischio elevato e i provvedimenti preventivi possono non garantire la protezione dei dati, il titolare privato del trattamento e il suo responsabile privato del trattamento verbalizzano almeno la registrazione, modificazione, lettura, comunicazione, cancellazione e distruzione dei dati. In particolare, la verbalizzazione deve avere luogo quando non è possibile stabilire a posteriori se i dati sono stati trattati ai fini per i quali sono stati raccolti o comunicati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Verbalizzazione",
+        "citation": "Art. 4 cpv. 2 OPDa",
+        "content": "Nel caso di trattamento automatico dei dati personali l’organo federale titolare del trattamento e il suo responsabile del trattamento verbalizzano almeno la registrazione, modificazione, lettura, comunicazione, cancellazione e distruzione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Verbalizzazione",
+        "citation": "Art. 4 cpv. 3 OPDa",
+        "content": "Nel caso di dati personali accessibili in modo generalizzato al pubblico sono verbalizzati almeno la registrazione, modificazione, cancellazione e distruzione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Verbalizzazione",
+        "citation": "Art. 4 cpv. 4 OPDa",
+        "content": "I verbali riportano informazioni sull’identità della persona che ha effettuato il trattamento, sul tipo, la data e l’ora del trattamento nonché, all’occorrenza, sull’identità del destinatario dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Verbalizzazione",
+        "citation": "Art. 4 cpv. 5 OPDa",
+        "content": "I verbali sono conservati per almeno un anno separatamente dal sistema in cui sono trattati i dati personali. Sono accessibili esclusivamente agli organi e alle persone incaricate di verificare l’applicazione delle disposizioni in materia di protezione dei dati o di salvaguardare o ripristinare la confidenzialità, l’integrità, la disponibilità e la tracciabilità dei dati e sono utilizzati soltanto a tale fine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento dei privati sul trattamento",
+        "citation": "Art. 5 cpv. 1 OPDa",
+        "content": "Il titolare privato del trattamento e il suo responsabile privato stabiliscono un regolamento per i trattamenti automatizzati se: \na. trattano su grande scala dati personali degni di particolare protezione; o\nb. eseguono una profilazione a rischio elevato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento dei privati sul trattamento",
+        "citation": "Art. 5 cpv. 2 OPDa",
+        "content": "Il regolamento contiene in particolare indicazioni sull’organizzazione interna, sulla procedura di trattamento e di controllo dei dati nonché sui provvedimenti per garantire la sicurezza dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento dei privati sul trattamento",
+        "citation": "Art. 5 cpv. 3 OPDa",
+        "content": "Il titolare privato del trattamento e il suo responsabile privato aggiornano periodicamente il regolamento. Se è stato designato un consulente per la protezione dei dati, il regolamento è messo a sua disposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento degli organi federali sul trattamento",
+        "citation": "Art. 6 cpv. 1 OPDa",
+        "content": "L’organo federale titolare del trattamento e il suo responsabile stabiliscono un regolamento per i trattamenti automatizzati se:\na. trattano dati personali degni di particolare protezione;\nb. effettuano una profilazione;\nc. trattano dati personali ai sensi dell’articolo 34 capoverso 2 lettera c LPD;\nd. concedono l’accesso a dati personali a Cantoni, autorità estere, organizzazioni internazionali o privati;\ne. connettono tra loro raccolte di dati; o\nf. gestiscono insieme ad altri organi federali un sistema d’informazione o raccolte di dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento degli organi federali sul trattamento",
+        "citation": "Art. 6 cpv. 2 OPDa",
+        "content": "Il regolamento contiene in particolare indicazioni sull’organizzazione interna, sulla procedura di trattamento e di controllo dei dati nonché sui provvedimenti per garantire la sicurezza dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 1:, Sicurezza dei dati, Regolamento degli organi federali sul trattamento",
+        "citation": "Art. 6 cpv. 3 OPDa",
+        "content": "L’organo federale titolare del trattamento e il suo responsabile aggiornano periodicamente il regolamento e lo mettono a disposizione del consulente per la protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 2: Trattamento da parte del responsabile del trattamento",
+        "citation": "Art. 7 cpv. 1 OPDa",
+        "content": "La previa autorizzazione del titolare del trattamento, che permette al responsabile del trattamento di trasferire il trattamento dei dati a un terzo, può essere di natura specifica o generale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_7"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 2: Trattamento da parte del responsabile del trattamento",
+        "citation": "Art. 7 cpv. 2 OPDa",
+        "content": "Se l’autorizzazione è di natura generale, il responsabile del trattamento informa il titolare del trattamento su qualsiasi modifica prevista per quanto riguarda il coinvolgimento o la sostituzione di altri terzi. Il titolare del trattamento può opporsi a tale modifica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_7"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 1 OPDa",
+        "content": "Gli Stati, i territori, determinati settori di uno Stato e gli organismi internazionali con una protezione adeguata dei dati sono elencati nell’allegato 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 2 OPDa",
+        "content": "Per valutare se uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale garantisce una protezione adeguata dei dati, vanno segnatamente presi in considerazione i seguenti criteri:\na. gli impegni internazionali dello Stato o dell’organismo internazionale, in particolare nel settore della protezione dei dati;\nb. lo Stato di diritto e il rispetto dei diritti dell’uomo;\nc. la legislazione vigente in particolare in materia di protezione dei dati, la sua attuazione e la giurisprudenza pertinente;\nd. l’effettiva garanzia dei diritti delle persone interessate e della tutela giurisdizionale;\ne. l’effettivo funzionamento di una o più autorità indipendenti responsabili della protezione dei dati nello Stato in questione o alle quali è assoggettato un organismo internazionale e dotate di poteri e competenze sufficienti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 3 OPDa",
+        "content": "L’Incaricato federale della protezione dei dati e della trasparenza (IFPDT) viene consultato al momento di ogni valutazione. Possono essere presi in considerazione i pareri di organismi internazionali o autorità estere competenti per la protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 4 OPDa",
+        "content": "L’adeguatezza della protezione dei dati è periodicamente oggetto di una nuova valutazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 5 OPDa",
+        "content": "Le valutazioni vengono pubblicate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Valutazione dell’adeguatezza della protezione dei dati di uno Stato, un territorio, un determinato settore di uno Stato o un organismo internazionale",
+        "citation": "Art. 8 cpv. 6 OPDa",
+        "content": "Se dalla valutazione secondo il capoverso 4 o da altre informazioni si evince che non è più garantita una protezione adeguata dei dati, l’allegato 1 è modificato; tale modifica non ha alcuna ripercussione sulle comunicazioni di dati già avvenute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Clausole contrattuali di protezione dei dati e garanzie specifiche",
+        "citation": "Art. 9 cpv. 1 OPDa",
+        "content": "Le clausole contrattuali di protezione dei dati di un contratto secondo l’articolo 16 capoverso 2 lettera b LPD e le garanzie specifiche secondo l’articolo 16 capoverso 2 lettera c LPD contengono almeno i seguenti punti:\na. l’applicazione dei principi della liceità, della buona fede, della proporzionalità, della trasparenza, della finalità e dell’esattezza;\nb. le categorie dei dati personali comunicati e delle persone interessate;\nc. il tipo e lo scopo della comunicazione dei dati personali;\nd. all’occorrenza, il nome degli Stati o degli organismi internazionali cui sono comunicati dati personali nonché i requisiti della comunicazione;\ne.  i requisiti della conservazione, della cancellazione e della distruzione di dati personali;\nf. i destinatari o le categorie dei destinatari;\ng. i provvedimenti per garantire la sicurezza dei dati;\nh. l’obbligo di comunicare le violazioni della sicurezza dei dati;\ni. se i destinatari sono titolari del trattamento, l’obbligo di informare le persone interessate dal trattamento;\nj. i diritti della persona interessata, segnatamente:\n1. il diritto d’accesso e il diritto alla consegna o alla trasmissione dei dati,\n2. il diritto di opporsi alla comunicazione dei dati,\n3. il diritto di chiedere la rettifica, la cancellazione o la distruzione dei dati che la concernono,\n4. il diritto di chiedere tutela giurisdizionale a un’autorità indipendente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Clausole contrattuali di protezione dei dati e garanzie specifiche",
+        "citation": "Art. 9 cpv. 2 OPDa",
+        "content": "Il titolare del trattamento e, nel caso di clausole contrattuali sulla protezione dei dati, il responsabile del trattamento prendono misure adeguate per garantire che il destinatario rispetti dette clausole o le garanzie specifiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Clausole contrattuali di protezione dei dati e garanzie specifiche",
+        "citation": "Art. 9 cpv. 3 OPDa",
+        "content": "Se l’IFPDT è stato informato sulle clausole contrattuali di protezione dei dati o sulle garanzie specifiche, l’obbligo di informare è considerato adempiuto per tutte le ulteriori comunicazioni che:\na. si basano sulle medesime clausole contrattuali o garanzie, sempre che le categorie dei destinatari, la finalità del trattamento o le categorie di dati rimangano sostanzialmente immutate; o\nb. sono effettuate in seno alla medesima persona giuridica o società o tra imprese che appartengono allo stesso gruppo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Clausole tipo di protezione dei dati",
+        "citation": "Art. 10 cpv. 1 OPDa",
+        "content": "Se comunica dati personali all’estero mediante clausole tipo di protezione dei dati secondo l’articolo 16 capoverso 2 lettera d LPD, il titolare o il responsabile del trattamento adotta provvedimenti adeguati per garantire che il destinatario le rispetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_10"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Clausole tipo di protezione dei dati",
+        "citation": "Art. 10 cpv. 2 OPDa",
+        "content": "L’IFPDT pubblica un elenco di clausole tipo di protezione dei dati che ha approvato, emanato o riconosciuto. Comunica i risultati dell’esame delle clausole tipo di protezione dei dati che gli sono state sottoposte entro 90 giorni dalla loro ricezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_10"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Norme interne dell’impresa vincolanti sulla protezione dei dati",
+        "citation": "Art. 11 cpv. 1 OPDa",
+        "content": "Le norme interne dell’impresa vincolanti sulla protezione dei dati secondo l’articolo 16 capoverso 2 lettera e LPD valgono per tutte le imprese che appartengono allo stesso gruppo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Norme interne dell’impresa vincolanti sulla protezione dei dati",
+        "citation": "Art. 11 cpv. 2 OPDa",
+        "content": "Comprendono almeno i punti menzionati nell’articolo 9 capoverso 1 e le seguenti indicazioni: \na. l’organizzazione e i dati di contatto del gruppo e delle sue imprese;\nb. le misure adottate in seno al gruppo per il rispetto delle norme interne dell’impresa vincolanti sulla protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Norme interne dell’impresa vincolanti sulla protezione dei dati",
+        "citation": "Art. 11 cpv. 3 OPDa",
+        "content": "L’IFPDT comunica i risultati dell’esame delle norme interne dell’impresa vincolanti sulla protezione dei dati che gli sono state sottoposte entro 90 giorni dalla loro ricezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Codici di condotta e certificazioni",
+        "citation": "Art. 12 cpv. 1 OPDa",
+        "content": "I dati personali possono essere comunicati all’estero, se un codice di condotta o una certificazione garantisce una protezione adeguata dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Codici di condotta e certificazioni",
+        "citation": "Art. 12 cpv. 2 OPDa",
+        "content": "Il codice di condotta deve essere previamente sottoposto all’IFPDT per approvazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 1:, Disposizioni generali, Sezione 3: Comunicazione di dati personali all’estero, Codici di condotta e certificazioni",
+        "citation": "Art. 12 cpv. 3 OPDa",
+        "content": "Il codice di condotta o la certificazione deve essere corredato dall’impegno vincolante ed esecutorio del titolare del trattamento o del responsabile del trattamento nello Stato terzo di applicare le misure contenutevi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Modalità dell’obbligo di informare",
+        "citation": "Art. 13 OPDa",
+        "content": "Il titolare del trattamento comunica alla persona interessata le informazioni sull’ottenimento di dati personali in forma precisa, trasparente, comprensibile e facilmente accessibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_13"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Conservazione della valutazione d’impatto sulla protezione dei dati",
+        "citation": "Art. 14 OPDa",
+        "content": "Il titolare del trattamento conserva la valutazione d’impatto sulla protezione dei dati per almeno due anni dopo la fine del trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_14"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Notifica di violazioni della sicurezza dei dati",
+        "citation": "Art. 15 cpv. 1 OPDa",
+        "content": "La notifica all’IFPDT di una violazione della sicurezza dei dati riporta le seguenti informazioni:\na. il tipo di violazione;\nb. se possibile, il momento e la durata;\nc. se possibile le categorie e il numero approssimativo dei dati personali interessati;\nd. se possibile, le categorie e il numero approssimativo delle persone interessate;\ne. le conseguenze, compresi eventuali rischi, per le persone interessate;\nf. le misure adottate o previste per eliminare il difetto e ridurne le conseguenze, inclusi gli eventuali rischi;\ng. i nomi e i dati di una persona di contatto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Notifica di violazioni della sicurezza dei dati",
+        "citation": "Art. 15 cpv. 2 OPDa",
+        "content": "Se non è in grado di comunicare contemporaneamente tutte le informazioni, il titolare del trattamento fornisce quanto prima le informazioni mancanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Notifica di violazioni della sicurezza dei dati",
+        "citation": "Art. 15 cpv. 3 OPDa",
+        "content": "Se è tenuto a informare la persona interessata, il titolare del trattamento le comunica in una lingua semplice e comprensibile almeno le informazioni di cui al capoverso 1 lettere a ed e–g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 2: Obblighi del titolare del trattamento, Notifica di violazioni della sicurezza dei dati",
+        "citation": "Art. 15 cpv. 4 OPDa",
+        "content": "Il titolare del trattamento documenta le violazioni. La documentazione illustra i fatti legati agli eventi, le loro conseguenze e i provvedimenti adottati. Deve essere conservata per almeno due anni dalla notifica secondo il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Modalità",
+        "citation": "Art. 16 cpv. 1 OPDa",
+        "content": "Chi domanda informazioni in merito al trattamento dei propri dati personali al titolare del trattamento deve farlo per scritto. Se il titolare del trattamento è d’accordo, la domanda può anche essere presentata in forma orale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Modalità",
+        "citation": "Art. 16 cpv. 2 OPDa",
+        "content": "Le informazioni sono fornite per scritto o nella forma in cui sono disponibili i dati. D’intesa con il titolare del trattamento, la persona interessata può consultare i suoi dati sul posto. Le informazioni possono essere fornite in forma orale se la persona interessata è d’accordo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Modalità",
+        "citation": "Art. 16 cpv. 3 OPDa",
+        "content": "Le informazioni possono essere domandate e comunicate per via elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Modalità",
+        "citation": "Art. 16 cpv. 4 OPDa",
+        "content": "Le informazioni devono essere comunicate in una forma comprensibile per la persona interessata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Modalità",
+        "citation": "Art. 16 cpv. 5 OPDa",
+        "content": "Il titolare del trattamento adotta misure adeguate per identificare la persona interessata. Quest’ultima ha l’obbligo di collaborare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Competenza",
+        "citation": "Art. 17 cpv. 1 OPDa",
+        "content": "Se più titolari del trattamento trattano congiuntamente dati personali, la persona interessata può esercitare il suo diritto d’accesso presso ciascuno di essi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_17"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Competenza",
+        "citation": "Art. 17 cpv. 2 OPDa",
+        "content": "Se la domanda riguarda dati trattati da un responsabile del trattamento, quest’ultimo aiuta il titolare del trattamento a comunicare le informazioni, a meno che non risponda egli stesso alla domanda per conto del titolare del trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_17"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Termine",
+        "citation": "Art. 18 cpv. 1 OPDa",
+        "content": "Le informazioni sono fornite entro 30 giorni dalla ricezione della domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Termine",
+        "citation": "Art. 18 cpv. 2 OPDa",
+        "content": "Se le informazioni non possono essere fornite entro 30 giorni, il titolare del trattamento ne informa la persona interessata e le comunica il termine entro il quale le informazioni saranno fornite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Termine",
+        "citation": "Art. 18 cpv. 3 OPDa",
+        "content": "Se il titolare del trattamento rifiuta, limita o differisce l’informazione, deve comunicarlo entro il suddetto termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Eccezioni alla gratuità",
+        "citation": "Art. 19 cpv. 1 OPDa",
+        "content": "Se la comunicazione delle informazioni comporta un onere sproporzionato, il titolare del trattamento può richiedere alla persona interessata un’adeguata partecipazione alle spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Eccezioni alla gratuità",
+        "citation": "Art. 19 cpv. 2 OPDa",
+        "content": "La partecipazione ammonta al massimo a 300 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 1: Diritto d’accesso, Eccezioni alla gratuità",
+        "citation": "Art. 19 cpv. 3 OPDa",
+        "content": "Il titolare del trattamento informa la persona interessata in merito all’entità della partecipazione prima che le siano comunicate le informazioni. Se la persona interessata non conferma la domanda entro dieci giorni, quest’ultima è considerata ritirata senza spese. Il termine di cui all’articolo 18 capoverso 1 decorre dalla fine del periodo di riflessione di dieci giorni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Portata del diritto",
+        "citation": "Art. 20 cpv. 1 OPDa",
+        "content": "Per dati personali che la persona interessata ha comunicato al titolare del trattamento si intendono:\na. i dati che la persona ha messo a disposizione del titolare del trattamento consapevolmente e volutamente;\nb. i dati che il titolare del trattamento ha rilevato sulla persona interessata e sul suo comportamento nel quadro dell’utilizzo di un servizio o di un apparecchio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_20"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Portata del diritto",
+        "citation": "Art. 20 cpv. 2 OPDa",
+        "content": "I dati personali che il titolare del trattamento ha prodotto in un’analisi separata dei dati personali messi a disposizione o osservati non sono considerati dati personali che la persona interessata ha comunicato al titolare del trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_20"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Requisiti tecnici per l’attuazione",
+        "citation": "Art. 21 cpv. 1 OPDa",
+        "content": "Per formato elettronico usuale si intendono i formati che permettono che i dati personali siano trasmessi con un onere proporzionato e riutilizzati dalla persona interessata o da un altro titolare del trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Requisiti tecnici per l’attuazione",
+        "citation": "Art. 21 cpv. 2 OPDa",
+        "content": "Il diritto alla consegna o alla trasmissione dei dati non obbliga il titolare del trattamento a adottare o conservare sistemi di trattamento dei dati tecnicamente compatibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Requisiti tecnici per l’attuazione",
+        "citation": "Art. 21 cpv. 3 OPDa",
+        "content": "L’onere è sproporzionato se la trasmissione di dati personali a un altro titolare del trattamento non è possibile per ragioni tecniche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 3: Diritti della persona interessata, Sezione 2: Diritto alla consegna o alla trasmissione dei dati Termine, modalità e competenza",
+        "citation": "Art. 22 OPDa",
+        "content": "Gli articoli 16 capoversi 1 e 5 nonché 17–19 sono applicabili per analogia al diritto alla consegna o alla trasmissione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_22"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 4:, Disposizioni particolari sul trattamento di dati da parte di persone private Consulente per la protezione dei dati",
+        "citation": "Art. 23 OPDa",
+        "content": "Il titolare del trattamento:\na. mette a disposizione del consulente per la protezione dei dati le risorse necessarie;\nb. concede al consulente per la protezione dei dati l’accesso a qualsiasi informazione, documento, registro delle attività di trattamento e dato personale necessario all’adempimento dei suoi compiti;\nc. concede al consulente per la protezione dei dati il diritto di informare i massimi organi dirigenti o amministrativi in casi importanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_23"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 4:, Disposizioni particolari sul trattamento di dati da parte di persone private Eccezione all’obbligo di tenere un registro delle attività di trattamento",
+        "citation": "Art. 24 OPDa",
+        "content": "Le imprese e le altre organizzazioni di diritto privato che al 1° gennaio di un anno impiegano meno di 250 collaboratori e le persone fisiche sono esentate dall’obbligo di tenere un registro delle attività di trattamento, salvo che sia adempiuta una delle seguenti condizioni: \na. sono trattati su vasta scala dati personali degni di particolare protezione;\nb. viene eseguita una profilazione ad alto rischio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_24"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Nomina",
+        "citation": "Art. 25 OPDa",
+        "content": "Ciascun organo federale nomina un consulente per la protezione dei dati. Più organi federali possono nominare congiuntamente un consulente per la protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_25"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Requisiti e compiti",
+        "citation": "Art. 26 cpv. 1 OPDa",
+        "content": "Il consulente per la protezione dei dati:\na. dispone delle conoscenze tecniche necessarie;\nb. esercita la sua funzione in modo indipendente dall’organo federale e senza ricevere da questi istruzioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_26"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Requisiti e compiti",
+        "citation": "Art. 26 cpv. 2 OPDa",
+        "content": "Ha i seguenti compiti:\na. contribuire all’applicazione delle norme sulla protezione dei dati, in particolare:\n1. verificando il trattamento di dati personali e raccomandando provvedimenti correttivi se si constata una violazione delle prescrizioni in materia di protezione dei dati,\n2. fornendo consulenza al titolare del trattamento nell’allestimento della valutazione d’impatto sulla protezione dei dati e verificandone l’esecuzione;\nb. fungere da interlocutore per le persone interessate;\nc. formare e fornire consulenza in materia di protezione dei dati ai collaboratori dell’organo federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_26"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Obblighi dell’organo federale",
+        "citation": "Art. 27 cpv. 1 OPDa",
+        "content": "L’organo federale ha i seguenti obblighi nei confronti del consulente per la protezione dei dati:\na. gli concede l’accesso alle informazioni, ai documenti, ai registri delle attività di trattamento e ai dati personali che gli sono necessari all’adempimento dei suoi compiti;\nb. provvede affinché sia informato su qualsiasi violazione della sicurezza dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_27"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Obblighi dell’organo federale",
+        "citation": "Art. 27 cpv. 2 OPDa",
+        "content": "Pubblica i dati di contatto del consulente della protezione dei dati in Internet e li comunica all’IFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_27"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 1: Consulente per la protezione dei dati, Servizio di contatto dell’IFPDT",
+        "citation": "Art. 28 OPDa",
+        "content": "Il consulente per la protezione dei dati è il servizio di contatto dell’IFPDT per le questioni riguardanti il trattamento di dati personali da parte dell’organo federale in questione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_28"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 2: Obbligo di informare, Obbligo di informare in occasione della comunicazione di dati personali",
+        "citation": "Art. 29 OPDa",
+        "content": "L’organo federale informa il destinatario sull’attualità, l’affidabilità e la completezza dei dati personali comunicati, nella misura in cui tali informazioni non risultino dai dati medesimi o dalle circostanze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_29"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 2: Obbligo di informare, Obbligo di informare in occasione del trattamento automatizzato di dati personali",
+        "citation": "Art. 30 OPDa",
+        "content": "Se la persona interessata non è obbligata a fornire informazioni, l’organo federale titolare del trattamento che raccoglie sistematicamente dati personali la informa in merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_30"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 3:, Notifica di progetti di trattamento automatizzato di dati personali all’IFPDT",
+        "citation": "Art. 31 cpv. 1 OPDa",
+        "content": "L’organo federale titolare del trattamento notifica all’IFPDT le previste attività di trattamento automatizzato al momento dell’autorizzazione del progetto o della decisione sullo sviluppo del progetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 3:, Notifica di progetti di trattamento automatizzato di dati personali all’IFPDT",
+        "citation": "Art. 31 cpv. 2 OPDa",
+        "content": "La notifica contiene le indicazioni di cui all’articolo 12 capoverso 2 lettere a–d LPD e la probabile data di inizio delle attività di trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 3:, Notifica di progetti di trattamento automatizzato di dati personali all’IFPDT",
+        "citation": "Art. 31 cpv. 3 OPDa",
+        "content": "L’IFPDT inserisce tale notifica nel registro delle attività di trattamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 3:, Notifica di progetti di trattamento automatizzato di dati personali all’IFPDT",
+        "citation": "Art. 31 cpv. 4 OPDa",
+        "content": "L’organo federale responsabile del trattamento aggiorna la notifica con il passaggio all’esercizio produttivo o alla sospensione del progetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Carattere imprescindibile del sistema pilota",
+        "citation": "Art. 32 OPDa",
+        "content": "Un sistema pilota è imprescindibile se è adempiuta una delle seguenti condizioni: \na. l’adempimento di un compito richiede innovazioni tecniche di cui devono dapprima essere valutati gli effetti;\nb. l’adempimento di un compito richiede importanti misure organizzative o tecniche la cui efficacia deve dapprima essere esaminata, in particolare in caso di collaborazione tra organi della Confederazione e dei Cantoni;\nc. l’adempimento di un compito richiede che i dati personali siano accessibili mediante procedura di richiamo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_32"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 1 OPDa",
+        "content": "Prima di consultare le unità amministrative interessate, l’organo federale competente per il sistema pilota illustra come s’intende garantire il rispetto delle condizioni di cui all’articolo 35 LPD e invita l’IFPDT a presentare un parere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 2 OPDa",
+        "content": "L’IFPDT presenta un parere sul rispetto delle condizioni di autorizzazione di cui all’articolo 35 LPD. A tal fine, l’organo federale gli mette a disposizione tutti i documenti necessari, in particolare:\na. una descrizione generale del sistema pilota;\nb. un rapporto attestante che l’adempimento dei compiti legali necessita un trattamento secondo l’articolo 34 capoverso 2 LPD e che una fase sperimentale prima dell’entrata in vigore della legge formale è imprescindibile;\nc. una descrizione dell’organizzazione interna e delle procedure di trattamento e di controllo dei dati;\nd. una descrizione dei provvedimenti di sicurezza e di protezione dei dati;\ne. un progetto di ordinanza che disciplini le modalità di trattamento o le grandi linee di tale atto normativo;\nf. la pianificazione delle diverse fasi del sistema pilota.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 3 OPDa",
+        "content": "L’IFPDT può esigere altri documenti e procedere a verifiche complementari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 4 OPDa",
+        "content": "L’organo federale informa l’IFPDT di ogni modifica importante che concerne il rispetto delle condizioni di cui all’articolo 35 LPD. Se necessario, l’IFPDT presenta nuovamente un parere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 5 OPDa",
+        "content": "Il parere dell’IFPDT è allegato alla proposta al Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Procedura di autorizzazione del sistema pilota",
+        "citation": "Art. 33 cpv. 6 OPDa",
+        "content": "Il trattamento automatizzato dei dati è disciplinato in un’ordinanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Rapporto di valutazione",
+        "citation": "Art. 34 cpv. 1 OPDa",
+        "content": "L’organo federale competente sottopone per parere all’IFPDT il progetto di rapporto di valutazione destinato al Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_34"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 4: Sistemi pilota, Rapporto di valutazione",
+        "citation": "Art. 34 cpv. 2 OPDa",
+        "content": "Sottopone il rapporto di valutazione al Consiglio federale accompagnato dal parere dell’IFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_34"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 5:, Disposizioni particolari sul trattamento di dati da parte di organi federali Sezione 5: Trattamento di dati per scopi impersonali",
+        "citation": "Art. 35 OPDa",
+        "content": "Se dati personali sono trattati per scopi impersonali, in particolare per la ricerca, la pianificazione e la statistica, e nel contempo per un altro scopo, le eccezioni di cui all’articolo 39 capoverso 2 LPD sono applicabili soltanto al trattamento per scopi impersonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_35"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Sede e segretariato permanente",
+        "citation": "Art. 36 cpv. 1 OPDa",
+        "content": "La sede dell’IFPDT è a Berna.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_36"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Sede e segretariato permanente",
+        "citation": "Art. 36 cpv. 2 OPDa",
+        "content": "Ai rapporti di lavoro degli impiegati del segretariato permanente dell’IFPDT si applica la legislazione sul personale federale. Gli impiegati sono assicurati nell’ambito della Cassa di previdenza della Confederazione presso la Cassa pensioni della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_36"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Canale di comunicazione",
+        "citation": "Art. 37 cpv. 1 OPDa",
+        "content": "L’IFPDT comunica con il Consiglio federale per il tramite del cancelliere della Confederazione. Questi trasmette al Consiglio federale proposte, pareri e rapporti senza modificarli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_37"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Canale di comunicazione",
+        "citation": "Art. 37 cpv. 2 OPDa",
+        "content": "L’IFPDT presenta rapporti all’attenzione dell’Assemblea federale tramite i servizi del Parlamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_37"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Comunicazione di decisioni, direttive e progetti",
+        "citation": "Art. 38 cpv. 1 OPDa",
+        "content": "Nell’ambito della protezione dei dati i dipartimenti e la Cancelleria federale comunicano all’IFPDT le loro decisioni in forma anonimizzata nonché le loro direttive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_38"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Comunicazione di decisioni, direttive e progetti",
+        "citation": "Art. 38 cpv. 2 OPDa",
+        "content": "Gli organi federali presentano all’IFPDT tutti i progetti di atti normativi che riguardano il trattamento di dati personali, la protezione dei dati e l’accesso ai documenti ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_38"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Trattamento di dati personali",
+        "citation": "Art. 39 OPDa",
+        "content": "L’IFPT può trattare dati personali compresi i dati particolarmente degni di protezione, in particolare per:\na. esercitare le sue attività di vigilanza;\nb. esercitare le sue attività di consulenza;\nc. collaborare con autorità federali, cantonali ed estere;\nd. adempiere compiti nel quadro delle disposizioni penali secondo la LPD;\ne. eseguire procedure di mediazione ed emanare raccomandazioni secondo la legge del 17 dicembre 2004 sulla trasparenza (LTras);\nf. eseguire valutazioni secondo la LTras;\ng. eseguire procedure per l’accesso a documenti ufficiali secondo la LTras;\nh. informare la vigilanza parlamentare;\ni. informare il pubblico;\nj. esercitare le sue attività di formazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_39"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Autocontrollo",
+        "citation": "Art. 40 OPDa",
+        "content": "L’IFPDT elabora un regolamento sul trattamento per tutti i trattamenti automatizzati; l’articolo 6 capoverso 1 non è applicabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_40"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Cooperazione con l’Ufficio federale della cibersicurezza",
+        "citation": "Art. 41 cpv. 1 OPDa",
+        "content": "Con il consenso del titolare del trattamento soggetto all’obbligo di notifica, l’IFPDT può inoltrare la notifica di una violazione della sicurezza dei dati per un esame dell’evento all’Ufficio federale della cibersicurezza (UFCS). La comunicazione può contenere dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_41"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Cooperazione con l’Ufficio federale della cibersicurezza",
+        "citation": "Art. 41 cpv. 2 OPDa",
+        "content": "L’IFPDT invita l’UFCS a prendere posizione prima di ordinare a un organo federale di adottare i provvedimenti di cui all’articolo 8 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_41"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Registro delle attività di trattamento degli organi federali",
+        "citation": "Art. 42 cpv. 1 OPDa",
+        "content": "Il registro delle attività di trattamento degli organi federali contiene le indicazioni degli organi federali di cui agli articoli 12 capoversi 2 LPD e 31 capoverso 2 della presente ordinanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_42"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Registro delle attività di trattamento degli organi federali",
+        "citation": "Art. 42 cpv. 2 OPDa",
+        "content": "È pubblicato su Internet. Non sono pubblicate le iscrizioni nel registro sulle previste attività di trattamento automatizzate secondo l’articolo 31.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_42"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Codice di condotta ",
+        "citation": "Art. 43 OPDa",
+        "content": "Se gli è presentato un codice di condotta, l’IFPDT comunica nel suo parere se tale codice soddisfa le condizioni dell’articolo 22 capoverso 5 lettere a e b LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_43"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Emolumenti",
+        "citation": "Art. 44 cpv. 1 OPDa",
+        "content": "Gli emolumenti fatturati dall’IFPDT sono calcolati in funzione del tempo impiegato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Emolumenti",
+        "citation": "Art. 44 cpv. 2 OPDa",
+        "content": "La tariffa oraria va da 150 a 250 franchi, a seconda della funzione della persona competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Emolumenti",
+        "citation": "Art. 44 cpv. 3 OPDa",
+        "content": "In caso di prestazioni di portata straordinaria oppure di difficoltà o urgenza particolari possono essere riscossi supplementi fino al 50 per cento dell’emolumento di cui al capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Emolumenti",
+        "citation": "Art. 44 cpv. 4 OPDa",
+        "content": "Se la persona soggetta a emolumento può utilizzare la prestazione dell’IFPDT a scopi commerciali, possono essere riscossi supplementi fino al 100 per cento dell’emolumento di cui al capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDa, Capitolo 6:, Incaricato federale della protezione dei dati e della trasparenza, Emolumenti",
+        "citation": "Art. 44 cpv. 5 OPDa",
+        "content": "Per il resto si applica l’ordinanza generale dell’8 settembre 2004 sugli emolumenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/it#art_44"
+    }
+]

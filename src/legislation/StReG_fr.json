@@ -1,0 +1,1136 @@
+[
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 1, Objet et définitions, Objet",
+        "citation": "Art. 1 al. 1 LCJ",
+        "content": "La présente loi règle le traitement, dans le casier judiciaire informatique VOSTRA, des données concernant des personnes physiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 1, Objet et définitions, Objet",
+        "citation": "Art. 1 al. 2 LCJ",
+        "content": "Elle règle notamment:\na. les tâches et les compétences des autorités qui gèrent VOSTRA;\nb. la coopération des autorités qui gèrent VOSTRA avec celles qui y saisissent les données qu’elles génèrent, qui transmettent des données en vue de leur saisie ou qui sont tenues de fournir des renseignements aux autorités qui saisissent les données;\nc. les devoirs de diligence afférents au traitement des données;\nd. les contenus de VOSTRA;\ne.  les délais de saisie des données, le temps pendant lequel elles figurent sur les extraits du casier judiciaire et le moment de leur élimination de VOSTRA;\nf. les catégories de données à faire figurer dans les extraits du casier judiciaire;\ng. les droits et les obligations des autorités qui ont le droit de consulter VOSTRA en ligne ou sur demande écrite, ou auxquelles des données du casier judiciaire sont communiquées de manière automatique;\nh. les interfaces avec d’autres banques de données;\ni. les droits de consultation et les droits d’accès des personnes concernées;\nj. les exigences en matière de sécurité des données et d’infrastructure technique;\nk. l’utilisation de données anonymisées du casier judiciaire à des fins de recherche, de planification et de statistique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 1, Objet et définitions, Définitions",
+        "citation": "Art. 2 LCJ",
+        "content": "Au sens de la présente loi, on entend par:\na. jugement: toute décision pénale sur le fond constatant qu’une infraction déterminée a été commise;\nb. décision ultérieure: toute décision pénale d’une autorité judiciaire ou d’une autorité d’exécution ayant pour objet le réexamen (modification, complément, levée ou confirmation) d’une sanction entrée en force et de ses effets mais ne portant pas sur l’infraction ayant donné lieu à la sanction;\nc. autorité raccordée: toute autorité qui dispose d’un droit opérationnel de consultation ou de saisie en ligne;\nd. données pénales: les jugements, les décisions ultérieures et les procédures pénales en cours;\ne. système de gestion des données pénales: la partie centrale de VOSTRA dans laquelle sont gérées les données pénales se rapportant à des personnes et à partir de laquelle des extraits sont établis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_2"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 2, Tâches des autorités qui gèrent VOSTRA, Office fédéral de la justice",
+        "citation": "Art. 3 al. 1 LCJ",
+        "content": "L’Office fédéral de la justice est l’organe fédéral responsable de VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 2, Tâches des autorités qui gèrent VOSTRA, Office fédéral de la justice",
+        "citation": "Art. 3 al. 2 LCJ",
+        "content": "Le service de l’Office fédéral de la justice qui gère le casier judiciaire (Service du casier judiciaire) a les tâches suivantes:\na. il coordonne les activités des autorités raccordées;\nb. il octroie et retire aux utilisateurs les droits de consultation ou de saisie en ligne des données;\nc. il donne des cours aux utilisateurs des autorités raccordées;\nd. il aide les utilisateurs à résoudre les problèmes liés à l’emploi du système;\ne. il veille à la facilité d’utilisation de VOSTRA et à l’amélioration constante de son fonctionnement;\nf. il édicte des instructions concernant la gestion et l’utilisation de VOSTRA, notamment un règlement sur le traitement des données;\ng. il vérifie, d’office ou sur demande d’une personne concernée, si le traitement des données est conforme aux prescriptions applicables et si les données sont complètes, exactes et à jour; il est habilité à cette fin à consulter les fichiers journaux prévus par la législation sur la protection des données et les données journalisées relatives aux consultations visées à l’art. 25 de la présente loi;\nh. il rectifie les données erronées enregistrées dans VOSTRA ou charge les services responsables de le faire;\ni. il prend les mesures appropriées à l’encontre des utilisateurs qui enfreignent les règles de traitement des données, en leur donnant un avertissement, en les convoquant à un cours ou en leur retirant certains droits de consultation ou de saisie en ligne; il informe en outre le supérieur hiérarchique de l’utilisateur et les organes de protection des données compétents; s’il soupçonne qu’une infraction a été commise, il dénonce le cas à l’autorité de poursuite pénale compétente;\nj. il saisit dans VOSTRA les données suivantes:\n1. les jugements et les décisions ultérieures qui ont pour objet une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique (art. 6, al. 3),\n2. les données qui lui sont transmises par des autorités fédérales ou étrangères (art. 6, al. 2, et 7, al. 1);\nk. il mène des contrôles d’identité à la demande des autorités qui saisissent des données (art. 10, al. 3, let. b) et de celles ayant un droit de consultation (art. 10, al. 6);\nl. il demande à la Centrale de compensation d’attribuer un numéro AVS au sens de l’art. 50c de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (numéro AVS) aux personnes inscrites au casier judiciaire (art. 10, al. 4); il enregistre dans VOSTRA ce numéro et les données d’identification qui y sont associées;\nm. il établit des extraits du casier judiciaire à l’intention des autorités fédérales non raccordées, des autorités étrangères et des particuliers;\nn. il veille à ce que les données du casier judiciaire visées aux art. 58 à 64 soient communiquées automatiquement aux autorités compétentes;\no. il traite les demandes d’extraits d’un casier judiciaire étranger faites par les autorités suisses (art. 26 et 49);\np. il communique les avis de récidive et de contrôle émis par le système aux autorités compétentes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 2, Tâches des autorités qui gèrent VOSTRA, Services de coordination cantonaux ",
+        "citation": "Art. 4 al. 1 LCJ",
+        "content": "Chaque canton désigne un service de coordination (SERCO) chargé de traiter les données du casier judiciaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 2, Tâches des autorités qui gèrent VOSTRA, Services de coordination cantonaux ",
+        "citation": "Art. 4 al. 2 LCJ",
+        "content": "Le SERCO a les tâches suivantes:\na. il saisit dans VOSTRA les données qui lui sont transmises par les autorités cantonales (art. 6, al. 2, et 7, al. 2);\nb. il établit des extraits du casier judiciaire à l’intention des autorités cantonales non raccordées;\nc. il est l’interlocuteur du Service du casier judiciaire au sein du canton en ce qui concerne le respect des dispositions de la présente loi, de l’ordonnance d’exécution et des instructions qui en découlent;\nd. il assiste le Service du casier judiciaire dans le contrôle du traitement des données;\ne. il communique les avis de récidive et de contrôle émis par le système aux autorités compétentes;\nf. il aide les utilisateurs du canton à résoudre les problèmes liés à l’emploi du système.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 2, Tâches des autorités qui gèrent VOSTRA, Service de coordination de la justice militaire",
+        "citation": "Art. 5 LCJ",
+        "content": "Le service de coordination de la justice militaire a les tâches suivantes:\na. il saisit dans VOSTRA les données qui lui sont transmises par les autorités de la justice militaire (art. 7, al. 3);\nb. il établit des extraits du casier judiciaire à l’intention des autorités de la justice militaire;\nc. il est l’interlocuteur du Service du casier judiciaire pour la justice militaire en ce qui concerne le respect des dispositions de la présente loi, de l’ordonnance d’exécution et des instructions qui en découlent;\nd. il assiste le Service du casier judiciaire dans le contrôle du traitement des données;\ne. il communique les avis de récidive et de contrôle émis par le système aux autorités compétentes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_5"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de saisir des données",
+        "citation": "Art. 6 al. 1 LCJ",
+        "content": "Les autorités suivantes saisissent dans VOSTRA les données qu’elles génèrent lorsque la Confédération ou le canton le prévoit:\na. les tribunaux pénaux, les ministères publics cantonaux, les autorités pénales des mineurs au sens des art. 6, al. 1, let. b et c, et 7 de la procédure pénale applicable aux mineurs du 20 mars 2009 (PPMin), le Ministère public de la Confédération et les autorités pénales compétentes en matière de contraventions au sens de l’art. 12, let. c, du code de procédure pénale (CPP);\nb. les autorités administratives de la Confédération et des cantons qui mènent des procédures pénales ou rendent des décisions pénales;\nc. les autorités d’exécution des peines et mesures;\nd. les services cantonaux des migrations, dans la mesure où ils sont compétents pour l’exécution de l’expulsion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de saisir des données",
+        "citation": "Art. 6 al. 2 LCJ",
+        "content": "Les autorités visées à l’al. 1 sont tenues de transmettre au Service du casier judiciaire ou au SERCO les données qu’elles génèrent lorsque la Confédération ou le canton ne leur assigne pas d’obligation de saisie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de saisir des données",
+        "citation": "Art. 6 al. 3 LCJ",
+        "content": "Les autorités visées à l’al. 1, let. a et c, transmettent au Service du casier judiciaire les jugements et les décisions ultérieures qui ont pour objet une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de transmettre des données en vue de leur saisie",
+        "citation": "Art. 7 al. 1 LCJ",
+        "content": "Les autorités suivantes transmettent au Service du casier judiciaire les données qu’elles génèrent:\na. les autorités de la Confédération compétentes en matière de grâce ou d’amnistie;\nb. les autorités étrangères qui ont la compétence de communiquer des données à l’État d’origine en vertu des traités internationaux applicables;\nc. les ambassades et les consulats de Suisse qui sont en possession de jugements étrangers au sens de l’art. 19.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de transmettre des données en vue de leur saisie",
+        "citation": "Art. 7 al. 2 LCJ",
+        "content": "Les autorités cantonales compétentes en matière de grâce ou d’amnistie transmettent au SERCO les données qu’elles génèrent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Autorités tenues de transmettre des données en vue de leur saisie",
+        "citation": "Art. 7 al. 3 LCJ",
+        "content": "Les tribunaux militaires, les auditeurs et les juges d’instruction militaires transmettent au service de coordination de la justice militaire les données qu’ils génèrent. Sont réservés les cas mentionnés à l’art. 6, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Devoir de renseignement des offices de l’état civil, des services de contrôle des habitants, des services des migrations et de la Centrale de compensation",
+        "citation": "Art. 8 LCJ",
+        "content": "Les offices de l’état civil, les services de contrôle des habitants, les services des migrations et la Centrale de compensation sont tenus de renseigner gratuitement les autorités qui gèrent VOSTRA et celles qui saisissent les données (art. 3 à 6) pour leur permettre d’établir les données d’identification qu’elles doivent traiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_8"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 3, Autorités tenues de saisir ou de transmettre des données ou de fournir des renseignements, Devoir de renseignement des autorités qui saisissent ou transmettent des données et des autorités ayant un droit de consultation",
+        "citation": "Art. 9 LCJ",
+        "content": "Les autorités qui saisissent ou transmettent des données et celles ayant un droit de consultation sont tenues de fournir au Service du casier judiciaire les renseignements dont il a besoin et de lui donner accès aux documents qui ont servi de base à la saisie de données dans VOSTRA ou à la communication de données du casier judiciaire lorsque cela lui est nécessaire pour effectuer les contrôles visés à l’art. 3, al. 2, let. g, et qu’aucun intérêt public prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_9"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 1 LCJ",
+        "content": "Les autorités qui saisissent des données ou qui transmettent des données en vue de leur saisie s’assurent que ces données sont complètes, exactes et à jour.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 2 LCJ",
+        "content": "Si l’autorité qui saisit les données doute de leur exactitude ou constate qu’elles sont incomplètes, elle les renvoie pour vérification à l’autorité qui les a transmises ou se procure les renseignements complémentaires dont elle a besoin. Elle peut imprimer l’extrait du casier judiciaire afin de vérifier l’exactitude des données saisies; le document imprimé est détruit sitôt la vérification terminée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 3 LCJ",
+        "content": "Si l’autorité qui doit saisir des données dans VOSTRA a des doutes sur le fait que la personne concernée soit ou non déjà inscrite au casier judiciaire, elle est tenue, avant de procéder à la saisie:\na. de faire une vérification complète de son identité, de comparer les données d’identification à saisir avec les données correspondantes des offices de l’état civil, des services de contrôle des habitants, des services des migrations et de la Centrale de compensation et, le cas échéant, de rectifier ou de compléter les données d’identification dans VOSTRA, ou\nb. d’envoyer les données pour vérification au Service du casier judiciaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 4 LCJ",
+        "content": "L’autorité chargée de saisir des données doit le faire même si aucun numéro AVS n’a encore été attribué à la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 5 LCJ",
+        "content": "Le Service du casier judiciaire vérifie régulièrement l’exactitude de tous les numéros AVS enregistrés dans VOSTRA et des données d’identification qui y sont associées. Il utilise à cette fin les services Web offerts par la Centrale de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de saisie, de consultation et de transmission",
+        "citation": "Art. 10 al. 6 LCJ",
+        "content": "Si une autorité raccordée qui consulte des données de VOSTRA a des doutes sur le fait que la personne qu’elle recherche soit ou non déjà inscrite au casier judiciaire, elle peut demander au Service du casier judiciaire une vérification de l’identité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de modification des données",
+        "citation": "Art. 11 al. 1 LCJ",
+        "content": "Une autorité ne peut modifier ou éliminer dans VOSTRA que les données qu’elle a saisies elle-même ou qui ont été saisies en son nom.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de modification des données",
+        "citation": "Art. 11 al. 2 LCJ",
+        "content": "Des dérogations à l’al. 1 sont admissibles dans les cas suivants:\na. lorsque l’instruction pénale est déléguée à une autre autorité, cette dernière peut modifier ou éliminer les données relatives à la procédure pénale en cours;\nb. les autorités qui gèrent VOSTRA (art. 3 à 5) peuvent modifier ou éliminer toutes les données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de modification des données",
+        "citation": "Art. 11 al. 3 LCJ",
+        "content": "Le Conseil fédéral peut prévoir d’autres exceptions concernant la modification ou l’élimination des données d’identification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de consultation, de conservation et de communication à des tiers",
+        "citation": "Art. 12 al. 1 LCJ",
+        "content": "Les autorités habilitées à consulter VOSTRA ne peuvent le faire que dans la mesure où l’accomplissement de leurs tâches légales l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de consultation, de conservation et de communication à des tiers",
+        "citation": "Art. 12 al. 2 LCJ",
+        "content": "Les données pénales de VOSTRA ne peuvent pas être conservées dans une autre banque de données, à moins que cela ne soit nécessaire pour motiver une décision prise, une ordonnance rendue ou une étape de procédure engagée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Devoirs de diligence en matière de consultation, de conservation et de communication à des tiers",
+        "citation": "Art. 12 al. 3 LCJ",
+        "content": "Les autorités ne peuvent communiquer les données de VOSTRA à des tiers que si une loi formelle les y autorise expressément et que le but de la communication des données est le même que celui de la consultation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Utilisation systématique du numéro AVS",
+        "citation": "Art. 13 al. 1 LCJ",
+        "content": "Les autorités raccordées ont le droit d’utiliser systématiquement le numéro AVS pour remplir les tâches que leur assigne la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Utilisation systématique du numéro AVS",
+        "citation": "Art. 13 al. 2 LCJ",
+        "content": "L’utilisation du numéro AVS dans VOSTRA n’a lieu qu’à des fins internes au casier judiciaire, soit:\na. pour identifier les personnes avant la saisie ou la consultation de données;\nb. pour échanger automatiquement des données avec d’autres banques de données dans lesquelles le numéro AVS est aussi systématiquement utilisé, à condition que cet échange se base sur une loi formelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Utilisation systématique du numéro AVS",
+        "citation": "Art. 13 al. 3 LCJ",
+        "content": "La recherche d’une personne dans la banque de données «Unique Personal Identifier Database» (UPI) de la Centrale de compensation est lancée depuis VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 4, Principes régissant le traitement des données, Utilisation systématique du numéro AVS",
+        "citation": "Art. 13 al. 4 LCJ",
+        "content": "Le numéro AVS n’est visible que pour les autorités raccordées; il n’est pas communiqué à d’autres autorités ni à des particuliers. Il n’apparaît pas sur les extraits du casier judiciaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 5, Sécurité des données, exigences techniques, communication de données anonymisées, Sécurité des données et exigences techniques",
+        "citation": "Art. 14 LCJ",
+        "content": "Le Conseil fédéral définit les exigences en matière de sécurité des données et les exigences techniques auxquelles doit répondre VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_14"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 5, Sécurité des données, exigences techniques, communication de données anonymisées, Communication de données anonymisées à des fins de recherche",
+        "citation": "Art. 15 LCJ",
+        "content": "Le Conseil fédéral règle la communication de données sous une forme anonymisée à des fins de recherche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_15"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Personnes inscrites dans VOSTRA",
+        "citation": "Art. 16 al. 1 LCJ",
+        "content": "Un adulte est inscrit dans VOSTRA:\na. si un jugement qui doit être saisi en vertu des art. 18, al. 1, et 19, let. d, ch. 1, a été rendu contre lui, ou\nb. si une procédure pénale engagée contre lui pour un crime ou un délit relevant du droit fédéral est en cours en Suisse; cette disposition s’applique aussi aux procédures pénales relevant du droit des mineurs après que la personne concernée a atteint l’âge de 18 ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Personnes inscrites dans VOSTRA",
+        "citation": "Art. 16 al. 2 LCJ",
+        "content": "Un mineur est inscrit dans VOSTRA:\na. si un jugement qui doit être saisi en vertu des art. 18, al. 2 et 3, et 19, let. d, ch. 2, a été rendu contre lui, ou\nb. si une procédure pénale engagée contre lui pour un crime ou un délit relevant du droit fédéral est en cours en Suisse et qu’il n’a pas sa résidence habituelle en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données d’identification de la personne",
+        "citation": "Art. 17 al. 1 LCJ",
+        "content": "Les données d’identification d’une personne comprennent notamment:\na. le numéro AVS et le numéro attribué par le système;\nabis. les numéros de contrôle de processus utilisés pour marquer des données signalétiques;\nb. les noms et la date de naissance;\nc. le sexe;\nd. l’origine;\ne. les noms des père et mère;\nf. le domicile;\ng. le statut en matière de séjour;\nh. des notes à usage interne en vue de l’identification de la personne;\ni. les fausses identités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données d’identification de la personne",
+        "citation": "Art. 17 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Conditions applicables à la saisie des jugements suisses",
+        "citation": "Art. 18 al. 1 LCJ",
+        "content": "Les jugements suisses qui portent sur une infraction relevant du droit fédéral commise par un adulte doivent être saisis:\na. s’ils sont entrés en force;\nb. s’ils ont été rendus par une autorité civile ou militaire de droit pénal ou par une autorité pénale administrative, et\nc. si l’une des conditions suivantes est remplie:\n1. l’auteur a été reconnu coupable d’un crime ou d’un délit, à moins que le jugement ne prévoie une astreinte à un travail d’intérêt public au sens de l’art. 81, al. 3 ou 4, du code pénal militaire du 13 juin 1927 (CPM) ou une peine disciplinaire au sens du CPM, ou qu’aucune peine n’ait été prononcée en vertu de l’art. 52 du code pénal (CP),\n2. l’auteur a été jugé pour un crime ou un délit mais reconnu irresponsable et il a fait l’objet:\n– d’une mesure thérapeutique ou d’un internement (art. 59 à 61, 63 ou 64 CP, art. 47 CPM)\n– d’une interdiction d’exercer une activité (art. 67 CP, art. 50 CPM), d’une interdiction de contact ou d’une interdiction géographique (art. 67b CP, art. 50b CPM)\n– d’une interdiction de conduire (art. 67e CP, art. 50e CPM), ou\n– d’une exclusion de l’armée (art. 48 et 49 CPM),\n3. l’auteur a été reconnu coupable d’une contravention et:\n– il a été puni d’une amende de plus de 5000 francs ou d’un travail d’intérêt général de plus de 180 heures\n– la loi habilite ou contraint expressément l’autorité qui a rendu le jugement à aggraver la peine en cas de nouvelle infraction\n– la contravention fait partie d’un jugement qui porte sur d’autres infractions donnant lieu à la saisie dans VOSTRA\n– une interdiction d’exercer une activité (art. 67 CP, art. 50 CPM) a été ordonnée contre lui, ou\n– une interdiction de contact ou une interdiction géographique (art. 67b CP, art. 50b CPM) a été ordonnée contre lui,\n4. l’auteur a été jugé pour une contravention mais reconnu irresponsable et il a fait l’objet d’une interdiction d’exercer une activité (art. 67 CP, art. 50 CPM), d’une interdiction de contact ou d’une interdiction géographique (art. 67b CP, art. 50b CPM).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Conditions applicables à la saisie des jugements suisses",
+        "citation": "Art. 18 al. 2 LCJ",
+        "content": "Les jugements suisses qui portent sur un crime ou un délit relevant du droit fédéral commis par un mineur doivent être saisis:\na. s’ils sont entrés en force;\nb. s’ils ont été rendus par une autorité civile de droit pénal, et\nc. si l’une des sanctions suivantes a été prononcée:\n1. privation de liberté (art. 25 du droit pénal des mineurs du 20 juin 2003 [DPMin]),\n2. placement (art. 15 DPMin),\n3. traitement ambulatoire (art. 14 DPMin),\n4. interdiction d’exercer une activité (art. 16a, al. 1, DPMin), ou\n5. interdiction de contact ou interdiction géographique (art. 16a, al. 2, DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Conditions applicables à la saisie des jugements suisses",
+        "citation": "Art. 18 al. 3 LCJ",
+        "content": "Les jugements suisses qui portent sur une contravention relevant du droit fédéral commise par un mineur doivent être saisis si la sanction prononcée est une interdiction d’exercer une activité (art. 16a, al. 1, DPMin), une interdiction de contact ou une interdiction géographique (art. 16a, al. 2, DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Conditions applicables à la saisie des jugements étrangers",
+        "citation": "Art. 19 LCJ",
+        "content": "Les jugements étrangers qui portent sur une infraction commise par un ressortissant suisse doivent être saisis:\na. lorsqu’ils ont été communiqués au Service du casier judiciaire en vertu de la convention européenne d’entraide judiciaire en matière pénale du 20 avril 1959, en vertu d’un traité bilatéral ou par une représentation suisse à l’étranger;\nb. lorsqu’ils sont entrés en force;\nc. lorsqu’ils ont pour objet un acte qui n’est pas de nature purement militaire, et\nd. lorsque l’une des sanctions suivantes a été prononcée:\n1. pour les adultes:\n– peine privative de liberté de 30 jours au moins (analogue aux peines prévues aux art. 40 à 43 CP), peine pécuniaire de 30 jours-amende au moins (analogue aux peines prévues aux art. 34, 42 et 43 CP) ou travail d’intérêt général de 120 heures au moins (analogue aux peines prévues aux art. 37, 42, 43 et 107 CP)\n– traitement thérapeutique institutionnel (analogue aux mesures prévues aux art. 59 à 61 CP) ou internement (analogue aux mesures prévues à l’art. 64, al 1 et 1bis, CP), ou\n– interdiction d’exercer une activité (analogue aux mesures prévues aux art. 67 CP et 50 CPM), interdiction de contact ou interdiction géographique (analogues aux mesures prévues aux art. 67b CP et 50b CPM),\n2. pour les mineurs:\n– privation de liberté (analogue à la peine prévue à l’art. 25 DPMin)\n– placement (analogue aux mesures prévues à l’art. 15 DPMin) ou traitement ambulatoire (analogue à la mesure prévue à l’art. 14 DPMin), ou\n– interdiction d’exercer une activité (analogue à la mesure prévue à l’art. 16a, al. 1, DPMin), interdiction de contact ou interdiction géographique (analogues aux mesures prévues à l’art. 16a, al. 2, DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_19"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données relatives au jugement à saisir dans VOSTRA",
+        "citation": "Art. 20 al. 1 LCJ",
+        "content": "Lorsqu’un jugement doit être saisi (art. 16, al. 1, let. a, et 2, let. a), les éléments suivants du dispositif sont enregistrés dans VOSTRA:\na. données d’identification de la personne (art. 17);\nb. informations générales telles que la date du jugement et l’autorité qui l’a rendue;\nc. indications sur le type de jugement, notamment le fait qu’il porte sur une peine complémentaire ou sur une peine d’ensemble;\nd. type de procédure;\ne. infraction commise; le Conseil fédéral peut prévoir une forme simplifiée pour les jugements étrangers;\nf. sanction prononcée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données relatives au jugement à saisir dans VOSTRA",
+        "citation": "Art. 20 al. 2 LCJ",
+        "content": "Lorsqu’une personne fait l’objet d’une interdiction d’exercer une activité, d’une interdiction de contact ou d’une interdiction géographique au sens du CP ou du CPM prononcée en Suisse, les dates de début et de fin d’exécution de la peine privative de liberté ou de la mesure entraînant une privation de liberté sont enregistrées dans VOSTRA si le jugement qui les fonde y est lui aussi enregistré (art. 16, al. 1, let. a, et 2, let. a).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données relatives au jugement à saisir dans VOSTRA",
+        "citation": "Art. 20 al. 3 LCJ",
+        "content": "Lorsqu’un jugement suisse prononçant une expulsion doit être saisi, les éléments suivants sont enregistrés dans VOSTRA:\na. pour calculer le délai selon l’art. 38, al. 4, let. d: la date à laquelle la personne concernée a quitté la Suisse ou, si celle-ci est inconnue, la date à laquelle elle aurait dû quitter la Suisse;\nb. pour calculer le délai selon l’art. 30, al. 2, let. n, 2e partie de la phrase: l’admission de la demande d’une personne naturalisée en Suisse depuis plus de 8 ans d’éliminer le jugement au terme des délais visés à l’art. 30, al. 2, let. a à m.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données relatives au jugement à saisir dans VOSTRA",
+        "citation": "Art. 20 al. 4 LCJ",
+        "content": "Les jugements portant sur une peine complémentaire, une peine partiellement complémentaire ou une peine d’ensemble sont traités comme des jugements distincts. La mention d’une décision éliminée ou qui ne doit pas être saisie est admise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données relatives au jugement à saisir dans VOSTRA",
+        "citation": "Art. 20 al. 5 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées ainsi que les catégories d’infractions à utiliser pour saisir les jugements étrangers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Décisions ultérieures",
+        "citation": "Art. 21 al. 1 LCJ",
+        "content": "Les décisions ultérieures entrées en force se rapportant à un jugement qui doit être saisi sont aussi saisies dans VOSTRA lorsqu’elles portent sur:\na. la libération de l’exécution d’une peine, d’une mesure thérapeutique ou d’un internement;\nb. l’échec de la mise à l’épreuve liée à un sursis ou un sursis partiel;\nc. la levée, la modification ou le prononcé ultérieur d’une mesure thérapeutique, d’un internement, d’un placement ou d’un traitement ambulatoire;\nd. la levée, la modification ou le prononcé ultérieur d’une interdiction d’exercer une activité, d’une interdiction de contact ou d’une interdiction géographique;\ne. une grâce, une amnistie ou un exequatur;\nf. les autres cas désignés par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Décisions ultérieures",
+        "citation": "Art. 21 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Copies électroniques des jugements, des décisions ultérieures et des formulaires de communication",
+        "citation": "Art. 22 al. 1 LCJ",
+        "content": "Une copie électronique complète de l’original des jugements (art. 18) et des décisions ultérieures (art. 21) rendus en Suisse à l’encontre d’un adulte est enregistrée dans VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Copies électroniques des jugements, des décisions ultérieures et des formulaires de communication",
+        "citation": "Art. 22 al. 2 LCJ",
+        "content": "Pour les jugements et les décisions ultérieures rendus à l’étranger (art. 19 et 21), une copie électronique du formulaire de communication est enregistrée dans VOSTRA. Si seul l’original du jugement ou de la décision ultérieure est transmis, aucune copie électronique n’est faite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données générées automatiquement par le système de gestion des données pénales",
+        "citation": "Art. 23 al. 1 LCJ",
+        "content": "Pour toute personne inscrite dans VOSTRA, le système de gestion des données pénales génère automatiquement des données système, notamment:\na. des indications sur l’auteur de la première saisie et de la modification des données;\nb. les avis de récidive aux autorités judiciaires pénales ou aux autorités d’exécution compétentes en cas d’échec de la mise à l’épreuve;\nc. les avis de contrôle générés lorsque certains délais sont atteints et visant la vérification d’évènements pertinents pour la durée de conservation des données;\nd. les avis de contrôle générés lorsqu’aucun numéro AVS n’est attribué;\ne. les avis de contrôle générés aux fins de saisie des dates d’exécution selon l’art. 20, al. 2;\nf. les délais pendant lesquels les données figureront sur les extraits du casier judiciaire;\ng. la mention de la date prévisible de fin d’une interdiction d’exercer une activité, d’une interdiction de contact, d’une interdiction géographique ou d’une expulsion pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Données générées automatiquement par le système de gestion des données pénales",
+        "citation": "Art. 23 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit le contenu exact des avis générés ainsi que la nature et la forme des données système.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Procédures pénales en cours",
+        "citation": "Art. 24 al. 1 LCJ",
+        "content": "Les procédures pénales en cours au sens de l’art. 16, al. 1, let. b, et 2, let. b, sont saisies dans VOSTRA:\na. dès l’ouverture de l’instruction par la direction de la procédure (art. 309, al. 1, CPP, art. 103, al. 1, de la procédure pénale militaire du 23 mars 1979, art. 38, al. 1, de la loi fédérale du 22 mars 1974 sur le droit pénal administratif);\nb. si aucune instruction n’a été ouverte, dès qu’une ordonnance pénale a été rendue, ou\nc. si une procédure pénale relevant du droit des mineurs est en cours contre une personne qui a sa résidence habituelle en Suisse, dès que cette personne atteint l’âge de 18 ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Procédures pénales en cours",
+        "citation": "Art. 24 al. 2 LCJ",
+        "content": "Les données suivantes sont enregistrées:\na. les données d’identification du prévenu (art. 17);\nb. la date d’ouverture de l’instruction ou, si aucune instruction n’a été ouverte, celle à laquelle l’ordonnance pénale a été rendue (art. 309, al. 4, CPP);\nc. la direction de la procédure compétente;\nd. l’infraction reprochée au prévenu;\ne. les modifications importantes des faits visés aux let. a à d, notamment la délégation de la procédure ou la modification de l’accusation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 1, Données saisies dans le système de gestion des données pénales, Procédures pénales en cours",
+        "citation": "Art. 24 al. 3 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées ainsi que l’autorité compétente pour enregistrer une délégation de procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Journalisation des consultations effectuées par les autorités",
+        "citation": "Art. 25 al. 1 LCJ",
+        "content": "Lorsqu’une autorité consulte en ligne les données pénales du casier judiciaire, le nom de cette autorité, la date et l’heure de la consultation, son but, les données pénales consultées et les personnes auxquelles elles se rapportent sont automatiquement journalisés dans VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Journalisation des consultations effectuées par les autorités",
+        "citation": "Art. 25 al. 2 LCJ",
+        "content": "Les consultations effectuées par les autorités qui gèrent VOSTRA ne sont journalisées que lorsqu’elles servent à la saisie initiale des données pénales ou à l’établissement d’un extrait sur demande écrite d’une autorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Journalisation des consultations effectuées par les autorités",
+        "citation": "Art. 25 al. 3 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Journalisation des consultations effectuées par les autorités",
+        "citation": "Art. 25 al. 4 LCJ",
+        "content": "Les données journalisées ne peuvent être utilisées que dans l’exercice du droit d’accès de la personne concernée (art. 57) ou en vue des contrôles effectués par le Service du casier judiciaire (art. 3, al. 2, let. g).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes en ligne d’extraits d’un casier judiciaire étranger",
+        "citation": "Art. 26 al. 1 LCJ",
+        "content": "Les demandes en ligne d’extraits d’un casier judiciaire étranger sont enregistrées et traitées dans VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes en ligne d’extraits d’un casier judiciaire étranger",
+        "citation": "Art. 26 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes d’extraits et d’extraits spéciaux destinés aux particuliers",
+        "citation": "Art. 27 al. 1 LCJ",
+        "content": "Les données personnelles relatives aux demandes d’extraits destinés aux particuliers (art. 41) et d’extraits spéciaux destinés aux particuliers (art. 42) sont enregistrées et traitées dans VOSTRA et dans une banque de données auxiliaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes d’extraits et d’extraits spéciaux destinés aux particuliers",
+        "citation": "Art. 27 al. 2 LCJ",
+        "content": "Aucune donnée sensible n’est enregistrée dans la banque de données auxiliaire. Celle-ci sert uniquement au traitement des procédures de demande d’extraits; elle contient les données nécessaires à la vérification de l’identité du requérant et à sa localisation, à la commande et à son traitement, au paiement des émoluments, à l’envoi des extraits du casier judiciaire, ainsi qu’à la déclaration selon l’art. 55, al. 4. Le Conseil fédéral définit la nature et la forme des données qui doivent être enregistrées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes d’extraits et d’extraits spéciaux destinés aux particuliers",
+        "citation": "Art. 27 al. 3 LCJ",
+        "content": "Certaines données de la banque auxiliaire sont transférées dans VOSTRA par le biais d’une interface électronique dans le cadre de l’élaboration de l’extrait. Le Conseil fédéral détermine les données transférées et définit précisément la configuration du processus de transfert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 2, Données saisies en dehors du système de gestion des données pénales, Données concernant les demandes d’extraits et d’extraits spéciaux destinés aux particuliers",
+        "citation": "Art. 27 al. 4 LCJ",
+        "content": "Une copie électronique de l’extrait délivré est enregistrée dans VOSTRA; elle peut contenir des données pénales. La copie sert à la vérification de l’authenticité de l’extrait délivré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 3, Délais de saisie des données dans VOSTRA",
+        "citation": "Art. 28 LCJ",
+        "content": "Le Conseil fédéral fixe les délais de saisie de chaque catégorie de données dans VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_28"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination en cas de décès",
+        "citation": "Art. 29 al. 1 LCJ",
+        "content": "Toutes les données se rapportant à une personne sont éliminées de VOSTRA dès que le décès de celle-ci est annoncé par une autorité ou constaté par le Service du casier judiciaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination en cas de décès",
+        "citation": "Art. 29 al. 2 LCJ",
+        "content": "Des interfaces électroniques avec le registre de l’état civil (art. 66) et le système d’information central sur la migration (SYMIC; art. 65) peuvent être mises en place en vue de l’annonce des décès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination en cas de décès",
+        "citation": "Art. 29 al. 3 LCJ",
+        "content": "Lorsqu’une personne inscrite au casier judiciaire atteint l’âge de 80 ans selon les données d’identification enregistrées dans VOSTRA, le Service du casier judiciaire vérifie si cette personne est encore en vie. Il renouvelle l’examen tous les 5 ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination en cas de décès",
+        "citation": "Art. 29 al. 4 LCJ",
+        "content": "Toutes les données se rapportant à des ressortissants étrangers qui ne résident pas en Suisse sont éliminées de VOSTRA lorsqu’ils atteignent l’âge de 100 ans selon les données d’identification enregistrées dans VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des jugements",
+        "citation": "Art. 30 al. 1 LCJ",
+        "content": "Les jugements suisses et étrangers se rapportant à une personne sont éliminés de VOSTRA dès que tous les délais prévus pour ces jugements sont écoulés. L’al. 5 est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des jugements",
+        "citation": "Art. 30 al. 2 LCJ",
+        "content": "Les délais applicables sont les suivants:\na. les jugements prononçant une peine privative de liberté ferme ou une peine privative de liberté assortie d’un sursis ou d’un sursis partiel qui a été révoqué sont éliminés lorsqu’il s’est écoulé, depuis la fin de la durée de la peine fixée dans le jugement: \n1. 25 ans, en cas de peine privative de liberté de 5 ans au moins,\n2. 20 ans, en cas de peine privative de liberté d’un an au moins et de moins de 5 ans,\n3. 15 ans, en cas de peine privative de liberté de moins d’un an,\n4. 12 ans, en cas de privation de liberté au sens de l’art. 25 DPMin;\nb. si une peine privative de liberté ou une privation de liberté antérieure est enregistrée dans VOSTRA, sa durée s’ajoute au délai visé à la let. a;\nc. les jugements dans lesquels est prononcée une peine privative de liberté à vie ou dans lesquels la culpabilité de l’auteur a été reconnue pour l’une des infractions visées aux dispositions ci-après sont éliminés, en dérogation aux autres délais fixés dans le présent alinéa, au décès de la personne concernée:\n1. CP: art. 111, 112, 122, 140, ch. 4, 182, al. 2, 185, ch. 2 et 3, 187, ch. 1, 189, al. 3, 190, 191, 221, al. 2, 264 à 264j,\n2. CPM: art. 108 à 114, 115, 116, 121, 132, ch. 4, 151c, ch. 2 et 3, 153, al. 2, 154, 155, 156, ch. 1, 160, al. 2;\nd. les jugements dans lesquels est prononcée une peine privative de liberté assortie d’un sursis ou d’un sursis partiel qui n’a pas été révoqué, une peine pécuniaire, un travail d’intérêt général ou une amende relevant du droit pénal des adultes sont éliminés après 15 ans;\ne. les jugements dans lesquels est prononcée une privation de liberté au sens de l’art. 25 DPMin assortie d’un sursis ou d’un sursis partiel qui n’a pas été révoqué sont éliminés après 10 ans;\nf. les jugements dans lesquels la culpabilité de l’auteur est reconnue mais aucune peine n’est prononcée sont éliminés après 15 ans;\ng. les jugements dans lesquels est ordonnée une mesure institutionnelle, seule ou en plus d’une peine, ou une mesure transformée par la suite en mesure institutionnelle, et les jugements ayant donné lieu à une mesure institutionnelle ordonnée ultérieurement (art. 65 CP) sont éliminés:\n1. après 20 ans, en cas de mesure au sens des art. 59 à 61 ou 64 CP,\n2. après 12 ans, en cas de placement en établissement fermé au sens de l’art. 15, al. 2, DPMin,\n3. après 10 ans, en cas de placement dans un établissement ouvert ou chez des particuliers au sens de l’art. 15, al. 1, DPMin;\nh. la durée d’un éventuel reste de la peine, qu’il soit exécuté ou non, s’ajoute au délai visé à la let. g;\ni. les jugements dans lesquels est ordonné un traitement ambulatoire au sens de l’art. 63 CP, exclusivement ou accompagné uniquement d’une mesure au sens de la let. k, sont éliminés après 15 ans; la let. g est réservée;\nj. les jugements dans lesquels est ordonné un traitement ambulatoire au sens de l’art. 14 DPMin sont éliminés après 8 ans s’il n’est pas possible de calculer le délai conformément aux let. a à h;\nk. les jugements dans lesquels est ordonné exclusivement un cautionnement préventif, une interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM, une interdiction de conduire ou une exclusion de l’armée au sens de l’art. 48 CPM sont éliminés après 15 ans;\nl. si une sanction plus légère est prononcée dans un exequatur suisse relatif à un jugement étranger, c’est cette sanction qui est déterminante pour le calcul du délai;\nm. les jugements dans lesquels est ordonnée une interdiction d’exercer une activité au sens de l’art. 67, al. 2, 3 ou 4, CP, de l’art. 50, al. 2, 3, ou 4, CPM ou de l’art. 16a, al. 1, DPMin, ou bien une interdiction de contact ou une interdiction géographique, et les jugements ayant donné lieu à une telle mesure ordonnée ultérieurement sont éliminés après 15 ans; les délais fixés aux let. a à l et n s’appliquent s’ils sont plus longs;\nn. les jugements dans lesquels est prononcée une expulsion sont éliminés au décès de la personne concernée; si la personne acquiert la nationalité suisse, elle peut demander au Service du casier judiciaire, 8 ans plus tard, l’élimination du jugement au terme des délais visés aux let. a à m.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des jugements",
+        "citation": "Art. 30 al. 3 LCJ",
+        "content": "Les délais visés à l’al. 2 commencent à courir:\na. le jour où le jugement entre en force, pour les jugements visés à l’al. 2, let. a, c à f et k;\nb. le jour où la mesure ordonnée dans le jugement est levée, celui où la personne concernée en est libérée définitivement ou celui où l’autorité renonce à faire exécuter la mesure (art. 64, al. 3, et 64c, al. 6, CP), pour les jugements visés à l’al. 2, let. g, i et j; si la mesure ordonnée dans le jugement est transformée en une mesure institutionnelle, le délai commence à courir lorsque la dernière mesure institutionnelle ordonnée atteint son terme;\nc. le jour où la dernière interdiction atteint son terme, pour les jugements visés à l’al. 2, let. m, 1re partie de la phrase.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des jugements",
+        "citation": "Art. 30 al. 4 LCJ",
+        "content": "Si un nouveau jugement est rendu à la suite d’une révision, du réexamen d’un jugement par défaut ou de la reprise de la procédure préliminaire, le délai est calculé comme si ce nouveau jugement avait été rendu à la date à laquelle le jugement annulé l’a été.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des jugements",
+        "citation": "Art. 30 al. 5 LCJ",
+        "content": "Tout jugement annulé est aussitôt éliminé. En cas d’annulation à la suite d’une révision ou du réexamen d’un jugement par défaut, la mention du jugement annulé est admise lorsqu’elle est nécessaire pour calculer le délai au terme duquel le nouveau jugement sera éliminé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des décisions ultérieures, des données système et des copies électroniques",
+        "citation": "Art. 31 al. 1 LCJ",
+        "content": "Les décisions ultérieures (art. 21), les données système (art. 23) et les copies électroniques (art. 22) sont éliminées de VOSTRA en même temps que les données visées à l’art. 16 auxquelles elles se rapportent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des décisions ultérieures, des données système et des copies électroniques",
+        "citation": "Art. 31 al. 2 LCJ",
+        "content": "Toute décision ultérieure annulée est aussitôt éliminée, ainsi que sa copie électronique, même si le jugement auquel elle se rapporte ne l’est pas encore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des décisions ultérieures, des données système et des copies électroniques",
+        "citation": "Art. 31 al. 3 LCJ",
+        "content": "Les données système qui déclenchent une requête automatique à une autre autorité sont éliminées dès que cette autorité a répondu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des procédures pénales en cours",
+        "citation": "Art. 32 al. 1 LCJ",
+        "content": "Les procédures pénales en cours (art. 24) sont éliminées de VOSTRA dès qu’un jugement entré en force clôt la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des procédures pénales en cours",
+        "citation": "Art. 32 al. 2 LCJ",
+        "content": "Toute procédure pénale suspendue demeure enregistrée dans VOSTRA jusqu’au classement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des procédures pénales en cours",
+        "citation": "Art. 32 al. 3 LCJ",
+        "content": "L’autorité qui rend un jugement définitif au sens de l’al. 1 s’assure que la procédure pénale est éliminée de VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Élimination des autres données",
+        "citation": "Art. 33 LCJ",
+        "content": "Les autres données sont éliminées de VOSTRA comme suit:\na. données journalisées concernant les consultations effectuées par les autorités (art. 25): 2 ans après la consultation;\nb. données relatives aux demandes en ligne d’extraits d’un casier judiciaire étranger (art. 26): dès que l’autorité étrangère a répondu, mais au plus tard un an après leur saisie;\nc. données relatives aux demandes d’extraits et d’extraits spéciaux destinés aux particuliers (art. 27): 2 ans après la date de dépôt de la demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_33"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Destruction des données éliminées et interdiction de les archiver",
+        "citation": "Art. 34 al. 1 LCJ",
+        "content": "Les données éliminées de VOSTRA en vertu des art. 29 à 33 sont détruites et ne sont pas archivées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 6, Contenu de VOSTRA, Chapitre 4, Élimination des données du casier judiciaire et interdiction de les archiver, Destruction des données éliminées et interdiction de les archiver",
+        "citation": "Art. 34 al. 2 LCJ",
+        "content": "Les données ne doivent pas pouvoir être reconstituées après leur élimination. Les données journalisées conformément à l’art. 25 peuvent être conservées jusqu’à leur élimination au sens de l’art. 33, let. a, même si les données auxquelles elles se rapportent ont été éliminées du système de gestion des données pénales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Correspondance entre le profil de consultation et la catégorie d’extrait",
+        "citation": "Art. 35 al. 1 LCJ",
+        "content": "La consultation des données du casier judiciaire par des autorités et des particuliers (art. 43 à 56) se fonde sur des profils de consultation prédéfinis (art. 37 à 42).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Correspondance entre le profil de consultation et la catégorie d’extrait",
+        "citation": "Art. 35 al. 2 LCJ",
+        "content": "À chaque profil de consultation du système de gestion des données pénales correspond un extrait du casier judiciaire qui peut être affiché en ligne ou imprimé. Le Conseil fédéral détermine dans quelle mesure l’extrait imprimé et l’extrait consulté en ligne diffèrent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Correspondance entre le profil de consultation et la catégorie d’extrait",
+        "citation": "Art. 35 al. 3 LCJ",
+        "content": "Les autorités qui ont un droit de consultation en ligne non opérationnel peuvent demander par écrit un extrait correspondant à leur profil de consultation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Calcul des délais pour les sanctions prononcées dans les jugements relevant de l’ancien droit et dans les jugements étrangers",
+        "citation": "Art. 36 al. 1 LCJ",
+        "content": "Les délais au terme desquels les données cessent de figurer sur l’extrait du casier judiciaire en vertu des art. 37 à 42 s’appliquent par analogie aux sanctions prononcées dans les jugements relevant de l’ancien droit et dans les jugements étrangers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Calcul des délais pour les sanctions prononcées dans les jugements relevant de l’ancien droit et dans les jugements étrangers",
+        "citation": "Art. 36 al. 2 LCJ",
+        "content": "En cas de jugement étranger, est considérée comme durée de l’interdiction d’exercer une activité, de l’interdiction de contact ou de l’interdiction géographique celle inscrite dans le jugement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 1, Dispositions générales, Calcul des délais pour les sanctions prononcées dans les jugements relevant de l’ancien droit et dans les jugements étrangers",
+        "citation": "Art. 36 al. 3 LCJ",
+        "content": "Les expulsions pénales prononcées dans des jugements étrangers ne sont pas prises en compte pour le calcul des délais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 1 destiné aux autorités",
+        "citation": "Art. 37 al. 1 LCJ",
+        "content": "L’extrait 1 destiné aux autorités permet de consulter les données suivantes:\na. données d’identification de la personne (art. 17);\nb. jugements (art. 18 à 20);\nc. décisions ultérieures (art. 21);\nd. le cas échéant, copies électroniques des jugements, des décisions ultérieures et des formulaires de communication (art. 22), sous réserve des exceptions prévues aux art. 45, al. 2, et 52, al. 3, relatives à la communication d’extraits aux autorités étrangères;\ne. procédures pénales en cours (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 1 destiné aux autorités",
+        "citation": "Art. 37 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit les données système (art. 23) qui peuvent être consultées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 1 destiné aux autorités",
+        "citation": "Art. 37 al. 3 LCJ",
+        "content": "Les données visées aux al. 1 et 2 cessent de figurer sur l’extrait 1 destiné aux autorités quand les délais fixés aux art. 29 à 32 sont écoulés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 2 destiné aux autorités",
+        "citation": "Art. 38 al. 1 LCJ",
+        "content": "L’extrait 2 destiné aux autorités permet de consulter les données figurant sur l’extrait 1 destiné aux autorités (art. 37, al. 1), à l’exception des copies électroniques des jugements et des décisions ultérieures (art. 22, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 2 destiné aux autorités",
+        "citation": "Art. 38 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit les données système (art. 23) qui peuvent être consultées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 2 destiné aux autorités",
+        "citation": "Art. 38 al. 3 LCJ",
+        "content": "Les données se rapportant à un jugement cessent de figurer sur l’extrait 2 destiné aux autorités à l’expiration des délais suivants:\na. les jugements prononçant une peine privative de liberté ferme ou une peine privative de liberté assortie d’un sursis ou d’un sursis partiel qui a été révoqué cessent de figurer sur l’extrait lorsqu’il s’est écoulé, depuis la fin de la durée de la peine fixée dans le jugement:\n1. 20 ans, en cas de peine privative de liberté de 5 ans au moins,\n2. 15 ans, en cas de peine privative de liberté d’un an au moins et de moins de 5 ans,\n3. 10 ans, en cas de peine privative de liberté de moins d’un an,\n4. 10 ans, en cas de privation de liberté au sens de l’art. 25 DPMin;\nb. si une peine privative de liberté ou une privation de liberté antérieure est enregistrée dans VOSTRA, sa durée s’ajoute au délai visé à la let. a;\nc. les jugements dans lesquels est prononcée une peine privative de liberté à vie figurent sur l’extrait jusqu’au décès de la personne concernée;\nd. les jugements dans lesquels est prononcé une peine privative de liberté assortie d’un sursis ou d’un sursis partiel qui n’a pas été révoqué, une peine pécuniaire, un travail d’intérêt général ou une amende relevant du droit pénal des adultes cessent de figurer sur l’extrait après 10 ans;\ne. les jugements dans lesquels est prononcée une privation de liberté au sens de l’art. 25 DPMin assortie d’un sursis ou d’un sursis partiel qui n’a pas été révoqué cessent de figurer sur l’extrait après sept ans;\nf. les jugements dans lesquels la culpabilité de l’auteur est reconnue mais aucune peine n’est prononcée cessent de figurer sur l’extrait après 10 ans;\ng. les jugements dans lesquels est ordonnée une mesure institutionnelle, seule ou en plus d’une peine, ou une mesure transformée par la suite en mesure institutionnelle et les jugements ayant donné lieu à une mesure institutionnelle ordonnée ultérieurement (art. 65 CP) cessent de figurer sur l’extrait:\n1. après 15 ans, en cas de mesure au sens des art. 59 à 61 ou 64 CP,\n2. après 10 ans, en cas de placement en établissement fermé au sens de l’art. 15, al. 2, DPMin,\n3. après 7 ans, en cas de placement dans un établissement ouvert ou chez des particuliers au sens de l’art. 15, al. 1, DPMin;\nh. la durée d’un éventuel reste de la peine, qu’il soit exécuté ou non, s’ajoute au délai visé à la let. g;\ni. les jugements dans lesquels est ordonné un traitement ambulatoire au sens de l’art. 63 CP, exclusivement ou accompagné uniquement d’une mesure au sens de la let. k, cessent de figurer sur l’extrait après 10 ans; la let. g est réservée;\nj. les jugements dans lesquels est ordonné un traitement ambulatoire au sens de l’art. 14 DPMin cessent de figurer sur l’extrait après 5 ans s’il n’est pas possible de calculer le délai conformément aux let. a à h;\nk. les jugements dans lesquels est ordonné exclusivement un cautionnement préventif, une interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM, une interdiction de conduire ou une exclusion de l’armée au sens de l’art. 48 CPM cessent de figurer sur l’extrait après 10 ans;\nl. si une sanction plus légère est prononcée dans un exequatur suisse relatif à un jugement étranger, c’est cette sanction qui est déterminante pour le calcul du délai;\nm. les jugements dans lesquels est ordonnée une interdiction d’exercer une activité au sens de l’art. 67, al. 2, 3 ou 4, CP, de l’art. 50, al. 2, 3, ou 4, CPM ou de l’art. 16a, al. 1, DPMin, ou bien une interdiction de contact ou une interdiction géographique, et les jugements ayant donné lieu à une telle mesure ordonnée ultérieurement cessent de figurer sur l’extrait après 10 ans; les délais fixés aux let. a à l et n s’appliquent s’ils sont plus longs;\nn. les jugements dans lesquels est ordonnée une expulsion figurent aussi longtemps sur l’extrait que la personne concernée est sous le coup de cette dernière; les délais fixés aux let. a à m s’appliquent s’ils sont plus longs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 2 destiné aux autorités",
+        "citation": "Art. 38 al. 4 LCJ",
+        "content": "Les délais visés à l’al. 3 commencent à courir:\na. le jour où le jugement entre en force, pour les jugements visés à l’al. 3, let. a, c à f et k;\nb. le jour où la mesure ordonnée dans le jugement est levée, celui où la personne concernée en est libérée définitivement ou celui où l’autorité renonce à faire exécuter la mesure (art. 64, al. 3, et 64c, al. 6, CP), pour les jugements visés à l’al. 3, let. g, i et j; si la mesure ordonnée dans le jugement est transformée en une mesure institutionnelle, le délai commence à courir lorsque la dernière mesure institutionnelle ordonnée atteint son terme;\nc. le jour où la dernière interdiction atteint son terme, pour les jugements visés à l’al. 3, let. m, 1re partie de la phrase;\nd. le jour où la personne concernée a quitté la Suisse ou, si celui-ci est inconnu, le jour où elle aurait dû quitter la Suisse, pour les jugements visés à l’al. 3, let. n.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 2 destiné aux autorités",
+        "citation": "Art. 38 al. 5 LCJ",
+        "content": "Si un nouveau jugement ou une nouvelle décision est rendu à la suite d’une révision, du réexamen d’un jugement par défaut ou de la reprise de la procédure préliminaire, le délai est calculé comme si ce nouveau jugement ou cette nouvelle décision avait été rendu à la date à laquelle l’a été le jugement ou la décision annulé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 3 destiné aux autorités",
+        "citation": "Art. 39 LCJ",
+        "content": "L’extrait 3 destiné aux autorités permet de consulter les données figurant sur l’extrait 2 destiné aux autorités (art. 38), à l’exception des procédures pénales en cours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_39"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 4 destiné aux autorités",
+        "citation": "Art. 40 al. 1 LCJ",
+        "content": "L’extrait 4 destiné aux autorités permet de consulter les données suivantes:\na. données d’identification de la personne (art. 17);\nb. jugements suisses rendus contre des adultes (art. 18, al. 1) dans lesquels a été prononcée:\n1. une sanction pour crime ou délit,\n2. en cas de contravention, une interdiction d’exercer une activité, une interdiction de contact ou une interdiction géographique;\nc. jugements étrangers rendus contre des adultes (art. 19, let. d, ch. 1);\nd. jugements suisses et étrangers rendus contre des mineurs (art. 18, al. 2 et 3, et 19, let. d, ch. 2), lorsque la personne concernée a été condamnée en tant qu’adulte pour d’autres actes qui figurent sur l’extrait 4 destiné aux autorités; cette règle s’applique aussi aux personnes qui ont fait l’objet d’un jugement mixte relevant de l’art. 3, al. 2, DPMin;\ne. décisions ultérieures (art. 21) et copies électroniques de formulaires de communication (art. 22, al. 2) se rapportant à un jugement qui figure sur l’extrait 4 destiné aux autorités;\nf. procédures pénales en cours (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 4 destiné aux autorités",
+        "citation": "Art. 40 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit les données système (art. 23) qui peuvent être consultées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait 4 destiné aux autorités",
+        "citation": "Art. 40 al. 3 LCJ",
+        "content": "Les données se rapportant à un jugement cessent de figurer sur l’extrait 4 destiné aux autorités à l’expiration des délais suivants:\na. les jugements dans lesquels une sanction a été prononcée cessent de figurer sur l’extrait lorsque les deux tiers du délai fixé à l’art. 38, al. 3, let. a à l, sont écoulés; ils y figurent cependant au moins jusqu’au terme d’une expulsion prononcée par le jugement et au moins jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée dans le jugement ou ultérieurement; en cas de peine privative de liberté à vie, le jugement cesse de figurer sur l’extrait au décès de la personne concernée;\nb. les jugements dans lesquels a été prononcée une peine assortie d’un sursis ou d’un sursis partiel qui n’a pas été révoqué, sans qu’aucune mesure institutionnelle ait été ordonnée simultanément ou ultérieurement, cessent de figurer sur l’extrait lorsque le condamné a subi avec succès la mise à l’épreuve; ils y figurent cependant au moins jusqu’au terme d’une expulsion prononcée par le jugement et au moins jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée simultanément ou ultérieurement; il y a échec de la mise à l’épreuve lorsqu’une décision ultérieure au sens de l’art. 46 CP est saisie dans VOSTRA;\nc. les jugements suisses dans lesquels a été prononcée exclusivement une amende pour crime ou délit cessent de figurer sur l’extrait lorsque le condamné a subi avec succès une mise à l’épreuve de 2 ans; ils y figurent cependant au moins jusqu’au terme d’une expulsion prononcée par le jugement et au moins jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée simultanément ou ultérieurement; le délai d’épreuve commence à courir à la notification du jugement; il y a succès de la mise à l’épreuve lorsqu’aucun nouveau crime ou délit n’a été commis durant le délai d’épreuve;\nd. les jugements dans lesquels ont été ordonnées une ou plusieurs des interdictions suivantes, exclusivement ou uniquement accompagné d’une expulsion, cessent de figurer sur l’extrait sept ans après leur entrée en force; ils y figurent cependant au moins jusqu’au terme d’une expulsion prononcée par le jugement et au moins jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée ultérieurement:\n1. interdiction d’exercer une activité au sens de l’art. 67, al. 2, 3 ou 4, CP, de l’art. 50, al. 2, 3, ou 4 CPM ou de l’art. 16a, al. 1, DPMin,\n2. interdiction de contact ou interdiction géographique ordonnée à l’encontre d’un adulte (art. 67b CP, art. 50b CPM),\n3. interdiction de contact ou interdiction géographique ordonnée à l’encontre d’un mineur (art. 16a, al. 2, DPMin) pour protéger des mineurs ou d’autres personnes particulièrement vulnérables;\ne. les jugements dans lesquels a été ordonnée exclusivement une interdiction de contact ou une interdiction géographique à l’encontre d’un mineur (art. 16a, al. 2, DPMin) dans d’autres buts que la protection de mineurs ou d’autres personnes particulièrement vulnérables cessent de figurer sur l’extrait une fois l’interdiction arrivée à son terme, y compris lorsque l’interdiction a été ordonnée ultérieurement;\nf. les jugements figurent sur l’extrait au-delà du délai fixé aux let. a à e si l’extrait contient un autre jugement pour lequel le délai n’est pas écoulé, mais au plus tard jusqu’à l’expiration du délai fixé à l’art. 38, al. 3, let. a à l, exceptionnellement plus longtemps: jusqu’au terme d’une expulsion ordonnée dans le jugement; les jugements visés à la let. d y figurent 10 ans au plus après leur entrée en force, mais exceptionnellement plus longtemps: jusqu’au terme d’une expulsion ordonnée dans le jugement et jusqu’au terme d’une éventuelle interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM ordonnée ultérieurement; les jugements visés à la let. e y figurent 5 ans au plus après que l’interdiction a atteint son terme, y compris lorsque cette dernière a été ordonnée ultérieurement;\ng. les jugements figurent sur l’extrait au-delà du délai fixé aux let. a à f si une interdiction d’exercer une activité au sens de l’art. 67, al. 1, CP ou de l’art. 50, al. 1, CPM est ordonnée ultérieurement (art. 67d, al. 1, CP), aussi longtemps que la nouvelle interdiction a effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait destiné aux particuliers",
+        "citation": "Art. 41 LCJ",
+        "content": "L’extrait destiné aux particuliers permet de consulter les données figurant sur l’extrait 4 destiné aux autorités (art. 40), à l’exception des données sur les procédures pénales en cours (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_41"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 42 al. 1 LCJ",
+        "content": "L’extrait spécial destiné aux particuliers permet de consulter les données suivantes:\na. données d’identification de la personne (art. 17);\nb. jugements suisses et étrangers rendus contre des adultes (art. 18, al. 1, et 19, let. d, ch. 1), si une des interdictions suivantes ou une interdiction étrangère analogue a été ordonnée dans le jugement ou dans une décision ultérieure:\n1. une interdiction d’exercer une activité au sens de l’art. 67, al. 2, 3 ou 4, CP ou de l’art. 50, al. 2, 3 ou 4, CPM,\n2. une interdiction de contact ou une interdiction géographique au sens de l’art. 67b CP ou de l’art. 50b CPM, ordonnée pour protéger des mineurs ou d’autres personnes particulièrement vulnérables;\nc. jugements suisses et étrangers rendus contre des mineurs (art. 18, al. 2 et 3, et 19, let. d, ch. 2), si une des interdictions suivantes ou une interdiction étrangère analogue a été ordonnée dans le jugement ou dans une décision ultérieure:\n1. une interdiction d’exercer une activité au sens de l’art. 16a, al. 1, DPMin,\n2. une interdiction de contact ou une interdiction géographique au sens de l’art. 16a, al. 2, DPMin, ordonnée pour protéger des mineurs ou d’autres personnes particulièrement vulnérables;\nd. décisions ultérieures (art. 21) et copies électroniques de formulaires de communication (art. 22, al. 2) se rapportant à un jugement qui figure sur l’extrait spécial destiné aux particuliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 42 al. 2 LCJ",
+        "content": "Le Conseil fédéral définit les données système (art. 23) qui peuvent être consultées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 1, Profils de consultation et catégories d’extraits dans le système de gestion des données pénales, Section 2, Profils de consultation, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 42 al. 3 LCJ",
+        "content": "Toutes les données se rapportant à un jugement au sens de l’al. 1 figurent sur l’extrait spécial destiné aux particuliers aussi longtemps qu’une interdiction relevant de l’al. 1, let. b ou c, en relation avec ce jugement a effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation en ligne du Service du casier judiciaire et de ses fournisseurs de services informatiques",
+        "citation": "Art. 43 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire peut consulter en ligne toutes les données de VOSTRA (art. 16 à 27) afin de le gérer conformément à l’art. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation en ligne du Service du casier judiciaire et de ses fournisseurs de services informatiques",
+        "citation": "Art. 43 al. 2 LCJ",
+        "content": "Les fournisseurs de services informatiques auxquels le Service du casier judiciaire a confié des tâches de maintenance et de programmation peuvent consulter les données visées à l’al. 1 dans la mesure où l’accomplissement de leurs tâches l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation en ligne des SERCO et du service de coordination de la justice militaire",
+        "citation": "Art. 44 al. 1 LCJ",
+        "content": "Les SERCO et le service de coordination de la justice militaire peuvent consulter en ligne les données du casier judiciaire dans les limites du profil de consultation des autorités pour lesquelles ils saisissent des données et établissent des extraits du casier judiciaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation en ligne des SERCO et du service de coordination de la justice militaire",
+        "citation": "Art. 44 al. 2 LCJ",
+        "content": "Ils ont accès à toutes les données du casier judiciaire, à l’exception:\na. des données journalisées concernant les consultations effectuées par les autorités (art. 25);\nb. des données relatives aux demandes en ligne d’extraits d’un casier judiciaire étranger (art. 26);\nc. des données relatives aux demandes d’extraits et d’extraits spéciaux destinés aux particuliers (art. 27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation en ligne de l’extrait 1 destiné aux autorités",
+        "citation": "Art. 45 al. 1 LCJ",
+        "content": "Seules les autorités raccordées suivantes peuvent consulter en ligne toutes les données figurant sur l’extrait 1 destiné aux autorités (art. 37), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci-après:\na. les tribunaux civils de droit pénal, les ministères publics de la Confédération et des cantons, les autorités pénales des mineurs au sens des art. 6, al. 1, let. b et c, et 7 PPMin et les autorités pénales compétentes en matière de contravention au sens de l’art. 12, let. c, CPP:pour conduire des procédures pénales, en particulier pour:\n– clarifier les questions de compétence\n– examiner les antécédents d’un prévenu afin de fixer la peine et d’établir un pronostic\n– constater et évaluer un échec de la mise à l’épreuve\n– examiner la réputation d’experts, de témoins et de personnes appelées à donner des renseignements\n– transmettre des informations sur les antécédents d’un prévenu aux experts psychiatriques;\nb. les autorités administratives de la Confédération et des cantons qui mènent des procédures pénales ou rendent des décisions pénales en application du droit fédéral:pour conduire des procédures pénales, en particulier pour:\n– clarifier les questions de compétence\n– examiner les antécédents d’un prévenu afin de fixer la peine et d’établir un pronostic\n– constater et évaluer un échec de la mise à l’épreuve\n– examiner la réputation d’experts, de témoins et de personnes appelées à donner des renseignements\n– transmettre des informations sur les antécédents d’un prévenu aux experts psychiatriques;\nc. le service de l’Office fédéral de la justice chargé de l’entraide judiciaire internationale:pour conduire des procédures d’entraide judiciaire internationale et des procédures d’extradition;\nd. les autorités d’exécution des peines et mesures (y compris les services d’assistance de probation, les tribunaux d’application des peines et mesures et les autorités d’instruction chargées de l’exécution dans la procédure pénale applicable aux mineurs):pour assurer l’exécution des peines et des mesures, en particulier pour:\n– établir les plans d’exécution\n– faire effectuer le travail thérapeutique sur l’infraction\n– établir un pronostic en vue de l’octroi d’un allègement dans l’exécution ou d’une décision ultérieure en relation avec une mesure\n– vérifier l’existence éventuelle de peines non exécutées en vue d’une libération conditionnelle\n– évaluer le risque de nouvelles infractions dans le cadre de l’assistance de probation\n– éviter des décisions contradictoires concernant un échec de la mise à l’épreuve ou un allègement dans l’exécution;\ne. les services compétents de l’Office fédéral de la police:1. pour poursuivre les infractions visées aux art. 23, 24 et 27, al. 2, CPP dans le cadre de la procédure préliminaire au sens du CPP, en particulier pour:\n– confirmer ou infirmer le soupçon qu’une infraction a été commise\n– coordonner les procédures et notamment éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’experts, de témoins et de personnes appelées à donner des renseignements\n– protéger un agent infiltré ou affecté à une recherche secrète en contrôlant l’entourage de l’auteur,2. pour transmettre aux autorités suivantes des informations lorsque celles-ci sont nécessaires pour poursuivre à l’étranger des infractions dans le cadre d’une investigation de la police judiciaire:\n– Interpol\n– Office européen de police (Europol), en application de l’art. 355a CP\n– services de police étrangers, au titre de la coopération bilatérale\n– autorités de poursuite pénale étrangères, en application de l’art. 7 de la loi du 12 juin 2009 sur l’échange d’informations Schengen (LEIS);\nf. les polices cantonales:pour poursuivre les infractions dans le cadre de la procédure préliminaire au sens du CPP, en particulier pour:\n– confirmer ou infirmer le soupçon qu’une infraction a été commise\n– éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’experts, de témoins et de personnes appelées à donner des renseignements\n– protéger un agent infiltré ou affecté à une recherche secrète en contrôlant l’entourage de l’auteur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation en ligne de l’extrait 1 destiné aux autorités",
+        "citation": "Art. 45 al. 2 LCJ",
+        "content": "Les services qui transmettent des informations de police à l’étranger au sens de l’al. 1, let. e, ch. 2, ne sont pas autorisés à transmettre les copies électroniques des jugements et des décisions ultérieures (art. 22, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation en ligne de l’extrait 2 destiné aux autorités",
+        "citation": "Art. 46 LCJ",
+        "content": "Les autorités raccordées suivantes peuvent consulter en ligne toutes les données figurant sur l’extrait 2 destiné aux autorités (art. 38), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci-après:\na. les services compétents de l’Office fédéral de la police:1. pour déceler ou prévenir des infractions au sens de l’art. 1 de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération et les centres communs de coopération policière et douanière avec d’autres États (LOC), en particulier pour:\n– confirmer ou infirmer un soupçon initial en relation avec une menace potentielle\n– éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’un informateur\n– faire des analyses de la situation et de la menace au sens de l’art. 2, let. c, LOC,2. pour gérer le Bureau de communication en matière de blanchiment d’argent, soit pour:\n– vérifier et analyser les communications au sens de la loi du 10 octobre 1997 sur le blanchiment d’argent (LBA)\n– éviter des enquêtes parallèles,3. pour transmettre aux autorités suivantes des informations lorsque cells-ci sont nécessaires pour déceler ou prévenir des infractions à l’étranger:\n– Interpol\n– Europol, en application de l’art. 355a CP\n– services de police étrangers, au titre de la coopération bilatérale\n– autorités de poursuite pénale étrangères, en application de l’art. 7 LEIS,4. pour ordonner et lever les mesures d’éloignement à l’encontre d’étrangers en vertu de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI) et pour préparer les décisions d’expulsion au sens de l’art. 121, al. 2, Cst.,5. pour évaluer les risques que présente une personne dont on peut présumer qu’elle est susceptible de menacer une personne à protéger en vertu de l’art. 22, al. 1, de la loi fédérale du 21 mars 1997 instituant des mesures visant au maintien de la sûreté intérieure (LMSI),6. pour effectuer les contrôles du réseau de systèmes d’information visé à l’art. 9 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération (LSIP),7. pour examiner si les conditions sont réunies pour l’effacement des profils d’ADN au sens des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN et des données signalétiques au sens de l’art. 354 CP,8. pour examiner l’aptitude d’une personne à participer à un programme de protection des témoins au sens de la loi fédérale du 23 décembre 2011 sur la protection extraprocédurale des témoins et pour évaluer les risques que présente une personne dont on peut présumer qu’elle est susceptible de menacer la personne à protéger,9. pour transmettre aux bureaux SIRENE d’autres États des informations nécessaires à la localisation de délinquants ou à la coordination et à la mise en œuvre de mesures d’éloignement prises à l’encontre d’étrangers,10. pour traiter les demandes d’autorisation d’acquisition et d’autorisation exceptionnelle de précurseurs de substances explosibles, vérifier ces autorisations et traiter les signalements d’événements suspects conformément à la loi fédérale du 25 septembre 2020 sur les précurseurs de substances explosibles;\nb. le service de renseignement de la Confédération (SRC):1. pour détecter à temps et prévenir des menaces pour la sécurité intérieure ou extérieure au sens de l’art. 6, al. 1, de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens), en particulier pour:\n– confirmer ou infirmer un soupçon initial en relation avec une menace potentielle\n– éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’un informateur,2. pour transmettre des informations à Europol en vertu de l’art. 355a CP, lorsque ces données sont nécessaires pour prévenir des infractions à l’étranger,3. pour examiner les mesures d’éloignement à l’encontre d’étrangers en vertu de la LEI et pour préparer les décisions d’expulsion au sens de l’art. 121, al. 2, Cst.,4. pour rechercher et transmettre des informations à des autorités de sûreté étrangères qui en font la demande au sens de l’art. 12, al. 1, let. d LRens; lorsque la transmission des données n’est pas dans l’intérêt de la personne concernée, elle ne peut avoir lieu qu’avec le consentement exprès de cette dernière;\nc. les autorités visées à l’art. 9 LRens qui collaborent avec le SRC:pour détecter à temps et prévenir des menaces pour la sécurité intérieure ou extérieure au sens de l’art. 6, al. 1, LRens, en particulier pour:\n– confirmer ou infirmer un soupçon initial en relation avec une menace potentielle\n– éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’un informateur,\nd. les polices cantonales:1. pour déceler ou prévenir des infractions, en particulier pour:\n– confirmer ou infirmer un soupçon initial en relation avec une menace potentielle\n– éviter des enquêtes parallèles\n– vérifier la crédibilité d’une personne interrogée\n– examiner la réputation d’un informateur\n– protéger un agent infiltré ou affecté à une recherche secrète en contrôlant le contexte de la menace,2. pour interpréter les données des banques de données policières,3. pour déterminer le risque pour la sécurité dans le cadre de la vérification des antécédents visée à l’art. 108b de la loi fédérale du 21 décembre 1948 sur l’aviation;\ne. les services spécialisés qui mènent les contrôles de sécurité relatifs aux personnes au sens de l’art. 31, al. 2, de la loi du 18 décembre 2020 sur la sécurité de l’information (LSI):\n1. pour évaluer le risque dans le cadre de contrôles de sécurité relatifs aux personnes au sens de la LSI,\n2. pour évaluer le potentiel d’abus ou de dangerosité au sens de la loi du 3 février 1995 sur l’armée,\n3. pour évaluer le risque dans le cadre d’autres contrôles prévus dans la législation spéciale;\nf. le Secrétariat d’État aux migrations:1. pour mener les procédures de naturalisation et d’annulation de naturalisation au niveau fédéral,2. pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires,3. pour prendre les décisions relevant de la loi du 26 juin 1998 sur l’asile (LAsi) pour lesquelles des données pénales sont nécessaires;\ng. les autorités cantonales chargées de l’octroi du droit de cité cantonal:pour mener les procédures d’octroi du droit de cité et d’annulation de naturalisations au niveau cantonal;\nh. les services cantonaux des migrations:pour prendre les décisions relevant de la LEI pour lesquelles des données pénales sont nécessaires;\ni. le Groupement Défense:1. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou à une nomination, en application de la loi du 3 février 1995 sur l’armée (LAAM),2. pour examiner les motifs empêchant la remise de l’arme personnelle en application de la LAAM;\nj. les commandements de police chargés des contrôles de sécurité relatifs aux policiers et aux candidats à des postes de policier en vertu du droit cantonal:pour contrôler les policiers et les candidats à des postes de policier en vue d’un recrutement, d’une nomination, d’une promotion, d’une rétrogradation, d’une exclusion ou d’une réintégration;\nk. les services cantonaux chargés d’autoriser des prestations de sécurité privées:pour octroyer les autorisations nécessaires aux personnes qui fournissent des prestations de sécurité privées, pour retirer ces autorisations, et pour autoriser l’exercice de l’activité d’entreprise de sécurité;\nl. l’autorité fédérale chargée de l’exécution de la loi fédérale du 27 septembre 2013 sur les prestations de sécurité privées fournies à l’étranger (LPSP):pour contrôler les personnes responsables d’une entreprise au sens de l’art. 2 LPSP ou les personnes qui fournissent des prestations de sécurité privées à l’étranger;\nm. l’Office fédéral de la statistique:pour traiter des données conformément à la loi du 9 octobre 1992 sur la statistique fédérale (LSF), en particulier pour:\n– compléter les données concernant une personne\n– assurer la qualité en cas de communication à double de jugements;\nn. les services centraux des cantons chargés des communications en vue de l’effacement des profils d’ADN et autres données signalétiques:pour examiner si les conditions sont réunies pour l’effacement des profils d’ADN au sens des art. 16 à 19 de la loi du 20 juin 2003 sur les profils d’ADN et des données signalétiques au sens de l’art. 354 CP;\no. l’Organe d’exécution du service civil:1. pour prononcer l’exclusion du service civil ou l’interdiction d’accomplir des périodes de service en vertu de la loi fédérale du 6 octobre 1995 sur le service civil (LSC),2. pour examiner la réputation pour certaines affectations en vertu de la LSC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_46"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation en ligne de l’extrait 3 destiné aux autorités",
+        "citation": "Art. 47 LCJ",
+        "content": "Les autorités raccordées suivantes peuvent consulter en ligne toutes les données figurant sur l’extrait 3 destiné aux autorités (art. 39), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci-après:\na. les autorités cantonales de circulation routière:pour octroyer ou retirer les permis de conduire et les permis d’élève conducteur en vertu de la loi fédérale du 19 décembre 1958 sur la circulation routière;\nb. les services cantonaux chargés des exclusions du service de protection civile:pour prendre les décisions d’exclusion du service de protection civile en vertu de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile;\nc. l’Autorité fédérale de surveillance des marchés financiers (FINMA):pour examiner si les personnes qui doivent obtenir l’autorisation, la reconnaissance ou l’agrément de la FINMA ou qui doivent se faire enregistrer auprès d’elle en vertu des lois régissant les marchés financiers présentent toutes garanties d’une activité irréprochable;\nd. l’Autorité fédérale de surveillance en matière de révision:pour octroyer ou retirer des agréments, adresser des avertissements et prendre des mesures à l’encontre des personnes physiques travaillant pour le compte d’une entreprise de révision soumise à la surveillance de l’État.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_47"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation en ligne de l’extrait 4 destiné aux autorités",
+        "citation": "Art. 48 LCJ",
+        "content": "Les autorités raccordées suivantes peuvent consulter en ligne toutes les données figurant sur l’extrait 4 destiné aux autorités (art. 40), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci-après:\na. les autorités cantonales chargées de l’exécution de la loi du 20 juin 1997 sur les armes (LArm):pour octroyer ou retirer des autorisations et pour mettre sous séquestre et confisquer des armes en vertu de la LArm;\nb. le service compétent de l’Office fédéral de la police:pour octroyer ou retirer des autorisations en vertu de la LArm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_48"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de saisie et de consultation en ligne des demandes d’extraits d’un casier judiciaire étranger",
+        "citation": "Art. 49 al. 1 LCJ",
+        "content": "Les autorités suivantes peuvent saisir en ligne une demande d’extrait d’un casier judiciaire étranger et consulter les données correspondantes:\na. les autorités raccordées à VOSTRA:1. lorsqu’un traité international prévoit une communication obligatoire du casier judiciaire étranger dans le but indiqué dans la demande, ou2. lorsqu’il serait possible, en vertu de la présente loi, de consulter un extrait du casier judiciaire suisse dans le but indiqué dans la demande;\nb. le Service du casier judiciaire:pour transmettre la demande visée à la let. a au casier judiciaire étranger et traiter la réponse de ce dernier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de saisie et de consultation en ligne des demandes d’extraits d’un casier judiciaire étranger",
+        "citation": "Art. 49 al. 2 LCJ",
+        "content": "Le Conseil fédéral détermine les autorités suisses qui peuvent présenter une demande au sens de l’al. 1 et précise les buts dans lesquels cette demande peut être présentée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation, sur demande écrite, de l’extrait 1 destiné aux autorités",
+        "citation": "Art. 50 LCJ",
+        "content": "Seules les autorités suivantes, non raccordées, peuvent consulter sur demande écrite toutes les données figurant sur l’extrait 1 destiné aux autorités (art. 37), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci‐après:\nles autorités de la justice militaire (les tribunaux militaires, les auditeurs et les juges d’instruction militaires):pour conduire des procédures pénales, en particulier pour:\n– clarifier les questions de compétence\n– examiner les antécédents d’un prévenu afin de fixer la peine et d’établir un pronostic\n– examiner la réputation d’experts, de témoins et de personnes appelées à donner des renseignements\n– transmettre des informations sur les antécédents d’un prévenu aux experts psychiatriques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_50"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Autorités ayant un droit de consultation, sur demande écrite, de l’extrait 2 destiné aux autorités",
+        "citation": "Art. 51 LCJ",
+        "content": "Les autorités suivantes, non raccordées, peuvent consulter sur demande écrite toutes les données figurant sur l’extrait 2 destiné aux autorités (art. 38), lorsqu’elles leur sont nécessaires pour accomplir les tâches mentionnées ci-après:\na. les autorités cantonales de protection de l’enfant et de l’adulte:pour ordonner et lever les mesures de protection de l’enfant et de l’adulte;\nb. les médecins compétents en vertu de l’art. 429 du code civil (CC):pour ordonner un placement à des fins d’assistance;\nc. les autorités cantonales qui octroient les autorisations et exercent la surveillance dans le domaine du placement d’enfants au sens de l’art. 316, al. 2, CC:pour examiner la réputation des personnes et des institutions s’occupant d’enfants qui doivent obtenir une autorisation et qui sont soumises à une surveillance en vertu du droit fédéral ou du droit cantonal;\nd. les autorités cantonales compétentes en matière d’adoption au sens de l’art 316, al. 1bis, CC:pour examiner l’aptitude des futurs parents adoptifs;\ne. l’autorité centrale fédérale en matière d’adoption internationale de l’Office fédéral de la justice:pour recueillir et échanger des informations sur les futurs parents adoptifs dans les procédures d’adoption internationale;\nf. ...\ng. les tribunaux civils:pour administrer les preuves, notamment lorsqu’ils ordonnent ou lèvent les mesures de protection de l’enfant;\nh. l’Office fédéral du sport:pour procéder aux examens de réputation en vue de l’attribution, de la suspension ou du retrait d’un certificat de cadre «Jeunesse et sport» en vertu de l’art. 10 de la loi du 17 juin 2011 sur l’encouragement du sport;\ni. les autorités fédérales et cantonales compétentes en matière de grâce:pour conduire des procédures d’octroi des grâces;\nj. les services chargés des décisions en matière de personnel des établissements d’exécution des peines et mesures, de détention provisoire et de détention pour des motifs de sûreté:pour procéder aux contrôles de sécurité relatifs aux agents de détention et aux tiers associés aux tâches d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_51"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités étrangères",
+        "citation": "Art. 52 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire communique aux autorités étrangères qui le demandent un extrait du casier judiciaire lorsqu’un traité international ou une loi formelle le prévoit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités étrangères",
+        "citation": "Art. 52 al. 2 LCJ",
+        "content": "L’extrait communiqué à l’autorité étrangère est celui qui aurait été communiqué à une autorité suisse de même fonction ayant fait une demande similaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités étrangères",
+        "citation": "Art. 52 al. 3 LCJ",
+        "content": "Lorsque le Service du casier judiciaire communique à des autorités étrangères l’extrait 1 destiné aux autorités, il n’est pas autorisé à leur communiquer les copies électroniques des jugements et des décisions ultérieures (art. 22, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités étrangères",
+        "citation": "Art. 52 al. 4 LCJ",
+        "content": "Aucune donnée ne doit être communiquée à l’étranger s’il en résulterait un risque de préjudice sérieux pour la vie, l’intégrité corporelle ou la liberté de la personne concernée ou de ses proches au sens de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales (CEDH) et des autres traités internationaux ratifiés par la Suisse, ou bien un risque de double condamnation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités étrangères",
+        "citation": "Art. 52 al. 5 LCJ",
+        "content": "Le Département fédéral de justice et police (DFJP) peut édicter des instructions sur la communication d’extraits du casier judiciaire aux autorités étrangères.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 2, Droit de consultation des autorités, Droit de consultation des autorités de recours",
+        "citation": "Art. 53 LCJ",
+        "content": "Les autorités de recours statuant sur les décisions des autorités ayant un droit de consultation ont les mêmes droits de consultation que ces dernières (art. 43 à 52).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_53"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait destiné aux particuliers",
+        "citation": "Art. 54 al. 1 LCJ",
+        "content": "Toute personne peut demander au Service du casier judiciaire un extrait destiné aux particuliers de son propre casier judiciaire (art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait destiné aux particuliers",
+        "citation": "Art. 54 al. 2 LCJ",
+        "content": "Lorsqu’un particulier demande un extrait relatif à un tiers, cet extrait ne peut lui être communiqué qu’avec le consentement écrit de la personne concernée. Dans les limites de ses pouvoirs, le représentant légal peut obtenir un extrait relatif à la personne qu’il représente sans le consentement de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait destiné aux particuliers",
+        "citation": "Art. 54 al. 3 LCJ",
+        "content": "Le requérant doit prouver l’identité de la personne au sujet de laquelle l’extrait est établi et joindre à la demande les autres indications nécessaires à l’identification de cette personne. En cas de demande relative à un tiers, le requérant doit en plus prouver son identité et, le cas échéant, son pouvoir de représentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 55 al. 1 LCJ",
+        "content": "Toute personne qui propose une activité professionnelle ou une activité non professionnelle organisée impliquant des contacts réguliers avec des mineurs ou d’autres personnes particulièrement vulnérables ou relevant du domaine de la santé impliquant des contacts directs avec des patients ou qui sert d’intermédiaire pour une telle activité peut exiger des candidats à cette activité ou des personnes qui l’exercent qu’elles produisent un extrait spécial destiné aux particuliers, afin d’examiner leur réputation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 55 al. 1bis LCJ",
+        "content": "Une autorité peut également exiger un extrait spécial destiné aux particuliers pour l’octroi ou le retrait d’une autorisation, qui porte sur une activité au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 55 al. 2 LCJ",
+        "content": "Elle ne peut transmettre et utiliser cet extrait que dans le but fixé aux al. 1 et 1bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 55 al. 3 LCJ",
+        "content": "Les conditions fixées à l’art. 54 s’appliquent à la demande d’extrait spécial destiné aux particuliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Extrait spécial destiné aux particuliers",
+        "citation": "Art. 55 al. 4 LCJ",
+        "content": "En plus, un formulaire officiel doit être joint à la demande, sur lequel le prestataire ou l’intermédiaire selon l’al. 1 ou l’autorité d’autorisation selon l’al. 1bis atteste que la personne concernée postule à une activité selon l’al. 1, ou l’exerce ou nécessite une autorisation pour une telle activité, et est à cet effet tenue de produire l’extrait spécial pour exercer ou poursuivre l’activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Émoluments",
+        "citation": "Art. 56 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire perçoit des émoluments pour l’établissement des extraits destinés aux particuliers et des extraits spéciaux destinés aux particuliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 1, Extrait et extrait spécial destiné aux particuliers, Émoluments",
+        "citation": "Art. 56 al. 2 LCJ",
+        "content": "Le Conseil fédéral fixe les bases de calcul des émoluments, notamment leur tarif et leur composition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 2, Droit d’accès prévu par la législation sur la protection des données",
+        "citation": "Art. 57 al. 1 LCJ",
+        "content": "Toute personne peut demander au Service du casier judiciaire si des données la concernant sont enregistrées dans VOSTRA (art. 16 à 26) ou dans la banque de données auxiliaire (art. 27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 2, Droit d’accès prévu par la législation sur la protection des données",
+        "citation": "Art. 57 al. 2 LCJ",
+        "content": "Les données journalisées (art. 25) ne lui sont pas communiquées lorsqu’elles se rapportent à une consultation effectuée par:\na. le Ministère public de la Confédération, un ministère public cantonal ou les autorités pénales des mineurs au sens de l’art. 6, al. 1, let. b et c, PPMin, dans l’accomplissement des tâches visées à l’art. 45, al. 1, let. a, de la présente loi;\nb. l’Office fédéral de la police, dans l’accomplissement des tâches visées à aux art. 45, al. 1, let. e, et 46, let. a;\nc. les polices cantonales, dans l’accomplissement des tâches visées aux art. 45, al. 1, let. f, et 46, let. d;\nd. le SRC ou les autorités visées à l’art. 9 LRens qui collaborent avec le SRC, dans l’accomplissement des tâches visées à l’art. 46, let. b et c, de la présente loi;\ne. le service de l’Office fédéral de la justice chargé de l’entraide judiciaire internationale, dans l’accomplissement des tâches visées à l’art. 45, al. 1, let. c;\nf. un tribunal des mesures de contrainte ou une autorité de recours, dans la mesure où la consultation est intervenue dans le cadre d’une procédure tendant à l’approbation de mesures de surveillance secrètes;\ng. le Service du casier judiciaire ou un SERCO, dans la mesure où la consultation est intervenue pour l’établissement d’un extrait pour une autorité selon les let. a à f ou pour une autorité étrangère accomplissant des tâches analogues;\nh. le service de coordination de la justice militaire dans la mesure où la consultation est intervenue pour l’établissement d’un extrait pour une autorité d’instruction militaire ou pour une instance militaire d’approbation de mesures de surveillance secrètes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 2, Droit d’accès prévu par la législation sur la protection des données",
+        "citation": "Art. 57 al. 3 LCJ",
+        "content": "Le requérant doit prouver son identité et faire une demande écrite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 2, Droit d’accès prévu par la législation sur la protection des données",
+        "citation": "Art. 57 al. 4 LCJ",
+        "content": "Les renseignements demandés sont donnés oralement, dans les locaux du Service du casier judiciaire. Le requérant n’est pas autorisé à consulter VOSTRA à l’écran. S’il est inscrit dans le système, il peut prendre connaissance sur place de toutes les données le concernant. Les documents sur lesquels figurent ces données ne lui sont pas remis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 3, Droit de consultation des particuliers, Section 2, Droit d’accès prévu par la législation sur la protection des données",
+        "citation": "Art. 57 al. 5 LCJ",
+        "content": "Si le requérant constate que les données le concernant sont inexactes, il peut faire valoir les droits visés à l’art. 41 de la loi fédérale du 25 septembre 2020 sur la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’Office fédéral de la statistique",
+        "citation": "Art. 58 LCJ",
+        "content": "Le Service du casier judiciaire communique périodiquement à l’Office fédéral de la statistique sous forme électronique les données du casier judiciaire nécessaires à l’établissement de statistiques au sens de la LSF.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_58"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication au Groupement Défense",
+        "citation": "Art. 59 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire communique sans délai au Groupement défense, aux fins énumérées à l’al. 2, les données suivantes concernant des conscrits, des militaires et des personnes astreintes à servir dans la protection civile, dès leur saisie dans VOSTRA:\na. les jugements suisses pour crime ou délit;\nb. les jugements étrangers;\nc. les mesures entraînant une privation de liberté;\nd. les décisions relatives à l’échec de la mise à l’épreuve;\ne. les procédures pénales en cours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication au Groupement Défense",
+        "citation": "Art. 59 al. 2 LCJ",
+        "content": "Le Groupement défense peut utiliser les données communiquées:\na. pour prendre les décisions de non-recrutement, d’admission au recrutement, d’exclusion de l’armée ou de réintégration dans l’armée, de dégradation, et pour examiner l’aptitude à une promotion ou une nomination, en application de la LAAM;\nb. pour examiner les motifs empêchant la remise de l’arme personnelle, en application de la LAAM;\nc. pour prendre les décisions d’exclusion du service de protection civile au sens de la loi fédérale du 4 octobre 2002 sur la protection de la population et sur la protection civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication au Groupement Défense",
+        "citation": "Art. 59 al. 3 LCJ",
+        "content": "La communication a lieu par une interface électronique entre le système d’information sur le personnel de l’armée et de la protection civile (SIPA) et VOSTRA. Les données visées à l’al. 1 sont sélectionnées et transmises de manière automatisée sur la base du numéro AVS de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux autorités compétentes en matière de circulation routière",
+        "citation": "Art. 60 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire communique à l’autorité du canton de domicile ou de jugement compétente en matière de circulation routière, en vue de leur enregistrement dans le système d’information relatif à l’admission à la circulation (SIAC), les jugements suisses saisis dans VOSTRA dans lesquels est prononcée une interdiction de conduire au sens de l’art. 67e CP ou de l’art. 50e CPM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux autorités compétentes en matière de circulation routière",
+        "citation": "Art. 60 al. 2 LCJ",
+        "content": "La communication peut avoir lieu par une interface électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication au service de l’Office fédéral de la justice chargé du partage des valeurs patrimoniales confisquées",
+        "citation": "Art. 61 LCJ",
+        "content": "Le Service du casier judiciaire communique au service de l’Office fédéral de la justice chargé du partage des valeurs patrimoniales confisquées les copies électroniques des jugements suisses (art. 22, al. 1) qui lui sont nécessaires pour mener les procédures de partage prévues par la loi fédérale du 19 mars 2004 sur le partage des valeurs patrimoniales confisquées, lorsque la confiscation de valeurs patrimoniales d’un montant brut de 100 000 francs au moins a été ordonnée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_61"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux services cantonaux des migrations et au Secrétariat d’État aux migrations",
+        "citation": "Art. 62 al. 1 LCJ",
+        "content": "Lorsqu’elles concernent un étranger, le Service du casier judiciaire communique au service cantonal des migrations compétent les données suivantes dès leur saisie dans VOSTRA:\na. les jugements suisses (art. 18 et 20);\nb. les procédures pénales en cours (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux services cantonaux des migrations et au Secrétariat d’État aux migrations",
+        "citation": "Art. 62 al. 1bis LCJ",
+        "content": "Lorsqu’elles concernent un étranger, le Service du casier judiciaire communique au Secrétariat d’État aux migrations les données suivantes dès leur saisie dans VOSTRA:\na. les jugements suisses (art. 18 et 20);\nb. les procédures pénales en cours (art. 24);\nc. la date de départ effective ou fixée par l’autorité d’exécution (art. 20, al. 3, let. a) et la raison du départ: renvoi, extradition, transfèrement en vue d’une exécution de sanction à l’étranger, départ volontaire;\nd. le report de l’exécution de l’expulsion;\ne. la levée du report de l’exécution de l’expulsion;\nf. les modifications de données communiquées, lorsqu’elles portent sur l’expulsion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux services cantonaux des migrations et au Secrétariat d’État aux migrations",
+        "citation": "Art. 62 al. 2 LCJ",
+        "content": "Les données communiquées ne peuvent être utilisées que si l’exécution de la LEI, de la loi du 20 juin 2014 sur la nationalité suisse ou de la LAsi l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux services cantonaux des migrations et au Secrétariat d’État aux migrations",
+        "citation": "Art. 62 al. 3 LCJ",
+        "content": "Elles sont communiquées avec le numéro AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux offices cantonaux des armes",
+        "citation": "Art. 63 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire communique aux autorités cantonales chargées de l’exécution de la LArm les jugements suisses (art. 18 et 20) et les procédures pénales en cours (art. 24) dès leur saisie dans VOSTRA, lorsqu’ils concernent une personne inscrite avec indication de son numéro AVS dans le système d’information relatif à l’acquisition et à la possession d’armes à feu visé à l’art. 32a, al. 2, LArm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication aux offices cantonaux des armes",
+        "citation": "Art. 63 al. 2 LCJ",
+        "content": "Les données communiquées ne peuvent être utilisées que si l’exécution de la LArm l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 1 LCJ",
+        "content": "Le Service du casier judiciaire communique à l’État d’origine, lorsque celui-ci est connu, les jugements et les décisions ultérieures rendus contre des étrangers et saisis dans VOSTRA, en application de la convention européenne d’entraide judiciaire en matière pénale du 20 avril 1959 ou d’autres traités internationaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 2 LCJ",
+        "content": "Ne sont pas communiqués:\na. les jugements qui concernent des faits punissables seulement en vertu du droit pénal militaire;\nb. les jugements en matière fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 3 LCJ",
+        "content": "Aucune donnée ne doit être communiquée à l’étranger s’il en résulterait un risque de préjudice sérieux pour la vie, l’intégrité corporelle ou la liberté de la personne concernée ou de ses proches au sens de la CEDH et des autres traités internationaux ratifiés par la Suisse, ou bien un risque de double condamnation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 4 LCJ",
+        "content": "Si une personne inscrite dans VOSTRA possède plusieurs nationalités, chacun de ses États d’origine habilités à cet effet par un traité international reçoit une communication; si cette personne possède aussi la nationalité suisse, aucune communication n’a lieu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 5 LCJ",
+        "content": "Les nouvelles données saisies sont communiquées une fois par mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 7, Communication des données du casier judiciaire, Chapitre 4, Communication automatique de données du casier judiciaire à des autorités, Communication à l’État d’origine",
+        "citation": "Art. 64 al. 6 LCJ",
+        "content": "Le DFJP peut édicter des instructions sur la communication de données aux autorités étrangères.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 8, Communication automatique de données à VOSTRA, Interface avec le registre de l’état civil",
+        "citation": "Art. 66 al. 1 LCJ",
+        "content": "Le registre de l’état civil visé à l’art. 45a CC communique à VOSTRA les décès des personnes qui sont inscrites dans les deux banques de données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_66"
+    },
+    {
+        "book": "StReG",
+        "title": "LCJ, Titre 8, Communication automatique de données à VOSTRA, Interface avec le registre de l’état civil",
+        "citation": "Art. 66 al. 2 LCJ",
+        "content": "La communication a lieu par une interface électronique entre le registre de l’état civil et VOSTRA. Les données sont sélectionnées et transmises de manière automatisée sur la base du numéro AVS de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/fr#art_66"
+    }
+]

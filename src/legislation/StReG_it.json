@@ -1,0 +1,1136 @@
+[
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo primo: Oggetto e definizioni, Oggetto",
+        "citation": "Art. 1 cpv. 1 LCaGi",
+        "content": "La presente legge disciplina il trattamento dei dati concernenti persone fisiche nel casellario giudiziale informatizzato VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo primo: Oggetto e definizioni, Oggetto",
+        "citation": "Art. 1 cpv. 2 LCaGi",
+        "content": "Disciplina segnatamente:\na. i compiti e le competenze delle autorità che gestiscono VOSTRA;\nb. la cooperazione delle autorità che gestiscono VOSTRA con le autorità che vi iscrivono direttamente i propri dati, trasmettono dati per iscrizione o sono tenute a fornire informazioni alle autorità che iscrivono i dati;\nc. gli obblighi di diligenza in materia di trattamento dei dati;\nd. i contenuti di VOSTRA;\ne. i termini per l’iscrizione dei dati, il periodo durante il quale gli stessi figurano negli estratti del casellario giudiziale e la loro eliminazione da VOSTRA;\nf. le categorie di dati che devono figurare nei singoli estratti del casellario giudiziale;\ng. i diritti e gli obblighi delle autorità che hanno diritto di consultare dati di VOSTRA in linea o su richiesta scritta o alle quali dati di VOSTRA sono comunicati automaticamente;\nh. le interfacce con altre banche dati;\ni. i diritti di consultazione e i diritti di accesso delle persone interessate;\nj. i requisiti in materia di sicurezza dei dati e infrastruttura tecnica;\nk. l’utilizzazione di dati anonimizzati di VOSTRA a fini di ricerca, pianificazione e statistica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_1"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo primo: Oggetto e definizioni, Definizioni",
+        "citation": "Art. 2 LCaGi",
+        "content": "Nella presente legge s’intende per:\na. sentenza originaria: decisione penale di merito in cui si accerta che è stato commesso un determinato reato;\nb. decisione successiva: decisione penale di un’autorità giudiziaria o di un’autorità d’esecuzione avente per oggetto il riesame (modifica, complemento, soppressione o conferma) di una sanzione passata in giudicato e dei suoi effetti senza nuovo giudizio dei reati per i quali la sanzione è stata inflitta;\nc. autorità collegata: autorità che dispone di un diritto operativo di consultazione o iscrizione in linea;\nd. dati penali: dati delle sentenze originarie e delle decisioni successive, nonché dati sui procedimenti penali pendenti;\ne. sistema di gestione dei dati penali: parte centrale di VOSTRA nella quale sono gestiti i dati penali inerenti a persone e che consente di allestire gli estratti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_2"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo secondo:, Compiti delle autorità che gestiscono VOSTRA, Ufficio federale di giustizia",
+        "citation": "Art. 3 cpv. 1 LCaGi",
+        "content": "L’Ufficio federale di giustizia è l’organo federale responsabile di VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo secondo:, Compiti delle autorità che gestiscono VOSTRA, Ufficio federale di giustizia",
+        "citation": "Art. 3 cpv. 2 LCaGi",
+        "content": "Il servizio dell’Ufficio federale di giustizia che gestisce il casellario giudiziale (Servizio del casellario giudiziale) ha i compiti seguenti:\na. coordina le attività delle autorità collegate;\nb. concede e revoca ai singoli utenti i diritti di consultazione o iscrizione in linea dei dati;\nc. tiene corsi per gli utenti delle autorità collegate;\nd. aiuta gli utenti a risolvere problemi inerenti all’utilizzazione del sistema;\ne. provvede affinché VOSTRA sia di facile utilizzazione e la sua funzionalità sia costantemente migliorata;\nf. emana istruzioni concernenti la gestione e l’utilizzazione di VOSTRA, segnatamente un regolamento sul trattamento dei dati;\ng. controlla, d’ufficio o su richiesta di una persona interessata, se i dati sono trattati conformemente alle prescrizioni e sono completi, esatti e aggiornati; a tal fine ha diritto di consultare i verbali previsti nella legislazione sulla protezione dei dati e i dati automaticamente verbalizzati di cui all’articolo 25;\nh. rettifica le iscrizioni errate in VOSTRA o invita i servizi responsabili a rettificarle;\ni. prende provvedimenti adeguati nei confronti degli utenti che violano le prescrizioni sul trattamento dei dati, rivolgendo loro un avvertimento, obbligandoli a frequentare un corso o revocando loro determinati diritti di consultazione o iscrizione in linea; informa inoltre il superiore gerarchico dell’utente e i competenti organi di protezione dei dati; se sospetta che sia stato commesso un reato, denuncia il caso alle autorità di perseguimento penale competenti;\nj. iscrive in VOSTRA i dati seguenti:\n1. le sentenze originarie e decisioni successive aventi per oggetto un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate (art. 6 cpv. 3),\n2. i dati trasmessigli da autorità federali o estere (art. 6 cpv. 2 e 7 cpv. 1);\nk. esegue controlli d’identità su richiesta delle autorità tenute a iscrivere dati (art. 10 cpv. 3 lett. b) o delle autorità che hanno diritto di consultarli (art. 10 cpv. 6);\nl. chiede all’Ufficio centrale di compensazione di assegnare un numero AVS secondo l’articolo 50c della legge federale del 20 dicembre 1946 sull’assicurazione per la vecchiaia e per i superstiti alle persone registrate in VOSTRA (art. 10 cpv. 4) e inserisce il numero AVS e i relativi dati identificativi in VOSTRA;\nm. allestisce estratti del casellario giudiziale per le autorità federali non collegate, le autorità estere e i privati;\nn. provvede affinché i dati di VOSTRA di cui agli articoli 58–64 siano automaticamente comunicati alle autorità competenti;\no. tratta le richieste di estratti di un casellario giudiziale estero presentate da autorità svizzere (art. 26 e 49);\np. comunica alle autorità competenti gli avvisi di recidiva e di controllo generati dal sistema.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_3"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo secondo:, Compiti delle autorità che gestiscono VOSTRA, Servizi di coordinamento cantonali",
+        "citation": "Art. 4 cpv. 1 LCaGi",
+        "content": "Ciascun Cantone designa un servizio di coordinamento (SERCO) per il trattamento dei dati in VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo secondo:, Compiti delle autorità che gestiscono VOSTRA, Servizi di coordinamento cantonali",
+        "citation": "Art. 4 cpv. 2 LCaGi",
+        "content": "Il SERCO ha i compiti seguenti:\na. iscrive in VOSTRA i dati trasmessigli dalle autorità cantonali (art. 6 cpv. 2 e 7 cpv. 2);\nb. allestisce estratti del casellario giudiziale per le autorità cantonali non collegate;\nc. funge da interlocutore cantonale del Servizio del casellario giudiziale per quanto concerne l’osservanza delle disposizioni della presente legge, dell’ordinanza di esecuzione e delle istruzioni emanate in virtù delle stesse;\nd. assiste il Servizio del casellario giudiziale nel controllo del trattamento dei dati;\ne. comunica alle autorità competenti gli avvisi di recidiva e di controllo generati dal sistema;\nf. aiuta gli utenti del Cantone a risolvere problemi inerenti all’utilizzazione del sistema.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_4"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo secondo:, Compiti delle autorità che gestiscono VOSTRA, Servizio di coordinamento della giustizia militare",
+        "citation": "Art. 5 LCaGi",
+        "content": "Il Servizio di coordinamento della giustizia militare ha i compiti seguenti:\na. iscrive in VOSTRA i dati trasmessigli dalle autorità della giustizia militare (art. 7 cpv. 3);\nb. allestisce estratti del casellario giudiziale per le autorità della giustizia militare;\nc. funge, presso la giustizia militare, da interlocutore del Servizio del casellario giudiziale per quanto concerne l’osservanza delle disposizioni della presente legge, dell’ordinanza di esecuzione e delle istruzioni emanate in virtù delle stesse;\nd. assiste il Servizio del casellario giudiziale nel controllo del trattamento dei dati;\ne. comunica alle autorità competenti gli avvisi di recidiva e di controllo generati dal sistema.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_5"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a iscrivere dati",
+        "citation": "Art. 6 cpv. 1 LCaGi",
+        "content": "Le autorità seguenti iscrivono i loro dati in VOSTRA, se la Confederazione o il Cantone lo prevede:\na. le autorità giudicanti penali, i pubblici ministeri cantonali, le autorità penali minorili ai sensi degli articoli 6 capoverso 1 lettere b e c e 7 della procedura penale minorile del 20 marzo 2009 (PPMin), il Ministero pubblico della Confederazione e le autorità penali delle contravvenzioni ai sensi dell’articolo 12 lettera c del Codice di procedura penale (CPP);\nb. le autorità amministrative della Confederazione e dei Cantoni che svolgono procedimenti penali o pronunciano decisioni penali;\nc. le autorità preposte all’esecuzione delle pene e delle misure;\nd. le autorità cantonali competenti in materia di stranieri, nella misura in cui siano competenti per l’esecuzione dell’espulsione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a iscrivere dati",
+        "citation": "Art. 6 cpv. 2 LCaGi",
+        "content": "Le autorità di cui al capoverso 1 per le quali la Confederazione o il Cantone non prevede un obbligo di iscrizione trasmettono i loro dati al Servizio del casellario giudiziale o al SERCO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a iscrivere dati",
+        "citation": "Art. 6 cpv. 3 LCaGi",
+        "content": "Le autorità di cui al capoverso 1 lettere a e c trasmettono al Servizio del casellario giudiziale le sentenze originarie e decisioni successive aventi per oggetto un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_6"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a trasmettere dati",
+        "citation": "Art. 7 cpv. 1 LCaGi",
+        "content": "Le autorità seguenti trasmettono i loro dati al Servizio del casellario giudiziale:\na. le autorità federali competenti in materia di grazia o di amnistia;\nb. le autorità estere competenti per le comunicazioni allo Stato di origine in virtù dei pertinenti trattati internazionali;\nc. le ambasciate e i consolati svizzeri in possesso di sentenze originarie straniere ai sensi dell’articolo 19.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a trasmettere dati",
+        "citation": "Art. 7 cpv. 2 LCaGi",
+        "content": "Le autorità cantonali competenti in materia di grazia o di amnistia trasmettono i loro dati al SERCO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Autorità tenute a trasmettere dati",
+        "citation": "Art. 7 cpv. 3 LCaGi",
+        "content": "Le autorità giudicanti militari, gli uditori e i giudici istruttori militari trasmettono i loro dati al Servizio di coordinamento della giustizia militare. Sono fatti salvi i casi di cui all’articolo 6 capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_7"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Obbligo d’informazione degli uffici dello stato civile, degli uffici del controllo degli abitanti, delle autorità competenti in materia di stranieri e dell’Ufficio centrale di compensazione",
+        "citation": "Art. 8 LCaGi",
+        "content": "Gli uffici dello stato civile, gli uffici del controllo degli abitanti, le autorità competenti in materia di stranieri e l’Ufficio centrale di compensazione informano gratuitamente le autorità che gestiscono VOSTRA e le autorità tenute a iscrivere dati (art. 3–6) per consentire loro di verificare i dati identificativi da trattare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_8"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo terzo:, Autorità tenute a iscrivere o trasmettere dati o a fornire informazioni, Obbligo d’informazione delle autorità tenute a iscrivere o trasmettere dati e delle autorità con diritto di consultazione",
+        "citation": "Art. 9 LCaGi",
+        "content": "Le autorità tenute a iscrivere o trasmettere dati e le autorità con diritto di consultazione forniscono al Servizio del casellario giudiziale le informazioni occorrenti e gli consentono di consultare i documenti sui quali si fonda l’iscrizione di dati in VOSTRA o la comunicazione di dati dello stesso, nella misura in cui ciò sia necessario per effettuare i controlli previsti nell’articolo 3 capoverso 2 lettera g e non vi si oppongano interessi pubblici preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_9"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 1 LCaGi",
+        "content": "Le autorità che iscrivono dati in VOSTRA o che li trasmettono per iscrizione si accertano che i dati siano completi, esatti e aggiornati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 2 LCaGi",
+        "content": "Se dubita dell’esattezza dei dati o se questi sono incompleti, l’autorità che procede alla loro iscrizione li rinvia per verifica all’autorità che li ha trasmessi o si procura le informazioni complementari necessarie. Può stampare l’estratto del casellario giudiziale per controllare un’iscrizione; il documento stampato è distrutto non appena il controllo dei dati iscritti è terminato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 3 LCaGi",
+        "content": "Se ha dubbi sul fatto che la persona di cui deve iscrivere dati in VOSTRA corrisponda a una persona già registrata nello stesso, prima di procedere all’iscrizione dei dati l’autorità:\na. compie una verifica completa dell’identità, confronta le generalità da iscrivere con i dati degli uffici dello stato civile, degli uffici del controllo degli abitanti, delle autorità competenti in materia di stranieri e dell’Ufficio centrale di compensazione e, se del caso, rettifica o completa i dati identificativi in VOSTRA; o\nb. trasmette il caso per accertamenti al Servizio del casellario giudiziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 4 LCaGi",
+        "content": "L’iscrizione dei dati è effettuata anche se all’interessato non è ancora stato assegnato un numero AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 5 LCaGi",
+        "content": "Il Servizio del casellario giudiziale verifica periodicamente l’esattezza di tutti i numeri AVS registrati in VOSTRA e dei relativi dati identificativi. A tal fine utilizza i servizi web messi a disposizione dall’Ufficio centrale di compensazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di iscrizione, di consultazione e di trasmissione dei dati",
+        "citation": "Art. 10 cpv. 6 LCaGi",
+        "content": "Se ha dubbi sul fatto che la persona cercata corrisponda a una persona già registrata in VOSTRA, l’autorità collegata che consulta dati dello stesso può chiedere al Servizio del casellario giudiziale di procedere a una verifica dell’identità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_10"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di modifica dei dati",
+        "citation": "Art. 11 cpv. 1 LCaGi",
+        "content": "Un’autorità può modificare o eliminare in VOSTRA soltanto i dati iscritti da essa stessa o a suo nome.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di modifica dei dati",
+        "citation": "Art. 11 cpv. 2 LCaGi",
+        "content": "Sono ammesse deroghe al capoverso 1 nei casi seguenti:\na. se un’istruzione penale è rimessa a un’altra autorità, questa può modificare o eliminare i dati concernenti il procedimento penale pendente;\nb. le autorità che gestiscono VOSTRA (art. 3–5) possono modificare o eliminare tutti i dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di modifica dei dati",
+        "citation": "Art. 11 cpv. 3 LCaGi",
+        "content": "Il Consiglio federale può prevedere altre eccezioni riguardo alla modifica o all’eliminazione dei dati identificativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_11"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di consultazione, di conservazione e di comunicazione a terzi dei dati",
+        "citation": "Art. 12 cpv. 1 LCaGi",
+        "content": "Le autorità che hanno diritto di consultare VOSTRA possono trattare soltanto i dati necessari all’adempimento dei loro compiti legali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di consultazione, di conservazione e di comunicazione a terzi dei dati",
+        "citation": "Art. 12 cpv. 2 LCaGi",
+        "content": "I dati penali di VOSTRA non possono essere conservati in una nuova banca dati, salvo che ciò sia necessario per motivare una decisione presa o un passo procedurale intrapreso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Regole di diligenza in materia di consultazione, di conservazione e di comunicazione a terzi dei dati",
+        "citation": "Art. 12 cpv. 3 LCaGi",
+        "content": "Le autorità possono comunicare a terzi dati di VOSTRA soltanto in virtù di un’esplicita base legale formale e per il medesimo scopo per il quale hanno consultato i dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_12"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Utilizzazione sistematica del numero AVS",
+        "citation": "Art. 13 cpv. 1 LCaGi",
+        "content": "Le autorità collegate hanno diritto di utilizzare sistematicamente il numero AVS  per adempiere i compiti loro assegnati dalla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Utilizzazione sistematica del numero AVS",
+        "citation": "Art. 13 cpv. 2 LCaGi",
+        "content": "In VOSTRA il numero AVS è utilizzato soltanto per i seguenti fini interni al casellario giudiziale:\na. per l’identificazione delle persone prima dell’iscrizione e della consultazione di dati; \nb. per lo scambio elettronico di dati con altre banche dati nelle quali è pure utilizzato sistematicamente il numero AVS, purché un siffatto scambio di dati poggi su una base legale formale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Utilizzazione sistematica del numero AVS",
+        "citation": "Art. 13 cpv. 3 LCaGi",
+        "content": "La ricerca di una persona nella banca dati «Unique Personal Identifier Database» (UPI) dell’Ufficio centrale di compensazione è lanciata a partire da VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quarto: Principi in materia di trattamento dei dati, Utilizzazione sistematica del numero AVS",
+        "citation": "Art. 13 cpv. 4 LCaGi",
+        "content": "Il numero AVS è visibile soltanto per le autorità collegate e non può essere comunicato ad altre autorità o a privati. Non figura negli estratti del casellario giudiziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_13"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quinto:, Sicurezza dei dati, requisiti tecnici, comunicazione di dati anonimizzati, Sicurezza dei dati e requisiti tecnici",
+        "citation": "Art. 14 LCaGi",
+        "content": "Il Consiglio federale definisce i requisiti in materia di sicurezza dei dati e i requisiti tecnici che deve soddisfare VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_14"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo quinto:, Sicurezza dei dati, requisiti tecnici, comunicazione di dati anonimizzati, Comunicazione di dati anonimizzati per scopi di ricerca",
+        "citation": "Art. 15 LCaGi",
+        "content": "Il Consiglio federale disciplina la comunicazione di dati anonimizzati di VOSTRA per scopi di ricerca.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_15"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Persone registrate",
+        "citation": "Art. 16 cpv. 1 LCaGi",
+        "content": "Un adulto è registrato in VOSTRA se nei suoi confronti:\na. è stata pronunciata una sentenza originaria da iscrivere (art. 18 cpv. 1 e 19 lett. d n. 1); o\nb. è pendente in Svizzera un procedimento penale per un crimine o un delitto previsto dal diritto federale; la presente disposizione si applica anche ai procedimenti penali minorili ancora pendenti dopo che l’autore ha compiuto i 18 anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Persone registrate",
+        "citation": "Art. 16 cpv. 2 LCaGi",
+        "content": "Un minore è registrato in VOSTRA se nei suoi confronti:\na. è stata pronunciata una sentenza originaria da iscrivere (art. 18 cpv. 2 e 3 e 19 lett. d n. 2); o\nb. è pendente in Svizzera un procedimento penale per un crimine o un delitto previsto dal diritto federale ed egli non dimora abitualmente in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_16"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati identificativi della persona",
+        "citation": "Art. 17 cpv. 1 LCaGi",
+        "content": "I dati identificativi di una persona comprendono segnatamente:\na. il numero AVS e il numero progressivo attribuito dal sistema;\nabis. i numeri di controllo del processo utilizzati per contrassegnare i dati segnaletici;\nb. i nomi e la data di nascita;\nc. il sesso;\nd. l’origine;\ne. i nomi dei genitori;\nf. il domicilio;\ng. lo statuto di soggiorno;\nh. le note ad uso interno destinate all’identificazione di persone;\ni. le false generalità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati identificativi della persona",
+        "citation": "Art. 17 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da iscrivere e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_17"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Condizioni per l’iscrizione delle sentenze originarie svizzere",
+        "citation": "Art. 18 cpv. 1 LCaGi",
+        "content": "Le sentenze originarie svizzere concernenti un reato previsto dal diritto federale commesso da un adulto sono iscritte se:\na. sono passate in giudicato;\nb. sono state pronunciate da un’autorità penale ordinaria o militare o da un’autorità penale amministrativa; e\nc. è adempiuta una delle condizioni seguenti:\n1. l’autore è stato riconosciuto colpevole di un crimine o di un delitto; sono eccettuate le sentenze che prevedono l’obbligo di prestare un lavoro di pubblico interesse secondo l’articolo 81 capoverso 3 o 4 del Codice penale militare del 13 giugno 1927 (CPM) o una pena disciplinare secondo il CPM, nonché quelle in cui si prescinde dalla punizione in virtù dell’articolo 52 del Codice penale (CP),\n2. l’autore è stato giudicato per un crimine o un delitto e riconosciuto penalmente incapace ma è stata pronunciata una delle misure seguenti:\n– una misura terapeutica o un internamento (art. 59–61, 63 e 64 CP; art. 47 CPM)\n– un’interdizione di esercitare un’attività (art. 67 CP; art. 50 CPM) o un divieto di avere contatti e di accedere ad aree determinate (art. 67b CP; art. 50b CPM)\n– un divieto di condurre (art. 67e CP; art. 50e CPM)\n– un’esclusione dall’esercito (art. 48 e 49 CPM),\n3. l’autore è stato riconosciuto colpevole di una contravvenzione e:\n– è stata inflitta una multa superiore a 5000 franchi o è stato ordinato un lavoro di pubblica utilità di durata superiore a 180 ore\n– la pertinente legge autorizza od obbliga espressamente l’autorità giudicante a inasprire la pena in caso di recidiva\n– la contravvenzione è oggetto di una sentenza concernente altri reati che devono essere iscritti\n– è stata pronunciata un’interdizione di esercitare un’attività (art. 67 CP; art. 50 CPM) o\n– è stato pronunciato un divieto di avere contatti e di accedere ad aree determinate (art. 67b CP; art. 50b CPM),\n4. l’autore è stato giudicato per una contravvenzione e riconosciuto penalmente incapace ma sono stati pronunciati un’interdizione di esercitare un’attività (art. 67 CP; art. 50 CPM) o un divieto di avere contatti e di accedere ad aree determinate (art. 67b CP; art. 50b CPM).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Condizioni per l’iscrizione delle sentenze originarie svizzere",
+        "citation": "Art. 18 cpv. 2 LCaGi",
+        "content": "Le sentenze originarie svizzere concernenti un crimine o un delitto previsto dal diritto federale commesso da un minore sono iscritte se:\na. sono passate in giudicato;\nb. sono state pronunciate da un’autorità penale ordinaria; e\nc. è stata inflitta una delle sanzioni seguenti:\n1. una privazione della libertà (art. 25 del diritto penale minorile del 20 giugno 2003 [DPMin]),\n2. un collocamento (art. 15 DPMin),\n3. un trattamento ambulatoriale (art. 14 DPMin),\n4. un’interdizione di esercitare un’attività (art. 16a cpv. 1 DPMin),\n5. un divieto di avere contatti e di accedere ad aree determinate (art. 16a cpv. 2 DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Condizioni per l’iscrizione delle sentenze originarie svizzere",
+        "citation": "Art. 18 cpv. 3 LCaGi",
+        "content": "Le sentenze originarie svizzere concernenti una contravvenzione prevista dal diritto federale commessa da un minore sono iscritte se la sanzione inflitta è un’interdizione di esercitare un’attività (art. 16a cpv. 1 DPMin) o un divieto di avere contatti e di accedere ad aree determinate (art. 16a cpv. 2 DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_18"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Condizioni per l’iscrizione delle sentenze originarie straniere",
+        "citation": "Art. 19 LCaGi",
+        "content": "Le sentenze originarie straniere concernenti un reato commesso da un cittadino svizzero sono iscritte se:\na. sono state comunicate al Servizio del casellario giudiziale in virtù della Convenzione europea di assistenza giudiziaria in materia penale del 20 aprile 1959 o di un trattato internazionale bilaterale oppure da una rappresentanza svizzera all’estero;\nb. sono passate in giudicato;\nc. concernono un reato di natura non puramente militare; e\nd.  è stata inflitta una delle sanzioni seguenti:\n1. per gli adulti:\n– una pena detentiva di almeno 30 giorni (analoga alle pene di cui agli art. 40–43 CP), una pena pecuniaria di almeno 30 aliquote giornaliere (analoga alle pene di cui agli art. 34, 42 e 43 CP) o un lavoro di pubblica utilità di almeno 120 ore (analogo alle pene di cui agli art. 37, 42, 43 e 107 CP)\n– un trattamento terapeutico stazionario (analogo alle misure di cui agli art. 59–61 CP) o un internamento (analogo alle misure di cui all’art. 64 cpv. 1 e 1bis CP)\n– un’interdizione di esercitare un’attività (analoga alle misure di cui all’art. 67 CP e all’art. 50 CPM) o un divieto di avere contatti e di accedere ad aree determinate (analogo alle misure di cui all’art. 67b CP e all’art. 50b CPM),\n2. per i minori:\n– una privazione della libertà (analoga alla pena di cui all’art. 25 DPMin)\n– un collocamento (analogo alle misure di cui all’art. 15 DPMin) o un trattamento ambulatoriale (analogo alla misura di cui all’art. 14 DPMin)\n– un’interdizione di esercitare un’attività (analoga alla misura di cui all’art. 16a cpv. 1 DPMin) o un divieto di avere contatti e di accedere ad aree determinate (analogo alle misure di cui all’art. 16a cpv. 2 DPMin).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_19"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati relativi alle sentenze originarie da iscrivere",
+        "citation": "Art. 20 cpv. 1 LCaGi",
+        "content": "Se una sentenza originaria dev’essere iscritta (art. 16 cpv. 1 lett. a e 2 lett. a), sono iscritti in VOSTRA i dati seguenti del dispositivo della stessa:\na. i dati identificativi della persona (art. 17);\nb. informazioni generali quali segnatamente la data della sentenza originaria e l’autorità giudicante;\nc. informazioni sul tipo di sentenza, segnatamente se è stata pronunciata una pena complementare o una pena unica;\nd. informazioni sul tipo di procedura;\ne. informazioni sul reato; per quanto concerne le sentenze originarie straniere il Consiglio federale può prevedere una forma semplificata di iscrizione;\nf. informazioni sulla sanzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati relativi alle sentenze originarie da iscrivere",
+        "citation": "Art. 20 cpv. 2 LCaGi",
+        "content": "Se una sentenza originaria dev’essere iscritta (art. 16 cpv. 1 lett. a e 2 lett. a), la data dell’inizio e della fine dell’esecuzione di ogni pena detentiva o misura privativa della libertà è iscritta in VOSTRA qualora nei confronti dell’interessato siano stati pronunciati in Svizzera un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate ai sensi del CP o del CPM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati relativi alle sentenze originarie da iscrivere",
+        "citation": "Art. 20 cpv. 3 LCaGi",
+        "content": "Se una sentenza originaria svizzera che prevede l’espulsione dev’essere iscritta, sono iscritti in VOSTRA i dati seguenti:\na. per il computo del termine di cui all’articolo 38 capoverso 4 lettera d, la data in cui l’interessato ha lasciato la Svizzera o, se questa non è nota, quella in cui avrebbe dovuto lasciarla;\nb. per il computo del termine di cui all’articolo 30 capoverso 2 lettera n seconda frase, l’accoglimento della richiesta di una persona naturalizzata in Svizzera da oltre otto anni di eliminare la sentenza secondo i termini di cui all’articolo 30 capoverso 2 lettere a–m.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati relativi alle sentenze originarie da iscrivere",
+        "citation": "Art. 20 cpv. 4 LCaGi",
+        "content": "Ai fini dell’iscrizione nel casellario giudiziale, le sentenze che prevedono una pena complementare, una pena parzialmente complementare o una pena unica sono considerate sentenze distinte. È ammesso il rinvio a decisioni già eliminate o che non devono essere iscritte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati relativi alle sentenze originarie da iscrivere",
+        "citation": "Art. 20 cpv. 5 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da iscrivere e la loro forma, nonché le categorie di riferimento per l’iscrizione delle sentenze originarie straniere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_20"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Decisioni successive",
+        "citation": "Art. 21 cpv. 1 LCaGi",
+        "content": "Le decisioni successive passate in giudicato inerenti a una sentenza originaria da iscrivere sono iscritte in VOSTRA se concernono:\na. la liberazione dall’esecuzione di una pena, di una misura terapeutica o di un internamento;\nb. l’insuccesso del periodo di prova in caso di sospensione condizionale totale o parziale di una pena;\nc. la soppressione, la modifica o la pronuncia a posteriori di una misura terapeutica, di un internamento, di un collocamento o di un trattamento ambulatoriale;\nd. la soppressione, la modifica, o la pronuncia a posteriori di un’interdizione di esercitare un’attività o di un divieto di avere contatti e di accedere ad aree determinate;\ne. una grazia, un’amnistia o un exequatur;\nf. altri casi stabiliti dal Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Decisioni successive",
+        "citation": "Art. 21 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da iscrivere e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_21"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Copie elettroniche delle sentenze originarie, delle decisioni successive e dei moduli di comunicazione",
+        "citation": "Art. 22 cpv. 1 LCaGi",
+        "content": "È memorizzata in VOSTRA una copia elettronica del testo originale integrale delle sentenze originarie (art. 18) e decisioni successive (art. 21) pronunciate in Svizzera contro un adulto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Copie elettroniche delle sentenze originarie, delle decisioni successive e dei moduli di comunicazione",
+        "citation": "Art. 22 cpv. 2 LCaGi",
+        "content": "In caso di sentenze originarie e decisioni successive straniere (art. 19 e 21), è memorizzata in VOSTRA una copia elettronica del relativo modulo di comunicazione. Se è trasmesso soltanto l’originale della sentenza originaria o della decisione successiva, non viene allestita una copia elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_22"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati generati automaticamente dal sistema di gestione dei dati penali",
+        "citation": "Art. 23 cpv. 1 LCaGi",
+        "content": "Se una persona è registrata in VOSTRA, il sistema di gestione dei dati penali genera automaticamente dati di sistema, in particolare:\na. indicazioni sull’autore della prima iscrizione di dati e della loro modifica;\nb. gli avvisi di recidiva destinati alle competenti autorità giudiziarie penali o d’esecuzione in caso di insuccesso del periodo di prova;\nc. alla scadenza di determinati termini, gli avvisi di controllo per la verifica di eventi che possono influire sulla durata di conservazione dei dati;\nd. gli avvisi di controllo concernenti la mancata assegnazione di un numero AVS;\ne. gli avvisi di controllo per l’iscrizione delle date di esecuzione di cui all’articolo 20 capoverso 2;\nf. l’indicazione del periodo durante il quale le iscrizioni figureranno negli estratti del casellario giudiziale;\ng. l’indicazione della data prevista della fine di un’interdizione di esercitare un’attività, di un divieto di avere contatti e di accedere ad aree determinate o di un’espulsione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Dati generati automaticamente dal sistema di gestione dei dati penali",
+        "citation": "Art. 23 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale definisce il contenuto esatto degli avvisi, nonché i dati di sistema e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_23"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Procedimenti penali pendenti",
+        "citation": "Art. 24 cpv. 1 LCaGi",
+        "content": "I procedimenti penali di cui all’articolo 16 capoversi 1 lettera b e 2 lettera b sono iscritti in VOSTRA come pendenti non appena:\na. chi dirige il procedimento apre l’istruzione (art. 309 cpv. 1 CPP, art. 103 cpv. 1 della procedura penale militare del 23 marzo 1979, art. 38 cpv. 1 della legge federale del 22 marzo 1974 sul diritto penale amministrativo);\nb. un decreto d’accusa è emanato senza apertura di un’istruzione; o\nc. un procedimento penale minorile è continuato nei confronti di un autore che ha compiuto i 18 anni e dimora abitualmente in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Procedimenti penali pendenti",
+        "citation": "Art. 24 cpv. 2 LCaGi",
+        "content": "Sono iscritti i dati seguenti:\na. i dati identificativi dell’imputato (art. 17);\nb. la data di apertura dell’istruzione o la data in cui il decreto d’accusa è stato emanato senza apertura di un’istruzione (art. 309 cpv. 4 CPP);\nc. l’autorità cui compete la direzione del procedimento;\nd. il reato contestato all’imputato; \ne. le modifiche rilevanti dei fatti di cui alle lettere a–d, in particolare la rimessione del procedimento o la modifica dell’imputazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 1: Dati iscritti nel sistema di gestione dei dati penali, Procedimenti penali pendenti",
+        "citation": "Art. 24 cpv. 3 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da iscrivere e la loro forma, nonché l’autorità competente per iscrivere la rimessione di un procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_24"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Verbalizzazione automatica delle consultazioni effettuate dalle autorità",
+        "citation": "Art. 25 cpv. 1 LCaGi",
+        "content": "Se un’autorità consulta in linea dati penali di VOSTRA, sono automaticamente verbalizzati nello stesso il nome di tale autorità, la data, l’ora e lo scopo della consultazione, i dati penali consultati e le generalità della persona interessata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Verbalizzazione automatica delle consultazioni effettuate dalle autorità",
+        "citation": "Art. 25 cpv. 2 LCaGi",
+        "content": "Le consultazioni effettuate dalle autorità che gestiscono VOSTRA sono automaticamente verbalizzate nello stesso soltanto se servono alla prima iscrizione di dati penali o all’allestimento di un estratto su richiesta scritta di un’autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Verbalizzazione automatica delle consultazioni effettuate dalle autorità",
+        "citation": "Art. 25 cpv. 3 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da verbalizzare e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Verbalizzazione automatica delle consultazioni effettuate dalle autorità",
+        "citation": "Art. 25 cpv. 4 LCaGi",
+        "content": "I dati verbalizzati possono essere utilizzati soltanto nell’ambito dell’esercizio del diritto di accesso (art. 57) o per l’esecuzione di controlli da parte del Servizio del casellario giudiziale (art. 3 cpv. 2 lett. g).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_25"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste in linea di estratti di un casellario giudiziale estero",
+        "citation": "Art. 26 cpv. 1 LCaGi",
+        "content": "I dati relativi alle richieste in linea di estratti di un casellario giudiziale estero sono iscritti e trattati in VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste in linea di estratti di un casellario giudiziale estero",
+        "citation": "Art. 26 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale definisce i dati da iscrivere e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_26"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste di estratti per privati ed estratti specifici per privati",
+        "citation": "Art. 27 cpv. 1 LCaGi",
+        "content": "I dati personali relativi alle richieste di estratti per privati (art. 41) e di estratti specifici per privati (art. 42) sono iscritti e trattati in VOSTRA e in una banca dati ausiliaria separata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste di estratti per privati ed estratti specifici per privati",
+        "citation": "Art. 27 cpv. 2 LCaGi",
+        "content": "Nella banca dati ausiliaria non sono iscritti dati personali degni di particolare protezione. Essa serve soltanto al disbrigo delle richieste di estratti; contiene i dati necessari all’identificazione e alla localizzazione del richiedente, alla richiesta e al suo trattamento, al pagamento degli emolumenti, all’invio degli estratti e alla dichiarazione di cui all’articolo 55 capoverso 4. Il Consiglio federale definisce i dati da iscrivere e la loro forma.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste di estratti per privati ed estratti specifici per privati",
+        "citation": "Art. 27 cpv. 3 LCaGi",
+        "content": "Determinati dati della banca dati ausiliaria sono trasferiti in VOSTRA mediante un’interfaccia nell’ambito dell’elaborazione dell’estratto. Il Consiglio federale determina i dati da trasferire e definisce in dettaglio le modalità del processo di trasferimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 2: Dati iscritti al di fuori del sistema di gestione dei dati penali, Dati relativi alle richieste di estratti per privati ed estratti specifici per privati",
+        "citation": "Art. 27 cpv. 4 LCaGi",
+        "content": "In VOSTRA è inoltre memorizzata una copia elettronica dell’estratto rilasciato; la copia può contenere anche dati penali. Essa serve a verificare l’autenticità dell’estratto rilasciato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_27"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 3: Termini per l’iscrizione dei dati in VOSTRA",
+        "citation": "Art. 28 LCaGi",
+        "content": "Il Consiglio federale stabilisce i termini entro i quali ciascuna categoria di dati dev’essere iscritta in VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_28"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione in caso di decesso",
+        "citation": "Art. 29 cpv. 1 LCaGi",
+        "content": "Tutti i dati concernenti una persona sono eliminati da VOSTRA non appena il decesso della stessa è comunicato da un’autorità o accertato dal Servizio del casellario giudiziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione in caso di decesso",
+        "citation": "Art. 29 cpv. 2 LCaGi",
+        "content": "Per le comunicazioni di decesso possono essere predisposte interfacce con il registro dello stato civile (art. 66) e il sistema d’informazione centrale sulla migrazione (SIMIC; art. 65).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione in caso di decesso",
+        "citation": "Art. 29 cpv. 3 LCaGi",
+        "content": "Quando una persona compie 80 anni secondo le sue generalità iscritte in VOSTRA, il Servizio del casellario giudiziale verifica se la stessa è ancora in vita. In seguito ripete la verifica ogni cinque anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione in caso di decesso",
+        "citation": "Art. 29 cpv. 4 LCaGi",
+        "content": "Quando uno straniero che non dimora in Svizzera compie 100 anni secondo le sue generalità iscritte in VOSTRA, tutti i dati concernenti lo stesso sono eliminati da VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_29"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle sentenze originarie",
+        "citation": "Art. 30 cpv. 1 LCaGi",
+        "content": "Le sentenze originarie svizzere e straniere sono eliminate da VOSTRA non appena i termini previsti per tutte le sentenze originarie concernenti la stessa persona sono scaduti. È fatto salvo il capoverso 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle sentenze originarie",
+        "citation": "Art. 30 cpv. 2 LCaGi",
+        "content": "Si applicano i termini seguenti:\na. le sentenze originarie che prevedono una pena detentiva senza condizionale, o una pena detentiva con la condizionale totale o parziale successivamente revocata, sono eliminate se, oltre alla durata della pena commisurata dal giudice, sono trascorsi:\n1. 25 anni in caso di pena detentiva di cinque o più anni,\n2. 20 anni in caso di pena detentiva da uno a meno di cinque anni,\n3. 15 anni in caso di pena detentiva inferiore a un anno,\n4. 12 anni in caso di privazione della libertà secondo l’articolo 25 DPMin;\nb. i termini di cui alla lettera a sono protratti della durata di una pena detentiva o di una privazione della libertà già iscritte in VOSTRA;\nc. indipendentemente dagli altri termini di cui al presente capoverso, le sentenze originarie che prevedono una pena detentiva a vita o nelle quali è stata riconosciuta la colpevolezza dell’autore di uno dei reati di cui alle disposizioni seguenti sono eliminate alla morte dell’interessato:\n1. CP: articoli 111, 112, 122, 140 numero 4, 182 capoverso 2, 185 numeri 2 e 3, 187 numero 1, 189 capoverso 3, 190, 191, 221 capoverso 2 e 264–264j,\n2. CPM: articoli 108–114, 115, 116, 121, 132 numero 4, 151c numeri 2 e 3, 153 capoverso 2, 154, 155, 156 numero 1 e 160 capoverso 2;\nd. le sentenze originarie che prevedono una pena detentiva con la condizionale totale o parziale successivamente non revocata, una pena pecuniaria, un lavoro di pubblica utilità o una multa inflitta a un adulto sono eliminate dopo 15 anni;\ne. le sentenze originarie che prevedono una privazione della libertà secondo l’articolo 25 DPMin con la condizionale totale o parziale successivamente non revocata sono eliminate dopo dieci anni;\nf. le sentenze originarie nelle quali è stata riconosciuta la colpevolezza dell’autore del reato ma si prescinde dalla punizione sono eliminate dopo 15 anni;\ng. le sentenze originarie che prevedono una pena cumulata con una misura stazionaria, una misura stazionaria soltanto o una misura commutata a posteriori in misura stazionaria, nonché le sentenze originarie che hanno dato luogo a una misura stazionaria ordinata a posteriori (art. 65 CP), sono eliminate dopo:\n1. 20 anni in caso di misure secondo gli articoli 59–61 e 64 CP,\n2. 12 anni in caso di collocamento in un istituto chiuso secondo l’articolo 15 capoverso 2 DPMin,\n3. 10 anni in caso di collocamento in un istituto aperto o presso privati secondo l’articolo 15 capoverso 1 DPMin;\nh. i termini di cui alla lettera g sono protratti della durata di un resto di pena, indipendentemente dal fatto che questo sia scontato o meno;\ni. le sentenze originarie che prevedono unicamente un trattamento ambulatoriale secondo l’articolo 63 CP cumulato con una delle misure di cui alla lettera k, o soltanto un siffatto trattamento ambulatoriale, sono eliminate dopo 15 anni; è fatta salva la lettera g;\nj. le sentenze originarie che prevedono un trattamento ambulatoriale secondo l’articolo 14 DPMin sono eliminate dopo otto anni se non è possibile calcolare il termine conformemente alle lettere a–h;\nk. le sentenze originarie che prevedono soltanto una cauzione preventiva, un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM, un divieto di condurre o un’esclusione dall’esercito secondo l’articolo 48 CPM sono eliminate dopo 15 anni;\nl. se la decisione svizzera di exequatur concernente una sentenza originaria straniera prevede una sanzione più lieve di quella inflitta nella sentenza straniera, per il computo del termine è determinante la sanzione prevista nella decisione svizzera;\nm. le sentenze originarie che prevedono un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 2, 3 o 4 CP, l’articolo 50 capoverso 2, 3 o 4 CPM o l’articolo 16a capoverso 1 DPMin o un divieto di avere contatti e di accedere ad aree determinate, nonché le sentenze originarie che hanno dato luogo a una tale misura ordinata a posteriori sono eliminate dopo 15 anni; se più lunghi, si applicano i termini di cui alle lettere a–l e n;\nn. le sentenze originarie che prevedono un’espulsione sono eliminate alla morte dell’interessato; se acquista la cittadinanza svizzera, otto anni dopo la naturalizzazione questi può chiedere al Servizio del casellario giudiziale di eliminare la sentenza originaria secondo i termini di cui alle lettere a–m.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle sentenze originarie",
+        "citation": "Art. 30 cpv. 3 LCaGi",
+        "content": "I termini di cui al capoverso 2 decorrono:\na. per le sentenze originarie di cui al capoverso 2 lettere a, c–f e k, dal giorno in cui la sentenza passa in giudicato;\nb. per le sentenze originarie di cui al capoverso 2 lettere g, i e j, dal giorno della soppressione della misura ordinata nella sentenza originaria, della liberazione definitiva dalla misura o della rinuncia all’esecuzione della stessa (art. 64 cpv. 3 e 64c cpv. 6 CP); se la misura ordinata nella sentenza originaria è commutata in misura stazionaria, il termine decorre dalla fine dell’ultima misura stazionaria ordinata;\nc. per le sentenze originarie di cui al capoverso 2 lettera m prima frase, dal giorno in cui prende fine l’ultima interdizione o l’ultimo divieto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle sentenze originarie",
+        "citation": "Art. 30 cpv. 4 LCaGi",
+        "content": "Se una nuova sentenza è pronunciata in seguito a revisione, a nuovo giudizio nell’ambito di una procedura contumaciale o a riapertura del procedimento, il termine decorre come se la nuova sentenza fosse stata pronunciata alla data in cui lo è stata la sentenza annullata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle sentenze originarie",
+        "citation": "Art. 30 cpv. 5 LCaGi",
+        "content": "Le sentenze originarie annullate sono eliminate senza indugio. In caso di annullamento in seguito a revisione o a nuovo giudizio nell’ambito di una procedura contumaciale, è ammesso il rinvio alla sentenza annullata se necessario per calcolare il termine di eliminazione della nuova sentenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_30"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle decisioni successive, dei dati di sistema generati automaticamente e delle copie elettroniche",
+        "citation": "Art. 31 cpv. 1 LCaGi",
+        "content": "I dati concernenti le decisioni successive (art. 21), i dati di sistema generati automaticamente (art. 23) e le copie elettroniche (art. 22) sono eliminati da VOSTRA appena lo sono i dati di cui all’articolo 16 ai quali si riferiscono.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle decisioni successive, dei dati di sistema generati automaticamente e delle copie elettroniche",
+        "citation": "Art. 31 cpv. 2 LCaGi",
+        "content": "Una decisione successiva annullata è eliminata, unitamente alla sua copia elettronica, anche se la sentenza originaria cui si riferisce non lo è ancora.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione delle decisioni successive, dei dati di sistema generati automaticamente e delle copie elettroniche",
+        "citation": "Art. 31 cpv. 3 LCaGi",
+        "content": "I dati di sistema che generano una richiesta automatica a un’altra autorità sono eliminati appena tale autorità risponde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_31"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione dei procedimenti penali pendenti",
+        "citation": "Art. 32 cpv. 1 LCaGi",
+        "content": "I dati concernenti un procedimento penale pendente (art. 24) sono eliminati da VOSTRA non appena il procedimento si conclude con una decisione passata in giudicato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione dei procedimenti penali pendenti",
+        "citation": "Art. 32 cpv. 2 LCaGi",
+        "content": "Se un procedimento penale è sospeso, la relativa iscrizione è mantenuta in VOSTRA sino all’abbandono del procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione dei procedimenti penali pendenti",
+        "citation": "Art. 32 cpv. 3 LCaGi",
+        "content": "L’autorità giudicante che pronuncia una decisione definitiva ai sensi del capoverso 1 si assicura che l’iscrizione concernente il procedimento penale pendente sia eliminata da VOSTRA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_32"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Eliminazione degli altri dati",
+        "citation": "Art. 33 LCaGi",
+        "content": "Gli altri dati sono eliminati da VOSTRA come segue:\na. i dati verbalizzati automaticamente all’atto delle consultazioni effettuate dalle autorità (art. 25), due anni dopo la consultazione;\nb. i dati relativi alle richieste in linea di estratti di un casellario giudiziale estero (art. 26), non appena l’autorità estera risponde, ma al più tardi un anno dopo l’iscrizione della richiesta in VOSTRA;\nc. i dati relativi alle richieste di estratti per privati ed estratti specifici per privati (art. 27), due anni dopo la presentazione della richiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_33"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Distruzione dei dati eliminati e divieto di archiviazione",
+        "citation": "Art. 34 cpv. 1 LCaGi",
+        "content": "I dati del casellario giudiziale eliminati da VOSTRA secondo gli articoli 29–33 sono distrutti e non sono archiviati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo sesto: Contenuto di VOSTRA, Capitolo 4:, Eliminazione dei dati da VOSTRA e divieto di archiviazione, Distruzione dei dati eliminati e divieto di archiviazione",
+        "citation": "Art. 34 cpv. 2 LCaGi",
+        "content": "I dati eliminati da VOSTRA non devono poter essere ricostruiti. I dati verbalizzati ai sensi dell’articolo 25 possono essere conservati sino alla loro eliminazione secondo l’articolo 33 lettera a anche se i dati a cui si riferiscono sono stati eliminati dal sistema di gestione dei dati penali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_34"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Corrispondenza tra profilo di consultazione e categoria d’estratto",
+        "citation": "Art. 35 cpv. 1 LCaGi",
+        "content": "La consultazione dei dati di VOSTRA da parte delle autorità e dei privati (art. 43–56) si fonda su profili di consultazione predefiniti (art. 37–42).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Corrispondenza tra profilo di consultazione e categoria d’estratto",
+        "citation": "Art. 35 cpv. 2 LCaGi",
+        "content": "A ciascun profilo di consultazione del sistema di gestione dei dati penali corrisponde un estratto del casellario giudiziale che può essere visualizzato in linea o stampato. Il Consiglio federale stabilisce in che misura l’estratto stampato differisce dall’estratto consultato in linea.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Corrispondenza tra profilo di consultazione e categoria d’estratto",
+        "citation": "Art. 35 cpv. 3 LCaGi",
+        "content": "Le autorità che dispongono di un diritto di consultazione in linea non operativo possono chiedere per scritto un estratto del casellario giudiziale corrispondente al loro profilo di consultazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_35"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Computo dei termini per le sanzioni previste nelle sentenze pronunciate in base al diritto anteriore e nelle sentenze straniere",
+        "citation": "Art. 36 cpv. 1 LCaGi",
+        "content": "I termini alla cui scadenza un’iscrizione cessa di figurare nell’estratto del casellario giudiziale in virtù degli articoli 37–42 si applicano per analogia alle sanzioni previste nelle sentenze pronunciate in base al diritto anteriore e nelle sentenze straniere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Computo dei termini per le sanzioni previste nelle sentenze pronunciate in base al diritto anteriore e nelle sentenze straniere",
+        "citation": "Art. 36 cpv. 2 LCaGi",
+        "content": "In caso di sentenze originarie straniere, è considerata durata dell’interdizione di esercitare un’attività o del divieto di avere contatti e di accedere ad aree determinate quella indicata nella sentenza originaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 1: Disposizioni generali, Computo dei termini per le sanzioni previste nelle sentenze pronunciate in base al diritto anteriore e nelle sentenze straniere",
+        "citation": "Art. 36 cpv. 3 LCaGi",
+        "content": "Le espulsioni pronunciate nelle sentenze originarie straniere sono ininfluenti ai fini del computo dei termini.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_36"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 1 per autorità",
+        "citation": "Art. 37 cpv. 1 LCaGi",
+        "content": "L’estratto 1 per autorità consente di consultare i dati seguenti:\na. i dati identificativi della persona (art. 17);\nb. le sentenze originarie (art. 18–20);\nc. le decisioni successive (art. 21);\nd. se disponibili, le copie elettroniche delle sentenze originarie, delle decisioni successive e dei moduli di comunicazione (art. 22); sono fatte salve le eccezioni previste negli articoli 45 capoverso 2 e 52 capoverso 3 riguardo alla trasmissione di informazioni all’estero;\ne. i procedimenti penali pendenti (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 1 per autorità",
+        "citation": "Art. 37 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale stabilisce quali dati di sistema generati automaticamente (art. 23) possono essere consultati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 1 per autorità",
+        "citation": "Art. 37 cpv. 3 LCaGi",
+        "content": "I dati di cui ai capoversi 1 e 2 cessano di figurare nell’estratto 1 per autorità una volta scaduti i termini stabiliti negli articoli 29–32.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_37"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 2 per autorità",
+        "citation": "Art. 38 cpv. 1 LCaGi",
+        "content": "L’estratto 2 per autorità consente di consultare i dati che figurano nell’estratto 1 per autorità (art. 37 cpv. 1), eccettuate le copie elettroniche delle sentenze originarie e delle decisioni successive di cui all’articolo 22 capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 2 per autorità",
+        "citation": "Art. 38 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale stabilisce quali dati di sistema generati automaticamente (art. 23) possono essere consultati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 2 per autorità",
+        "citation": "Art. 38 cpv. 3 LCaGi",
+        "content": "Le iscrizioni inerenti a una sentenza originaria cessano di figurare nell’estratto 2 per autorità alla scadenza dei termini seguenti:\na. le sentenze originarie che prevedono una pena detentiva senza condizionale, o una pena detentiva con la condizionale totale o parziale successivamente revocata, cessano di figurare nell’estratto se, oltre alla durata della pena commisurata dal giudice, sono trascorsi:\n1. 20 anni in caso di pena detentiva di cinque o più anni,\n2. 15 anni in caso di pena detentiva da uno a meno di cinque anni,\n3. 10 anni in caso di pena detentiva inferiore a un anno,\n4. 10 anni in caso di privazione della libertà secondo l’articolo 25 DPMin;\nb. i termini di cui alla lettera a sono protratti della durata di una pena detentiva o di una privazione della libertà già iscritte in VOSTRA;\nc. le sentenze originarie che prevedono una pena detentiva a vita figurano nell’estratto sino alla morte dell’interessato;\nd. le sentenze originarie che prevedono una pena detentiva con la condizionale totale o parziale successivamente non revocata, una pena pecuniaria, un lavoro di pubblica utilità o una multa inflitta a un adulto cessano di figurare nell’estratto dopo dieci anni;\ne. le sentenze originarie che prevedono una privazione della libertà secondo l’articolo 25 DPMin con la condizionale totale o parziale successivamente non revocata cessano di figurare nell’estratto dopo sette anni;\nf. le sentenze originarie nelle quali è stata riconosciuta la colpevolezza dell’autore del reato ma si prescinde dalla punizione cessano di figurare nell’estratto dopo dieci anni;\ng. le sentenze originarie che prevedono una pena cumulata con una misura stazionaria, una misura stazionaria soltanto o una misura commutata a posteriori in misura stazionaria, nonché le sentenze originarie che hanno dato luogo a una misura stazionaria ordinata a posteriori (art. 65 CP), cessano di figurare nell’estratto dopo:\n1. 15 anni in caso di misure secondo gli articoli 59–61 e 64 CP,\n2. 10 anni in caso di collocamento in un istituto chiuso secondo l’articolo 15 capoverso 2 DPMin,\n3. 7 anni in caso di collocamento in un istituto aperto o presso privati secondo l’articolo 15 capoverso 1 DPMin;\nh. i termini di cui alla lettera g sono protratti della durata di un resto di pena, indipendentemente dal fatto che questo sia scontato o meno;\ni. le sentenze originarie che prevedono unicamente un trattamento ambulatoriale secondo l’articolo 63 CP cumulato con una delle misure di cui alla lettera k, o soltanto un siffatto trattamento ambulatoriale, cessano di figurare nell’estratto dopo dieci anni; è fatta salva la lettera g;\nj. le sentenze originarie che prevedono un trattamento ambulatoriale secondo l’articolo 14 DPMin cessano di figurare nell’estratto dopo cinque anni se non è possibile calcolare il termine conformemente alle lettere a–h;\nk. le sentenze originarie che prevedono soltanto una cauzione preventiva, un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM, un divieto di condurre o un’esclusione dall’esercito secondo l’articolo 48 CPM cessano di figurare nell’estratto dopo dieci anni;\nl. se la decisione svizzera di exequatur concernente una sentenza originaria straniera prevede una sanzione più lieve di quella inflitta nella sentenza straniera, per il computo del termine è determinante la sanzione prevista nella decisione svizzera;\nm. le sentenze originarie che prevedono un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 2, 3 o 4 CP, l’articolo 50 capoverso 2, 3 o 4 CPM o l’articolo 16a capoverso 1 DPMin o un divieto di avere contatti e di accedere ad aree determinate, nonché le sentenze originarie che hanno dato luogo a una tale misura ordinata a posteriori, cessano di figurare nell’estratto dopo dieci anni; se più lunghi, si applicano i termini di cui alle lettere a–l e n;\nn. le sentenze originarie che prevedono un’espulsione figurano nell’estratto finché l’interessato è soggetto a quest’ultima; se più lunghi, si applicano i termini di cui alle lettere a–m.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 2 per autorità",
+        "citation": "Art. 38 cpv. 4 LCaGi",
+        "content": "I termini di cui al capoverso 3 decorrono:\na. per le sentenze originarie di cui al capoverso 3 lettere a, c–f e k, dal giorno in cui la sentenza passa in giudicato;\nb. per le sentenze originarie di cui al capoverso 3 lettere g, i e j, dal giorno della soppressione della misura ordinata nella sentenza originaria, della liberazione definitiva dalla misura o della rinuncia all’esecuzione della stessa (art. 64 cpv. 3 e 64c cpv. 6 CP); se la misura ordinata nella sentenza originaria è commutata in misura stazionaria, il termine decorre dalla fine dell’ultima misura stazionaria ordinata;\nc. per le sentenze originarie di cui al capoverso 3 lettera m prima frase, dal giorno in cui prende fine l’ultima interdizione o l’ultimo divieto;\nd. per le sentenze originarie di cui al capoverso 3 lettera n, dal giorno in cui l’interessato ha lasciato la Svizzera o, se tale giorno non è noto, da quello in cui avrebbe dovuto lasciarla.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 2 per autorità",
+        "citation": "Art. 38 cpv. 5 LCaGi",
+        "content": "Se una nuova sentenza o una nuova decisione è pronunciata in seguito a revisione, a nuovo giudizio nell’ambito di una procedura contumaciale o a riapertura del procedimento, il termine decorre come se la nuova sentenza o decisione fosse stata pronunciata alla data in cui lo è stata la sentenza o decisione annullata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_38"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 3 per autorità",
+        "citation": "Art. 39 LCaGi",
+        "content": "L’estratto 3 per autorità consente di consultare i dati che figurano nell’estratto 2 per autorità (art. 38), eccettuati i dati concernenti i procedimenti penali pendenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_39"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 4 per autorità",
+        "citation": "Art. 40 cpv. 1 LCaGi",
+        "content": "L’estratto 4 per autorità consente di consultare i dati seguenti:\na. i dati identificativi della persona (art. 17);\nb. le sentenze originarie svizzere contro adulti (art. 18 cpv. 1) se:\n1. è stata inflitta una sanzione per un crimine o un delitto,\n2. in caso di contravvenzione, sono stati pronunciati un’interdizione di esercitare un’attività o un divieto di avere contatti e di accedere ad aree determinate;\nc. le sentenze originarie straniere contro adulti (art. 19 lett. d n. 1);\nd. le sentenze originarie svizzere e straniere contro minori (art. 18 cpv. 2 e 3 e 19 lett. d n. 2), se in età adulta l’interessato è stato condannato per altri reati che figurano nell’estratto 4 per autorità; la presente disposizione si applica anche alle sentenze miste ai sensi dell’articolo 3 capoverso 2 DPMin;\ne. le decisioni successive (art. 21) e copie elettroniche dei moduli di comunicazione (art. 22 cpv. 2) relative a una sentenza originaria che figura nell’estratto 4 per autorità;\nf. i procedimenti penali pendenti (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 4 per autorità",
+        "citation": "Art. 40 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale stabilisce quali dati di sistema generati automaticamente (art. 23) possono essere consultati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto 4 per autorità",
+        "citation": "Art. 40 cpv. 3 LCaGi",
+        "content": "Le iscrizioni inerenti a una sentenza originaria cessano di figurare nell’estratto 4 per autorità alla scadenza dei termini seguenti:\na. le sentenze originarie che prevedono una sanzione cessano di figurare nell’estratto se sono trascorsi due terzi della durata determinante secondo l’articolo 38 capoverso 3 lettere a–l; vi figurano tuttavia almeno sino alla fine di un’espulsione pronunciata nella sentenza originaria e di un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM pronunciata in tale sentenza o a posteriori; in caso di pena detentiva a vita, la sentenza figura nell’estratto sino alla morte dell’interessato;\nb. le sentenze originarie che prevedono una pena con la condizionale totale o parziale, successivamente non revocata, senza che sia stata ordinata simultaneamente o a posteriori una misura stazionaria, cessano di figurare nell’estratto se il condannato ha superato con successo il periodo di prova; vi figurano tuttavia almeno sino alla fine di un’espulsione pronunciata nella sentenza originaria e di un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM pronunciata in tale sentenza o a posteriori; vi è insuccesso del periodo di prova non appena è iscritta in VOSTRA una relativa decisione successiva (art. 46 CP);\nc. le sentenze originarie svizzere che prevedono soltanto una multa per un crimine o un delitto cessano di figurare nell’estratto se il condannato ha superato con successo un periodo di prova di due anni; vi figurano tuttavia almeno sino alla fine di un’espulsione pronunciata nella sentenza originaria e di un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM pronunciata in tale sentenza o a posteriori; il periodo di prova decorre dalla comunicazione della sentenza ed è superato con successo se non è commesso un nuovo crimine o delitto mentre è in corso;\nd. le sentenze originarie che prevedono unicamente uno o più dei seguenti divieti o interdizioni cumulati con un’espulsione, o soltanto uno o più dei seguenti divieti o interdizioni, cessano di figurare nell’estratto sette anni dopo il passaggio in giudicato; vi figurano tuttavia almeno sino alla fine di un’espulsione pronunciata nella sentenza originaria e di un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM pronunciata a posteriori:\n1. interdizione di esercitare un’attività secondo l’articolo 67 capoverso 2, 3 o 4 CP, l’articolo 50 capoverso 2, 3 o 4 CPM o l’articolo 16a capoverso 1 DPMin,\n2. divieto di avere contatti e di accedere ad aree determinate pronunciato contro un adulto (art. 67b CP, art. 50b CPM),\n3. divieto di avere contatti e di accedere ad aree determinate pronunciato contro un minore (art. 16a cpv. 2 DPMin) a tutela di minori o di altre persone particolarmente vulnerabili;\ne. le sentenze originarie che prevedono soltanto un divieto di avere contatti e di accedere ad aree determinate pronunciato contro un minore (art. 16a cpv. 2 DPMin) per uno scopo diverso dalla tutela di minori o di altre persone particolarmente vulnerabili cessano di figurare nell’estratto alla fine del divieto; ciò vale anche se il divieto è stato pronunciato a posteriori;\nf. le sentenze originarie figurano nell’estratto oltre il termine di cui alle lettere a–e se l’estratto contiene anche una sentenza originaria per la quale il termine non è ancora scaduto, ma al massimo sino alla scadenza del termine di cui all’articolo 38 capoverso 3 lettere a–l, eccezionalmente più a lungo: sino alla fine di un’espulsione pronunciata nella sentenza originaria; le sentenze di cui alla lettera d figurano nell’estratto per dieci anni al massimo dopo il passaggio in giudicato, eccezionalmente più a lungo: sino alla fine di un’espulsione pronunciata nella sentenza originaria e di un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM pronunciata a posteriori; le sentenze di cui alla lettera e vi figurano per cinque anni al massimo dopo la fine del divieto; ciò vale anche se il divieto è stato pronunciato a posteriori;\ng. se un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 1 CP o l’articolo 50 capoverso 1 CPM è stata pronunciata a posteriori (art. 67d cpv. 1 CP), la sentenza originaria cui è connessa figura nell’estratto, anche oltre i termini di cui alle lettere a–f, fintanto che tale interdizione ha effetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_40"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto per privati",
+        "citation": "Art. 41 LCaGi",
+        "content": "L’estratto per privati consente di consultare i dati che figurano nell’estratto 4 per autorità (art. 40), eccettuati i dati concernenti i procedimenti penali pendenti (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_41"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto specifico per privati",
+        "citation": "Art. 42 cpv. 1 LCaGi",
+        "content": "L’estratto specifico per privati consente di consultare i dati seguenti:\na. i dati identificativi della persona (art. 17);\nb. le sentenze originarie svizzere e straniere contro adulti (art. 18 cpv. 1 e 19 lett. d n. 1), se nella sentenza originaria o in una decisione successiva sono stati pronunciati uno dei seguenti divieti o interdizioni o un’analoga misura straniera:\n1. un’interdizione di esercitare un’attività secondo l’articolo 67 capoverso 2, 3 o 4 CP o l’articolo 50 capoverso 2, 3 o 4 CPM,\n2. un divieto di avere contatti e di accedere ad aree determinate secondo l’articolo 67b CP o l’articolo 50b CPM, a tutela di minori o di altre persone particolarmente vulnerabili;\nc. le sentenze originarie svizzere e straniere contro minori (art. 18 cpv. 2 e 3 e 19 lett. d n. 2), se nella sentenza originaria o in una decisione successiva sono stati pronunciati uno dei seguenti divieti o interdizioni o un’analoga misura straniera:\n1. un’interdizione di esercitare un’attività secondo l’articolo 16a capoverso 1 DPMin,\n2. un divieto di avere contatti e di accedere ad aree determinate secondo l’articolo 16a capoverso 2 DPMin, a tutela di minori o di altre persone particolarmente vulnerabili;\nd. le decisioni successive (art. 21) e copie elettroniche dei moduli di comunicazione (art. 22 cpv. 2) relative a una sentenza originaria che figura nell’estratto specifico per privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto specifico per privati",
+        "citation": "Art. 42 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale stabilisce quali dati di sistema generati automaticamente (art. 23) possono essere consultati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 1:, Profili di consultazione e categorie di estratti nel sistema di gestionedei dati penali, Sezione 2: Profili di consultazione, Estratto specifico per privati",
+        "citation": "Art. 42 cpv. 3 LCaGi",
+        "content": "Una sentenza originaria secondo il capoverso 1 e le iscrizioni inerenti alla stessa figurano nell’estratto specifico per privati fintanto che hanno effetto un divieto o un’interdizione secondo il capoverso 1 lettera b o c connessi con tale sentenza originaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_42"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione in linea del Servizio del casellario giudiziale e dei suoi fornitori di servizi informatici",
+        "citation": "Art. 43 cpv. 1 LCaGi",
+        "content": "Al fine di gestire VOSTRA conformemente all’articolo 3, il Servizio del casellario giudiziale può consultare in linea tutti i dati che vi sono memorizzati (art. 16–27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione in linea del Servizio del casellario giudiziale e dei suoi fornitori di servizi informatici",
+        "citation": "Art. 43 cpv. 2 LCaGi",
+        "content": "I fornitori di servizi informatici incaricati della manutenzione e della programmazione dal Servizio del casellario giudiziale possono consultare i dati di cui al capoverso 1 nella misura necessaria all’adempimento dei loro compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_43"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione in linea dei SERCO e del Servizio di coordinamento della giustizia militare",
+        "citation": "Art. 44 cpv. 1 LCaGi",
+        "content": "I SERCO e il Servizio di coordinamento della giustizia militare possono consultare in linea i dati di VOSTRA nei limiti del profilo di consultazione delle autorità per le quali iscrivono dati e allestiscono estratti del casellario giudiziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione in linea dei SERCO e del Servizio di coordinamento della giustizia militare",
+        "citation": "Art. 44 cpv. 2 LCaGi",
+        "content": "Possono consultare in linea tutti i dati memorizzati in VOSTRA, eccettuati:\na. i dati verbalizzati automaticamente all’atto delle consultazioni effettuate dalle autorità (art. 25);\nb. i dati relativi alle richieste in linea di estratti di un casellario giudiziale estero (art. 26);\nc. i dati relativi alle richieste di estratti per privati ed estratti specifici per privati (art. 27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_44"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea l’estratto 1 per autorità",
+        "citation": "Art. 45 cpv. 1 LCaGi",
+        "content": "Soltanto le seguenti autorità collegate possono consultare mediante procedura di richiamo tutti i dati figuranti nell’estratto 1 per autorità (art. 37), nella misura necessaria per adempiere i compiti elencati qui appresso:\na. le autorità giudicanti penali ordinarie, i pubblici ministeri cantonali, il Ministero pubblico della Confederazione, le autorità penali minorili ai sensi degli art. 6 cpv. 1 lett. b e c e 7 PPMin e le autorità penali delle contravvenzioni ai sensi dell’art. 12 lett. c CPP:per svolgere procedimenti penali, in particolare per:\n– chiarire le questioni di competenza\n– esaminare la vita anteriore dell’imputato al fine di commisurare la pena e formulare un pronostico\n– accertare e valutare l’insuccesso di un periodo di prova\n– esaminare la reputazione di periti, testimoni e persone informate sui fatti\n– trasmettere a periti psichiatrici informazioni sulla vita anteriore dell’imputato;\nb. le autorità amministrative della Confederazione e dei Cantoni che svolgono procedimenti penali o pronunciano decisioni penali in virtù del diritto federale:per svolgere procedimenti penali, in particolare per:\n– chiarire le questioni di competenza\n– esaminare la vita anteriore dell’imputato al fine di commisurare la pena e formulare un pronostico\n– accertare e valutare l’insuccesso di un periodo di prova\n– esaminare la reputazione di periti, testimoni e persone informate sui fatti\n– trasmettere a periti psichiatrici informazioni sulla vita anteriore dell’imputato;\nc. il servizio dell’Ufficio federale di giustizia competente in materia di assistenza giudiziaria internazionale:per svolgere procedure di assistenza giudiziaria internazionale e procedure di estradizione;\nd. le autorità preposte all’esecuzione delle pene e delle misure (compresi l’assistenza riabilitativa, i giudici d’applicazione delle pene e delle misure e le autorità inquirenti competenti per l’esecuzione nella procedura penale minorile):per provvedere all’esecuzione delle pene e delle misure, in particolare per:\n– allestire un piano di esecuzione\n– consentire la rielaborazione terapeutica del reato\n– formulare un pronostico in vista dell’autorizzazione di un regime aperto o di una decisione successiva inerente a una misura\n– verificare l’eventuale esistenza di pene non eseguite in vista di una liberazione condizionale\n– valutare il rischio di recidiva nell’ambito dell’assistenza riabilitativa\n– evitare decisioni contraddittorie nella valutazione dell’insuccesso di un periodo di prova o di un regime aperto;\ne. i servizi competenti dell’Ufficio federale di polizia:1. per perseguire i reati di cui agli art. 23, 24 e 27 cpv. 2 CPP nell’ambito della procedura preliminare secondo il CPP, in particolare per:\n– corroborare o infirmare indizi di reato\n– coordinare i procedimenti, segnatamente al fine di evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di periti, testimoni e persone informate sui fatti\n– proteggere gli agenti infiltrati o gli agenti in incognito controllando l’ambiente di vita dell’autore,2. per trasmettere informazioni alle autorità seguenti, se tali dati sono necessari all’estero per perseguire reati nell’ambito di indagini di polizia giudiziaria:\n– a Interpol\n– all’Ufficio europeo di polizia (Europol), in applicazione dell’art. 355a CP\n– a servizi di polizia esteri, nell’ambito della cooperazione bilaterale di polizia\n– ad autorità estere di perseguimento penale, in applicazione dell’art. 7 della legge del 12 giugno 2009 sullo scambio di informazioni con gli Stati Schengen (LSIS);\nf. i servizi cantonali di polizia:per perseguire i reati nell’ambito della procedura preliminare secondo il CPP, in particolare per:\n– corroborare o infirmare indizi di reato\n– evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di periti, testimoni e persone informate sui fatti\n– proteggere gli agenti infiltrati o gli agenti in incognito controllando l’ambiente di vita dell’autore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea l’estratto 1 per autorità",
+        "citation": "Art. 45 cpv. 2 LCaGi",
+        "content": "Nell’ambito della trasmissione di informazioni di polizia all’estero ai sensi del capoverso 1 lettera e numero 2 non possono essere trasmesse copie elettroniche delle sentenze originarie e delle decisioni successive (art. 22 cpv. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_45"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea l’estratto 2 per autorità",
+        "citation": "Art. 46 LCaGi",
+        "content": "Le seguenti autorità collegate possono consultare mediante procedura di richiamo tutti i dati figuranti nell’estratto 2 per autorità (art. 38), nella misura necessaria per adempiere i compiti elencati qui appresso:\na. i servizi competenti dell’Ufficio federale di polizia:1. per individuare o prevenire reati secondo l’art. 1 della legge federale del 7 ottobre 1994 sugli Uffici centrali di polizia giudiziaria della Confederazione e i centri comuni di cooperazione di polizia e doganale con altri Stati (LUC), in particolare per:\n– corroborare o infirmare sospetti iniziali inerenti a possibili pericoli\n– evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di informatori\n– effettuare analisi della situazione e della minaccia ai sensi dell’art. 2 lett. c LUC,2. per gestire l’Ufficio di comunicazione in materia di riciclaggio di denaro, ossia per:\n– verificare e analizzare le comunicazioni ai sensi della legge del 10 ottobre 1997 sul riciclaggio di denaro (LRD)\n– evitare indagini parallele,3. per trasmettere informazioni alle autorità seguenti, se tali dati sono necessari all’estero per individuare o prevenire reati:\n– a Interpol\n– a Europol, in applicazione dell’art. 355a CP\n– a servizi di polizia esteri, nell’ambito della cooperazione bilaterale di polizia\n– ad autorità estere di perseguimento penale, in applicazione dell’art. 7 LSIS,4. per pronunciare e revocare misure di respingimento nei confronti di stranieri secondo la legge federale del 16 dicembre 2005 sugli stranieri e la loro integrazione (LStrI) e per preparare decisioni di espulsione secondo l’art. 121 cpv. 2 Cost.,5. per valutare i rischi rappresentati da persone nei confronti delle quali sussistono indizi secondo cui potrebbero costituire un pericolo per persone da proteggere ai sensi dell’art. 22 cpv. 1 della legge federale del 21 marzo 1997 sulle misure per la salvaguardia della sicurezza interna (LMSI),6. per effettuare i controlli della rete di sistemi d’informazione di cui all’art. 9 della legge federale del 13 giugno 2008 sui sistemi d’informazione di polizia dellaConfederazione (LSIP),7. per esaminare se sono adempiute le condizioni per la cancellazione di profili del DNA secondo gli art. 16–19 della legge del 20 giugno 2003 sui profili del DNA e di dati segnaletici secondo l’art. 354 CP,8. per esaminare l’idoneità di una persona per un programma di protezione dei testimoni ai sensi della legge federale del 23 dicembre 2011 sulla protezione extraprocessuale dei testimoni e per valutare i rischi rappresentati da persone nei confronti delle quali sussistono indizi secondo cui potrebbero costituire un pericolo per la persona da proteggere,9. per trasmettere informazioni a uffici SIRENE esteri, se tali dati sono necessari per localizzare gli autori di reati o coordinare e attuare misure di respingimento disposte nei confronti di stranieri,10. per trattare domande di autorizzazioni di acquisto e di autorizzazioni eccezionali per precursori, per verificare tali autorizzazioni e per trattare le segnalazioni di eventi sospetti ai sensi della legge federale del 25 settembre 2020 sui precursori di sostanze esplodenti;\nb. il Servizio delle attività informative della Confederazione (SIC):1. per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’art. 6 cpv. 1 della legge federale del 25 settembre 2015 sulle attività informative (LAIn), in particolare per:\n– corroborare o infirmare sospetti iniziali inerenti a possibili pericoli\n– evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di informatori,2. per trasmettere a Europol informazioni ai sensi dell’art. 355a CP, se tali dati sono necessari all’estero per prevenire reati,3. per esaminare misure di respingimento nei confronti di stranieri secondo la LStrI e per preparare decisioni di espulsione secondo l’art. 121 cpv. 2 Cost.,4. per acquisire e trasmettere informazioni ad autorità di sicurezza estere nell’ambito di richieste secondo l’art. 12 cpv. 1 lett. d LAIn; i dati la cui trasmissione non è nell’interesse della persona in questione possono essere trasmessi soltanto con il suo consenso esplicito;\nc. le autorità di cui all’art. 9 LAIn che collaborano con il SIC:per individuare tempestivamente e sventare minacce per la sicurezza interna o esterna secondo l’art. 6 cpv. 1 LAIn, in particolare per:\n– corroborare o infirmare sospetti iniziali inerenti a possibili pericoli \n– evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di informatori;\nd. i servizi cantonali di polizia:1. per individuare o prevenire reati, in particolare per:\n– corroborare o infirmare sospetti iniziali inerenti a possibili pericoli\n– evitare indagini parallele\n– esaminare l’attendibilità di persone interrogate\n– esaminare la reputazione di informatori\n– proteggere gli agenti infiltrati e gli agenti in incognito controllando l’ambiente di rischio,2. per interpretare i dati delle banche dati di polizia,3. per accertare il rischio per la sicurezza nell’ambito di un controllo dei precedenti personali secondo l’articolo 108b della legge federale del 21 dicembre 1948 sulla navigazione aerea;\ne. i servizi specializzati competenti per l’esecuzione dei controlli di sicurezza relativi alle persone secondo l’articolo 31 capoverso 2 della legge del 18 dicembre 2020 sulla sicurezza delle informazioni (LSIn):1. per valutare il rischio nell’ambito dei controlli di sicurezza relativi alle persone secondo la LSIn, 2. per valutare il potenziale di pericolo o di abuso secondo la legge militare del 3 febbraio 1995, 3. per valutare il rischio nell’ambito di altri controlli previsti nella legislazione speciale;\nf. la Segreteria di Stato della migrazione:1. per svolgere le procedure di naturalizzazione a livello federale, compreso l’annullamento di naturalizzazioni,2. per prendere le decisioni secondo la LStrI per le quali sono necessari dati penali,3. per prendere le decisioni secondo la legge del 26 giugno 1998 sull’asilo (LAsi) per le quali sono necessari dati penali;\ng. le autorità cantonali competenti per il conferimento della cittadinanza cantonale:per svolgere le procedure di naturalizzazione a livello cantonale, compreso l’annullamento di naturalizzazioni;\nh. le autorità cantonali competenti in materia di migrazione (polizia degli stranieri):per prendere le decisioni secondo la LStrI per le quali sono necessari dati penali;\ni. l’Aggruppamento Difesa:1. per esaminare una decisione di non reclutamento, un’ammissione al reclutamento, un’esclusione dall’esercito, una riammissione nell’esercito, una degradazione o l’idoneità a una promozione o a una nomina secondo la legge militare del 3 febbraio 1995 (LM),2. per esaminare i motivi d’impedimento per la cessione dell’arma personale secondo la LM;\nj. i comandi di polizia competenti in virtù della legislazione cantonale per i controlli di sicurezza relativi agli agenti di polizia e agli aspiranti agenti di polizia:per esaminare le condizioni per il reclutamento, la nomina, la promozione, la degradazione, l’esclusione e la riammissione di agenti di polizia e aspiranti agenti di polizia;\nk. i servizi cantonali competenti per autorizzare prestazioni di sicurezza private:per rilasciare e revocare le autorizzazioni alle persone che forniscono prestazioni di sicurezza private e per autorizzare l’esercizio dell’attività di impresa di sicurezza;\nl. l’autorità federale competente per l’esecuzione della legge federale del 27 settembre 2013 sulle prestazioni di sicurezza private fornite all’estero (LPSP):per effettuare controlli riguardo alle persone responsabili di un’impresa ai sensi dell’art. 2 LPSP o alle persone che forniscono prestazioni di sicurezza private all’estero;\nm. l’Ufficio federale di statistica:per trattare i dati conformemente alla legge del 9 ottobre 1992 sulla statistica federale (LStat), in particolare per:\n– completare i dati concernenti una persona\n– garantire la qualità qualora sentenze siano comunicate più volte;\nn. i servizi centrali cantonali cui competono le comunicazioni per la cancellazione dei profili del DNA e di altri dati segnaletici:per esaminare se sono adempiute le condizioni per la cancellazione di profili del DNA secondo gli art. 16–19 della legge del 20 giugno 2003 sui profili del DNA e di dati segnaletici secondo l’art. 354 CP;\no. l’organo d’esecuzione del servizio civile:1. per pronunciare l’esclusione dal servizio civile o da prestazioni di servizio civile secondo la legge del 6 ottobre 1995 sul servizio civile (LSC),2. per verificare la reputazione di una persona in vista di determinati impieghi secondo la LSC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_46"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea l’estratto 3 per autorità ",
+        "citation": "Art. 47 LCaGi",
+        "content": "Le seguenti autorità collegate possono consultare mediante procedura di richiamo tutti i dati figuranti nell’estratto 3 per autorità (art. 39), nella misura necessaria per adempiere i compiti elencati qui appresso:\na. le autorità cantonali competenti in materia di circolazione stradale:per rilasciare e revocare licenze di condurre o licenze per allievo conducente secondo la legge federale del 19 dicembre 1958 sulla circolazione stradale;\nb. gli organi cantonali competenti per le decisioni concernenti l’esclusione dal servizio di protezione civile:per esaminare un’esclusione dal servizio di protezione civile secondo la legge federale del 4 ottobre 2002 sulla protezione della popolazione e sulla protezione civile;\nc. l’Autorità federale di vigilanza sui mercati finanziari (FINMA):per controllare se le persone che necessitano di un’autorizzazione, di un riconoscimento, di un’abilitazione o di una registrazione della FINMA in virtù delle leggi sui mercati finanziari offrono la garanzia di un’attività irreprensibile;\nd. l’Autorità federale di sorveglianza dei revisori:per concedere e revocare abilitazioni e pronunciare ammonimenti e misure nei confronti di persone fisiche attive per conto di un’impresa di revisione sotto sorveglianza statale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_47"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea l’estratto 4 per autorità",
+        "citation": "Art. 48 LCaGi",
+        "content": "Le seguenti autorità collegate possono consultare mediante procedura di richiamo tutti i dati figuranti nell’estratto 4 per autorità (art. 40), nella misura necessaria per adempiere i compiti elencati qui appresso:\na. le autorità cantonali competenti per l’esecuzione della legge del 20 giugno 1997 sulle armi (LArm):per rilasciare e revocare autorizzazioni e per sequestrare e confiscare armi secondo la LArm;\nb. il servizio competente dell’Ufficio federale di polizia:per rilasciare e revocare autorizzazioni secondo la LArm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_48"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea i dati relativi alle richieste di estratti di un casellario giudiziale estero",
+        "citation": "Art. 49 cpv. 1 LCaGi",
+        "content": "Le seguenti autorità possono compilare in linea una richiesta di estratto di un casellario giudiziale estero e consultare i dati corrispondenti:\na. le autorità collegate a VOSTRA:1. se un trattato internazionale obbliga il casellario giudiziale estero a fornire informazioni per lo scopo indicato nella richiesta, o2. se in virtù della presente legge sarebbe possibile consultare un estratto del casellario giudiziale svizzero per lo scopo indicato nella richiesta;\nb. il Servizio del casellario giudiziale:per trasmettere al casellario giudiziale estero la richiesta di cui alla lettera a e trattare la risposta dello stesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare in linea i dati relativi alle richieste di estratti di un casellario giudiziale estero",
+        "citation": "Art. 49 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale precisa quali autorità svizzere possono presentare le richieste di cui al capoverso 1 e per quali scopi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_49"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare su richiesta scritta l’estratto 1 per autorità",
+        "citation": "Art. 50 LCaGi",
+        "content": "Soltanto le seguenti autorità non collegate possono consultare su richiesta scritta tutti i dati figuranti nell’estratto 1 per autorità (art. 37), nella misura necessaria per adempiere i compiti elencati qui appresso:\nle autorità della giustizia militare (autorità giudicanti militari, uditori e giudici istruttori):per svolgere procedimenti penali, in particolare per:\n– chiarire le questioni di competenza\n– esaminare la vita anteriore dell’imputato al fine di commisurare la pena e formulare un pronostico\n– esaminare la reputazione di periti, testimoni e persone informate sui fatti\n– trasmettere a periti psichiatrici informazioni sulla vita anteriore dell’imputato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_50"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Autorità con diritto di consultare su richiesta scritta l’estratto 2 per autorità",
+        "citation": "Art. 51 LCaGi",
+        "content": "Le seguenti autorità non collegate possono consultare su richiesta scritta tutti i dati figuranti nell’estratto 2 per autorità (art. 38), nella misura necessaria per adempiere i compiti elencati qui appresso:\na. le autorità cantonali di protezione dei minori e degli adulti:per ordinare e revocare misure di protezione dei minori e degli adulti;\nb. i medici competenti secondo l’art. 429 del Codice civile (CC):per ordinare il ricovero a scopo di assistenza;\nc. le autorità cantonali cui competono il rilascio delle autorizzazioni e l’esercizio della vigilanza nell’ambito della vigilanza sugli affiliati ai sensi dell’art. 316 cpv. 2 CC:per esaminare la reputazione degli istituti e persone che si occupano di minori e soggiacciono a un obbligo di autorizzazione e a una vigilanza in virtù del diritto federale o del diritto cantonale;\nd. le autorità cantonali competenti in materia di adozione ai sensi dell’art. 316 cpv. 1bis CC:per esaminare l’idoneità all’adozione dei futuri genitori adottivi;\ne. l’Autorità centrale federale in materia di adozione internazionale dell’Ufficio federale di giustizia:per raccogliere e scambiare informazioni sui futuri genitori adottivi nelle procedure di adozione internazionale;\nf. ...\ng. i giudici civili:per assumere prove, in particolare al fine di ordinare o revocare misure di protezione dei minori;\nh. l’Ufficio federale dello sport:per verificare la reputazione di una persona in vista del rilascio, della sospensione o della revoca di un riconoscimento di quadro Gioventù e Sport secondo l’art. 10 della legge del 17 giugno 2011 sulla promozione dello sport;\ni. le autorità federali e cantonali competenti in materia di grazia:per svolgere procedure di grazia;\nj. i servizi incaricati delle decisioni in materia di personale negli istituti di esecuzione delle pene e delle misure, di carcerazione preventiva e di carcerazione di sicurezza:per procedere ai controlli di sicurezza relativi agli agenti di custodia e ai terzi cui si fa capo per l’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_51"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità estere",
+        "citation": "Art. 52 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale rilascia estratti del casellario giudiziale alle autorità estere che ne fanno richiesta se ciò è previsto da un trattato internazionale o da una legge in senso formale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità estere",
+        "citation": "Art. 52 cpv. 2 LCaGi",
+        "content": "L’autorità estera riceve l’estratto cui avrebbe diritto un’autorità svizzera con la stessa funzione qualora presentasse una richiesta analoga.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità estere",
+        "citation": "Art. 52 cpv. 3 LCaGi",
+        "content": "La comunicazione di dati del casellario giudiziale ad autorità estere per mezzo dell’estratto 1 per autorità non comprende la trasmissione delle copie elettroniche delle sentenze originarie e delle decisioni successive (art. 22 cpv. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità estere",
+        "citation": "Art. 52 cpv. 4 LCaGi",
+        "content": "Non sono comunicati dati all’estero se ciò potrebbe esporre l’interessato o i suoi congiunti a pregiudizi gravi per la vita, l’integrità fisica o la libertà ai sensi della Convenzione del 4 novembre 1950 per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali (CEDU) o di altri trattati internazionali ratificati dalla Svizzera, o al pericolo di una doppia punizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità estere",
+        "citation": "Art. 52 cpv. 5 LCaGi",
+        "content": "Il Dipartimento federale di giustizia e polizia (DFGP) può emanare istruzioni concernenti il rilascio di estratti del casellario giudiziale alle autorità estere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_52"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 2: Diritto di consultazione delle autorità, Diritto di consultazione delle autorità di ricorso",
+        "citation": "Art. 53 LCaGi",
+        "content": "Le autorità di ricorso che statuiscono sulle decisioni delle autorità con diritto di consultazione hanno i medesimi diritti di consultazione di queste ultime (art. 43–52).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_53"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto per privati",
+        "citation": "Art. 54 cpv. 1 LCaGi",
+        "content": "Ognuno può chiedere al Servizio del casellario giudiziale il proprio estratto per privati (art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto per privati",
+        "citation": "Art. 54 cpv. 2 LCaGi",
+        "content": "Se un privato chiede l’estratto di un terzo, questo può essergli rilasciato soltanto con il consenso scritto del terzo interessato. Nei limiti del proprio potere di rappresentanza, il rappresentante legale del terzo interessato non necessita del suo consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto per privati",
+        "citation": "Art. 54 cpv. 3 LCaGi",
+        "content": "Il richiedente deve provare l’identità della persona riguardo alla quale è allestito l’estratto e fornire le altre informazioni necessarie all’identificazione della stessa. Se chiede l’estratto di un terzo, deve inoltre provare la propria identità e, se del caso, il proprio potere di rappresentanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_54"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto specifico per privati",
+        "citation": "Art. 55 cpv. 1 LCaGi",
+        "content": "Chiunque offre un’attività professionale o extraprofessionale organizzata implicante un contatto regolare con minori o altre persone particolarmente vulnerabili oppure inerente al settore sanitario e implicante un contatto diretto con i pazienti, o funge da intermediario per una siffatta attività, può esigere da chi vi si candida o la esercita la presentazione di un estratto specifico per privati al fine di esaminarne la reputazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto specifico per privati",
+        "citation": "Art. 55 cpv. 1bis LCaGi",
+        "content": "Può esigere dall’interessato la presentazione di un estratto specifico per privati anche l’autorità cui compete il rilascio o la revoca di un’autorizzazione concernente un’attività ai sensi del capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto specifico per privati",
+        "citation": "Art. 55 cpv. 2 LCaGi",
+        "content": "L’estratto può essere utilizzato e trasmesso ad altri soltanto per lo scopo di cui ai capoversi 1 e 1bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto specifico per privati",
+        "citation": "Art. 55 cpv. 3 LCaGi",
+        "content": "Alla richiesta di estratti specifici per privati si applicano le condizioni di cui all’articolo 54.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Estratto specifico per privati",
+        "citation": "Art. 55 cpv. 4 LCaGi",
+        "content": "Alla richiesta va inoltre allegato un modulo ufficiale nel quale l’offerente o intermediario ai sensi del capoverso 1 o l’autorità ai sensi del capoverso 1bis conferma che l’interessato si candida per un’attività secondo il capoverso 1 o la esercita oppure necessita di un’autorizzazione per tale attività e a tal fine deve presentare l’estratto specifico per privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_55"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Emolumenti",
+        "citation": "Art. 56 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale riscuote un emolumento per il rilascio di estratti per privati ed estratti specifici per privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 1: Estratto per privati ed estratto specifico per privati, Emolumenti",
+        "citation": "Art. 56 cpv. 2 LCaGi",
+        "content": "Il Consiglio federale stabilisce le basi di calcolo degli emolumenti, in particolare la loro tariffa e la loro composizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_56"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 2:, Diritto di accesso secondo la legislazione sulla protezione dei dati",
+        "citation": "Art. 57 cpv. 1 LCaGi",
+        "content": "Ognuno può domandare al Servizio del casellario giudiziale se dati che lo concernono sono memorizzati in VOSTRA (art. 16–26) o nella banca dati ausiliaria per le richieste di estratti per privati ed estratti specifici per privati (art. 27).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 2:, Diritto di accesso secondo la legislazione sulla protezione dei dati",
+        "citation": "Art. 57 cpv. 2 LCaGi",
+        "content": "Non sono fornite informazioni sulle consultazioni verbalizzate automaticamente (art. 25) effettuate:\na. dal Ministero pubblico della Confederazione, dai pubblici ministeri cantonali o dalle autorità penali minorili ai sensi dell’articolo 6 capoverso 1 lettere b e c PPMin, per adempiere i compiti di cui all’articolo 45 capoverso 1 lettera a della presente legge;\nb. dall’Ufficio federale di polizia, per adempiere i compiti di cui agli articoli 45 capoverso 1 lettera e nonché 46 lettera a;\nc. dai servizi cantonali di polizia, per adempiere i compiti di cui agli articoli 45 capoverso 1 lettera f e 46 lettera d;\nd. dal SIC o dalle autorità di cui all’articolo 9 LAIn che collaborano con il SIC, per adempiere i compiti di cui all’articolo 46 lettere b e c della presente legge;\ne. dal servizio dell’Ufficio federale di giustizia competente in materia di assistenza giudiziaria internazionale, per adempiere i compiti di cui all’articolo 45 capoverso 1 lettera c;\nf. da un giudice dei provvedimenti coercitivi o da un’autorità di ricorso, sempre che la consultazione sia stata effettuata nell’ambito di una procedura di approvazione di misure di sorveglianza segrete;\ng. dal Servizio del casellario giudiziale o da un SERCO, sempre che la consultazione sia stata effettuata al fine di allestire un estratto per un’autorità di cui alle lettere a–f o un’autorità estera con compiti analoghi;\nh. dal Servizio di coordinamento della giustizia militare, sempre che la consultazione sia stata effettuata al fine di allestire un estratto per un’autorità istruttoria militare o un’autorità militare competente per l’approvazione di misure di sorveglianza segrete.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 2:, Diritto di accesso secondo la legislazione sulla protezione dei dati",
+        "citation": "Art. 57 cpv. 3 LCaGi",
+        "content": "Chi intende far valere il proprio diritto di accesso deve provare la propria identità e presentare una domanda scritta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 2:, Diritto di accesso secondo la legislazione sulla protezione dei dati",
+        "citation": "Art. 57 cpv. 4 LCaGi",
+        "content": "Le informazioni sono fornite oralmente nei locali del Servizio del casellario giudiziale. Il richiedente non può consultare VOSTRA direttamente allo schermo. Se è registrato nel sistema, può prendere visione sul posto di tutti i dati che lo concernono. I documenti nei quali figurano tali dati non gli sono consegnati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 3: Diritto di consultazione dei privati, Sezione 2:, Diritto di accesso secondo la legislazione sulla protezione dei dati",
+        "citation": "Art. 57 cpv. 5 LCaGi",
+        "content": "Se constata che i dati che lo concernono sono inesatti, il richiedente può far valere i propri diritti secondo l’articolo 41 della legge federale del 25 settembre 2020 sulla protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_57"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni all’Ufficio federale di statistica",
+        "citation": "Art. 58 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica periodicamente all’Ufficio federale di statistica, in forma elettronica, i dati di VOSTRA necessari per l’elaborazione di statistiche ai sensi della LStat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_58"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni all’Aggruppamento Difesa",
+        "citation": "Art. 59 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica senza indugio all’Aggruppamento Difesa, per gli scopi di cui al capoverso 2, i seguenti nuovi dati iscritti in VOSTRA che concernono persone soggette all’obbligo di leva, militari e persone soggette all’obbligo di prestare servizio di protezione civile:\na. le sentenze originarie svizzere per un crimine o un delitto;\nb. le sentenze originarie straniere;\nc. le misure privative della libertà;\nd. le decisioni concernenti l’insuccesso del periodo di prova;\ne. procedimenti penali pendenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni all’Aggruppamento Difesa",
+        "citation": "Art. 59 cpv. 2 LCaGi",
+        "content": "L’Aggruppamento Difesa può utilizzare i dati comunicati per esaminare:\na. una decisione di non reclutamento, un’ammissione al reclutamento, un’esclusione dall’esercito, una riammissione nell’esercito, una degradazione o l’idoneità a una promozione o a una nomina secondo la LM;\nb. i motivi d’impedimento per la cessione dell’arma personale secondo la LM;\nc. un’esclusione dal servizio di protezione civile secondo la legge federale del 4 ottobre 2002 sulla protezione della popolazione e sulla protezione civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni all’Aggruppamento Difesa",
+        "citation": "Art. 59 cpv. 3 LCaGi",
+        "content": "La comunicazione è effettuata mediante un’interfaccia elettronica tra il Sistema di gestione del personale dell’esercito e della protezione civile (PISA) e VOSTRA. I dati di cui al capoverso 1 sono selezionati e trasmessi in modo automatizzato in base al numero AVS dell’interessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_59"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità competenti in materia di circolazione stradale",
+        "citation": "Art. 60 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica all’autorità competente in materia di circolazione stradale del Cantone di domicilio o del Cantone in cui sono state pronunciate, per iscrizione nel sistema d’informazione sull’ammissione alla circolazione (SIAC), le nuove sentenze originarie svizzere iscritte in VOSTRA che prevedono un divieto di condurre ai sensi dell’articolo 67e CP o dell’articolo 50e CPM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità competenti in materia di circolazione stradale",
+        "citation": "Art. 60 cpv. 2 LCaGi",
+        "content": "La comunicazione può essere effettuata mediante un’interfaccia elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_60"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni al servizio dell’Ufficio federale di giustizia competente per la ripartizione dei valori patrimoniali confiscati",
+        "citation": "Art. 61 LCaGi",
+        "content": "Il Servizio del casellario giudiziale trasmette al servizio dell’Ufficio federale di giustizia competente per la ripartizione dei valori patrimoniali confiscati le copie elettroniche delle sentenze originarie svizzere (art. 22 cpv. 1) necessarie per lo svolgimento delle procedure di ripartizione secondo la legge federale del 19 marzo 2004 sulla ripartizione dei valori patrimoniali confiscati, se è stata ordinata la confisca di valori patrimoniali il cui importo lordo è di almeno 100 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_61"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di stranieri e alla Segreteria di Stato della migrazione",
+        "citation": "Art. 62 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica alle autorità cantonali competenti in materia di stranieri i seguenti nuovi dati iscritti in VOSTRA che concernono stranieri:\na. le sentenze originarie svizzere (art. 18 e 20);\nb. i procedimenti penali pendenti (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di stranieri e alla Segreteria di Stato della migrazione",
+        "citation": "Art. 62 cpv. 1bis LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica alla Segreteria di Stato della migrazione i seguenti nuovi dati iscritti in VOSTRA che concernono stranieri:\na. le sentenze originarie svizzere (art. 18 e 20);\nb. i procedimenti penali pendenti (art. 24);\nc. la data di partenza effettiva o quella stabilita dall’autorità di esecuzione (art. 20 cpv. 3 lett. a) e il motivo della partenza: rinvio coatto, estradizione, trasferimento ai fini dell’esecuzione della sanzione all’estero, partenza volontaria;\nd. la sospensione dell’esecuzione dell’espulsione;\ne. la revoca della sospensione dell’esecuzione dell’espulsione;\nf. le modifiche dei dati comunicati riguardanti l’espulsione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di stranieri e alla Segreteria di Stato della migrazione",
+        "citation": "Art. 62 cpv. 2 LCaGi",
+        "content": "I dati comunicati possono essere utilizzati soltanto nella misura in cui sono necessari per l’esecuzione della LStrI, della legge del 20 giugno 2014 sulla cittadinanza o della LAsi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di stranieri e alla Segreteria di Stato della migrazione",
+        "citation": "Art. 62 cpv. 3 LCaGi",
+        "content": "La comunicazione è effettuata indicando il numero AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_62"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di armi",
+        "citation": "Art. 63 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica alle autorità cantonali competenti per l’esecuzione della LArm le nuove sentenze originarie svizzere (art. 18 e 20) e i nuovi procedimenti penali pendenti (art. 24) iscritti in VOSTRA che concernono una persona registrata con il proprio numero AVS nel sistema d’informazione sull’acquisto e il possesso di armi da fuoco di cui all’articolo 32a capoverso 2 LArm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni alle autorità cantonali competenti in materia di armi",
+        "citation": "Art. 63 cpv. 2 LCaGi",
+        "content": "I dati comunicati possono essere utilizzati soltanto nella misura in cui sono necessari per l’esecuzione della LArm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_63"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 1 LCaGi",
+        "content": "Il Servizio del casellario giudiziale comunica allo Stato di origine, se noto, le sentenze originarie e decisioni successive contro stranieri iscritte in VOSTRA, in applicazione della Convenzione europea di assistenza giudiziaria in materia penale del 20 aprile 1959 o di altri trattati internazionali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 2 LCaGi",
+        "content": "Non sono comunicate:\na. le sentenze concernenti reati punibili soltanto secondo il diritto penale militare;\nb. le sentenze in materia fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 3 LCaGi",
+        "content": "La comunicazione all’estero non è effettuata se potrebbe esporre l’interessato o i suoi congiunti a pregiudizi gravi per la vita, l’integrità fisica o la libertà ai sensi della CEDU o di altri trattati internazionali ratificati dalla Svizzera, o al pericolo di una doppia punizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 4 LCaGi",
+        "content": "Se una persona registrata in VOSTRA possiede più cittadinanze, ciascuno Stato di origine che vi abbia diritto in virtù di un trattato internazionale riceve una corrispondente comunicazione; se tale persona possiede anche la cittadinanza svizzera, non è effettuata nessuna comunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 5 LCaGi",
+        "content": "Le nuove iscrizioni sono comunicate ogni mese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo settimo: Comunicazione di dati di VOSTRA, Capitolo 4: Comunicazione automatica di dati di VOSTRA ad autorità, Comunicazioni allo Stato di origine",
+        "citation": "Art. 64 cpv. 6 LCaGi",
+        "content": "Il DFGP può emanare istruzioni concernenti le comunicazioni alle autorità estere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_64"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo ottavo: Comunicazione automatica di dati a VOSTRA, Interfaccia con il registro dello stato civile",
+        "citation": "Art. 66 cpv. 1 LCaGi",
+        "content": "Il registro dello stato civile di cui all’articolo 45a CC comunica a VOSTRA i decessi delle persone registrate in entrambe le banche dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_66"
+    },
+    {
+        "book": "StReG",
+        "title": "LCaGi, Titolo ottavo: Comunicazione automatica di dati a VOSTRA, Interfaccia con il registro dello stato civile",
+        "citation": "Art. 66 cpv. 2 LCaGi",
+        "content": "La comunicazione è effettuata mediante un’interfaccia elettronica tra il registro dello stato civile e VOSTRA. I dati sono selezionati e trasmessi in modo automatizzato in base al numero AVS dell’interessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/600/it#art_66"
+    }
+]

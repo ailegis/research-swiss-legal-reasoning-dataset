@@ -1,0 +1,2277 @@
+[
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Scopo",
+        "citation": "Art. 1 cpv. 1 LPAmb",
+        "content": "Scopo della presente legge è di proteggere l’uomo, la fauna e la flora, le loro biocenosi e i loro biotopi dagli effetti dannosi e molesti, e di conservare in modo duraturo le basi naturali della vita, in particolare la diversità biologica e la fertilità del suolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_1"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Scopo",
+        "citation": "Art. 1 cpv. 2 LPAmb",
+        "content": "A scopo di prevenzione, gli effetti che potrebbero divenire dannosi o molesti devono essere limitati tempestivamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_1"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Principio di causalità",
+        "citation": "Art. 2 LPAmb",
+        "content": "Le spese delle misure prese secondo la presente legge sono sostenute da chi ne è la causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_2"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Riserva di altre leggi",
+        "citation": "Art. 3 cpv. 1 LPAmb",
+        "content": "Sono riservate le prescrizioni più severe di altre leggi federali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_3"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Riserva di altre leggi",
+        "citation": "Art. 3 cpv. 2 LPAmb",
+        "content": "Le sostanze radioattive e le radiazioni ionizzanti sottostanno alla legislazione sull’energia nucleare e a quella sulla radioprotezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_3"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Prescrizioni esecutive fondate su altre leggi federali",
+        "citation": "Art. 4 cpv. 1 LPAmb",
+        "content": "Le prescrizioni fondate su altre leggi federali e concernenti gli effetti cagionati all’ambiente dagli inquinamenti atmosferici, dal rumore, dalle vibrazioni e radiazioni devono corrispondere al principio della limitazione delle emissioni (art. 11), ai valori limite delle immissioni (art. 13–15), ai valori d’allarme (art. 19) e ai valori di pianificazione (art. 23–25).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_4"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Prescrizioni esecutive fondate su altre leggi federali",
+        "citation": "Art. 4 cpv. 2 LPAmb",
+        "content": "Le prescrizioni sull’utilizzazione di sostanze e organismi fondate su altre leggi federali devono corrispondere ai principi riguardanti l’utilizzazione di sostanze (art. 26–28) e organismi (art. 29a–29h).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_4"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 1: Principi, Deroghe per la difesa nazionale",
+        "citation": "Art. 5 LPAmb",
+        "content": "In quanto lo esiga la difesa nazionale, il Consiglio federale disciplina, in via d’ordinanza, le deroghe alle disposizioni della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_5"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 1 LPAmb",
+        "content": "Per effetti si intendono gli inquinamenti atmosferici, il rumore, le vibrazioni, le radiazioni, gli inquinamenti delle acque o altri interventi su corsi d’acqua, il deterioramento del suolo, le modificazioni del materiale genetico di organismi o le modificazioni della diversità biologica, prodotti dalla costruzione o dall’esercizio di impianti, dall’utilizzazione di sostanze, organismi o rifiuti, oppure dalla coltivazione del suolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 2 LPAmb",
+        "content": "Gli inquinamenti atmosferici, il rumore, le vibrazioni e le radiazioni sono, all’uscita da un impianto, definiti emissioni e, nel luogo di impatto, immissioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 3 LPAmb",
+        "content": "Per inquinamenti atmosferici s’intendono le alterazioni delle condizioni naturali dell’aria dovute, segnatamente, a fumo, fuliggine, polvere, gas, aerosol, vapori, odore o calore disperso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 4 LPAmb",
+        "content": "Gli infra e gli ultrasuoni sono equiparati al rumore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 4bis LPAmb",
+        "content": "Per deterioramento del suolo si intendono le modificazioni fisiche, chimiche o biologiche delle caratteristiche naturali del suolo. Per suolo si intende soltanto lo strato superficiale di terra, in quanto mobile e adatto alla crescita delle piante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 5 LPAmb",
+        "content": "Per sostanze s’intendono gli elementi chimici e i loro composti allo stato naturale o ottenuti mediante un processo produttivo. Sono loro equiparati i preparati (composti, miscele, soluzioni) e gli oggetti che contengono tali sostanze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 5bis LPAmb",
+        "content": "Per organismi si intendono le unità biologiche cellulari o acellulari capaci di riprodursi o di trasmettere materiale genetico. Sono loro equiparati le combinazioni e gli oggetti che contengono tali unità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 5ter LPAmb",
+        "content": "Gli organismi modificati mediante la tecnologia genetica (organismi geneticamente modificati) sono organismi il cui materiale genetico è stato modificato in un modo non ottenibile naturalmente mediante incroci o ricombinazioni naturali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 5quater LPAmb",
+        "content": "Gli organismi patogeni sono organismi che possono causare malattie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 6 LPAmb",
+        "content": "Per rifiuti si intendono le cose mobili delle quali il detentore si libera o che devono essere smaltite nell’interesse pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 6bis LPAmb",
+        "content": "Lo smaltimento dei rifiuti comprende il loro riciclaggio o deposito definitivo nonché le operazioni preliminari di raccolta, trasporto, deposito provvisorio e trattamento. Per trattamento si intende qualsiasi modificazione fisica, biologica o chimica dei rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 6ter LPAmb",
+        "content": "Per utilizzazione si intende qualsiasi attività relativa a sostanze, organismi o rifiuti, segnatamente la produzione, l’importazione, l’esportazione, la messa in commercio, l’impiego, il deposito, il trasporto o lo smaltimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 7 LPAmb",
+        "content": "Per impianti s’intendono le costruzioni, le vie di comunicazione, altre installazioni fisse e modificazioni del terreno. Sono loro equiparati gli attrezzi, le macchine, i veicoli, i battelli e gli aeromobili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 8 LPAmb",
+        "content": "Per informazioni ambientali s’intendono le informazioni che rientrano nell’ambito disciplinato dalla presente legge e nell’ambito della legislazione sulla protezione della natura e del paesaggio, sulla protezione delle acque, sulla protezione contro i pericoli naturali, sulla conservazione della foresta, sulla caccia, sulla pesca, sull’ingegneria genetica, nonché sulla protezione del clima.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Definizioni",
+        "citation": "Art. 7 cpv. 9 LPAmb",
+        "content": "Per biocarburanti e biocombustibili si intendono i carburanti e i combustibili liquidi o gassosi prodotti a partire da biomassa o da altri agenti energetici rinnovabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Valutazione degli effetti",
+        "citation": "Art. 8 LPAmb",
+        "content": "Gli effetti sono valutati singolarmente, globalmente e secondo la loro azione congiunta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_8"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Protezione dalle catastrofi",
+        "citation": "Art. 10 cpv. 1 LPAmb",
+        "content": "Chiunque esercisce o intende esercire impianti che, in caso di eventi straordinari, possono provocare ingenti danni all’uomo o al suo ambiente naturale, prende le misure necessarie per proteggere la popolazione e l’ambiente. Occorre, in particolare, scegliere un’ubicazione appropriata, mantenere le dovute distanze di sicu-rezza, prendere i provvedimenti tecnici di sicurezza e garantire la sorveglianza dell’esercizio e l’organizzazione d’allarme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Protezione dalle catastrofi",
+        "citation": "Art. 10 cpv. 2 LPAmb",
+        "content": "I Cantoni coordinano gli organi di protezione dalle catastrofi e designano un servizio d’annuncio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Protezione dalle catastrofi",
+        "citation": "Art. 10 cpv. 3 LPAmb",
+        "content": "Il titolare dell’impianto segnala senza indugio gli eventi straordinari al servizio d’annuncio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 2: Disposizioni generali, Protezione dalle catastrofi",
+        "citation": "Art. 10 cpv. 4 LPAmb",
+        "content": "Il Consiglio federale può, in via d’ordinanza, vietare determinati procedimenti di produzione o sistemi di deposito se la popolazione e l’ambiente naturale non possono essere sufficientemente protetti in altra maniera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Esame dell’impatto sull’ambiente",
+        "citation": "Art. 10a cpv. 1 LPAmb",
+        "content": "Prima di prendere decisioni in materia di pianificazione, costruzione o trasformazione di impianti, l’autorità ne esamina il più presto possibile la compatibilità con le esigenze ecologiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Esame dell’impatto sull’ambiente",
+        "citation": "Art. 10a cpv. 2 LPAmb",
+        "content": "Sottostanno all’esame dell’impatto sull’ambiente gli impianti che possono gravare notevolmente sull’ambiente al punto da rendere presumibilmente necessaria l’adozione di misure specifiche al progetto o all’ubicazione al fine di garantire l’osservanza delle prescrizioni sulla protezione dell’ambiente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Esame dell’impatto sull’ambiente",
+        "citation": "Art. 10a cpv. 3 LPAmb",
+        "content": "Il Consiglio federale designa i tipi di impianto che sottostanno all’esame dell’impatto sull’ambiente; può determinare valori soglia a partire dai quali si deve procedere all’esame. Esamina periodicamente i tipi di impianto e i valori soglia e, se del caso, li adegua.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Rapporto sull’impatto ambientale",
+        "citation": "Art. 10b cpv. 1 LPAmb",
+        "content": "Chiunque intende progettare, costruire o modificare un impianto che sottostà all’esame dell’impatto sull’ambiente deve sottoporre all’autorità competente un rapporto sull’impatto ambientale. Tale rapporto costituisce la base per l’esame.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Rapporto sull’impatto ambientale",
+        "citation": "Art. 10b cpv. 2 LPAmb",
+        "content": "Il rapporto contiene tutti i dati necessari per valutare il progetto secondo le prescrizioni sulla protezione dell’ambiente. È allestito secondo le direttive dei servizi della protezione dell’ambiente e comprende i seguenti punti: \na. lo stato iniziale;\nb. il progetto, comprese le misure previste per la protezione dell’ambiente e per i casi di catastrofe, nonché una descrizione sommaria delle principali alternative eventualmente esaminate dal richiedente;\nc. il carico inquinante presumibile dopo l’esecuzione del progetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Rapporto sull’impatto ambientale",
+        "citation": "Art. 10b cpv. 3 LPAmb",
+        "content": "Per preparare il rapporto si effettua un esame preliminare. Se l’esame preliminare accerta in modo esaustivo gli effetti sull’ambiente e le necessarie misure di protezione ambientale, i risultati valgono come rapporto sull’impatto ambientale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Rapporto sull’impatto ambientale",
+        "citation": "Art. 10b cpv. 4 LPAmb",
+        "content": "L’autorità competente può esigere informazioni o spiegazioni complementari. Può far eseguire perizie; dà agli interessati la possibilità di esprimersi in via preliminare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Valutazione del rapporto",
+        "citation": "Art. 10c cpv. 1 LPAmb",
+        "content": "I servizi della protezione dell’ambiente valutano l’esame preliminare e il rapporto e propongono all’autorità competente per la decisione le misure da prendere. Il Consiglio federale emana prescrizioni sui termini per la valutazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Valutazione del rapporto",
+        "citation": "Art. 10c cpv. 2 LPAmb",
+        "content": "Nel caso di raffinerie, fabbriche di alluminio, centrali termiche o grandi torri di raffreddamento, l’autorità competente sente l’Ufficio federale dell’ambiente (Ufficio federale). Il Consiglio federale può estendere l’obbligo di consultazione ad altri impianti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Pubblicità del rapporto",
+        "citation": "Art. 10d cpv. 1 LPAmb",
+        "content": "Chiunque può consultare il rapporto e i risultati dell’esame dell’impatto sull’ambiente nella misura in cui interessi preponderanti pubblici o privati non esigano l’osservanza del segreto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 3:, Esame dell’impatto sull’ambiente Pubblicità del rapporto",
+        "citation": "Art. 10d cpv. 2 LPAmb",
+        "content": "Il segreto d’affari e di fabbricazione è in ogni caso protetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Informazione e consulenza ambientali",
+        "citation": "Art. 10e cpv. 1 LPAmb",
+        "content": "Le autorità informano il pubblico oggettivamente sulla protezione dell’ambiente e lo stato del carico inquinante; in particolare:\na. pubblicano le rilevazioni sul carico inquinante e l’esito delle misure prese in virtù della presente legge (art. 44);\nb. dopo aver sentito gli interessati, possono pubblicare, per quanto siano d’interesse generale:\n1. i risultati delle valutazioni della conformità degli impianti fabbricati in serie (art. 40),\n2. i risultati del controllo di impianti,\n3. le informazioni secondo l’articolo 46.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Informazione e consulenza ambientali",
+        "citation": "Art. 10e cpv. 2 LPAmb",
+        "content": "Sono fatti salvi interessi preponderanti pubblici o privati che esigono l’osservanza del segreto; il segreto di fabbricazione e d’affari è in ogni caso protetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Informazione e consulenza ambientali",
+        "citation": "Art. 10e cpv. 3 LPAmb",
+        "content": "I servizi della protezione dell’ambiente prestano consulenza alle autorità e ai privati. Informano la popolazione su quale debba essere un comportamento rispettoso dell’ambiente e raccomandano misure atte a ridurre il carico inquinante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Informazione e consulenza ambientali",
+        "citation": "Art. 10e cpv. 4 LPAmb",
+        "content": "Se possibile, le informazioni ambientali sono messe a disposizione come dati digitali aperti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Rapporti sull’ambiente",
+        "citation": "Art. 10f LPAmb",
+        "content": "Il Consiglio federale valuta almeno ogni quattro anni lo stato dell’ambiente in Svizzera e fa rapporto alle Camere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Principio di trasparenza per le informazioni ambientali",
+        "citation": "Art. 10g cpv. 1 LPAmb",
+        "content": "Ognuno ha il diritto di accedere a informazioni ambientali contenute in documenti ufficiali, nonché a informazioni concernenti l’ambiente nell’ambito delle prescrizioni energetiche, e di ottenere informazioni sul contenuto di tali documenti da parte delle autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Principio di trasparenza per le informazioni ambientali",
+        "citation": "Art. 10g cpv. 2 LPAmb",
+        "content": "Per quanto riguarda le autorità federali, il diritto di accesso è disciplinato dalla legge del 17 dicembre 2004 sulla trasparenza (LTras). L’articolo 23 LTras si applica esclusivamente ai documenti che contengono informazioni secondo il capoverso 1 in relazione a impianti nucleari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Principio di trasparenza per le informazioni ambientali",
+        "citation": "Art. 10g cpv. 3 LPAmb",
+        "content": "Il diritto di consultare i documenti si applica anche alle corporazioni di diritto pubblico e ai privati a cui sono stati delegati compiti d’esecuzione, anche se non hanno la competenza di emanare decisioni ai sensi dell’articolo 5 della legge federale del 20 dicembre 1968 sulla procedura amministrativa. In questi casi l’autorità esecutiva competente pronuncia una decisione secondo l’articolo 15 LTras.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo primo: Principi e disposizioni generali, Capitolo 4:, Informazioni ambientali, Principio di trasparenza per le informazioni ambientali",
+        "citation": "Art. 10g cpv. 4 LPAmb",
+        "content": "Per quanto riguarda le autorità cantonali, il diritto di consultazione è disciplinato dal diritto cantonale. Se non hanno ancora emanato disposizioni relative all’accesso ai documenti, i Cantoni applicano per analogia le disposizioni della presente legge e della LTras.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 1: Emissioni, Principio",
+        "citation": "Art. 11 cpv. 1 LPAmb",
+        "content": "Gli inquinamenti atmosferici, il rumore, le vibrazioni e le radiazioni sono limitati da misure applicate alla fonte (limitazione delle emissioni).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 1: Emissioni, Principio",
+        "citation": "Art. 11 cpv. 2 LPAmb",
+        "content": "Indipendentemente dal carico inquinante esistente, le emissioni, nell’ambito della prevenzione, devono essere limitate nella misura massima consentita dal progresso tecnico, dalle condizioni d’esercizio e dalle possibilità economiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 1: Emissioni, Principio",
+        "citation": "Art. 11 cpv. 3 LPAmb",
+        "content": "Le limitazioni delle emissioni sono inasprite se è certo o probabile che gli effetti, tenuto conto del carico inquinante esistente, divengano dannosi o molesti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 1: Emissioni, Limitazione delle emissioni",
+        "citation": "Art. 12 cpv. 1 LPAmb",
+        "content": "Le emissioni sono limitate da:\na. valori limite;\nb. prescrizioni di costruzione e attrezzatura;\nc. prescrizioni di traffico o d’esercizio;\nd. prescrizioni sull’isolazione termica degli edifici;\ne. prescrizioni su combustibili e carburanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_12"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 1: Emissioni, Limitazione delle emissioni",
+        "citation": "Art. 12 cpv. 2 LPAmb",
+        "content": "Le limitazioni sono prescritte da ordinanze o, per i casi che non vi sono contemplati, da decisioni fondate direttamente sulla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_12"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 2: Immissioni, Valori limite delle immissioni",
+        "citation": "Art. 13 cpv. 1 LPAmb",
+        "content": "Il Consiglio federale fissa, mediante ordinanza, i valori limite delle immissioni per la valutazione degli effetti dannosi o molesti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_13"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 2: Immissioni, Valori limite delle immissioni",
+        "citation": "Art. 13 cpv. 2 LPAmb",
+        "content": "Al riguardo, tiene conto anche degli effetti delle immissioni su categorie di persone particolarmente sensibili, come i bambini, i malati, gli anziani e le donne incinte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_13"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 2: Immissioni, Valori limite delle immissioni per inquinamenti atmosferici",
+        "citation": "Art. 14 LPAmb",
+        "content": "I valori limite delle immissioni per inquinamenti atmosferici sono stabiliti in modo che, secondo la scienza o l’esperienza, le immissioni inferiori a tali valori:\na. non mettano in pericolo l’uomo, la fauna e la flora, le loro biocenosi e i loro biotopi;\nb. non molestino considerevolmente la popolazione;\nc. non danneggino le opere edili;\nd. non pregiudichino la fertilità del suolo, la vegetazione e le acque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_14"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 2: Immissioni, Valori limite delle immissioni per il rumore e le vibrazioni",
+        "citation": "Art. 15 LPAmb",
+        "content": "I valori limite delle immissioni per il rumore e le vibrazioni sono stabiliti in modo che, secondo la scienza o l’esperienza, le immissioni inferiori a tali valori non molestino considerevolmente la popolazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_15"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Obbligo di risanamento",
+        "citation": "Art. 16 cpv. 1 LPAmb",
+        "content": "Gli impianti, che non soddisfano le prescrizioni della presente legge o quelle, ecologiche, di altre leggi federali, devono essere risanati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Obbligo di risanamento",
+        "citation": "Art. 16 cpv. 2 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni su gli impianti, l’estensione dei provvedimenti da adottare, i termini e il procedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Obbligo di risanamento",
+        "citation": "Art. 16 cpv. 3 LPAmb",
+        "content": "Prima di ordinare considerevoli misure di risanamento, l’autorità chiede al titolare dell’impianto di presentarle proposte in merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Obbligo di risanamento",
+        "citation": "Art. 16 cpv. 4 LPAmb",
+        "content": "In casi urgenti, le autorità ordinano il risanamento a titolo preventivo. Se necessario, possono decidere la chiusura dell’impianto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Facilitazioni nel singolo caso",
+        "citation": "Art. 17 cpv. 1 LPAmb",
+        "content": "Se, nel singolo caso, il risanamento secondo l’articolo 16 capoverso 2 fosse sproporzionato, le autorità accordano facilitazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_17"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Facilitazioni nel singolo caso",
+        "citation": "Art. 17 cpv. 2 LPAmb",
+        "content": "I valori limite delle immissioni per inquinamenti atmosferici, come pure il valore d’allarme per le immissioni foniche, non devono tuttavia essere superati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_17"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Trasformazione ed ampliamento di impianti bisognosi di risanamento",
+        "citation": "Art. 18 cpv. 1 LPAmb",
+        "content": "Un impianto bisognoso di risanamento può essere trasformato o ampliato soltanto se viene contemporaneamente risanato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_18"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 3: Risanamenti, Trasformazione ed ampliamento di impianti bisognosi di risanamento",
+        "citation": "Art. 18 cpv. 2 LPAmb",
+        "content": "Le facilitazioni previste all’articolo 17 possono essere limitate o soppresse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_18"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Valori d’allarme",
+        "citation": "Art. 19 LPAmb",
+        "content": "Il Consiglio federale, per valutare l’urgenza dei risanamenti (art. 16 e 20), può stabilire, per le immissioni foniche, valori d’allarme superiori ai valori limite delle immissioni (art. 15).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_19"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Isolazione acustica negli edifici esistenti",
+        "citation": "Art. 20 cpv. 1 LPAmb",
+        "content": "Se le misure alla fonte non permettono di ridurre a un livello inferiore al valore d’allarme le immissioni foniche su edifici situati in vicinanza di strade, aeroporti, impianti ferroviari o altri impianti fissi pubblici o concessionati esistenti, i proprietari degli edifici sono tenuti a munire di finestre insonorizzate i locali destinati al soggiorno prolungato di persone o a proteggerli mediante analoghe misure di natura edile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_20"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Isolazione acustica negli edifici esistenti",
+        "citation": "Art. 20 cpv. 2 LPAmb",
+        "content": "I proprietari degli impianti fissi rumorosi assumono le spese delle necessarie misure di protezione acustica se non forniscono la prova che, al momento della presentazione della domanda di costruzione dell’edificio considerato:\na. i valori limite delle immissioni erano già stati superati, o\nb. i progetti dell’impianto erano già stati pubblicati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_20"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Protezione acustica nei nuovi edifici",
+        "citation": "Art. 21 cpv. 1 LPAmb",
+        "content": "Chiunque intende costruire un edificio destinato al soggiorno prolungato di persone deve prevedere un’appropriata protezione edile contro il rumore esterno ed interno, come anche contro le vibrazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_21"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Protezione acustica nei nuovi edifici",
+        "citation": "Art. 21 cpv. 2 LPAmb",
+        "content": "Il Consiglio federale stabilisce la protezione minima in via d’ordinanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_21"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Permessi di costruzione in zone esposte al rumore",
+        "citation": "Art. 22 cpv. 1 LPAmb",
+        "content": "I permessi di costruzione per edifici nuovi, destinati al soggiorno prolungato di persone, sono concessi, con riserva del capoverso 2, soltanto se i valori limite delle immissioni non sono superati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_22"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Permessi di costruzione in zone esposte al rumore",
+        "citation": "Art. 22 cpv. 2 LPAmb",
+        "content": "Se i valori limite delle immissioni sono superati, i permessi di costruzione per edifici nuovi, destinati al soggiorno prolungato di persone, sono concessi soltanto qualora i locali siano disposti opportunamente e siano state prese le eventuali misure complementari di protezione acustica ancora necessarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_22"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Valori di pianificazione",
+        "citation": "Art. 23 LPAmb",
+        "content": "Per la pianificazione di nuove zone edificabili e la protezione contro il rumore prodotto da nuovi impianti fissi, il Consiglio federale stabilisce valori limite di pianificazione inferiori ai valori limite delle immissioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_23"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Requisiti per le zone edificabili",
+        "citation": "Art. 24 cpv. 1 LPAmb",
+        "content": "Le nuove zone per la costruzione di abitazioni o di altri edifici, destinati al soggiorno prolungato di persone, possono essere previste soltanto nelle regioni in cui le immissioni foniche non superano i valori di pianificazione o nelle quali questi valori possono essere rispettati mediante misure di pianificazione, sistemazione o costruzione. Il cambiamento di destinazione delle zone edificabili non implica una delimitazione di nuove zone edificabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_24"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Requisiti per le zone edificabili",
+        "citation": "Art. 24 cpv. 2 LPAmb",
+        "content": "Le zone esistenti, ma non ancora urbanizzate per la costruzione di abitazioni o di altri edifici destinati al soggiorno prolungato di persone, nelle quali i valori di pianificazione sono superati, devono essere riservate per usi meno sensibili al rumore, eccetto che, nella parte preponderante di tali zone, i valori di pianificazione possano venir rispettati mediante misure di pianificazione, sistemazione o costruzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_24"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Costruzione di impianti fissi",
+        "citation": "Art. 25 cpv. 1 LPAmb",
+        "content": "La costruzione di impianti fissi è autorizzata solo se le immissioni foniche da essi prodotte non superano da sole i valori di pianificazione nelle vicinanze; l’autorità che rilascia i permessi può esigere una valutazione preventiva del rumore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Costruzione di impianti fissi",
+        "citation": "Art. 25 cpv. 2 LPAmb",
+        "content": "Se l’impianto è d’interesse pubblico preponderante, in particolare dal profilo della pianificazione del territorio, e se l’osservanza dei valori di pianificazione costituisce un onere sproporzionato per la realizzazione del progetto, possono essere accordate facilitazioni. In tal caso, riservato il capoverso 3, i valori limite delle immissioni non devono però essere superati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 1: Inquinamenti atmosferici, rumore, vibrazioni e radiazioni, Sezione 4:, Prescrizioni complementari per la protezione contro il rumore e le vibrazioni, Costruzione di impianti fissi",
+        "citation": "Art. 25 cpv. 3 LPAmb",
+        "content": "Se, nella costruzione di nuove strade, aeroporti, impianti ferroviari o altri impianti fissi pubblici o concessionati, i valori limite delle immissioni non possono essere rispettati mediante misure alla fonte, gli edifici esposti al rumore devono essere protetti con finestre insonorizzate o analoghe misure edili a spese del proprietario dell’impianto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Controllo autonomo",
+        "citation": "Art. 26 cpv. 1 LPAmb",
+        "content": "È vietato mettere in commercio sostanze per impieghi nei quali esse, i loro derivati o i loro rifiuti possono mettere in pericolo l’ambiente o indirettamente l’uomo anche se utilizzati conformemente alle prescrizioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Controllo autonomo",
+        "citation": "Art. 26 cpv. 2 LPAmb",
+        "content": "A tale scopo il fabbricante o l’importatore effettua un controllo autonomo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Controllo autonomo",
+        "citation": "Art. 26 cpv. 3 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni sulla natura, l’estensione e la verifica del controllo autonomo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Informazione dell’acquirente",
+        "citation": "Art. 27 cpv. 1 LPAmb",
+        "content": "Chi mette in commercio sostanze deve:\na. informare l’acquirente sulle proprietà che influiscono sull’ambiente;\nb. fornire all’acquirente istruzioni idonee a garantire che, se la sostanza è utilizzata conformemente alle prescrizioni, l’ambiente o indirettamente l’uomo non possano essere messi in pericolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_27"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Informazione dell’acquirente",
+        "citation": "Art. 27 cpv. 2 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni relative al tipo, al contenuto e all’entità dell’informazione dell’acquirente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_27"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Utilizzazione conforme alle esigenze ecologiche",
+        "citation": "Art. 28 cpv. 1 LPAmb",
+        "content": "Le sostanze possono essere utilizzate soltanto in modo che esse, i loro derivati o i loro rifiuti non possano mettere in pericolo l’ambiente o indirettamente l’uomo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_28"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Utilizzazione conforme alle esigenze ecologiche",
+        "citation": "Art. 28 cpv. 2 LPAmb",
+        "content": "Le istruzioni del fabbricante o dell’importatore devono essere osservate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_28"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Prescrizioni del Consiglio federale",
+        "citation": "Art. 29 cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può emanare prescrizioni su sostanze che, a cagione delle loro proprietà, del modo d’impiego o della quantità utilizzata, possono costituire un pericolo per l’ambiente o, indirettamente, per l’uomo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 2: Sostanze pericolose per l’ambiente, Prescrizioni del Consiglio federale",
+        "citation": "Art. 29 cpv. 2 LPAmb",
+        "content": "Tali prescrizioni riguardano segnatamente:\na. le sostanze che, conformemente alla loro destinazione, giungono a contatto con l’ambiente, quali i diserbanti e gli antiparassitari, compresi i prodotti per la conservazione delle scorte e la protezione del legno, come anche i concimi, i regolatori di crescita, i sali da spargere e i gas propellenti;\nb. le sostanze che o i cui derivati possono accumularsi nell’ambiente, quali i composti organici clorurati e i metalli pesanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Principi",
+        "citation": "Art. 29a cpv. 1 LPAmb",
+        "content": "Gli organismi possono essere utilizzati soltanto in modo che essi, i loro metaboliti e i loro rifiuti:\na. non possano mettere in pericolo l’uomo o l’ambiente;\nb. non pregiudichino la diversità biologica e la sua utilizzazione sostenibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Principi",
+        "citation": "Art. 29a cpv. 2 LPAmb",
+        "content": "All’utilizzazione di organismi geneticamente modificati si applica la legge del 21 marzo 2003 sull’ingegneria genetica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Principi",
+        "citation": "Art. 29a cpv. 3 LPAmb",
+        "content": "Sono fatte salve le prescrizioni contenute in altre leggi federali destinate a proteggere la salute dell’uomo da pericoli diretti dovuti a organismi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Attività in sistemi chiusi",
+        "citation": "Art. 29b cpv. 1 LPAmb",
+        "content": "Chiunque utilizza organismi patogeni che non ha il diritto né di immettere nell’ambiente a titolo sperimentale (art. 29c), né di mettere in commercio in vista di un impiego nell’ambiente (art. 29d) deve adottare tutte le misure di confinamento necessarie, tenuto conto in particolare della pericolosità degli organismi per l’uomo e per l’ambiente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Attività in sistemi chiusi",
+        "citation": "Art. 29b cpv. 2 LPAmb",
+        "content": "Il Consiglio federale subordina a notifica o autorizzazione l’utilizzazione di organismi patogeni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Attività in sistemi chiusi",
+        "citation": "Art. 29b cpv. 3 LPAmb",
+        "content": "Per determinati organismi patogeni e attività può prevedere deroghe all’obbligo di notifica o autorizzazione oppure agevolazioni se, in base allo stato delle conoscenze scientifiche o all’esperienza, è esclusa una violazione dei principi di cui all’articolo 29a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Immissione nell’ambiente a titolo sperimentale",
+        "citation": "Art. 29c cpv. 1 LPAmb",
+        "content": "Chiunque intende immettere nell’ambiente a titolo sperimentale organismi patogeni che non ha il diritto di mettere in commercio in vista di un impiego nell’ambiente (art. 29d) deve esserne autorizzato dalla Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Immissione nell’ambiente a titolo sperimentale",
+        "citation": "Art. 29c cpv. 2 LPAmb",
+        "content": "Il Consiglio federale stabilisce le esigenze e la procedura. In particolare disciplina:\na. la consultazione di esperti;\nb. la garanzia di finanziamento dei provvedimenti intesi ad accertare, prevenire o eliminare eventuali effetti nocivi o molesti;\nc. l’informazione del pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Immissione nell’ambiente a titolo sperimentale",
+        "citation": "Art. 29c cpv. 3 LPAmb",
+        "content": "Per determinati organismi patogeni può prevedere deroghe all’obbligo d’autorizzazione o agevolazioni se, in base allo stato delle conoscenze scientifiche o all’esperienza, è esclusa una violazione dei principi di cui all’articolo 29a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Messa in commercio",
+        "citation": "Art. 29d cpv. 1 LPAmb",
+        "content": "È vietato mettere in commercio organismi la cui utilizzazione, pur essendo conforme alle disposizioni, viola i principi di cui all’articolo 29a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Messa in commercio",
+        "citation": "Art. 29d cpv. 2 LPAmb",
+        "content": "A tale scopo il fabbricante o l’importatore effettua un controllo autonomo. Il Consiglio federale emana prescrizioni sulla natura, l’estensione e la verifica del controllo autonomo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Messa in commercio",
+        "citation": "Art. 29d cpv. 3 LPAmb",
+        "content": "Gli organismi patogeni possono essere messi in commercio in vista di un impiego nell’ambiente soltanto previa autorizzazione della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Messa in commercio",
+        "citation": "Art. 29d cpv. 4 LPAmb",
+        "content": "Il Consiglio federale stabilisce le esigenze e la procedura nonché l’informazione del pubblico. Per determinati organismi patogeni può prevedere deroghe all’obbligo d’autorizzazione o agevolazioni se, in base allo stato delle conoscenze scientifiche o all’esperienza, è esclusa una violazione dei principi di cui all’articolo 29a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Procedura d’opposizione",
+        "citation": "Art. 29dbis cpv. 1 LPAmb",
+        "content": "Le domande di autorizzazione conformemente agli articoli 29c capoverso 1, 29d capoverso 3 e 29f capoverso 2 lettera b sono pubblicate nel Foglio federale dall’autorità che rilascia l’autorizzazione e depositate pubblicamente per 30 giorni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Procedura d’opposizione",
+        "citation": "Art. 29dbis cpv. 2 LPAmb",
+        "content": "Chi ha qualità di parte secondo le prescrizioni della legge federale del 20 dicembre 1968 sulla procedura amministrativa può, durante il termine di deposito, fare opposizione presso l’autorità competente in materia di autorizzazione. Se non fa opposizione, è escluso dal seguito della procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Informazione degli acquirenti",
+        "citation": "Art. 29e cpv. 1 LPAmb",
+        "content": "Chiunque mette in commercio organismi deve:\na. informare l’acquirente sulle loro proprietà importanti per l’applicazione dei principi di cui all’articolo 29a;\nb. fornire all’acquirente istruzioni idonee a garantire che i principi di cui all’articolo 29a non sono violati se gli organismi sono utilizzati conformemente alla loro destinazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Informazione degli acquirenti",
+        "citation": "Art. 29e cpv. 2 LPAmb",
+        "content": "Le istruzioni del fabbricante e dell’importatore devono essere osservate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Ulteriori prescrizioni del Consiglio federale",
+        "citation": "Art. 29f cpv. 1 LPAmb",
+        "content": "Il Consiglio federale emana ulteriori prescrizioni sull’utilizzazione di organismi, dei loro metaboliti e dei loro rifiuti se, a causa delle loro proprietà, del loro modo d’impiego o della quantità usata, possono essere violati i principi di cui all’articolo 29a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Ulteriori prescrizioni del Consiglio federale",
+        "citation": "Art. 29f cpv. 2 LPAmb",
+        "content": "In particolare, il Consiglio federale può:\na. disciplinare il trasporto, l’importazione, l’esportazione e il transito;\nb. subordinare ad autorizzazione, limitare o vietare l’utilizzazione di determinati organismi;\nc. prescrivere provvedimenti intesi a combattere determinati organismi o a prevenirne l’apparizione;\nd. prescrivere provvedimenti volti a evitare pregiudizi alla diversità biologica e alla sua utilizzazione sostenibile;\ne. prescrivere indagini a lungo termine per l’utilizzazione di determinati organismi;\nf. prevedere consultazioni pubbliche in relazione alle procedure d’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 3:, Utilizzazione di organismi, Commissioni consultive",
+        "citation": "Art. 29g LPAmb",
+        "content": "La Commissione federale di esperti per la sicurezza biologica e la Commissione federale d’etica per la biotecnologia nel settore non umano (art. 22 e 23 della L del 21 mar. 2003 sull’ingegneria genetica) prestano consulenza al Consiglio federale per l’elaborazione delle prescrizioni e per l’esecuzione delle disposizioni sugli organismi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_29_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Principi",
+        "citation": "Art. 30 cpv. 1 LPAmb",
+        "content": "La produzione di rifiuti deve essere prevenuta nella misura del possibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Principi",
+        "citation": "Art. 30 cpv. 2 LPAmb",
+        "content": "Nella misura del possibile, i rifiuti devono essere riciclati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Principi",
+        "citation": "Art. 30 cpv. 3 LPAmb",
+        "content": "I rifiuti devono essere smaltiti in modo rispettoso dell’ambiente e, per quanto possibile e ragionevole, entro il territorio nazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Prevenzione",
+        "citation": "Art. 30a LPAmb",
+        "content": "Il Consiglio federale può:\na. vietare la messa in commercio di prodotti destinati ad essere impiegati una sola volta e per breve tempo, se i vantaggi del loro impiego non giustificano il carico che ne deriva per l’ambiente;\nb. vietare l’impiego di sostanze o di organismi che rendono lo smaltimento notevolmente più difficile o che, all’atto dello smaltimento, possono mettere in pericolo l’ambiente;\nc. obbligare i fabbricanti a prevenire la formazione di rifiuti di produzione per i quali non si conoscono metodi di smaltimento rispettosi dell’ambiente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Raccolta",
+        "citation": "Art. 30b cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può prescrivere che determinati rifiuti che si prestano ad essere riciclati o devono essere trattati in modo speciale debbano essere consegnati separatamente per lo smaltimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Raccolta",
+        "citation": "Art. 30b cpv. 2 LPAmb",
+        "content": "Il Consiglio federale può prescrivere a chi mette in commercio prodotti che come rifiuti si prestano ad essere riciclati o devono essere trattati in modo speciale di:\na. riprendere tali prodotti dopo l’uso;\nb. prelevare un deposito minimo e rimborsarlo al momento della ripresa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Raccolta",
+        "citation": "Art. 30b cpv. 3 LPAmb",
+        "content": "Il Consiglio federale può provvedere a istituire una cassa di compensazione dei depositi e prescrivere, in particolare, che:\na. chi mette in commercio prodotti gravati da un deposito versi alla cassa le somme eccedenti derivanti dalla riscossione del deposito;\nb. dette eccedenze servano a coprire le perdite derivanti dal rimborso del deposito e a promuovere la riconsegna dei prodotti gravati da deposito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Trattamento",
+        "citation": "Art. 30c cpv. 1 LPAmb",
+        "content": "I rifiuti destinati ad essere depositati definitivamente devono essere trattati in modo da ridurre il più possibile il loro tenore di carbonio organico e la loro solubilità nell’acqua.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Trattamento",
+        "citation": "Art. 30c cpv. 2 LPAmb",
+        "content": "I rifiuti non possono essere inceneriti fuori degli impianti; fa eccezione l’incenerimento di rifiuti naturali provenienti dai boschi, dai campi e dai giardini, se non ne risultano immissioni eccessive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Trattamento",
+        "citation": "Art. 30c cpv. 3 LPAmb",
+        "content": "Il Consiglio federale può emanare ulteriori prescrizioni sul trattamento di determinati rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Riciclaggio",
+        "citation": "Art. 30d LPAmb",
+        "content": "Il Consiglio federale può:\na. prescrivere che determinati rifiuti debbano essere riciclati, se ciò è sopportabile sotto il profilo economico e se il carico per l’ambiente è minore rispetto a un altro modo di smaltimento e alla fabbricazione ex novo dei prodotti;\nb. limitare l’impiego di materiali e prodotti per determinati scopi, se ciò favorisce lo smercio di analoghi prodotti riciclati e non comporta né costi supplementari né un pregiudizio della qualità importanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Deposito definitivo",
+        "citation": "Art. 30e cpv. 1 LPAmb",
+        "content": "I rifiuti possono essere depositati definitivamente soltanto in discarica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Deposito definitivo",
+        "citation": "Art. 30e cpv. 2 LPAmb",
+        "content": "Chi intende sistemare o gestire una discarica dev’essere in possesso di un’autorizzazione del Cantone; questa gli è accordata soltanto se dimostra che la discarica è necessaria. Nell’autorizzazione sono descritti i rifiuti che è permesso depositare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Traffico di rifiuti speciali",
+        "citation": "Art. 30f cpv. 1 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni sul traffico di rifiuti il cui smaltimento conforme alle esigenze ecologiche richiede misure particolari (rifiuti speciali). Parimenti, ne disciplina l’importazione, l’esportazione e il transito, considerando in particolare gli interessi della collaborazione regionale transfrontaliera e l’impatto ambientale dello smaltimento in Svizzera e all’estero. Può anche emanare prescrizioni applicabili alle imprese che organizzano dalla Svizzera il traffico di rifiuti speciali o che vi partecipano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Traffico di rifiuti speciali",
+        "citation": "Art. 30f cpv. 2 LPAmb",
+        "content": "Esso prescrive in particolare che i rifiuti speciali:\na. devono essere contrassegnati per la consegna all’interno della Svizzera, per l’importazione, l’esportazione ed il transito;\nb. possono essere consegnati all’interno della Svizzera soltanto alle imprese in possesso di un’autorizzazione ai sensi della lettera d;\nc. possono essere esportati soltanto previa autorizzazione dell’Ufficio federale;\nd. possono essere ritirati o importati soltanto dalle imprese in possesso di un’autorizzazione del Cantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Traffico di rifiuti speciali",
+        "citation": "Art. 30f cpv. 3 LPAmb",
+        "content": "Dette autorizzazioni sono accordate se è garantito uno smaltimento dei rifiuti conforme alle esigenze ecologiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Traffico di altri rifiuti",
+        "citation": "Art. 30g cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può emanare prescrizioni sul traffico di altri rifiuti secondo l’articolo 30f capoversi 1 e 2 se non è garantito uno smaltimento conforme alle esigenze ecologiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Impianti per lo smaltimento dei rifiuti",
+        "citation": "Art. 30h cpv. 1 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni tecniche e organizzative sugli impianti per lo smaltimento dei rifiuti (impianti per i rifiuti).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_h"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 1: Prevenzione e smaltimento dei rifiuti, Impianti per lo smaltimento dei rifiuti",
+        "citation": "Art. 30h cpv. 2 LPAmb",
+        "content": "L’autorità può limitare nel tempo l’esercizio di impianti per i rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_30_h"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Pianificazione della gestione dei rifiuti",
+        "citation": "Art. 31 cpv. 1 LPAmb",
+        "content": "I Cantoni elaborano un piano di gestione dei rifiuti. In particolare determinano il loro fabbisogno di impianti per i rifiuti, evitano le sovracapacità e stabiliscono l’ubicazione di tali impianti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Pianificazione della gestione dei rifiuti",
+        "citation": "Art. 31 cpv. 2 LPAmb",
+        "content": "Essi comunicano i loro piani alla Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Collaborazione",
+        "citation": "Art. 31a cpv. 1 LPAmb",
+        "content": "I Cantoni collaborano fra loro in materia di pianificazione della gestione dei rifiuti e di smaltimento. Evitano le sovracapacità in impianti per i rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Collaborazione",
+        "citation": "Art. 31a cpv. 2 LPAmb",
+        "content": "Se non riescono a trovare un accordo, i Cantoni propongono soluzioni alla Confederazione. Se la mediazione della Confederazione non porta ad un accordo, il Consiglio federale può ordinare ai Cantoni di:\na. definire le zone di provenienza e gli impianti ai quali devono essere consegnati i rifiuti perché vi siano trattati, riciclati o depositati definitivamente (comprensori di raccolta);\nb. determinare l’ubicazione degli impianti per i rifiuti;\nc. mettere a disposizione di altri Cantoni impianti idonei per i rifiuti; se necessario disciplina la ripartizione delle spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento dei rifiuti urbani",
+        "citation": "Art. 31b cpv. 1 LPAmb",
+        "content": "I rifiuti urbani, quelli provenienti dalla manutenzione pubblica delle strade e dagli impianti pubblici di depurazione delle acque di scarico, nonché i rifiuti il cui detentore non è identificabile o è insolvente, sono smaltiti dai Cantoni. Per i rifiuti che, in virtù di prescrizioni particolari della Confederazione, devono essere riciclati dal detentore o devono essere ripresi da terzi, l’obbligo dello smaltimento è retto dall’articolo 31c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento dei rifiuti urbani",
+        "citation": "Art. 31b cpv. 2 LPAmb",
+        "content": "I Cantoni definiscono zone di raccolta per questi rifiuti e provvedono a un esercizio economico degli impianti per i rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento dei rifiuti urbani",
+        "citation": "Art. 31b cpv. 3 LPAmb",
+        "content": "Il detentore deve consegnare i rifiuti nell’ambito delle azioni di raccolta previste dai Cantoni oppure nei posti di raccolta stabiliti dai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento degli altri rifiuti",
+        "citation": "Art. 31c cpv. 1 LPAmb",
+        "content": "Il detentore deve smaltire gli altri rifiuti. Può incaricare terzi dello smaltimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento degli altri rifiuti",
+        "citation": "Art. 31c cpv. 2 LPAmb",
+        "content": "Se necessario i Cantoni facilitano lo smaltimento di questi rifiuti con provvedimenti adeguati. In particolare possono definire comprensori di raccolta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 2:, Pianificazione della gestione dei rifiuti e obbligo di smaltirli, Smaltimento degli altri rifiuti",
+        "citation": "Art. 31c cpv. 3 LPAmb",
+        "content": "Se lo smaltimento di questi rifiuti richiede in tutta la Svizzera solo pochi comprensori di raccolta, il Consiglio federale può definire questi comprensori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Principio",
+        "citation": "Art. 32 cpv. 1 LPAmb",
+        "content": "Il detentore dei rifiuti sostiene le spese per il loro smaltimento; fanno eccezione i rifiuti per i quali il Consiglio federale regola altrimenti l’onere delle spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Principio",
+        "citation": "Art. 32 cpv. 2 LPAmb",
+        "content": "Se il detentore non è identificabile o se non è in grado, per insolvenza, di soddisfare all’obbligo di cui al capoverso 1, le spese dello smaltimento sono sostenute dai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello smaltimento dei rifiuti urbani",
+        "citation": "Art. 32a cpv. 1 LPAmb",
+        "content": "I Cantoni provvedono affinché i costi di smaltimento dei rifiuti urbani, per quanto siffatto smaltimento sia stato loro attribuito, siano finanziati mediante emolumenti o altre tasse conformemente al principio di causalità. L’ammontare delle tasse è fissato tenendo conto in particolare:\na. del tipo e della quantità dei rifiuti consegnati;\nb. dei costi per la costruzione, l’esercizio e la manutenzione degli impianti per i rifiuti;\nc. degli ammortamenti necessari a mantenere il valore degli impianti;\nd. degli interessi;\ne. degli investimenti pianificati per la manutenzione, il risanamento e la sostituzione degli impianti nonché per il loro adattamento alle esigenze legali o per l’ottimizzazione del loro esercizio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello smaltimento dei rifiuti urbani",
+        "citation": "Art. 32a cpv. 2 LPAmb",
+        "content": "Se l’introduzione di tasse a copertura dei costi e conformi al principio di causalità dovesse pregiudicare uno smaltimento ecologico dei rifiuti urbani, detto smaltimento può, se necessario, essere finanziato in altro modo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello smaltimento dei rifiuti urbani",
+        "citation": "Art. 32a cpv. 3 LPAmb",
+        "content": "I detentori degli impianti per i rifiuti devono costituire le necessarie riserve finanziarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello smaltimento dei rifiuti urbani",
+        "citation": "Art. 32a cpv. 4 LPAmb",
+        "content": "Le basi per il calcolo delle tasse sono a disposizione del pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Tassa di smaltimento anticipata",
+        "citation": "Art. 32abis cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può obbligare i fabbricanti e gli importatori che mettono in commercio prodotti che, dopo l’uso, diventano rifiuti ripartiti fra numerosi detentori, ma che devono essere sottoposti a un trattamento speciale o che si prestano ad essere riciclati, a versare una tassa anticipata di smaltimento a un’organizzazione privata a tale scopo incaricata e sorvegliata dalla Confederazione. Tale tassa è destinata a finanziare lo smaltimento dei rifiuti ad opera di privati o di enti di diritto pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Tassa di smaltimento anticipata",
+        "citation": "Art. 32abis cpv. 2 LPAmb",
+        "content": "Il Consiglio federale, tenuto conto delle spese di smaltimento, fissa l’importo massimo e minimo della tassa. Entro questi limiti, il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni stabilisce l’ammontare della tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Tassa di smaltimento anticipata",
+        "citation": "Art. 32abis cpv. 3 LPAmb",
+        "content": "Il Consiglio federale regola le modalità di riscossione e di impiego della tassa. Può prescrivere in particolare che chi mette in commercio i prodotti informi con mezzi adeguati il consumatore circa l’ammontare della tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Garanzie finanziarie relative alle discariche",
+        "citation": "Art. 32b cpv. 1 LPAmb",
+        "content": "Chi gestisce o intende gestire una discarica deve garantire la copertura dei costi per la chiusura, gli interventi ulteriori e il risanamento, mediante accantonamento, assicurazione o in altro modo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Garanzie finanziarie relative alle discariche",
+        "citation": "Art. 32b cpv. 2 LPAmb",
+        "content": "Il titolare della discarica che si fa garante deve notificare ogni anno all’autorità l’ammontare della garanzia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Garanzie finanziarie relative alle discariche",
+        "citation": "Art. 32b cpv. 3 LPAmb",
+        "content": "Il terzo che si porta garante deve notificare all’autorità l’esistenza, la sospensione o la cessazione della garanzia. Il Consiglio federale può prevedere che la garanzia sia sospesa o cessi soltanto 60 giorni dopo il ricevimento della notifica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Garanzie finanziarie relative alle discariche",
+        "citation": "Art. 32b cpv. 4 LPAmb",
+        "content": "Il Consiglio federale può emanare prescrizioni sulla garanzia. Può in particolare:\na. fissarne l’entità e la durata o lasciare che sia l’autorità a decidere di caso in caso;\nb. prevedere che la chiusura della discarica comporti il trasferimento al Cantone della proprietà del fondo sul quale la discarica è situata e regolare la questione dell’indennizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello sgombero di materiale di scavo in siti inquinati",
+        "citation": "Art. 32bbis cpv. 1 LPAmb",
+        "content": "Qualora rimuova da un sito inquinato materiale che non dev’essere smaltito in seguito a risanamento secondo l’articolo 32c, il detentore del fondo può pretendere da coloro che hanno causato l’inquinamento e dai precedenti detentori del sito di regola due terzi delle spese supplementari di analisi e smaltimento del materiale se:\na. coloro che hanno causato l’inquinamento non hanno prestato alcun indennizzo per il corrispondente carico ambientale o, al momento della vendita del fondo, i precedenti detentori non hanno accordato uno sconto per il carico medesimo;\nb. lo sgombero del materiale è necessario per procedere all’edificazione o alla modifica di costruzioni; e\nc. il detentore ha acquistato il fondo tra il 1° luglio 1972 e il 1° luglio 1997.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello sgombero di materiale di scavo in siti inquinati",
+        "citation": "Art. 32bbis cpv. 2 LPAmb",
+        "content": "Il relativo credito può essere fatto valere presso il giudice civile del luogo di situazione della cosa. Si applica la procedura civile corrispondente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 3: Finanziamento dello smaltimento, Finanziamento dello sgombero di materiale di scavo in siti inquinati",
+        "citation": "Art. 32bbis cpv. 3 LPAmb",
+        "content": "Le pretese di cui al capoverso 1 possono essere fatte valere entro il 1° novembre 2021.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Obbligo di risanamento",
+        "citation": "Art. 32c cpv. 1 LPAmb",
+        "content": "I Cantoni provvedono affinché le discariche e gli altri siti inquinati da rifiuti (siti inquinati) vengano risanati se sono all’origine di effetti nocivi o molesti oppure se esiste il pericolo concreto che tali effetti si producano. Il Consiglio federale può emanare prescrizioni sulla necessità del risanamento, come pure sugli obiettivi e l’urgenza dello stesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Obbligo di risanamento",
+        "citation": "Art. 32c cpv. 2 LPAmb",
+        "content": "I Cantoni allestiscono un catasto dei siti inquinati accessibile al pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Obbligo di risanamento",
+        "citation": "Art. 32c cpv. 3 LPAmb",
+        "content": "Essi possono eseguire direttamente l’esame, la sorveglianza e il risanamento dei siti inquinati o affidarne l’incarico a terzi se:\na. è necessario per prevenire un effetto nocivo imminente;\nb. il responsabile non è in grado di provvedere all’esecuzione dei provvedimenti; o\nc. il responsabile, diffidato, non agisce entro il termine impartito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Assunzione delle spese",
+        "citation": "Art. 32d cpv. 1 LPAmb",
+        "content": "Chi ha causato provvedimenti necessari per esaminare, sorvegliare e risanare siti inquinati ne assume le spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Assunzione delle spese",
+        "citation": "Art. 32d cpv. 2 LPAmb",
+        "content": "Se sono coinvolte più persone, queste assumono le spese proporzionalmente alla loro parte di responsabilità. In primo luogo le spese sono a carico di chi, con il suo comportamento, ha reso necessario il provvedimento. Chi è coinvolto soltanto quale detentore del sito non sopporta alcuna spesa se non poteva essere a conoscenza dell’inquinamento nemmeno applicando la diligenza necessaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Assunzione delle spese",
+        "citation": "Art. 32d cpv. 3 LPAmb",
+        "content": "L’ente pubblico competente assume la parte delle spese dei responsabili che non possono essere individuati o che risultano insolventi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Assunzione delle spese",
+        "citation": "Art. 32d cpv. 4 LPAmb",
+        "content": "L’autorità emana una decisione in merito alla ripartizione delle spese se uno dei responsabili lo richiede o se essa stessa esegue il provvedimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Assunzione delle spese",
+        "citation": "Art. 32d cpv. 5 LPAmb",
+        "content": "Se l’esame di un sito iscritto o suscettibile d’iscrizione nel catasto (art. 32c cpv. 2) rivela che il sito non è inquinato, l’ente pubblico competente assume le spese dei provvedimenti d’esame necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Garanzia della copertura dei costi",
+        "citation": "Art. 32dbis cpv. 1 LPAmb",
+        "content": "L’autorità può esigere che il responsabile garantisca in forma adeguata la copertura della sua parte presumibile di costi per l’esame, la sorveglianza e il risanamento se da un sito inquinato sono prevedibili effetti dannosi o molesti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Garanzia della copertura dei costi",
+        "citation": "Art. 32dbis cpv. 2 LPAmb",
+        "content": "L’ammontare della garanzia è fissato tenendo conto in particolare dell’estensione, del tipo e della gravità dell’inquinamento. Esso viene adeguato quando il miglioramento dello stato delle conoscenze lo giustifica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Garanzia della copertura dei costi",
+        "citation": "Art. 32dbis cpv. 3 LPAmb",
+        "content": "L’alienazione o la divisione di un fondo sul quale si trova un sito iscritto nel catasto dei siti inquinati necessita dell’autorizzazione dell’autorità. L’autorizzazione è accordata se:\na. non sono prevedibili effetti dannosi o molesti dal sito;\nb. la copertura dei costi dei provvedimenti previsti è garantita; o\nc. sussiste un interesse pubblico preponderante all’alienazione o alla divisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Garanzia della copertura dei costi",
+        "citation": "Art. 32dbis cpv. 4 LPAmb",
+        "content": "L’autorità cantonale può far menzionare nel Registro fondiario che il sito in questione è iscritto nel catasto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può prescrivere che:\na. il detentore di una discarica versi alla Confederazione una tassa per il deposito definitivo dei rifiuti;\nb. colui che esporta rifiuti in vista del deposito definitivo versi alla Confederazione una tassa d’esportazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 1bis LPAmb",
+        "content": "Per le discariche nelle quali sono depositati in modo definitivo esclusivamente rifiuti non inquinati una tassa può essere prescritta soltanto se è necessaria per promuovere il riciclaggio di tali rifiuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 2 LPAmb",
+        "content": "Il Consiglio federale stabilisce le aliquote delle tasse tenendo conto in particolare dei costi prevedibili nonché del tipo di discarica. L’aliquota non può superare:\na. per i rifiuti depositati definitivamente in Svizzera:\n1. in discariche per rifiuti non inquinati o poco inquinati: 8 fr./t,\n2. in altre discariche: 25 fr./t;\nb. per i rifiuti depositati definitivamente all’estero:\n1. in discariche sotterranee: 30 fr./t,\n2. in altre discariche: l’aliquota che si applicherebbe se i rifiuti fossero depositati definitivamente in una discarica in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 2bis LPAmb",
+        "content": "Il Consiglio federale può adeguare l’aliquota delle tasse di cui al capoverso 2 all’indice nazionale dei prezzi al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 3 LPAmb",
+        "content": "La Confederazione utilizza il ricavato delle tasse esclusivamente per indennizzare le spese risultanti dai seguenti provvedimenti:\na. l’allestimento dei catasti dei siti inquinati, qualora ai loro detentori sia stata data occasione di pronunciarsi sull’iscrizione nel catasto entro il 1° novembre 2007;\nb. l’esame, la sorveglianza e il risanamento di siti inquinati nei quali non sono più stati depositati rifiuti dopo il 1° febbraio 2001, se:\n1. il responsabile non è identificabile oppure è insolvente,\n2. il sito inquinato è stato adibito prevalentemente a deposito di rifiuti urbani;\nc. l’esame, la sorveglianza e il risanamento di siti inquinati negli impianti di tiro che non perseguono essenzialmente fini commerciali, se:\n1. nel caso di siti ubicati nelle zone di protezione delle acque sotterranee, non sono più stati depositati rifiuti dopo il 31 dicembre 2012,\n2. nel caso di altri siti, dopo il 31 dicembre 2020 non sono più stati depositati rifiuti o soltanto quelli di una manifestazione di tiro storico o di tiro in campagna che si svolge al massimo una volta all’anno e che si tiene regolarmente nello stesso sito da prima del 31 dicembre 2020;\ncbis. provvedimenti di protezione adeguati come l’installazione di parapalle in occasione di manifestazioni di tiro storico e di tiro in campagna che si svolgono al massimo una volta all’anno e che si tengono regolarmente nello stesso sito da prima del 31 dicembre 2020; \nd. l’esame di siti che risultano non inquinati (art. 32d cpv. 5).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 4 LPAmb",
+        "content": "Le indennità sono versate soltanto se i provvedimenti adottati sono conformi alle esigenze ecologiche e corrispondono a criteri di economicità e allo stato della tecnica. Esse sono corrisposte ai Cantoni in funzione della spesa e ammontano:\na. forfetariamente a 500 franchi per sito per le indennità di cui al capoverso 3 lettera a;\nb. per le indennità di cui al capoverso 3 lettera b:\n1. al 40 per cento dei costi computabili se nel sito non sono più stati depositati rifiuti dopo il 1° febbraio 1996,\n2. al 30 per cento dei costi computabili se nel sito sono stati depositati rifiuti anche dopo il 1° febbraio 1996, ma non oltre il 31 gennaio 2001;\nc. per le indennità di cui al capoverso 3 lettera c:\n1. forfettariamente a 8000 franchi per bersaglio nel caso di impianti di tiro a 300 m,\n2. al 40 per cento dei costi computabili nel caso degli altri impianti di tiro;\nd. per le indennità di cui al capoverso 3 lettera d, al 40 per cento dei costi computabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 5 LPAmb",
+        "content": "Il Consiglio federale emana prescrizioni sulla procedura di prelievo della tassa, sulle indennità nonché sui costi computabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 4:, Rifiuti, Sezione 4:, Risanamento di siti inquinati, Tasse per il finanziamento dei provvedimenti",
+        "citation": "Art. 32e cpv. 6 LPAmb",
+        "content": "Il diritto cantonale può prevedere tasse cantonali per finanziare l’esame, la sorveglianza e il risanamento dei siti inquinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Misure contro il deterioramento del suolo",
+        "citation": "Art. 33 cpv. 1 LPAmb",
+        "content": "Le misure intese a conservare a lungo termine la fertilità del suolo proteggendolo da deterioramenti di natura chimica o biologica figurano nelle prescrizioni esecutive della legge federale del 24 gennaio 1991 sulla protezione delle acque, nonché nelle prescrizioni esecutive sulla protezione contro le catastrofi, sulla lotta contro l’inquinamento atmosferico, sull’utilizzazione di sostanze e organismi, sui rifiuti e sulle tasse d’incentivazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_33"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Misure contro il deterioramento del suolo",
+        "citation": "Art. 33 cpv. 2 LPAmb",
+        "content": "Un suolo può essere deteriorato nella sua struttura fisica soltanto nella misura in cui il pregiudizio che ne deriva alla sua fertilità non è durevole; questa disposizione non vale per l’uso edilizio del suolo. Il Consiglio federale può emanare prescrizioni o raccomandazioni sulle misure contro i deterioramenti di natura fisica, quali l’erosione o il costipamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_33"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Ulteriori misure in caso di suoli deteriorati",
+        "citation": "Art. 34 cpv. 1 LPAmb",
+        "content": "Se la fertilità del suolo in determinate regioni non è più garantita a lungo termine, i Cantoni, d’intesa con la Confederazione, inaspriscono nella necessaria misura le prescrizioni sulle esigenze relative alla dispersione delle acque di scarico, sulle limitazioni delle emissioni di impianti, sull’impiego di sostanze e organismi o sul deterioramento fisico del suolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Ulteriori misure in caso di suoli deteriorati",
+        "citation": "Art. 34 cpv. 2 LPAmb",
+        "content": "Se il deterioramento del suolo mette in pericolo l’uomo, la fauna o la flora, i Cantoni limitano, nella necessaria misura, l’utilizzazione del suolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Ulteriori misure in caso di suoli deteriorati",
+        "citation": "Art. 34 cpv. 3 LPAmb",
+        "content": "Per i suoli destinati ad essere utilizzati a scopo orticolo, agricolo o forestale nei quali non è possibile una coltivazione conforme agli usi locali senza mettere in pericolo l’uomo, la fauna o la flora, i Cantoni ordinano provvedimenti atti a ridurre il deterioramento del suolo almeno in misura tale da permettere una coltivazione non pericolosa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Valori indicativi e valori di risanamento applicabili ai suoli deteriorati",
+        "citation": "Art. 35 cpv. 1 LPAmb",
+        "content": "Per valutare il deterioramento del suolo, il Consiglio federale può fissare valori indicativi e valori di risanamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Valori indicativi e valori di risanamento applicabili ai suoli deteriorati",
+        "citation": "Art. 35 cpv. 2 LPAmb",
+        "content": "I valori indicativi definiscono il grado di deterioramento oltre il quale, in base alle attuali conoscenze scientifiche o all’esperienza, la fertilità del suolo non è più garantita a lungo termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 5:, Deterioramento del suolo, Valori indicativi e valori di risanamento applicabili ai suoli deteriorati",
+        "citation": "Art. 35 cpv. 3 LPAmb",
+        "content": "I valori di risanamento definiscono il grado di deterioramento oltre il quale, in base alle attuali conoscenze scientifiche o all’esperienza, determinate utilizzazioni non sono più possibili senza mettere in pericolo l’uomo, la fauna o la flora.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 1 LPAmb",
+        "content": "Chi importa composti organici volatili, li mette in commercio in quanto fabbricante o li impiega egli stesso deve versare alla Confederazione una tassa di incentivazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 2 LPAmb",
+        "content": "Sottostà alla tassa anche l’importazione di tali composti in colori e vernici. Il Consiglio federale può estendere la tassa all’importazione di composti organici volatili in altre miscele o in altri oggetti, se la quantità di tali composti costituisce un carico rilevante per l’ambiente, oppure la parte del costo di tali composti è ragguardevole.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 3 LPAmb",
+        "content": "Sono esenti dalla tassa i composti organici volatili:\na. impiegati come carburante o combustibile;\nb. in transito o esportati;\nc. impiegati o trattati in modo tale da non poter pervenire nell’ambiente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 4 LPAmb",
+        "content": "Il Consiglio federale può esentare dalla tassa, in proporzione agli investimenti supplementari fatti, i composti organici volatili che sono impiegati o trattati in modo tale che le loro emissioni siano nettamente inferiori ai limiti imposti dalla legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 5 LPAmb",
+        "content": "Il Consiglio federale può esentare dalla tassa i composti organici volatili non pericolosi per l’ambiente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 6 LPAmb",
+        "content": "L’importo della tassa è, al massimo, di cinque franchi per chilogrammo di composti organici volatili, più il rincaro a decorrere dall’entrata in vigore della presente disposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 7 LPAmb",
+        "content": "Il Consiglio federale fissa l’importo della tassa in base agli obiettivi di protezione dell’aria; in particolare tiene conto:\na. del carico che i composti organici volatili costituiscono per l’ambiente;\nb. della loro pericolosità per l’ambiente;\nc. dei costi delle misure volte a limitarne gli effetti;\nd. del loro prezzo e del prezzo delle sostanze di sostituzione meno inquinanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 8 LPAmb",
+        "content": "Il Consiglio federale introduce la tassa in modo graduale e fissa le date e la percentuale di ciascuna tappa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Composti organici volatili",
+        "citation": "Art. 35a cpv. 9 LPAmb",
+        "content": "Il provento della tassa, compresi gli interessi e dopo deduzione delle spese d’esecuzione, viene ripartito equamente tra la popolazione. Il Consiglio federale disciplina le modalità della ripartizione. Può incaricare della ripartizione i Cantoni, enti di diritto pubblico o privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nell’olio da riscaldamento «extra leggero»",
+        "citation": "Art. 35b cpv. 1 LPAmb",
+        "content": "Chi importa, fabbrica o estrae in territorio svizzero olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa), deve versare alla Confederazione una tassa d’incentivazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nell’olio da riscaldamento «extra leggero»",
+        "citation": "Art. 35b cpv. 2 LPAmb",
+        "content": "È esente dalla tassa l’olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa) in transito o esportato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nell’olio da riscaldamento «extra leggero»",
+        "citation": "Art. 35b cpv. 3 LPAmb",
+        "content": "L’importo della tassa è, al massimo, di venti franchi per tonnellata di olio da riscaldamento «extra leggero» con un tenore di zolfo superiore allo 0,1 per cento (% massa), più il rincaro a decorrere dall’entrata in vigore della presente disposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nell’olio da riscaldamento «extra leggero»",
+        "citation": "Art. 35b cpv. 4 LPAmb",
+        "content": "Il Consiglio federale fissa l’importo della tassa in base agli obiettivi di protezione dell’aria; in particolare, tiene conto:\na. del carico che l’anidride solforosa costituisce per l’ambiente;\nb. dei costi supplementari per la produzione di olio da riscaldamento «extra leggero» con un tenore di zolfo dello 0,1 per cento;\nc. dei bisogni relativi all’approvvigionamento del Paese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nell’olio da riscaldamento «extra leggero»",
+        "citation": "Art. 35b cpv. 5 LPAmb",
+        "content": "Il provento della tassa, compresi gli interessi e dopo deduzione delle spese d’esecuzione, viene ripartito equamente tra la popolazione. Il Consiglio federale disciplina le modalità della ripartizione. Può incaricare della ripartizione i Cantoni, enti di diritto pubblico o privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 1 LPAmb",
+        "content": "Chi importa, fabbrica o estrae in territorio svizzero benzina o gasolio con un tenore di zolfo superiore allo 0,001 per cento (% massa) deve versare alla Confederazione una tassa d’incentivazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 2 LPAmb",
+        "content": "Sono esenti dalla tassa la benzina e il gasolio con un tenore di zolfo superiore allo 0,001 per cento (% massa) in transito o esportati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 3 LPAmb",
+        "content": "L’importo della tassa è al massimo di 5 centesimi il litro, più il rincaro a decorrere dall’entrata in vigore della presente disposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 4 LPAmb",
+        "content": "Il Consiglio federale può fissare un importo diverso per la benzina e per il gasolio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 5 LPAmb",
+        "content": "Il Consiglio federale fissa altresì l’importo della tassa in base agli obiettivi di protezione dell’aria; in particolare tiene conto:\na. del carico che gli inquinamenti atmosferici costituiscono per l’ambiente;\nb. delle esigenze di protezione del clima;\nc. dei costi supplementari per la produzione o la distribuzione di benzina e di gasolio con un tenore di zolfo dello 0,001 per cento (% massa);\nd. dei bisogni relativi all’approvvigionamento del Paese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Tenore di zolfo nella benzina e nel gasolio",
+        "citation": "Art. 35bbis cpv. 6 LPAmb",
+        "content": "Il provento della tassa, compresi gli interessi e dopo deduzione delle spese d’esecuzione, viene ripartito equamente tra la popolazione. Il Consiglio federale disciplina le modalità della ripartizione. Può incaricare della ripartizione i Cantoni, enti di diritto pubblico o privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Obbligo di pagare la tassa e procedura",
+        "citation": "Art. 35c cpv. 1 LPAmb",
+        "content": "Sono soggetti alla tassa:\na. sui composti organici volatili, coloro che, al momento dell’importazione, sono tenuti a pagare il dazio in virtù della legge federale del 1° ottobre 1925 sulle dogane nonché i fabbricanti e i produttori in territorio svizzero;\nb. sull’olio da riscaldamento «extra leggero», sulla benzina e sul gasolio, coloro che, in virtù della legge federale del 21 giugno 1996 sull’imposizione degli oli minerali (LIOm), sono soggetti all’imposta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Obbligo di pagare la tassa e procedura",
+        "citation": "Art. 35c cpv. 2 LPAmb",
+        "content": "Se il diritto all’esenzione dalla tassa può essere provato soltanto dopo la riscossione della medesima, la tassa viene rimborsata. Il Consiglio federale può definire le modalità relative a tale prova e negare il rimborso della tassa se quest’ultimo comporta un dispendio sproporzionato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Obbligo di pagare la tassa e procedura",
+        "citation": "Art. 35c cpv. 3 LPAmb",
+        "content": "Il Consiglio federale definisce le procedure per la riscossione e il rimborso della tassa sui composti organici volatili. Se si tratta di importazione o di esportazione, valgono le relative disposizioni procedurali della legislazione doganale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Obbligo di pagare la tassa e procedura",
+        "citation": "Art. 35c cpv. 3bis LPAmb",
+        "content": "Per quanto riguarda l’importazione o l’esportazione, nonché la fabbricazione o l’estrazione in territorio svizzero di olio da riscaldamento «extra leggero», di benzina e di gasolio, valgono le procedure per la riscossione e il rimborso della tassa stabilite dalla LIOm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 6:, Tasse d’incentivazione, Obbligo di pagare la tassa e procedura",
+        "citation": "Art. 35c cpv. 4 LPAmb",
+        "content": "Chi produce all’interno del Paese sostanze o organismi soggetti alla tassa deve dichiararli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 1: Biocarburanti e biocombustibili",
+        "citation": "Art. 35d cpv. 1 LPAmb",
+        "content": "Se biocarburanti e biocombustibili o miscele contenenti biocarburanti e biocombustibili che non soddisfano le esigenze di cui all’articolo 12b capoversi 1 e 3 della legge federale del 21 giugno 1996 sull’imposizione degli oli minerali sono messi in commercio in grande quantità, il Consiglio federale può prevedere che i biocarburanti e i biocombustibili da esso designati possano essere messi in commercio soltanto se soddisfano determinate esigenze ecologiche o sociali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 1: Biocarburanti e biocombustibili",
+        "citation": "Art. 35d cpv. 2 LPAmb",
+        "content": "È esonerato dall’obbligo di omologazione l’etanolo destinato alla combustione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 1: Biocarburanti e biocombustibili",
+        "citation": "Art. 35d cpv. 3 LPAmb",
+        "content": "Tenendo conto delle disposizioni della legislazione sull’imposizione degli oli minerali, il Consiglio federale stabilisce:\na. le esigenze ecologiche o sociali che i biocarburanti e i biocombustibili soggetti a omologazione devono soddisfare;\nb. la procedura di omologazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Requisiti per la messa in commercio",
+        "citation": "Art. 35e cpv. 1 LPAmb",
+        "content": "È vietato mettere in commercio per la prima volta legno e prodotti da esso derivati che non soddisfano le prescrizioni del Paese di origine sul disboscamento e il commercio di legname.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Requisiti per la messa in commercio",
+        "citation": "Art. 35e cpv. 2 LPAmb",
+        "content": "Il Consiglio federale stabilisce i requisiti per la messa in commercio di legno e prodotti da esso derivati in conformità delle disposizioni dell’Unione europea.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Requisiti per la messa in commercio",
+        "citation": "Art. 35e cpv. 3 LPAmb",
+        "content": "Il Consiglio federale può, in conformità degli standard internazionali, stabilire requisiti per la messa in commercio di altre materie prime e prodotti o vietarne la messa in commercio se la loro coltura, estrazione o produzione grava notevolmente sull’ambiente o compromette notevolmente l’utilizzazione sostenibile delle risorse naturali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Obbligo di diligenza",
+        "citation": "Art. 35f cpv. 1 LPAmb",
+        "content": "Chi mette in commercio per la prima volta legno o prodotti da esso derivati o altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35e capoverso 3 deve esercitare la dovuta diligenza al fine di garantire che la merce soddisfi i requisiti di cui all’articolo 35e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Obbligo di diligenza",
+        "citation": "Art. 35f cpv. 2 LPAmb",
+        "content": "Il Consiglio federale disciplina:\na. il tipo, il contenuto e l’entità dell’obbligo di diligenza;\nb. il controllo del rispetto dell’obbligo di diligenza;\nc. il riconoscimento delle organizzazioni che supportano e verificano il rispetto dell’obbligo di diligenza, nonché il controllo della loro attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Obbligo di diligenza",
+        "citation": "Art. 35f cpv. 3 LPAmb",
+        "content": "Il Consiglio federale può sottoporre a un obbligo di notifica chi mette in commercio per la prima volta legno o prodotti da esso derivati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Obbligo di diligenza",
+        "citation": "Art. 35f cpv. 4 LPAmb",
+        "content": "Il Consiglio federale può prevedere che in caso di violazione dei capoversi 1 e 2 e dell’articolo 35e il legno e i prodotti da esso derivati nonché altre materie prime e prodotti che ha designato secondo l’articolo 35e capoverso 3 siano rispediti, sequestrati o confiscati. Può inoltre prevedere che in casi particolarmente gravi sia disposto il divieto di commercializzare il legno e i prodotti da esso derivati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Tracciabilità e dichiarazione",
+        "citation": "Art. 35g cpv. 1 LPAmb",
+        "content": "I commercianti devono documentare da quali fornitori hanno acquistato legno o prodotti da esso derivati e a quali acquirenti li hanno rivenduti; il Consiglio federale può introdurre l’obbligo di documentazione per altre materie prime e prodotti che ha designato secondo l’articolo 35e capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Tracciabilità e dichiarazione",
+        "citation": "Art. 35g cpv. 2 LPAmb",
+        "content": "Chi fornisce legno o prodotti da esso derivati ai consumatori deve dichiarare il tipo e la provenienza del legno. Il Consiglio federale definisce il legno e i prodotti da esso derivati che sottostanno all’obbligo di dichiarazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_g"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Trattamento dei dati",
+        "citation": "Art. 35h cpv. 1 LPAmb",
+        "content": "Le autorità o terzi incaricati dell’esecuzione della presente legge oppure del controllo o della vigilanza sulla sua esecuzione possono trattare dati personali, compresi dati degni di particolare protezione concernenti sanzioni amministrative e penali, qualora ciò sia necessario per l’esecuzione delle disposizioni della presente sezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_h"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo secondo: Limitazione del carico inquinante, Capitolo 7:, Messa in commercio di materie prime e prodotti, Sezione 2:, Legno e prodotti da esso derivati nonché altre materie prime e prodotti, Trattamento dei dati",
+        "citation": "Art. 35h cpv. 2 LPAmb",
+        "content": "Le autorità svizzere possono comunicare ad autorità estere e istituzioni internazionali dati personali, compresi dati degni di particolare protezione concernenti sanzioni amministrative e penali, ai fini dell’esecuzione delle disposizioni dell’Unione europea sulla commercializzazione di legno e prodotti da esso derivati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_35_h"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 1: Esecuzione da parte dei Cantoni, Competenze esecutive dei Cantoni",
+        "citation": "Art. 36 LPAmb",
+        "content": "Riservato l’articolo 41, l’esecuzione della presente legge incombe ai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_36"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 1: Esecuzione da parte dei Cantoni, Prescrizioni esecutive cantonali",
+        "citation": "Art. 37 LPAmb",
+        "content": "Le prescrizioni esecutive cantonali concernenti la protezione dalle catastrofi (art. 10), l’esame dell’impatto sull’ambiente (art. 10a–10d), il risanamento (art. 16–18), la protezione acustica negli immobili (art. 20 e 21) e i rifiuti (art. 30–32, 32abis–32e), per essere valide, devono essere approvate dalla Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_37"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Vigilanza e coordinamento",
+        "citation": "Art. 38 cpv. 1 LPAmb",
+        "content": "La Confederazione vigila sull’esecuzione della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Vigilanza e coordinamento",
+        "citation": "Art. 38 cpv. 2 LPAmb",
+        "content": "Essa coordina le misure esecutive cantonali e quelle dei suoi propri istituti ed aziende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Vigilanza e coordinamento",
+        "citation": "Art. 38 cpv. 3 LPAmb",
+        "content": "Il Consiglio federale determina i metodi d’esame, di misurazione e di calcolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Prescrizioni esecutive e accordi internazionali",
+        "citation": "Art. 39 cpv. 1 LPAmb",
+        "content": "Il Consiglio federale emana le prescrizioni esecutive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Prescrizioni esecutive e accordi internazionali",
+        "citation": "Art. 39 cpv. 1bis LPAmb",
+        "content": "Può dichiarare applicabili prescrizioni e norme tecniche armonizzate a livello internazionale e:\na. autorizzare l’ufficio federale competente a dichiarare applicabili modificazioni minori di queste prescrizioni e norme;\nb. prevedere che le prescrizioni e norme dichiarate applicabili siano oggetto di una pubblicazione speciale e rinunciare alla loro traduzione nelle lingue ufficiali;",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Prescrizioni esecutive e accordi internazionali",
+        "citation": "Art. 39 cpv. 2 LPAmb",
+        "content": "Esso può stipulare accordi internazionali su:\na. le prescrizioni tecniche;\nabis. sostanze pericolose per l’ambiente (art. 26–29);\nb. la prevenzione e lo smaltimento di rifiuti;\nc. la collaborazione nelle zone confinarie mediante l’istituzione di commissioni bilaterali consultive;\nd. la raccolta di dati e le indagini;\ne. la ricerca e la formazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Immissione in commercio di impianti fabbricati in serie",
+        "citation": "Art. 40 cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può subordinare l’immissione in commercio di impianti fabbricati in serie a una valutazione della conformità, all’apposizione di un contrassegno, a una registrazione o a un’omologazione nella misura del carico inquinante che essi provocano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_40"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Immissione in commercio di impianti fabbricati in serie",
+        "citation": "Art. 40 cpv. 2 LPAmb",
+        "content": "Può riconoscere esami, valutazioni della conformità, contrassegni, registrazioni e omologazioni esteri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_40"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Competenze esecutive della Confederazione",
+        "citation": "Art. 41 cpv. 1 LPAmb",
+        "content": "La Confederazione esegue gli articoli 12 capoverso 1 lettera e (prescrizioni su combustibili e carburanti), 26 (controllo autonomo), 27 (informazione dell’acquirente), 29 (prescrizioni sulle sostanze), 29a–29h (utilizzazione di organismi), 30b capoverso 3 (cassa di compensazione dei depositi), 30f e 30g (importazione ed esportazione di rifiuti), 31a capoverso 2 e 31c capoverso 3 (misure della Confederazione per lo smaltimento dei rifiuti), 32abis (tassa di smaltimento anticipata), 32e capoversi 1–4 (tasse per il finanziamento dei provvedimenti), 35a–35c (tasse d’incentivazione), 35d (biocarburanti e biocombustibili), 35e–35h (legno e prodotti da esso derivati nonché altre materie prime e prodotti), 39 (prescrizioni esecutive e accordi internazionali), 40 (immissione in commercio di impianti fabbricati in serie) e 46 capoverso 3 (dati concernenti le sostanze e gli organismi); può far capo ai Cantoni per determinati compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Competenze esecutive della Confederazione",
+        "citation": "Art. 41 cpv. 2 LPAmb",
+        "content": "L’autorità federale che esegue un’altra legge federale o un trattato internazionale è competente, nell’adempimento del suo compito, anche per l’esecuzione della presente legge. Prima di decidere consulta i Cantoni interessati. L’Ufficio federale e gli altri servizi federali interessati partecipano all’esecuzione conformemente agli articoli 62a e 62b della legge del 21 marzo 1997 sull’organizzazione del Governo e dell’Amministrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Competenze esecutive della Confederazione",
+        "citation": "Art. 41 cpv. 3 LPAmb",
+        "content": "Se per determinati compiti la procedura di cui al capoverso 2 è inadeguata, il Consiglio federale ne disciplina l’esecuzione da parte dei servizi federali interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2: Esecuzione da parte della Confederazione, Competenze esecutive della Confederazione",
+        "citation": "Art. 41 cpv. 4 LPAmb",
+        "content": "Le autorità esecutive federali tengono conto delle misure di protezione dell’ambiente previste dai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2a:, Collaborazione con l’economia",
+        "citation": "Art. 41a cpv. 1 LPAmb",
+        "content": "La Confederazione e, nel loro ambito di competenza, i Cantoni collaborano con le organizzazioni economiche per l’esecuzione della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2a:, Collaborazione con l’economia",
+        "citation": "Art. 41a cpv. 2 LPAmb",
+        "content": "Possono promuovere la conclusione di accordi settoriali fissando obiettivi e scadenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 2a:, Collaborazione con l’economia",
+        "citation": "Art. 41a cpv. 3 LPAmb",
+        "content": "Prima di emanare prescrizioni d’esecuzione, esaminano le misure prese volontariamente dall’economia. Per quanto possibile e necessario, riprendono, parzialmente o totalmente, accordi settoriali nel diritto d’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Servizi della protezione dell’ambiente",
+        "citation": "Art. 42 cpv. 1 LPAmb",
+        "content": "Per l’esame dei problemi della protezione dell’ambiente, i Cantoni istituiscono un servizio specialistico o designano a tal fine uffici idonei esistenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_42"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Servizi della protezione dell’ambiente",
+        "citation": "Art. 42 cpv. 2 LPAmb",
+        "content": "L’Ufficio federale è il pertinente servizio della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_42"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Delega di compiti d’esecuzione",
+        "citation": "Art. 43 LPAmb",
+        "content": "Le autorità esecutive possono delegare compiti d’esecuzione, in particolare di controllo e di sorveglianza, a corporazioni di diritto pubblico o a privati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_43"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Emblema ecologico e gestione ambientale",
+        "citation": "Art. 43a cpv. 1 LPAmb",
+        "content": "Il Consiglio federale può emanare prescrizioni sull’introduzione:\na. di un sistema volontario di insegne per la protezione dell’ambiente (emblema ecologico);\nb. di un sistema volontario di valutazione e miglioramento della protezione ambientale delle imprese (gestione ambientale e monitoraggio ambientale).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_43_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Emblema ecologico e gestione ambientale",
+        "citation": "Art. 43a cpv. 2 LPAmb",
+        "content": "A tal fine considera il diritto internazionale e le norme tecniche riconosciute a livello internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_43_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Rilevazioni sul carico inquinante",
+        "citation": "Art. 44 cpv. 1 LPAmb",
+        "content": "La Confederazione e i Cantoni procedono a rilevazioni sul carico inquinante ed esaminano l’esito delle misure prese in virtù della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Rilevazioni sul carico inquinante",
+        "citation": "Art. 44 cpv. 2 LPAmb",
+        "content": "Il Consiglio federale coordina le rilevazioni e le raccolte di dati, federali e cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Rilevazioni sul carico inquinante",
+        "citation": "Art. 44 cpv. 3 LPAmb",
+        "content": "Determina quali dati, rilevati sulle sostanze e sugli organismi in base alla legislazione sull’ingegneria genetica, sulle derrate alimentari, sui medicamenti e i dispositivi medici, sui prodotti chimici, sull’agricoltura, sulle epidemie e sulle epizoozie, devono essere messi a disposizione dell’Ufficio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Piani di provvedimenti in caso di inquinamenti atmosferici",
+        "citation": "Art. 44a cpv. 1 LPAmb",
+        "content": "Se sono costatati o prevedibili effetti nocivi o molesti dovuti a inquinamento atmosferico da parte di diverse fonti, l’autorità competente allestisce un piano di provvedimenti che contribuiscano a diminuire o ad eliminare tali effetti entro un periodo prestabilito (piano dei provvedimenti).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Piani di provvedimenti in caso di inquinamenti atmosferici",
+        "citation": "Art. 44a cpv. 2 LPAmb",
+        "content": "I piani di provvedimenti sono vincolanti per le autorità alle quali i Cantoni affidano compiti d’esecuzione. Essi operano una distinzione tra i provvedimenti che possono essere ordinati immediatamente e quelli per cui mancano ancora le basi legali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Piani di provvedimenti in caso di inquinamenti atmosferici",
+        "citation": "Art. 44a cpv. 3 LPAmb",
+        "content": "Se un piano prevede provvedimenti che sono di competenza della Confederazione, i Cantoni presentano le relative proposte al Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Controlli periodici",
+        "citation": "Art. 45 LPAmb",
+        "content": "Il Consiglio federale può prescrivere il controllo regolare di impianti come i bruciatori ad olio, gli impianti per lo smaltimento dei rifiuti o le macchine di cantiere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_45"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Obbligo d’informare",
+        "citation": "Art. 46 cpv. 1 LPAmb",
+        "content": "Ognuno è tenuto a fornire alle autorità le informazioni necessarie all’esecuzione della presente legge e, se necessario, a svolgere o a tollerare indagini.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Obbligo d’informare",
+        "citation": "Art. 46 cpv. 2 LPAmb",
+        "content": "Il Consiglio federale o i Cantoni possono ordinare che siano allestiti repertori con dati sull’inquinamento atmosferico, sui rumori e sulle vibrazioni, sui rifiuti e sul loro smaltimento nonché sul genere, sulla quantità e sulle proprietà di sostanze e organismi, che tali repertori siano conservati e che siano trasmessi alle autorità che ne fanno richiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Obbligo d’informare",
+        "citation": "Art. 46 cpv. 3 LPAmb",
+        "content": "Il Consiglio federale può ordinare che siano forniti dati sulle sostanze o sugli organismi che possono minacciare l’ambiente o che vengono messi in commercio per la prima volta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Segreto d’ufficio",
+        "citation": "Art. 47 cpv. 3 LPAmb",
+        "content": "Tutte le persone incaricate dell’esecuzione della presente legge, gli esperti e i membri di commissioni e di comitati tecnici sono tenuti al segreto d’ufficio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_47"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Segreto d’ufficio",
+        "citation": "Art. 47 cpv. 4 LPAmb",
+        "content": "Le informazioni riservate ottenute nell’ambito dell’esecuzione della presente legge possono essere trasmesse ad autorità estere e ad organizzazioni internazionali soltanto se un accordo internazionale, decisioni di organizzazioni internazionali o una legge federale lo prevedono. Il Consiglio federale regola le competenze e la procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_47"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Tasse",
+        "citation": "Art. 48 cpv. 1 LPAmb",
+        "content": "Per le autorizzazioni, i controlli e le prestazioni speciali secondo la presente legge, è riscossa una tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_48"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 1: Esecuzione, Sezione 3: Disposizioni esecutive speciali, Tasse",
+        "citation": "Art. 48 cpv. 2 LPAmb",
+        "content": "Per la Confederazione, l’ammontare è fissato dal Consiglio federale e, per i Cantoni, dall’autorità competente giusta il diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_48"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Formazione e ricerca",
+        "citation": "Art. 49 cpv. 1 LPAmb",
+        "content": "La Confederazione può promuovere la formazione e la formazione continua delle persone incaricate di compiti previsti nella presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Formazione e ricerca",
+        "citation": "Art. 49 cpv. 2 LPAmb",
+        "content": "Essa può commissionare o sostenere lavori di ricerca e valutazioni dell’impatto tecnologico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Formazione e ricerca",
+        "citation": "Art. 49 cpv. 3 LPAmb",
+        "content": "Essa può promuovere lo sviluppo di impianti e di procedimenti che permettono di ridurre, nell’interesse pubblico, il carico ambientale. Di regola gli aiuti finanziari non possono superare il 50 per cento dei costi. Devono essere rimborsati in funzione degli utili realizzati se i risultati dei lavori di sviluppo sono stati usati a fini commerciali. Il Consiglio federale valuta ogni cinque anni i risultati di tali misure promozionali e fa rapporto alle Camere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Sussidi per misure di protezione dell’ambiente lungo le strade",
+        "citation": "Art. 50 cpv. 1 LPAmb",
+        "content": "Nell’ambito dell’impiego del prodotto netto dell’imposta sugli oli minerali e della tassa sulle strade nazionali, la Confederazione partecipa alle spese:\na. per le misure di protezione dell’ambiente lungo le strade nazionali e lungo quelle principali che devono essere sistemate con l’aiuto federale conformemente alle disposizioni della legge federale del 22 marzo 1985 concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata (LUMin); per le strade principali, questi sussidi sono parte integrante dei contributi globali secondo la LUMin;\nb. per le misure di protezione fonica e di isolamento acustico nella rimanente rete stradale sulla base di accordi di programma con i Cantoni; gli importi dei sussidi sono stabiliti in funzione dell’efficacia delle misure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_50"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Sussidi per misure di protezione dell’ambiente lungo le strade",
+        "citation": "Art. 50 cpv. 2 LPAmb",
+        "content": "I Cantoni presentano alla Confederazione un rapporto sull’utilizzo dei sussidi per le misure di protezione dell’ambiente lungo le strade principali che devono essere sistemate con l’aiuto federale e lungo le rimanenti strade.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_50"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Installazioni di controllo e di sorveglianza",
+        "citation": "Art. 51 LPAmb",
+        "content": "Se le installazioni di misurazione, di controllo e di sorveglianza necessarie all’esecuzione della presente legge servono a più Cantoni, la Confederazione può sussidiarne i costi di costruzione e d’attrezzatura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_51"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Cooperazione internazionale per la protezione dell’ambiente",
+        "citation": "Art. 53 cpv. 1 LPAmb",
+        "content": "La Confederazione può accordare contributi:\na. a organizzazioni internazionali o programmi nell’ambito della protezione ambientale internazionale;\nb. per attuare accordi internazionali in materia ambientale;\nc. per finanziare i segretariati di accordi internazionali in materia ambientale la cui sede permanente è in Svizzera;\nd. a Fondi per il sostegno di Paesi in sviluppo e in transizione nell’ambito dell’attuazione di accordi internazionali in materia ambientale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Cooperazione internazionale per la protezione dell’ambiente",
+        "citation": "Art. 53 cpv. 2 LPAmb",
+        "content": "I contributi di cui al capoverso 1 lettera d sono stanziati sotto forma di crediti quadro pluriennali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 2: Promovimento, Cooperazione internazionale per la protezione dell’ambiente",
+        "citation": "Art. 53 cpv. 3 LPAmb",
+        "content": "Il Consiglio federale vigila sull’impiego efficace dei mezzi stanziati in virtù della presente legge e ne riferisce all’Assemblea federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 1: Rimedi giuridici, ...",
+        "citation": "Art. 54 LPAmb",
+        "content": "La procedura di ricorso è retta dalle disposizioni generali sull’amministrazione della giustizia federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_54"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Organizzazioni legittimate a ricorrere",
+        "citation": "Art. 55 cpv. 1 LPAmb",
+        "content": "Le organizzazioni di protezione dell’ambiente sono legittimate a ricorrere contro le decisioni delle autorità cantonali o federali in materia di pianificazione, costruzione o trasformazione di impianti per i quali è necessario un esame dell’impatto sull’ambiente secondo l’articolo 10a, se:\na. sono attive a livello nazionale;\nb. perseguono scopi meramente ideali; eventuali attività economiche devono servire a conseguire gli scopi ideali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Organizzazioni legittimate a ricorrere",
+        "citation": "Art. 55 cpv. 2 LPAmb",
+        "content": "Le organizzazioni sono legittimate a ricorrere soltanto per censure in ambiti giuridici che rientrano da almeno dieci anni nei fini previsti nel loro statuto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Organizzazioni legittimate a ricorrere",
+        "citation": "Art. 55 cpv. 3 LPAmb",
+        "content": "Il Consiglio federale designa le organizzazioni legittimate a ricorrere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Organizzazioni legittimate a ricorrere",
+        "citation": "Art. 55 cpv. 4 LPAmb",
+        "content": "La competenza di presentare il ricorso spetta all’organo esecutivo supremo dell’organizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Organizzazioni legittimate a ricorrere",
+        "citation": "Art. 55 cpv. 5 LPAmb",
+        "content": "Le organizzazioni possono abilitare le loro sottoorganizzazioni cantonali e sovracantonali giuridicamente autonome a fare opposizione in generale e a presentare ricorso in singoli casi nell’ambito locale d’attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Comunicazione della decisione ",
+        "citation": "Art. 55a cpv. 1 LPAmb",
+        "content": "L’autorità comunica alle organizzazioni la propria decisione secondo l’articolo 55 capoverso 1 mediante notifica scritta o pubblicazione nel Foglio federale o nell’organo ufficiale del Cantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Comunicazione della decisione ",
+        "citation": "Art. 55a cpv. 2 LPAmb",
+        "content": "Nelle procedure di opposizione previste dal diritto federale o cantonale, anche le domande devono essere pubblicate secondo il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Perdita della legittimazione a ricorrere",
+        "citation": "Art. 55b cpv. 1 LPAmb",
+        "content": "Le organizzazioni che non hanno interposto un rimedio giuridico possono intervenire come parte nel seguito della procedura soltanto se la decisione è modificata in modo tale da arrecare loro un pregiudizio. Per le espropriazioni si applica la legge federale del 20 giugno 1930 sull’espropriazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Perdita della legittimazione a ricorrere",
+        "citation": "Art. 55b cpv. 2 LPAmb",
+        "content": "Le organizzazioni che non hanno partecipato a una procedura di opposizione prevista dal diritto federale o cantonale non possono più interporre ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Perdita della legittimazione a ricorrere",
+        "citation": "Art. 55b cpv. 3 LPAmb",
+        "content": "In materia di piani di utilizzazione con valenza di decisione formale le organizzazioni non possono far valere in una fase procedurale successiva le censure che nelle fasi procedurali precedenti hanno omesso di far valere o sono state respinte definitivamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Perdita della legittimazione a ricorrere",
+        "citation": "Art. 55b cpv. 4 LPAmb",
+        "content": "In materia di piani di utilizzazione i capoversi 2 e 3 si applicano anche alle opposizioni e ai ricorsi interposti secondo il diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Accordi fra richiedenti e organizzazioni",
+        "citation": "Art. 55c cpv. 1 LPAmb",
+        "content": "Se il richiedente e l’organizzazione stipulano accordi in merito a impegni inerenti a questioni di diritto pubblico, tali accordi sono considerati esclusivamente come proposte congiunte a destinazione dell’autorità. L’autorità ne tiene conto nella sua decisione. Ne prescinde se sussistono vizi ai sensi dell’articolo 49 della legge federale del 20 dicembre 1968 sulla procedura amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Accordi fra richiedenti e organizzazioni",
+        "citation": "Art. 55c cpv. 2 LPAmb",
+        "content": "Sono illeciti gli accordi fra i richiedenti e le organizzazioni relativi a prestazioni finanziarie o di altra natura destinate a:\na. far applicare obblighi di diritto pubblico, in particolare oneri imposti dalle autorità;\nb. realizzare misure che non sono previste dal diritto pubblico o che non sono in relazione con il progetto;\nc. compensare la rinuncia al ricorso o qualsiasi altro comportamento processuale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Accordi fra richiedenti e organizzazioni",
+        "citation": "Art. 55c cpv. 3 LPAmb",
+        "content": "L’autorità di ricorso non entra nel merito dei ricorsi che configurano un abuso di diritto o qualora l’organizzazione abbia chiesto prestazioni illecite ai sensi del capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Inizio anticipato dei lavori",
+        "citation": "Art. 55d LPAmb",
+        "content": "I lavori di costruzione possono essere cominciati prima della fine della procedura, a condizione che il suo esito non possa influire su di essi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 2: Ricorso delle associazioni contro decisioni relative ad impianti, Spese procedurali",
+        "citation": "Art. 55e LPAmb",
+        "content": "Le spese della procedura di ricorso dinnanzi alle autorità federali sono a carico dell’organizzazione soccombente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_e"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 3:, Ricorso delle associazioni contro autorizzazioni concernenti organismi",
+        "citation": "Art. 55f cpv. 1 LPAmb",
+        "content": "Le organizzazioni di protezione dell’ambiente sono legittimate a ricorrere contro le autorizzazioni rilasciate per la messa in commercio di organismi patogeni destinati a essere utilizzati nell’ambiente, se:\na. sono attive a livello nazionale;\nb. sono state fondate almeno dieci anni prima della presentazione del ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 3:, Ricorso delle associazioni contro autorizzazioni concernenti organismi",
+        "citation": "Art. 55f cpv. 2 LPAmb",
+        "content": "Il Consiglio federale designa le organizzazioni legittimate a ricorrere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 3:, Ricorso delle associazioni contro autorizzazioni concernenti organismi",
+        "citation": "Art. 55f cpv. 3 LPAmb",
+        "content": "Sono applicabili gli articoli 55a e 55b capoversi 1 e 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Ricorso delle autorità",
+        "citation": "Art. 56 cpv. 1 LPAmb",
+        "content": "L’Ufficio federale può impugnare le decisioni delle autorità cantonali in applicazione della presente legge e delle sue disposizioni d’esecuzione con i rimedi giuridici del diritto federale e del diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_56"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Ricorso delle autorità",
+        "citation": "Art. 56 cpv. 2 LPAmb",
+        "content": "Lo stesso diritto spetta ai Cantoni per controversie riguardanti gli effetti provenienti da Cantoni vicini.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_56"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Ricorso dei Comuni",
+        "citation": "Art. 57 LPAmb",
+        "content": "I Comuni sono autorizzati ad avvalersi, contro le decisioni cantonali e federali fondate sulla presente legge, dei rimedi giuridici previsti dal diritto cantonale e federale, in quanto siano toccati dalla decisione e abbiano un interesse degno di protezione all’annullamento o alla modificazione della stessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_57"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Espropriazione",
+        "citation": "Art. 58 cpv. 1 LPAmb",
+        "content": "Se l’esecuzione della presente legge lo esige, la Confederazione e i Cantoni possono esercitare il diritto di espropriazione o delegarlo a terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Espropriazione",
+        "citation": "Art. 58 cpv. 2 LPAmb",
+        "content": "Nelle loro prescrizioni esecutive, i Cantoni possono dichiarare applicabile la legge federale del 20 giugno 1930 sull’espropriazione. Essi prevedono che il governo cantonale decide sulle opposizioni rimaste controverse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Espropriazione",
+        "citation": "Art. 58 cpv. 3 LPAmb",
+        "content": "La legislazione federale sull’espropriazione è applicabile alle opere situate sul territorio di più Cantoni. Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni decide sul diritto d’espropriazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo terzo: Esecuzione, promovimento e procedura, Capitolo 3: Procedura, Sezione 4: Ricorso delle autorità e dei Comuni, espropriazione, costi delle misure di sicurezza e delle rimozioni, Costi delle misure di sicurezza e di rimozione",
+        "citation": "Art. 59 LPAmb",
+        "content": "I costi delle misure che le autorità prendono per la difesa da un effetto imminente, come pure per l’accertamento e l’eliminazione del medesimo, sono addossati a chi ne è la causa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 1 LPAmb",
+        "content": "Il titolare di un’azienda o di un impianto che costituisce un pericolo particolare per l’ambiente risponde del danno causato dal verificarsi di tale pericolo. In caso di danni che si verificano utilizzando organismi patogeni si applica l’articolo 59abis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 2 LPAmb",
+        "content": "Di norma, costituiscono un pericolo particolare per l’ambiente le aziende e gli impianti:\na. che il Consiglio federale assoggetta alle prescrizioni d’esecuzione di cui all’articolo 10 a causa delle sostanze, degli organismi o dei rifiuti da essi utilizzati;\nb. destinati allo smaltimento dei rifiuti;\nc. nei quali vengono utilizzati liquidi che possono inquinare le acque;\nd. nei quali sono presenti sostanze per le quali il Consiglio federale, a tutela dell’ambiente, introduce un obbligo d’autorizzazione o emana altre prescrizioni particolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 3 LPAmb",
+        "content": "È liberato da questa responsabilità colui che prova che il danno è stato cagionato da motivi di forza maggiore o da una colpa grave del danneggiato o di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 4 LPAmb",
+        "content": "Sono applicabili gli articoli 42–47 e 49–53 del Codice delle obbligazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 5 LPAmb",
+        "content": "La riserva prevista all’articolo 3 è applicabile alle disposizioni sulla responsabilità civile contenute in altre leggi federali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, In generale",
+        "citation": "Art. 59a cpv. 6 LPAmb",
+        "content": "La Confederazione, i Cantoni e i Comuni sono anch’essi responsabili secondo i capoversi 1–5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 1 LPAmb",
+        "content": "La persona soggetta all’obbligo d’autorizzazione o di notifica che utilizza in un sistema chiuso organismi patogeni, immette tali organismi nell’ambiente a titolo sperimentale o li mette in commercio senza autorizzazione è responsabile dei danni che si verificano in seguito a tale utilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 2 LPAmb",
+        "content": "La responsabilità per i danni causati alle aziende agricole e forestali o ai consumatori di prodotti di tali aziende dalla messa in commercio autorizzata di organismi patogeni incombe esclusivamente alla persona soggetta all’obbligo di autorizzazione se gli organismi:\na. sono contenuti in mezzi di produzione dell’agricoltura o della economia forestale; o\nb. derivano da tali mezzi di produzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 3 LPAmb",
+        "content": "Nell’ambito della responsabilità secondo il capoverso 2 è fatto salvo il diritto di regresso verso persone che hanno utilizzato in modo inappropriato tali organismi o hanno contribuito in altro modo al verificarsi o all’aggravamento del danno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 4 LPAmb",
+        "content": "La responsabilità per i danni causati dalla messa in commercio autorizzata di qualsiasi altro organismo patogeno incombe alla persona soggetta all’obbligo d’autorizzazione se l’organismo è difettoso. La responsabilità si estende anche ai difetti che non potevano essere riconosciuti in base allo stato delle conoscenze scientifiche e tecniche al momento della messa in commercio dell’organismo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 5 LPAmb",
+        "content": "Sono difettosi gli organismi patogeni che non offrono la sicurezza che è lecito attendersi in considerazione delle circostanze; si tiene conto in particolare:\na. del modo in cui sono presentati al pubblico;\nb. dell’uso ragionevolmente ipotizzabile;\nc. del momento in cui sono stati messi in commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 6 LPAmb",
+        "content": "Un prodotto ottenuto con organismi patogeni non è da ritenersi difettoso per il solo fatto che successivamente sia stato messo in commercio un prodotto migliorato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 7 LPAmb",
+        "content": "Il danno deve essersi verificato a causa della patogenicità degli organismi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 8 LPAmb",
+        "content": "La prova del nesso causale incombe alla persona che pretende il risarcimento del danno. Se tale prova non può essere fornita con certezza o se non si può ragionevolmente pretendere che la persona a cui le incombe la fornisca, il giudice può accontentarsi di un alto grado di verosimiglianza. Il giudice può inoltre ordinare d’ufficio l’accertamento dei fatti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 9 LPAmb",
+        "content": "La persona soggetta all’obbligo d’autorizzazione o di notifica deve rimborsare anche le spese legate a provvedimenti necessari e adeguati presi per ripristinare le componenti dell’ambiente distrutte o deteriorate o per sostituirle con componenti equivalenti. Se le componenti dell’ambiente distrutte o deteriorate non sono oggetto di un diritto reale o se l’avente diritto non prende i provvedimenti richiesti dalle circostanze, il diritto al risarcimento spetta all’ente pubblico competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 10 LPAmb",
+        "content": "È liberato dalla responsabilità civile colui che prova che il danno è stato causato da forza maggiore o da colpa grave del danneggiato o di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 11 LPAmb",
+        "content": "Sono applicabili gli articoli 42–47 e 49–53 del Codice delle obbligazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Utilizzazione di organismi patogeni",
+        "citation": "Art. 59abis cpv. 12 LPAmb",
+        "content": "La Confederazione, i Cantoni e i Comuni rispondono anch’essi secondo i capoversi 1–11.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Garanzia",
+        "citation": "Art. 59b LPAmb",
+        "content": "Allo scopo di proteggere il danneggiato, il Consiglio federale può:\na. prescrivere che i titolari di determinati impianti o aziende e le persone soggette all’obbligo d’autorizzazione o di notifica che utilizzano organismi forniscano garanzie, sotto forma di assicurazione o in altro modo, per coprire la loro responsabilità civile;\nb. fissare l’entità e la durata di tale garanzia oppure lasciare che sia l’autorità a decidere di caso in caso;\nc. obbligare chi si porta garante della responsabilità civile a notificare all’autorità esecutiva l’esistenza, la sospensione o la cessazione della garanzia;\nd. prevedere che la garanzia sia sospesa o cessi soltanto 60 giorni dopo il ricevimento della notifica;\ne. prevedere che la chiusura della discarica comporti il trasferimento al Cantone della proprietà del fondo sul quale la discarica è situata e regolare la questione dell’indennizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_b"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Prescrizione",
+        "citation": "Art. 59c cpv. 1 LPAmb",
+        "content": "Le pretese di risarcimento si prescrivono secondo l’articolo 60 del Codice delle obbligazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Prescrizione",
+        "citation": "Art. 59c cpv. 2 LPAmb",
+        "content": "Se il danno è stato causato dall’utilizzazione di organismi patogeni, le pretese di risarcimento si prescrivono in tre anni dal giorno in cui il danneggiato ha avuto conoscenza del danno e del responsabile, ma al più tardi dopo trent’anni dal giorno in cui:\na. l’evento che ha provocato il danno si è verificato o si è concluso nell’azienda o nell’impianto; o\nb. gli organismi patogeni sono stati messi in commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_c"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quarto:, Responsabilità civile, Prescrizione del diritto di regresso",
+        "citation": "Art. 59d LPAmb",
+        "content": "Il diritto di regresso si prescrive secondo l’articolo 59c. Il termine di tre anni decorre dal momento in cui la misura di compensazione è stata fornita integralmente ed è nota l’identità del corresponsabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_59_d"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Delitti",
+        "citation": "Art. 60 cpv. 1 LPAmb",
+        "content": "È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque intenzionalmente:\na. omette di prendere le misure di sicurezza ordinate per prevenire le catastrofi o si avvale di procedimenti di produzione o di sistemi di deposito vietati (art. 10);\nb. mette in commercio sostanze per impieghi di cui sa o deve sapere che possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 26);\nc. mette in commercio sostanze senza informare l’acquirente sulle proprietà che influiscono sull’ambiente (art. 27 cpv. 1 lett. a) o senza indicargli come utilizzare in modo corretto tali sostanze (art. 27 cpv. 1 lett. b);\nd. utilizza sostanze contrariamente alle istruzioni in modo tale che esse, i loro derivati o i loro rifiuti possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 28);\ne. viola le prescrizioni sulle sostanze o sugli organismi (art. 29, 29b cpv. 2, 29f, 30a lett. b e 34 cpv. 1);\nf. utilizza organismi in modo tale che vengano violati i principi di cui all’articolo 29a capoverso 1;\ng. nell’utilizzare organismi patogeni non prende tutte le misure di confinamento necessarie (art. 29b cpv. 1);\nh. senza autorizzazione, libera a titolo sperimentale organismi patogeni o li mette in commercio in vista di un impiego nell’ambiente (art. 29c cpv. 1 e 29d cpv. 3 e 4);\ni. mette in commercio organismi dei quali sa o deve sapere che in determinati impieghi vengono violati i principi di cui all’articolo 29a capoverso 1 (art. 29d cpv. 1);\nj. mette in commercio organismi senza fornire all’acquirente le informazioni e le istruzioni necessarie (art. 29e cpv. 1); \nk. utilizza gli organismi senza attenersi alle istruzioni (art. 29e cpv. 2);\nl. ...\nm. senza autorizzazione, sistema o gestisce una discarica (30e cpv. 2);\nn. omette di contrassegnare come tali i rifiuti speciali in vista della consegna (art. 30f cpv. 2 lett. a) oppure li consegna ad un’impresa che non è in possesso della necessaria autorizzazione (art. 30f cpv. 2 lett. b);\no. ritira, importa o esporta, senza autorizzazione, rifiuti speciali (art. 30f cpv. 2 lett. c e d);\np. viola le prescrizioni sul traffico dei rifiuti speciali (art. 30f cpv. 1);\nq. viola le prescrizioni sui rifiuti (art. 30a lett. b);\nr. viola le prescrizioni sulla prima messa in commercio di legno e prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35e capoverso 3 (art. 35e e 35f cpv. 1 e 2 lett. a).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_60"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Delitti",
+        "citation": "Art. 60 cpv. 2 LPAmb",
+        "content": "Se l’autore ha agito per negligenza, la pena è una pena pecuniaria sino a 180 aliquote giornaliere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_60"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Contravvenzioni",
+        "citation": "Art. 61 cpv. 1 LPAmb",
+        "content": "È punito con la multa sino a 20 000 franchi chiunque intenzionalmente:\na. viola le limitazioni delle emissioni prescritte in virtù della presente legge (art. 12 e 34 cpv. 1);\nb. non si conforma alle decisioni di risanamento (art. 16 e 32c cpv. 1);\nc. non prende le misure di protezione acustica prescritte dall’autorità (art. 19–25);\nd. fornisce informazioni o istruzioni errate o incomplete (art. 27);\ne. utilizza sostanze, senza che siano accompagnate dalle necessarie informazioni o istruzioni, in modo tale che esse, i loro derivati o i loro rifiuti possono mettere in pericolo l’ambiente o indirettamente l’uomo (art. 28);\nf. incenerisce abusivamente rifiuti fuori degli impianti (art. 30c cpv. 2);\ng. deposita rifiuti fuori delle discariche autorizzate (art. 30e cpv. 1);\nh. viola l’obbligo di notifica concernente i rifiuti (art. 30f cpv. 4, 30g cpv. 2, 32b cpv. 2 e 3);\ni. viola le prescrizioni sui rifiuti (art. 30a lett. a e c, 30b, 30c cpv. 3, 30d, 30h cpv. 1, 32abis, 32b cpv. 4 e 32e cpv. 1–4);\nk. viola le prescrizioni sul traffico di altri rifiuti (art. 30g cpv. 1);\nl. non garantisce la copertura dei costi per la chiusura, gli interventi ulteriori e il risanamento della discarica (art. 32b cpv. 1);\nm. viola le prescrizioni sul deterioramento fisico e l’utilizzazione del suolo (art. 33 cpv. 2 e 34 cpv. 1 e 2) nonché sui provvedimenti atti a ridurre il deterioramento del suolo (art. 34 cpv. 3);\nmbis. viola le prescrizioni sulla tracciabilità del legno e dei prodotti da esso derivati nonché di altre materie prime e prodotti designati dal Consiglio federale secondo l’articolo 35e capoverso 3 per i quali è stato introdotto un obbligo di documentazione (art. 35g cpv.1);\nn. viola le prescrizioni sulla messa in commercio di impianti fabbricati in serie (art. 40);\no. rifiuta di dare informazioni o fornisce dati inesatti all’autorità competente (art. 46);\np. viola le prescrizioni sulla copertura della responsabilità civile (art. 59b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Contravvenzioni",
+        "citation": "Art. 61 cpv. 2 LPAmb",
+        "content": "Se l’autore ha agito per negligenza, la pena è della multa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Contravvenzioni",
+        "citation": "Art. 61 cpv. 3 LPAmb",
+        "content": "Il tentativo e la complicità sono punibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Infrazioni alle prescrizioni sulle tasse d’incentivazione e sui biocarburanti e i biocombustibili",
+        "citation": "Art. 61a cpv. 1 LPAmb",
+        "content": "Chiunque, intenzionalmente o per negligenza, elude una tassa ai sensi degli articoli 35a, 35b o 35bbis, ne mette in pericolo la riscossione, procaccia a sé o a terzi un profitto fiscale indebito (esenzione dalla tassa o rimborso della stessa) è punito con la multa fino a cinque volte l’ammontare della tassa elusa o messa in pericolo oppure del profitto procacciato. Se non può essere stabilito con precisione, l’ammontare della tassa viene stimato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Infrazioni alle prescrizioni sulle tasse d’incentivazione e sui biocarburanti e i biocombustibili",
+        "citation": "Art. 61a cpv. 2 LPAmb",
+        "content": "Chiunque, intenzionalmente o per negligenza, mette in commercio biocarburanti o biocombustibili senza omologazione secondo l’articolo 35d o ottiene un’omologazione fornendo indicazioni false, inesatte o incomplete, è punito con la multa fino a 500 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Infrazioni alle prescrizioni sulle tasse d’incentivazione e sui biocarburanti e i biocombustibili",
+        "citation": "Art. 61a cpv. 3 LPAmb",
+        "content": "Il tentativo di commettere una delle infrazioni di cui ai capoversi 1 e 2 è punibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Infrazioni alle prescrizioni sulle tasse d’incentivazione e sui biocarburanti e i biocombustibili",
+        "citation": "Art. 61a cpv. 4 LPAmb",
+        "content": "L’autorità incaricata di perseguire e giudicare le infrazioni è l’Ufficio federale della dogana e della sicurezza dei confini (UDSC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Infrazioni alle prescrizioni sulle tasse d’incentivazione e sui biocarburanti e i biocombustibili",
+        "citation": "Art. 61a cpv. 5 LPAmb",
+        "content": "Se un atto costituisce contemporaneamente un’infrazione ai sensi dei capoversi 1–3 e un’infrazione a un altro atto normativo federale che l’UDSC è incaricato di perseguire, si applica la pena prevista per l’infrazione più grave; detta pena può essere adeguatamente aumentata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Applicazione del diritto penale amministrativo",
+        "citation": "Art. 62 cpv. 1 LPAmb",
+        "content": "Gli articoli 6 e 7 della legge federale del 22 marzo 1974 sul diritto penale amministrativo sono applicabili ai reati secondo la presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_62"
+    },
+    {
+        "book": "USG",
+        "title": "LPAmb, Titolo quinto:, Disposizioni penali, Applicazione del diritto penale amministrativo",
+        "citation": "Art. 62 cpv. 2 LPAmb",
+        "content": "Alle infrazioni secondo l’articolo 61a si applicano inoltre le altre disposizioni della legge federale sul diritto penale amministrativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/it#art_62"
+    }
+]

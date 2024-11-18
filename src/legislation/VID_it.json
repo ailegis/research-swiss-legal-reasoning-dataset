@@ -1,0 +1,1297 @@
+[
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 1 ODIn",
+        "content": "La presente ordinanza mira a garantire ai privati, agli ambienti economici e agli enti pubblici in Svizzera un’offerta di nomi di dominio Internet sufficiente, conveniente, di qualità e conforme alle necessità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_1"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 2 ODIn",
+        "content": "Deve in particolare:\na. garantire un utilizzo razionale, trasparente e avveduto dei domini di primo livello la cui gestione rientra nelle competenze della Svizzera;\nb. garantire la sicurezza e la disponibilità dell’infrastruttura e dei servizi necessari al funzionamento del sistema dei nomi di dominio (DNS);\nc. provvedere affinché, nella gestione e nell’utilizzo dei domini di primo livello che esplicano i loro effetti in Svizzera, siano rispettati il diritto svizzero e gli interessi della Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_1"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 1 ODIn",
+        "content": "La presente ordinanza disciplina:\na. il dominio di primo livello con codice del Paese (country code Top Level Domain [ccTLD]) «.ch» e le sue trasposizioni in altri alfabeti o sistemi grafici;\nb. il dominio generico di primo livello (generic Top Level Domain [gTLD]) «.swiss»;\nc. i domini generici di primo livello la cui gestione non è di competenza della Confederazione bensì di altri enti pubblici svizzeri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_2"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 2 ODIn",
+        "content": "È applicabile alle fattispecie che esplicano effetti su questi domini, anche se tali fattispecie si verificano all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_2"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 3 ODIn",
+        "content": "I termini e le abbreviazioni utilizzati nella presente ordinanza sono definiti nell’allegato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_3"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Compiti generali",
+        "citation": "Art. 4 cpv. 1 ODIn",
+        "content": "Salvo disposizione contraria della presente ordinanza, l’Ufficio federale delle comunicazioni (UFCOM) assume tutte le competenze, le funzioni e i compiti legati ai domini di primo livello gestiti dalla Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Compiti generali",
+        "citation": "Art. 4 cpv. 2 ODIn",
+        "content": "Provvede affinché siano tutelati la sovranità e gli interessi della Svizzera nel DNS e nella gestione o nell’utilizzo di domini di primo livello nonché dei nomi di dominio a essi subordinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Compiti generali",
+        "citation": "Art. 4 cpv. 3 ODIn",
+        "content": "Può adottare qualsiasi misura in grado di contribuire alla sicurezza e alla disponibilità del DNS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Relazioni internazionali",
+        "citation": "Art. 5 cpv. 1 ODIn",
+        "content": "L’UFCOM provvede affinché gli interessi della Svizzera in seno ai forum e agli organismi internazionali che sono incaricati di o trattano questioni relative ai nomi di dominio o ad altri elementi d’indirizzo di Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_5"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Relazioni internazionali",
+        "citation": "Art. 5 cpv. 2 ODIn",
+        "content": "Può invitare i delegati (art. 32 cpv. 1) e le altre persone incaricate di tutte o parte delle funzioni o dei compiti legati a un dominio gestito dalla Confederazione o da altri enti pubblici svizzeri a partecipare ai lavori dei forum e degli organismi internazionali pertinenti, facendo in modo di tutelare gli interessi della Svizzera. Può dare loro delle istruzioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_5"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 1: Disposizioni generali, Informazione da parte dell’UFCOM",
+        "citation": "Art. 6 ODIn",
+        "content": "L’UFCOM informa gli ambienti interessati riguardo al DNS e all’evoluzione del regime internazionale nonché del mercato globale dei nomi di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_6"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 1: Oggetto e organizzazione, Oggetto",
+        "citation": "Art. 7 ODIn",
+        "content": "Le disposizioni del presente capitolo disciplinano i domini di primo livello gestiti dalla Confederazione, nonché la gestione e l’attribuzione dei nomi di dominio di secondo livello a essi subordinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_7"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 1: Oggetto e organizzazione, Organizzazione",
+        "citation": "Art. 8 cpv. 1 ODIn",
+        "content": "La gestione dei domini si organizza in base alle due funzioni fondamentali di gestore del registro e di centro di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 1: Oggetto e organizzazione, Organizzazione",
+        "citation": "Art. 8 cpv. 2 ODIn",
+        "content": "L’UFCOM assume la funzione di gestore del registro o la delega a un terzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 1: Oggetto e organizzazione, Organizzazione",
+        "citation": "Art. 8 cpv. 3 ODIn",
+        "content": "Può assumere la funzione di centro di registrazione se sul mercato manca un’offerta di servizi di registrazione soddisfacente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Disposizioni generali",
+        "citation": "Art. 9 cpv. 1 ODIn",
+        "content": "Il gestore del registro gestisce il dominio in modo efficiente ed avveduto. Svolge la sua funzione in modo trasparente e non discriminatorio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Disposizioni generali",
+        "citation": "Art. 9 cpv. 2 ODIn",
+        "content": "Impiega personale che dispone delle qualifiche e delle conoscenze professionali necessarie a svolgere i diversi compiti assegnatigli. Nomina un responsabile tecnico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Disposizioni generali",
+        "citation": "Art. 9 cpv. 3 ODIn",
+        "content": "L’UFCOM può emanare prescrizioni sulla qualità e la sicurezza dei servizi del gestore del registro nonché sulle modalità di controllo della sicurezza e della resilienza delle infrastrutture.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Compiti",
+        "citation": "Art. 10 cpv. 1 ODIn",
+        "content": "Nell’esercizio della sua funzione, al gestore del registro incombono i seguenti compiti:\na. fornire le prestazioni e garantire l’esercizio e le funzionalità del DNS richiesti conformemente alle regole che si applicano a livello internazionale, in particolare: \n1. tenere il giornale delle attività,\n2. amministrare e aggiornare le banche dati comprendenti tutte le informazioni relative al dominio considerate necessarie per adempiere la sua funzione,\n3. gestire i server dei nomi primari e secondari garantendo la diffusione del file di zona verso questi server,\n4. effettuare la risoluzione dei nomi di dominio in indirizzi IP,\n5. garantire l’installazione, la gestione e l’aggiornamento di una banca dati RDDS (WHOIS),\n6. dare accesso alle informazioni contenute nel file di zona a fini di lotta contro la cibercriminalità, a fini di ricerca scientifica o sociale o ad altri fini d’interesse pubblico;\nb. mettere a disposizione dei centri di registrazione un sistema che permetta loro di presentare delle domande di registrazione di nomi di dominio e di garantirne la gestione amministrativa (sistema di registrazione), nonché stabilire le procedure e le condizioni tecniche e organizzative relative alla registrazione e alla gestione dei nomi di dominio da parte dei centri di registrazione; \nc. attribuire e revocare i diritti d’utilizzo sui nomi di dominio;\nd. prevedere una procedura tecnica e amministrativa che permetta, su richiesta dei titolari, di trasferire in modo agevole tra i centri di registrazione la gestione dei nomi di dominio;\ne. istituire i servizi per la composizione delle controversie (art. 14);\nf. garantire l’acquisto, l’installazione, l’esercizio e la manutenzione dell’infrastruttura tecnica necessaria;\ng. adottare le misure necessarie a garantire l’affidabilità, la resilienza, l’accessibilità, la disponibilità, la sicurezza e l’esercizio dell’infrastruttura nonché le prestazioni necessarie;\nh. segnalare immediatamente ai centri di registrazione coinvolti qualsiasi disfunzione nell’esercizio del DNS, della sua infrastruttura o dei servizi di registrazione;\ni. lottare contro la cibercriminalità conformemente alle disposizioni previste dalla presente ordinanza;\nj. fornire on-line al pubblico tramite un sito dedicato e facilmente identificabile qualsiasi informazione utile sulle attività del gestore del registro;\nk. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_10"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Compiti",
+        "citation": "Art. 10 cpv. 2 ODIn",
+        "content": "Il gestore del registro non esamina in modo generale e continuativo le attività dei centri di registrazione e dei titolari. Fatto salvo l’articolo 51 lettera b, non è tenuto a indagare attivamente in merito a fatti o circostanze inerenti attività illecite commesse tramite nomi di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_10"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Giornale delle attività",
+        "citation": "Art. 11 cpv. 1 ODIn",
+        "content": "Il gestore del registro riporta in un giornale le attività svolte in relazione a registrazione, attribuzione, modifica, trasferimento, messa fuori servizio e revoca dei nomi di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Giornale delle attività",
+        "citation": "Art. 11 cpv. 2 ODIn",
+        "content": "Conserva i dati riportati nel giornale e i relativi giustificativi per un periodo di dieci anni dalla revoca di un nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Giornale delle attività",
+        "citation": "Art. 11 cpv. 3 ODIn",
+        "content": "Chiunque dimostri in modo credibile di avere un interesse legittimo preponderante ha il diritto di consultare gli atti del giornale delle attività relativi a un nome di dominio specifico. Il gestore del registro fissa le modalità tecniche e amministrative della consultazione. Può chiedere una remunerazione per la consultazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Deposito di sicurezza del sistema di registrazione e di gestione",
+        "citation": "Art. 12 cpv. 1 ODIn",
+        "content": "In caso di delega della funzione di gestore del registro, l’UFCOM può richiedere al gestore del registro di concludere con un mandatario indipendente un contratto di diritto privato che disciplini il deposito di sicurezza, a beneficio dell’UFCOM, del sistema di registrazione e di gestione di un nome di dominio di primo livello con tutti i dati e le informazioni relativi ai titolari dei nomi di dominio e alle caratteristiche soprattutto tecniche dei nomi di dominio attribuiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_12"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Deposito di sicurezza del sistema di registrazione e di gestione",
+        "citation": "Art. 12 cpv. 2 ODIn",
+        "content": "L’UFCOM è autorizzato a dare istruzioni al mandatario, utilizzare o far utilizzare il sistema nonché i dati e le informazioni messi in sicurezza soltanto se:\na. il gestore del registro è in fallimento, in liquidazione o in una procedura concordataria;\nb. il gestore del registro cessa la sua attività ma non trasmette al nuovo gestore del registro o all’UFCOM i dati o le informazioni necessarie alla gestione del dominio;\nc. il gestore del registro non è più in grado di adempiere la propria funzione o uno dei suoi compiti;\nd. lo esigono circostanze straordinarie, come une catastrofe naturale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_12"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Dati personali",
+        "citation": "Art. 13 cpv. 1 ODIn",
+        "content": "Il gestore del registro può trattare i dati personali concernenti i centri di registrazione, i richiedenti e i titolari dei nomi di dominio, i servizi per la composizione delle controversie e i loro esperti o qualsiasi altra persona che partecipa o è implicata nella gestione del dominio in questione nella misura e per tutto il tempo in cui ciò sarà necessario:\na. alla gestione del dominio in questione;\nb. all’adempimento della funzione di gestore del registro e all’osservanza dei relativi obblighi che derivano dalla presente ordinanza, dalle sue disposizioni d’esecuzione o dal suo contratto di delega;\nc. alla stabilità del DNS;\nd. all’ottenimento del pagamento dovuto per le prestazioni del gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_13"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Dati personali",
+        "citation": "Art. 13 cpv. 2 ODIn",
+        "content": "Fatto salvo l’articolo 11 capoverso 2, il gestore del registro può trattare i dati personali per al massimo dieci anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_13"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Servizi per la composizione delle controversie",
+        "citation": "Art. 14 cpv. 1 ODIn",
+        "content": "Il gestore del registro istituisce i servizi necessari alla composizione delle controversie. Disciplina l’organizzazione e la procedura di tali servizi nel rispetto delle regole e dei principi seguenti:\na. i servizi svolgono procedure di composizione extragiudiziale delle controversie avvalendosi di esperti neutrali e indipendenti;\nb. i servizi hanno la facoltà di decidere in merito alle controversie relative al diritto civile tra titolari del diritto di utilizzare un nome di dominio e titolari di diritti su segni distintivi;\nc. le decisioni degli esperti in merito ai nomi di dominio sono vincolanti per il gestore del registro, a condizione che non sia avviata un’azione civile entro i termini previsti dalle regole procedurali;\nd. le decisioni degli esperti riguardano la legittimità dell’attribuzione di un nome di dominio; non possono accordare risarcimenti dei danni o pronunciarsi in merito alla validità dei diritti su segni distintivi;\ne. le regole che disciplinano la composizione delle controversie devono ispirarsi alle pratiche convalidate in materia;\nf. la procedura deve essere equa, trasparente, rapida ed efficiente; gli esperti incaricati dal servizio non possono essere vincolati ad alcuna direttiva generale o particolare concernente la composizione di controversie; possono adottare tutte le misure necessarie a comporre la controversia per la quale sono stati aditi;\ng. la procedura di conciliazione si conclude con il ritiro della richiesta, l’ottenimento di un accordo tra le parti, la decisione degli esperti o l’avvio di un’azione civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Servizi per la composizione delle controversie",
+        "citation": "Art. 14 cpv. 2 ODIn",
+        "content": "La struttura dell’organizzazione, le regole che disciplinano la composizione delle controversie, le regole procedurali e la nomina degli esperti chiamati a decidere devono essere approvate dall’UFCOM. Quest’ultimo consulta previamente l’Istituto federale della proprietà intellettuale e, se la fattispecie riguarda la struttura dell’organizzazione o le regole procedurali, l’Ufficio federale di giustizia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Servizi per la composizione delle controversie",
+        "citation": "Art. 14 cpv. 3 ODIn",
+        "content": "Su richiesta, il gestore del registro trasmette al servizio per la composizione delle controversie adito tutti i dati personali in suo possesso e necessari alla composizione della controversia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Servizi per la composizione delle controversie",
+        "citation": "Art. 14 cpv. 4 ODIn",
+        "content": "È autorizzato a pubblicare o a far pubblicare le decisioni pronunciate dagli esperti. Il nome e altri dati personali riguardanti le parti possono essere pubblicati soltanto se sono indispensabili alla comprensione delle decisioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco",
+        "citation": "Art. 15 cpv. 1 ODIn",
+        "content": "Il gestore del registro può bloccare tecnicamente e amministrativamente un nome di dominio per un massimo di cinque giorni lavorativi se vi sono motivi fondati di supporre che il nome di dominio sia utilizzato per:\na. accedere a dati critici tramite metodi illegali;\nb. diffondere o utilizzare software dannosi; o\nc. favoreggiare attività di cui alla lettera a o b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco",
+        "citation": "Art. 15 cpv. 2 ODIn",
+        "content": "Può prolungare il blocco per un massimo di 30 giorni se:\na. vi sono motivi fondati di supporre che il titolare ricorra manifestamente a dati d’identificazione falsi o usurpi l’identità altrui; e\nb. è urgente prevenire un pregiudizio imminente e difficilmente riparabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco",
+        "citation": "Art. 15 cpv. 3 ODIn",
+        "content": "Un ente per la lotta contro la cibercriminalità riconosciuto dall’UFCOM può richiedere il blocco per un massimo di 30 giorni se sono adempiute le condizioni di cui al capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco",
+        "citation": "Art. 15 cpv. 4 ODIn",
+        "content": "Il blocco può essere prolungato oltre i termini fissati nel presente articolo soltanto se il prolungamento è ordinato dall’UFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: deviazione del traffico",
+        "citation": "Art. 15a cpv. 1 ODIn",
+        "content": "Il gestore del registro devia il traffico diretto a un nome di dominio o in transito su questo nome di dominio se sono adempiute le condizioni seguenti:\na. il nome di dominio è bloccato conformemente all’articolo 15;\nb. il trattamento delle informazioni è volto esclusivamente a identificare e a informare le vittime delle attività di cui all’articolo 15 capoverso 1, nonché ad analizzare il funzionamento di queste ultime allo scopo di sviluppare tecniche volte a identificare, combattere, limitare o perseguire tali attività; le informazioni raccolte totalmente prive di legame con queste attività non possono essere utilizzate e devono essere eliminate immediatamente;\nc. la deviazione del traffico è richiesta da un ente di cui all’articolo 15 capoverso 3 per un massimo di 30 giorni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: deviazione del traffico",
+        "citation": "Art. 15a cpv. 2 ODIn",
+        "content": "Devia il traffico verso uno strumento di analisi o verso una pagina informativa che contenga:\na. indicazioni in merito al sospetto di abuso; \nb. il nome e le coordinate del servizio o dell’autorità che ha richiesto la misura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: deviazione del traffico",
+        "citation": "Art. 15a cpv. 3 ODIn",
+        "content": "Una deviazione del traffico può essere prolungata oltre i termini fissati nel presente articolo soltanto se il prolungamento è ordinato dall’UFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: informazione e richiesta d’identificazione",
+        "citation": "Art. 15b cpv. 1 ODIn",
+        "content": "Il gestore del registro informa il titolare del nome di dominio immediatamente, per via elettronica, in merito al blocco o alla deviazione del traffico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: informazione e richiesta d’identificazione",
+        "citation": "Art. 15b cpv. 2 ODIn",
+        "content": "Chiede nel contempo al titolare di indicare, se necessario, un indirizzo postale valido in Svizzera e di identificarsi entro 10 giorni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: informazione e richiesta d’identificazione",
+        "citation": "Art. 15b cpv. 3 ODIn",
+        "content": "La comunicazione può essere data al titolare successivamente se ciò è indispensabile per tutelare interessi pubblici o privati preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: decisione e revoca",
+        "citation": "Art. 15c cpv. 1 ODIn",
+        "content": "L’UFCOM emana una decisione sul blocco o sulla deviazione del traffico se, nei 30 giorni che seguono la comunicazione del gestore del registro sulla misura, il titolare:\na. ne fa richiesta;\nb. si identifica correttamente; e\nc. indica un indirizzo postale valido in Svizzera se risiede o ha sede all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_c"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: decisione e revoca",
+        "citation": "Art. 15c cpv. 2 ODIn",
+        "content": "Se il titolare non si identifica correttamente o non indica un indirizzo postale valido entro il termine di cui all’articolo 15b capoverso 2, il gestore del registro revoca l’attribuzione del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_c"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: nomi di dominio non attribuiti",
+        "citation": "Art. 15d ODIn",
+        "content": "Il gestore del registro può, di propria volontà, o deve, su richiesta di un servizio di cui all’articolo 15 capoverso 3, adottare le seguenti misure in relazione a un nome di dominio non ancora attribuito se ha motivi fondati di supporre che il nome di dominio potrebbe essere oggetto di una domanda di attribuzione e di un’utilizzazione a scopo illecito o in modo illecito:\na. attribuirsi il nome di dominio o attribuirlo a un soggetto terzo che contribuisce a lottare contro la cibercriminalità;\nb. deviare a fini di analisi il traffico diretto a un nome di dominio o in transito su questo nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_d"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco di nomi di dominio di nuova attribuzione",
+        "citation": "Art. 15dbis cpv. 1 ODIn",
+        "content": "Il gestore del registro può bloccare per 10 giorni un nome di dominio la cui attribuzione risale a meno di 90 giorni prima, se motivi fondati gli permettono di supporre che il titolare:\na. ricorra manifestamente a dati d’identificazione falsi o usurpi l’identità altrui; e\nb. utilizzi il nome di dominio a scopo illecito o in modo illecito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_d_bis"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: blocco di nomi di dominio di nuova attribuzione",
+        "citation": "Art. 15dbis cpv. 2 ODIn",
+        "content": "Chiede nel contempo al titolare di identificarsi entro 10 giorni.\n3 Se il titolare non si identifica correttamente entro 10 giorni, il gestore del registro re-voca l’attribuzione del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_d_bis"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: documentazione e rapporti",
+        "citation": "Art. 15e cpv. 1 ODIn",
+        "content": "Il gestore del registro documenta i casi di blocco e di deviazione del traffico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_e"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Misure in caso di sospetto di abuso: documentazione e rapporti",
+        "citation": "Art. 15e cpv. 2 ODIn",
+        "content": "Presenta, periodicamente o su richiesta, un rapporto all’UFCOM. Può inoltre trasmetterlo agli enti riconosciuti di cui all’articolo 15 capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_15_e"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Assistenza amministrativa e cooperazione",
+        "citation": "Art. 16 cpv. 1 ODIn",
+        "content": "Il gestore del registro può collaborare con qualsiasi soggetto terzo che contribuisce a identificare e a valutare minacce, abusi e pericoli che interessano o potrebbero interessare la gestione del dominio di sua competenza, l’infrastruttura predisposta a tale gestione o il DNS. Provvede affinché i soggetti terzi interessati possano volontariamente fornirgli in piena sicurezza informazioni e dati personali relativi a minacce, abusi e pericoli. Può comunicare loro tali informazioni o dati personali, se necessario all’insaputa delle persone interessate. Tale comunicazione può essere effettuata tramite procedura di richiamo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Assistenza amministrativa e cooperazione",
+        "citation": "Art. 16 cpv. 2 ODIn",
+        "content": "Il gestore del registro segnala ai servizi specializzati della Confederazione gli incidenti riguardanti la sicurezza dell’informazione nel dominio di sua competenza o nel DNS. Può trattare i dati personali in relazione a questi incidenti e comunicarli ai servizi specializzati, se necessario all’insaputa delle persone interessate. Tale comunicazione può essere effettuata tramite procedura di richiamo o tramite trasmissione dei dati in blocco.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Assistenza amministrativa e cooperazione",
+        "citation": "Art. 16 cpv. 3 ODIn",
+        "content": "Se un’autorità svizzera nell’ambito dell’esecuzione dei suoi compiti ne fa richiesta, il gestore del registro domanda al titolare che non è in possesso di un indirizzo postale valido in Svizzera di indicare suddetto indirizzo e di identificarsi entro 30 giorni. Il gestore del registro revoca il nome di dominio se il titolare non adempie tale obbligo entro il termine impartito e ne informa l’autorità svizzera che ha chiesto la revoca.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 2: Gestore del registro, Assistenza amministrativa e cooperazione",
+        "citation": "Art. 16 cpv. 4 ODIn",
+        "content": "Per il rimanente, l’articolo 13b LTC si applica per analogia all’assistenza amministrativa garantita dal gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 1 ODIn",
+        "content": "Un centro di registrazione può offrire servizi di registrazione solo se:\na. è in grado di dimostrare di aver stipulato con l’ICANN un contratto di centro di registrazione, se previsto dalle regole che si applicano a livello internazionale per il dominio interessato; e\nb. ha concluso con il gestore del registro un contratto relativo alla registrazione di nomi di dominio (contratto di centro di registrazione).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 2 ODIn",
+        "content": "Il gestore del registro ha l’obbligo di concludere un contratto di centro di registrazione se il richiedente soddisfa le condizioni seguenti:\na. si impegna a rispettare il diritto svizzero, in particolare la presente ordinanza e le relative disposizioni di esecuzione, nonché il proprio contratto di centro di registrazione;\nb. è in possesso di un indirizzo postale valido in Svizzera;\nc. padroneggia gli strumenti, i software e le regole tecniche che permettono di effettuare le registrazioni e le altre operazioni amministrative presso il gestore del registro;\nd. ha messo in atto una procedura di verifica dei dati d’identificazione forniti dai richiedenti dei nomi di dominio;\ne. dispone delle risorse umane e tecniche necessarie a garantire la gestione e l’aggiornamento dei dati amministrativi e tecnici forniti dai richiedenti o dai titolari dei nomi di dominio;\nf. dispone degli strumenti e dei software informatici necessari a garantire la sicurezza dei dati personali forniti dai richiedenti dei nomi di dominio e li conserva nel rispetto delle disposizioni della legge federale del 25 settembre 2020 sulla protezione dei dati;\ng. ha fornito garanzie esigibili in caso di solvibilità dubbia o di mancato pagamento; l’importo di queste garanzie, rimunerate al tasso d’interesse applicato ai conti di risparmio, non può eccedere quello necessario alla copertura del rischio presumibile del gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 3 ODIn",
+        "content": "La domanda di concludere un contratto di centro di registrazione è presentata presso il gestore del registro. Essa contiene tutti i documenti, le indicazioni e le informazioni che consentono di valutare se il richiedente soddisfa le condizioni stabilite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 4 ODIn",
+        "content": "Qualsiasi cambiamento delle condizioni che hanno giustificato la conclusione di un contratto di centro di registrazione deve essere comunicato al gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 5 ODIn",
+        "content": "Il contratto di centro di registrazione non può derogare alle regole previste dalla presente ordinanza e alle relative disposizioni di esecuzione. Il gestore del registro rispetta per il resto i principi di non discriminazione e di trasparenza nei suoi rapporti contrattuali con i centri di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 6 ODIn",
+        "content": "Il contratto di centro di registrazione è retto dal diritto pubblico se la funzione di gestore del registro è esercitata dall’UFCOM (contratto di diritto amministrativo) e dal diritto privato se la funzione di gestore del registro è delegata (contratto di diritto privato).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 7 ODIn",
+        "content": "Il gestore del registro disdice il contratto di centro di registrazione senza indennizzo se un centro di registrazione lo richiede, se non soddisfa più le condizioni fissate per lo svolgimento della sua funzione, se cessa ogni attività oppure se è in stato di fallimento o in liquidazione. Esso deve informare in modo adeguato i titolari dei nomi di dominio interessati dalla disdetta del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Contratto di centro di registrazione",
+        "citation": "Art. 17 cpv. 8 ODIn",
+        "content": "L’articolo 40 capoversi 1, 3 e 4 e l’articolo 41 si applicano per analogia alla vigilanza esercitata dall’UFCOM sui centri di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Informazione al pubblico",
+        "citation": "Art. 18 cpv. 1 ODIn",
+        "content": "Il gestore del registro fornisce al pubblico informazioni dettagliate riguardanti la procedura che porta alla conclusione di un contratto di centro di registrazione nonché la lista dei centri di registrazione che hanno concluso un tale contratto nella quale figurino nome, ragione sociale, indirizzo postale, numero di telefono, indirizzo di posta elettronica e del sito Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_18"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Informazione al pubblico",
+        "citation": "Art. 18 cpv. 2 ODIn",
+        "content": "Il gestore del registro fornisce i contratti di centro di registrazione ai terzi che ne fanno richiesta. Le clausole e gli allegati contenenti segreti commerciali non sono comunicati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_18"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Diritto d’accesso al sistema di registrazione",
+        "citation": "Art. 19 cpv. 1 ODIn",
+        "content": "I centri di registrazione che hanno concluso un contratto di centro di registrazione possono accedere al sistema di registrazione del gestore del registro, che permette loro di registrare e amministrare i nomi di dominio in nome e per conto di terzi. Essi possono farsi attribuire nomi di dominio a proprio nome e per le proprie necessità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_19"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Diritto d’accesso al sistema di registrazione",
+        "citation": "Art. 19 cpv. 2 ODIn",
+        "content": "Possono esercitare la propria funzione se si attengono alle procedure e alle condizioni tecniche e organizzative disposte per l’accesso dal gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_19"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obblighi dei centri di registrazione",
+        "citation": "Art. 20 cpv. 1 ODIn",
+        "content": "I centri di registrazione devono proporre un’offerta che preveda esclusivamente l’attribuzione di un nome di dominio (offerta disaggregata).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obblighi dei centri di registrazione",
+        "citation": "Art. 20 cpv. 2 ODIn",
+        "content": "I centri di registrazione devono garantire ai propri clienti la facoltà di trasferire in qualsiasi momento la gestione amministrativa di un nome di dominio a un nuovo centro di registrazione. Sono fatte salve le pretese civili per inadempimento del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obblighi dei centri di registrazione",
+        "citation": "Art. 20 cpv. 3 ODIn",
+        "content": "I centri di registrazione devono conservare la corrispondenza commerciale, i giustificativi, i documenti e gli archivi storici (log files) classificati secondo i nomi di dominio per un periodo di dieci anni a decorrere dalla fine della registrazione del nome di dominio. Se richiesto, essi presentano queste informazioni al gestore del registro entro massimo tre giorni lavorativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obblighi dei centri di registrazione",
+        "citation": "Art. 20 cpv. 4 ODIn",
+        "content": "I centri di registrazione sono tenuti a:\na. collaborare con il gestore del registro e fornirgli l’aiuto e il supporto tecnici e organizzativi necessari a garantire la continuità e la sicurezza della gestione dei nomi di dominio di cui assicurano la gestione amministrativa;\nb. provvedere affinché i titolari dei nomi di dominio di cui assicurano la gestione amministrativa siano informati della cessazione delle loro attività e della procedura da seguire per salvaguardare le loro pretese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Doveri d’informazione",
+        "citation": "Art. 21 cpv. 1 ODIn",
+        "content": "Non appena ne vengono a conoscenza, i centri di registrazione segnalano al gestore del registro i nomi di dominio, richiesti o registrati, aventi un carattere palesemente illecito o contrario all’ordine pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Doveri d’informazione",
+        "citation": "Art. 21 cpv. 2 ODIn",
+        "content": "I centri di registrazione comunicano immediatamente al gestore del registro qualsiasi disfunzione tecnica riscontrata nei propri sistemi, nei servizi di registrazione del gestore del registro o nell’utilizzo del DNS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Doveri d’informazione",
+        "citation": "Art. 21 cpv. 3 ODIn",
+        "content": "I centri di registrazione sono tenuti a trasmettere o a far trasmettere quanto prima ai titolari o ai richiedenti le informazioni del gestore del registro loro indirizzate. Provvedono affinché i propri clienti siano informati di qualsiasi rifiuto di attribuzione di nomi di dominio al massimo entro i tre giorni successivi alla comunicazione del rifiuto data loro dal gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Doveri d’informazione",
+        "citation": "Art. 21 cpv. 4 ODIn",
+        "content": "Non esaminano in modo generale e continuativo le attività dei titolari. Non sono tenuti a indagare attivamente in merito a fatti o circostanze inerenti ad attività illecite commesse tramite nomi di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Relazioni giuridiche",
+        "citation": "Art. 22 cpv. 1 ODIn",
+        "content": "Le relazioni giuridiche dei centri di registrazione con i richiedenti e i titolari dei nomi di dominio sono disciplinate dalle disposizioni di diritto privato. Sono fatte salve le disposizioni della presente ordinanza e delle relative disposizioni di esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Relazioni giuridiche",
+        "citation": "Art. 22 cpv. 2 ODIn",
+        "content": "Fatto salvo l’articolo 40 capoverso 4 LTC, i centri di registrazione fissano liberamente il prezzo dei loro servizi di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Relazioni giuridiche",
+        "citation": "Art. 22 cpv. 3 ODIn",
+        "content": "I centri di registrazione pubblicano i prezzi e le condizioni generali della loro offerta di servizi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obbligo di collaborare",
+        "citation": "Art. 23 cpv. 1 ODIn",
+        "content": "I centri di registrazione collaborano con il gestore del registro al fine di identificare o valutare le minacce, gli abusi e i pericoli che interessano o potrebbero interessare la gestione del dominio e dei nomi di dominio a esso subordinati, l’infrastruttura predisposta a tale gestione o il DNS. Possono trattare i dati personali relativi a questi incidenti, se necessario all’insaputa delle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obbligo di collaborare",
+        "citation": "Art. 23 cpv. 2 ODIn",
+        "content": "I centri di registrazione segnalano ai servizi specializzati della Confederazione gli incidenti legati alla sicurezza dell’informazione che interessano i sistemi e le infrastrutture di gestione o il DNS. Possono trattare e comunicare ai servizi coinvolti dati personali relativi a questi incidenti, se necessario all’insaputa delle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 3: Centri di registrazione, Obbligo di collaborare",
+        "citation": "Art. 23 cpv. 4 ODIn",
+        "content": "Su richiesta, i centri di registrazione trasmettono al servizio per la composizione delle controversie adito tutti i dati personali in loro possesso che sono necessari alla composizione di una controversia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Domanda di registrazione",
+        "citation": "Art. 24 cpv. 1 ODIn",
+        "content": "Se un centro di registrazione presenta una domanda di registrazione per conto di un richiedente, il gestore del registro avvia un processo di attribuzione di un nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Domanda di registrazione",
+        "citation": "Art. 24 cpv. 2 ODIn",
+        "content": "Una domanda di registrazione è trattata se:\na. è stata correttamente presentata tramite il sistema di registrazione del gestore del registro;\nb. include tutte le informazioni, gli elementi e i documenti necessari ad autorizzare l’attribuzione di un nome di dominio, in particolare:\n1. la denominazione desiderata per il nome di dominio,\n2. informazioni attuali, complete e corrette sul richiedente, segnatamente il nome, l’indirizzo postale e di posta elettronica,\n3. indicazioni attuali, complete e corrette che permettano di verificare il rispetto delle condizioni generali e particolari per l’attribuzione del nome di dominio richiesto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Domanda di registrazione",
+        "citation": "Art. 24 cpv. 3 ODIn",
+        "content": "L’UFCOM stabilisce le informazioni e i documenti che il richiedente deve fornire al centro di registrazione a destinazione del gestore del registro per la verifica della sua identità, del suo indirizzo e della sua esistenza giuridica nonché del rispetto delle condizioni di attribuzione, in particolare:\na. se il richiedente è una persona fisica, una copia di un documento d’identità nazionale o di un passaporto valido e un certificato di domicilio attuale;\nb. se il richiedente è un’associazione o una fondazione con sede in Svizzera e non iscritta nel registro di commercio, una copia autenticata degli statuti dell’associazione o dell’atto costitutivo della fondazione;\nc. se il richiedente è una persona giuridica o una società di persone con sede all’estero, un estratto autenticato aggiornato del registro di commercio estero o, qualora l’estratto non contenga le indicazioni necessarie o non esista un’istituzione corrispondente al registro di commercio, una prova ufficiale attestante che l’ente ha esistenza legale secondo le disposizioni del diritto straniero applicabile;\nd. il numero d’identificazione delle imprese (IDI) secondo la legge federale del 18 giugno 2010 sul numero di identificazione delle imprese per le persone giuridiche e il numero AVS per le persone fisiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Domanda di registrazione",
+        "citation": "Art. 24 cpv. 4 ODIn",
+        "content": "All’occorrenza l’UFCOM disciplina le modalità di presentazione delle domande di registrazione. Ha la facoltà di imporre l’uso di moduli di registrazione e di mutazione prestabiliti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, (S (Stato 1° gennaio 2024)Acquisizione di datai personali per l’attribuzione di nomi di dominio",
+        "citation": "Art. 24a ODIn",
+        "content": "Al fine di verificare i dati personali dei richiedenti e dei titolari in vista dell’attribuzione e della gestione dei nomi di dominio, il gestore del registro ha accesso ai dati personali del registro degli abitanti, del servizio nazionale degli indirizzi e del registro centrale degli assicurati. I dati sono messi a disposizione del gestore del registro tramite accesso online.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_24_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 1 ODIn",
+        "content": "Un nome di dominio è attribuito se:\na. la denominazione richiesta, ossia la corrispondente stringa ACE, comprende da 3 a 63 caratteri autorizzati; l’UFCOM stabilisce i caratteri autorizzati e può prevedere eccezioni per quel che concerne il numero minimo di caratteri se ciò è giustificato da un interesse pubblico preponderante; le abbreviazioni composte dai due caratteri che designano i Cantoni svizzeri e i nomi sia di Comuni politici sia di località svizzere composti da due caratteri riservati conformemente all’articolo 26 capoverso 1 lettera b possono essere attribuiti agli enti pubblici in questione;\nb. la denominazione richiesta non è riservata ai sensi della presente ordinanza, a meno che la domanda sia presentata dalla persona alla quale è destinata la riserva;\nc. le condizioni particolari poste per un’attribuzione nel dominio interessato sono soddisfatte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 1bis ODIn",
+        "content": "Il gestore del registro attribuisce un nome di dominio impedendo qualsiasi configurazione, nel file di zona dei server di nomi che vi sono legati, che permetta l’attivazione del nome di dominio se un’autorità competente gli comunica che vi sono motivi fondati di supporre che il richiedente utilizzerà il nome di dominio richiesto a scopo illecito o in modo illecito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 1ter ODIn",
+        "content": "Può attribuire un nome di dominio impedendo qualsiasi configurazione, nel file di zona dei server di nomi che vi sono legati, che permetta l’attivazione del nome di dominio se delle ragioni fondate gli permettono di supporre che il richiedente:\na. ricorra manifestamente a dati d’identificazione falsi o usurpi l’identità altrui; e\nb. utilizzerà il nome di dominio richiesto a scopo illecito o in modo illecito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 1quater ODIn",
+        "content": "Se il titolare non si identifica correttamente entro 30 giorni nei casi di cui ai capoversi 1bis e 1ter, il gestore del registro revoca l’attribuzione del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 2 ODIn",
+        "content": "Il gestore del registro rifiuta l’attribuzione di un nome di dominio:\na. se la denominazione scelta è contraria all’ordine pubblico, al buon costume o al diritto vigente;\nb. se lo esigono ragioni tecniche;\nc. se un’autorità competente gli comunica che vi sono motivi fondati di supporre che il richiedente utilizzerà il nome di dominio richiesto a scopo illecito o in modo illecito;\nd. se il richiedente chiede l’attribuzione dello stesso nome di dominio già revocatogli in applicazione dell’articolo 15c capoverso 2 o dell’articolo 16 capoverso 3 senza indicare un indirizzo postale valido in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Condizioni generali di attribuzione",
+        "citation": "Art. 25 cpv. 3 ODIn",
+        "content": "Il gestore del registro può rifiutare di attribuire un nome di dominio se il richiedente è in fallimento, in liquidazione o in una procedura concordataria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Denominazioni riservate",
+        "citation": "Art. 26 cpv. 1 ODIn",
+        "content": "Le seguenti denominazioni o categorie di denominazioni sono riservate:\na. le denominazioni delle istituzioni federali e di unità dell’Amministrazione federale, i nomi dei consiglieri federali nonché quelli dei cancellieri della Confederazione, le denominazioni degli edifici ufficiali e le altre denominazioni legate allo Stato che figurano nell’elenco centrale delle denominazioni degne di protezione in qualità di nomi di dominio, stilato dalla Cancelleria federale;\nb. i nomi dei Cantoni, dei Comuni politici e delle località svizzeri ai sensi dell’articolo 3 dell’ordinanza del 21 maggio 2008 sui nomi geografici, nonché le abbreviazioni composte da due caratteri che designano i Cantoni svizzeri;\nc. i nomi e le abbreviazioni delle organizzazioni internazionali protette dalla legislazione svizzera;\nd. le denominazioni che devono essere riservate nei domini generici di primo livello conformemente alle regole che si applicano a livello internazionale;\ne. le denominazioni necessarie all’attività del gestore del registro, in particolare alla comunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_26"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Denominazioni riservate",
+        "citation": "Art. 26 cpv. 2 ODIn",
+        "content": "Le denominazioni o le categorie di denominazioni riservate possono essere attribuite come nomi di dominio solo alle persone o alle categorie di persone cui è destinata la riservazione, fatto salvo il caso in cui le persone o le categorie di persone ne abbiano consentito l’attribuzione a terzi ed eccettuate le denominazioni attribuite a terzi prima della riservazione o dell’entrata in vigore della presente ordinanza. In caso di mancato accordo, le denominazioni omonime di Cantone e Comune sono attribuite al Comune politico interessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_26"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 27 cpv. 1 ODIn",
+        "content": "Il trattamento di una domanda di registrazione da parte del gestore del registro si conclude con l’attribuzione del nome di dominio richiesto o il rifiuto di attribuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 27 cpv. 2 ODIn",
+        "content": "Il gestore del registro concede il diritto di utilizzare un nome di dominio. L’attribuzione ha effetto dal momento in cui il sistema di registrazione invia la conferma elettronica al centro di registrazione che opera per conto del richiedente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 27 cpv. 3 ODIn",
+        "content": "Comunica al centro di registrazione che opera per conto del richiedente il rifiuto di attribuire un nome di dominio, facendo tale comunicazione per via elettronica tramite il sistema di registrazione o, se necessario, con altri mezzi. Se il rifiuto riguarda un nome di dominio che dev’essere attribuito tramite mandato di nominazione secondo l’articolo 56, il gestore del registro lo comunica direttamente al richiedente con un mezzo di comunicazione opportuno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 4: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 27 cpv. 4 ODIn",
+        "content": "L’UFCOM emana una decisione sul rifiuto di attribuire un nome di dominio se, nei 40 giorni successivi alla comunicazione di tale rifiuto conformemente al capoverso 3, il richiedente:\na. richiede tale decisione; e\nb. indica un indirizzo postale valido in Svizzera se risiede o ha sede all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 1 ODIn",
+        "content": "Il titolare ha diritto di utilizzare il nome di dominio che gli è stato attribuito nel rispetto delle limitazioni e degli scopi previsti dalla presente ordinanza e dalle relative disposizioni di esecuzione. Il diritto di utilizzazione rientra nella sfera del diritto pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 2 ODIn",
+        "content": "Il titolare gestisce liberamente i nomi di dominio subordinati al nome di dominio che gli è stato attribuito, fatte salve disposizioni contrarie previste dalla presente ordinanza o dalle relative disposizioni di esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 3 ODIn",
+        "content": "Se le condizioni generali e particolari di attribuzione sono adempiute, il titolare può cedere a terzi un nome di dominio che gli è stato attribuito presentando una domanda di cambiamento di titolare tramite il centro di registrazione responsabile della sua gestione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 4 ODIn",
+        "content": "Il titolare può rinunciare in qualsiasi momento al nome di dominio presentando una domanda di revoca tramite il centro di registrazione responsabile della sua gestione. Sono fatte salve le pretese civili per inadempimento del contratto concluso con il centro di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 5 ODIn",
+        "content": "Il diritto di utilizzare un nome di dominio passa per legge:\na. all’impresa nata da una fusione, che diventa titolare dei nomi di dominio attribuiti alle imprese preesistenti;\nb. in caso di scissione o di trasferimento di patrimonio ai sensi della legge del 3 ottobre 2003 sulla fusione, alla società assuntrice che diventa titolare dei nomi di dominio attribuiti alla società trasferente citata nell’inventario;\nc. agli eredi del titolare defunto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Diritti del titolare",
+        "citation": "Art. 28 cpv. 6 ODIn",
+        "content": "Entra a far parte della massa fallimentare del titolare fallito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Obblighi del titolare",
+        "citation": "Art. 29 cpv. 1 ODIn",
+        "content": "Il titolare deve aggiornare e, se necessario, completare o correggere tutte le informazioni che lo riguardano e che sono necessarie alla gestione del nome di dominio che gli è stato attribuito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_29"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Obblighi del titolare",
+        "citation": "Art. 29 cpv. 2 ODIn",
+        "content": "È tenuto a partecipare a un eventuale procedimento per la composizione delle controversie relativo a diritti su segni distintivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_29"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Misure",
+        "citation": "Art. 30 cpv. 1 ODIn",
+        "content": "Il gestore del registro può revocare, di propria volontà o su richiesta del centro di registrazione, l’attribuzione di un nome di dominio, se:\na. il titolare viola la presente ordinanza o le sue disposizioni d’esecuzione;\nb. le condizioni generali o particolari di attribuzione di un nome di dominio non sono più soddisfatte;\nc. il titolare non rispetta l’obbligo di aggiornare, di completare o di correggere tutte le informazioni che lo riguardano e che sono necessarie alla gestione del nome di dominio attribuitogli;\nd. un centro di registrazione ne fa richiesta dopo aver disdetto il contratto stipulato con il titolare e a condizione che quest’ultimo non abbia trasferito la gestione del nome di dominio a un nuovo centro di registrazione entro 30 giorni;\ne. lo esigono altri motivi importanti quali ad esempio ragioni tecniche, norme o altre misure d’armonizzazione internazionali;",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Misure",
+        "citation": "Art. 30 cpv. 2 ODIn",
+        "content": "Il gestore del registro revoca l’attribuzione di un nome di dominio se:\na. lo prevede una modifica della presente ordinanza e delle relative disposizioni di esecuzione;\nb. è necessario per salvaguardare l’integrità o la stabilità del DNS;\nc. il titolare rinuncia di propria volontà al nome di dominio;\nd. il centro di registrazione che opera per conto del titolare è in fallimento, in liquidazione o il suo contratto di centro di registrazione è stato disdetto, e a condizione che il titolare non abbia trasferito la gestione del nome di dominio a un nuovo centro di registrazione entro il termine di 90 giorni; questo termine decorre da quando il gestore del registro ha informato il titolare della necessità di trasferire la gestione del nome di dominio a un nuovo centro di registrazione; ai sensi dell’articolo 31 capoverso 3 la durata della quarantena è di 90 giorni;\ne. lo richiedono esperti incaricati da un servizio per la composizione delle controversie, a condizione che non sia stata avviata un’azione civile entro i termini previsti dalle regole procedurali del servizio per la composizione delle controversie interessato;\nf. un tribunale o un tribunale arbitrale lo ordina nell’ambito di un procedimento che si conclude con una sentenza o una decisione passata in giudicato in Svizzera;\ng. un’autorità amministrativa o di perseguimento penale svizzera lo ordina conformemente alle sue competenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Misure",
+        "citation": "Art. 30 cpv. 3 ODIn",
+        "content": "Un esperto incaricato da un servizio per la composizione delle controversie, un tribunale, un tribunale arbitrale o un’autorità amministrativa o di perseguimento penale svizzera può, conformemente alle proprie competenze, ordinare al gestore del registro di adottare misure preliminari, quali segnatamente:\na. bloccare o modificare tecnicamente il funzionamento di un nome di dominio eliminando i server di nomi che vi sono legati nel file di zona, sostituendoli con nuovi server di nomi o astenendosi dal reintrodurli dopo la loro eliminazione;\nb. bloccare amministrativamente un nome di dominio vietandone l’attribuzione o la riattribuzione a terzi, il trasferimento o qualsiasi cambiamento dei relativi parametri tecnici o amministrativi;\nc. trasferire un nome di dominio a un nuovo centro di registrazione;\nd. correggere, modificare o eliminare qualsiasi informazione o parametro tecnico o amministrativo relativo alla gestione di un nome di dominio;\ne. correggere, modificare, rendere anonima o eliminare qualsiasi informazione che figura nella banca dati RDDS (WHOIS);\nf. attribuirsi un nome di dominio o attribuirlo a una determinata persona;\ng. deviare a fini di analisi il traffico diretto a un nome di dominio o in transito su questo nome di dominio.\nh. deviare verso una pagina informativa il traffico diretto a un nome di dominio o in transito su questo nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Misure",
+        "citation": "Art. 30 cpv. 4 ODIn",
+        "content": "Il gestore del registro può adottare le misure preliminari di cui al capoverso 3:\na. se è necessario per salvaguardare l’integrità o la stabilità del DNS e se è urgente prevenire un pregiudizio imminente e difficilmente riparabile;b. per un massimo di cinque giorni lavorativi se vi sono motivi fondati di supporre che il titolare utilizzi il nome di dominio a scopo illecito o in modo illecito e se è urgente prevenire un pregiudizio imminente e difficilmente riparabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Conseguenze della revoca",
+        "citation": "Art. 31 cpv. 1 ODIn",
+        "content": "La revoca di un nome di dominio ha effetto dal momento in cui il gestore del registro ne dà comunicazione per via elettronica mediante il sistema di registrazione al centro di registrazione che opera per conto del titolare. Essa comporta la revoca dei nomi di dominio subordinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Conseguenze della revoca",
+        "citation": "Art. 31 cpv. 2 ODIn",
+        "content": "L’UFCOM emana una decisione sulla revoca di un nome di dominio se, nei 30 giorni successivi alla comunicazione di revoca, il titolare:\na. richiede tale decisione; e\nb. indica un indirizzo postale valido in Svizzera se risiede o ha sede all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 2:, Disposizioni generali sui domini gestiti dalla Confederazione, Sezione 5: Nomi di dominio, Conseguenze della revoca",
+        "citation": "Art. 31 cpv. 3 ODIn",
+        "content": "Fatto salvo un periodo di quarantena più esteso concesso dalla presente ordinanza, un nome di dominio revocato può essere riattribuito a un nuovo titolare solo se sono passati 40 giorni dalla revoca o dal passaggio in giudicato di una decisione ai sensi del capoverso 2. Durante il periodo di quarantena, il nome di dominio revocato deve essere riattribuito a decorrere dalla data di revoca al suo precedente titolare se quest’ultimo ne fa richiesta e se le condizioni generali e particolari di attribuzione sono adempiute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Procedura e condizioni di delega",
+        "citation": "Art. 32 cpv. 1 ODIn",
+        "content": "Se la funzione di gestore del registro è delegata nell’ambito di una pubblica gara o di una procedura mediante invito (art. 28a cpv. 2 LTC), l’UFCOM valuta e pondera le offerte segnatamente sulla base dei seguenti criteri:\na. il prezzo, l’adeguatezza e la qualità dei servizi;\nb. le qualifiche e le caratteristiche richieste ai delegati;\nc. la sicurezza pubblica e la lotta contro la cibercriminalità;\nd. la protezione delle infrastrutture critiche;\ne. la partecipazione della comunità interessata alla gestione degli elementi d’indirizzo delegati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Procedura e condizioni di delega",
+        "citation": "Art. 32 cpv. 2 ODIn",
+        "content": "I candidati non hanno il diritto di consultare i dossier dei loro concorrenti né di prendere posizione sulle offerte e altri documenti presentati da questi ultimi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Procedura e condizioni di delega",
+        "citation": "Art. 32 cpv. 3 ODIn",
+        "content": "Le decisioni dell’UFCOM devono rispettare il segreto d’affari dei candidati che hanno partecipato alla procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Forma della delega",
+        "citation": "Art. 33 ODIn",
+        "content": "La delega a terzi della funzione di gestore del registro di un dominio gestito dalla Confederazione o di particolari compiti legati a questa funzione deve essere effettuata sotto forma di contratto di diritto amministrativo (contratto di delega).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_33"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Durata della delega",
+        "citation": "Art. 34 cpv. 1 ODIn",
+        "content": "Il contratto di delega è a termine. La durata è stabilita in funzione del tipo e dell’importanza dei compiti delegati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_34"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Durata della delega",
+        "citation": "Art. 34 cpv. 2 ODIn",
+        "content": "Il contratto può essere prolungato o rinnovato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_34"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Attività o servizi essenziali",
+        "citation": "Art. 35 ODIn",
+        "content": "Il delegato può affidare a terzi attività o prestazioni che costituiscono un elemento essenziale della funzione o dei compiti che gli sono stati delegati soltanto se ha ricevuto a tal fine l’accordo dell’UFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_35"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Indipendenza",
+        "citation": "Art. 36 cpv. 1 ODIn",
+        "content": "Il delegato non può esercitare contemporaneamente la funzione di centro di registrazione del dominio che gestisce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_36"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Indipendenza",
+        "citation": "Art. 36 cpv. 2 ODIn",
+        "content": "Se il delegato ha legami economici o giuridici con un’azienda che svolge la funzione di centro di registrazione per il dominio, è necessario che nel contratto di delega siano previste misure adeguate per assicurare l’indipendenza nell’adempimento dei compiti, come la prescrizione di determinate forme e pratiche di comunicazione o l’obbligo di garantire l’indipendenza del personale impiegato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_36"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Trasferimento dei compiti",
+        "citation": "Art. 37 cpv. 1 ODIn",
+        "content": "I compiti del gestore del registro sono concordati in un catalogo delle prestazioni; sono fissati criteri qualitativi per verificare l’adempimento dei compiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Trasferimento dei compiti",
+        "citation": "Art. 37 cpv. 2 ODIn",
+        "content": "Possono essere concordate altre prestazioni del gestore del registro inerenti segnatamente alla collaborazione in seno a forum e organismi internazionali adeguati, nonché nell’ambito della protezione dei dati e della sicurezza di Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Trasferimento dei compiti",
+        "citation": "Art. 37 cpv. 3 ODIn",
+        "content": "Il gestore del registro deve dimostrare di essere in possesso di un’assicurazione che garantisca un risarcimento sufficiente per i rischi legati alle sue attività di gestione e di attribuzione dei nomi di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Prezzo",
+        "citation": "Art. 38 cpv. 1 ODIn",
+        "content": "Nel contratto di delega è stabilito il prezzo che i centri di registrazione versano annualmente per la registrazione di un nome di dominio e l’amministrazione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Prezzo",
+        "citation": "Art. 38 cpv. 2 ODIn",
+        "content": "Se la delega dei compiti risulta da una pubblica gara o da una procedura mediante invito conformemente all’articolo 32, si applicano le regole seguenti:\na. il prezzo corrisponde all’offerta;\nb. il prezzo offerto può essere adattato nel corso della durata della delega se è cambiato il compito delegato; la differenza di prezzo è calcolata in base alle modifiche nei costi derivanti dall’adattamento delle prestazioni; il delegato sottopone un’offerta all’UFCOM e fornisce la prova delle modifiche nei costi; per esaminare l’offerta, l’UFCOM può ricorrere a valori di confronto ed esigere tutta la documentazione utile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Prezzo",
+        "citation": "Art. 38 cpv. 3 ODIn",
+        "content": "Se la delega dei compiti avviene direttamente, il prezzo copre i costi pertinenti che il gestore del registro sostiene in virtù del catalogo delle prestazioni concordato con l’UFCOM e permette inoltre di realizzare utili adeguati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Obbligo d’informare",
+        "citation": "Art. 39 cpv. 1 ODIn",
+        "content": "I delegati sono tenuti a fornire all’UFCOM tutte le informazioni e i documenti necessari all’attuazione della presente ordinanza e delle relative disposizioni di esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_39"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Obbligo d’informare",
+        "citation": "Art. 39 cpv. 2 ODIn",
+        "content": "I delegati sono tenuti a trasmettere gratuitamente all’UFCOM le informazioni necessarie per allestire una statistica ufficiale. Per il rimanente, sono applicabili per analogia gli articoli 97–103 dell’ordinanza del 9 marzo 2007 sui servizi di telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_39"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Vigilanza",
+        "citation": "Art. 40 cpv. 1 ODIn",
+        "content": "L’UFCOM provvede affinché i delegati rispettino la presente ordinanza e le relative disposizioni di esecuzione, come pure il loro contratto di delega.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Vigilanza",
+        "citation": "Art. 40 cpv. 2 ODIn",
+        "content": "Di regola, l’UFCOM controlla una volta ogni due anni il modo in cui i delegati svolgono la funzione o i compiti delegati. I delegati devono garantire l’accesso ai propri locali e impianti e fornire tutte le informazioni utili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Vigilanza",
+        "citation": "Art. 40 cpv. 3 ODIn",
+        "content": "Se vi è motivo di supporre che un delegato non rispetti gli obblighi derivanti dalla presente ordinanza, dalle relative disposizioni di esecuzione o dal contratto di delega, l’UFCOM effettua una verifica. Il delegato deve garantire l’accesso ai suoi locali e ai suoi impianti e fornire tutte le informazioni utili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Vigilanza",
+        "citation": "Art. 40 cpv. 4 ODIn",
+        "content": "Se la verifica permette di concludere che il delegato non rispetta i suoi obblighi, quest’ultimo ne assume i costi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Misure di vigilanza",
+        "citation": "Art. 41 cpv. 1 ODIn",
+        "content": "Se un delegato non rispetta i suoi obblighi, l’UFCOM può:\na. intimargli di sanare il vizio o di adottare le misure necessarie per impedire la ripetizione della violazione; il delegato deve comunicare all’UFCOM quanto ha messo in atto;\nb. esigere che gli introiti conseguiti illecitamente siano consegnati alla Confederazione;\nc. completare con oneri suppletivi il contratto di delega;\nd. limitare o disdire il contratto di delega con effetto immediato o entro un dato termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_41"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Misure di vigilanza",
+        "citation": "Art. 41 cpv. 2 ODIn",
+        "content": "L’UFCOM può ordinare misure cautelari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_41"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Modifica del contratto di delega",
+        "citation": "Art. 42 cpv. 1 ODIn",
+        "content": "L’UFCOM può adeguare tramite decisione amministrativa, prima dello scadere della loro durata di validità, singole disposizioni del contratto di delega alle mutate condizioni di fatto o di diritto, se tale modifica è necessaria per tutelare interessi pubblici preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_42"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Modifica del contratto di delega",
+        "citation": "Art. 42 cpv. 2 ODIn",
+        "content": "Il delegato riceve un indennizzo adeguato se la modifica del contratto di delega gli causa un danno finanziario in relazione alla funzione o ai compiti delegatigli. Questo indennizzo non comprende la compensazione del mancato guadagno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_42"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 1 ODIn",
+        "content": "L’UFCOM disdice il contratto di delega senza indennizzo se un delegato non soddisfa più le condizioni per lo svolgimento della funzione o dei compiti delegati, cessa ogni attività o è in fallimento, in liquidazione o in una procedura concordataria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 2 ODIn",
+        "content": "L’UFCOM può disdire il contratto di delega versando un indennizzo appropriato al delegato se le condizioni di fatto o di diritto sono cambiate e se la disdetta è necessaria per tutelare interessi pubblici preponderanti. L’indennizzo non comprende la compensazione del mancato guadagno. Tiene conto dell’importo che il delegato ha ricevuto per l’assistenza fornita secondo il capoverso 5 lettera b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 3 ODIn",
+        "content": "L’UFCOM riprende la funzione o il compito delegato o incarica direttamente un altro delegato di riprendere tale funzione o compito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 4 ODIn",
+        "content": "I titolari mantengono nei confronti del nuovo gestore del registro le loro pretese sui nomi di dominio loro attribuiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 5 ODIn",
+        "content": "Il delegato è tenuto a collaborare e a fornire al nuovo gestore del registro tutto l’aiuto e l’assistenza tecnica e organizzativa necessaria a garantire la continuità e la sicurezza della gestione del dominio e dei nomi di dominio a esso subordinati. Ha diritto a un indennizzo basato sull’utilità dell’assistenza fornita. Su richiesta, l’indennizzo è fissato dall’UFCOM. Il delegato deve mettere a disposizione:\na. gratuitamente, il giornale delle attività e tutti gli altri dati e informazioni conservati riguardanti il dominio e i titolari dei nomi di dominio attribuiti o che registrano le attività di gestione di tali nomi di dominio e le loro caratteristiche soprattutto tecniche;\nb. contro indennizzo al valore contabile, l’infrastruttura tecnica e informatica indispensabile al proseguimento della funzione o dei compiti delegati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 3: Delega della funzione di gestore del registro, Fine dell’attività delegata",
+        "citation": "Art. 43 cpv. 6 ODIn",
+        "content": "Il delegato provvede affinché le persone coinvolte siano messe al corrente della cessazione della sua attività e della procedura da seguire per salvaguardare le loro pretese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Oggetto",
+        "citation": "Art. 44 ODIn",
+        "content": "Le disposizioni del presente capitolo disciplinano la gestione del dominio di primo livello «.ch», nonché la gestione e l’attribuzione dei nomi di dominio di secondo livello a esso subordinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_44"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Caratteristiche ",
+        "citation": "Art. 45 cpv. 1 ODIn",
+        "content": "Il dominio «ch.» presenta le caratteristiche seguenti:\na. è un dominio di primo livello con codice del Paese ed è gestito dalla Confederazione;\nb. i nomi di dominio subordinati al dominio sono a disposizione di tutte le persone fisiche e giuridiche per quanto concerne la loro attribuzione e il loro utilizzo; \nc. la funzione di centro di registrazione è garantita in condizioni di libera concorrenza da tutti gli enti che hanno concluso con il gestore del registro un contratto di centro di registrazione.\n2 Il gestore del registro istituisce un servizio per la composizione delle controversie conformemente all’articolo 14.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_45"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Messa a disposizione di dati",
+        "citation": "Art. 46 cpv. 1 ODIn",
+        "content": "I seguenti dati devono figurare nella banca dati RDDS (WHOIS):\na. la denominazione del nome di dominio attribuito e la corrispondente stringa ACE;\nb. nel caso in cui il nome di dominio sia attivo, i dati dei server di nomi assegnatigli;\nc. l’indicazione secondo cui un nome di dominio è protetto o meno attraverso il sistema DNSSEC;\nd. la data della prima attribuzione del nome di dominio;\ne. il nome, l’indirizzo e le coordinate del centro di registrazione che opera per conto del titolare del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Messa a disposizione di dati",
+        "citation": "Art. 46 cpv. 2 ODIn",
+        "content": "Il gestore del registro può pubblicare i seguenti dati nella banca dati RDDS (WHOIS):\na. i dati d’identificazione e le coordinate del titolare del nome di dominio se il titolare è una persona giuridica;\nb. i dati d’identificazione e le coordinate del titolare del nome di dominio che ha dato il consenso alla pubblicazione;\nc. l’indicazione di un mezzo anonimo che consenta di contattare il titolare del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Messa a disposizione di dati",
+        "citation": "Art. 46 cpv. 3 ODIn",
+        "content": "A chiunque dimostri in modo credibile di avere un interesse legittimo preponderante dà accesso gratuitamente ai dati personali che figurano nella banca dati RDDS (WHOIS) che si riferiscono al titolare del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Messa a disposizione di dati",
+        "citation": "Art. 46 cpv. 4 ODIn",
+        "content": "L’UFCOM può prescrivere le modalità e le procedure d’accesso ai sensi del capoverso 3 tenendo conto delle regole applicabili a livello internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Messa a disposizione di dati",
+        "citation": "Art. 46 cpv. 5 ODIn",
+        "content": "Il gestore del registro adotta le misure adeguate, segnatamente di ordine tecnico, per impedire l’utilizzo abusivo dei dati messi a disposizione del pubblico, in particolare il loro utilizzo a scopi pubblicitari o di promozione commerciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Condizioni particolari di attribuzione",
+        "citation": "Art. 47 cpv. 1 ODIn",
+        "content": "Se un nome di dominio non è ancora stato attribuito e se sono soddisfatte le condizioni generali previste dall’articolo 25, il gestore del registro attribuisce questo nome al primo richiedente che ne fa domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_47"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Condizioni particolari di attribuzione",
+        "citation": "Art. 47 cpv. 2 ODIn",
+        "content": "Il gestore del registro non verifica la fondatezza dei diritti di utilizzare le indicazioni alfanumeriche dei nomi di dominio. Le controversie relative ai diritti su segni distintivi in relazione ai nomi di dominio sono disciplinate dal diritto civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_47"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Domini «.ch» trasposti",
+        "citation": "Art. 48 cpv. 1 ODIn",
+        "content": "La gestione di un dominio con codice del Paese che rappresenta la trasposizione di «.ch» in un altro alfabeto o sistema grafico spetta a un gestore del registro a parte. L’UFCOM può trasmettere questa gestione al gestore del registro del dominio «.ch».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_48"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 4: Dominio «.ch», Domini «.ch» trasposti",
+        "citation": "Art. 48 cpv. 2 ODIn",
+        "content": "Le disposizioni della presente ordinanza che disciplinano il dominio «.ch» si applicano per analogia alla gestione di un dominio «.ch» trasposto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_48"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 1: Disposizioni generali, Oggetto",
+        "citation": "Art. 49 ODIn",
+        "content": "Le disposizioni del presente capitolo disciplinano la gestione del dominio di primo livello «.swiss», nonché la gestione e l’attribuzione dei nomi di dominio di secondo livello a esso subordinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_49"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 1: Disposizioni generali, Caratteristiche",
+        "citation": "Art. 50 ODIn",
+        "content": "Il dominio «.swiss» presenta le caratteristiche seguenti:\na. è gestito dalla Confederazione;\nb. il dominio e i nomi di dominio a esso subordinati sono al servizio e sono finalizzati a promuovere la comunità svizzera, la sua immagine, i suoi interessi politici, economici, giuridici o culturali in Svizzera e nel mondo;\nc. i nomi di dominio subordinati possono essere attribuiti solo a enti con sede in Svizzera o che presentano un legame particolare con la Svizzera;\nd. la politica di attribuzione dei nomi di dominio deve essere condotta con prudenza e attenzione agli interessi della comunità svizzera; essa può prevedere un’apertura graduale in relazione alle categorie di denominazioni attribuibili o alle persone che possono richiedere un’attribuzione;\ne. la funzione di centro di registrazione è garantita in condizioni di libera concorrenza da tutti gli enti che hanno concluso un contratto di centro di registrazione con il gestore del registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_50"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Compiti particolari",
+        "citation": "Art. 51 ODIn",
+        "content": "Nell’esercizio della sua funzione, il gestore del registro ha i seguenti compiti particolari:\na. mettere a disposizione un dispositivo unico (single point of contact) che permetta a chiunque di segnalare al gestore del registro un nome di dominio la cui attribuzione o il cui utilizzo può presentare un carattere illecito o contrario all’ordine pubblico;\nb. effettuare controlli a campione per verificare che i nomi di dominio attribuiti soddisfino effettivamente le condizioni di attribuzione e che il loro utilizzo non sia palesemente illecito o contrario all’ordine pubblico;\nc. adottare misure di pubblicità e sponsorizzazione volte a promuovere il dominio «.swiss»; a tale scopo può collaborare con le autorità competenti, in particolare l’Istituto federale della proprietà intellettuale, l’Ufficio federale di statistica e i registri cantonali di commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_51"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 1 ODIn",
+        "content": "Il gestore del registro pubblica nella banca dati RDDS (WHOIS) i dati richiesti dalle regole applicabili a livello internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 2 ODIn",
+        "content": "Può pubblicarvi i seguenti dati:\na. il nome dell’organizzazione e il numero IDI del titolare del nome di dominio;\nb.  i dati d’identificazione e le coordinate del titolare del nome di dominio se tale titolare è una persona giuridica;\nc. i dati d’identificazione e le coordinate del titolare del nome di dominio che ha dato il consenso alla pubblicazione;\nd. l’indicazione di un mezzo anonimo che consenta di contattare il titolare del nome di dominio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 3 ODIn",
+        "content": "Mette a disposizione le funzionalità di ricerca per la banca dati RDDS (WHOIS) sulla base di criteri quali il nome di dominio, il centro di registrazione incaricato della sua gestione o la denominazione del server di nomi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 4 ODIn",
+        "content": "A chiunque dimostri in modo credibile di avere un interesse legittimo preponderante dà accesso ai dati personali che figurano nella banca dati RDDS (WHOIS) che si riferiscono al titolare del nome di dominio. Può chiedere una remunerazione per l’accesso, conformemente alle regole e alle tariffe che si applicano a livello internazionale, a condizione che nessun altro atto legislativo imponga la gratuità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 5 ODIn",
+        "content": "Il centro di registrazione garantisce, conformemente alle regole che si applicano a livello internazionale, l’accesso di cui al capoverso 4 ai dati personali che si riferiscono al titolare del nome di dominio per conto del quale opera il centro di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 2: Gestore del registro, Messa a disposizione di dati",
+        "citation": "Art. 52 cpv. 6 ODIn",
+        "content": "Le modalità e le procedure d’accesso ai sensi dei capoversi 4 e 5 devono essere conformi alle regole applicabili a livello internazionale. L’UFCOM può prescrivere modalità e procedure complementari e fissare in casi specifici l’importo della remunerazione per l’accesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Condizioni particolari di attribuzione",
+        "citation": "Art. 53 cpv. 1 ODIn",
+        "content": "Un nome di dominio è attribuito se, oltre alle condizioni generali previste dall’articolo 25, sono soddisfatte le condizioni particolari seguenti:\na. il richiedente è in grado di dimostrare l’esistenza di un legame sufficiente con la Svizzera; in particolare, se la sede e un centro amministrativo effettivo o il domicilio del richiedente sono situati in Svizzera, o se quest’ultimo può comprovare la nazionalità svizzera;\nb. il richiedente appartiene, al momento della presentazione della domanda di registrazione, a una categoria di persone abilitate a richiedere un’attribuzione (eleggibilità);\nc. ...\nd. l’uso previsto è conforme al diritto svizzero; se il nome di dominio è utilizzato per offrire prodotti o servizi oppure per fare della pubblicità per promuoverli, è indispensabile avere una sede e un centro amministrativo effettivo o un domicilio in Svizzera;\ne. si può legittimamente considerare che esiste un rapporto oggettivo tra la denominazione richiesta e il richiedente o l’uso previsto del nome di dominio;\nf. la denominazione richiesta non corrisponde o non è affine a una denominazione a carattere generico, fatte salve le disposizioni relative al mandato di nominazione (art. 56).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Condizioni particolari di attribuzione",
+        "citation": "Art. 53 cpv. 1bis ODIn",
+        "content": "Se il richiedente è una persona fisica, esiste un rapporto oggettivo secondo il capoverso 1 lettera e quando il nome di dominio, oltre a una denominazione facoltativa scelta liberamente, contiene almeno una delle denominazioni seguenti:\na. uno dei cognomi ufficiali o un altro cognome iscritto nel registro dello stato civile;\nb. un nome;\nc. una denominazione sulla quale il richiedente detiene un diritto su un segno distintivo; \nd. il cognome d’affinità, il cognome dell’unione domestica registrata, il nome ricevuto in seno a un ordine religioso o il nome d’arte con il quale la persona ha acquisito notorietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Condizioni particolari di attribuzione",
+        "citation": "Art. 53 cpv. 1ter ODIn",
+        "content": "Se il richiedente non è una persona fisica, esiste un rapporto oggettivo secondo il capoverso 1 lettera e quando il nome di dominio soddisfa una delle condizioni seguenti:\na. contiene una denominazione sulla quale il richiedente detiene un diritto su un segno distintivo;\nb. si riferisce a una denominazione oggettivamente legata allo Stato o alle sue attività, che è necessaria all’ente pubblico o all’organizzazione di diritto pubblico interessati;\nc. contiene una denominazione geografica:\n1. sulla quale il richiedente detiene un diritto o un interesse legittimo,\n2. sulla quale il richiedente sembra detenere un diritto o un interesse legittimo agli occhi del pubblico, o\n3. al cui utilizzo il richiedente è autorizzato dall’ente o dall’organizzazione interessati;\nd. appartiene a una denominazione sulla quale il richiedente detiene un interesse legittimo o che agli occhi del pubblico è associata a tale richiedente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Condizioni particolari di attribuzione",
+        "citation": "Art. 53 cpv. 2 ODIn",
+        "content": "Il gestore del registro può rifiutare l’attribuzione di un nome di dominio se:\na. la denominazione scelta può essere facilmente confusa con un nome di dominio già attribuito o una denominazione riservata in virtù dell’articolo 26;\nb. da un esame sommario appare evidente che la denominazione scelta viola i diritti su un segno distintivo di terzi; per il rimanente, non è verificata la fondatezza dei diritti di utilizzare le indicazioni alfanumeriche dei nomi di dominio; le controversie relative ai diritti su segni distintivi in relazione ai nomi di dominio sono disciplinate dal diritto civile;\nc. le caratteristiche o i valori su cui si fonda il dominio si oppongono a questa attribuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Condizioni particolari di attribuzione",
+        "citation": "Art. 53 cpv. 3 ODIn",
+        "content": "In via eccezionale, il gestore del registro può attribuire nomi di dominio che non soddisfano le condizioni particolari di attribuzione, se ciò è giustificato dall’interesse della comunità svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Eleggibilità",
+        "citation": "Art. 55 ODIn",
+        "content": "Sono eleggibili all’attribuzione di un nome di dominio:\na. gli enti pubblici svizzeri o altre organizzazioni svizzere di diritto pubblico;\nb. gli enti iscritti nel registro di commercio svizzero aventi la sede e un centro amministrativo effettivo in Svizzera;\nc. le associazioni e le fondazioni non iscritte nel registro di commercio svizzero aventi la sede e un centro amministrativo effettivo in Svizzera;\nd. le persone fisiche domiciliate in Svizzera o di nazionalità svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_55"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 ODIn",
+        "content": "I nomi di dominio corrispondenti o affini a denominazioni a carattere generico che presentano un interesse particolare per una parte o la totalità della comunità svizzera devono essere attribuiti tramite mandato di nominazione. L’UFCOM può pubblicare una lista non esaustiva delle denominazioni o delle categorie di denominazioni interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 2 ODIn",
+        "content": "Il gestore del registro può attribuire nomi di dominio tramite mandato di nominazione:\na. a seguito di un bando di concorso; se necessario disciplina le modalità della procedura del bando di concorso; questa deve rispettare i principi dell’oggettività, della non discriminazione e della trasparenza, garantendo allo stesso tempo la confidenzialità dei dati forniti dai candidati; o\nb. sulla base di una candidatura spontanea.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 3 ODIn",
+        "content": "Il candidato a un nome di dominio che deve essere attribuito tramite mandato di nominazione deve:\na. dimostrare che soddisfa le condizioni generali e particolari di attribuzione di un nome di dominio;\nb. dimostrare che rappresenta la totalità o una parte importante della comunità interessata dalla denominazione richiesta o che la candidatura beneficia del sostegno della totalità o di una parte importante di questa comunità; garanzie di neutralità della concorrenza, di non discriminazione e di trasparenza possono sopperire alla rappresentazione o al sostegno della comunità se la denominazione richiesta non si riferisce ad alcuna comunità in particolare o se non è rappresentata da una comunità organizzata o costituita;\nc. indicare gli eventuali nomi di dominio affini in tedesco, francese, italiano o inglese che egli desidera inserire nel mandato di nominazione;\nd. dimostrare che l’utilizzo che prevede di fare del nome di dominio e le prestazioni o i servizi offerti in relazione con il nome vanno a beneficio della comunità interessata nel suo complesso;\ne. mostrare come intende vigilare sul rispetto delle esigenze sancite dal titolo secondo della legge del 28 agosto 1992 sulla protezione dei marchi per tutti i prodotti offerti tramite un nome di dominio la cui denominazione si riferisce a un prodotto, alle sue caratteristiche o a una categoria di prodotti;\nf. dimostrare in che misura il proprio progetto apporta un valore aggiunto alla comunità interessata e alla comunità svizzera;\ng. dimostrare che soddisfa le condizioni previste dall’UFCOM in relazione alle qualità fissate per il nome di dominio o il progetto desiderato;\nh. proporre un progetto di mandato di nominazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 4 ODIn",
+        "content": "Il gestore del registro pubblica le candidature. Altri richiedenti possono presentare una domanda per lo stesso nome di dominio nei 20 giorni successivi alla pubblicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 5 ODIn",
+        "content": "In caso di candidatura plurima, il gestore del registro attribuisce il nome di dominio al candidato il cui progetto apporta alla comunità interessata e alla comunità svizzera un valore aggiunto chiaramente superiore a quello degli altri progetti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 6 ODIn",
+        "content": "Se nessun progetto soddisfa il requisito di cui al capoverso 5 e i candidati non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro subordina l’attribuzione a un’estrazione a sorte o a una vendita all’asta. Il ricavato della vendita all’asta è versato nella Cassa federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 7 ODIn",
+        "content": "Un nome di dominio ottenuto tramite mandato di nominazione è attribuito per una durata determinata. Esso deve essere utilizzato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 8 ODIn",
+        "content": "Per il rimanente, ai mandati di nominazione, e in particolare alla loro revoca, si applicano per analogia le regole concernenti la sorveglianza sui delegati della funzione di gestore del registro di un dominio gestito dalla Confederazione (art. 40–43).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 8bis ODIn",
+        "content": "La disdetta di un mandato di nominazione (art. 41) è autorizzata in particolare se:\na. il titolare non adempie più le condizioni di attribuzione o non rispetta le disposizioni del mandato; o\nb. il titolare non ha pagato le tasse amministrative dovute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Mandato di nominazione",
+        "citation": "Art. 56 cpv. 9 ODIn",
+        "content": "Il gestore del registro fornisce i mandati di nominazione ai terzi che ne fanno richiesta; può anche metterli a disposizione nel quadro di una procedura di bando o pubblicarli in altro modo. Le clausole e gli allegati contenenti segreti commerciali non sono comunicati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 57 cpv. 1 ODIn",
+        "content": "Il gestore del registro pubblica ogni domanda di registrazione di un nome di dominio dopo un esame preliminare, purché le condizioni generali e particolari di attribuzione siano palesemente soddisfatte. Altri richiedenti possono presentare una domanda di registrazione per lo stesso nome di dominio nei 20 giorni successivi alla pubblicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 57 cpv. 2 ODIn",
+        "content": "In caso di domanda plurima, il gestore del registro attribuisce il nome di dominio in questione nell’ordine di priorità seguente:\na. in linea di principio, all’ente pubblico o all’organizzazione di diritto pubblico richiedente, in caso di concorrenza con richiedenti privati e se la denominazione richiesta risponde di per sé all’interesse pubblico;\nb. all’ente pubblico o all’organizzazione di diritto pubblico richiedente che prevede per il nome di dominio un utilizzo che, rispetto a quello di altri enti o organizzazioni di questo tipo, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e gli enti o le organizzazioni richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro rinuncia ad attribuire il nome di dominio;\nc. in linea di principio, al richiedente che detiene un diritto su un segno distintivo corrispondente al nome di dominio interessato in caso di concorrenza con richiedenti che non beneficiano di un simile diritto;\nd. al miglior offerente della vendita all’asta, se i richiedenti possiedono diritti su segni distintivi in concorrenza sul nome di dominio, a condizione che la tenuta dell’asta non appaia inappropriata alla luce delle circostanze o dei richiedenti interessati; il ricavato della vendita all’asta è versato alla Cassa federale;\ndbis. alla persona giuridica, in caso di concorrenza con una persona fisica;\ne. al richiedente che ha presentato per primo una domanda di registrazione, se tutti i richiedenti intendono utilizzare il nome di domino per scopi non commerciali;\nf. al richiedente che prevede un utilizzo che, rispetto a quello degli altri richiedenti, apporta alla comunità svizzera un valore aggiunto chiaramente superiore; se nessun progetto soddisfa questo requisito e i richiedenti non riescono ad accordarsi su una candidatura unica o comune, il gestore del registro subordina l’attribuzione a un’estrazione a sorte o a una vendita all’asta; il ricavato della vendita all’asta è versato alla Cassa federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 3: Attribuzione, Processo di attribuzione",
+        "citation": "Art. 57 cpv. 3 ODIn",
+        "content": "Fatto salvo l’esame preliminare di cui all’articolo 53 capoverso 2 lettera b, il gestore del registro non verifica la fondatezza dei diritti di utilizzare le indicazioni alfanumeriche dei nomi di dominio. Le controversie relative ai diritti su segni distintivi in relazione ai nomi di dominio sono disciplinate dal diritto civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 5: Dominio «.swiss», Sezione 4: Revoca",
+        "citation": "Art. 58 ODIn",
+        "content": "Il gestore del registro può revocare, di propria volontà o su richiesta del centro di registrazione, l’attribuzione di un nome di dominio se:\na. una denominazione generica attribuita quale nome di dominio dovrebbe piuttosto essere attribuita tramite mandato di nominazione; il beneficiario del mandato di nominazione versa al precedente titolare un indennizzo che include la totalità delle spese di registrazione e di gestione del nome di dominio revocato;\nb. da un esame sommario risulta evidente che la denominazione attribuita come nome di dominio viola un diritto su un segno distintivo;\nc. il nome di dominio contiene una denominazione geografica che presenta un interesse particolare per la totalità o una parte della comunità svizzera ed è richiesto da un ente pubblico o da un’altra organizzazione di diritto pubblico; il richiedente versa al precedente titolare un indennizzo che include la totalità delle spese di registrazione e di gestione del nome di dominio revocato;\nd. ha ragionevolmente motivo di supporre che il titolare abbia richiesto l’attribuzione unicamente nell’intento di nuocere alla reputazione di chi possiede un interesse legittimo per questo nome o per un nome affine oppure alla reputazione di un prodotto o di un servizio affine a questo nome agli occhi del pubblico;\ne. ha ragionevolmente motivo di supporre che il titolare abbia richiesto l’attribuzione nell’intento di trarre profitto dalla reputazione di chi possiede un interesse legittimo per questo nome o per un nome affine oppure dalla reputazione di un prodotto o di un servizio affine a questo nome agli occhi del pubblico;\nf. lo esigono le caratteristiche o i valori sui cui si fonda il dominio;\ng. la persona fisica titolare non è di nazionalità svizzera e si reca all’estero; l’attribuzione di un nome di dominio può essere revocata alle seguenti condizioni:\n1. il titolare non si identifica correttamente o non indica un indirizzo postale valido in Svizzera entro 30 giorni, nonostante ciò sia richiesto dal gestore del registro, dall’UFCOM o da un’altra autorità svizzera che interviene nell’ambito dell’esecuzione dei suoi compiti,\n2. il titolare utilizza il nome di dominio per offrire prodotti o servizi oppure per fare della pubblicità per promuoverli,\n3. vi sono motivi fondati di supporre che il titolare utilizzi il nome di dominio a scopo illecito o in modo illecito secondo il diritto svizzero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_58"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 6: Domini gestiti da altri enti pubblici svizzeri",
+        "citation": "Art. 59 cpv. 1 ODIn",
+        "content": "Gli enti pubblici svizzeri possono candidarsi per ottenere dei domini generici di primo livello di loro scelta presso l’ICANN.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 6: Domini gestiti da altri enti pubblici svizzeri",
+        "citation": "Art. 59 cpv. 2 ODIn",
+        "content": "Rispettano i principi seguenti:\na. provvedono affinché il diritto svizzero e gli interessi della Svizzera siano rispettati nella gestione e nell’utilizzo dei domini e dei nomi di dominio a loro subordinati;\nb. garantiscono la sicurezza e la disponibilità dell’infrastruttura e dei servizi necessari al funzionamento del DNS;\nc. adottano misure al fine di impedire un utilizzo abusivo dei dati messi a disposizione del pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 6: Domini gestiti da altri enti pubblici svizzeri",
+        "citation": "Art. 59 cpv. 3 ODIn",
+        "content": "L’UFCOM vigila affinché gli enti pubblici interessati rispettino i principi di gestione di cui al capoverso 2. Se necessario, disciplina le misure o i requisiti relativi alla sicurezza e alla disponibilità dell’infrastruttura e dei servizi necessari al funzionamento del DNS, nonché all’utilizzo abusivo dei dati messi a disposizione del pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODIn, Capitolo 6: Domini gestiti da altri enti pubblici svizzeri",
+        "citation": "Art. 59 cpv. 4 ODIn",
+        "content": "Se non ha emanato le regole necessarie, un ente pubblico cui è stato attribuito un nome di dominio generico gestisce il dominio conformemente alle disposizioni della presente ordinanza concernenti il dominio «.ch».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/it#art_59"
+    }
+]

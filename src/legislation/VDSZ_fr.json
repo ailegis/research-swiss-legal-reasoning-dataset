@@ -1,0 +1,212 @@
+[
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Exigences",
+        "citation": "Art. 1 al. 1 OCPD",
+        "content": "Les organismes qui effectuent des certifications au sens de l’art. 13 LPD (organismes de certification) doivent être accrédités. Leur accréditation est régie par l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation (OAccD), sauf disposition contraire de la présente ordonnance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Exigences",
+        "citation": "Art. 1 al. 2 OCPD",
+        "content": "Une accréditation distincte est requise pour les certifications portant sur:\na. l’organisation et les procédures (systèmes de gestion) en lien avec le traitement des données;\nb. les produits, notamment les systèmes et programmes de traitement des données et les produits matériels, ainsi que les services et les processus en lien avec le traitement des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Exigences",
+        "citation": "Art. 1 al. 3 OCPD",
+        "content": "Les organismes de certification doivent disposer d’une organisation et d’une procédure de certification (programme de certification) déterminées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Exigences",
+        "citation": "Art. 1 al. 4 OCPD",
+        "content": "Les exigences minimales concernant la qualification du personnel qui exécute des certifications sont réglées en annexe. Les organismes de certification doivent prouver qu’ils disposent de personnel qualifié selon ces critères.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Procédure d’accréditation",
+        "citation": "Art. 2 OCPD",
+        "content": "Le Service d’accréditation suisse (SAS) associe le Préposé fédéral à la protection des données et à la transparence (PFPDT) à la procédure d’accréditation et au contrôle ainsi qu’à la suspension et à la révocation de l’accréditation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_2"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Organismes de certification étrangers",
+        "citation": "Art. 3 al. 1 OCPD",
+        "content": "Les organismes de certification étrangers qui veulent exercer des activités sur le territoire suisse doivent prouver qu’ils disposent d’une qualification équivalente, qu’ils remplissent les exigences fixées à l’art. 1, al. 3 et 4, et qu’ils connaissent suffisamment la législation suisse sur la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Organismes de certification étrangers",
+        "citation": "Art. 3 al. 2 OCPD",
+        "content": "Le PFPDT reconnaît un organisme de certification étranger après avoir consulté le SAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Organismes de certification étrangers",
+        "citation": "Art. 3 al. 3 OCPD",
+        "content": "Il peut accorder la reconnaissance pour une durée limitée et la subordonner à des charges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 1, Organismes de certification, Organismes de certification étrangers",
+        "citation": "Art. 3 al. 4 OCPD",
+        "content": "Il annule la reconnaissance si les conditions ou les charges ne sont plus remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Objets de la certification",
+        "citation": "Art. 4 al. 1 OCPD",
+        "content": "Peuvent faire l’objet d’une certification:\na. les systèmes de gestion;\nb. les produits, les services et les processus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Objets de la certification",
+        "citation": "Art. 4 al. 2 OCPD",
+        "content": "La certification des systèmes de gestion peut porter sur l’ensemble du système, sur certaines parties de l’organisation ou sur certaines procédures déterminées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Objets de la certification",
+        "citation": "Art. 4 al. 3 OCPD",
+        "content": "La certification des produits, des services et des processus peut porter sur:\na. les produits servant principalement au traitement de données personnelles ou générant, lors de leur utilisation, des données personnelles;\nb. les services ou les processus servant principalement au traitement de données personnelles ou générant des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives au programme de certification",
+        "citation": "Art. 5 al. 1 OCPD",
+        "content": "Le programme de certification doit au moins régler:\na. les critères d’évaluation ainsi que les exigences en découlant que doivent respecter les objets à certifier;\nb. les modalités du déroulement de la procédure, notamment les mesures à prendre si des irrégularités sont constatées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives au programme de certification",
+        "citation": "Art. 5 al. 2 OCPD",
+        "content": "Lors de l’élaboration du programme de certification, il doit être tenu compte des points suivants:\na. les données personnelles à traiter;\nb. les infrastructures électroniques utilisées pour le traitement des données personnelles;\nc. les mesures organisationnelles liées au traitement des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives au programme de certification",
+        "citation": "Art. 5 al. 3 OCPD",
+        "content": "Les critères d’évaluation doivent respecter tous les principes de l’art. 6 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives au programme de certification",
+        "citation": "Art. 5 al. 4 OCPD",
+        "content": "Le programme de certification doit respecter les normes applicables selon l’annexe 2 de l’OAccD, ainsi que d’autres normes techniques applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives à la certification de systèmes de gestion",
+        "citation": "Art. 6 al. 1 OCPD",
+        "content": "L’évaluation du système de gestion porte notamment sur:\na. la politique en matière de protection des données;\nb. la documentation concernant les objectifs, les risques et les mesures visant à garantir la protection et la sécurité des données;\nc. les dispositions techniques et organisationnelles nécessaires à la mise en œuvre des objectifs et des mesures fixés, notamment pour remédier aux manquements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives à la certification de systèmes de gestion",
+        "citation": "Art. 6 al. 2 OCPD",
+        "content": "Le PFPDT émet des directives sur les exigences minimales qu’un système de gestion doit remplir. Il tient compte des critères internationaux relatifs à l’installation, à l’exploitation, à la surveillance et à l’amélioration de tels systèmes et en particulier des normes techniques suivantes:\na. SN EN ISO 9001, systèmes de management de la qualité, exigences;\nb. SN EN ISO/IEC 27001, technologies de l’information, techniques de sécurité, système de management de la sécurité de l’information, exigences;\nc. SN EN ISO/IEC 27701, techniques de sécurité, extension d’ISO/IEC 27001 et ISO/IEC 27002 au management de la protection de la vie privée, exigences et lignes directrices.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives à la certification des produits, des services et des processus",
+        "citation": "Art. 7 al. 1 OCPD",
+        "content": "L’évaluation des produits, des services et des processus permet notamment de garantir:\na. la confidentialité, l’intégrité, la disponibilité et la traçabilité des données personnelles traitées;\nb. la prévention de tout traitement de données personnelles inutile au vu des finalités du produit, du service ou du processus;\nc. la transparence du traitement des données personnelles;\nd. les mesures techniques permettant à l’utilisateur de respecter d’autres principes et obligations en matière de protection de données, notamment les droits des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exigences relatives à la certification des produits, des services et des processus",
+        "citation": "Art. 7 al. 2 OCPD",
+        "content": "Le PFPDT émet des directives fixant d’autres critères en matière de protection des données dont il doit être tenu compte lors de l’évaluation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Octroi et durée de validité de la certification",
+        "citation": "Art. 8 al. 1 OCPD",
+        "content": "L’organisme de certification certifie le système de gestion, le produit, le service ou le processus si les exigences prévues par le droit de la protection des données et les conditions prévues par la présente ordonnance, par les directives émises par le PFPDT ou par toute autre norme équivalente sont respectées. L’octroi de la certification peut être assorti de charges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Octroi et durée de validité de la certification",
+        "citation": "Art. 8 al. 2 OCPD",
+        "content": "La durée de validité de la certification est de trois ans. Chaque année, l’organisme de certification vérifie que les conditions de la certification sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Reconnaissance des certifications étrangères",
+        "citation": "Art. 9 OCPD",
+        "content": "Après avoir consulté le SAS, le PFPDT reconnaît les certifications étrangères, pour autant que le respect des exigences de la législation suisse soit garanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_9"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 2, Objets et procédure de certification, Exemption de l’obligation d’établir une analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 10 OCPD",
+        "content": "Le responsable du traitement privé ne peut renoncer à établir une analyse d’impact relative à la protection des données personnelles, conformément à l’art. 22, al. 5 LPD, que si la certification inclut le traitement pour lequel il y aurait lieu de procéder à l’analyse d’impact.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_10"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Suspension et révocation de la certification ",
+        "citation": "Art. 11 al. 1 OCPD",
+        "content": "L’organisme de certification peut suspendre ou révoquer une certification, notamment lorsque, dans le cadre de la vérification, il constate des manquements graves. Il y a manquement grave notamment:\na. si les conditions essentielles de la certification ne sont plus remplies, ou \nb. si une certification est utilisée de manière trompeuse ou abusive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Suspension et révocation de la certification ",
+        "citation": "Art. 11 al. 2 OCPD",
+        "content": "Tout litige concernant la suspension ou la révocation est soumis aux dispositions de droit civil applicables au rapport contractuel liant l’organisme de certification au fournisseur de systèmes ou de logiciels de traitement de données personnelles, au responsable du traitement ou au sous-traitant au bénéfice d’une certification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Procédure applicable aux mesures de surveillance du PFPDT",
+        "citation": "Art. 12 al. 1 OCPD",
+        "content": "Le PFPDT informe l’organisme de certification s’il constate des manquements graves de la part d’un fournisseur de systèmes ou de logiciels de traitement de données personnelles, d’un responsable du traitement ou d’un sous-traitant au bénéfice d’une certification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Procédure applicable aux mesures de surveillance du PFPDT",
+        "citation": "Art. 12 al. 2 OCPD",
+        "content": "L’organisme de certification invite immédiatement le fournisseur de systèmes ou de logiciels de traitement de données personnelles, le responsable du traitement ou le sous-traitant au bénéfice d’une certification à remédier, dans un délai de 30 jours après avoir été informé par le PFPDT, aux manquements constatés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Procédure applicable aux mesures de surveillance du PFPDT",
+        "citation": "Art. 12 al. 3 OCPD",
+        "content": "S’il n’est pas remédié aux manquements dans les 30 jours, l’organisme de certification suspend la certification. Il révoque la certification s’il n’existe aucune perspective d’obtenir ou de rétablir une situation conforme à la loi dans un délai convenable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "OCPD, Section 3, Sanctions, Procédure applicable aux mesures de surveillance du PFPDT",
+        "citation": "Art. 12 al. 4 OCPD",
+        "content": "S’il n’est pas remédié aux manquements dans le délai prévu à l’al. 2 et si l’organisme de certification ne suspend ni ne révoque la certification, le PFPDT prend une mesure au sens de l’art. 51, al. 1 LPD. Il peut notamment ordonner la suspension ou la révocation de la certification. S’il donne cet ordre à l’organisme de certification, il en informe le SAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/fr#art_12"
+    }
+]

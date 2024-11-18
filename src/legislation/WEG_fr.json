@@ -1,0 +1,926 @@
+[
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, But",
+        "citation": "Art. 1 al. 1 LCAP",
+        "content": "La loi vise à encourager la construction de logements ainsi que l’équipement de terrains à cet effet, à abaisser le coût du logement, au premier chef des loyers, et à faciliter l’acquisition de la propriété d’appartements et de maisons familiales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_1"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, But",
+        "citation": "Art. 1 al. 2 LCAP",
+        "content": "Pour l’exécution de ces tâches, la Confédération coopère avec les organisations intéressées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_1"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, But",
+        "citation": "Art. 1 al. 3 LCAP",
+        "content": "Est réservée la compétence des cantons de compléter les mesures prises par la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_1"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, Définitions",
+        "citation": "Art. 2 al. 1 LCAP",
+        "content": "Les logements sont des locaux destinés et propres à l’habitat des personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_2"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, Définitions",
+        "citation": "Art. 2 al. 2 LCAP",
+        "content": "Les appartements et maisons familiales en propriété sont des logements au sens de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_2"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, Définitions",
+        "citation": "Art. 2 al. 3 LCAP",
+        "content": "Les résidences secondaires et les logements de vacances ne tombent pas sous le coup de la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_2"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Introduction, Définitions",
+        "citation": "Art. 2 al. 4 LCAP",
+        "content": "Seules s’appliquent aux foyers et maisons de retraite les dispositions de la loi qui visent à assurer les terrains nécessaires à la construction de logements et à permettre leur équipement, ainsi que celles qui concernent la recherche sur le marché du logement, la recherche en matière de construction et la rationalisation de la construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_2"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Relation avec l’aménagement du territoire et la protection de, l’environnement",
+        "citation": "Art. 3 al. Nouvelle teneur de la 2e phrase selon le ch. 22 de l’annexe à la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1er avril 1991 (RS 616.1). LCAP",
+        "content": "La Confédération encourage l’équipement de terrains à bâtir dans le cadre des prescriptions sur l’aménagement du territoire et la protection de l’environnement. Elle prend, conformément aux dispositions ci-après, des mesures complémentaires en vue d’améliorer et d’assurer cet équipement, ainsi que d’acquérir les terrains nécessaires à la construction de logements et peut accorder à ces fins une aide spéciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_3"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Définition",
+        "citation": "Art. 4 al. 1 LCAP",
+        "content": "L’équipement général consiste à pourvoir une zone à bâtir des principaux éléments des installations d’équipement, en particulier des conduites d’eau et d’énergie et des canalisations d’égouts, ainsi que des routes et chemins desservant directement la zone à équiper.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_4"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Définition",
+        "citation": "Art. 4 al. 2 LCAP",
+        "content": "L’équipement de raccordement relie les divers biens-fonds aux éléments principaux des installations d’équipement, y compris les routes de quartier et les canalisations publiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_4"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Obligation d’équiper",
+        "citation": "Art. 5 al. 1 LCAP",
+        "content": "L’équipement général et l’équipement de raccordement des zones destinées à la construction de logements doivent être réalisés par étapes adéquates, compte tenu des besoins, dans un délai maximum de dix à quinze ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_5"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Obligation d’équiper",
+        "citation": "Art. 5 al. 2 LCAP",
+        "content": "Le droit cantonal désigne les collectivités de droit public responsables de l’équipement. Il peut reporter sur les propriétaires l’obligation de procéder au raccordement; dans ce cas, il doit prévoir l’exécution subsidiaire par les collectivités de droit public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_5"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Contributions d’équipement",
+        "citation": "Art. 6 al. 1 LCAP",
+        "content": "Les collectivités de droit public compétentes selon le droit cantonal perçoivent auprès des propriétaires fonciers des contributions équitables aux frais d’équipement général. Ces contributions sont exigibles à bref délai après l’achèvement des installations d’équipement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_6"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Contributions d’équipement",
+        "citation": "Art. 6 al. 2 LCAP",
+        "content": "Les frais de raccordement doivent être reportés entièrement ou en majeure partie sur les propriétaires fonciers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_6"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 1, Généralités, Contributions d’équipement",
+        "citation": "Art. 6 al. 3 LCAP",
+        "content": "Le Conseil fédéral édicte des dispositions-cadres sur les contributions exigibles, notamment en ce qui concerne leur montant et leur échéance. Il tient compte des cas de rigueur et des circonstances particulières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_6"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Principe",
+        "citation": "Art. 7 LCAP",
+        "content": "Si la dimension des parcelles et le tracé des limites rendent difficiles l’équipement d’une zone destinée à la construction de logements et l’implantation rationnelle de bâtiments sur cette zone ou la rénovation de quartiers d’habitation, il importe de remanier les fonds quant à leur forme, leur dimension et leur groupement ou d’en rectifier les limites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_7"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Regroupement pour l’équipement et regroupement de restructuration",
+        "citation": "Art. 8 al. 1 LCAP",
+        "content": "Le regroupement de parcelles bâties ou non bâties est introduit par une décision des autorités cantonales compétentes ou de la majorité des propriétaires fonciers intéressés auxquels appartient plus de la moitié du périmètre touché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_8"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Regroupement pour l’équipement et regroupement de restructuration",
+        "citation": "Art. 8 al. 2 LCAP",
+        "content": "Les cantons peuvent accorder aux communes la faculté d’ordonner d’office le regroupement; ils peuvent également alléger les conditions auxquelles est subordonnée la décision des propriétaires fonciers sur l’introduction du regroupement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_8"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Obligation de construire",
+        "citation": "Art. 9 al. 1 LCAP",
+        "content": "Lorsque les rapports de propriété sont réglés à nouveau selon l’art. 8, l’attribution des biens-fonds peut être liée à l’obligation des propriétaires d’y construire dans un délai acceptable ou de les mettre à disposition à des fins de construction (obligation de construire).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_9"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Obligation de construire",
+        "citation": "Art. 9 al. 2 LCAP",
+        "content": "L’obligation de construire doit être mentionnée au registre foncier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_9"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Rectification de limites",
+        "citation": "Art. 10 al. 1 LCAP",
+        "content": "Si l’implantation rationnelle de bâtiments sur un bien-fonds ou un groupe de parcelles est rendue difficile ou impossible par un tracé défavorable des limites, les propriétaires intéressés peuvent exiger que les propriétaires des fonds adjacents concourent à l’amélioration de ces limites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_10"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Rectification de limites",
+        "citation": "Art. 10 al. 2 LCAP",
+        "content": "Dans le cadre d’une telle rectification de limites, l’échange de terrain dans la mesure strictement nécessaire et la cession de 3 ares de terrain au plus peuvent être exigés s’il est possible ainsi d’améliorer considérablement les conditions d’implantation des bâtiments et que l’échange ou la cession apparaisse supportable pour le propriétaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_10"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Rectification de limites",
+        "citation": "Art. 10 al. 3 LCAP",
+        "content": "Les cantons peuvent ordonner d’office des rectifications de limites. Ils peuvent déléguer cette compétence aux communes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_10"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Compétence et procédure",
+        "citation": "Art. 11 al. 1 LCAP",
+        "content": "Le droit cantonal règle la compétence, la procédure et, dans les limites du droit fédéral, les principes de droit matériel régissant le regroupement des terrains à bâtir et la rectification des limites. Il assure l’exécution de l’obligation de construire et réglemente les voies de droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_11"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 1, Droit régissant l’équipement, Section 2, Regroupement de terrains à bâtir et rectification de limites, Compétence et procédure",
+        "citation": "Art. 11 al. 2 LCAP",
+        "content": "Il ne peut être perçu de droits de mutation ou de contributions semblables pour les regroupements de terrains à bâtir et les rectifications de limites selon les art. 8 à 10.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_11"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 1, Nature de l’aide",
+        "citation": "Art. 12 al. Nouvelle teneur selon le ch. 22 de l’annexe à la loi du 5 oct. 1990 sur les subventions, en vigueur depuis le 1er avril 1991 (RS 616.1). LCAP",
+        "content": "La Confédération peut procurer aux collectivités de droit public ainsi qu’à des maîtres d’ouvrage et à des organisations s’occupant de la construction de logements, des prêts pour l’équipement de terrains destinés à ces fins; elle peut également se porter caution à cette fin. Lorsqu’un resserrement du marché des capitaux rend le financement difficile, elle peut aussi accorder elle-même des prêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_12"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 2, Étendue de l’aide",
+        "citation": "Art. 13 al. 1 LCAP",
+        "content": "L’aide fédérale s’étend aux frais d’équipement général.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_13"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 2, Étendue de l’aide",
+        "citation": "Art. 13 al. 2 LCAP",
+        "content": "Il n’est accordé d’aide fédérale pour les frais de raccordement que dans la mesure où le terrain à équiper a été acquis avec l’aide des pouvoirs publics en vue de la construction de logements à prix réduit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_13"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 3, Conditions et charges, Aménagement du territoire",
+        "citation": "Art. 14 LCAP",
+        "content": "Les installations d’équipement pour l’établissement desquelles l’aide de la Confédération est sollicitée doivent être conformes aux plans directeurs et aux plans d’affectation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_14"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 3, Conditions et charges, Paiement de la contribution",
+        "citation": "Art. 15 LCAP",
+        "content": "L’aide fédérale est liée à la condition que les propriétaires fonciers soient astreints, conformément à l’art. 6 de la présente loi, à verser des contributions aux frais d’équipement, fixées de manière équitable et exigibles à bref délai après l’achèvement des installations d’équipement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_15"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 3, Conditions et charges, Conditions et charges applicables aux cas particuliers",
+        "citation": "Art. 16 al. 1 LCAP",
+        "content": "Les autorités fédérales compétentes peuvent, en vue d’assurer l’efficacité de l’aide fédérale, fixer des conditions et des charges telles qu’un aménagement adéquat des terrains, ainsi que des mesures garantissant que le raccordement et la construction auront lieu dans un délai convenable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_16"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 3, Conditions et charges, Conditions et charges applicables aux cas particuliers",
+        "citation": "Art. 16 al. 2 LCAP",
+        "content": "Les installations d’équipement qui sont conformes aux aménagements local et régional ayant un caractère exécutoire sont considérées comme adéquates au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_16"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Montant",
+        "citation": "Art. 17 al. 1 LCAP",
+        "content": "En règle générale, les prêts couvrent 100 % des frais entrant en considération pour l’aide de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_17"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Montant",
+        "citation": "Art. 17 al. 2 LCAP",
+        "content": "Pour déterminer le montant du prêt, il y aura lieu de tenir compte des contributions allouées par la Confédération, les cantons ou des tiers jusqu’à la date de son versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_17"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Amortissement et intérêts",
+        "citation": "Art. 18 al. 1 LCAP",
+        "content": "Le prêt doit être remboursé dans un délai maximum de vingt, exceptionnellement de vingt-cinq ans à compter du versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_18"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Amortissement et intérêts",
+        "citation": "Art. 18 al. 2 LCAP",
+        "content": "Les prêts peuvent être accordés à des taux d’intérêt plus favorables que les taux usuels pratiqués sur le marché; il est possible de renoncer à l’amortissement pendant les premières années.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_18"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Amortissement et intérêts",
+        "citation": "Art. 18 al. 3 LCAP",
+        "content": "Le Conseil fédéral règle le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_18"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Prêts de tiers et cautionnements",
+        "citation": "Art. 19 LCAP",
+        "content": "Les prêts procurés et cautionnés par la Confédération sont assimilés, en ce qui concerne le service des intérêts et l’amortissement, aux prêts qu’elle accorde directement. Une différence de taux d’intérêt est, le cas échéant, prise en charge par la Confédération. Au besoin, elle fait l’avance des versements d’amortissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_19"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 2, Aide en matière d’équipement, Section 4, Prêts, Règles de sûreté",
+        "citation": "Art. 20 LCAP",
+        "content": "En cas d’inobservation des conditions générales ou des conditions et charges spéciales liées à l’assurance d’une aide fédérale, les prêts doivent porter intérêt au taux usuel pratiqué sur le marché. La différence d’intérêt qui résulte d’un taux plus avantageux obtenu sans droit doit être remboursée. L’office fédéral compétent peut en outre réduire la durée des prêts ou en ordonner le remboursement total ou partiel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_20"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Généralités",
+        "citation": "Art. 21 LCAP",
+        "content": "La Confédération peut encourager l’acquisition de réserves de terrain pour la construction de logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_21"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Nature et étendue de l’encouragement",
+        "citation": "Art. 22 al. 1 LCAP",
+        "content": "La Confédération peut procurer à des collectivités de droit public ainsi qu’à des maîtres d’ouvrage et à des organisations s’occupant de la construction de logements d’utilité publique des prêts destinés à l’acquisition de réserves de terrain; elle peut également se porter caution à cette fin. Lorsqu’un resserrement du marché des capitaux rend le financement difficile, elle peut aussi accorder elle-même des prêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_22"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Nature et étendue de l’encouragement",
+        "citation": "Art. 22 al. 2 LCAP",
+        "content": "Les prêts peuvent également comprendre les intérêts des frais d’acquisition de terrain.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_22"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Nature et étendue de l’encouragement",
+        "citation": "Art. 22 al. 3 LCAP",
+        "content": "Les prêts s’élèvent en règle générale à 50 % de tous les frais d’acquisition de terrain et doivent être garantis par gage immobilier. Les limitations légales des investissements ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_22"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Nature et étendue de l’encouragement",
+        "citation": "Art. 22 al. 4 LCAP",
+        "content": "Le Conseil fédéral arrête les conditions générales dont dépend l’octroi de l’aide et définit les charges et conditions qui peuvent y être liées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_22"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Droit de superficie",
+        "citation": "Art. 23 LCAP",
+        "content": "L’aide de la Confédération pour l’acquisition de réserves de terrain peut aussi être accordée pour le paiement de la rente du droit de superficie, à condition:\n– que ce droit soit concédé par une collectivité de droit public ou par une institution d’utilité publique,\n– que ce droit soit accordé à des conditions dont on peut prouver qu’elles sont notablement plus avantageuses pour le bénéficiaire du droit de superficie que les conditions pour l’achat du terrain et\n– qu’il soit assuré que la construction a lieu, en règle générale, dans un délai maximum de cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_23"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 1 LCAP",
+        "content": "Pendant la durée du prêt ou de son cautionnement ainsi que pendant les dix années qui suivent, la Confédération jouit d’un droit de préemption sur le fonds acquis avec son aide.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 2 LCAP",
+        "content": "Elle jouit en outre d’un droit d’emption sur ces fonds s’ils sont soustraits à leur affectation ou ne sont pas équipés ou bâtis dans un délai de dix ans dès leur acquisition, aussi longtemps qu’il subsiste un besoin de logements. Lorsque l’intérêt public exige que le terrain soit détourné de son affectation ou qu’il ne subsiste plus de besoin de logements, la Confédération peut, au lieu d’user de son droit d’emption, exiger le remboursement du prêt et des intérêts. Le droit d’emption peut être exercé pendant quinze ans à partir de la date de l’octroi de l’aide fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 3 LCAP",
+        "content": "Les droits de préemption et d’emption s’exercent au prix de revient majoré de la plus-value du capital propre; le Conseil fédéral règle le calcul de la plus-value.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 4 LCAP",
+        "content": "Les droits de préemption et d’emption doivent être mentionnés au registre foncier comme restrictions de droit public à la propriété. Ils peuvent être cédés aux cantons, aux communes ainsi qu’aux organisations et maîtres d’ouvrage s’occupant de la construction de logements d’utilité publique. L’office fédéral compétent peut renoncer au droit d’emption aux conditions fixées par les dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 5 LCAP",
+        "content": "Les présentes dispositions s’appliquent par analogie au droit de superficie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 6 LCAP",
+        "content": "L’accord de la Confédération est nécessaire pour que les biens-fonds acquis avec son aide puissent être grevés de gages immobiliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 1, Équipement et mise à disposition de terrains pour la construction de logements, Chapitre 3, Acquisition de réserves de terrain, Mesures de sûreté",
+        "citation": "Art. 24 al. 7 LCAP",
+        "content": "Le Conseil fédéral règle au surplus le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_24"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 1, Étude du marché dans le domaine du logement, Principe",
+        "citation": "Art. 25 al. 1 LCAP",
+        "content": "La Confédération peut encourager les études de marché dans le domaine du logement. Celles-ci doivent en particulier permettre d’obtenir une meilleure vue d’ensemble sur les conditions du marché, déterminer les tendances de l’offre et de la demande et préciser les besoins de logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_25"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 1, Étude du marché dans le domaine du logement, Principe",
+        "citation": "Art. 25 al. 2 LCAP",
+        "content": "La Confédération coordonne les travaux de recherche et les enquêtes statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_25"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 1, Étude du marché dans le domaine du logement, Exécution",
+        "citation": "Art. 26 LCAP",
+        "content": "Lorsqu’elle ne procède pas elle-même aux études de marché dans le domaine du logement, la Confédération peut confier des mandats de recherche à des institutions publiques ou privées qualifiées et à des experts ou participer financièrement aux travaux de tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_26"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 1, Étude du marché dans le domaine du logement, Obligation de fournir des renseignements",
+        "citation": "Art. 27 LCAP",
+        "content": "Chacun est tenu de mettre à disposition les données nécessaires pour les recherches et enquêtes prévues à l’art. 25. Le secret d’affaires est sauvegardé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_27"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 1, Principe",
+        "citation": "Art. 28 al. 1 LCAP",
+        "content": "La Confédération peut encourager, principalement dans l’intérêt d’une rationalisation de la construction, les travaux de recherche et de développement dans le domaine de la construction. Elle coordonne les travaux de recherche et de développement et veille à la diffusion des résultats dont elle dispose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_28"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 1, Principe",
+        "citation": "Art. 28 al. 2 LCAP",
+        "content": "La Confédération peut encourager la normalisation et la standardisation de la construction et des éléments de construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_28"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 1, Principe",
+        "citation": "Art. 28 al. 3 LCAP",
+        "content": "La Confédération peut encourager l’application de procédés de construction et de méthodes de travail rationnels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_28"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 2, Exécution, Encouragement en général",
+        "citation": "Art. 29 al. 1 LCAP",
+        "content": "La Confédération établit des plans de recherche et de développement et fixe des ordres de priorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_29"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 2, Exécution, Encouragement en général",
+        "citation": "Art. 29 al. 2 LCAP",
+        "content": "Pour accorder son encouragement, la Confédération confie des mandats de recherche et de développement à des institutions publiques ou privées qualifiées et à des experts ou participe financièrement à des travaux de tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_29"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 2, Exécution, Étendue de la participation",
+        "citation": "Art. 30 LCAP",
+        "content": "Lorsqu’elle ne donne pas de mandats directs, la Confédération participe en règle générale jusqu’à concurrence de 40 pour cent au coût de travaux de recherche et de développement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_30"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 2, Exécution, Directives relatives à la rationalisation de la construction",
+        "citation": "Art. 31 al. 1 LCAP",
+        "content": "Le Conseil fédéral établit des directives sur la rationalisation de la construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_31"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 2, Exécution, Directives relatives à la rationalisation de la construction",
+        "citation": "Art. 31 al. 2 LCAP",
+        "content": "Il tient compte de l’état le plus récent de la recherche, des particularités régionales, de la conservation des lieux et des paysages, ainsi que des divers modes de vie de la population.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_31"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 3, Prescriptions sur la construction",
+        "citation": "Art. 32 al. 1 LCAP",
+        "content": "Le Conseil fédéral édicte, si nécessaire, des prescriptions sur la rationalisation de la construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_32"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 3, Prescriptions sur la construction",
+        "citation": "Art. 32 al. 2 LCAP",
+        "content": "L’art. 31, al. 2 s’applique par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_32"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 2, Étude du marché, recherche et rationalisation dans le secteur de la construction de logements, Chapitre 2, Recherche et rationalisation en matière de construction, Section 3, Prescriptions sur la construction",
+        "citation": "Art. 32 al. 3 LCAP",
+        "content": "Les cantons et les organisations intéressées seront préalablement entendus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_32"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 3, Mise à disposition de capitaux, Principe",
+        "citation": "Art. 33 LCAP",
+        "content": "Si le financement d’un nombre suffisant de logements n’est pas assuré, la Confédération peut procurer et cautionner des prêts. Elle peut aussi accorder elle-même des prêts lorsqu’un resserrement du marché des capitaux rend le financement difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_33"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 3, Mise à disposition de capitaux, Exécution",
+        "citation": "Art. 34 al. 1 LCAP",
+        "content": "Les prêts sont mis à la disposition d’instituts de financement ou de collectivités de droit public; ils doivent porter intérêt aux taux usuels sur le marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_34"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 3, Mise à disposition de capitaux, Exécution",
+        "citation": "Art. 34 al. 2 LCAP",
+        "content": "Le Conseil fédéral règle la durée et les délais d’amortissement des prêts en tenant compte des conditions du marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_34"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 1, Encouragement de la construction de logements en général, Titre 3, Mise à disposition de capitaux, Exécution",
+        "citation": "Art. 34 al. 3 LCAP",
+        "content": "Il règle les conditions auxquelles les fonds doivent être remis aux requérants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_34"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 1, Principe",
+        "citation": "Art. 35 al. 1 LCAP",
+        "content": "Conformément aux dispositions ci-après, la Confédération soutient par des mesures spécifiques la construction de logements à loyer particulièrement avantageux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_35"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 1, Principe",
+        "citation": "Art. 35 al. 2 LCAP",
+        "content": "Ces mesures comprennent:\na. L’abaissement de base qui, en assurant le financement complémentaire, permet, lorsque certaines conditions sont réunies, de fixer les loyers initiaux à un niveau aussi bas que possible, au-dessous des charges du propriétaire;\nb. L’abaissement supplémentaire qui vise à réduire de 30 % au total le loyer initial couvrant le coût de revient de logements destinés à des classes de la population à revenus limités;\nc. L’abaissement supplémentaire qui vise à réduire de 40 % au total le loyer initial couvrant le coût de revient de logements destinés à des personnes âgées, à des invalides et à des personnes ayant besoin de soins, y compris le personnel soignant nécessaire, ainsi que de logements destinés à des personnes qui reçoivent une formation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_35"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 1, Principe",
+        "citation": "Art. 35 al. 3 LCAP",
+        "content": "Le nombre de logements dont les loyers doivent être chaque année abaissés grâce à l’aide fédérale sera proportionné aux besoins du marché ainsi qu’aux fonds disponibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_35"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Financement",
+        "citation": "Art. 36 LCAP",
+        "content": "Pour assurer l’abaissement de base, la Confédération procure ou cautionne des prêts garantis par gage immobilier et se montant en règle générale à 90 % au plus du coût de revient admissible. Elle peut aussi accorder elle-même des prêts lorsqu’un resserrement du marché des capitaux rend le financement difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_36"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Avances",
+        "citation": "Art. 37 al. 1 LCAP",
+        "content": "Pour couvrir la différence entre les charges du propriétaire et le loyer faisant l’objet de l’abaissement de base, la Confédération offre des avances remboursables, portant intérêt et garanties par des gages immobiliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Avances",
+        "citation": "Art. 37 al. 2 LCAP",
+        "content": "Les charges du propriétaire sont constituées par les intérêts des capitaux propres et étrangers investis, les frais d’entretien et d’administration et les prestations permettant l’amortissement des dettes hypothécaires en vingt-cinq ans à 60 % du coût de revient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Avances",
+        "citation": "Art. 37 al. 3 LCAP",
+        "content": "L’abaissement de base doit assurer un loyer permettant, compte tenu de l’augmentation annuelle du loyer, de couvrir pendant vingt-cinq ans les charges du propriétaire au sens de l’al. 2. Les charges du propriétaire qui ne sont pas mentionnées à l’al, 2 sont considérées comme frais accessoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Avances",
+        "citation": "Art. 37 al. 4 LCAP",
+        "content": "Les avances doivent au maximum porter intérêt au taux usuel de l’hypothèque de deuxième rang. En cas de remboursement des avances ou de paiement des intérêts hors délai, des intérêts de retard au taux usuel du marché sont facturés en sus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_37"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Frais d’entretien et d’administration, frais accessoires",
+        "citation": "Art. 38 al. 1 LCAP",
+        "content": "Les frais d’entretien et d’administration doivent être adaptés à l’évolution des coûts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_38"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Frais d’entretien et d’administration, frais accessoires",
+        "citation": "Art. 38 al. 2 LCAP",
+        "content": "Les frais accessoires peuvent être comptés séparément aux locataires, selon les dépenses faites. Il s’agit en particulier du chauffage et de l’eau chaude, de la consommation de courant, des frais de concierge et d’entretien des jardins ainsi que des contributions publiques telles que les impôts réels, les frais d’éclairage des routes, les primes d’assurance des bâtiments, les taxes d’enlèvement d’ordures, les droits d’eau et les taxes d’épuration des eaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_38"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Frais d’entretien et d’administration, frais accessoires",
+        "citation": "Art. 38 al. 3 LCAP",
+        "content": "Le Conseil fédéral règle le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_38"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Conditions",
+        "citation": "Art. 39 LCAP",
+        "content": "L’aide pour le financement complémentaire est accordée au propriétaire qui s’engage à rembourser le prêt selon le plan de financement et se soumet à la surveillance des loyers (art. 45).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_39"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Pertes de loyers, modification du plan des loyers",
+        "citation": "Art. 40 al. 1 LCAP",
+        "content": "Si des circonstances spéciales entraînent des pertes de loyer, ou si le plan des loyers est modifié au détriment du propriétaire, la Confédération peut lui accorder des avances supplémentaires ou, lorsque les circonstances le justifient, des versements supplémentaires à fonds perdu afin de lui permettre de remplir les obligations découlant du plan de financement et d’amortissement. Le remboursement des avances peut, au besoin, être différé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Pertes de loyers, modification du plan des loyers",
+        "citation": "Art. 40 al. 2 LCAP",
+        "content": "Les avances et les intérêts encore dus après 30 ans sont remis par la Confédération:\na. si, jusqu’à ce terme, ils ne sont pas devenus exigibles selon le plan de financement et d’amortissement, et\nb. à condition que les tranches exigibles d’avances et d’intérêts soient remboursées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Pertes de loyers, modification du plan des loyers",
+        "citation": "Art. 40 al. 2bis LCAP",
+        "content": "Une remise avant l’expiration de la période de 30 ans est possible si les conditions du marché l’exigent et que des pertes au titre des cautionnements ou des engagements peuvent être réduites ou évitées, ou en cas de réalisation forcée de biens immobiliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Pertes de loyers, modification du plan des loyers",
+        "citation": "Art. 40 al. 3 LCAP",
+        "content": "Le Conseil fédéral règle le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_40"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 2, Abaissement de base, Garantie en cas de perception différée des intérêts des capitaux, propres",
+        "citation": "Art. 41 LCAP",
+        "content": "Aux propriétaires de maison qui, en vue d’abaisser davantage les loyers, ont différé le service des intérêts sur leurs capitaux propres et qui sont pour des motifs importants contraints de vendre l’immeuble ou le logement, la Confédération garantit un prix de vente correspondant à celui auquel elle pourrait acquérir l’immeuble ou le logement en usant de son droit légal d’emption et de préemption selon l’art. 50, al. 2. Le montant du capital propre imputable est augmenté du montant des intérêts différés de ce capital.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_41"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 3, Abaissement supplémentaire des loyers",
+        "citation": "Art. 42 al. 1 LCAP",
+        "content": "L’abaissement supplémentaire des loyers consiste en des avances annuelles à fonds perdu de la Confédération dont le montant reste le même.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_42"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 3, Abaissement supplémentaire des loyers",
+        "citation": "Art. 42 al. 2 LCAP",
+        "content": "Il suppose un abaissement de base. L’abaissement supplémentaire peut aussi être accordé à des propriétaires qui remplissent toutes les conditions de l’abaissement de base mais ont renoncé à demander à être mis au bénéfice du financement complémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_42"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 3, Abaissement supplémentaire des loyers",
+        "citation": "Art. 42 al. 3 LCAP",
+        "content": "Les logements construits ou rénovés à l’aide de l’abaissement supplémentaire ne peuvent être loués qu’à des personnes dont les revenus ne dépassent pas les limites fixées par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_42"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 3, Abaissement supplémentaire des loyers",
+        "citation": "Art. 42 al. 4 LCAP",
+        "content": "Le Conseil fédéral fixe les autres conditions de l’abaissement supplémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_42"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Rénovation de logements",
+        "citation": "Art. 43 LCAP",
+        "content": "Le Conseil fédéral règle les conditions auxquelles la Confédération accorde une aide pour la rénovation de logements. Le coût global ne doit pas être supérieur au coût de nouveaux logements comparables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_43"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Exigences relatives aux projets de construction",
+        "citation": "Art. 44 LCAP",
+        "content": "Les projets de construction doivent être conformes aux exigences de l’aménagement du territoire sur les plans national, régional et local, aux prescriptions minimales concernant les dimensions et l’aménagement ainsi qu’aux exigences de la rationalisation de la construction. Ils doivent en outre rester dans les limites des coûts du terrain et de la construction à l’époque où ils sont établis et tenir compte des besoins de logements dans la région; au besoin. ils doivent comprendre en particulier des logements pour personnes âgées, pour invalides, familles nombreuses et personnes disposant de revenus modestes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_44"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Surveillance des loyers",
+        "citation": "Art. 45 al. 1 LCAP",
+        "content": "Les loyers abaissés en vertu de la présente loi sont soumis à une surveillance officielle jusqu’au remboursement complet des avances de la Confédération et de leurs intérêts et au minimum pendant 25 ans. Cette surveillance officielle peut prendre fin avant terme, à la remise des avances et des intérêts (art. 40) ou à la conclusion d’un contrat d’annulation de droit public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_45"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Surveillance des loyers",
+        "citation": "Art. 45 al. 2 LCAP",
+        "content": "Pendant la durée de la surveillance officielle, les loyers initiaux fixés par les autorités compétentes ne peuvent être modifiés que dans les limites des adaptations autorisées par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_45"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Maintien du but",
+        "citation": "Art. 46 al. 1 LCAP",
+        "content": "Les logements construits ou rénovés grâce aux mesures spéciales d’abaissement des loyers ne doivent être utilisés que pour l’habitation jusqu’au remboursement complet des avances de la Confédération et des intérêts y afférents, mais au minimum pendant vingt-cinq ans, ou jusqu’à la remise desdites avances et intérêts (art. 40). L’aide fédérale et l’obligation du maintien de l’affectation peuvent prendre fin avant terme par un contrat d’annulation de droit public au plus tôt après une période de 15 ans. La condition en est que, à cette date, plus aucun ménage n’ait droit à l’abaissement supplémentaire II en vertu de l’ordonnance du 30 novembre 1981 relative à la loi encourageant la construction et l’accession à la propriété de logements, que les avances et les intérêts soient remboursés et que la Confédération soit libérée en tant que caution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Maintien du but",
+        "citation": "Art. 46 al. 2 LCAP",
+        "content": "Pour empêcher que ces logements ne soient utilisés à d’autres fins, la Confédération jouit, jusqu’au remboursement complet de ses avances et des intérêts, mais au moins pendant vingt-cinq ans, ou jusqu’à la remise des avances et intérêts (art. 40), d’un droit légal d’emption et de préemption au prix de revient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Maintien du but",
+        "citation": "Art. 46 al. 3 LCAP",
+        "content": "L’interdiction de changement d’affectation ainsi que le droit d’emption et de préemption qui lui sont liés doivent être mentionnés au registre foncier comme restrictions de droit public à la propriété.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Maintien du but",
+        "citation": "Art. 46 al. 4 LCAP",
+        "content": "Les droits d’emption et de préemption peuvent être cédés aux cantons, aux communes ainsi qu’à des organisations et maîtres d’ouvrage s’occupant de la construction de logements d’utilité publique. L’office fédéral compétent peut renoncer au droit d’emption aux conditions fixées par les dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 2, Mesures spéciales destinées à abaisser les loyers (construction de logements d’utilité publique), Titre 4, Autres dispositions, Maintien du but",
+        "citation": "Art. 46 al. 5 LCAP",
+        "content": "Au surplus, le Conseil fédéral règle le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_46"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Principe",
+        "citation": "Art. 47 al. 1 LCAP",
+        "content": "La Confédération peut encourager l’acquisition en propriété d’appartements ou de maisons familiales destinés aux besoins propres de personnes physiques qui, faute de fortune personnelle ou de revenus suffisants, ne sont pas en mesure d’investir les fonds propres nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_47"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Principe",
+        "citation": "Art. 47 al. 2 LCAP",
+        "content": "L’encouragement s’étend à d’autres droits réels ou personnels qui confèrent des prétentions semblables à celles qui découlent du droit de propriété, ainsi qu’à la propriété collective.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_47"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Principe",
+        "citation": "Art. 47 al. 3 LCAP",
+        "content": "Il est subordonné à la condition que le propriétaire garantisse le service des intérêts et l’amortissement des hypothèques de rang inférieur en fournissant des sûretés convenables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_47"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Nature de l’aide",
+        "citation": "Art. 48 al. 1 LCAP",
+        "content": "Dans les limites de l’art. 47, la Confédération procure, cautionne ou accorde des prêts et avances en appliquant par analogie les art. 35 à 39, 43, 44 et 46 de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_48"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Nature de l’aide",
+        "citation": "Art. 48 al. 2 LCAP",
+        "content": "La Confédération peut en outre faire des versements supplémentaires à fonds perdu en appliquant par analogie l’art. 42.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_48"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Conversion de logements",
+        "citation": "Art. 49 al. 1 LCAP",
+        "content": "Lorsque des avances ont été faites en vue de l’abaissement de base et n’ont pas encore été entièrement remboursées, les logements à louer qui en ont bénéficié peuvent être convertis en logements en propriété dont l’acquisition est encouragée par la Confédération au sens des art. 47 et 48.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_49"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Conversion de logements",
+        "citation": "Art. 49 al. 2 LCAP",
+        "content": "L’autorité fédérale compétente peut autoriser, lorsque d’importants motifs existent, que des appartements en propriété pour lesquels les avances en vue de l’abaissement de base n’ont pas encore été entièrement remboursées soient convertis en logements à louer dont les loyers sont réduits par l’abaissement de base au sens de l’art. 35, al. 2, let. a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_49"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Garantie",
+        "citation": "Art. 50 al. 1 LCAP",
+        "content": "Pendant la durée de l’aide fédérale, mais au minimum pendant vingt-cinq ans, les appartements et maisons familiales en propriété, acquis avec l’aide de la Confédération, ne peuvent être soustraits à leur affectation ou vendus avec bénéfice sans l’accord de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_50"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Garantie",
+        "citation": "Art. 50 al. 2 LCAP",
+        "content": "Pour garantir l’interdiction de changement d’affectation et d’aliénation, la Confédération jouit, pendant toute sa durée, d’un droit légal d’emption et de préemption au prix de revient majoré de la plus-value du capital propre; le Conseil fédéral règle le calcul de la plus-value. Les droits légaux d’emption et de préemption peuvent être cédés aux cantons, aux communes ainsi qu’aux organisations et maîtres d’ouvrage s’occupant de la construction de logements d’utilité publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_50"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Garantie",
+        "citation": "Art. 50 al. 3 LCAP",
+        "content": "L’interdiction de changement d’affectation et d’aliénation ainsi que les droits d’emption et de préemption qui lui sont liés doivent être mentionnés pendant toute leur durée au registre foncier comme restrictions de droit public à la propriété.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_50"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 3, Encouragement de l’accession à la propriété d’appartements et de maisons familiales, Garantie",
+        "citation": "Art. 50 al. 4 LCAP",
+        "content": "Au surplus, le Conseil fédéral règle le détail. En particulier, il définit les conditions auxquelles est donné le consentement à l’aliénation de gré à gré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_50"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 4, Mesures d’encouragement en faveur des maîtres d’ouvrage et des organisations s’occupant de la construction de logements, d’utilité publique, Généralités",
+        "citation": "Art. 51 al. 1 LCAP",
+        "content": "La Confédération peut encourager l’activité de maîtres d’ouvrage et d’organisations s’occupant de la construction de logements d’utilité publique, en particulier en leur accordant des cautionnements ou des prêts ou en prenant des participations à leur capital.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_51"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 4, Mesures d’encouragement en faveur des maîtres d’ouvrage et des organisations s’occupant de la construction de logements, d’utilité publique, Généralités",
+        "citation": "Art. 51 al. 2 LCAP",
+        "content": "Elle peut créer des organisations à cette fin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_51"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 4, Mesures d’encouragement en faveur des maîtres d’ouvrage et des organisations s’occupant de la construction de logements, d’utilité publique, Conditions et garanties",
+        "citation": "Art. 52 LCAP",
+        "content": "L’encouragement n’est accordé que si les maîtres d’ouvrage et les organisations répondent aux exigences minimales que le Conseil fédéral fixera en ce qui concerne l’affectation des logements et la garantie de son maintien, la gestion et les statuts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_52"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Mise à disposition des fonds nécessaires",
+        "citation": "Art. 53 al. 1 LCAP",
+        "content": "L’Assemblée fédérale vote, à la charge du compte financier, les crédits d’engagement pluriannuels destinés à assurer les moyens nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Mise à disposition des fonds nécessaires",
+        "citation": "Art. 53 al. 2 LCAP",
+        "content": "Le Conseil fédéral fixe les limites dans lesquelles sont mis à disposition les moyens grevant le compte capital.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Mise à disposition des fonds nécessaires",
+        "citation": "Art. 53 al. 3 LCAP",
+        "content": "L’Assemblée fédérale peut prévoir, par un arrêté fédéral simple, que les prestations de la Confédération visées à l’art. 37 soient inscrites directement au bilan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Mise à disposition des fonds nécessaires",
+        "citation": "Art. 53 al. 4 LCAP",
+        "content": "L’Assemblée fédérale accorde des crédits de paiement annuels à partir de l’an 2001 pour verser les avances de l’abaissement de base.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_53"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Office fédéral du logement",
+        "citation": "Art. 54 al. 1 LCAP",
+        "content": "La Confédération crée un Office fédéral du logement (office fédéral).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_54"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Office fédéral du logement",
+        "citation": "Art. 54 al. 2 LCAP",
+        "content": "L’office fédéral est chargé de l’exécution de la présente loi en tant qu’elle relève de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_54"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Office fédéral du logement",
+        "citation": "Art. 54 al. 3 LCAP",
+        "content": "Il coordonne les mesures d’exécution fédérales et cantonales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_54"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de crédit",
+        "citation": "Art. 56 al. 1 LCAP",
+        "content": "Les demandes d’aide sous forme de crédit doivent être présentées à l’office fédéral. Celui-ci décide après avoir déterminé si les conditions sont remplies et examiné les possibilités financières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_56"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de crédit",
+        "citation": "Art. 56 al. 2 LCAP",
+        "content": "Pour l’octroi d’un crédit, les rapports de droit à créer entre la Confédération et les requérants ainsi que d’éventuels tiers, tels que prêts, cautionnements, constitutions de gages, promesses de garantie et autres promesses de paiement, sont établis par contrat de droit public en la forme écrite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_56"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de crédit",
+        "citation": "Art. 56 al. 3 LCAP",
+        "content": "Le Conseil fédéral règle les conditions auxquelles des compétences peuvent être déléguées à des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_56"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de subvention fédérale",
+        "citation": "Art. 57 al. 1 LCAP",
+        "content": "Les demandes de subvention doivent être présentées à l’office fédéral. Celui-ci décide après avoir déterminé si les conditions sont remplies et examiné les possibilités financières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de subvention fédérale",
+        "citation": "Art. 57 al. 2 LCAP",
+        "content": "Le requérant doit faire savoir à l’office fédéral par écrit et dans les trente jours dès l’entrée en force de l’assurance de subventionnement s’il accepte les obligations liées à cette assurance. L’acceptation ne peut être assortie d’aucune réserve.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de subvention fédérale",
+        "citation": "Art. 57 al. 3 LCAP",
+        "content": "Lorsque le requérant accepte les obligations liées à l’assurance de subventionnement, il naît un rapport contractuel de droit public conforme à la décision de l’office fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de subvention fédérale",
+        "citation": "Art. 57 al. 4 LCAP",
+        "content": "La décision de l’office fédéral tombe si le requérant n’accepte pas en temps voulu les obligations liées à l’assurance de subventionnement. L’office fédéral peut toutefois prolonger au besoin le délai fixé à l’al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Compétence et procédure pour les demandes de subvention fédérale",
+        "citation": "Art. 57 al. 5 LCAP",
+        "content": "Au surplus, le Conseil fédéral règle le détail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_57"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Droit à l’aide fédérale",
+        "citation": "Art. 58 LCAP",
+        "content": "Un droit à l’aide fédérale ne prend naissance qu’avec l’entrée en force de la décision assurant cette aide.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_58"
+    },
+    {
+        "book": "WEG",
+        "title": "LCAP, Partie 5, Prescriptions diverses, Règles supplétives",
+        "citation": "Art. 60 al. RS 210 LCAP",
+        "content": "Les dispositions de droit civil (CC et CO s’appliquent à titre supplétif aux questions laissées ouvertes par la présente loi ou ses dispositions d’exécution en ce qui concerne la réglementation des rapports de droit entre la Confédération, les requérants et des tiers, tels que prêts, cautionnements et constitutions de gage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1975/498_498_498/fr#art_60"
+    }
+]

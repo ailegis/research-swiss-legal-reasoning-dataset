@@ -1,0 +1,912 @@
+[
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 1. Abschnitt: Anspruch auf Entschädigung, Erwerbstätige",
+        "citation": "Art. 1 Abs. 1 EOV",
+        "content": "Als Erwerbstätige gelten Personen, die in den letzten zwölf Monaten vor dem Einrücken während mindestens vier Wochen erwerbstätig waren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_1"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 1. Abschnitt: Anspruch auf Entschädigung, Erwerbstätige",
+        "citation": "Art. 1 Abs. 2 EOV",
+        "content": "Den Erwerbstätigen gleichgestellt sind:\na. Arbeitslose;\nb. Personen, die glaubhaft machen, dass sie eine Erwerbstätigkeit von längerer Dauer aufgenommen hätten, wenn sie nicht eingerückt wären;\nc. Personen, die unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen haben oder diese während des Dienstes beendet hätten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_1"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 1. Abschnitt: Anspruch auf Entschädigung, Nichterwerbstätige",
+        "citation": "Art. 2 EOV",
+        "content": "Personen, welche keine der Voraussetzungen nach Artikel 1 erfüllen, gelten als nicht erwerbstätig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_2"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 1. Abschnitt: Anspruch auf Entschädigung, Kaderbildung von Jugend und Sport (J+S)",
+        "citation": "Art. 3 EOV",
+        "content": "Das Bundesamt für Sport bestimmt die Kurse, die nach Artikel 1a Absatz 4 EOG Anspruch auf Entschädigung geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_3"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 4 Abs. 1 EOV",
+        "content": "Die Entschädigung für Arbeitnehmerinnen und Arbeitnehmer wird aufgrund des letzten vor dem Einrücken erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen eine Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:\na. Krankheit;\nb. Unfall;\nc. Arbeitslosigkeit;\nd. Dienst im Sinne von Artikel 1a EOG;\ne. Mutterschaftsurlaub im Sinne von Artikel 329f des Obligationenrechts (OR) oder Urlaub des andern Elternteils im Sinne von Artikel 329g oder 329gbis OR;\nf. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG;\ng. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;\nh. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 4 Abs. 2 EOV",
+        "content": "Für Personen, die glaubhaft machen, dass sie während des Dienstes eine unselbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten oder einen wesentlich höheren Lohn als vor dem Einrücken erzielt hätten, wird die Entschädigung auf Grund des Lohns berechnet, der ihnen entgangen ist. Haben sie unmittelbar vor dem Einrücken ihre Ausbildung abgeschlossen oder hätten sie diese während des Dienstes beendet, so wird die Entschädigung auf Grund des ortsüblichen Anfangslohns im betreffenden Beruf berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 4 Abs. 3 EOV",
+        "content": "Für mitarbeitende Familienmitglieder ohne Barlohn, die vor dem 1. Januar nach Vollendung ihres 20. Altersjahres Dienst leisten, wird die Entschädigung auf Grund des Globallohns nach Artikel 14 Absatz 3 der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung (AHVV) berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit regelmässigem Einkommen",
+        "citation": "Art. 5 Abs. 1 EOV",
+        "content": "Als Arbeitnehmerinnen und Arbeitnehmer mit regelmässigem Einkommen gelten Personen, die:\na. in einem unbefristeten oder mindestens für ein Jahr eingegangenen Arbeitsverhältnis stehen und deren Einkommen keinen starken Schwankungen ausgesetzt ist;\nb. ihre Arbeit infolge einer der Gründe nach Artikel 4 Absatz 1 unterbrochen haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit regelmässigem Einkommen",
+        "citation": "Art. 5 Abs. 2 EOV",
+        "content": "Das pro Tag erzielte vordienstliche Durchschnittseinkommen wird wie folgt ermittelt:\na. Für im Stundenlohn Beschäftigte wird der letzte vor dem Dienstantritt erzielte Stundenlohn mit den in der letzten normalen Arbeitswoche vor dem Einrücken geleisteten Arbeitsstunden vervielfacht und anschliessend durch sieben geteilt.\nb. Für im Monatslohn Beschäftigte wird der im letzten Kalendermonat vor dem Einrücken erzielte Monatslohn durch 30 geteilt.\nc. Für anders entlöhnte Personen wird der in den letzten vier Wochen vor dem Einrücken erzielte Monatslohn durch 28 geteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit regelmässigem Einkommen",
+        "citation": "Art. 5 Abs. 3 EOV",
+        "content": "Kann das vordienstliche Durchschnittseinkommen nicht nach Absatz 2 ermittelt werden, weil die Arbeitnehmerin oder der Arbeitnehmer die letzte Stelle erst kurz vor dem Einrücken angetreten hat, so wird vom vereinbarten Lohn ausgegangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit regelmässigem Einkommen",
+        "citation": "Art. 5 Abs. 4 EOV",
+        "content": "Lohnbestandteile, die zwar regelmässig, jedoch nur einmal im Jahr oder in mehrmonatigen Abständen ausbezahlt werden, werden auf den Tag umgerechnet und zu dem nach Absatz 2 ermittelten Erwerbseinkommen hinzugezählt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit unregelmässigem Einkommen",
+        "citation": "Art. 6 Abs. 1 EOV",
+        "content": "Für Personen, die kein regelmässiges Einkommen im Sinne von Artikel 5 haben, wird für die Ermittlung des vordienstlichen Durchschnittseinkommens auf das während der drei letzten Monate vor Dienstbeginn erzielte und auf den Tag umgerechnete Erwerbseinkommen abgestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_6"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Ermittlung des vordienstlichen Durchschnittseinkommens bei Arbeitnehmerinnen und Arbeitnehmern mit unregelmässigem Einkommen",
+        "citation": "Art. 6 Abs. 2 EOV",
+        "content": "Ist auf diese Weise die Ermittlung eines angemessenen Durchschnittseinkommens nicht möglich, so wird das Einkommen einer längeren Zeitspanne berücksichtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_6"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 7 Abs. 1 EOV",
+        "content": "Die Entschädigung für Selbstständigerwerbende wird aufgrund des auf den Tag umgerechneten Erwerbseinkommens berechnet, das für den letzten vor dem Einrücken verfügten AHV-Beitrag massgebend war. Für die Umrechnung werden Perioden nicht berücksichtigt, in denen eine Person kein oder nur ein vermindertes Erwerbseinkommen erzielt hat wegen:\na. Krankheit;\nb. Unfall;\nc. Dienst im Sinne von Artikel 1a EOG;\nd. Mutterschaftsurlaub im Sinne von Artikel 329f OR oder Urlaub des andern Elternteils im Sinne von Artikel 329gbis OR;\ne. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 7 Abs. 1bis EOV",
+        "content": "Wird für das Jahr der Dienstleistung später ein anderer AHV-Beitrag verfügt, so kann die Neuberechnung der Entschädigung verlangt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 7 Abs. 2 EOV",
+        "content": "Für Personen, die glaubhaft machen, dass sie während der Zeit des Dienstes eine selbstständige Erwerbstätigkeit von längerer Dauer aufgenommen hätten, wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie verdient hätten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 7 Abs. 3 EOV",
+        "content": "War eine selbstständig erwerbende Person nach dem Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung (AHVG) nicht beitragspflichtig, so wird die Entschädigung auf Grund des Erwerbseinkommens berechnet, das sie während des Jahres erzielt hat, das dem Einrücken vorangegangen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Personen, die gleichzeitig Arbeitnehmerinnen oder Arbeitnehmer und Selbstständigerwerbende sind",
+        "citation": "Art. 8 EOV",
+        "content": "Die Entschädigung wird auf Grund der Summe der Einkommen aus unselbstständiger und selbstständiger Tätigkeit berechnet, die nach den Artikeln 4–7 ermittelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_8"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Personen, die bis zum Einrücken ein Taggeld bezogen haben",
+        "citation": "Art. 9 EOV",
+        "content": "Für Personen, die bis zum Einrücken ein Taggeld der Invalidenversicherung oder der obligatorischen Unfallversicherung bezogen haben, entspricht die Gesamtentschädigung mindestens dem bisherigen Taggeld.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_9"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung während der Grundausbildung im Zivilschutz",
+        "citation": "Art. 10 EOV",
+        "content": "Für Personen, die mindestens 40 Tage Dienst im Sinne von Artikel 1a Absätze 1 und 2bis EOG geleistet haben, beträgt die tägliche Grundentschädigung während der Grundausbildung im Zivilschutz 80 Prozent des vordienstlichen Durchschnittseinkommens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_10"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 2. Abschnitt: Berechnung der Entschädigung, Dauer des Zivildienstes, der einer Rekrutenschule entspricht",
+        "citation": "Art. 11 EOV",
+        "content": "Der Dauer der Rekrutenschule entsprechen:\na. die ersten 124 anrechenbaren Diensttage im Zivildienst, sofern die zivildienstleistende Person keiner Truppengattung zugeteilt wurde;\nb. die der jeweiligen Truppengattung entsprechende Dauer der Rekrutenschule, wenn die Person vor ihrer Zulassung zum Zivildienst einer Truppengattung zugeteilt wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_11"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 3. Abschnitt: Zulage für Betreuungskosten, Zusätzliche Kosten für die Kinderbetreuung",
+        "citation": "Art. 12 EOV",
+        "content": "Als Kosten für die Kinderbetreuung werden insbesondere vergütet:\na. Auslagen für Mahlzeiten der Kinder ausser Hause;\nb. Reise- und Unterbringungskosten für Kinder, die von Dritten betreut werden;\nc. Löhne für Familien- oder Haushalthilfen;\nd. Entgelte für Kinderkrippen, Tages- oder Schulhorte;\ne. Reisekosten von Dritten, welche die Kinder im Haushalt der Dienst leistenden Person betreuen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_12"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 3. Abschnitt: Zulage für Betreuungskosten, Höhe der Zulage",
+        "citation": "Art. 13 Abs. 1 EOV",
+        "content": "Vergütet werden die tatsächlichen Kosten, höchstens aber 27 Prozent des Höchstbetrages der Gesamtentschädigung multipliziert mit der Anzahl der Diensttage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_13"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 3. Abschnitt: Zulage für Betreuungskosten, Höhe der Zulage",
+        "citation": "Art. 13 Abs. 2 EOV",
+        "content": "Auslagen unter 20 Franken werden nicht vergütet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_13"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 4. Abschnitt: Betriebszulage für mitarbeitende Familienmitglieder in einem Landwirtschaftsbetrieb",
+        "citation": "Art. 14 EOV",
+        "content": "Anspruch auf die Betriebszulage haben Personen, die als mitarbeitende Familienmitglieder hauptberuflich in einem Landwirtschaftsbetrieb tätig sind und die:\na. als landwirtschaftliche Arbeitnehmer oder Arbeitnehmerinnen im Sinne von Artikel 1a Absatz 2 Buchstaben a und b des Bundesgesetzes vom 20. Juni 1952 über die Familienzulagen in der Landwirtschaft (FLG) gelten oder Ehegattin oder Ehegatte des Betriebsleiters oder der Betriebsleiterin sind;\nb. ununterbrochen mindestens zwölf Tage Dienst leisten; und \nc. für die während mindestens zehn Tage eine Ersatzkraft im Betrieb tätig ist, deren Barlohn im Tagesdurchschnitt mindestens die Höhe der Betriebszulage erreicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_14"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Anmeldung",
+        "citation": "Art. 15 Abs. 1 EOV",
+        "content": "Der Anspruch auf eine Entschädigung ist auf einem offiziellen Anmeldeformular geltend zu machen, dem die erforderlichen Belege beizulegen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Anmeldung",
+        "citation": "Art. 15 Abs. 2 EOV",
+        "content": "Das Bundesamt für Sozialversicherungen gibt das Anmeldeformular und die besonderen Formulare folgenden Stellen ab:\na. den militärischen Stäben und Einheiten;\nb. den aufbietenden Stellen des Zivilschutzes;\nc. der Vollzugsstelle des Bundes für den Zivildienst sowie ihren Vollzugsbeauftragten;\nd. dem Bundesamt für Sport.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Anmeldung",
+        "citation": "Art. 15 Abs. 3 EOV",
+        "content": "Das Anmeldeformular ist am Ende des Dienstes abzugeben. Dauert der Dienst länger als 30 Tage, so ist das Anmeldeformular nach zehn Tagen und danach am Ende jedes Kalendermonats abzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Anmeldung",
+        "citation": "Art. 15 Abs. 4 EOV",
+        "content": "Sind eine Person oder ihre Angehörigen auf die Auszahlung der Entschädigung in kürzeren Abständen angewiesen, so sind die Anmeldeformulare während des ganzen Dienstes alle zehn Tage abzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Bescheinigung der Diensttage",
+        "citation": "Art. 16 Abs. 1 EOV",
+        "content": "Die Rechnungsführer der militärischen Stäbe und Einheiten und der aufbietenden Stellen des Zivilschutzes bescheinigen die Zahl der besoldeten Diensttage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Bescheinigung der Diensttage",
+        "citation": "Art. 16 Abs. 2 EOV",
+        "content": "Die Vollzugsstelle des Bundes für den Zivildienst und ihre Vollzugsbeauftragten bescheinigen die Zahl der anrechenbaren Diensttage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Bescheinigung der Diensttage",
+        "citation": "Art. 16 Abs. 3 EOV",
+        "content": "Der Organisator der eidgenössischen und kantonalen Kaderbildung von Jugend und Sport (J+S) und der Jungschützenleiterkurse bescheinigt die entschädigungsberechtigten Kurstage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Bescheinigung der Diensttage",
+        "citation": "Art. 16 Abs. 4 EOV",
+        "content": "Jeder entschädigungsberechtigte Diensttag darf nur einmal bescheinigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Bescheinigung der Diensttage",
+        "citation": "Art. 16 Abs. 5 EOV",
+        "content": "Wurde ein falsches Anmeldeformular abgegeben oder ist das Anmeldeformular verloren gegangen, so stellt die zuständige Ausgleichkasse ein Ersatzformular aus. Sie bescheinigt darauf anhand des Dienstbüchleins, des Ausweises über den Kursbesuch oder eines Auszugs aus dem Informationssystem des Zivildiensts die entschädigungsberechtigten Diensttage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Lohnbescheinigung durch den Arbeitgeber",
+        "citation": "Art. 17 EOV",
+        "content": "Wird eine Dienst leistende Person als Arbeitnehmer oder Arbeitnehmerin entschädigt, so hat der Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn, den Lohn während der Dienstleistung sowie die Dauer der Beschäftigung zu bescheinigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_17"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Geltendmachung des Entschädigungsanpruchs durch Dritte",
+        "citation": "Art. 18 Abs. 1 EOV",
+        "content": "Angehörige und Arbeitgeber der Dienst leistenden Person, die dazu nach Artikel 17 Absatz 1 EOG befugt sind, machen den Entschädigungsanspruch bei der zuständigen Ausgleichskasse geltend und holen, soweit nötig, die Bescheinigung über die anspruchsberechtigten Diensttage und die Lohnbescheinigung selbst ein. Die Artikel 15–17 gelten sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_18"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Geltendmachung des Entschädigungsanpruchs durch Dritte",
+        "citation": "Art. 18 Abs. 2 EOV",
+        "content": "Besteht Anspruch auf eine Betriebszulage für ein mitarbeitendes Familienmitglied nach Artikel 14, so gilt Artikel 17 Absatz 1 Buchstabe b EOG sinngemäss auch für den Betriebsinhaber oder die Betriebsinhaberin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_18"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Zuständige Ausgleichskasse",
+        "citation": "Art. 19 Abs. 1 EOV",
+        "content": "Zuständig für die Entgegennahme der Anmeldung, die Festsetzung und die Ausrichtung der Entschädigung ist:\na. für AHV-beitragspflichtige Personen: die Ausgleichskasse, die vor dem Einrücken für den Beitragsbezug zuständig war;\nb. für Personen mit Wohnsitz in der Schweiz, die der Beitragspflicht nicht unterstellt sind: die kantonale Ausgleichskasse ihres Wohnsitzkantons;\nc. für Personen mit Wohnsitz im Ausland, die nicht in der AHV obligatorisch versichert sind: die Schweizerische Ausgleichskasse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Zuständige Ausgleichskasse",
+        "citation": "Art. 19 Abs. 2 EOV",
+        "content": "Sind mehrere Ausgleichskassen zuständig, so wählt die entschädigungsberechtigte Person die Ausgleichskasse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 5. Abschnitt: Geltendmachung des Anspruchs, Zuständige Ausgleichskasse",
+        "citation": "Art. 19 Abs. 3 EOV",
+        "content": "Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Festsetzung der Entschädigung",
+        "citation": "Art. 20 Abs. 1 EOV",
+        "content": "Die Ausgleichskasse kann die Festsetzung der Grundentschädigung und der Kinderzulage an den Arbeitgeber delegieren, sofern die entschädigungsberechtigte Person nicht mehrere Arbeitgeber hat oder gleichzeitig eine unselbstständige und eine selbstständige Erwerbstätigkeit ausübt. Die Ausgleichskasse überprüft die Berechnung des Arbeitgebers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_20"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Festsetzung der Entschädigung",
+        "citation": "Art. 20 Abs. 2 EOV",
+        "content": "Auf Gesuch der entschädigungsberechtigten Person hat die Ausgleichskasse oder der Arbeitgeber, falls dieser die Entschädigung festgesetzt hat, Auskunft über die Berechnung der Entschädigung zu erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_20"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 21 Abs. 1 EOV",
+        "content": "Nach Eingang des Anmeldeformulars zahlt die Ausgleichskasse oder der Arbeitgeber unverzüglich den entsprechenden Betrag aus oder verrechnet ihn nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 21 Abs. 2 EOV",
+        "content": "Artikel 19 Absatz 2 ATSG ist auch anwendbar, wenn der Dienst ganz oder teilweise in die Freizeit der Arbeitnehmerin oder des Arbeitnehmers fällt oder der Arbeitgeber seinen Sitz im Ausland hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 21 Abs. 3 EOV",
+        "content": "Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt. Auf Gesuch kann bar ausbezahlt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 21 Abs. 4 EOV",
+        "content": "Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Entschädigung für Personen im Ausland",
+        "citation": "Art. 22 Abs. 1 EOV",
+        "content": "Die Entschädigung für Personen, die im Ausland wohnen, wird in Schweizer Franken festgesetzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_22"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 1. Kapitel: Entschädigung für Dienstleistende, 6. Abschnitt: Festsetzung und Auszahlung der Entschädigung, Entschädigung für Personen im Ausland",
+        "citation": "Art. 22 Abs. 2 EOV",
+        "content": "Die Auszahlung der Entschädigung erfolgt in der Währung des Wohnsitzstaates. Für die Umrechnung in die Fremdwährung gilt Artikel 20 Absatz 2 der Verordnung vom 26. Mai 1961 über die freiwillige Alters- Hinterlassenen- und Invalidenversicherung sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_22"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 1. Abschnitt: Beginn und Ende des Anspruchs auf Entschädigung, Beginn des Anspruchs",
+        "citation": "Art. 23 Abs. 1 EOV",
+        "content": "Der Anspruch auf Entschädigung entsteht, wenn das Kind lebensfähig geboren wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_23"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 1. Abschnitt: Beginn und Ende des Anspruchs auf Entschädigung, Beginn des Anspruchs",
+        "citation": "Art. 23 Abs. 2 EOV",
+        "content": "Der Anspruch der Mutter entsteht überdies, wenn die Schwangerschaft mindestens 23 Wochen gedauert hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_23"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 1. Abschnitt: Beginn und Ende des Anspruchs auf Entschädigung, Dauer der Ausrichtung der Mutterschaftsentschädigung bei längerem Spitalaufenthalt des Neugeborenen",
+        "citation": "Art. 24 EOV",
+        "content": "Der Nachweis, dass das Neugeborene unmittelbar nach der Geburt ununterbrochen während mindestens zwei Wochen im Spital verbleiben muss, ist durch ein Arztzeugnis zu erbringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_24"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 1. Abschnitt: Beginn und Ende des Anspruchs auf Entschädigung, Ende des Anspruchs der Mutter",
+        "citation": "Art. 25 EOV",
+        "content": "Der Anspruch der Mutter auf Entschädigung endet am Tag der Wiederaufnahme einer Erwerbstätigkeit, unabhängig vom Beschäftigungsgrad.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_25"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 2. Abschnitt: Mindestversicherungsdauer, Anrechnung ausländischer Versicherungszeiten",
+        "citation": "Art. 26 EOV",
+        "content": "Zur Bestimmung der Mindestversicherungsdauer nach Artikel 16b Absatz 1 Buchstabe a oder 16i Absatz 1 Buchstabe b EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Mutter oder der anspruchsberechtigte andere Elternteil obligatorisch in einem Staat versichert war:\na. für den das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnungen Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung gelten;\nb. der der Europäischen Freihandelszone angehört.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_26"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 2. Abschnitt: Mindestversicherungsdauer, Herabsetzung der Mindestversicherungsdauer bei vorzeitiger Geburt",
+        "citation": "Art. 27 EOV",
+        "content": "Bei vorzeitiger Geburt wird die in Artikel 16b Absatz 1 Buchstabe a oder Artikel 16i Absatz 1 Buchstabe b EOG festgelegte Versicherungsdauer herabgesetzt:\na. auf 8 Monate, wenn die Geburt zwischen dem 8. und 9. Schwangerschaftsmonat erfolgt;\nb. auf 7 Monate, wenn die Geburt zwischen dem 7. und 8. Schwangerschafts-monat erfolgt;\nc. auf 6 Monate, wenn die Geburt vor dem 7. Schwangerschaftsmonat erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_27"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Anrechnung ausländischer Erwerbszeiten",
+        "citation": "Art. 28 EOV",
+        "content": "Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16b Absatz 1 Buchstabe b oder 16i Absatz 1 Buchstabe c EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Mutter oder der anspruchsberechtigte Vater in einem Staat erwerbstätig war:\na. für den das Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit, sein Anhang II und die Verordnung Nr. 1408/71 und Nr. 574/72 in ihrer angepassten Fassung gelten;\nb. der der Europäischen Freihandelszone angehört.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_28"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Anrechnung von Dienstleistungszeiten",
+        "citation": "Art. 28a EOV",
+        "content": "Zur Bestimmung der Mindesterwerbsdauer nach Artikel 16b Absatz 1 Buchstabe b oder 16i Absatz 1 Buchstabe c EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Person Dienst im Sinne von Artikel 1a EOG leistete.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_28_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Arbeitslose Mutter und arbeitsloser anderer Elternteil",
+        "citation": "Art. 29 Abs. 1 EOV",
+        "content": "Eine Mutter, die im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16b Absatz 1 Buchstabe b EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn sie:\na. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder\nb. am Tag der Geburt die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz vom 25. Juni 1982 erforderliche Beitragsdauer erfüllt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Arbeitslose Mutter und arbeitsloser anderer Elternteil",
+        "citation": "Art. 29 Abs. 1bis EOV",
+        "content": "Eine Mutter nach Absatz 1 Buchstabe a hat Anspruch auf die länger dauernde Ausrichtung der Mutterschaftsentschädigung (Art. 16c Abs. 3 EOG), wenn sie:\na. die Taggelder der Arbeitslosenversicherung vor der Geburt nicht ausgeschöpft hat und die Rahmenfrist für den Leistungsbezug am Tag nach Ende des Mutterschaftsurlaubs noch offen ist; und \nb. ein Arztzeugnis nach Artikel 24 vorlegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Arbeitslose Mutter und arbeitsloser anderer Elternteil",
+        "citation": "Art. 29 Abs. 2 EOV",
+        "content": "Der andere Elternteil, der im Zeitpunkt der Geburt arbeitslos ist oder infolge Arbeitslosigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16i Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn er:\na. bis zur Geburt ein Taggeld der Arbeitslosenversicherung bezog; oder\nb. am Tag der Geburt Dienst im Sinne von Artikel 1a EOG leistet und an diesem Tag die für den Bezug eines Taggeldes nach dem Arbeitslosenversicherungsgesetz erforderliche Beitragsdauer erfüllt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Arbeitslose Mutter und arbeitsloser anderer Elternteil",
+        "citation": "Art. 29 Abs. 3 EOV",
+        "content": "Der andere Elternteil nach Absatz 2 Buchstabe a hat Anspruch auf zusätzliche Taggelder im Falle des Todes der Mutter (Art. 16kbis Abs. 2 EOG), wenn er:\na. die Taggelder der Arbeitslosenversicherung vor der Geburt nicht ausgeschöpft hat und die Rahmenfrist für den Leistungsbezug am Tag nach Ende des Urlaubs des andern Elternteils im Falle des Todes der Mutter noch offen ist; und\nb. ein ärztliches Zeugnis nach Artikel 24 vorlegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 3. Abschnitt: Mindesterwerbsdauer, Arbeitsunfähige Mutter und arbeitsunfähiger anderer Elternteil",
+        "citation": "Art. 30 EOV",
+        "content": "Die Mutter oder der andere Elternteil, die oder der im Zeitpunkt der Geburt arbeitsunfähig ist oder infolge Arbeitsunfähigkeit die erforderliche Mindesterwerbsdauer nach Artikel 16b Absatz 1 Buchstabe b oder 16i Absatz 1 Buchstabe c EOG nicht erfüllt, hat Anspruch auf die Entschädigung, wenn sie oder er:\na. bis zur Geburt eine Entschädigung einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall oder Taggelder der Invalidenversicherung bezogen hat; oder\nb. im Zeitpunkt der Geburt noch in einem gültigen Arbeitsverhältnis steht, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_30"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 4. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 31 Abs. 1 EOV",
+        "content": "Die Entschädigung wird aufgrund des letzten vor der Geburt erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die Mutter oder der andere Elternteil kein oder nur ein vermindertes Einkommen erzielt hat wegen:\na. Krankheit;\nb. Unfall;\nc. Arbeitslosigkeit;\nd. Dienst im Sinne von Artikel 1a EOG;\ne. Mutterschaftsurlaub im Sinne von Artikel 329f OR oder Urlaub des andern Elternteils im Sinne von Artikel 329g oder 329gbis OR;\nf. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG;\ng. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;\nh. anderer Gründe, die nicht auf ihr oder sein Verschulden zurückzuführen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 4. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 31 Abs. 2 EOV",
+        "content": "Die Entschädigungen für die Mutter und den andern Elternteil werden gesondert berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 4. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 31 Abs. 3 EOV",
+        "content": "Die Artikel 5 und 6 sind sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 4. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 32 EOV",
+        "content": "Für die selbstständig erwerbende Mutter und den selbstständig erwerbenden andern Elternteil ist Artikel 7 Absätze 1 und 1bis sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_32"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 4. Abschnitt: Berechnung der Entschädigung, Entschädigung für die Mutter und den andern Elternteil, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind",
+        "citation": "Art. 33 EOV",
+        "content": "Die Entschädigung der Mutter und des andern Elternteils, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird aufgrund der Summe der Einkommen aus unselbstständiger und selbstständiger Erwerbstätigkeit berechnet, die nach den Artikeln 7 Absätze 1 und 1bis sowie 31 ermittelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_33"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Zuständige Ausgleichskasse",
+        "citation": "Art. 34 Abs. 1 EOV",
+        "content": "Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Ausrichtung der Entschädigung ist:\na. für die AHV-beitragspflichtige Mutter: die Ausgleichkasse, die am Zeitpunkt der Geburt für den Beitragsbezug zuständig war;\nb. für den AHV-beitragspflichtigen andern Elternteil: die Ausgleichskasse, die am letzten Tag des Urlaubs, den der andere Elternteil bezogen hat, für den Beitragsbezug zuständig war;\nc. für die Mutter und den andern Elternteil mit Wohnsitz im Ausland, die nicht mehr in der AHV obligatorisch versichert sind: die Schweizerische Ausgleichskasse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Zuständige Ausgleichskasse",
+        "citation": "Art. 34 Abs. 2 EOV",
+        "content": "Artikel 19 Absätze 2 und 3 ist anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 34a Abs. 1 EOV",
+        "content": "Für die Mutter und den andern Elternteil, die im Zeitpunkt der Geburt Arbeitnehmende sind, bescheinigt der Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn, den während des Entschädigungsanspruchs ausbezahlten Lohn sowie die Dauer der Beschäftigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 34a Abs. 2 EOV",
+        "content": "Für die Mutter und den andern Elternteil, die im Zeitpunkt der Geburt arbeitslos oder arbeitsunfähig sind, bescheinigt der letzte Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn sowie die Dauer der Beschäftigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 34a Abs. 3 EOV",
+        "content": "Der Arbeitgeber, bei dem der andere Elternteil während seines Urlaubs angestellt ist, oder die Arbeitslosenkasse des andern Elternteils bescheinigt den Bezug der Urlaubstage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 34a Abs. 4 EOV",
+        "content": "Die zuständige Stelle stellt der Mutter, die als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, eine Bescheinigung aus, dass für die Sitzungen keine Vertretung vorgesehen ist. Die Mutter reicht diese Bescheinigung der Ausgleichkasse ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Festsetzung und Auszahlung der Entschädigung",
+        "citation": "Art. 35 Abs. 1 EOV",
+        "content": "Für die Festsetzung der Entschädigung sind die Artikel 20 und 22 sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Festsetzung und Auszahlung der Entschädigung",
+        "citation": "Art. 35 Abs. 2 EOV",
+        "content": "Die Mutterschaftsentschädigung wird monatlich nachschüssig ausbezahlt. Beträgt sie monatlich weniger als 200 Franken, so wird sie nach Beendigung des Anspruchs ausbezahlt. Dasselbe gilt für die zusätzliche Entschädigung für den andern Elternteil im Falle des Todes der Mutter nach Artikel 16kbis EOG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Festsetzung und Auszahlung der Entschädigung",
+        "citation": "Art. 35 Abs. 3 EOV",
+        "content": "Die Entschädigung für den andern Elternteil wird nach dem Ende des Anspruchs nach Artikel 16j Absatz 3 EOG einmalig nachschüssig ausbezahlt. Dasselbe gilt für die zusätzliche Mutterschaftsentschädigung im Falle des Todes des andern Elternteils nach Artikel 16cbis EOG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Festsetzung und Auszahlung der Entschädigung",
+        "citation": "Art. 35 Abs. 4 EOV",
+        "content": "Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2. Kapitel: Entschädigung bei Mutterschaft und Entschädigung des andern Elternteils, 5. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Festsetzung und Auszahlung der Entschädigung",
+        "citation": "Art. 35 Abs. 5 EOV",
+        "content": "Für die Auszahlung der Entschädigung gilt Artikel 21 Absätze 3 und 4 sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil, Pflegeeltern",
+        "citation": "Art. 35a Abs. 1 EOV",
+        "content": "Die Anspruchsberechtigung von Pflegeeltern, die das Kind zu dauernder Pflege und Erziehung aufgenommen haben, richtet sich nach Artikel 16n Absätze 1 und 2 EOG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil, Pflegeeltern",
+        "citation": "Art. 35a Abs. 2 EOV",
+        "content": "Der Anspruch der Pflegeeltern erlischt, wenn das Kind zu einem Elternteil zurückkehrt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_a"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil, Stiefeltern",
+        "citation": "Art. 35b EOV",
+        "content": "Eine Stiefmutter oder ein Stiefvater ist nach Artikel 16n Absätze 1 und 2 EOG anspruchsberechtigt, wenn:\na. sie oder er mit dem Elternteil, unter dessen elterlicher Sorge und Obhut sich das Kind befindet, einen gemeinsamen Haushalt führt und ihm bei der Pflege und Erziehung des Kindes in angemessener Weise beisteht; und\nb. ein Elternteil vollständig auf seinen Anspruch verzichtet, sofern das Kindesverhältnis zu beiden Elternteilen besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_b"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil, Arbeitslose Mutter oder arbeitsloser anderer Elternteil",
+        "citation": "Art. 35c EOV",
+        "content": "Die Anspruchsberechtigung der arbeitslosen Mutter oder des arbeitslosen andern Elternteils richtet sich nach Artikel 16n Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und sie oder er bis zum Beginn des Anspruchs ein Taggeld der Arbeitslosenversicherung bezogen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_c"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 1. Abschnitt: Anspruch von Pflegeeltern, Stiefeltern sowie von der arbeitslosen oder arbeitsunfähigen Mutter oder dem arbeitslosen oder arbeitsunfähigen andern Elternteil, Arbeitsunfähige Mutter oder arbeitsunfähiger anderer Elternteil",
+        "citation": "Art. 35d EOV",
+        "content": "Die Anspruchsberechtigung der arbeitsunfähigen Mutter oder des arbeitsunfähigen andern Elternteils richtet sich nach Artikel 16n Absätze 1 und 2 EOG, wenn die Betreuung des Kindes ihre oder seine Anwesenheit erfordert und:\na. sie oder er bis zum Beginn des Anspruchs Taggelder der Invalidenversicherung oder von einer Sozial- oder Privatversicherung eine Entschädigung für Erwerbsausfall bei Krankheit oder Unfall bezogen hat; oder\nb. bei Beginn des Anspruchs noch ein gültiges Arbeitsverhältnis besteht, der Anspruch auf Lohnfortzahlung jedoch vor diesem Zeitpunkt schon erschöpft war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_d"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Aufteilung unter den Eltern",
+        "citation": "Art. 35e EOV",
+        "content": "Wird der Betreuungsurlaub unter den Eltern aufgeteilt, so werden die Entschädigungen für jeden Elternteil gesondert berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_e"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 35f Abs. 1 EOV",
+        "content": "Die Entschädigung wird aufgrund des letzten vor dem Bezug der jeweiligen Urlaubstage erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:\na. Krankheit;\nb. Unfall;\nc. Arbeitslosigkeit;\nd. Dienst im Sinne von Artikel 1a EOG;\ne. Mutterschaftsurlaub im Sinne von Artikel 329f OR oder Urlaub des andern Elternteils im Sinne von Artikel 329g oder 329gbis OR;\nf. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG;\ng. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;\nh. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 35f Abs. 2 EOV",
+        "content": "Das Taggeld wird neu berechnet, wenn sich das massgebende Einkommen während des Bezugs der Urlaubstage verändert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 35f Abs. 3 EOV",
+        "content": "Die Artikel 5 und 6 sind sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 35g EOV",
+        "content": "Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 1bis sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_g"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitneh-mende und Selbstständigerwerbende sind",
+        "citation": "Art. 35h EOV",
+        "content": "Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35f ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1bis ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_h"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Zuständige Ausgleichskasse",
+        "citation": "Art. 35i Abs. 1 EOV",
+        "content": "Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und Ausrichtung der Entschädigung ist die Ausgleichskasse, die bei Beginn des Entschädigungsanspruchs für den Beitragsbezug zuständig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Zuständige Ausgleichskasse",
+        "citation": "Art. 35i Abs. 2 EOV",
+        "content": "Wird der Betreuungsurlaub unter den Eltern aufgeteilt, so bleibt die bei Beginn des Entschädigungsanspruchs zuständige Ausgleichskasse während der gesamten Rahmenfrist für beide Elternteile zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Zuständige Ausgleichskasse",
+        "citation": "Art. 35i Abs. 3 EOV",
+        "content": "Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 35j Abs. 1 EOV",
+        "content": "Für Anspruchsberechtigte, die bei Beginn des Entschädigungsanspruchs unselbstständig erwerbstätig sind, bescheinigt der Arbeitgeber den für die Berechnung der Entschädigung massgebenden Lohn, den während des Entschädigungsanspruchs ausbezahlten Lohn sowie die Dauer der Beschäftigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 35j Abs. 2 EOV",
+        "content": "Für Anspruchsberechtigte nach Artikel 35c oder 35d, die vor der Arbeitslosigkeit oder Arbeitsunfähigkeit eine Erwerbstätigkeit ausgeübt haben, bescheinigt der letzte Arbeitgeber den für die Berechnung der Entschädigung massgebenden Lohn sowie die Dauer der Beschäftigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Bescheinigungen",
+        "citation": "Art. 35j Abs. 3 EOV",
+        "content": "Der Arbeitgeber oder die Durchführungsorgane der Arbeitslosenversicherung bescheinigen am Ende jeden Monats die Tage, für die Betreuungsurlaub bezogen wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 35k Abs. 1 EOV",
+        "content": "Die Entschädigung wird monatlich nachschüssig ausgerichtet. Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 35k Abs. 2 EOV",
+        "content": "Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 35k Abs. 3 EOV",
+        "content": "Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2a. Kapitel:, Entschädigung für die Betreuung eines wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigten Kindes, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung, Auszahlung der Entschädigung",
+        "citation": "Art. 35k Abs. 4 EOV",
+        "content": "Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 1. Abschnitt: Mindestversicherungsdauer und Mindesterwerbsdauer Anrechnung ausländischer Versicherungs- und Erwerbszeiten",
+        "citation": "Art. 35l EOV",
+        "content": "Für die Bestimmung der Mindestversicherungs- und der Mindesterwerbsdauer nach Artikel 16t Absatz 1 Buchstabe b EOG gelten die Artikel 26 und 28 sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_l"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 1. Abschnitt: Mindestversicherungsdauer und Mindesterwerbsdauer Anrechnung von Zeiten mit Taggeldbezug",
+        "citation": "Art. 35m EOV",
+        "content": "Für die Bestimmung der Mindesterwerbsdauer nach Artikel 16t Absatz 1 Buchstabe b EOG werden auch Zeiten berücksichtigt, während derer die anspruchsberechtigte Person: \na. Dienst im Sinne von Artikel 1a EOG leistete; oder\nb. Taggelder der Arbeitslosenversicherung, der Invalidenversicherung oder einer Sozial- oder Privatversicherung für Erwerbsausfall bei Krankheit oder Unfall bezog.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_m"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 35n Abs. 1 EOV",
+        "content": "Die Entschädigung wird aufgrund des letzten vor dem Tag der Aufnahme des Kindes zur Adoption erzielten und auf den Tag umgerechneten massgebenden Lohns berechnet. Für die Umrechnung werden Tage nicht berücksichtigt, an denen die anspruchsberechtigte Person kein oder nur ein vermindertes Einkommen erzielt hat wegen:\na. Krankheit;\nb. Unfall;\nc. Arbeitslosigkeit;\nd. Dienst im Sinne von Artikel 1a EOG;\ne. Mutterschaftsurlaub im Sinne von Artikel 329f OR oder Urlaub des andern Elternteils im Sinne von Artikel 329g oder 329gbis OR;\nf. Betreuung eines gesundheitlich schwer beeinträchtigten Kindes im Sinne von Artikel 16o EOG; \ng. Aufnahme eines weniger als vier Jahre alten Kindes zur Adoption;\nh. anderer Gründe, die nicht auf ihr Verschulden zurückzuführen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_n"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 35n Abs. 2 EOV",
+        "content": "Die Artikel 5 und 6 sind sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_n"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Selbstständigerwerbende",
+        "citation": "Art. 35o EOV",
+        "content": "Für selbstständigerwerbende Anspruchsberechtigte ist Artikel 7 Absätze 1 und 1bis sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_o"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 2. Abschnitt: Berechnung der Entschädigung, Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind",
+        "citation": "Art. 35p EOV",
+        "content": "Die Entschädigung für Anspruchsberechtigte, die gleichzeitig Arbeitnehmende und Selbstständigerwerbende sind, wird berechnet, indem das nach Artikel 35n ermittelte Einkommen aus unselbstständiger Erwerbstätigkeit und das nach Artikel 7 Absätze 1 und 1bis ermittelte Einkommen aus selbstständiger Erwerbstätigkeit zusammengezählt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_p"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Zuständige Ausgleichskasse",
+        "citation": "Art. 35q Abs. 1 EOV",
+        "content": "Zuständig für die Entgegennahme der Anmeldung sowie die Festsetzung und die Auszahlung der Entschädigung ist die Eidgenössische Ausgleichskasse (EAK).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_q"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Zuständige Ausgleichskasse",
+        "citation": "Art. 35q Abs. 2 EOV",
+        "content": "Die Anmeldung von Arbeitnehmerinnen und Arbeitnehmern ist über deren Arbeitgeber einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_q"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Bescheinigungen",
+        "citation": "Art. 35r Abs. 1 EOV",
+        "content": "Für Anspruchsberechtigte, die bei Beginn des Entschädigungsanspruchs unselbstständig erwerbstätig sind, bescheinigt der Arbeitgeber auf dem Anmeldeformular den für die Berechnung der Entschädigung massgebenden Lohn, den während des Entschädigungsanspruchs ausbezahlten Lohn sowie die Dauer der Beschäftigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Bescheinigungen",
+        "citation": "Art. 35r Abs. 2 EOV",
+        "content": "Der Arbeitgeber, bei dem die anspruchsberechtigte Person während des Adoptionsurlaubs angestellt ist, bescheinigt den Bezug der Urlaubstage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Bescheinigungen",
+        "citation": "Art. 35r Abs. 3 EOV",
+        "content": "Selbstständigerwerbende reichen der EAK die Steuerveranlagung nach, sobald sie diese erhalten haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Auszahlung der Entschädigung",
+        "citation": "Art. 35s Abs. 1 EOV",
+        "content": "Die Entschädigung wird nach dem Ende des Anspruchs nach Artikel 16u Absatz 3 EOG einmalig nachschüssig ausbezahlt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Auszahlung der Entschädigung",
+        "citation": "Art. 35s Abs. 2 EOV",
+        "content": "Vorbehalten bleibt die Verrechnung nach Artikel 19 Absatz 2 ATSG oder Artikel 20 Absatz 2 AHVG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Auszahlung der Entschädigung",
+        "citation": "Art. 35s Abs. 3 EOV",
+        "content": "Die Entschädigungen werden auf ein Bank- oder Postkonto ausbezahlt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Auszahlung der Entschädigung",
+        "citation": "Art. 35s Abs. 4 EOV",
+        "content": "Als Zahlungsnachweise gelten die kasseninternen Belege, Verrechnungsausweise der Postfinance oder Belastungsanzeigen der Bank.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 2b. Kapitel:, Adoptionsentschädigung, 3. Abschnitt: Geltendmachung des Anspruchs, Festsetzung und Auszahlung der Entschädigung Auszahlung der Entschädigung",
+        "citation": "Art. 35s Abs. 5 EOV",
+        "content": "Für die Festsetzung und die Auszahlung der Entschädigung von Personen, die im Ausland wohnen, ist Artikel 22 sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragssatz",
+        "citation": "Art. 36 Abs. 1 EOV",
+        "content": "Der Beitrag vom Erwerbseinkommen beträgt 0,5 Prozent. Im Bereich der sinkenden Skala nach Artikel 21 AHVV werden die Beiträge wie folgt berechnet:Jährliches Erwerbseinkommen in FrankenBeitragssatz in Prozent des Erwerbseinkommensvon mindestensaber weniger als  9 80017 5000,26917 50021 3000,27521 30023 8000,28123 80026 3000,28726 30028 8000,29328 80031 3000,29931 30033 8000,31233 80036 3000,32436 30038 8000,33638 80041 3000,34941 30043 8000,36143 80046 3000,37346 30048 8000,39248 80051 3000,41051 30053 8000,42953 80056 3000,44856 30058 8000,466.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_36"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragssatz",
+        "citation": "Art. 36 Abs. 2 EOV",
+        "content": "Nichterwerbstätige entrichten einen Beitrag von 24–1200 Franken im Jahr. Die Artikel 28–30 AHVV gelten sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_36"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 1 EOV",
+        "content": "Zahlt der Arbeitgeber der entschädigungsberechtigten Person die Entschädigung aus oder verrechnet er sie mit dem Lohn, so hat er darüber wie für einen Bestandteil des massgebenden Lohnes im Sinne der AHV mit seiner Ausgleichskasse abzurechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 2 EOV",
+        "content": "Die Ausgleichskasse vergütet dem Arbeitgeber zusammen mit der Entschädigung die darauf entfallenden Arbeitgeberbeiträge für die AHV, die Invalidenversicherung, den Erwerbsersatz und die Arbeitslosenversicherung oder schreibt ihm diese Beiträge gut.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 3 EOV",
+        "content": "Sie vergütet dem Arbeitgeber zusammen mit der Entschädigung den darauf entfallenden Arbeitgeberbeitrag für landwirtschaftliche Arbeitnehmer nach Artikel 18 Absatz 1 FLG oder schreibt ihm diesen Beitrag gut. Sie belastet den entsprechenden Betrag dem Konto der Beitragseinnahmen gemäss FLG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 4 EOV",
+        "content": "Von den Entschädigungen, welche die Ausgleichskasse Arbeitnehmerinnen und Arbeitnehmern direkt oder einem nicht beitragspflichtigen Arbeitgeber auszahlt, zieht sie die Arbeitnehmerbeiträge für die AHV, die Invalidenversicherung, den Erwerbsersatz und die Arbeitslosenversicherung ab. Sie trägt die beitragspflichtige Entschädigung im individuellen Konto der versicherten Person als Erwerbseinkommen ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 5 EOV",
+        "content": "Von der Zulage für Betreuungskosten werden keine Arbeitnehmerbeiträge abgezogen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Arbeitnehmerinnen und Arbeitnehmer",
+        "citation": "Art. 37 Abs. 6 EOV",
+        "content": "Artikel 6quater AHVV betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG und Artikel 34d AHVV betreffend den geringfügigen Lohn sind nicht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Selbstständigerwerbende und Nichterwerbstätige",
+        "citation": "Art. 38 Abs. 1 EOV",
+        "content": "Von den Entschädigungen zieht die Ausgleichskasse die Beiträge für die AHV, die Invalidenversicherung und den Erwerbsersatz zum gleichen Ansatz wie für Arbeitnehmerinnen und Arbeitnehmer ab. Sie trägt die beitragspflichtige Entschädigung im individuellen Konto der versicherten Person als Erwerbseinkommen ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Selbstständigerwerbende und Nichterwerbstätige",
+        "citation": "Art. 38 Abs. 2 EOV",
+        "content": "Von der Zulage für Betreuungskosten werden keine Beiträge abgezogen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Beitragsabrechnung für Selbstständigerwerbende und Nichterwerbstätige",
+        "citation": "Art. 38 Abs. 3 EOV",
+        "content": "Artikel 6quater AHVV betreffend die Beiträge der erwerbstätigen Versicherten nach Erreichen des Referenzalters nach Artikel 21 Absatz 1 AHVG und Artikel 19 AHVV betreffend den geringfügigen Nebenerwerb aus selbstständiger Erwerbstätigkeit sind nicht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Abrechnung",
+        "citation": "Art. 39 EOV",
+        "content": "Der Arbeitgeber hat über die von ihm ausbezahlten Entschädigungen mit der Ausgleichskasse abzurechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_39"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Uneinbringliche Rückerstattungen",
+        "citation": "Art. 40 EOV",
+        "content": "Für uneinbringliche Rückerstattungen ist Artikel 79bis AHVV anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_40"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Deckung der Verwaltungskosten",
+        "citation": "Art. 41 Abs. 1 EOV",
+        "content": "Für die Verwaltungskostenbeiträge der Arbeitgeber, Selbstständigerwerbenden und Nichterwerbstätigen gelten die gleichen Ansätze wie in der Alters- und Hinterlassenenversicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_41"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Deckung der Verwaltungskosten",
+        "citation": "Art. 41 Abs. 2 EOV",
+        "content": "Allfällige Zuschüsse aus dem Ausgleichsfonds des Erwerbsersatzesan die Verwaltungskosten der Ausgleichskassen werden durch das Eidgenössische Departement des Innern festgesetzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_41"
+    },
+    {
+        "book": "EOV",
+        "title": "EOV, 3. Kapitel: Gemeinsame Bestimmungen, Anwendbare Bestimmungen",
+        "citation": "Art. 42 EOV",
+        "content": "Soweit im EOG und in dieser Verordnung nichts Abweichendes bestimmt wird, gelten die Vorschriften des Vierten und des Sechsten Abschnitts sowie die Artikel 34–43 und 205–212bis AHVV sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/de#art_42"
+    }
+]

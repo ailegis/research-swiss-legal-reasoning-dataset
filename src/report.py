@@ -59,17 +59,36 @@ def removeDot(v):
         return v.replace(".", "")
     return v
 
+
+def makeNAIfNoGrading(v):
+    if isinstance(v, str):
+        # Remove periods and trim whitespace
+        v = v.replace(".", "").strip()
+        # Check if the string is "GRADING" or "NO GRADING" (case-sensitive)
+        if v not in ["GRADING", "NO GRADING"]:
+            return "NA"
+    return v
+
+
 def preprocess_data(df):
     if 'Date' in df.columns:
         df['Year'] = pd.to_datetime(df['Date'], errors='coerce', dayfirst=True).dt.year
         df = df.dropna(subset=['Year']).astype({'Year': int})
     df['Facts_Category'] = df['Facts'].apply(lambda x: 'With Facts' if len(str(x)) > 2 else 'No Facts')
-    df['Use_Cit_Question'] = df['QuestionCitations'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
-    df['Use_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
-    df['Use_Cit_Facts'] = df['FactCitation'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
-    df['Number_Cit_Answer'] = df['AnswerCitation'].apply(lambda x: len(parseToListFunc(x)))
-    df['CounterfactualAnswer'] = df['CounterfactualAnswer'].apply(lambda x: removeDot(x))
+    
+    for field in ["Answer", "Facts", "Question"]:
+        df['Use_Cit_Court_'+field] = df[field+'CourtDecisionsCitations'].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
+        df['Use_Cit_Art_'+field] = df[ field + "ArticleCitations"].apply(lambda x: 'Cit.' if (len(parseToListFunc(x)) > 0) else 'No Cit.')
+        df['Number_Cit_Court_'+field] = df[field+'CourtDecisionsCitations'].apply(lambda x: len(parseToListFunc(x)))
+        df['Number_Cit_Art_'+field] = df[ field + "ArticleCitations"].apply(lambda x: len(parseToListFunc(x)))
+
+        df['ExplicitGrading_'+field] = df[field + 'ExplicitGrading'].apply(lambda x: makeNAIfNoGrading(x))
+
+    
+    df['CounterFactualAnswer'] = df['CounterfactualAnswer'].apply(lambda x: removeDot(x))
     df['SplitCorrectness'] = df['SplitCorrectness'].apply(lambda x: removeDot(x))
+
+
     return df
 
 
@@ -151,9 +170,10 @@ def generate_visual_report(df: pd.DataFrame, save_path='results'):
             course_colors[course] = light_gray
 
     # Initialize the figure and grid with two rows and three columns
-    fig = plt.figure(figsize=(18, 24))
+    rows = 6
+    fig = plt.figure(figsize=(18, 6*rows))
     fig.suptitle('Distribution of Questions Across Different Categories')
-    gs = GridSpec(4, 3, figure=fig)
+    gs = GridSpec(rows, 3, figure=fig)
 
     # Define subplots and pass the ax to each plot function
     ax1 = fig.add_subplot(gs[0, 0])
@@ -181,25 +201,26 @@ def generate_visual_report(df: pd.DataFrame, save_path='results'):
     ax6 = fig.add_subplot(gs[1, 2])
     plot_double_pie(ax6, df, outer_col="Course", inner_col='QuestionType', title='Types of question format', course_colors=course_colors)
 
-    ax7 = fig.add_subplot(gs[2, 0])
-    plot_double_pie(ax7, df, outer_col="Course", inner_col='Use_Cit_Question', title='Questions with citations', course_colors=course_colors)
+    for idx, field in enumerate(["Answer", "Facts", "Question"]):
+        ax_court = fig.add_subplot(gs[2, idx])
+        plot_double_pie(ax_court, df, outer_col="Course", inner_col='Use_Cit_Court_'+field, title=field+' with Court Decision', course_colors=course_colors)
 
-    ax8 = fig.add_subplot(gs[2, 1])
-    plot_double_pie(ax8, df, outer_col="Course", inner_col='Use_Cit_Answer', title='Answers with citations', course_colors=course_colors)
+    for idx, field in enumerate(["Answer", "Facts", "Question"]):
+        ax_art = fig.add_subplot(gs[3, idx])
+        plot_double_pie(ax_art, df, outer_col="Course", inner_col='Use_Cit_Art_'+field, title=field+' with Article', course_colors=course_colors)
 
-    ax9 = fig.add_subplot(gs[2, 2])
-    plot_double_pie(ax9, df, outer_col="Course", inner_col='Use_Cit_Facts', title='Facts with citations', course_colors=course_colors)
+    for idx, field in enumerate(["Answer", "Facts", "Question"]):
+        ax_grading = fig.add_subplot(gs[4, idx])
+        plot_double_pie(ax_grading, df, outer_col="Course", inner_col='ExplicitGrading_'+field, title=field+' grading', course_colors=course_colors)
 
-    ax10 = fig.add_subplot(gs[3, 0])
+    ax10 = fig.add_subplot(gs[5, 0])
     plot_double_pie(ax10, df, outer_col="Course", inner_col='SplitCorrectness', title='Split F Q A Correctness', course_colors=course_colors)
 
-    ax11 = fig.add_subplot(gs[3, 1])
-    plot_double_pie(ax11, df, outer_col="Course", inner_col='CounterfactualAnswer', title='Counter-factual Answer', course_colors=course_colors)
+    ax11 = fig.add_subplot(gs[5, 1])
+    plot_double_pie(ax11, df, outer_col="Course", inner_col='CounterFactualAnswer', title='Counter-factual Answer', course_colors=course_colors)
 
-    ax12 = fig.add_subplot(gs[3, 2])
-    plot_double_pie(ax12, df[df["Number_Cit_Answer"] > 0], outer_col="Course", inner_col='Number_Cit_Answer', title='Number of unique citations in answer', course_colors=course_colors)
-
-
+    #ax12 = fig.add_subplot(gs[5, 2])
+    #plot_double_pie(ax12, df[df["Number_Cit_Answer"] > 0], outer_col="Course", inner_col='Number_Cit_Answer', title='Number of unique citations in answer', course_colors=course_colors)
 
     # Adjust layout and save the figures
     fig.savefig(save_path+"/multichart.pdf", format='pdf')

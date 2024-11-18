@@ -1,0 +1,2277 @@
+[
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Zweck",
+        "citation": "Art. 1 Abs. 1 USG",
+        "content": "Dieses Gesetz soll Menschen, Tiere und Pflanzen, ihre Lebensgemeinschaften und Lebensräume gegen schädliche oder lästige Einwirkungen schützen sowie die natürlichen Lebensgrundlagen, insbesondere die biologische Vielfalt und die Fruchtbarkeit des Bodens, dauerhaft erhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_1"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Zweck",
+        "citation": "Art. 1 Abs. 2 USG",
+        "content": "Im Sinne der Vorsorge sind Einwirkungen, die schädlich oder lästig werden könnten, frühzeitig zu begrenzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_1"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Verursacherprinzip",
+        "citation": "Art. 2 USG",
+        "content": "Wer Massnahmen nach diesem Gesetz verursacht, trägt die Kosten dafür.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_2"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Vorbehalt anderer Gesetze",
+        "citation": "Art. 3 Abs. 1 USG",
+        "content": "Strengere Vorschriften in anderen Gesetzen des Bundes bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_3"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Vorbehalt anderer Gesetze",
+        "citation": "Art. 3 Abs. 2 USG",
+        "content": "Für radioaktive Stoffe und ionisierende Strahlen gelten die Strahlenschutz- und die Atomgesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_3"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Ausführungsvorschriften aufgrund anderer Bundesgesetze",
+        "citation": "Art. 4 Abs. 1 USG",
+        "content": "Vorschriften über Umwelteinwirkungen durch Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, die sich auf andere Bundesgesetze stützen, müssen dem Grundsatz für Emissionsbegrenzungen (Art. 11), den Immissionsgrenzwerten (Art. 13–15), den Alarmwerten (Art. 19) und den Planungswerten (Art. 23–25) entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_4"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Ausführungsvorschriften aufgrund anderer Bundesgesetze",
+        "citation": "Art. 4 Abs. 2 USG",
+        "content": "Vorschriften über den Umgang mit Stoffen und Organismen, die sich auf andere Bundesgesetze stützen, müssen den Grundsätzen über den Umgang mit Stoffen (Art. 26–28) und Organismen (Art. 29a–29h) entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_4"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 1. Kapitel: Grundsätze, Ausnahmen für die Gesamtverteidigung",
+        "citation": "Art. 5 USG",
+        "content": "Soweit die Gesamtverteidigung es erfordert, regelt der Bundesrat durch Verordnung die Ausnahmen von Bestimmungen dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_5"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 1 USG",
+        "content": "Einwirkungen sind Luftverunreinigungen, Lärm, Erschütterungen, Strahlen, Gewässerverunreinigungen oder andere Eingriffe in Gewässer, Bodenbelastungen, Veränderungen des Erbmaterials von Organismen oder der biologischen Vielfalt, die durch den Bau und Betrieb von Anlagen, durch den Umgang mit Stoffen, Organismen oder Abfällen oder durch die Bewirtschaftung des Bodens erzeugt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 2 USG",
+        "content": "Luftverunreinigungen, Lärm, Erschütterungen und Strahlen werden beim Austritt aus Anlagen als Emissionen, am Ort ihres Einwirkens als Immissionen bezeichnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 3 USG",
+        "content": "Luftverunreinigungen sind Veränderungen des natürlichen Zustandes der Luft, namentlich durch Rauch, Russ, Staub, Gase, Aerosole, Dämpfe, Geruch oder Abwärme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 4 USG",
+        "content": "Dem Lärm sind Infra- und Ultraschall gleichgestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 4bis USG",
+        "content": "Bodenbelastungen sind physikalische, chemische und biologische Veränderungen der natürlichen Beschaffenheit des Bodens. Als Boden gilt nur die oberste, unversiegelte Erdschicht, in der Pflanzen wachsen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 5 USG",
+        "content": "Stoffe sind natürliche oder durch ein Produktionsverfahren hergestellte chemische Elemente und deren Verbindungen. Ihnen gleichgestellt sind Zubereitungen (Gemenge, Gemische, Lösungen) und Gegenstände, die solche Stoffe enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 5bis USG",
+        "content": "Organismen sind zelluläre und nichtzelluläre biologische Einheiten, die zur Vermehrung oder zur Weitergabe von Erbmaterial fähig sind. Ihnen gleichgestellt sind Gemische und Gegenstände, die solche Einheiten enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 5ter USG",
+        "content": "Gentechnisch veränderte Organismen sind Organismen, deren genetisches Material so verändert worden ist, wie dies unter natürlichen Bedingungen durch Kreuzung oder natürliche Rekombination nicht vorkommt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 5quater USG",
+        "content": "Pathogene Organismen sind Organismen, die Krankheiten verursachen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 6 USG",
+        "content": "Abfälle sind bewegliche Sachen, deren sich der Inhaber entledigt oder deren Entsorgung im öffentlichen Interesse geboten ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 6bis USG",
+        "content": "Die Entsorgung der Abfälle umfasst ihre Verwertung oder Ablagerung sowie die Vorstufen Sammlung, Beförderung, Zwischenlagerung und Behandlung. Als Behandlung gilt jede physikalische, chemische oder biologische Veränderung der Abfälle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 6ter USG",
+        "content": "Als Umgang gilt jede Tätigkeit im Zusammenhang mit Stoffen, Organismen oder Abfällen, insbesondere das Herstellen, Einführen, Ausführen, Inverkehrbringen, Verwenden, Lagern, Transportieren oder Entsorgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 7 USG",
+        "content": "Anlagen sind Bauten, Verkehrswege und andere ortsfeste Einrichtungen sowie Terrainveränderungen. Den Anlagen sind Geräte, Maschinen, Fahrzeuge, Schiffe und Luftfahrzeuge gleichgestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 8 USG",
+        "content": "Umweltinformationen sind Informationen im Bereich dieses Gesetzes und im Bereich der Gesetzgebung über den Natur- und Heimatschutz, den Landschaftsschutz, den Gewässerschutz, den Schutz vor Naturgefahren, die Walderhaltung, die Jagd, die Fischerei, die Gentechnik sowie den Klimaschutz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Definitionen",
+        "citation": "Art. 7 Abs. 9 USG",
+        "content": "Biogene Treib- und Brennstoffe sind flüssige oder gasförmige Treib- und Brennstoffe, die aus Biomasse oder anderen erneuerbaren Energieträgern hergestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_7"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Beurteilung von Einwirkungen",
+        "citation": "Art. 8 USG",
+        "content": "Einwirkungen werden sowohl einzeln als auch gesamthaft und nach ihrem Zusammenwirken beurteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_8"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Katastrophenschutz",
+        "citation": "Art. 10 Abs. 1 USG",
+        "content": "Wer Anlagen betreibt oder betreiben will, die bei ausserordentlichen Ereignissen den Menschen oder seine natürliche Umwelt schwer schädigen können, trifft die zum Schutz der Bevölkerung und der Umwelt notwendigen Massnahmen. Insbesondere sind die geeigneten Standorte zu wählen, die erforderlichen Sicherheitsabstände einzuhalten, technische Sicherheitsvorkehren zu treffen sowie die Überwachung des Betriebes und die Alarmorganisation zu gewährleisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Katastrophenschutz",
+        "citation": "Art. 10 Abs. 2 USG",
+        "content": "Die Kantone koordinieren die Dienste für den Katastrophenschutz und bezeichnen eine Meldestelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Katastrophenschutz",
+        "citation": "Art. 10 Abs. 3 USG",
+        "content": "Der Inhaber der Anlage meldet ausserordentliche Ereignisse unverzüglich der Meldestelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 2. Kapitel: Allgemeine Bestimmungen, Katastrophenschutz",
+        "citation": "Art. 10 Abs. 4 USG",
+        "content": "Der Bundesrat kann durch Verordnung bestimmte Produktionsverfahren oder Lagerhaltungen verbieten, wenn die Bevölkerung und die natürliche Umwelt auf keine andere Weise ausreichend geschützt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsprüfung",
+        "citation": "Art. 10a Abs. 1 USG",
+        "content": "Bevor eine Behörde über die Planung, Errichtung oder Änderung von Anlagen entscheidet, prüft sie möglichst frühzeitig die Umweltverträglichkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsprüfung",
+        "citation": "Art. 10a Abs. 2 USG",
+        "content": "Der Umweltverträglichkeitsprüfung unterstellt sind Anlagen, welche Umweltbereiche erheblich belasten können, so dass die Einhaltung der Vorschriften über den Schutz der Umwelt voraussichtlich nur mit projekt- oder standortspezifischen Massnahmen sichergestellt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsprüfung",
+        "citation": "Art. 10a Abs. 3 USG",
+        "content": "Der Bundesrat bezeichnet die Anlagetypen, die der Umweltverträglichkeitsprüfung unterstehen; er kann Schwellenwerte festlegen, ab denen die Prüfung durchzuführen ist. Er überprüft die Anlagetypen und die Schwellenwerte periodisch und passt sie gegebenenfalls an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsbericht",
+        "citation": "Art. 10b Abs. 1 USG",
+        "content": "Wer eine Anlage, die der Umweltverträglichkeitsprüfung untersteht, planen, errichten oder ändern will, muss der zuständigen Behörde einen Umweltverträglichkeitsbericht unterbreiten. Dieser bildet die Grundlage der Umweltverträglichkeitsprüfung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsbericht",
+        "citation": "Art. 10b Abs. 2 USG",
+        "content": "Der Bericht enthält alle Angaben, die zur Prüfung des Vorhabens nach den Vorschriften über den Schutz der Umwelt nötig sind. Er wird nach den Richtlinien der Umweltschutzfachstellen erstellt und umfasst folgende Punkte:\na. den Ausgangszustand;\nb. das Vorhaben, einschliesslich der vorgesehenen Massnahmen zum Schutze der Umwelt und für den Katastrophenfall, sowie einen Überblick über die wichtigsten allenfalls vom Gesuchsteller geprüften Alternativen;\nc. die voraussichtlich verbleibende Belastung der Umwelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsbericht",
+        "citation": "Art. 10b Abs. 3 USG",
+        "content": "Zur Vorbereitung des Berichts wird eine Voruntersuchung durchgeführt. Werden in der Voruntersuchung die Auswirkungen auf die Umwelt und die Umweltschutzmassnahmen abschliessend ermittelt, so gelten die Ergebnisse der Voruntersuchung als Bericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Umweltverträglichkeitsbericht",
+        "citation": "Art. 10b Abs. 4 USG",
+        "content": "Die zuständige Behörde kann Auskünfte oder ergänzende Abklärungen verlangen. Sie kann Gutachten erstellen lassen; vorher gibt sie den Interessierten Gelegenheit zur Stellungnahme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Beurteilung des Berichts",
+        "citation": "Art. 10c Abs. 1 USG",
+        "content": "Die Umweltschutzfachstellen beurteilen die Voruntersuchung und den Bericht und beantragen der für den Entscheid zuständigen Behörde die zu treffenden Massnahmen. Der Bundesrat erlässt Vorschriften über die Fristen für die Beurteilung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Beurteilung des Berichts",
+        "citation": "Art. 10c Abs. 2 USG",
+        "content": "Für die Beurteilung von Raffinerien, Aluminiumhütten, thermischen Kraftwerken oder grossen Kühltürmen hört die zuständige Behörde das Bundesamt für Umwelt (Bundesamt) an. Der Bundesrat kann die Pflicht zur Anhörung auf weitere Anlagen ausdehnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Öffentlichkeit des Berichts",
+        "citation": "Art. 10d Abs. 1 USG",
+        "content": "Der Bericht und die Ergebnisse der Umweltverträglichkeitsprüfung können von jedermann eingesehen werden, soweit nicht überwiegende private oder öffentliche Interessen die Geheimhaltung erfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 3. Kapitel:, Umweltverträglichkeitsprüfung, Öffentlichkeit des Berichts",
+        "citation": "Art. 10d Abs. 2 USG",
+        "content": "Das Fabrikations- und Geschäftsgeheimnis bleibt in jedem Fall gewahrt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Umweltinformation und -beratung",
+        "citation": "Art. 10e Abs. 1 USG",
+        "content": "Die Behörden informieren die Öffentlichkeit sachgerecht über den Umweltschutz und den Stand der Umweltbelastung; insbesondere:\na. veröffentlichen sie die Erhebungen über die Umweltbelastung und über den Erfolg der Massnahmen dieses Gesetzes (Art. 44);\nb. können sie, soweit dies von allgemeinem Interesse ist, nach Anhören der Betroffenen veröffentlichen:\n1. die Prüfergebnisse der Konformitätsbewertung serienmässig hergestellter Anlagen (Art. 40),\n2. die Ergebnisse der Kontrolle von Anlagen,\n3. die Auskünfte nach Artikel 46.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Umweltinformation und -beratung",
+        "citation": "Art. 10e Abs. 2 USG",
+        "content": "Vorbehalten bleiben überwiegende private und öffentliche Geheimhaltungsinteressen; das Fabrikations- und Geschäftsgeheimnis bleibt in jedem Fall gewahrt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Umweltinformation und -beratung",
+        "citation": "Art. 10e Abs. 3 USG",
+        "content": "Die Umweltschutzfachstellen beraten Behörden und Private. Sie informieren die Bevölkerung über umweltverträgliches Verhalten und empfehlen Massnahmen zur Verminderung der Umweltbelastung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Umweltinformation und -beratung",
+        "citation": "Art. 10e Abs. 4 USG",
+        "content": "Die Umweltinformationen sind wenn möglich als offene digitale Datensätze zur Verfügung zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Umweltberichte",
+        "citation": "Art. 10f USG",
+        "content": "Der Bundesrat beurteilt mindestens alle vier Jahre den Zustand der Umwelt in der Schweiz und erstattet der Bundesversammlung über die Ergebnisse Bericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Öffentlichkeitsprinzip bei Umweltinformationen",
+        "citation": "Art. 10g Abs. 1 USG",
+        "content": "Jede Person hat das Recht, in amtlichen Dokumenten enthaltene Umweltinformationen sowie Informationen im Bereich der Energievorschriften, die sich auch auf die Umwelt beziehen, einzusehen und von den Behörden Auskünfte über den Inhalt dieser Dokumente zu erhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Öffentlichkeitsprinzip bei Umweltinformationen",
+        "citation": "Art. 10g Abs. 2 USG",
+        "content": "Bei Behörden des Bundes richtet sich der Anspruch nach dem Öffentlichkeitsgesetz vom 17. Dezember 2004 (BGÖ). Artikel 23 BGÖ findet nur Anwendung auf Dokumente, die Informationen nach Absatz 1 im Bereich von Kernanlagen enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Öffentlichkeitsprinzip bei Umweltinformationen",
+        "citation": "Art. 10g Abs. 3 USG",
+        "content": "Das Einsichtsrecht gilt auch bei öffentlich-rechtlichen Körperschaften und Privaten, die mit Vollzugsaufgaben betraut wurden, ohne dass ihnen Verfügungskompetenz im Sinne von Artikel 5 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 zukommt. In diesen Fällen erlässt die zuständige Vollzugsbehörde Verfügungen nach Artikel 15 BGÖ.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 1. Titel: Grundsätze und allgemeine Bestimmungen, 4. Kapitel:, Umweltinformationen, Öffentlichkeitsprinzip bei Umweltinformationen",
+        "citation": "Art. 10g Abs. 4 USG",
+        "content": "Bei Behörden der Kantone richtet sich der Anspruch nach dem kantonalen Recht. Soweit die Kantone noch keine Bestimmungen über den Zugang zu Dokumenten erlassen haben, wenden sie die Bestimmungen dieses Gesetzes und des BGÖ sinngemäss an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_10_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 1. Abschnitt: Emissionen, Grundsatz",
+        "citation": "Art. 11 Abs. 1 USG",
+        "content": "Luftverunreinigungen, Lärm, Erschütterungen und Strahlen werden durch Massnahmen bei der Quelle begrenzt (Emissionsbegrenzungen).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 1. Abschnitt: Emissionen, Grundsatz",
+        "citation": "Art. 11 Abs. 2 USG",
+        "content": "Unabhängig von der bestehenden Umweltbelastung sind Emissionen im Rahmen der Vorsorge so weit zu begrenzen, als dies technisch und betrieblich möglich und wirtschaftlich tragbar ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 1. Abschnitt: Emissionen, Grundsatz",
+        "citation": "Art. 11 Abs. 3 USG",
+        "content": "Die Emissionsbegrenzungen werden verschärft, wenn feststeht oder zu erwarten ist, dass die Einwirkungen unter Berücksichtigung der bestehenden Umweltbelastung schädlich oder lästig werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_11"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 1. Abschnitt: Emissionen, Emissionsbegrenzungen",
+        "citation": "Art. 12 Abs. 1 USG",
+        "content": "Emissionen werden eingeschränkt durch den Erlass von:\na. Emissionsgrenzwerten;\nb. Bau- und Ausrüstungsvorschriften;\nc. Verkehrs- oder Betriebsvorschriften;\nd. Vorschriften über die Wärmeisolation von Gebäuden;\ne. Vorschriften über Brenn- und Treibstoffe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_12"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 1. Abschnitt: Emissionen, Emissionsbegrenzungen",
+        "citation": "Art. 12 Abs. 2 USG",
+        "content": "Begrenzungen werden durch Verordnungen oder, soweit diese nichts vorsehen, durch unmittelbar auf dieses Gesetz abgestützte Verfügungen vorgeschrieben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_12"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 2. Abschnitt: Immissionen, Immissionsgrenzwerte",
+        "citation": "Art. 13 Abs. 1 USG",
+        "content": "Für die Beurteilung der schädlichen oder lästigen Einwirkungen legt der Bundesrat durch Verordnung Immissionsgrenzwerte fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_13"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 2. Abschnitt: Immissionen, Immissionsgrenzwerte",
+        "citation": "Art. 13 Abs. 2 USG",
+        "content": "Er berücksichtigt dabei auch die Wirkungen der Immissionen auf Personengruppen mit erhöhter Empfindlichkeit, wie Kinder, Kranke, Betagte und Schwangere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_13"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 2. Abschnitt: Immissionen, Immissionsgrenzwerte für Luftverunreinigungen",
+        "citation": "Art. 14 USG",
+        "content": "Die Immissionsgrenzwerte für Luftverunreinigungen sind so festzulegen, dass nach dem Stand der Wissenschaft oder der Erfahrung Immissionen unterhalb dieser Werte:\na. Menschen, Tiere und Pflanzen, ihre Lebensgemeinschaften und Lebensräume nicht gefährden;\nb. die Bevölkerung in ihrem Wohlbefinden nicht erheblich stören;\nc. Bauwerke nicht beschädigen;\nd. die Fruchtbarkeit des Bodens, die Vegetation und die Gewässer nicht beeinträchtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_14"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 2. Abschnitt: Immissionen, Immissionsgrenzwerte für Lärm und Erschütterungen",
+        "citation": "Art. 15 USG",
+        "content": "Die Immissionsgrenzwerte für Lärm und Erschütterungen sind so festzulegen, dass nach dem Stand der Wissenschaft oder der Erfahrung Immissionen unterhalb dieser Werte die Bevölkerung in ihrem Wohlbefinden nicht erheblich stören.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_15"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Sanierungspflicht",
+        "citation": "Art. 16 Abs. 1 USG",
+        "content": "Anlagen, die den Vorschriften dieses Gesetzes oder den Umweltvorschriften anderer Bundesgesetze nicht genügen, müssen saniert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Sanierungspflicht",
+        "citation": "Art. 16 Abs. 2 USG",
+        "content": "Der Bundesrat erlässt Vorschriften über die Anlagen, den Umfang der zu treffenden Massnahmen, die Fristen und das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Sanierungspflicht",
+        "citation": "Art. 16 Abs. 3 USG",
+        "content": "Bevor die Behörde erhebliche Sanierungsmassnahmen anordnet, holt sie vom Inhaber der Anlage Sanierungsvorschläge ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Sanierungspflicht",
+        "citation": "Art. 16 Abs. 4 USG",
+        "content": "In dringenden Fällen ordnen die Behörden die Sanierung vorsorglich an. Notfalls können sie die Stilllegung einer Anlage verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_16"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Erleichterungen im Einzelfall",
+        "citation": "Art. 17 Abs. 1 USG",
+        "content": "Wäre eine Sanierung nach Artikel 16 Absatz 2 im Einzelfall unverhältnismässig, gewähren die Behörden Erleichterungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_17"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Erleichterungen im Einzelfall",
+        "citation": "Art. 17 Abs. 2 USG",
+        "content": "Die Immissionsgrenzwerte für Luftverunreinigungen sowie der Alarmwert für Lärmimmissionen dürfen jedoch nicht überschritten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_17"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Umbau und Erweiterung sanierungsbedürftiger Anlagen",
+        "citation": "Art. 18 Abs. 1 USG",
+        "content": "Eine sanierungsbedürftige Anlage darf nur umgebaut oder erweitert werden, wenn sie gleichzeitig saniert wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_18"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 3. Abschnitt: Sanierungen, Umbau und Erweiterung sanierungsbedürftiger Anlagen",
+        "citation": "Art. 18 Abs. 2 USG",
+        "content": "Erleichterungen nach Artikel 17 können eingeschränkt oder aufgehoben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_18"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Alarmwerte",
+        "citation": "Art. 19 USG",
+        "content": "Zur Beurteilung der Dringlichkeit von Sanierungen (Art. 16 Abs. 2 und Art. 20) kann der Bundesrat für Lärmimmissionen Alarmwerte festlegen, die über den Immissionsgrenzwerten (Art. 15) liegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_19"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Schallschutz bei bestehenden Gebäuden",
+        "citation": "Art. 20 Abs. 1 USG",
+        "content": "Lassen sich die Lärmimmissionen auf bestehende Gebäude in der Umgebung von bestehenden Strassen, Flughäfen, Eisenbahnanlagen oder anderen öffentlichen oder konzessionierten ortsfesten Anlagen durch Massnahmen bei der Quelle nicht unter den Alarmwert herabsetzen, so werden die Eigentümer der betroffenen Gebäude verpflichtet, Räume, die dem längeren Aufenthalt von Personen dienen, mit Schallschutzfenstern zu versehen oder durch ähnliche bauliche Massnahmen zu schützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_20"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Schallschutz bei bestehenden Gebäuden",
+        "citation": "Art. 20 Abs. 2 USG",
+        "content": "Die Eigentümer der lärmigen ortsfesten Anlagen tragen die Kosten für die notwendigen Schallschutzmassnahmen, sofern sie nicht nachweisen, dass zum Zeitpunkt der Baueingabe des betroffenen Gebäudes:\na. die Immissionsgrenzwerte schon überschritten wurden; oder\nb. die Anlageprojekte bereits öffentlich aufgelegt waren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_20"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Schallschutz bei neuen Gebäuden",
+        "citation": "Art. 21 Abs. 1 USG",
+        "content": "Wer ein Gebäude erstellen will, das dem längeren Aufenthalt von Personen dienen soll, muss einen angemessenen baulichen Schutz gegen Aussen- und Innenlärm sowie gegen Erschütterungen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_21"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Schallschutz bei neuen Gebäuden",
+        "citation": "Art. 21 Abs. 2 USG",
+        "content": "Der Bundesrat bestimmt durch Verordnung den Mindestschutz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_21"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Baubewilligungen in lärmbelasteten Gebieten",
+        "citation": "Art. 22 Abs. 1 USG",
+        "content": "Baubewilligungen für neue Gebäude, die dem längeren Aufenthalt von Personen dienen, werden unter Vorbehalt von Absatz 2 nur erteilt, wenn die Immissionsgrenzwerte nicht überschritten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_22"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Baubewilligungen in lärmbelasteten Gebieten",
+        "citation": "Art. 22 Abs. 2 USG",
+        "content": "Sind die Immissionsgrenzwerte überschritten, so werden Baubewilligungen für Neubauten, die dem längeren Aufenthalt von Personen dienen, nur erteilt, wenn die Räume zweckmässig angeordnet und die allenfalls notwendigen zusätzlichen Schallschutzmassnahmen getroffen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_22"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Planungswerte",
+        "citation": "Art. 23 USG",
+        "content": "Für die Planung neuer Bauzonen und für den Schutz vor neuen lärmigen ortsfesten Anlagen legt der Bundesrat Planungswerte für Lärm fest. Diese Planungswerte liegen unter den Immissionsgrenzwerten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_23"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Anforderungen an Bauzonen",
+        "citation": "Art. 24 Abs. 1 USG",
+        "content": "Neue Bauzonen für Wohngebäude oder andere Gebäude, die dem längeren Aufenthalt von Personen dienen, dürfen nur in Gebieten vorgesehen werden, in denen die Lärmimmissionen die Planungswerte nicht überschreiten oder in denen diese Werte durch planerische, gestalterische oder bauliche Massnahmen eingehalten werden können. Die Umzonung von Bauzonen gilt nicht als Ausscheidung neuer Bauzonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_24"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Anforderungen an Bauzonen",
+        "citation": "Art. 24 Abs. 2 USG",
+        "content": "Werden die Planungswerte in einer bestehenden, aber noch nicht erschlossenen Bauzone für Wohngebäude oder andere Gebäude, die dem längeren Aufenthalt von Personen dienen, überschritten, so sind sie einer weniger lärmempfindlichen Nutzungsart zuzuführen, sofern nicht durch planerische, gestalterische oder bauliche Massnahmen im überwiegenden Teil dieser Zone die Planungswerte eingehalten werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_24"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Errichtung ortsfester Anlagen",
+        "citation": "Art. 25 Abs. 1 USG",
+        "content": "Ortsfeste Anlagen dürfen nur errichtet werden, wenn die durch diese Anlagen allein erzeugten Lärmimmissionen die Planungswerte in der Umgebung nicht überschreiten; die Bewilligungsbehörde kann eine Lärmprognose verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Errichtung ortsfester Anlagen",
+        "citation": "Art. 25 Abs. 2 USG",
+        "content": "Besteht ein überwiegendes öffentliches, namentlich auch raumplanerisches Interesse an der Anlage und würde die Einhaltung der Planungswerte zu einer unverhältnismässigen Belastung für das Projekt führen, so können Erleichterungen gewährt werden. Dabei dürfen jedoch unter Vorbehalt von Absatz 3 die Immissionsgrenzwerte nicht überschritten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 1. Kapitel: Luftverunreinigungen, Lärm, Erschütterungen und Strahlen, 4. Abschnitt: Zusätzliche Vorschriften für den Schutz vor Lärm und Erschütterungen, Errichtung ortsfester Anlagen",
+        "citation": "Art. 25 Abs. 3 USG",
+        "content": "Können bei der Errichtung von Strassen, Flughäfen, Eisenbahnanlagen oder anderen öffentlichen oder konzessionierten ortsfesten Anlagen durch Massnahmen bei der Quelle die Immissionsgrenzwerte nicht eingehalten werden, müssen auf Kosten des Eigentümers der Anlage die vom Lärm betroffenen Gebäude durch Schallschutzfenster oder ähnliche bauliche Massnahmen geschützt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_25"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 1 USG",
+        "content": "Stoffe dürfen nicht für Verwendungen in Verkehr gebracht werden, bei denen sie, ihre Folgeprodukte oder Abfälle bei vorschriftsgemässem Umgang die Umwelt oder mittelbar den Menschen gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 2 USG",
+        "content": "Der Hersteller oder der Importeur führt zu diesem Zweck eine Selbstkontrolle durch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 3 USG",
+        "content": "Der Bundesrat erlässt Vorschriften über Art, Umfang und Überprüfung der Selbstkontrolle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_26"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Information der Abnehmer",
+        "citation": "Art. 27 Abs. 1 USG",
+        "content": "Wer Stoffe in Verkehr bringt, muss den Abnehmer:\na. über die umweltbezogenen Eigenschaften informieren;\nb. so anweisen, dass beim vorschriftsgemässen Umgang mit den Stoffen die Umwelt oder mittelbar der Mensch nicht gefährdet werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_27"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Information der Abnehmer",
+        "citation": "Art. 27 Abs. 2 USG",
+        "content": "Der Bundesrat erlässt Vorschriften über Art, Inhalt und Umfang der Information der Abnehmer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_27"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Umweltgerechter Umgang",
+        "citation": "Art. 28 Abs. 1 USG",
+        "content": "Mit Stoffen darf nur so umgegangen werden, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen nicht gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_28"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Umweltgerechter Umgang",
+        "citation": "Art. 28 Abs. 2 USG",
+        "content": "Anweisungen von Herstellern oder Importeuren sind einzuhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_28"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Vorschriften des Bundesrates",
+        "citation": "Art. 29 Abs. 1 USG",
+        "content": "Der Bundesrat kann über Stoffe, die aufgrund ihrer Eigenschaften, Verwendungsart oder Verbrauchsmenge die Umwelt oder mittelbar den Menschen gefährden können, Vorschriften erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 2. Kapitel: Umweltgefährdende Stoffe, Vorschriften des Bundesrates",
+        "citation": "Art. 29 Abs. 2 USG",
+        "content": "Diese Vorschriften betreffen namentlich:\na. Stoffe, die gemäss ihrer Bestimmung in die Umwelt gelangen, wie Stoffe zur Bekämpfung von Unkräutern und Schädlingen, einschliesslich Vorratsschutz- und Holzschutzmittel, sowie Dünger, Wachstumsregulatoren, Streusalze und Treibgase;\nb. Stoffe, die oder deren Folgeprodukte sich in der Umwelt anreichern können, wie chlorhaltige organische Verbindungen und Schwermetalle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Grundsätze",
+        "citation": "Art. 29a Abs. 1 USG",
+        "content": "Mit Organismen darf nur so umgegangen werden, dass sie, ihre Stoffwechselprodukte oder ihre Abfälle:\na. die Umwelt oder den Menschen nicht gefährden können;\nb. die biologische Vielfalt und deren nachhaltige Nutzung nicht beeinträchtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Grundsätze",
+        "citation": "Art. 29a Abs. 2 USG",
+        "content": "Für den Umgang mit gentechnisch veränderten Organismen gilt das Gentechnikgesetz vom 21. März 2003.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Grundsätze",
+        "citation": "Art. 29a Abs. 3 USG",
+        "content": "Vorschriften in anderen Bundesgesetzen, die den Schutz der Gesundheit des Menschen vor unmittelbaren Gefährdungen durch Organismen bezwecken, bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Tätigkeiten in geschlossenen Systemen",
+        "citation": "Art. 29b Abs. 1 USG",
+        "content": "Wer mit pathogenen Organismen umgeht, die er weder im Versuch freisetzen (Art. 29c) noch für Verwendungen in der Umwelt in Verkehr bringen darf (Art. 29d), muss alle Einschliessungsmassnahmen treffen, die insbesondere wegen der Gefährlichkeit der Organismen für Umwelt und Mensch notwendig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Tätigkeiten in geschlossenen Systemen",
+        "citation": "Art. 29b Abs. 2 USG",
+        "content": "Der Bundesrat führt für den Umgang mit pathogenen Organismen eine Melde- oder Bewilligungspflicht ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Tätigkeiten in geschlossenen Systemen",
+        "citation": "Art. 29b Abs. 3 USG",
+        "content": "Für bestimmte pathogene Organismen und Tätigkeiten kann er Vereinfachungen der Melde- oder Bewilligungspflicht oder Ausnahmen davon vorsehen, wenn nach dem Stand der Wissenschaft oder nach der Erfahrung eine Verletzung der Grundsätze von Artikel 29a ausgeschlossen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Freisetzungsversuche",
+        "citation": "Art. 29c Abs. 1 USG",
+        "content": "Wer pathogene Organismen, die nicht für Verwendungen in der Umwelt in Verkehr gebracht werden dürfen (Art. 29d), im Versuch freisetzen will, benötigt dafür eine Bewilligung des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Freisetzungsversuche",
+        "citation": "Art. 29c Abs. 2 USG",
+        "content": "Der Bundesrat bestimmt die Anforderungen und das Verfahren. Er regelt insbesondere:\na. die Anhörung von Fachleuten;\nb. die finanzielle Sicherstellung der Massnahmen, mit denen allfällige schädliche oder lästige Einwirkungen festgestellt, abgewehrt oder behoben werden;\nc. die Information der Öffentlichkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Freisetzungsversuche",
+        "citation": "Art. 29c Abs. 3 USG",
+        "content": "Für bestimmte pathogene Organismen kann er Vereinfachungen der Bewilligungspflicht oder Ausnahmen davon vorsehen, wenn nach dem Stand der Wissenschaft oder nach der Erfahrung eine Verletzung der Grundsätze von Artikel 29a ausgeschlossen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Inverkehrbringen",
+        "citation": "Art. 29d Abs. 1 USG",
+        "content": "Organismen dürfen nicht für Verwendungen in Verkehr gebracht werden, bei denen bei bestimmungsgemässem Umgang die Grundsätze von Artikel 29a verletzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Inverkehrbringen",
+        "citation": "Art. 29d Abs. 2 USG",
+        "content": "Der Hersteller oder Importeur führt zu diesem Zweck eine Selbstkontrolle durch. Der Bundesrat erlässt Vorschriften über Art, Umfang und Überprüfung der Selbstkontrolle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Inverkehrbringen",
+        "citation": "Art. 29d Abs. 3 USG",
+        "content": "Pathogene Organismen dürfen nur mit einer Bewilligung des Bundes für Verwendungen in der Umwelt in Verkehr gebracht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Inverkehrbringen",
+        "citation": "Art. 29d Abs. 4 USG",
+        "content": "Der Bundesrat bestimmt die Anforderungen und das Verfahren und regelt die Information der Öffentlichkeit. Für bestimmte pathogene Organismen kann er Vereinfachungen der Bewilligungspflicht oder Ausnahmen davon vorsehen, wenn nach dem Stand der Wissenschaft oder nach der Erfahrung eine Verletzung der Grundsätze von Artikel 29a ausgeschlossen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Einspracheverfahren",
+        "citation": "Art. 29dbis Abs. 1 USG",
+        "content": "Gesuche um Bewilligungen nach den Artikeln 29c Absatz 1, 29d Absatz 3 und 29f Absatz 2 Buchstabe b werden von der Bewilligungsbehörde im Bundesblatt publiziert und während 30 Tagen öffentlich aufgelegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Einspracheverfahren",
+        "citation": "Art. 29dbis Abs. 2 USG",
+        "content": "Wer nach den Vorschriften des Bundesgesetzes vom 20. Dezember 1968 über das Verwaltungsverfahren Partei ist, kann während der Auflagefrist bei der Bewilligungsbehörde Einsprache erheben. Wer keine Einsprache erhebt, ist vom weiteren Verfahren ausgeschlossen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Information der Abnehmer",
+        "citation": "Art. 29e Abs. 1 USG",
+        "content": "Wer Organismen in Verkehr bringt, muss den Abnehmer:\na. über deren Eigenschaften informieren, die für die Anwendung der Grundsätze von Artikel 29a von Bedeutung sind;\nb. so anweisen, dass beim bestimmungsgemässen Umgang die Grundsätze von Artikel 29a nicht verletzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Information der Abnehmer",
+        "citation": "Art. 29e Abs. 2 USG",
+        "content": "Anweisungen von Herstellern und Importeuren sind einzuhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Weitere Vorschriften des Bundesrates",
+        "citation": "Art. 29f Abs. 1 USG",
+        "content": "Der Bundesrat erlässt über den Umgang mit Organismen, ihren Stoffwechselprodukten und Abfällen weitere Vorschriften, wenn wegen deren Eigenschaften, deren Verwendungsart oder deren Verbrauchsmenge die Grundsätze von Artikel 29a verletzt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Weitere Vorschriften des Bundesrates",
+        "citation": "Art. 29f Abs. 2 USG",
+        "content": "Er kann insbesondere:\na. den Transport sowie die Ein-, Aus- und Durchfuhr der Organismen regeln;\nb. den Umgang mit bestimmten Organismen bewilligungspflichtig erklären, einschränken oder verbieten;\nc. zur Bekämpfung bestimmter Organismen oder zur Verhütung ihres Auftretens Massnahmen vorschreiben;\nd. zur Verhinderung der Beeinträchtigung der biologischen Vielfalt und deren nachhaltiger Nutzung Massnahmen vorschreiben;\ne. für den Umgang mit bestimmten Organismen Langzeituntersuchungen vorschreiben;\nf. im Zusammenhang mit Bewilligungsverfahren öffentliche Anhörungen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 3. Kapitel:, Umgang mit Organismen, Beratende Kommissionen",
+        "citation": "Art. 29g USG",
+        "content": "Die Eidgenössische Fachkommission für die biologische Sicherheit und die Eidgenössische Ethikkommission für die Biotechnologie im Ausserhumanbereich (Art. 22 und 23 Gentechnikgesetz vom 21. März 2003) beraten den Bundesrat beim Erlass von Vorschriften und beim Vollzug der Bestimmungen über Organismen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_29_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Grundsätze",
+        "citation": "Art. 30 Abs. 1 USG",
+        "content": "Die Erzeugung von Abfällen soll soweit möglich vermieden werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Grundsätze",
+        "citation": "Art. 30 Abs. 2 USG",
+        "content": "Abfälle müssen soweit möglich verwertet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Grundsätze",
+        "citation": "Art. 30 Abs. 3 USG",
+        "content": "Abfälle müssen umweltverträglich und, soweit es möglich und sinnvoll ist, im Inland entsorgt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Vermeidung",
+        "citation": "Art. 30a USG",
+        "content": "Der Bundesrat kann:\na. das Inverkehrbringen von Produkten verbieten, die für eine einmalige und kurzfristige Verwendung bestimmt sind, wenn deren Nutzen die durch sie verursachte Umweltbelastung nicht rechtfertigt;\nb. die Verwendung von Stoffen oder Organismen verbieten, welche die Entsorgung erheblich erschweren oder bei ihrer Entsorgung die Umwelt gefährden können;\nc. Hersteller verpflichten, Produktionsabfälle zu vermeiden, für deren umweltverträgliche Entsorgung keine Verfahren bekannt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Sammlung",
+        "citation": "Art. 30b Abs. 1 USG",
+        "content": "Der Bundesrat kann für bestimmte Abfälle, die zur Verwertung geeignet sind oder besonders behandelt werden müssen, vorschreiben, dass sie getrennt zur Entsorgung übergeben werden müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Sammlung",
+        "citation": "Art. 30b Abs. 2 USG",
+        "content": "Er kann denjenigen, die Produkte in Verkehr bringen, welche als Abfälle zur Verwertung geeignet sind oder besonders behandelt werden müssen, vorschreiben:\na. diese Produkte nach Gebrauch zurückzunehmen;\nb. ein Mindestpfand zu erheben und dieses bei der Rücknahme zurückzuerstatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Sammlung",
+        "citation": "Art. 30b Abs. 3 USG",
+        "content": "Er kann für die Schaffung einer Pfandausgleichskasse sorgen und insbesondere vorschreiben, dass:\na. diejenigen, die pfandbelastete Produkte in Verkehr bringen, Überschüsse aus der Pfanderhebung der Kasse abliefern müssen;\nb. die Überschüsse für die Deckung von Verlusten aus der Pfandrückerstattung und für die Förderung des Rücklaufs pfandbelasteter Produkte verwendet werden müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Behandlung",
+        "citation": "Art. 30c Abs. 1 USG",
+        "content": "Abfälle müssen für die Ablagerung so behandelt werden, dass sie möglichst wenig organisch gebundenen Kohlenstoff enthalten und möglichst wasserunlöslich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Behandlung",
+        "citation": "Art. 30c Abs. 2 USG",
+        "content": "Abfälle dürfen ausserhalb von Anlagen nicht verbrannt werden; ausgenommen ist das Verbrennen natürlicher Wald‐, Feld- und Gartenabfälle, wenn dadurch keine übermässigen Immissionen entstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Behandlung",
+        "citation": "Art. 30c Abs. 3 USG",
+        "content": "Der Bundesrat kann für bestimmte Abfälle weitere Vorschriften über die Behandlung erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Verwertung",
+        "citation": "Art. 30d USG",
+        "content": "Der Bundesrat kann:\na. vorschreiben, dass bestimmte Abfälle verwertet werden müssen, wenn dies wirtschaftlich tragbar ist und die Umwelt weniger belastet als eine andere Entsorgung und die Herstellung neuer Produkte;\nb. die Verwendung von Materialien und Produkten für bestimmte Zwecke einschränken, wenn dadurch der Absatz von entsprechenden Produkten aus der Abfallverwertung gefördert wird und dies ohne wesentliche Qualitätseinbusse und Mehrkosten möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Ablagerung",
+        "citation": "Art. 30e Abs. 1 USG",
+        "content": "Abfälle dürfen nur auf Deponien abgelagert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Ablagerung",
+        "citation": "Art. 30e Abs. 2 USG",
+        "content": "Wer eine Deponie errichten oder betreiben will, braucht eine Bewilligung des Kantons; sie wird ihm nur erteilt, wenn er nachweist, dass die Deponie nötig ist. In der Bewilligung werden die zur Ablagerung zugelassenen Abfälle umschrieben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Verkehr mit Sonderabfällen",
+        "citation": "Art. 30f Abs. 1 USG",
+        "content": "Der Bundesrat erlässt Vorschriften über den Verkehr mit Abfällen, deren umweltverträgliche Entsorgung besondere Massnahmen erfordert (Sonderabfälle). Er regelt dabei auch die Ein‐, Aus- und Durchfuhr und berücksichtigt insbesondere die Interessen der regionalen grenzüberschreitenden Zusammenarbeit sowie die Umweltverträglichkeit der Entsorgungsmöglichkeiten im In- und Ausland. Er kann auch Vorschriften für Unternehmungen erlassen, die von der Schweiz aus den Verkehr mit Sonderabfällen organisieren oder daran beteiligt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Verkehr mit Sonderabfällen",
+        "citation": "Art. 30f Abs. 2 USG",
+        "content": "Er schreibt insbesondere vor, dass Sonderabfälle:\na. für die Übergabe im Inland sowie für die Ein‐, Aus- und Durchfuhr gekennzeichnet werden müssen;\nb. im Inland nur an Unternehmungen übergeben werden dürfen, die über eine Bewilligung nach Buchstabe d verfügen;\nc. nur mit einer Bewilligung des Bundesamts ausgeführt werden dürfen;\nd. nur von Unternehmungen entgegengenommen oder eingeführt werden dürfen, die über eine Bewilligung des Kantons verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Verkehr mit Sonderabfällen",
+        "citation": "Art. 30f Abs. 3 USG",
+        "content": "Diese Bewilligungen werden erteilt, wenn Gewähr für eine umweltverträgliche Entsorgung der Abfälle besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Verkehr mit anderen Abfällen",
+        "citation": "Art. 30g Abs. 1 USG",
+        "content": "Der Bundesrat kann über den Verkehr mit anderen Abfällen Vorschriften nach Artikel 30f Absätze 1 und 2 erlassen, wenn keine Gewähr für eine umweltverträgliche Entsorgung besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Abfallanlagen",
+        "citation": "Art. 30h Abs. 1 USG",
+        "content": "Der Bundesrat erlässt technische und organisatorische Vorschriften über Anlagen zur Entsorgung von Abfällen (Abfallanlagen).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_h"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 1. Abschnitt: Vermeidung und Entsorgung von Abfällen, Abfallanlagen",
+        "citation": "Art. 30h Abs. 2 USG",
+        "content": "Die Behörde kann den Betrieb von Abfallanlagen befristen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_30_h"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Abfallplanung",
+        "citation": "Art. 31 Abs. 1 USG",
+        "content": "Die Kantone erstellen eine Abfallplanung. Insbesondere ermitteln sie ihren Bedarf an Abfallanlagen, vermeiden Überkapazitäten und legen die Standorte der Abfallanlagen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Abfallplanung",
+        "citation": "Art. 31 Abs. 2 USG",
+        "content": "Sie übermitteln ihre Abfallplanung dem Bund.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Zusammenarbeit",
+        "citation": "Art. 31a Abs. 1 USG",
+        "content": "Bei der Abfallplanung und bei der Entsorgung arbeiten die Kantone zusammen. Sie vermeiden Überkapazitäten an Abfallanlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Zusammenarbeit",
+        "citation": "Art. 31a Abs. 2 USG",
+        "content": "Können sie sich nicht einigen, so unterbreiten sie dem Bund Lösungsvorschläge. Führt die Vermittlung des Bundes nicht zu einer Einigung, so kann der Bundesrat die Kantone anweisen:\na. festzulegen, aus welchen Gebieten den Anlagen Abfälle zur Behandlung, Verwertung oder Ablagerung übergeben werden müssen (Einzugsgebiete);\nb. Standorte für Abfallanlagen festzulegen;\nc. anderen Kantonen geeignete Abfallanlagen zur Verfügung zu stellen; nötigenfalls regelt er die Kostenverteilung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der Siedlungsabfälle",
+        "citation": "Art. 31b Abs. 1 USG",
+        "content": "Siedlungsabfälle, Abfälle aus dem öffentlichen Strassenunterhalt und der öffentlichen Abwasserreinigung sowie Abfälle, deren Inhaber nicht ermittelt werden kann oder zahlungsunfähig ist, werden von den Kantonen entsorgt. Für Abfälle, die nach besonderen Vorschriften des Bundes vom Inhaber verwertet oder von Dritten zurückgenommen werden müssen, richtet sich die Entsorgungspflicht nach Artikel 31c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der Siedlungsabfälle",
+        "citation": "Art. 31b Abs. 2 USG",
+        "content": "Die Kantone legen für diese Abfälle Einzugsgebiete fest und sorgen für einen wirtschaftlichen Betrieb der Abfallanlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der Siedlungsabfälle",
+        "citation": "Art. 31b Abs. 3 USG",
+        "content": "Der Inhaber muss die Abfälle den von den Kantonen vorgesehenen Sammlungen oder Sammelstellen übergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der übrigen Abfälle",
+        "citation": "Art. 31c Abs. 1 USG",
+        "content": "Die übrigen Abfälle muss der Inhaber entsorgen. Er kann Dritte mit der Entsorgung beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der übrigen Abfälle",
+        "citation": "Art. 31c Abs. 2 USG",
+        "content": "Soweit nötig erleichtern die Kantone die Entsorgung dieser Abfälle mit geeigneten Massnahmen. Sie können insbesondere Einzugsgebiete festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 2. Abschnitt: Abfallplanung und Entsorgungspflicht, Entsorgung der übrigen Abfälle",
+        "citation": "Art. 31c Abs. 3 USG",
+        "content": "Erfordert die Entsorgung dieser Abfälle gesamtschweizerisch nur wenige Einzugsgebiete, so kann der Bundesrat diese festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_31_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Grundsatz",
+        "citation": "Art. 32 Abs. 1 USG",
+        "content": "Der Inhaber der Abfälle trägt die Kosten der Entsorgung; ausgenommen sind Abfälle, für die der Bundesrat die Kostentragung anders regelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Grundsatz",
+        "citation": "Art. 32 Abs. 2 USG",
+        "content": "Kann der Inhaber nicht ermittelt werden oder kann er die Pflicht nach Absatz 1 wegen Zahlungsunfähigkeit nicht erfüllen, so tragen die Kantone die Kosten der Entsorgung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Siedlungsabfällen",
+        "citation": "Art. 32a Abs. 1 USG",
+        "content": "Die Kantone sorgen dafür, dass die Kosten für die Entsorgung der Siedlungsabfälle, soweit sie ihnen übertragen ist, mit Gebühren oder anderen Abgaben den Verursachern überbunden werden. Bei der Ausgestaltung der Abgaben werden insbesondere berücksichtigt:\na. die Art und die Menge des übergebenen Abfalls;\nb. die Kosten für Bau, Betrieb und Unterhalt der Abfallanlagen;\nc. die zur Substanzerhaltung solcher Anlagen erforderlichen Abschreibungen;\nd. die Zinsen;\ne. der geplante Investitionsbedarf für Unterhalt, Sanierung und Ersatz, für Anpassungen an gesetzliche Anforderungen sowie für betriebliche Optimierungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Siedlungsabfällen",
+        "citation": "Art. 32a Abs. 2 USG",
+        "content": "Würden kostendeckende und verursachergerechte Abgaben die umweltverträgliche Entsorgung der Siedlungsabfälle gefährden, so kann diese soweit erforderlich anders finanziert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Siedlungsabfällen",
+        "citation": "Art. 32a Abs. 3 USG",
+        "content": "Die Inhaber der Abfallanlagen müssen die erforderlichen Rückstellungen bilden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Siedlungsabfällen",
+        "citation": "Art. 32a Abs. 4 USG",
+        "content": "Die Grundlagen für die Berechnung der Abgaben sind öffentlich zugänglich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Vorgezogene Entsorgungsgebühr",
+        "citation": "Art. 32abis Abs. 1 USG",
+        "content": "Der Bundesrat kann Hersteller und Importeure, welche Produkte in Verkehr bringen, die nach Gebrauch bei zahlreichen Inhabern als Abfälle anfallen und besonders behandelt werden müssen oder zur Verwertung geeignet sind, verpflichten, einer vom Bund beauftragten und beaufsichtigten privaten Organisation eine vorgezogene Entsorgungsgebühr zu entrichten. Diese wird für die Finanzierung der Entsorgung der Abfälle durch Private oder öffentlichrechtliche Körperschaften verwendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Vorgezogene Entsorgungsgebühr",
+        "citation": "Art. 32abis Abs. 2 USG",
+        "content": "Der Bundesrat legt aufgrund der Entsorgungskosten den Mindest- und den Höchstbetrag der Gebühr fest. In diesem Rahmen bestimmt das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation die Höhe der Gebühr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Vorgezogene Entsorgungsgebühr",
+        "citation": "Art. 32abis Abs. 3 USG",
+        "content": "Der Bundesrat regelt die Erhebung und Verwendung der Gebühr. Er kann insbesondere vorschreiben, dass diejenigen, die Produkte in Verkehr bringen, den Verbraucher über die Höhe der Gebühr in geeigneter Weise in Kenntnis setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Sicherstellung bei Deponien",
+        "citation": "Art. 32b Abs. 1 USG",
+        "content": "Wer eine Deponie betreibt oder betreiben will, muss die Deckung der Kosten für Abschluss, Nachsorge und Sanierung durch Rückstellungen, Versicherung oder in anderer Form sicherstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Sicherstellung bei Deponien",
+        "citation": "Art. 32b Abs. 2 USG",
+        "content": "Übernimmt der Inhaber der Deponie die Sicherstellung selbst, so muss er der Behörde deren Höhe jährlich melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Sicherstellung bei Deponien",
+        "citation": "Art. 32b Abs. 3 USG",
+        "content": "Übernimmt ein Dritter die Sicherstellung, so muss er der Behörde Bestehen, Aussetzen und Aufhören der Sicherstellung melden. Der Bundesrat kann vorsehen, dass die Sicherstellung erst 60 Tage nach Eingang der Meldung aussetzt oder aufhört.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Sicherstellung bei Deponien",
+        "citation": "Art. 32b Abs. 4 USG",
+        "content": "Der Bundesrat kann über die Sicherstellung Vorschriften erlassen. Insbesondere kann er:\na. deren Umfang und Dauer festlegen oder dies im Einzelfall der Behörde überlassen;\nb. vorsehen, dass das Gelände von Deponien bei ihrem Abschluss in das Eigentum des Kantons übergeht, und Vorschriften über eine allfällige Entschädigung erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Aushubmaterial von belasteten Standorten",
+        "citation": "Art. 32bbis Abs. 1 USG",
+        "content": "Entfernt der Inhaber eines Grundstücks Material aus einem belasteten Standort, das nicht wegen einer Sanierung nach Artikel 32c entsorgt werden muss, so kann er in der Regel zwei Drittel der Mehrkosten für die Untersuchung und Entsorgung des Materials von den Verursachern der Belastung und den früheren Inhabern des Standorts verlangen, wenn:\na. die Verursacher keine Entschädigung für die Belastung geleistet oder die früheren Inhaber beim Verkauf des Grundstücks keinen Preisnachlass wegen der Belastung gewährt haben;\nb. die Entfernung des Materials für die Erstellung oder Änderung von Bauten notwendig ist; und \nc. der Inhaber das Grundstück zwischen dem 1. Juli 1972 und dem 1. Juli 1997 erworben hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Aushubmaterial von belasteten Standorten",
+        "citation": "Art. 32bbis Abs. 2 USG",
+        "content": "Die Forderung kann beim Zivilgericht am Ort der gelegenen Sache geltend gemacht werden. Es gilt die entsprechende Zivilprozessordnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 3. Abschnitt: Finanzierung der Entsorgung, Finanzierung bei Aushubmaterial von belasteten Standorten",
+        "citation": "Art. 32bbis Abs. 3 USG",
+        "content": "Ansprüche nach Absatz 1 können längstens bis zum 1. November 2021 geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Pflicht zur Sanierung",
+        "citation": "Art. 32c Abs. 1 USG",
+        "content": "Die Kantone sorgen dafür, dass Deponien und andere durch Abfälle belastete Standorte (belastete Standorte) saniert werden, wenn sie zu schädlichen oder lästigen Einwirkungen führen oder die konkrete Gefahr besteht, dass solche Einwirkungen entstehen. Der Bundesrat kann über die Sanierungsbedürftigkeit sowie über die Ziele und die Dringlichkeit von Sanierungen Vorschriften erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Pflicht zur Sanierung",
+        "citation": "Art. 32c Abs. 2 USG",
+        "content": "Die Kantone erstellen einen öffentlich zugänglichen Kataster der belasteten Standorte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Pflicht zur Sanierung",
+        "citation": "Art. 32c Abs. 3 USG",
+        "content": "Sie können die Untersuchung, Überwachung und Sanierung belasteter Standorte selber durchführen oder Dritte damit beauftragen, wenn:\na. dies zur Abwehr einer unmittelbar drohenden Einwirkung notwendig ist;\nb. der Pflichtige nicht in der Lage ist, für die Durchführung der Massnahmen zu sorgen; oder\nc. der Pflichtige trotz Mahnung und Fristansetzung untätig bleibt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Tragung der Kosten",
+        "citation": "Art. 32d Abs. 1 USG",
+        "content": "Der Verursacher trägt die Kosten für notwendige Massnahmen zur Untersuchung, Überwachung und Sanierung belasteter Standorte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Tragung der Kosten",
+        "citation": "Art. 32d Abs. 2 USG",
+        "content": "Sind mehrere Verursacher beteiligt, so tragen sie die Kosten entsprechend ihren Anteilen an der Verursachung. In erster Linie trägt die Kosten, wer die Massnahmen durch sein Verhalten verursacht hat. Wer lediglich als Inhaber des Standortes beteiligt ist, trägt keine Kosten, wenn er bei Anwendung der gebotenen Sorgfalt von der Belastung keine Kenntnis haben konnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Tragung der Kosten",
+        "citation": "Art. 32d Abs. 3 USG",
+        "content": "Das zuständige Gemeinwesen trägt den Kostenanteil der Verursacher, die nicht ermittelt werden können oder zahlungsunfähig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Tragung der Kosten",
+        "citation": "Art. 32d Abs. 4 USG",
+        "content": "Die Behörde erlässt eine Verfügung über die Kostenverteilung, wenn ein Verursacher dies verlangt oder die Behörde die Massnahmen selber durchführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Tragung der Kosten",
+        "citation": "Art. 32d Abs. 5 USG",
+        "content": "Ergibt die Untersuchung eines im Kataster (Art. 32c Abs. 2) eingetragenen oder für den Eintrag vorgesehenen Standortes, dass dieser nicht belastet ist, so trägt das zuständige Gemeinwesen die Kosten für die notwendigen Untersuchungsmassnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Sicherstellung der Kostendeckung",
+        "citation": "Art. 32dbis Abs. 1 USG",
+        "content": "Die Behörde kann vom Verursacher verlangen, die Deckung seines voraussichtlichen Anteils an den Kosten für Untersuchung, Überwachung und Sanierung in geeigneter Form sicherzustellen, wenn von einem belasteten Standort schädliche oder lästige Einwirkungen zu erwarten sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Sicherstellung der Kostendeckung",
+        "citation": "Art. 32dbis Abs. 2 USG",
+        "content": "Die Höhe der Sicherstellung wird insbesondere unter Berücksichtigung der Ausdehnung sowie der Art und Intensität der Belastung festgelegt. Sie wird angepasst, wenn dies auf Grund eines verbesserten Kenntnisstands gerechtfertigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Sicherstellung der Kostendeckung",
+        "citation": "Art. 32dbis Abs. 3 USG",
+        "content": "Die Veräusserung oder die Teilung eines Grundstücks, auf dem sich ein im Kataster der belasteten Standorte eingetragener Standort befindet, bedarf der Bewilligung der Behörde. Die Bewilligung wird erteilt, wenn:\na. vom Standort keine schädlichen oder lästigen Einwirkungen zu erwarten sind;\nb. die Kostendeckung für die zu erwartenden Massnahmen sichergestellt ist; oder\nc. ein überwiegendes öffentliches Interesse an der Veräusserung oder an der Teilung besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Sicherstellung der Kostendeckung",
+        "citation": "Art. 32dbis Abs. 4 USG",
+        "content": "Die kantonale Behörde kann im Grundbuch auf dem betroffenen Grundstück die Eintragung im Kataster anmerken lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_d_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 1 USG",
+        "content": "Der Bundesrat kann vorschreiben, dass dem Bund eine Abgabe entrichten:\na. Inhaber einer Deponie auf der Ablagerung von Abfällen;\nb. wer Abfälle zur Ablagerung ausführt, auf der Ausfuhr von Abfällen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 1bis USG",
+        "content": "Bei Deponien, auf denen ausschliesslich nicht verschmutzte Abfälle abgelagert werden, kann eine Abgabe nur vorgeschrieben werden, wenn dies notwendig ist, um die Verwertung solcher Abfälle zu fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 2 USG",
+        "content": "Der Bundesrat legt die Abgabesätze fest und berücksichtigt dabei insbesondere die zu erwartenden Kosten sowie den Typ der Deponie. Der Abgabesatz beträgt höchstens:\na. für im Inland abgelagerte Abfälle:\n1. bei Deponien für nicht oder wenig verschmutzte Abfälle: 8 Fr./t,\n2. bei den übrigen Deponien: 25 Fr./t;\nb. für im Ausland abgelagerte Abfälle:\n1. bei Untertagedeponien: 30 Fr./t,\n2. bei anderen Deponien: so viel, wie er bei Ablagerung der Abfälle auf einer Deponie im Inland betragen würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 2bis USG",
+        "content": "Er kann den Abgabesatz nach Absatz 2 an den Landesindex der Konsumentenpreise anpassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 3 USG",
+        "content": "Der Bund verwendet den Ertrag aus den Abgaben ausschliesslich für die Abgeltung der Kosten von folgenden Massnahmen:\na. Erstellung der Kataster belasteter Standorte, wenn deren Inhabern bis am 1. November 2007 die Gelegenheit gegeben wurde, zur Aufnahme in den Kataster Stellung zu nehmen;\nb. Untersuchung, Überwachung und Sanierung von belasteten Standorten, auf die seit dem 1. Februar 2001 keine Abfälle mehr gelangt sind, wenn:\n1. der Verursacher nicht ermittelt werden kann oder zahlungsunfähig ist, oder\n2. auf den Standort zu einem wesentlichen Teil Siedlungsabfälle abgelagert worden sind;\nc. Untersuchung, Überwachung und Sanierung von belasteten Standorten bei Schiessanlagen, die nicht einem überwiegend gewerblichen Zweck dienen, wenn:\n1. auf Standorte in Grundwasserschutzzonen nach dem 31. Dezember 2012 keine Abfälle mehr gelangt sind,\n2. auf die übrigen Standorte nach dem 31. Dezember 2020 keine Abfälle mehr oder nur die Abfälle von höchstens einem historischen Schiessen oder Feldschiessen pro Jahr, welches bereits vor dem 31. Dezember 2020 regelmässig am selben Standort durchgeführt wurde, gelangt sind;\ncbis. geeignete Schutzmassnahmen wie Kugelfänge bei historischen Schiessen und Feldschiessen, die höchstens ein Mal pro Jahr stattfinden und welche bereits vor dem 31. Dezember 2020 regelmässig am selben Standort durchgeführt wurden;\nd. Untersuchung von Standorten, die sich als nicht belastet erweisen (Art. 32d Abs. 5).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 4 USG",
+        "content": "Die Abgeltungen werden nur geleistet, wenn die getroffenen Massnahmen umweltverträglich und wirtschaftlich sind und dem Stand der Technik entsprechen. Sie werden den Kantonen nach Massgabe des Aufwandes ausbezahlt und betragen:\na. für Abgeltungen nach Absatz 3 Buchstabe a pauschal 500 Franken pro Standort;\nb. für Abgeltungen nach Absatz 3 Buchstabe b:\n1. 40 Prozent der anrechenbaren Kosten, wenn auf den Standort seit dem 1. Februar 1996 keine Abfälle mehr gelangt sind,\n2. 30 Prozent der anrechenbaren Kosten, wenn auf den Standort auch nach dem 1. Februar 1996, längstens jedoch bis zum 31. Januar 2001, Abfälle gelangt sind;\nc. für Abgeltungen nach Absatz 3 Buchstabe c:\n1. bei 300-m-Schiessanlagen pauschal 8000 Franken pro Scheibe,\n2. bei den übrigen Schiessanlagen 40 Prozent der anrechenbaren Kosten;\nd. für Abgeltungen nach Absatz 3 Buchstabe d 40 Prozent der anrechenbaren Kosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 5 USG",
+        "content": "Der Bundesrat erlässt Vorschriften über das Verfahren der Abgabenerhebung und der Abgeltungen sowie über die anrechenbaren Kosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 4. Kapitel:, Abfälle, 4. Abschnitt:, Sanierung belasteter Standorte, Abgabe zur Finanzierung der Massnahmen",
+        "citation": "Art. 32e Abs. 6 USG",
+        "content": "Das kantonale Recht kann zur Finanzierung der Untersuchung, Überwachung und Sanierung von belasteten Standorten eigene Abgaben vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_32_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Massnahmen gegen Bodenbelastungen",
+        "citation": "Art. 33 Abs. 1 USG",
+        "content": "Zur langfristigen Erhaltung der Bodenfruchtbarkeit werden Massnahmen gegen chemische und biologische Bodenbelastungen in den Ausführungsvorschriften zum Gewässerschutzgesetz vom 24. Januar 1991, zum Katastrophenschutz, zur Luftreinhaltung, zum Umgang mit Stoffen und Organismen sowie zu den Abfällen und zu den Lenkungsabgaben geregelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_33"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Massnahmen gegen Bodenbelastungen",
+        "citation": "Art. 33 Abs. 2 USG",
+        "content": "Der Boden darf nur so weit physikalisch belastet werden, dass seine Fruchtbarkeit nicht nachhaltig beeinträchtigt wird; dies gilt nicht für die bauliche Nutzung des Bodens. Der Bundesrat kann über Massnahmen gegen physikalische Belastungen wie die Erosion oder die Verdichtung Vorschriften oder Empfehlungen erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_33"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Weitergehende Massnahmen bei belasteten Böden",
+        "citation": "Art. 34 Abs. 1 USG",
+        "content": "Ist die Bodenfruchtbarkeit in bestimmten Gebieten langfristig nicht mehr gewährleistet, so verschärfen die Kantone im Einvernehmen mit dem Bund die Vorschriften über Anforderungen an Abwasserversickerungen, über Emissionsbegrenzungen bei Anlagen, über die Verwendung von Stoffen und Organismen oder über physikalische Bodenbelastungen im erforderlichen Mass.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Weitergehende Massnahmen bei belasteten Böden",
+        "citation": "Art. 34 Abs. 2 USG",
+        "content": "Gefährdet die Bodenbelastung Menschen, Tiere oder Pflanzen, so schränken die Kantone die Nutzung des Bodens im erforderlichen Mass ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Weitergehende Massnahmen bei belasteten Böden",
+        "citation": "Art. 34 Abs. 3 USG",
+        "content": "Soll der Boden gartenbaulich, land- oder waldwirtschaftlich genutzt werden und ist eine standortübliche Bewirtschaftung ohne Gefährdung von Menschen, Tieren oder Pflanzen nicht möglich, so ordnen die Kantone Massnahmen an, mit denen die Bodenbelastung mindestens so weit vermindert wird, dass eine ungefährliche Bewirtschaftung möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_34"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Richtwerte und Sanierungswerte für Bodenbelastungen",
+        "citation": "Art. 35 Abs. 1 USG",
+        "content": "Zur Beurteilung der Belastungen des Bodens kann der Bundesrat Richtwerte und Sanierungswerte festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Richtwerte und Sanierungswerte für Bodenbelastungen",
+        "citation": "Art. 35 Abs. 2 USG",
+        "content": "Die Richtwerte geben die Belastung an, bei deren Überschreitung die Fruchtbarkeit des Bodens nach dem Stand der Wissenschaft oder der Erfahrung langfristig nicht mehr gewährleistet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 5. Kapitel:, Belastungen des Bodens, Richtwerte und Sanierungswerte für Bodenbelastungen",
+        "citation": "Art. 35 Abs. 3 USG",
+        "content": "Die Sanierungswerte geben die Belastung an, bei deren Überschreitung nach dem Stand der Wissenschaft oder der Erfahrung bestimmte Nutzungen ohne Gefährdung von Menschen, Tieren oder Pflanzen nicht möglich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 1 USG",
+        "content": "Wer flüchtige organische Verbindungen einführt oder wer als Hersteller solche Stoffe in Verkehr bringt oder selbst verwendet, entrichtet dem Bund eine Lenkungsabgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 2 USG",
+        "content": "Der Abgabe unterliegt auch die Einfuhr solcher Stoffe in Farben und Lacken. Der Bundesrat kann die Einfuhr solcher Stoffe in weiteren Gemischen und Gegenständen der Abgabe unterstellen, wenn die Menge der Stoffe für die Umweltbelastung erheblich oder der Kostenanteil der Stoffe wesentlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 3 USG",
+        "content": "Von der Abgabe befreit sind flüchtige organische Verbindungen, die:\na. als Treib- oder Brennstoffe verwendet werden;\nb. durch- oder ausgeführt werden;\nc. so verwendet oder behandelt werden, dass die Verbindungen nicht in die Umwelt gelangen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 4 USG",
+        "content": "Der Bundesrat kann flüchtige organische Verbindungen, die so verwendet oder behandelt werden, dass ihre Emissionen erheblich über die gesetzlichen Anforderungen hinaus begrenzt werden, im Ausmass der zusätzlich aufgewendeten Kosten von der Abgabe befreien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 5 USG",
+        "content": "Der Bundesrat kann flüchtige organische Verbindungen, die nicht umweltgefährlich sind, von der Abgabe befreien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 6 USG",
+        "content": "Der Abgabesatz beträgt höchstens fünf Franken je Kilogramm flüchtiger organischer Verbindungen zuzüglich der Teuerung ab Inkrafttreten dieser Bestimmung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 7 USG",
+        "content": "Der Bundesrat legt den Abgabesatz im Hinblick auf die Luftreinhalteziele fest und berücksichtigt dabei insbesondere:\na. die Belastung der Umwelt mit flüchtigen organischen Verbindungen;\nb. die Umweltgefährlichkeit dieser Stoffe;\nc. die Kosten für Massnahmen, mit denen die Einwirkungen dieser Stoffe begrenzt werden können;\nd. das Preisniveau dieser Stoffe sowie jenes von Ersatzstoffen, welche die Umwelt weniger belasten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 8 USG",
+        "content": "Der Bundesrat führt die Abgabe stufenweise ein und legt den Zeitplan und den Prozentsatz für die einzelnen Stufen im Voraus fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Flüchtige organische Verbindungen",
+        "citation": "Art. 35a Abs. 9 USG",
+        "content": "Der Ertrag der Abgabe wird einschliesslich Zinsen nach Abzug der Vollzugskosten gleichmässig an die Bevölkerung verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlichrechtliche Körperschaften oder Private mit der Verteilung beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Heizöl «Extraleicht»",
+        "citation": "Art. 35b Abs. 1 USG",
+        "content": "Wer Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse) einführt oder im Inland herstellt oder gewinnt, entrichtet dem Bund eine Lenkungsabgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Heizöl «Extraleicht»",
+        "citation": "Art. 35b Abs. 2 USG",
+        "content": "Von der Abgabe befreit ist Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse), das durch- oder ausgeführt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Heizöl «Extraleicht»",
+        "citation": "Art. 35b Abs. 3 USG",
+        "content": "Der Abgabesatz beträgt höchstens 20 Franken je Tonne Heizöl «Extraleicht» mit einem Schwefelgehalt von mehr als 0,1 Prozent (% Masse) zuzüglich der Teuerung ab Inkrafttreten dieser Bestimmung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Heizöl «Extraleicht»",
+        "citation": "Art. 35b Abs. 4 USG",
+        "content": "Der Bundesrat legt den Abgabesatz im Hinblick auf die Luftreinhalteziele fest und berücksichtigt dabei insbesondere:\na. die Belastung der Umwelt mit Schwefeldioxid;\nb. die Mehrkosten der Herstellung von Heizöl «Extraleicht» mit einem Schwefelgehalt von 0,1 Prozent;\nc. die Bedürfnisse der Landesversorgung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Heizöl «Extraleicht»",
+        "citation": "Art. 35b Abs. 5 USG",
+        "content": "Der Ertrag der Abgabe wird einschliesslich Zinsen nach Abzug der Vollzugskosten gleichmässig an die Bevölkerung verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlichrechtliche Körperschaften oder Private mit der Verteilung beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 1 USG",
+        "content": "Wer Benzin oder Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse) einführt, im Inland herstellt oder gewinnt, entrichtet dem Bund eine Lenkungsabgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 2 USG",
+        "content": "Von der Abgabe befreit sind Benzin und Dieselöl mit einem Schwefelgehalt von mehr als 0,001 Prozent (% Masse), die durch- oder ausgeführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 3 USG",
+        "content": "Der Abgabesatz beträgt höchstens 5 Rappen pro Liter zuzüglich der Teuerung ab Inkrafttreten dieser Bestimmung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 4 USG",
+        "content": "Der Bundesrat kann für Benzin und Dieselöl unterschiedliche Abgabesätze festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 5 USG",
+        "content": "Er legt die Abgabesätze im Hinblick auf die Luftreinhalteziele fest und berücksichtigt dabei insbesondere:\na. die Belastung der Umwelt mit Luftverunreinigungen;\nb. die Anforderungen des Klimaschutzes;\nc. die Mehrkosten der Herstellung und der Verteilung von Benzin und Dieselöl mit einem Schwefelgehalt von 0,001 Prozent (% Masse);\nd. die Bedürfnisse der Landesversorgung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Schwefelgehalt von Benzin und Dieselöl",
+        "citation": "Art. 35bbis Abs. 6 USG",
+        "content": "Der Ertrag der Abgabe wird einschliesslich Zinsen nach Abzug der Vollzugskosten gleichmässig an die Bevölkerung verteilt. Der Bundesrat regelt Art und Verfahren der Verteilung. Er kann die Kantone, öffentlichrechtliche Körperschaften oder Private mit der Verteilung beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_b_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Abgabepflicht und Verfahren",
+        "citation": "Art. 35c Abs. 1 USG",
+        "content": "Abgabepflichtig sind:\na. für Abgaben auf flüchtigen organischen Verbindungen: die bei der Einfuhr nach dem Zollgesetz vom 1. Oktober 1925 (ZG) Zahlungspflichtigen sowie die Hersteller und Erzeuger im Inland;\nb. für Abgaben auf Heizöl «Extraleicht» sowie auf Benzin und Dieselöl: die nach dem Mineralölsteuergesetz vom 21. Juni 1996 (MinöStG) Steuerpflichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Abgabepflicht und Verfahren",
+        "citation": "Art. 35c Abs. 2 USG",
+        "content": "Kann erst nach der Abgabeerhebung nachgewiesen werden, dass die Voraussetzungen für eine Abgabebefreiung gegeben sind, so werden die Abgaben zurückerstattet. Der Bundesrat kann die Anforderungen an den Nachweis festlegen und die Rückerstattung ausschliessen, wenn sie einen unverhältnismässigen Aufwand erfordern würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Abgabepflicht und Verfahren",
+        "citation": "Art. 35c Abs. 3 USG",
+        "content": "Der Bundesrat regelt das Verfahren für die Erhebung und Rückerstattung der Abgaben auf flüchtigen organischen Verbindungen. Ist die Ein- oder Ausfuhr betroffen, so gelten die entsprechenden Verfahrensbestimmungen der Zollgesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Abgabepflicht und Verfahren",
+        "citation": "Art. 35c Abs. 3bis USG",
+        "content": "Ist die Ein- oder Ausfuhr, die Herstellung oder die Gewinnung im Inland von Heizöl «Extraleicht», Benzin oder Dieselöl betroffen, so gelten für die Erhebung und Rückerstattung die entsprechenden Verfahrensbestimmungen des MinöStG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 6. Kapitel:, Lenkungsabgaben, Abgabepflicht und Verfahren",
+        "citation": "Art. 35c Abs. 4 USG",
+        "content": "Wer Stoffe oder Organismen, die der Abgabe unterworfen sind, im Inland herstellt oder erzeugt, muss diese deklarieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 1. Abschnitt: Biogene Treib- und Brennstoffe",
+        "citation": "Art. 35d Abs. 1 USG",
+        "content": "Werden in erheblichem Mass biogene Treib- und Brennstoffe oder Gemische, die biogene Treib- und Brennstoffe enthalten, in Verkehr gebracht, welche die Anforderungen nach Artikel 12b Absätze 1 und 3 des Mineralölsteuergesetzes vom 21. Juni 1996 nicht erfüllen, so kann der Bundesrat vorsehen, dass von ihm bezeichnete biogene Treib- und Brennstoffe nur in Verkehr gebracht werden dürfen, wenn sie bestimmte ökologische oder soziale Anforderungen erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 1. Abschnitt: Biogene Treib- und Brennstoffe",
+        "citation": "Art. 35d Abs. 2 USG",
+        "content": "Von der Zulassungspflicht ausgenommen ist Ethanol zu Brennzwecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 1. Abschnitt: Biogene Treib- und Brennstoffe",
+        "citation": "Art. 35d Abs. 3 USG",
+        "content": "Der Bundesrat legt unter Berücksichtigung der Bestimmungen der Mineralölsteuergesetzgebung fest:\na. die ökologischen oder sozialen Anforderungen, welche die zulassungspflichtigen biogenen Treib- und Brennstoffe erfüllen müssen;\nb. das Verfahren der Zulassung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Anforderungen an das Inverkehrbringen",
+        "citation": "Art. 35e Abs. 1 USG",
+        "content": "Das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen, die nicht in Übereinstimmung mit den Vorschriften des Ursprungslandes über den Holzeinschlag und -handel gewonnen oder gehandelt worden sind, ist verboten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Anforderungen an das Inverkehrbringen",
+        "citation": "Art. 35e Abs. 2 USG",
+        "content": "Der Bundesrat legt im Einklang mit den Bestimmungen der Europäischen Union die Anforderungen an das Inverkehrbringen von Holz und Holzerzeugnissen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Anforderungen an das Inverkehrbringen",
+        "citation": "Art. 35e Abs. 3 USG",
+        "content": "Er kann im Einklang mit internationalen Standards Anforderungen an das Inverkehrbringen von weiteren Rohstoffen und Produkten stellen oder deren Inverkehrbringen verbieten, wenn der Anbau, der Abbau oder die Herstellung die Umwelt erheblich belastet oder die nachhaltige Nutzung der natürlichen Ressourcen erheblich gefährdet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Sorgfaltspflicht",
+        "citation": "Art. 35f Abs. 1 USG",
+        "content": "Wer Holz oder Holzerzeugnisse oder weitere vom Bundesrat nach Artikel 35e Absatz 3 bezeichnete Rohstoffe und Produkte erstmalig in Verkehr bringt, muss die gebotene Sorgfalt walten lassen, um zu gewährleisten, dass die Waren die Anforderungen nach Artikel 35e erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Sorgfaltspflicht",
+        "citation": "Art. 35f Abs. 2 USG",
+        "content": "Der Bundesrat regelt:\na. Art, Inhalt und Umfang der Sorgfaltspflicht;\nb. die Kontrolle der Einhaltung der Sorgfaltspflicht;\nc. die Anerkennung von Organisationen, welche die Einhaltung der Sorgfaltspflicht unterstützen und überprüfen, sowie die Kontrolle ihrer Tätigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Sorgfaltspflicht",
+        "citation": "Art. 35f Abs. 3 USG",
+        "content": "Er kann Erstinverkehrbringer von Holz oder Holzerzeugnissen einer Meldepflicht unterstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Sorgfaltspflicht",
+        "citation": "Art. 35f Abs. 4 USG",
+        "content": "Er kann vorsehen, dass in Fällen der Verletzung der Absätze 1 und 2 und von Artikel 35e Holz oder Holzerzeugnisse sowie weitere vom ihm nach Artikel 35e Absatz 3 bezeichnete Rohstoffe und Produkte zurückgesandt, beschlagnahmt oder eingezogen werden. Für Holz oder Holzerzeugnisse kann er zudem vorsehen, dass in besonders schwerwiegenden Fällen ein Verbot der Vermarktung von Holz oder Holzerzeugnissen ausgesprochen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Rückverfolgbarkeit und Deklaration",
+        "citation": "Art. 35g Abs. 1 USG",
+        "content": "Händler müssen dokumentieren, von welchem Zulieferer sie Holz oder Holzerzeugnisse bezogen und an welchen Abnehmer sie diese weitergegeben haben; der Bundesrat kann für weitere von ihm nach Artikel 35e Absatz 3 bezeichnete Rohstoffe und Produkte eine solche Dokumentationspflicht festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Rückverfolgbarkeit und Deklaration",
+        "citation": "Art. 35g Abs. 2 USG",
+        "content": "Jede Person, die Holz oder Holzerzeugnisse an den Konsumenten abgibt, muss die Holzart und die Herkunft des Holzes deklarieren. Der Bundesrat bestimmt das Holz und die Holzerzeugnisse, für die diese Deklarationspflicht gilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_g"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Datenbearbeitung",
+        "citation": "Art. 35h Abs. 1 USG",
+        "content": "Die mit der Durchführung dieses Gesetzes oder mit der Kontrolle oder Beaufsichtigung der Durchführung betrauten Behörden oder Dritten können Personendaten, einschliesslich besonders schützenswerter Personendaten über administrative oder strafrechtliche Sanktionen, bearbeiten, soweit dies für den Vollzug dieses Abschnitts nötig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_h"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 2. Titel: Begrenzung der Umweltbelastung, 7. Kapitel:, Inverkehrbringen von Rohstoffen und Produkten, 2. Abschnitt:, Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte, Datenbearbeitung",
+        "citation": "Art. 35h Abs. 2 USG",
+        "content": "Die inländischen Behörden können Personendaten, einschliesslich besonders schützenswerter Personendaten über administrative oder strafrechtliche Sanktionen, ausländischen Behörden und internationalen Institutionen für den Vollzug der Bestimmungen der Europäischen Union über das Inverkehrbringen von Holz und Holzerzeugnissen bekannt geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_35_h"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 1. Abschnitt: Vollzug durch die Kantone, Vollzugskompetenzen der Kantone",
+        "citation": "Art. 36 USG",
+        "content": "Unter Vorbehalt von Artikel 41 obliegt der Vollzug dieses Gesetzes den Kantonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_36"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 1. Abschnitt: Vollzug durch die Kantone, Ausführungsvorschriften der Kantone",
+        "citation": "Art. 37 USG",
+        "content": "Ausführungsvorschriften der Kantone über den Katastrophenschutz (Art. 10), die Umweltverträglichkeitsprüfung (Art. 10a–10d), die Sanierung (Art. 16–18), den Schallschutz bei Gebäuden (Art. 20 und 21) sowie die Abfälle (Art. 30–32, 32abis–32e) bedürfen zu ihrer Gültigkeit der Genehmigung des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_37"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Aufsicht und Koordination",
+        "citation": "Art. 38 Abs. 1 USG",
+        "content": "Der Bund wacht über den Vollzug dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Aufsicht und Koordination",
+        "citation": "Art. 38 Abs. 2 USG",
+        "content": "Er koordiniert die Vollzugsmassnahmen der Kantone sowie seiner eigenen Anstalten und Betriebe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Aufsicht und Koordination",
+        "citation": "Art. 38 Abs. 3 USG",
+        "content": "Der Bundesrat bestimmt, welche Prüf‐, Mess- und Berechnungsmethoden anzuwenden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_38"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Ausführungsvorschriften und völkerrechtliche Vereinbarungen",
+        "citation": "Art. 39 Abs. 1 USG",
+        "content": "Der Bundesrat erlässt die Ausführungsvorschriften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Ausführungsvorschriften und völkerrechtliche Vereinbarungen",
+        "citation": "Art. 39 Abs. 1bis USG",
+        "content": "Er kann dabei international harmonisierte technische Vorschriften und Normen für anwendbar erklären und:\na. das zuständige Bundesamt ermächtigen, untergeordnete Änderungen dieser Vorschriften und Normen für anwendbar zu erklären;\nb. vorsehen, dass die für anwendbar erklärten Vorschriften und Normen auf besondere Art veröffentlicht werden und dass auf die Übersetzung in die Amtssprachen verzichtet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Ausführungsvorschriften und völkerrechtliche Vereinbarungen",
+        "citation": "Art. 39 Abs. 2 USG",
+        "content": "Er kann völkerrechtliche Vereinbarungen abschliessen über:\na. technische Vorschriften;\nabis. umweltgefährdende Stoffe (Art. 26–29);\nb. Vermeidung und Entsorgung von Abfällen;\nc. Zusammenarbeit in grenznahen Gebieten durch die Schaffung zwischenstaatlicher Kommissionen mit beratender Funktion;\nd. Datensammlungen und Erhebungen;\ne. Forschung und Ausbildung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_39"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Inverkehrbringen serienmässig hergestellter Anlagen",
+        "citation": "Art. 40 Abs. 1 USG",
+        "content": "Der Bundesrat kann das Inverkehrbringen serienmässig hergestellter Anlagen nach Massgabe der durch sie verursachten Umweltbelastung von einer Konformitätsbewertung, Kennzeichnung, Anmeldung oder Zulassung abhängig machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_40"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Inverkehrbringen serienmässig hergestellter Anlagen",
+        "citation": "Art. 40 Abs. 2 USG",
+        "content": "Er kann ausländische Prüfungen, Konformitätsbewertungen, Kennzeichnungen, Anmeldungen und Zulassungen anerkennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_40"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 41 Abs. 1 USG",
+        "content": "Der Bund vollzieht die Artikel 12 Absatz 1 Buchstabe e (Vorschriften über Brenn- und Treibstoffe), 26 (Selbstkontrolle), 27 (Information der Abnehmer), 29 (Vorschriften über Stoffe), 29a–29h (Umgang mit Organismen), 30b Absatz 3 (Pfandausgleichskasse), 30f und 30g (Ein- und Ausfuhr von Abfällen), 31a Absatz 2 und 31c Absatz 3 (Massnahmen des Bundes zur Abfallentsorgung), 32abis (vorgezogene Entsorgungsgebühr), 32e Absätze 1–4 (Abgabe zur Finanzierung von Sanierungen), 35a–35c (Lenkungsabgaben), 35d (Biogene Treib- und Brennstoffe), 35e–35h (Holz und Holzerzeugnisse sowie weitere Rohstoffe und Produkte), 39 (Ausführungsvorschriften und völkerrechtliche Vereinbarungen), 40 (Inverkehrbringen serienmässig hergestellter Anlagen) und 46 Absatz 3 (Angaben über Stoffe und Organismen); er kann für bestimmte Teilaufgaben die Kantone beiziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 41 Abs. 2 USG",
+        "content": "Die Bundesbehörde, die ein anderes Bundesgesetz oder einen Staatsvertrag vollzieht, ist bei der Erfüllung dieser Aufgabe auch für den Vollzug des Umweltschutzgesetzes zuständig. Sie hört vor ihrem Entscheid die betroffenen Kantone an. Das Bundesamt und die übrigen betroffenen Bundesstellen wirken nach den Artikeln 62a und 62b des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 beim Vollzug mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 41 Abs. 3 USG",
+        "content": "Eignet sich das Verfahren nach Absatz 2 für bestimmte Aufgaben nicht, so regelt der Bundesrat den Vollzug durch die betroffenen Bundesstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2. Abschnitt: Vollzug durch den Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 41 Abs. 4 USG",
+        "content": "Die Vollzugsbehörden des Bundes berücksichtigen die Umweltschutzmassnahmen der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2a. Abschnitt:, Zusammenarbeit mit der Wirtschaft",
+        "citation": "Art. 41a Abs. 1 USG",
+        "content": "Der Bund und, im Rahmen ihrer Zuständigkeit, die Kantone arbeiten für den Vollzug dieses Gesetzes mit den Organisationen der Wirtschaft zusammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2a. Abschnitt:, Zusammenarbeit mit der Wirtschaft",
+        "citation": "Art. 41a Abs. 2 USG",
+        "content": "Sie können Branchenvereinbarungen durch die Vorgabe mengenmässiger Ziele und entsprechender Fristen fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 2a. Abschnitt:, Zusammenarbeit mit der Wirtschaft",
+        "citation": "Art. 41a Abs. 3 USG",
+        "content": "Vor dem Erlass von Ausführungsvorschriften prüfen sie freiwillige Massnahmen der Wirtschaft. Soweit möglich und notwendig, übernehmen sie Branchenvereinbarungen ganz oder teilweise in das Ausführungsrecht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_41_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Umweltschutzfachstellen",
+        "citation": "Art. 42 Abs. 1 USG",
+        "content": "Die Kantone richten für die Beurteilung von Umweltschutzfragen eine Fachstelle ein oder bezeichnen hiefür geeignete bestehende Amtsstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_42"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Umweltschutzfachstellen",
+        "citation": "Art. 42 Abs. 2 USG",
+        "content": "Das Bundesamt ist die Fachstelle des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_42"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Auslagerung von Vollzugsaufgaben",
+        "citation": "Art. 43 USG",
+        "content": "Die Vollzugsbehörden können öffentlichrechtliche Körperschaften oder Private mit Vollzugsaufgaben betrauen, insbesondere mit der Kontrolle und Überwachung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_43"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Umweltzeichen und Umweltmanagement",
+        "citation": "Art. 43a Abs. 1 USG",
+        "content": "Der Bundesrat kann Vorschriften erlassen über die Einführung:\na. eines freiwilligen Systems für ein Umweltzeichen (Ökolabel);\nb. eines freiwilligen Systems zur Bewertung und Verbesserung des betrieblichen Umweltschutzes (Umwelt-Management und ‐Audit).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_43_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Umweltzeichen und Umweltmanagement",
+        "citation": "Art. 43a Abs. 2 USG",
+        "content": "Er berücksichtigt dabei das internationale Recht und die international anerkannten technischen Normen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_43_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Erhebungen über die Umweltbelastung",
+        "citation": "Art. 44 Abs. 1 USG",
+        "content": "Bund und Kantone führen Erhebungen über die Umweltbelastung durch und prüfen den Erfolg der Massnahmen dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Erhebungen über die Umweltbelastung",
+        "citation": "Art. 44 Abs. 2 USG",
+        "content": "Der Bundesrat koordiniert die eidgenössischen und kantonalen Erhebungen und Datensammlungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Erhebungen über die Umweltbelastung",
+        "citation": "Art. 44 Abs. 3 USG",
+        "content": "Er bestimmt, welche Angaben, die auf Grund der Gentechnik‐, Lebensmittel‐, Heilmittel‐, Chemikalien‐, Landwirtschafts‐, Epidemien- und Tierseuchengesetzgebung über Stoffe und Organismen erhoben werden, dem Bundesamt zur Verfügung zu stellen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Massnahmenpläne bei Luftverunreinigungen",
+        "citation": "Art. 44a Abs. 1 USG",
+        "content": "Steht fest oder ist zu erwarten, dass schädliche oder lästige Einwirkungen von Luftverunreinigungen durch mehrere Quellen verursacht werden, so erstellt die zuständige Behörde einen Plan der Massnahmen, die zur Verminderung oder Beseitigung dieser Einwirkungen innert angesetzter Frist beitragen (Massnahmenplan).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Massnahmenpläne bei Luftverunreinigungen",
+        "citation": "Art. 44a Abs. 2 USG",
+        "content": "Massnahmenpläne sind für die Behörden verbindlich, die von den Kantonen mit Vollzugsaufgaben betraut sind. Sie unterscheiden Massnahmen, die unmittelbar angeordnet werden können, und solche, für welche die rechtlichen Grundlagen noch zu schaffen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Massnahmenpläne bei Luftverunreinigungen",
+        "citation": "Art. 44a Abs. 3 USG",
+        "content": "Sieht ein Plan Massnahmen vor, die in die Zuständigkeit des Bundes fallen, so stellen die Kantone dem Bundesrat die entsprechenden Anträge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_44_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Periodische Kontrollen",
+        "citation": "Art. 45 USG",
+        "content": "Der Bundesrat kann die regelmässige Kontrolle von Anlagen wie Ölfeuerungen, Abfallanlagen und Baumaschinen vorschreiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_45"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Auskunftspflicht",
+        "citation": "Art. 46 Abs. 1 USG",
+        "content": "Jedermann ist verpflichtet, den Behörden die für den Vollzug erforderlichen Auskünfte zu erteilen, nötigenfalls Abklärungen durchzuführen oder zu dulden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Auskunftspflicht",
+        "citation": "Art. 46 Abs. 2 USG",
+        "content": "Der Bundesrat oder die Kantone können anordnen, dass Verzeichnisse mit Angaben über Luftverunreinigungen, Lärm und Erschütterungen, über Abfälle und deren Entsorgung sowie über die Art, Menge und Beurteilung von Stoffen und Organismen geführt, aufbewahrt und den Behörden auf Verlangen zugestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Auskunftspflicht",
+        "citation": "Art. 46 Abs. 3 USG",
+        "content": "Der Bundesrat kann anordnen, dass Angaben gemacht werden über Stoffe oder Organismen, welche die Umwelt gefährden können oder erstmals in Verkehr gebracht werden sollen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_46"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Amtsgeheimnis",
+        "citation": "Art. 47 Abs. 3 USG",
+        "content": "Alle mit dem Vollzug dieses Gesetzes beauftragten Personen sowie Experten und Mitglieder von Kommissionen und Fachausschüssen unterstehen dem Amtsgeheimnis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_47"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Amtsgeheimnis",
+        "citation": "Art. 47 Abs. 4 USG",
+        "content": "Vertrauliche Informationen, die beim Vollzug dieses Gesetzes erhoben werden, dürfen an ausländische Behörden und internationale Organisationen nur dann weitergegeben werden, wenn eine völkerrechtliche Vereinbarung, Beschlüsse internationaler Organisationen oder ein Bundesgesetz dies bestimmen. Der Bundesrat regelt die Zuständigkeiten und das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_47"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Gebühren",
+        "citation": "Art. 48 Abs. 1 USG",
+        "content": "Für Bewilligungen, Kontrollen und besondere Dienstleistungen nach diesem Gesetz wird eine Gebühr erhoben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_48"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 1. Kapitel: Vollzug, 3. Abschnitt: Besondere Bestimmungen über den Vollzug, Gebühren",
+        "citation": "Art. 48 Abs. 2 USG",
+        "content": "Im Bund bestimmt der Bundesrat, in den Kantonen die nach kantonalem Recht zuständige Behörde die Ansätze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_48"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Ausbildung und Forschung",
+        "citation": "Art. 49 Abs. 1 USG",
+        "content": "Der Bund kann die Aus- und Weiterbildung der mit Aufgaben nach diesem Gesetz betrauten Personen fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Ausbildung und Forschung",
+        "citation": "Art. 49 Abs. 2 USG",
+        "content": "Er kann Forschungsarbeiten und Technologiefolgen-Abschätzungen in Auftrag geben oder unterstützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Ausbildung und Forschung",
+        "citation": "Art. 49 Abs. 3 USG",
+        "content": "Er kann die Entwicklung von Anlagen und Verfahren fördern, mit denen die Umweltbelastung im öffentlichen Interesse vermindert werden kann. Die Finanzhilfen dürfen in der Regel 50 Prozent der Kosten nicht überschreiten. Sie müssen bei einer kommerziellen Verwertung der Entwicklungsergebnisse nach Massgabe der erzielten Erträge zurückerstattet werden. Im Rhythmus von fünf Jahren beurteilt der Bundesrat generell die Wirkung der Förderung und erstattet den eidgenössischen Räten über die Ergebnisse Bericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_49"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Beiträge für Umweltschutzmassnahmen bei Strassen",
+        "citation": "Art. 50 Abs. 1 USG",
+        "content": "Im Rahmen der Verwendung des Reinertrags der Mineralölsteuer und der Nationalstrassenabgabe beteiligt sich der Bund an den Kosten:\na. für Umweltschutzmassnahmen bei Nationalstrassen und bei Hauptstrassen, die mit Bundeshilfe auszubauen sind, nach Massgabe der Bestimmungen des Bundesgesetzes vom 22. März 1985 über die Verwendung der zweckgebundenen Mineralölsteuer (MinVG); bei den Hauptstrassen sind diese Beiträge Bestandteil der Globalbeiträge nach MinVG;\nb. für Lärm- und Schallschutzmassnahmen bei Sanierungen im Bereich des übrigen Strassennetzes auf der Grundlage von Programmvereinbarungen mit den Kantonen; die Höhe der Beiträge richtet sich nach der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_50"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Beiträge für Umweltschutzmassnahmen bei Strassen",
+        "citation": "Art. 50 Abs. 2 USG",
+        "content": "Die Kantone erstatten dem Bund Bericht über die Verwendung der Beiträge für die Umweltschutzmassnahmen bei den Hauptstrassen, die mit Bundeshilfe auszubauen sind, und bei den übrigen Strassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_50"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Kontroll- und Überwachungseinrichtungen",
+        "citation": "Art. 51 USG",
+        "content": "Der Bund kann Beiträge an die Kosten für den Bau und die Ausrüstung der zur Durchführung dieses Gesetzes erforderlichen Mess‐, Kontroll- und Überwachungseinrichtungen gewähren, soweit diese Einrichtungen mehreren Kantonen dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_51"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Internationale Zusammenarbeit zum Schutz der Umwelt",
+        "citation": "Art. 53 Abs. 1 USG",
+        "content": "Der Bund kann Beiträge gewähren:\na. an internationale Organisationen oder Programme im Bereich des internationalen Umweltschutzes;\nb. zur Umsetzung von internationalen Umweltabkommen;\nc. zur Finanzierung von Sekretariaten internationaler Umweltabkommen, die ihren ständigen Sitz in der Schweiz haben;\nd. an Fonds zur Unterstützung von Entwicklungs- und Transitionsländern bei der Umsetzung von internationalen Umweltabkommen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Internationale Zusammenarbeit zum Schutz der Umwelt",
+        "citation": "Art. 53 Abs. 2 USG",
+        "content": "Beiträge nach Absatz 1 Buchstabe d werden als Rahmenkredite für jeweils mehrere Jahre bewilligt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 2. Kapitel: Förderung, Internationale Zusammenarbeit zum Schutz der Umwelt",
+        "citation": "Art. 53 Abs. 3 USG",
+        "content": "Der Bundesrat wacht über die wirksame Verwendung der nach diesem Gesetz bewilligten Mittel und erstattet der Bundesversammlung darüber Bericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_53"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 1. Abschnitt: Rechtspflege, ...",
+        "citation": "Art. 54 USG",
+        "content": "Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_54"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Beschwerdeberechtigte Organisationen",
+        "citation": "Art. 55 Abs. 1 USG",
+        "content": "Gegen Verfügungen der kantonalen Behörden oder der Bundesbehörden über die Planung, Errichtung oder Änderung von Anlagen, für die eine Umweltverträglichkeitsprüfung nach Artikel 10a erforderlich ist, steht den Umweltschutzorganisationen das Beschwerderecht unter folgenden Voraussetzungen zu:\na. Die Organisation ist gesamtschweizerisch tätig.\nb. Sie verfolgt rein ideelle Zwecke; allfällige wirtschaftliche Tätigkeiten müssen der Erreichung der ideellen Zwecke dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Beschwerdeberechtigte Organisationen",
+        "citation": "Art. 55 Abs. 2 USG",
+        "content": "Das Beschwerderecht steht den Organisationen nur für Rügen in Rechtsbereichen zu, die seit mindestens zehn Jahren Gegenstand ihres statutarischen Zwecks bilden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Beschwerdeberechtigte Organisationen",
+        "citation": "Art. 55 Abs. 3 USG",
+        "content": "Der Bundesrat bezeichnet die zur Beschwerde berechtigten Organisationen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Beschwerdeberechtigte Organisationen",
+        "citation": "Art. 55 Abs. 4 USG",
+        "content": "Zuständig für die Beschwerdeerhebung ist das oberste Exekutivorgan der Organisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Beschwerdeberechtigte Organisationen",
+        "citation": "Art. 55 Abs. 5 USG",
+        "content": "Die Organisationen können ihre rechtlich selbständigen kantonalen und überkantonalen Unterorganisationen für deren örtliches Tätigkeitsgebiet generell zur Erhebung von Einsprachen und im Einzelfall zur Erhebung von Beschwerden ermächtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Eröffnung der Verfügung",
+        "citation": "Art. 55a Abs. 1 USG",
+        "content": "Die Behörde eröffnet den Organisationen ihre Verfügung nach Artikel 55 Absatz 1 durch schriftliche Mitteilung oder durch Veröffentlichung im Bundesblatt oder im kantonalen Publikationsorgan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Eröffnung der Verfügung",
+        "citation": "Art. 55a Abs. 2 USG",
+        "content": "Sieht das Bundesrecht oder das kantonale Recht ein Einspracheverfahren vor, so sind auch die Gesuche nach Absatz 1 zu veröffentlichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Verlust der Beschwerdelegitimation",
+        "citation": "Art. 55b Abs. 1 USG",
+        "content": "Organisationen, die kein Rechtsmittel ergriffen haben, können sich am weiteren Verfahren nur noch als Partei beteiligen, wenn sie durch eine Änderung der Verfügung beschwert sind. Für Enteignungen gilt das Bundesgesetz vom 20. Juni 1930 über die Enteignung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Verlust der Beschwerdelegitimation",
+        "citation": "Art. 55b Abs. 2 USG",
+        "content": "Hat sich eine Organisation an einem Einspracheverfahren nach Bundesrecht oder kantonalem Recht nicht beteiligt, so kann sie keine Beschwerde mehr erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Verlust der Beschwerdelegitimation",
+        "citation": "Art. 55b Abs. 3 USG",
+        "content": "Hat eine Organisation gegen einen Nutzungsplan mit Verfügungscharakter zulässige Rügen nicht erhoben oder sind die Rügen rechtskräftig abgelehnt worden, so darf die Organisation diese Rügen in einem nachfolgenden Verfahren nicht mehr vorbringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Verlust der Beschwerdelegitimation",
+        "citation": "Art. 55b Abs. 4 USG",
+        "content": "Die Absätze 2 und 3 gelten auch für Einsprachen und Beschwerden nach kantonalem Recht gegen Nutzungspläne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Vereinbarungen zwischen Gesuchstellern und Organisationen",
+        "citation": "Art. 55c Abs. 1 USG",
+        "content": "Treffen Gesuchsteller und Organisation Vereinbarungen über Verpflichtungen, die Belange des öffentlichen Rechts betreffen, so gelten diese ausschliesslich als gemeinsame Anträge an die Behörde. Diese berücksichtigt das Ergebnis in ihrer Verfügung oder ihrem Entscheid. Sie verzichtet darauf, wenn es Mängel nach Artikel 49 des Bundesgesetzes vom 20. Dezember 1968 über das Verwaltungsverfahren aufweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Vereinbarungen zwischen Gesuchstellern und Organisationen",
+        "citation": "Art. 55c Abs. 2 USG",
+        "content": "Vereinbarungen zwischen Gesuchstellern und Organisationen über finanzielle oder andere Leistungen sind nicht zulässig, soweit diese bestimmt sind für:\na. die Durchsetzung von Verpflichtungen des öffentlichen Rechts, insbesondere behördlicher Auflagen;\nb. Massnahmen, die das öffentliche Recht nicht vorsieht oder die in keinem Zusammenhang mit dem Vorhaben stehen;\nc. die Abgeltung eines Rechtsmittelverzichts oder eines anderen prozessualen Verhaltens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Vereinbarungen zwischen Gesuchstellern und Organisationen",
+        "citation": "Art. 55c Abs. 3 USG",
+        "content": "Die Rechtsmittelbehörde tritt auf eine Beschwerde nicht ein, wenn diese rechtsmissbräuchlich ist oder die Organisation unzulässige Leistungen im Sinne von Absatz 2 gefordert hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Vorzeitiger Baubeginn",
+        "citation": "Art. 55d USG",
+        "content": "Mit Bauarbeiten kann vor Abschluss des Verfahrens begonnen werden, soweit der Ausgang des Verfahrens die Arbeiten nicht beeinflussen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 2. Abschnitt: Verbandsbeschwerde gegen Verfügungen über Anlagen, Verfahrenskosten",
+        "citation": "Art. 55e USG",
+        "content": "Unterliegt die Organisation im Verfahren, so werden ihr für die Beschwerdeführung vor Bundesbehörden die Kosten auferlegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_e"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 3. Abschnitt:, Verbandsbeschwerde gegen Bewilligungen von Organismen",
+        "citation": "Art. 55f Abs. 1 USG",
+        "content": "Gegen Bewilligungen über das Inverkehrbringen pathogener Organismen, die bestimmungsgemäss in der Umwelt verwendet werden sollen, steht den Umweltschutzorganisationen das Beschwerderecht unter folgenden Voraussetzungen zu:\na. Die Organisation ist gesamtschweizerisch tätig.\nb. Sie ist mindestens zehn Jahre vor Einreichung der Beschwerde gegründet worden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 3. Abschnitt:, Verbandsbeschwerde gegen Bewilligungen von Organismen",
+        "citation": "Art. 55f Abs. 2 USG",
+        "content": "Der Bundesrat bezeichnet die zur Beschwerde berechtigten Organisationen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 3. Abschnitt:, Verbandsbeschwerde gegen Bewilligungen von Organismen",
+        "citation": "Art. 55f Abs. 3 USG",
+        "content": "Die Artikel 55a und 55b Absätze 1 und 2 sind anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_55_f"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Behördenbeschwerde",
+        "citation": "Art. 56 Abs. 1 USG",
+        "content": "Das Bundesamt ist berechtigt, gegen Verfügungen der kantonalen Behörden in Anwendung dieses Gesetzes und seiner Ausführungsbestimmungen die Rechtsmittel des eidgenössischen und des kantonalen Rechts zu ergreifen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_56"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Behördenbeschwerde",
+        "citation": "Art. 56 Abs. 2 USG",
+        "content": "Die gleiche Berechtigung steht auch den Kantonen zu, soweit Einwirkungen aus Nachbarkantonen auf ihr Gebiet strittig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_56"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Gemeindebeschwerde",
+        "citation": "Art. 57 USG",
+        "content": "Die Gemeinden sind berechtigt, gegen Verfügungen der kantonalen und der Bundesbehörden in Anwendung dieses Gesetzes die Rechtsmittel des eidgenössischen und kantonalen Rechts zu ergreifen, sofern sie dadurch berührt werden und ein schutzwürdiges Interesse an der Aufhebung oder Änderung haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_57"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Enteignung",
+        "citation": "Art. 58 Abs. 1 USG",
+        "content": "Soweit der Vollzug dieses Gesetzes es erfordert, können Bund und Kantone die notwendigen Rechte enteignen oder dieses Recht Dritten übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Enteignung",
+        "citation": "Art. 58 Abs. 2 USG",
+        "content": "Die Kantone können in ihren Ausführungsvorschriften das Bundesgesetz vom 20. Juni 1930 über die Enteignung als anwendbar erklären. Sie sehen vor, dass die Kantonsregierung über streitig gebliebene Einsprachen entscheidet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Enteignung",
+        "citation": "Art. 58 Abs. 3 USG",
+        "content": "Für Werke, die das Gebiet mehrerer Kantone beanspruchen, gilt das eidgenössische Enteignungsrecht. Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation entscheidet über die Enteignung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_58"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 3. Titel: Vollzug, Förderung und Verfahren, 3. Kapitel: Verfahren, 4. Abschnitt: Behörden- und Gemeindebeschwerde, Enteignung, Kosten von Sicherungs- und Behebungsmassnahmen, Kosten von Sicherungs- und Behebungsmassnahmen",
+        "citation": "Art. 59 USG",
+        "content": "Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar drohenden Einwirkung sowie zu deren Feststellung und Behebung treffen, werden dem Verursacher überbunden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 1 USG",
+        "content": "Der Inhaber eines Betriebs oder einer Anlage, mit denen eine besondere Gefahr für die Umwelt verbunden ist, haftet für den Schaden aus Einwirkungen, die durch die Verwirklichung dieser Gefahr entstehen. Bei Schäden, die beim Umgang mit pathogenen Organismen entstehen, gilt Artikel 59abis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 2 USG",
+        "content": "In der Regel mit einer besonderen Gefahr für die Umwelt verbunden sind namentlich Betriebe und Anlagen:\na. die der Bundesrat aufgrund der verwendeten Stoffe, Organismen oder Abfälle den Ausführungsvorschriften nach Artikel 10 unterstellt;\nb. die der Entsorgung von Abfällen dienen;\nc. in denen mit wassergefährdenden Flüssigkeiten umgegangen wird;\nd. in denen Stoffe vorhanden sind, für welche der Bundesrat zum Schutz der Umwelt eine Bewilligungspflicht einführt oder andere besondere Vorschriften erlässt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 3 USG",
+        "content": "Von der Haftpflicht wird befreit, wer beweist, dass der Schaden durch höhere Gewalt oder durch grobes Verschulden des Geschädigten oder eines Dritten verursacht worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 4 USG",
+        "content": "Die Artikel 42–47 und 49–53 des Obligationenrechts sind anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 5 USG",
+        "content": "Für die Haftungsbestimmungen in anderen Bundesgesetzen gilt der Vorbehalt nach Artikel 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Allgemeine Bestimmungen",
+        "citation": "Art. 59a Abs. 6 USG",
+        "content": "Bund, Kantone und Gemeinden haften ebenfalls nach den Absätzen 1–5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 1 USG",
+        "content": "Die bewilligungs- oder meldepflichtige Person, die mit pathogenen Organismen im geschlossenen System umgeht, solche Organismen im Versuch freisetzt oder sie unerlaubt in Verkehr bringt, haftet für Schäden, die bei diesem Umgang entstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 2 USG",
+        "content": "Für den Schaden, der land- und waldwirtschaftlichen Betrieben oder Konsumenten von Produkten dieser Betriebe durch erlaubt in Verkehr gebrachte pathogene Organismen entsteht, haftet ausschliesslich die bewilligungspflichtige Person, wenn die Organismen:\na. in land- oder waldwirtschaftlichen Produktionsmitteln enthalten sind; oder\nb. aus solchen Produktionsmitteln stammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 3 USG",
+        "content": "Bei der Haftung nach Absatz 2 bleibt der Rückgriff auf Personen, die solche Organismen unsachgemäss behandelt oder sonst wie zur Entstehung oder Verschlimmerung des Schadens beigetragen haben, vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 4 USG",
+        "content": "Wird ein Schaden durch alle übrigen erlaubt in Verkehr gebrachten pathogenen Organismen verursacht, so haftet die bewilligungspflichtige Person, wenn die Organismen fehlerhaft sind. Sie haftet auch für einen Fehler, der nach dem Stand der Wissenschaft und Technik im Zeitpunkt, in dem der Organismus in Verkehr gebracht wurde, nicht erkannt werden konnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 5 USG",
+        "content": "Pathogene Organismen sind fehlerhaft, wenn sie nicht die Sicherheit bieten, die man unter Berücksichtigung aller Umstände zu erwarten berechtigt ist, insbesondere sind zu berücksichtigen:\na. die Art und Weise, wie sie dem Publikum präsentiert werden;\nb. der Gebrauch, mit dem vernünftigerweise gerechnet werden kann;\nc. der Zeitpunkt, in dem sie in Verkehr gebracht wurden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 6 USG",
+        "content": "Ein Produkt aus pathogenen Organismen ist nicht allein deshalb fehlerhaft, weil später ein verbessertes Produkt in Verkehr gebracht wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 7 USG",
+        "content": "Der Schaden muss wegen der Pathogenität der Organismen entstanden sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 8 USG",
+        "content": "Der Beweis des Ursachenzusammenhangs obliegt der Person, die Schadenersatz beansprucht. Kann dieser Beweis nicht mit Sicherheit erbracht werden oder kann der Person, der er obliegt, die Beweisführung nicht zugemutet werden, so kann sich das Gericht mit der überwiegenden Wahrscheinlichkeit begnügen. Das Gericht kann den Sachverhalt ausserdem von Amtes wegen feststellen lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 9 USG",
+        "content": "Die bewilligungs- oder meldepflichtige Person muss auch die Kosten von notwendigen und angemessenen Massnahmen ersetzen, die ergriffen wurden, um zerstörte oder beschädigte Bestandteile der Umwelt wieder herzustellen oder sie durch gleichwertige Bestandteile zu ersetzen. Sind die zerstörten oder beschädigten Umweltbestandteile nicht Gegenstand eines dinglichen Rechts oder ergreift der Berechtigte die nach den Umständen gebotenen Massnahmen nicht, so steht der Ersatzanspruch dem zuständigen Gemeinwesen zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 10 USG",
+        "content": "Von der Haftpflicht wird befreit, wer beweist, dass der Schaden durch höhere Gewalt oder durch grobes Verschulden des Geschädigten oder eines Dritten verursacht worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 11 USG",
+        "content": "Die Artikel 42–47 und 49–53 des Obligationenrechts sind anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Pathogene Organismen",
+        "citation": "Art. 59abis Abs. 12 USG",
+        "content": "Bund, Kantone und Gemeinden haften ebenfalls nach den Absätzen 1–11.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_a_bis"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Sicherstellung",
+        "citation": "Art. 59b USG",
+        "content": "Zum Schutz der Geschädigten kann der Bundesrat:\na. den Inhabern bestimmter Betriebe oder Anlagen sowie den bewilligungs- oder meldepflichtigen Personen, die mit pathogenen Organismen umgehen, vorschreiben, dass sie ihre Haftpflicht durch Versicherung oder in anderer Form sicherstellen;\nb. den Umfang und die Dauer dieser Sicherstellung festlegen oder dies im Einzelfall der Behörde überlassen;\nc. denjenigen, der die Haftpflicht sicherstellt, verpflichten, der Vollzugsbehörde Bestehen, Aussetzen und Aufhören der Sicherstellung zu melden;\nd. vorsehen, dass die Sicherstellung erst 60 Tage nach Eingang der Meldung aussetzt oder aufhört;\ne. vorsehen, dass das Gelände von Deponien bei ihrem Abschluss in das Eigentum des Kantons übergeht, und Vorschriften über eine allfällige Entschädigung erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_b"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Verjährung",
+        "citation": "Art. 59c Abs. 1 USG",
+        "content": "Die Ersatzansprüche verjähren nach Artikel 60 des Obligationenrechts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Verjährung",
+        "citation": "Art. 59c Abs. 2 USG",
+        "content": "Ist der Schaden wegen des Umgangs mit pathogenen Organismen entstanden, verjähren die Ersatzansprüche drei Jahre, nachdem die geschädigte Person Kenntnis vom Schaden und von der haftpflichtigen Person erlangt hat, spätestens aber 30 Jahre nachdem:\na. das Ereignis, das den Schaden verursacht hat, im Betrieb oder in der Anlage eingetreten ist oder ein Ende gefunden hat; oder\nb. die pathogenen Organismen in Verkehr gebracht worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_c"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 4. Titel:, Haftpflicht, Verjährung des Rückgriffsrechts",
+        "citation": "Art. 59d USG",
+        "content": "Das Rückgriffsrecht verjährt nach Artikel 59c. Die dreijährige Frist beginnt zu laufen, sobald die Ersatzleistung vollständig erbracht und die mithaftpflichtige Person bekannt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_59_d"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Vergehen",
+        "citation": "Art. 60 Abs. 1 USG",
+        "content": "Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:\na. die zur Verhinderung von Katastrophen verfügten Sicherheitsmassnahmen unterlässt oder das Verbot bestimmter Produktionsverfahren oder Lagerhaltungen missachtet (Art. 10);\nb. Stoffe, von denen er weiss oder wissen muss, dass bestimmte Verwendungen die Umwelt oder mittelbar den Menschen gefährden können, für diese Verwendungen in Verkehr bringt (Art. 26);\nc. Stoffe in Verkehr bringt, ohne den Abnehmer über die umweltbezogenen Eigenschaften zu informieren (Art. 27 Abs. 1 Bst. a) oder über den vorschriftsgemässen Umgang anzuweisen (Art. 27 Abs. 1 Bst. b);\nd. mit Stoffen entgegen den Anweisungen so umgeht, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen gefährden können (Art. 28);\ne. Vorschriften über Stoffe oder Organismen verletzt (Art. 29, 29b Abs. 2, 29f, 30a Bst. b und 34 Abs. 1);\nf. mit Organismen so umgeht, dass die Grundsätze von Artikel 29a Absatz 1 verletzt werden;\ng. beim Umgang mit pathogenen Organismen nicht alle notwendigen Einschliessungsmassnahmen trifft (Art. 29b Abs. 1);\nh. pathogene Organismen ohne Bewilligung im Versuch freisetzt oder für Verwendungen in der Umwelt in Verkehr bringt (Art. 29c Abs. 1 und 29d Abs. 3 und 4);\ni. Organismen, von denen er weiss oder wissen muss, dass bei bestimmten Verwendungen die Grundsätze von Artikel 29a Absatz 1 verletzt werden, in Verkehr bringt (Art. 29d Abs. 1);\nj. Organismen in Verkehr bringt, ohne den Abnehmer entsprechend zu informieren und anzuweisen (Art. 29e Abs. 1);\nk. mit Organismen entgegen den Anweisungen umgeht (Art. 29e Abs. 2);\nl. ...\nm. eine Deponie ohne Bewilligung errichtet oder betreibt (Art. 30e Abs. 2);\nn. Sonderabfälle für die Übergabe nicht kennzeichnet (Art. 30f Abs. 2 Bst. a) oder an eine Unternehmung übergibt, die keine Bewilligung besitzt (Art. 30f  Abs. 2 Bst. b);\no. Sonderabfälle ohne Bewilligung entgegennimmt, einführt oder ausführt (Art. 30f Abs. 2 Bst. c und d);\np. Vorschriften über den Verkehr mit Sonderabfällen verletzt (Art. 30f Abs. 1);\nq. Vorschriften über Abfälle (Art. 30a Bst. b) verletzt;\nr. Vorschriften über das erstmalige Inverkehrbringen von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35e Absatz 3 bezeichnet wurden, verletzt (Art. 35e und 35f Abs. 1 und 2 Bst. a).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_60"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Vergehen",
+        "citation": "Art. 60 Abs. 2 USG",
+        "content": "Handelt der Täter fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_60"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Übertretungen",
+        "citation": "Art. 61 Abs. 1 USG",
+        "content": "Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:\na. aufgrund dieses Gesetzes erlassene Emissionsbegrenzungen verletzt (Art. 12 und 34 Abs. 1);\nb. Sanierungsverfügungen nicht befolgt (Art. 16 und 32c Abs. 1);\nc. behördlich verfügte Schallschutzmassnahmen nicht trifft (Art. 19–25);\nd. falsch oder unvollständig informiert oder anweist (Art. 27);\ne. mit Stoffen, denen keine Informationen oder Anweisungen beiliegen, so umgeht, dass sie, ihre Folgeprodukte oder Abfälle die Umwelt oder mittelbar den Menschen gefährden können (Art. 28);\nf. widerrechtlich Abfälle ausserhalb von Anlagen verbrennt (Art. 30c Abs. 2);\ng. Abfälle ausserhalb von bewilligten Deponien ablagert (Art. 30e Abs. 1);\nh. Meldepflichten im Zusammenhang mit Abfällen verletzt (Art. 30f Abs. 4, 30g Abs. 2, 32b Abs. 2 und 3);\ni. Vorschriften über Abfälle verletzt (Art. 30a Bst. a und c, 30b, 30c Abs. 3, 30d, 30h Abs. 1, 32abis, 32b Abs. 4 und 32e Abs. 1–4);\nk. Vorschriften über den Verkehr mit anderen Abfällen verletzt (Art. 30g Abs. 1);\nl. die Kosten für den Abschluss, die Nachsorge und die Sanierung einer Deponie nicht sicherstellt (Art. 32b Abs. 1);\nm. Vorschriften über physikalische Belastungen und die Nutzung des Bodens (Art. 33 Abs. 2 und 34 Abs. 1 und 2) sowie über Massnahmen zur Verminderung der Bodenbelastung (Art. 34 Abs. 3) verletzt;\nmbis.  Vorschriften über die Rückverfolgbarkeit von Holz und Holzerzeugnissen sowie von Rohstoffen und Produkten, die vom Bundesrat nach Artikel 35e Absatz 3 bezeichnet wurden und für die eine Dokumentationspflicht festgelegt wurde, verletzt (Art. 35g Abs. 1);\nn. Vorschriften über das Inverkehrbringen serienmässig hergestellter Anlagen verletzt (Art. 40);\no. von der zuständigen Behörde verlangte Auskünfte verweigert oder unrichtige Angaben macht (Art. 46);\np. Vorschriften über die Sicherstellung der Haftpflicht verletzt (Art. 59b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Übertretungen",
+        "citation": "Art. 61 Abs. 2 USG",
+        "content": "Handelt der Täter fahrlässig, so ist die Strafe Busse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Übertretungen",
+        "citation": "Art. 61 Abs. 3 USG",
+        "content": "Versuch und Gehilfenschaft sind strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe",
+        "citation": "Art. 61a Abs. 1 USG",
+        "content": "Wer vorsätzlich oder fahrlässig eine Abgabe nach den Artikeln 35a, 35b oder 35bbis hinterzieht, gefährdet oder sich oder einem anderen einen unrechtmässigen Abgabevorteil (Befreiung oder Rückerstattung von Abgaben) verschafft, wird mit Busse bis zum Fünffachen der hinterzogenen oder gefährdeten Abgabe oder des Vorteils bestraft. Kann der Abgabebetrag zahlenmässig nicht genau ermittelt werden, so wird er geschätzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe",
+        "citation": "Art. 61a Abs. 2 USG",
+        "content": "Wer vorsätzlich oder fahrlässig biogene Treib- oder Brennstoffe ohne Zulassung nach Artikel 35d in Verkehr bringt oder eine Zulassung mit falschen, unwahren oder unvollständigen Angaben erschleicht, wird mit Busse bis zu 500 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe",
+        "citation": "Art. 61a Abs. 3 USG",
+        "content": "Der Versuch einer Widerhandlung nach den Absätzen 1 und 2 ist strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe",
+        "citation": "Art. 61a Abs. 4 USG",
+        "content": "Verfolgende und urteilende Behörde ist das Bundesamt für Zoll und Grenzsicherheit (BAZG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Widerhandlungen gegen die Vorschriften über die Lenkungsabgaben und über die biogenen Treib- und Brennstoffe",
+        "citation": "Art. 61a Abs. 5 USG",
+        "content": "Erfüllt eine Handlung zugleich den Tatbestand einer Widerhandlung nach den Absätzen 1–3 und einer anderen durch das BAZG zu verfolgenden Widerhandlung gegen einen Erlass des Bundes, so wird die für die schwerste Widerhandlung verwirkte Strafe verhängt; diese kann angemessen erhöht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_61_a"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Anwendung des Verwaltungsstrafrechts",
+        "citation": "Art. 62 Abs. 1 USG",
+        "content": "Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht gelten für strafbare Handlungen nach diesem Gesetz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_62"
+    },
+    {
+        "book": "USG",
+        "title": "USG, 5. Titel:, Strafbestimmungen, Anwendung des Verwaltungsstrafrechts",
+        "citation": "Art. 62 Abs. 2 USG",
+        "content": "Für Widerhandlungen nach Artikel 61a gelten zudem die übrigen Bestimmungen des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1984/1122_1122_1122/de#art_62"
+    }
+]

@@ -1,0 +1,702 @@
+[
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Contrat de crédit à la consommation",
+        "citation": "Art. 1 al. 1 LCC",
+        "content": "Le contrat de crédit à la consommation est un contrat en vertu duquel un crédit sous la forme d’un délai de paiement, d’un prêt ou de toute autre facilité de paiement similaire est consenti ou promis à un consommateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Contrat de crédit à la consommation",
+        "citation": "Art. 1 al. 2 LCC",
+        "content": "Sont aussi considérés comme des contrats de crédit à la consommation:\na. les contrats de leasing qui portent sur des choses mobilières servant à l’usage privé du preneur et qui prévoient une augmentation des redevances convenues en cas de résiliation anticipée du contrat;\nb. les cartes de crédit, les cartes de client ainsi que les crédits consentis sous la forme d’une avance sur compte courant qui sont liés à une option de crédit; par option de crédit, on entend la possibilité de rembourser par paiements partiels le solde d’une carte de crédit ou d’une carte de client.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Contrat de crédit à la consommation",
+        "citation": "Art. 1 al. 3 LCC",
+        "content": "Le contrat de crédit à la consommation est conclu entre le consommateur et un prêteur au sens de l’art. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Prêteur",
+        "citation": "Art. 2 LCC",
+        "content": "Par prêteur, on entend toute personne physique ou morale qui:\na. consent des crédits à la consommation par métier (prêteur agissant par métier), ou\nb. consent des crédits à la consommation, sans agir par métier, par l’intermédiaire d’un courtier en crédit participatif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_2"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Consommateur",
+        "citation": "Art. 3 LCC",
+        "content": "Par consommateur, on entend toute personne physique qui conclut un contrat de crédit à la consommation dans un but pouvant être considéré comme étranger à son activité commerciale ou professionnelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_3"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Courtier en crédit",
+        "citation": "Art. 4 al. 1 LCC",
+        "content": "Par courtier en crédit, on entend toute personne physique ou morale qui, par métier, sert d’intermédiaire à la conclusion d’un contrat de crédit à la consommation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_4"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Courtier en crédit",
+        "citation": "Art. 4 al. 2 LCC",
+        "content": "Par courtier en crédit participatif, on entend toute personne physique ou morale qui, par métier, organise pour un consommateur un octroi coordonné de crédits à la consommation auquel plusieurs prêteurs n’agissant pas par métier peuvent participer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_4"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Coût total du crédit accordé au consommateur",
+        "citation": "Art. 5 LCC",
+        "content": "Par coût total du crédit accordé au consommateur, on entend tous les coûts, y compris les intérêts et les autres frais, que le consommateur est tenu de payer pour le crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_5"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 1, Définitions, Taux annuel effectif global",
+        "citation": "Art. 6 LCC",
+        "content": "Par taux annuel effectif global, on entend le coût total du crédit accordé au consommateur, exprimé en pourcentage annuel du montant du crédit consenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_6"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 2, Champ d’application, Exclusion",
+        "citation": "Art. 7 al. 1 LCC",
+        "content": "La présente loi ne s’applique pas:\na. aux contrats de crédit ou aux promesses de crédit garantis directement ou indirectement par des gages immobiliers;\nb. aux contrats de crédit ou aux promesses de crédit couverts par le dépôt d’une garantie bancaire usuelle ou pour lesquels le consommateur a déposé suffisamment d’avoirs auprès du prêteur;\nc. aux crédits accordés ou mis à disposition sans rémunération en intérêts ni autres charges;\nd. aux contrats de crédit ne prévoyant pas d’intérêts à condition que le consommateur accepte de rembourser le crédit en une seule fois;\ne. aux contrats de crédit portant sur un montant inférieur à 500 francs ou supérieur à 80 000 francs, les crédits faisant l’objet d’un courtage coordonné en faveur d’un même consommateur devant être additionnés;\nf. aux contrats de crédit en vertu desquels le consommateur est tenu de rembourser le crédit dans un délai ne dépassant pas trois mois;\ng. aux contrats conclus en vue de la prestation continue de services privés ou publics, en vertu desquels le consommateur a le droit de régler le coût desdits services, aussi longtemps qu’ils sont fournis, par des paiements échelonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_7"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 2, Champ d’application, Exclusion",
+        "citation": "Art. 7 al. 2 LCC",
+        "content": "Le Conseil fédéral peut adapter aux circonstances nouvelles les montants prévus à l’al. 1, let. e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_7"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 2, Champ d’application, Limitation",
+        "citation": "Art. 8 al. 1 LCC",
+        "content": "Les contrats de leasing au sens de l’art. 1, al. 2, let. a, ne sont soumis qu’aux art. 11, 13 à 16, 17, al. 3, 18, al. 2 et 3, 19 à 24, 25, al. 1 et 3, 26, 29 et 31 à 40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_8"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 2, Champ d’application, Limitation",
+        "citation": "Art. 8 al. 2 LCC",
+        "content": "Les comptes liés à une carte de crédit ou à une carte de client avec une option de crédit ainsi que les crédits consentis sous la forme d’une avance sur compte courant ne sont soumis qu’aux art. 12 à 16, 17, al. 1 et 2, 18, al. 1 et 3, 19 à 24, 25, al. 1 et 3, 27, 30 à 40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_8"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit au comptant",
+        "citation": "Art. 9 al. 1 LCC",
+        "content": "Le contrat de crédit à la consommation est établi par écrit; le consommateur reçoit un exemplaire du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_9"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit au comptant",
+        "citation": "Art. 9 al. 2 LCC",
+        "content": "Il contient les indications suivantes:\na. le montant net du crédit;\nb. le taux annuel effectif global ou, à défaut, le taux d’intérêt annuel et les frais applicables lors de la conclusion du contrat;\nc. les conditions auxquelles les éléments mentionnés à la let. b peuvent être modifiés;\nd. les éléments du coût total du crédit qui ne sont pas pris en compte dans le calcul du taux annuel effectif global (art. 34), à l’exception des frais liés au non-respect des obligations contractuelles; si le montant exact de ces éléments de coût est connu, il doit être indiqué; sinon, dans la mesure du possible, le contrat contiendra soit une méthode de calcul, soit une estimation réaliste;\ne. le plafond éventuel du crédit;\nf. les conditions de remboursement, notamment le montant, le nombre et la périodicité ou les dates des versements que le consommateur doit effectuer pour rembourser le crédit et payer les intérêts et les autres frais, ainsi que, lorsque cela est possible, le montant total de ces versements;\ng. le droit à la remise des intérêts et à une réduction équitable des frais afférents à la durée non utilisée du crédit en cas de remboursement anticipé;\nh. le droit de révocation et le délai de révocation (art. 16);\ni. les garanties éventuellement demandées;\nj. la part saisissable du revenu, déterminée dans le cadre de l’examen de la capacité de contracter un crédit (art. 28, al. 2 et 3); les détails peuvent être consignés dans un document séparé, qui fait partie intégrante du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_9"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Contrat portant sur le financement de biens ou de services",
+        "citation": "Art. 10 LCC",
+        "content": "Le contrat de crédit portant sur le financement de biens ou de services contient au surplus les indications suivantes:\na. une description de ces biens ou services;\nb. le prix au comptant et le prix à payer en vertu du contrat de crédit;\nc. le montant d’un acompte éventuel, le nombre et le montant des paiements échelonnés ainsi que leurs échéances ou la méthode à utiliser pour déterminer chacun de ces éléments s’ils sont encore inconnus au moment de la conclusion du contrat;\nd. l’identité du propriétaire des biens s’il n’y a pas immédiatement transfert de propriété au consommateur, et les conditions dans lesquelles le consommateur en devient propriétaire;\ne. une éventuelle obligation d’assurance et, si le choix de l’assureur n’est pas laissé au consommateur, le coût de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_10"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Contrat de leasing",
+        "citation": "Art. 11 al. 1 LCC",
+        "content": "Le contrat de leasing est conclu par écrit; le preneur en reçoit une copie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_11"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Contrat de leasing",
+        "citation": "Art. 11 al. 2 LCC",
+        "content": "Le contrat contient les indications suivantes:\na. une description de l’objet du leasing et son prix d’achat au comptant lors de la conclusion du contrat;\nb. le nombre et le montant des redevances ainsi que leurs échéances;\nc. le montant d’une éventuelle caution;\nd. une éventuelle obligation d’assurance et, si le choix de l’assureur n’est pas laissé au consommateur, le coût de celle-ci;\ne. le taux annuel effectif global;\nf. le droit de révocation et le délai de révocation;\ng. un tableau, établi selon des principes reconnus, qui fait état, d’une part, du montant à payer par le preneur, en plus des redevances déjà versées, en cas de résiliation anticipée du contrat, et, d’autre part, de la valeur résiduelle de l’objet du leasing au moment de la résiliation;\nh. les éléments pris en compte lors de l’examen de la capacité de conclure un contrat de leasing (art. 29, al. 2); les détails peuvent être consignés dans un document séparé, qui fait partie intégrante du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_11"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit consenti sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec option de crédit",
+        "citation": "Art. 12 al. 1 LCC",
+        "content": "Si le prêteur accorde un crédit à un consommateur sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec option de crédit, le contrat est établi par écrit; le consommateur en reçoit une copie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit consenti sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec option de crédit",
+        "citation": "Art. 12 al. 2 LCC",
+        "content": "Le contrat contient les indications suivantes:\na. le plafond du crédit;\nb. le taux d’intérêt annuel et les frais applicables lors de la conclusion du contrat ainsi que les conditions auxquelles ils peuvent être modifiés;\nc. les conditions auxquelles il peut être mis fin au contrat;\nd. les éléments pris en compte lors de l’examen de la capacité de contracter un crédit (art. 30, al. 1); les détails peuvent être consignés dans un document séparé, qui fait partie intégrante du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit consenti sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec option de crédit",
+        "citation": "Art. 12 al. 3 LCC",
+        "content": "En cours de contrat, le consommateur doit être immédiatement informé de toute modification du taux d’intérêt annuel ou des frais; cette information peut être fournie dans un relevé de compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Crédit consenti sous la forme d’une avance sur compte courant ou sur compte lié à une carte de crédit ou à une carte de client avec option de crédit",
+        "citation": "Art. 12 al. 4 LCC",
+        "content": "Si un découvert est accepté tacitement et qu’il se prolonge au-delà d’une période de trois mois, le consommateur doit être informé:\na. du taux d’intérêt annuel et des frais éventuels applicables;\nb. de toute modification de ceux-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Consentement du représentant légal",
+        "citation": "Art. 13 al. 1 LCC",
+        "content": "La validité d’un contrat de crédit à la consommation conclu par un mineur est subordonnée au consentement écrit de son représentant légal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_13"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Consentement du représentant légal",
+        "citation": "Art. 13 al. 2 LCC",
+        "content": "Le consentement doit être donné au plus tard au moment de la signature du contrat par le consommateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_13"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Taux d’intérêt maximum",
+        "citation": "Art. 14 LCC",
+        "content": "Le Conseil fédéral fixe le taux maximum admissible prévu à l’art. 9, al. 2, let. b. Il prend en compte à cet effet les taux d’intérêt de la Banque nationale déterminants pour le refinancement des crédits à la consommation. En règle générale, le taux maximum ne doit pas dépasser 15 %.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_14"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Nullité",
+        "citation": "Art. 15 al. 1 LCC",
+        "content": "La violation des art. 9 à 11, 12, al. 1, 2 et 4, let. a, 13 et 14 entraîne la nullité du contrat de crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Nullité",
+        "citation": "Art. 15 al. 2 LCC",
+        "content": "En cas de nullité du contrat de crédit, le consommateur est tenu de rembourser jusqu’à l’expiration de la durée du crédit le montant déjà versé ou utilisé; il ne doit ni intérêts ni frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Nullité",
+        "citation": "Art. 15 al. 3 LCC",
+        "content": "Le crédit est remboursable par paiements partiels égaux se succédant à des intervalles d’un mois, sauf si le contrat prévoit des intervalles plus longs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Nullité",
+        "citation": "Art. 15 al. 4 LCC",
+        "content": "Lorsqu’il s’agit d’un contrat de leasing, le preneur doit restituer l’objet cédé et payer les redevances périodiques dues jusqu’alors. La perte de valeur de l’objet non couverte est à la charge du donneur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Droit de révocation",
+        "citation": "Art. 16 al. 1 LCC",
+        "content": "Le consommateur peut révoquer par écrit, dans un délai de quatorze jours, son offre de conclure le contrat ou son acceptation. Le droit de révocation ne s’applique pas aux cas prévus à l’art. 12, al. 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Droit de révocation",
+        "citation": "Art. 16 al. 1bis LCC",
+        "content": "Les contrats conclus avec des prêteurs visés à l’art. 2, let. b, peuvent être révoqués:\na. auprès des différents prêteurs, ou\nb. par un avis unique auprès du courtier en crédit participatif, avec effet pour tous les prêteurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Droit de révocation",
+        "citation": "Art. 16 al. 2 LCC",
+        "content": "Le délai de révocation commence à courir dès que le consommateur a reçu un exemplaire du contrat visé à l’art. 9, al. 1, 11, al. 1 ou 12, al. 1. Le délai est respecté si le consommateur remet son avis de révocation au prêteur ou à la poste le dernier jour du délai.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Droit de révocation",
+        "citation": "Art. 16 al. 2bis LCC",
+        "content": "Dans les cas visés à l’al. 1bis, let. b, le délai de révocation commence à courir dès que le consommateur a reçu un exemplaire du dernier contrat conclu avec un prêteur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 3, Forme et contenu du contrat, Droit de révocation",
+        "citation": "Art. 16 al. 3 LCC",
+        "content": "Si le prêt a été versé avant la fin du délai de révocation, l’art. 15, al. 2 et 3, est applicable. L’art. 40f du code des obligations s’applique aux ventes à tempérament, aux contrats de crédit portant sur le financement de services et aux contrats de leasing. En cas d’usage abusif de la chose durant le délai de révocation, le consommateur doit une indemnité adéquate calculée en fonction de la valeur perdue de la chose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Remboursement anticipé",
+        "citation": "Art. 17 al. 1 LCC",
+        "content": "Le consommateur a le droit de s’acquitter par anticipation des obligations qui découlent pour lui du contrat de crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Remboursement anticipé",
+        "citation": "Art. 17 al. 2 LCC",
+        "content": "Dans ce cas, il a droit à la remise des intérêts et à une réduction équitable des frais afférents à la durée non utilisée du crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Remboursement anticipé",
+        "citation": "Art. 17 al. 3 LCC",
+        "content": "Le preneur de leasing peut résilier le contrat en observant un délai minimum de 30 jours pour la fin d’un trimestre de contrat. L’indemnité due par le preneur est déterminée selon le tableau prévu à l’art. 11, al. 2, let. g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Demeure",
+        "citation": "Art. 18 al. 1 LCC",
+        "content": "Le prêteur ne peut résilier le contrat que si les versements en suspens représentent au moins 10 % du montant net du crédit ou du paiement au comptant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Demeure",
+        "citation": "Art. 18 al. 2 LCC",
+        "content": "Le donneur de leasing ne peut résilier le contrat que si le montant en suspens est supérieur à trois redevances mensuelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Demeure",
+        "citation": "Art. 18 al. 3 LCC",
+        "content": "L’intérêt moratoire ne peut être supérieur au taux de l’intérêt convenu pour le crédit ou le contrat de leasing (art. 9, al. 2, let. b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Exceptions du consommateur",
+        "citation": "Art. 19 LCC",
+        "content": "Le consommateur a le droit inaliénable d’opposer à tout cessionnaire les exceptions découlant du contrat de crédit à la consommation qui lui appartiennent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_19"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Paiement et garantie sous forme de lettres de change",
+        "citation": "Art. 20 al. 1 LCC",
+        "content": "Il est interdit au prêteur d’accepter le paiement du crédit sous forme de lettres de change, y compris les billets à ordre, et de recevoir une garantie sous forme de lettres de change, y compris les billets à ordre et les chèques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Paiement et garantie sous forme de lettres de change",
+        "citation": "Art. 20 al. 2 LCC",
+        "content": "Si, en violation de l’al. 1, le prêteur accepte une lettre de change ou un chèque, le consommateur peut en exiger la restitution en tout temps.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Paiement et garantie sous forme de lettres de change",
+        "citation": "Art. 20 al. 3 LCC",
+        "content": "Le prêteur répond du dommage causé au consommateur du fait de l’émission de la lettre de change ou du chèque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Exécution défectueuse du contrat d’acquisition",
+        "citation": "Art. 21 al. 1 LCC",
+        "content": "Le consommateur qui conclut un contrat de crédit avec une personne autre que le fournisseur des biens ou des services en vue de l’acquisition de biens ou de services peut faire valoir à l’encontre du prêteur tous les droits qu’il peut exercer à l’encontre du fournisseur, lorsque les conditions suivantes sont remplies:\na. il existe entre le prêteur et le fournisseur un accord en vertu duquel un crédit est accordé exclusivement par ce prêteur aux clients de ce fournisseur;\nb. le consommateur obtient le crédit en vertu de cet accord;\nc. les biens ou les services faisant l’objet du contrat de crédit ne sont pas fournis, ne le sont qu’en partie ou ne sont pas conformes au contrat y relatif;\nd. le consommateur a fait valoir ses droits contre le fournisseur sans obtenir satisfaction;\ne. l’opération en question porte sur un montant supérieur à 500 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_21"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 4, Droits et obligations des parties, Exécution défectueuse du contrat d’acquisition",
+        "citation": "Art. 21 al. 2 LCC",
+        "content": "Le Conseil fédéral peut adapter aux circonstances nouvelles le montant prévu à l’al. 1, let. e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_21"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Principe",
+        "citation": "Art. 22 LCC",
+        "content": "L’examen de la capacité de contracter un crédit a pour but d’empêcher le surendettement occasionné par un contrat de crédit à la consommation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_22"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Centre de renseignements",
+        "citation": "Art. 23 al. 1 LCC",
+        "content": "Les prêteurs agissant par métier créent un centre de renseignements sur le crédit à la consommation (centre de renseignements). Cette institution commune traite les données prévues aux art. 25 à 27.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Centre de renseignements",
+        "citation": "Art. 23 al. 2 LCC",
+        "content": "Les statuts du centre de renseignements sont soumis à l’approbation du département compétent. Ils prévoient des dispositions concernant:\na. la responsabilité en matière de traitement des données;\nb. les catégories de données pouvant être collectées, leur durée de conservation, leur archivage et leur effacement;\nc. les autorisations d’accès aux données et de traitement de celles-ci;\nd. la collaboration avec des tiers concernés;\ne. la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Centre de renseignements",
+        "citation": "Art. 23 al. 3 LCC",
+        "content": "Le centre de renseignements est un organe fédéral au sens de l’art. 5, let. i, de la loi fédérale du 25 septembre 2020 sur la protection des données. Le Conseil fédéral édicte les dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Centre de renseignements",
+        "citation": "Art. 23 al. 4 LCC",
+        "content": "Sous réserve des compétences prévues par la loi fédérale sur la protection des données, le centre de renseignements est soumis à la surveillance du département compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Centre de renseignements",
+        "citation": "Art. 23 al. 5 LCC",
+        "content": "Le Conseil fédéral peut fixer un délai aux prêteur agissant par métier pour créer le centre de renseignements. Si cet organe n’est pas créé ou s’il est dissous ultérieurement, le Conseil fédéral l’institue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Accès aux données",
+        "citation": "Art. 24 al. 1 LCC",
+        "content": "Seuls les prêteurs agissant par métier et les courtiers en crédit participatif ont accès aux données recueillies par le centre de renseignements; ils n’ont accès qu’aux données dont ils ont besoin pour l’exécution des obligations qui leurs incombent en vertu de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_24"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Accès aux données",
+        "citation": "Art. 24 al. 2 LCC",
+        "content": "Toutefois, les institutions d’assainissement des dettes désignées et soutenues par les cantons ont également accès aux données réunies par le centre de renseignements après avoir recueilli dans chaque cas l’assentiment du débiteur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_24"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer",
+        "citation": "Art. 25 al. 1 LCC",
+        "content": "Le prêteur agissant par métier ou le courtier en crédit participatif doit annoncer au centre de renseignements:\na. le crédit à la consommation qu’il a consenti ou dont il a fait le courtage;\nb. les versements en suspens représentant au moins 10 % du montant net du crédit ou du paiement au comptant (art. 18, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer",
+        "citation": "Art. 25 al. 2 LCC",
+        "content": "Si le consommateur n’effectue pas les paiements échelonnés par l’intermédiaire du courtier en crédit participatif, celui-ci s’assure que les prêteurs n’agissant pas par métier lui annoncent les montants en suspens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer",
+        "citation": "Art. 25 al. 3 LCC",
+        "content": "Le centre de renseignements règle dans ses statuts ou dans un règlement prévu par ceux-ci les modalités concernant le contenu, la forme et le moment de l’annonce obligatoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer les contrats de leasing",
+        "citation": "Art. 26 al. 1 LCC",
+        "content": "En cas de leasing, le prêteur agissant par métier ou le courtier en crédit participatif doit annoncer au centre de renseignements:\na. le montant total qui est dû;\nb. la durée du contrat;\nc. le montant des redevances mensuelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_26"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer les contrats de leasing",
+        "citation": "Art. 26 al. 2 LCC",
+        "content": "Il doit également annoncer les cas dans lesquels un montant en suspens atteint trois redevances mensuelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_26"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer les comptes liés à une carte de crédit ou à une carte de client avec option de crédit ou les crédits consentis sous la forme d’une avance sur compte courant",
+        "citation": "Art. 27 al. 1 LCC",
+        "content": "Lorsque le consommateur fait usage de son option de crédit trois fois de suite, le prêteur doit l’annoncer au centre de renseignements. L’annonce n’est pas obligatoire lorsque le montant qui reste à payer est inférieur à 3000 francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_27"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’annoncer les comptes liés à une carte de crédit ou à une carte de client avec option de crédit ou les crédits consentis sous la forme d’une avance sur compte courant",
+        "citation": "Art. 27 al. 2 LCC",
+        "content": "Le Conseil fédéral est autorisé à adapter périodiquement, par voie d’ordonnance, la limite de 3000 francs mentionnée à l’al. 1 à l’évolution de l’indice suisse des prix à la consommation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_27"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Obligation d’examiner la capacité de contracter un crédit",
+        "citation": "Art. 27a LCC",
+        "content": "Le prêteur agissant par métier ou le courtier en crédit participatif doit examiner la capacité de contracter un crédit du consommateur avant la conclusion du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_27_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit",
+        "citation": "Art. 28 al. 2 LCC",
+        "content": "Le consommateur est réputé avoir la capacité de contracter un crédit lorsqu’il peut rembourser ce crédit sans grever la part insaisissable de son revenu visée à l’art. 93, al. 1, de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit",
+        "citation": "Art. 28 al. 3 LCC",
+        "content": "La part saisissable du revenu est déterminée selon les directives concernant le calcul du minimum vital édictées par le canton de domicile du consommateur. Dans tous les cas, il sera tenu compte:\na. du loyer effectivement dû;\nb. du montant de l’impôt dû, calculé d’après le barème de l’impôt à la source;\nc. des engagements communiqués au centre de renseignements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit",
+        "citation": "Art. 28 al. 4 LCC",
+        "content": "La capacité de contracter un crédit à la consommation est examinée sur la base d’un amortissement du crédit en 36 mois, même si le contrat prévoit un remboursement plus échelonné. Les sommes non encore remboursées sur des crédits déjà octroyés doivent être prises en compte dans ce calcul.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit",
+        "citation": "Art. 28 al. 5 LCC",
+        "content": "En cas de courtage coordonné, l’examen de la capacité du consommateur concerné de contracter un crédit à la consommation prend en compte tous les crédits faisant l’objet du courtage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la situation financière du preneur de leasing",
+        "citation": "Art. 29 al. 1 LCC",
+        "content": "Le donneur de leasing agissant par métier doit examiner la situation financière du preneur avant la conclusion du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_29"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la situation financière du preneur de leasing",
+        "citation": "Art. 29 al. 2 LCC",
+        "content": "La capacité de contracter est admise lorsque le preneur peut payer les redevances sans grever la part insaisissable de son revenu au sens de l’art. 28, al. 2 et 3, ou lorsque des valeurs patrimoniales appartenant au preneur assurent le paiement des redevances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_29"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit pour les comptes liés à une carte de crédit ou à une carte de client avec option de crédit et pour les crédits consentis sous la forme d’une avance sur compte courant",
+        "citation": "Art. 30 al. 1 LCC",
+        "content": "La limite du crédit consenti dans le cadre d’un compte lié à une carte de crédit ou à une carte de client avec option de crédit ou d’un crédit consenti sous la forme d’une avance sur compte courant doit être fixée, au moment de la conclusion du contrat, en tenant compte, par le biais d’un examen sommaire du crédit, de la situation du consommateur en matière de revenu et de fortune selon les renseignements fournis par l’auteur de la demande de crédit. À cet effet, il sera tenu compte des crédits communiqués au centre de renseignements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_30"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Examen de la capacité de contracter un crédit pour les comptes liés à une carte de crédit ou à une carte de client avec option de crédit et pour les crédits consentis sous la forme d’une avance sur compte courant",
+        "citation": "Art. 30 al. 2 LCC",
+        "content": "L’examen de la capacité de contracter un crédit, exigé à l’al. 1, doit être renouvelé lorsque le prêteur agissant par métier ou l’établissement de crédit dispose d’informations selon lesquelles la situation économique du consommateur s’est dégradée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_30"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Étendue des renseignements relatifs au consommateur",
+        "citation": "Art. 31 al. 1 LCC",
+        "content": "Le prêteur agissant par métier ou le courtier en crédit participatif peut s’en tenir aux informations fournies par le consommateur sur ses sources de revenus et ses obligations financières (art. 28, al. 3 et 4) ou sur sa situation économique (art. 29, al. 2, et 30, al. 1). Il peut cependant exiger du consommateur qu’il lui fournisse un extrait du registre des poursuites et une attestation de salaire ou, s’il n’exerce pas d’activité dépendante, d’autres documents attestant de ses revenus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Étendue des renseignements relatifs au consommateur",
+        "citation": "Art. 31 al. 2 LCC",
+        "content": "Font exception les informations manifestement fausses ou qui ne correspondent pas aux données fournies par le centre de renseignements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Étendue des renseignements relatifs au consommateur",
+        "citation": "Art. 31 al. 3 LCC",
+        "content": "Si le prêteur agissant par métier ou le courtier en crédit participatif doute de l’exactitude des informations fournies par le consommateur, il en vérifie la véracité au moyen de documents officiels ou privés. Il ne se contentera pas pour ce faire des documents prévus à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Sanctions à l’encontre du prêteur",
+        "citation": "Art. 32 al. 1 LCC",
+        "content": "Si le prêteur agissant par métier contrevient de manière grave aux art. 27a, 28, 29, 30 ou 31, il perd le montant du crédit qu’il a consenti, y compris les intérêts et les frais. Le consommateur peut réclamer le remboursement des montants qu’il a déjà versés, en application des règles sur l’enrichissement illégitime.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_32"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Sanctions à l’encontre du prêteur",
+        "citation": "Art. 32 al. 2 LCC",
+        "content": "Si le prêteur agissant par métier contrevient aux art. 25, 26 ou 27, al. 1, ou contrevient de manière peu grave aux art. 27a, 28, 29, 30 ou 31, il ne perd que les intérêts et les frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_32"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Sanctions en cas de courtage en crédit participatif",
+        "citation": "Art. 32a al. 1 LCC",
+        "content": "Le courtier en crédit participatif qui contrevient aux art. 25, 26, 27, al. 1, 27a, 28, 29, 30 ou 31, est puni d’une amende de 100 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_32_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 5, Capacité de contracter un crédit, Sanctions en cas de courtage en crédit participatif",
+        "citation": "Art. 32a al. 2 LCC",
+        "content": "Le consommateur ne doit ni les intérêts ni les frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_32_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Date et méthode de calcul",
+        "citation": "Art. 33 al. 1 LCC",
+        "content": "Le taux annuel effectif global est calculé à la conclusion du contrat de crédit à la consommation, selon la formule mathématique prévue dans l’annexe 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Date et méthode de calcul",
+        "citation": "Art. 33 al. 2 LCC",
+        "content": "Le calcul se fonde sur l’hypothèse selon laquelle le contrat de crédit reste valable pendant la durée convenue et où le prêteur et le consommateur remplissent leurs obligations dans les délais et aux dates convenues.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Date et méthode de calcul",
+        "citation": "Art. 33 al. 3 LCC",
+        "content": "Si le contrat de crédit est muni d’une clause permettant de modifier le taux d’intérêt ou d’autres frais qui doivent être pris en compte, mais ne peuvent être chiffrés au moment du calcul, on calcule le taux annuel effectif global en prenant pour hypothèse que le taux et les autres frais restent fixes par rapport au niveau initial et s’appliquent jusqu’au terme du contrat de crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Date et méthode de calcul",
+        "citation": "Art. 33 al. 4 LCC",
+        "content": "Lorsqu’il s’agit d’un contrat de leasing, le taux annuel effectif global se calcule sur la base du prix d’achat au comptant de l’objet du leasing à la conclusion du contrat (base de calcul) et à sa fin (valeur résiduelle), ainsi que du montant de chaque redevance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Frais déterminants",
+        "citation": "Art. 34 al. 1 LCC",
+        "content": "Pour calculer le taux annuel effectif global, on détermine le coût total du crédit accordé au consommateur tel que défini à l’art. 5, y compris le prix d’achat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Frais déterminants",
+        "citation": "Art. 34 al. 2 LCC",
+        "content": "Ne sont pas pris en compte:\na. les frais incombant au consommateur du fait de la non-exécution de l’une de ses obligations figurant dans le contrat de crédit;\nb. les frais incombant au consommateur lors de l’acquisition de biens ou de services, que celui-ci soit effectué au comptant ou à crédit;\nc. les cotisations dues au titre de l’inscription à des associations ou à des groupes et découlant d’accords distincts de contrats de crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Frais déterminants",
+        "citation": "Art. 34 al. 3 LCC",
+        "content": "Les frais de transfert des fonds ainsi que les frais relatifs à la gestion d’un compte destiné à recevoir les montants débités au titre du remboursement du crédit, du paiement des intérêts ou des autres charges ne doivent être pris en compte que si le consommateur ne dispose pas d’une liberté de choix raisonnable en la matière et si ces frais sont anormalement élevés. Doivent toutefois être pris en compte les frais de recouvrement de ces remboursements ou de ces paiements, qu’ils soient perçus en espèces ou d’une autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 6, Taux annuel effectif global, Frais déterminants",
+        "citation": "Art. 34 al. 4 LCC",
+        "content": "Les frais d’assurance ou de sûretés sont pris en compte:\na. s’ils sont obligatoirement exigés par le prêteur agissant par métier ou par le courtier en crédit participatif pour l’octroi du crédit, et\nb. s’ils ont pour objet d’assurer au prêteur agissant par métier ou au courtier en crédit participatif, en cas de décès, d’invalidité, de maladie ou de chômage du consommateur, le remboursement d’une somme égale ou inférieure au montant total du crédit, y compris les intérêts et autres frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 7, Courtage en crédit",
+        "citation": "Art. 35 al. 1 LCC",
+        "content": "Le consommateur ne doit aucune indemnité au courtier en crédit qui lui a permis de contracter un crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_35"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 7, Courtage en crédit",
+        "citation": "Art. 35 al. 2 LCC",
+        "content": "Les dépenses du prêteur pour les activités du courtier en crédit font partie intégrante du coût total du crédit (art. 5 et 34, al. 1); ils ne peuvent être facturés au consommateur par un décompte particulier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_35"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 8, Publicité, Principe",
+        "citation": "Art. 36 al. RS 241 LCC",
+        "content": "La publicité relative à des crédits à la consommation est régie par la loi fédérale du 19 décembre 1986 contre la concurrence déloyale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_36"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 8, Publicité, Publicité agressive",
+        "citation": "Art. 36a al. 1 LCC",
+        "content": "La publicité pour le crédit à la consommation ne doit pas être agressive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 8, Publicité, Publicité agressive",
+        "citation": "Art. 36a al. 2 LCC",
+        "content": "Les prêteurs agissant par métier définissent la publicité agressive de manière appropriée dans une convention de droit privé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 8, Publicité, Publicité agressive",
+        "citation": "Art. 36a al. 3 LCC",
+        "content": "Si aucune convention n’a défini la publicité agressive dans un délai raisonnable, ou s’il estime que la définition est insuffisante, le Conseil fédéral édicte une ordonnance à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 8, Publicité, Disposition pénale",
+        "citation": "Art. 36b LCC",
+        "content": "Quiconque contrevient intentionnellement à l’interdiction de la publicité agressive est puni d’une amende de 100 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_36_b"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 9, Droit impératif",
+        "citation": "Art. 37 LCC",
+        "content": "Il ne peut être dérogé aux dispositions de la présente loi au détriment du consommateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_37"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Relation avec le droit cantonal",
+        "citation": "Art. 38 LCC",
+        "content": "La Confédération règle les contrats de crédit à la consommation de manière exhaustive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_38"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Régime de l’autorisation",
+        "citation": "Art. 39 al. 1 LCC",
+        "content": "Les cantons doivent soumettre à autorisation l’octroi de crédits à la consommation par métier et le courtage en crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Régime de l’autorisation",
+        "citation": "Art. 39 al. 2 LCC",
+        "content": "Le canton dans lequel le prêteur agissant par métier ou le courtier en crédit a son siège délivre l’autorisation. Si le prêteur agissant par métier ou le courtier en crédit n’a pas son siège en Suisse, l’autorisation est délivrée par le canton dans lequel le prêteur agissant par métier ou le courtier en crédit entend exercer principalement son activité. L’autorisation accordée par un canton est valable dans toute la Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Régime de l’autorisation",
+        "citation": "Art. 39 al. 3 LCC",
+        "content": "Une autorisation au sens de l’al. 2 n’est pas nécessaire lorsque le prêteur agissant par métier ou le courtier en crédit:\na. est soumis à la loi fédérale du 8 novembre 1934 sur les banques et les caisses d’épargne;\nb. octroie des crédits à la consommation pour financer l’acquisition de marchandises ou de services qu’il fournit lui-même ou fait le courtage de tels crédits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Conditions d’octroi de l’autorisation",
+        "citation": "Art. 40 al. 1 LCC",
+        "content": "L’autorisation est octroyée si le demandeur:\na. présente toutes les garanties d’une activité irréprochable et que sa situation économique est saine;\nb. possède les connaissances et la technique commerciales et professionnelles nécessaires à l’exercice de l’activité;\nc. dispose d’une assurance responsabilité civile professionnelle suffisante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_40"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Conditions d’octroi de l’autorisation",
+        "citation": "Art. 40 al. 2 LCC",
+        "content": "L’autorisation n’est octroyée à des sociétés et à des personnes morales que si tous les membres de la direction possèdent les connaissances et la technique prévues à l’al. 1, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_40"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Section 10, Compétences, Conditions d’octroi de l’autorisation",
+        "citation": "Art. 40 al. 3 LCC",
+        "content": "Le Conseil fédéral règle dans une ordonnance les conditions d’octroi de l’autorisation prévue à l’al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/fr#art_40"
+    }
+]

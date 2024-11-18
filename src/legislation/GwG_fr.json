@@ -1,0 +1,1059 @@
+[
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Objet",
+        "citation": "Art. 1 LBA",
+        "content": "La présente loi règle la lutte contre le blanchiment d’argent au sens de l’art. 305bis du code pénal (CP), la lutte contre le financement du terrorisme au sens de l’art. 260quinquies, al. 1, CP et la vigilance requise en matière d’opérations financières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_1"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1 LBA",
+        "content": "La présente loi s’applique:\na. aux intermédiaires financiers; \nb. aux personnes physiques ou morales qui, à titre professionnel, négocient des biens et reçoivent des espèces en paiement (négociants).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 2 LBA",
+        "content": "Sont réputés intermédiaires financiers:\na. les banques au sens de l’art. 1a de la loi du 8 novembre 1934 sur les banques (LB) et les personnes au sens de l’art. 1b LB; \nabis. les gestionnaires de fortune et les trustees mentionnés à l’art. 2, al. 1, let. a et b, de la loi fédérale du 15 juin 2018 sur les établissements financiers (LEFin);\nb. les directions de fonds au sens de l’art. 2, al. 1, let. d, LEFin;\nbbis. les titulaires d’une autorisation énumérés à l’art. 13, al. 2, let b à d, de la loi du 23 juin 2006 sur les placements collectifs (LPCC) et les gestionnaires de fortune collective mentionnés à l’art. 2, al. 1, let. c, LEFin;\nc. les institutions d’assurance au sens de la loi du 17 décembre 2004 sur la surveillance des assurances si elles exercent une activité en matière d’assurance directe sur la vie ou si elles proposent ou distribuent des parts de placements collectifs;\nd. les maisons de titres mentionnées à l’art. 2, al. 1, let. e, LEFin;\ndbis. les contreparties centrales et les dépositaires centraux au sens de la loi du 19 juin 2015 sur l’infrastructure des marchés financiers (LIMF);\ndter. les systèmes de paiement, pour autant qu’ils doivent obtenir une autorisation de l’Autorité fédérale de surveillance des marchés financiers (FINMA) au sens de l’art. 4, al. 2 LIMF;\ndquater. les systèmes de négociation pour les valeurs mobilières fondées sur la TRD au sens de l’art. 73a LIMF (systèmes de négociation fondés sur la TRD);\ne. les maisons de jeu au sens de la loi fédérale du 29 septembre 2017 sur les jeux d’argent (LJAr);\nf. les exploitants de jeux de grande envergure au sens de la LJAr;\ng. les essayeurs du commerce et les sociétés de groupe visés à l’art. 42bis de la loi du 20 juin 1933 sur le contrôle des métaux précieux (LCMP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 3 LBA",
+        "content": "Sont en outre réputées intermédiaires financiers les personnes qui, à titre professionnel, acceptent, gardent en dépôt ou aident à placer ou à transférer des valeurs patrimoniales appartenant à des tiers, en particulier les personnes qui:\na. effectuent des opérations de crédits (portant notamment sur des crédits à la consommation ou des crédits hypothécaires, des affacturages, des financements de transactions commerciales ou des leasings financiers);\nb. fournissent des services dans le domaine du trafic des paiements, notamment en procédant à des virements électroniques pour le compte de tiers, ou qui émettent ou gèrent des moyens de paiement comme les cartes de crédit et les chèques de voyage;\nc. font le commerce, pour leur propre compte ou pour celui de tiers, de billets de banque ou de monnaies, d’instruments du marché monétaire, de devises, de métaux précieux, de matières premières ou de valeurs mobilières (papiers-valeurs et droits-valeurs) et de leurs dérivés;\nd. ...\ne. ...\nf. effectuent des placements en tant que conseillers en matière de placement;\ng. conservent ou gèrent des valeurs mobilières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 4 LBA",
+        "content": "Ne sont pas visés par la présente loi:\na. la Banque nationale suisse;\nb. les institutions de prévoyance professionnelle exemptées d’impôts;\nc. les personnes qui fournissent des services exclusivement à des institutions de prévoyance professionnelle exemptées d’impôts;\nd. les intermédiaires financiers visés à l’al. 3 qui fournissent des services exclusivement aux intermédiaires financiers énumérés à l’al. 2 ou à des intermédiaires financiers étrangers soumis à une surveillance équivalente;\ne. les Limited Qualified Investor Funds (L-QIF) revêtant la forme de la société d’investissement à capital variable (SICAV) ou de la société en commandite de placements collectifs (SCmPC), lorsque l’établissement chargé de la gestion conformément à l’art. 118h, al. 1, 2 ou 4, LPCC garantit le respect des obligations découlant de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2a al. 1 LBA",
+        "content": "Sont réputées personnes politiquement exposées au sens de la présente loi:\na. les personnes qui sont ou ont été chargées de fonctions publiques dirigeantes à l’étranger, en particulier les chefs d’État ou de gouvernement, les politiciens de haut rang au niveau national, les hauts fonctionnaires de l’administration, de la justice, de l’armée ou des partis au niveau national, les organes suprêmes d’entreprises étatiques d’importance nationale (personnes politiquement exposées à l’étranger);\nb. les personnes qui sont ou ont été chargées de fonctions publiques dirigeantes au niveau national en Suisse dans la politique, l’administration, l’armée ou la justice, ainsi que les membres du conseil d’administration ou de la direction d’entreprises étatiques d’importance nationale (personnes politiquement exposées en Suisse);\nc. les personnes qui sont ou ont été chargées de fonctions dirigeantes dans des organisations intergouvernementales ou au sein de fédérations sportives internationales, en particulier les secrétaires généraux, les directeurs, les sous-directeurs, les membres du conseil d’administration, ou les personnes exerçant d’autres fonctions équivalentes (personnes politiquement exposées au sein d’organisations internationales).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2a al. 2 LBA",
+        "content": "Sont réputées proches de personnes politiquement exposées les personnes physiques qui, de manière reconnaissable, sont proches des personnes au sens de l’al. 1 pour des raisons familiales, personnelles ou relevant de relations d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2a al. 3 LBA",
+        "content": "Sont réputées ayants droit économiques d’une personne morale exerçant une activité opérationnelle les personnes physiques qui, en dernier lieu, contrôlent la personne morale, du fait qu’elles détiennent directement ou indirectement, seules ou de concert avec un tiers, une participation d’au moins 25 % du capital ou des voix ou qu’elles la contrôlent d’une autre manière. Si ces personnes ne peuvent pas être identifiées, il y a lieu d’identifier le membre le plus haut placé de l’organe de direction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2a al. 4 LBA",
+        "content": "Les personnes politiquement exposées en Suisse ne sont plus considérées comme politiquement exposées au sens de la présente loi 18 mois après qu’elles ont cessé d’exercer leur fonction. Les obligations de diligence générales des intermédiaires financiers restent réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2a al. 5 LBA",
+        "content": "On entend par fédérations sportives internationales au sens de l’al. 1, let. c, les organisations non gouvernementales reconnues par le Comité International Olympique qui administrent un ou plusieurs sports officiels sur le plan mondial, ainsi que le Comité International Olympique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Vérification de l’identité du cocontractant",
+        "citation": "Art. 3 al. 1 LBA",
+        "content": "Lors de l’établissement de relations d’affaires, l’intermédiaire financier doit vérifier l’identité du cocontractant sur la base d’une pièce justificative. Lorsque le cocontractant est une personne morale, l’intermédiaire financier doit prendre connaissance des dispositions régissant le pouvoir d’engager le cocontractant et vérifier l’identité des personnes établissant la relation d’affaires au nom de la personne morale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Vérification de l’identité du cocontractant",
+        "citation": "Art. 3 al. 2 LBA",
+        "content": "L’intermédiaire qui effectue une opération de caisse n’est tenu de vérifier l’identité du cocontractant que si une transaction ou plusieurs transactions paraissant liées entre elles atteignent une somme importante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Vérification de l’identité du cocontractant",
+        "citation": "Art. 3 al. 3 LBA",
+        "content": "Les institutions d’assurance doivent vérifier l’identité du cocontractant lorsque la prime unique, la prime périodique ou le total des primes atteint une somme importante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Vérification de l’identité du cocontractant",
+        "citation": "Art. 3 al. 4 LBA",
+        "content": "Lorsqu’il existe des indices de blanchiment d’argent ou de financement du terrorisme dans les cas prévus aux al. 2 et 3, l’identité du cocontractant doit être vérifiée même si les sommes déterminantes ne sont pas atteintes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Vérification de l’identité du cocontractant",
+        "citation": "Art. 3 al. 5 LBA",
+        "content": "La FINMA, la Commission fédérale des maisons de jeux (CFMJ), le Département fédéral de justice et police (DFJP), l’Office fédéral de la douane et de la sécurité des frontières (OFDF) et les organismes d’autorégulation fixent dans leur domaine les sommes considérées comme importantes au sens des al. 2 et 3 et, au besoin, les adaptent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Identification de l’ayant droit économique",
+        "citation": "Art. 4 al. 1 LBA",
+        "content": "L’intermédiaire financier doit, avec la diligence requise par les circonstances, identifier l’ayant droit économique et vérifier son identité, afin de s’assurer de savoir qui est l’ayant droit économique. Si le cocontractant est une société cotée en bourse ou une filiale détenue majoritairement par une telle société, l’intermédiaire financier peut renoncer à ladite identification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Identification de l’ayant droit économique",
+        "citation": "Art. 4 al. 2 LBA",
+        "content": "L’intermédiaire financier doit requérir du cocontractant une déclaration écrite indiquant la personne physique qui est l’ayant droit économique, si:\na. le cocontractant n’est pas l’ayant droit économique ou qu’il y ait un doute à ce sujet;\nb. le cocontractant est une société de domicile ou une personne morale exerçant une activité opérationnelle;\nc. une opération de caisse d’une somme importante au sens de l’art. 3, al. 2, est effectuée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Identification de l’ayant droit économique",
+        "citation": "Art. 4 al. 3 LBA",
+        "content": "L’intermédiaire financier doit exiger du cocontractant qui détient des comptes globaux ou des dépôts globaux qu’il lui fournisse une liste complète des ayants droit économiques et lui communique immédiatement toute modification de cette liste.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Renouvellement de la vérification de l’identité du cocontractant ou de l’identification de l’ayant droit économique",
+        "citation": "Art. 5 al. 1 LBA",
+        "content": "Lorsque, au cours de la relation d’affaires, des doutes surviennent quant à l’identité du cocontractant ou de l’ayant droit économique, la vérification d’identité ou l’identification prévues aux art. 3 et 4 doivent être renouvelées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_5"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Renouvellement de la vérification de l’identité du cocontractant ou de l’identification de l’ayant droit économique",
+        "citation": "Art. 5 al. 2 LBA",
+        "content": "Dans le cas d’une assurance susceptible de rachat, l’institution d’assurance doit renouveler l’identification de l’ayant droit économique lorsque, en cas de sinistre ou de rachat, l’ayant droit n’est pas la personne qui a été mentionnée lors de la conclusion du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_5"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligations de diligence particulières",
+        "citation": "Art. 6 al. 1 LBA",
+        "content": "L’intermédiaire financier est tenu d’identifier l’objet et le but de la relation d’affaires souhaitée par le cocontractant. L’étendue des informations à collecter, le niveau hiérarchique compétent pour décider de l’ouverture ou de la poursuite d’une relation d’affaires ainsi que la fréquence des contrôles sont fonction du risque que représente le cocontractant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligations de diligence particulières",
+        "citation": "Art. 6 al. 2 LBA",
+        "content": "L’intermédiaire financier doit clarifier l’arrière-plan et le but d’une transaction ou d’une relation d’affaires lorsque:\na. la transaction ou la relation d’affaires paraissent inhabituelles, sauf si leur légalité est manifeste;\nb. des indices laissent supposer que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP, qu’une organisation criminelle ou terroriste (art. 260ter CP) exerce un pouvoir de disposition sur ces valeurs ou que celles-ci servent au financement du terrorisme (art. 260quinquies, al. 1, CP);\nc. la transaction ou la relation d’affaires comportent un risque accru;\nd. les données concernant un cocontractant, un ayant droit économique ou un signataire autorisé d’une relation d’affaires ou d’une transaction concordent ou présentent de grandes similitudes avec celles qui ont été transmises à l’intermédiaire financier sur la base de l’art. 22a, al. 2 ou 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligations de diligence particulières",
+        "citation": "Art. 6 al. 3 LBA",
+        "content": "Les relations d’affaires avec des personnes politiquement exposées à l’étranger, ainsi qu’avec les personnes qui leur sont proches au sens de l’art. 2a, al. 2, sont réputées comporter dans tous les cas un risque accru.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligations de diligence particulières",
+        "citation": "Art. 6 al. 4 LBA",
+        "content": "Les relations d’affaires avec des personnes politiquement exposées en Suisse ou avec des personnes politiquement exposées au sein d’organisations internationales, ainsi qu’avec les personnes qui leur sont proches au sens de l’art. 2a, al. 2, sont réputées comporter un risque accru en relation avec un ou plusieurs autres critères de risque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligation d’établir et de conserver des documents",
+        "citation": "Art. 7 al. 1 LBA",
+        "content": "L’intermédiaire financier doit établir des documents relatifs aux transactions effectuées ainsi qu’aux clarifications requises en vertu de la présente loi de manière à ce que des tiers experts en la matière puissent se faire une idée objective sur les transactions et les relations d’affaires ainsi que sur le respect des dispositions de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligation d’établir et de conserver des documents",
+        "citation": "Art. 7 al. 1bis LBA",
+        "content": "Il vérifie périodiquement si les documents requis sont actuels et les met à jour si nécessaire. La périodicité, l’étendue et la méthode de vérification et de mise à jour sont fonction du risque que représente le cocontractant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligation d’établir et de conserver des documents",
+        "citation": "Art. 7 al. 2 LBA",
+        "content": "Il conserve les documents de manière à pouvoir satisfaire, dans un délai raisonnable, aux éventuelles demandes d’informations ou de séquestre présentées par les autorités de poursuite pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Obligation d’établir et de conserver des documents",
+        "citation": "Art. 7 al. 3 LBA",
+        "content": "Il conserve les documents dix ans après la cessation de la relation d’affaires ou après la fin de la transaction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Valeurs patrimoniales de faible valeur",
+        "citation": "Art. 7a LBA",
+        "content": "L’intermédiaire financier n’est pas tenu de respecter les obligations de diligence (art. 3 à 7) si la relation d’affaires porte uniquement sur des valeurs patrimoniales de faible valeur et qu’il n’y pas d’indices de blanchiment d’argent ou de financement du terrorisme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_7_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1, Obligations de diligence des intermédiaires financiers, Mesures organisationnelles",
+        "citation": "Art. 8 LBA",
+        "content": "Les intermédiaires financiers prennent dans leur domaine les mesures nécessaires pour empêcher le blanchiment d’argent et le financement du terrorisme. Ils veillent notamment à ce que leur personnel reçoive une formation suffisante et à ce que des contrôles soient effectués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1a, Obligations de diligence des négociants",
+        "citation": "Art. 8a al. 1 LBA",
+        "content": "Les négociants visés à l’art. 2, al. 1, let. b, doivent remplir les obligations suivantes s’ils reçoivent plus de 100 000 francs en espèces dans le cadre d’une opération de négoce: \na. vérification de l’identité du cocontractant (art. 3, al. 1); \nb. identification de l’ayant droit économique (art. 4, al. 1 et 2, let. a et b); \nc. établissement et conservation des documents (art. 7).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1a, Obligations de diligence des négociants",
+        "citation": "Art. 8a al. 2 LBA",
+        "content": "Ils doivent clarifier l’arrière-plan et le but d’une opération lorsque: \na. l’opération paraît inhabituelle, sauf si sa légalité est manifeste; \nb. des indices laissent supposer que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP, qu’une organisation criminelle ou terroriste (art. 260ter CP) exerce un pouvoir de disposition sur ces valeurs ou qu’elles servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1a, Obligations de diligence des négociants",
+        "citation": "Art. 8a al. 3 LBA",
+        "content": "Les négociants doivent remplir les obligations prévues aux al. 1 et 2 même si le paiement en espèces est effectué en plusieurs tranches d’un montant inférieur à 100 000 francs, mais qui, additionnées, dépassent ce montant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1a, Obligations de diligence des négociants",
+        "citation": "Art. 8a al. 4 LBA",
+        "content": "Ils ne doivent pas remplir ces obligations lorsque les paiements dépassant 100 000 francs sont effectués par le biais d’un intermédiaire financier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 1a, Obligations de diligence des négociants",
+        "citation": "Art. 8a al. 5 LBA",
+        "content": "Le Conseil fédéral précise les obligations définies aux al. 1 et 2 et en règle les modalités d’application.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Obligation de communiquer",
+        "citation": "Art. 9 al. 1 LBA",
+        "content": "L’intermédiaire financier informe immédiatement le Bureau de communication en matière de blanchiment d’argent au sens de l’art. 23 (bureau de communication):\na. s’il sait ou présume, sur la base de soupçons fondés, que les valeurs patrimoniales impliquées dans la relation d’affaires:\n1. ont un rapport avec une des infractions mentionnées aux art. 260ter ou 305bis CP,\n2. proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP,\n3. sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste,\n4. servent au financement du terrorisme (art. 260quinquies, al. 1, CP);\nb. s’il rompt des négociations visant à établir une relation d’affaires en raison de soupçons fondés conformément à la let. a.\nc. s’il sait ou présume, sur la base des clarifications effectuées en vertu de l’art. 6, al. 2, let. d, que les données concernant une personne ou une organisation transmises sur la base de l’art. 22a, al. 2 ou 3, concordent avec celles concernant un cocontractant, un ayant droit économique ou un signataire autorisé d’une relation d’affaires ou d’une transaction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Obligation de communiquer",
+        "citation": "Art. 9 al. 1bis LBA",
+        "content": "Le négociant informe immédiatement le bureau de communication s’il sait ou présume, sur la base de soupçons fondés, que les espèces utilisées lors d’une opération de négoce:\na. ont un rapport avec une des infractions mentionnées aux art. 260ter ou 305bis CP; \nb. proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP, \nc. sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou\nd. servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Obligation de communiquer",
+        "citation": "Art. 9 al. 1ter LBA",
+        "content": "Dans les communications effectuées en vertu des al. 1 et 1bis, le nom de l’intermédiaire financier ou du négociant doit apparaître. En revanche, le nom des employés de l’intermédiaire financier ou du négociant chargés du dossier peut ne pas être mentionné, pour autant que le bureau de communication et l’autorité de poursuite pénale gardent la possibilité de prendre rapidement contact avec eux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Obligation de communiquer",
+        "citation": "Art. 9 al. 1quater LBA",
+        "content": "Dans les cas selon l’al. 1, il y a des soupçons fondés lorsque l’intermédiaire financier dispose d’un signe concret ou de plusieurs indices laissant supposer que les critères définis à l’al. 1, let. a, pourraient être remplis pour les valeurs patrimoniales impliquées dans la relation d’affaires et que les clarifications supplémentaires effectuées en vertu de l’art. 6 ne permettent pas de dissiper les soupçons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Obligation de communiquer",
+        "citation": "Art. 9 al. 2 LBA",
+        "content": "Les avocats et les notaires ne sont pas soumis à l’obligation de communiquer leurs soupçons dans la mesure où ils sont astreints au secret professionnel en vertu de l’art. 321 du code pénal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Ordres des clients portant sur les valeurs patrimoniales communiquées",
+        "citation": "Art. 9a al. 1 LBA",
+        "content": "Pendant l’analyse effectuée par le bureau de communication selon l’art. 23, al. 2, l’intermédiaire financier exécute les ordres des clients portant sur les valeurs patrimoniales communiquées en vertu de l’art. 9, al. 1, let. a, de la présente loi ou en vertu de l’art. 305ter, al. 2, CP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Ordres des clients portant sur les valeurs patrimoniales communiquées",
+        "citation": "Art. 9a al. 2 LBA",
+        "content": "Il n’exécute les ordres du client qui portent sur d’importantes valeurs patrimoniales que sous une forme permettant aux autorités de poursuite pénale d’en suivre la trace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Rupture de la relation d’affaires",
+        "citation": "Art. 9b al. 1 LBA",
+        "content": "Si, dans un délai de 40 jours ouvrables suivant une communication en vertu de l’art. 9, al. 1, let. a, de la présente loi ou de l’art. 305ter, al. 2, CP, le bureau de communication ne notifie pas à l’intermédiaire financier qu’il transmet les informations communiquées à une autorité de poursuite pénale, l’intermédiaire financier peut rompre la relation d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Rupture de la relation d’affaires",
+        "citation": "Art. 9b al. 2 LBA",
+        "content": "L’intermédiaire financier qui décide de rompre la relation d’affaires ne peut autoriser le retrait d’importantes valeurs patrimoniales que sous une forme permettant aux autorités de poursuite pénale d’en suivre la trace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Rupture de la relation d’affaires",
+        "citation": "Art. 9b al. 3 LBA",
+        "content": "La rupture de la relation d’affaires et la date à laquelle elle est intervenue doivent être communiquées sans délai au bureau de communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Rupture de la relation d’affaires",
+        "citation": "Art. 9b al. 4 LBA",
+        "content": "L’interdiction d’informer au sens de l’art. 10a, al. 1, doit continuer à être respectée après la rupture de la relation d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Blocage des avoirs",
+        "citation": "Art. 10 al. 1 LBA",
+        "content": "L’intermédiaire financier bloque les valeurs patrimoniales qui lui sont confiées et qui ont un lien avec les informations communiquées en vertu de l’art. 9, al. 1, let. a, de la présente loi ou de l’art. 305ter, al. 2, CP dès que le bureau de communication lui notifie qu’il transmet ces informations à une autorité de poursuite pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Blocage des avoirs",
+        "citation": "Art. 10 al. 1bis LBA",
+        "content": "L’intermédiaire financier bloque immédiatement les valeurs patrimoniales qui lui sont confiées et qui ont un lien avec les informations communiquées en vertu de l’art. 9, al. 1, let. c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Blocage des avoirs",
+        "citation": "Art. 10 al. 2 LBA",
+        "content": "Il maintient le blocage des avoirs jusqu’à la réception d’une décision de l’autorité de poursuite pénale compétente, mais durant cinq jours ouvrables au plus à compter du moment où le bureau de communication lui a notifié avoir transmis les informations à une autorité de poursuite pénale dans le cas de l’al. 1 ou du moment où il a informé le bureau de communication dans le cas de l’al. 1bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 1 LBA",
+        "content": "L’intermédiaire financier ne doit informer ni les personnes concernées ni aucun tiers du fait qu’il a effectué une communication en vertu de l’art. 9 de la présente loi ou de l’art. 305ter, al. 2, CP. Les autorités et organismes chargés de la surveillance visée à l’art. 12 de la présente loi ou à l’art. 43a de la loi du 22 juin 2007 sur la surveillance des marchés financiers (LFINMA) et les personnes procédant à des audits dans le cadre de la surveillance ne sont pas considérés comme des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 2 LBA",
+        "content": "Lorsque l’intermédiaire financier n’est pas en mesure de procéder lui-même au blocage, il peut informer l’intermédiaire financier soumis à la présente loi qui est en mesure de le faire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 3 LBA",
+        "content": "L’intermédiaire financier peut également informer un autre intermédiaire financier soumis à la présente loi du fait qu’il a effectué une communication en vertu de l’art. 9 de la présente loi ou de l’art. 305ter, al. 2, CP, si cela est nécessaire au respect des obligations découlant de la présente loi et que tous les deux remplissent l’une des conditions suivantes:\na. fournir à un client des services communs en relation avec la gestion des avoirs de celui-ci sur la base d’une collaboration convenue contractuellement;\nb. faire partie du même groupe de sociétés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 3bis LBA",
+        "content": "Il peut également informer sa société mère à l’étranger aux conditions prévues par l’art. 4quinquies LB du fait qu’il a effectué une communication en vertu de l’art. 9 de la présente loi ou de l’art. 305ter, al. 2, CP, à la condition que cette dernière s’engage à respecter l’interdiction d’informer. L’autorité de surveillance de la société mère n’est pas considérée comme un tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 4 LBA",
+        "content": "Un intermédiaire financier qui a été informé au sens de l’al. 2 ou de l’al. 3 est soumis à l’interdiction d’informer prévue à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 5 LBA",
+        "content": "Le négociant ne doit informer ni les personnes concernées ni des tiers du fait qu’il a effectué une communication en vertu de l’art. 9.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Interdiction d’informer",
+        "citation": "Art. 10a al. 6 LBA",
+        "content": "L’interdiction d’informer au sens des al. 1 et 5 ne s’applique pas lorsqu’il s’agit de sauvegarder des intérêts propres dans le cadre d’une procédure civile, pénale ou administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Exclusion de la responsabilité pénale et civile",
+        "citation": "Art. 11 al. 1 LBA",
+        "content": "Quiconque, de bonne foi, communique des informations en vertu de l’art. 9 ou procède à un blocage des avoirs en vertu de l’art. 10 ne peut être poursuivi pour violation du secret de fonction, du secret professionnel ou du secret d’affaires, ni être rendu responsable de violation de contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 2, Obligations en cas de soupçon de blanchiment d’argent, Exclusion de la responsabilité pénale et civile",
+        "citation": "Art. 11 al. 2 LBA",
+        "content": "L’al. 1 s’applique également:\na. à l’intermédiaire financier qui procède à une communication au sens de l’art. 305ter, al. 2, CP;\nb. aux entreprises de révision qui procèdent à une communication au sens de l’art. 15, al. 5;\nc. aux organismes de surveillance visés à l’art. 43a LFINMA qui procèdent à une communication au sens de l’art. 16, al. 1;\nd. aux organismes d’autorégulation qui procèdent à une communication au sens de l’art. 27, al. 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 1 LBA",
+        "content": "Lorsque le bureau de communication a besoin d’informations supplémentaires pour l’analyse d’une communication reçue en vertu de l’art. 9 de la présente loi ou de l’art. 305ter, al. 2, CP, l’intermédiaire financier auteur de la communication doit, pour autant qu’il dispose de ces informations, les lui fournir sur demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 2 LBA",
+        "content": "Lorsque l’analyse montre qu’outre l’intermédiaire financier auteur de la communication, d’autres intermédiaires financiers prennent part ou ont pris part à une transaction ou à une relation d’affaires, les intermédiaires financiers concernés doivent fournir toutes les informations y afférentes au bureau de communication à la demande de ce dernier, pour autant qu’ils disposent de ces informations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 2bis LBA",
+        "content": "Lorsque l’analyse des informations en provenance d’un homologue étranger montre que des intermédiaires financiers au sens de la présente loi prennent part ou ont pris part à une transaction ou à une relation d’affaires en lien avec lesdites informations, les intermédiaires financiers concernés doivent fournir toutes les informations y afférentes au bureau de communication à la demande de ce dernier, pour autant qu’ils disposent de ces informations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 3 LBA",
+        "content": "Le bureau de communication fixe le délai dans lequel les intermédiaires financiers visés aux al. 1 à 2bis doivent fournir les informations demandées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 4 LBA",
+        "content": "Les intermédiaires financiers sont soumis à l’interdiction d’informer prévue à l’art. 10a, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 2, Obligations, Section 3, Remise d’informations",
+        "citation": "Art. 11a al. 5 LBA",
+        "content": "L’exclusion de la responsabilité pénale et civile prévue à l’art. 11 s’applique par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Compétence",
+        "citation": "Art. 12 LBA",
+        "content": "Les autorités et organismes suivants veillent à ce que les intermédiaires financiers respectent les obligations définies au chap. 2:\na. s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. a à dquater, la FINMA;\nb. s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. e, la CFMJ;\nbbis. s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. f, l’autorité intercantonale de surveillance et d’exécution visée à l’art. 105 LJAr (autorité intercantonale);\nbter. s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. g, le Bureau central du contrôle des métaux précieux (bureau central);\nc. s’agissant des intermédiaires financiers visés à l’art. 2, al. 3, leurs organismes d’autorégulation reconnus (art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_12"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Affiliation à un organisme d’autorégulation",
+        "citation": "Art. 14 al. 1 LBA",
+        "content": "Tout intermédiaire financier visé à l’art. 2, al. 3, doit s’affilier à un organisme d’autorégulation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Affiliation à un organisme d’autorégulation",
+        "citation": "Art. 14 al. 2 LBA",
+        "content": "Un intermédiaire financier au sens de l’art. 2, al. 3, a le droit de s’affilier à un organisme d’autorégulation:\na. s’il dispose de prescriptions internes et d’une organisation propres à garantir le respect des obligations découlant de la présente loi;\nb. s’il jouit d’une bonne réputation et présente toutes les garanties de respecter les obligations découlant de la présente loi;\nc. si les personnes chargées de son administration et de sa gestion satisfont aussi aux conditions énoncées à la let. b, et\nd. si les personnes détenant une participation qualifiée dans cet intermédiaire jouissent d’une bonne réputation et garantissent que leur influence ne soit pas exercée au détriment d’une gestion saine et prudente de l’établissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Affiliation à un organisme d’autorégulation",
+        "citation": "Art. 14 al. 3 LBA",
+        "content": "Les organismes d’autorégulation peuvent faire dépendre l’affiliation de l’activité exercée dans certains domaines.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Obligation de contrôler incombant aux négociants",
+        "citation": "Art. 15 al. 1 LBA",
+        "content": "Les négociants qui doivent remplir les obligations de diligence visées à l’art. 8a chargent une entreprise de révision de vérifier qu’ils respectent les obligations définies au chapitre 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Obligation de contrôler incombant aux négociants",
+        "citation": "Art. 15 al. 2 LBA",
+        "content": "Les entreprises de révision qui remplissent les conditions visées à l’art. 6 de la loi du 16 décembre 2005 sur la surveillance de la révision peuvent être mandatées en qualité d’entreprise de révision si elles possèdent les connaissances techniques requises et l’expérience nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Obligation de contrôler incombant aux négociants",
+        "citation": "Art. 15 al. 3 LBA",
+        "content": "Les négociants sont tenus de fournir à l’entreprise de révision tous les renseignements et documents nécessaires au contrôle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Obligation de contrôler incombant aux négociants",
+        "citation": "Art. 15 al. 4 LBA",
+        "content": "L’entreprise de révision vérifie que les obligations fixées par la présente loi sont respectées et établit un rapport à l’intention de l’organe responsable du négociant soumis au contrôle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 1, Dispositions générales, Obligation de contrôler incombant aux négociants",
+        "citation": "Art. 15 al. 5 LBA",
+        "content": "Si un négociant ne remplit pas son obligation de communiquer, l’entreprise de révision prévient immédiatement le bureau de communication lorsque des soupçons fondés permettent de présumer:\na. qu’une infraction mentionnée aux art. 260ter ou 305bis CP a été commise;\nb. que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP,  \nc. que des valeurs patrimoniales sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou\nd. que des valeurs patrimoniales servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 2, Obligation de communiquer des autorités de surveillanceet des organismes de surveillance",
+        "citation": "Art. 16 al. 1 LBA",
+        "content": "La FINMA, la CFMJ, l’autorité intercantonale, le bureau central et les organismes de surveillance préviennent immédiatement le bureau de communication lorsque des soupçons fondés permettent de présumer:\na. qu’une infraction mentionnée aux art. 260ter, 305bis ou 305ter, al. 1, CP a été commise;\nb. que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP;\nc. que des valeurs patrimoniales sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou\nd. que des valeurs patrimoniales servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 2, Obligation de communiquer des autorités de surveillanceet des organismes de surveillance",
+        "citation": "Art. 16 al. 2 LBA",
+        "content": "L’obligation de communiquer au sens de l’al. 1 est valable pour autant que l’intermédiaire financier ou l’organisme d’autorégulation n’aient pas déjà signalé le cas au bureau de communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 2, Obligation de communiquer des autorités de surveillanceet des organismes de surveillance",
+        "citation": "Art. 16 al. 3 LBA",
+        "content": "L’organisme de surveillance remet simultanément une copie de la communication à la FINMA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3, Surveillance des intermédiaires financiers visés à l’art. 2, al. 2",
+        "citation": "Art. 17 al. 1 LBA",
+        "content": "Les obligations de diligence définies au chap. 2 et par la législation sur les jeux d’argent sont précisées par voie d’ordonnance par:\na. la FINMA, s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. a à dquater;\nb. la CFMJ, s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. e;\nc. le DFJP, s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. f;\nd. l’OFDF, s’agissant des intermédiaires financiers visés à l’art. 2, al. 2, let. g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_17"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3, Surveillance des intermédiaires financiers visés à l’art. 2, al. 2",
+        "citation": "Art. 17 al. 2 LBA",
+        "content": "Ces autorités règlent les modalités d’application des obligations de diligence. Elles peuvent reconnaître une autorégulation à cet égard.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_17"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Tâches de la FINMA",
+        "citation": "Art. 18 al. 1 LBA",
+        "content": "Dans le cadre de la surveillance des intermédiaires financiers visés à l’art. 2, al. 3, la FINMA assume les tâches suivantes:\na. elle octroie ou retire la reconnaissance aux organismes d’autorégulation;\nb. elle surveille les organismes d’autorégulation;\nc. elle approuve les règlements édictés par les organismes d’autorégulation (art. 25) et les modifications qui y sont apportées;\nd. elle veille à ce que les organismes d’autorégulation fassent appliquer ces règlements;\ne. et f. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Tâches de la FINMA",
+        "citation": "Art. 18 al. 3 LBA",
+        "content": "Les organismes d’autorégulation doivent, en vue de garantir le respect du secret professionnel, faire effectuer les contrôles au sens de la présente loi (contrôles LBA) auprès des avocats et des notaires par des avocats et des notaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Tâches de la FINMA",
+        "citation": "Art. 18 al. 4 LBA",
+        "content": "Les avocats et les notaires chargés des contrôles LBA doivent impérativement remplir les conditions suivantes:\na. détenir le brevet d’avocat ou de notaire; \nb. offrir toutes les garanties d’une activité de révision irréprochable;\nc. justifier des connaissances requises en matière de législation sur le blanchiment d’argent ainsi que de l’expérience et de la formation continue adéquates;\nd. justifier de leur indépendance à l’égard du membre faisant l’objet du contrôle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Registre public",
+        "citation": "Art. 18a al. 1 LBA",
+        "content": "La FINMA tient un registre des intermédiaires financiers visés à l’art. 2, al. 3, qui sont affiliés à un organisme d’autorégulation. Ce registre est accessible au public sous forme électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_18_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Registre public",
+        "citation": "Art. 18a al. 2 LBA",
+        "content": "La FINMA rend ces données accessibles par procédure d’appel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_18_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Activité sans affiliation à un organisme d’autorégulation",
+        "citation": "Art. 20 al. 1 LBA",
+        "content": "La FINMA peut recourir aux instruments de surveillance prévus aux art. 29 à 37 LFINMA contre les intermédiaires financiers qui enfreignent l’obligation de s’affilier à un organisme d’autorégulation reconnu prévue à l’art. 14, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_20"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3a, Surveillance des intermédiaires financiers visés à l’art. 2, al. 3, Activité sans affiliation à un organisme d’autorégulation",
+        "citation": "Art. 20 al. 2 LBA",
+        "content": "Elle peut ordonner la dissolution des personnes morales, des sociétés en nom collectif et des sociétés en commandites et la radiation des raisons individuelles du registre du commerce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_20"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3b, Transmission de données relatives à des activités terroristes",
+        "citation": "Art. 22a al. 1 LBA",
+        "content": "Le Département fédéral des finances (DFF) transmet à la FINMA, à la CFMJ, à l’autorité intercantonale et au bureau central les données communiquées et publiées par un autre État concernant des personnes et des organisations qui, conformément à la résolution 1373 (2001) du Conseil de sécurité des Nations Unies, ont été listées dans cet État comme menant ou soutenant des activités terroristes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3b, Transmission de données relatives à des activités terroristes",
+        "citation": "Art. 22a al. 2 LBA",
+        "content": "La FINMA transmet les données reçues du DFF:\na. aux intermédiaires financiers au sens de l’art. 2, al. 2, let. a et b à dquater, assujettis à sa surveillance;\nb. aux organismes de surveillance, à l’attention des intermédiaires financiers au sens de l’art. 2, al. 2, let. abis, qui sont assujettis à leur surveillance courante;\nc. aux organismes d’autorégulation à l’attention des intermédiaires financiers qui leurs sont affiliés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3b, Transmission de données relatives à des activités terroristes",
+        "citation": "Art. 22a al. 3 LBA",
+        "content": "La CFMJ, l’autorité intercantonale et le bureau central transmettent les données reçues du DFF aux intermédiaires financiers visés à l’art. 2, al. 2, let. e à g, qui sont assujettis à leur surveillance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 3b, Transmission de données relatives à des activités terroristes",
+        "citation": "Art. 22a al. 4 LBA",
+        "content": "Le DFF ne transmet aucune donnée à la FINMA, à la CFMJ, à l’autorité intercantonale et au bureau central si, après consultation du Département fédéral des affaires étrangères, du DFJP, du Département fédéral de la défense, de la protection de la population et des sports et du Département fédéral de l’économie, de la formation et de la recherche, il doit présumer qu’il en résulterait une violation des droits de l’homme ou des principes de l’État de droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 4, Bureau de communication en matière de blanchiment d’argent",
+        "citation": "Art. 23 al. 1 LBA",
+        "content": "L’Office fédéral de la police gère le Bureau de communication en matière de blanchiment d’argent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 4, Bureau de communication en matière de blanchiment d’argent",
+        "citation": "Art. 23 al. 2 LBA",
+        "content": "Le bureau de communication vérifie et analyse les informations qui lui sont communiquées. Au besoin, il requiert des informations supplémentaires en vertu de l’art. 11a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 4, Bureau de communication en matière de blanchiment d’argent",
+        "citation": "Art. 23 al. 3 LBA",
+        "content": "Il gère son propre système d’information pour la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée et le financement du terrorisme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 4, Bureau de communication en matière de blanchiment d’argent",
+        "citation": "Art. 23 al. 4 LBA",
+        "content": "Le bureau de communication dénonce immédiatement le cas à l’autorité de poursuite pénale compétente lorsque des soupçons fondés permettent de présumer:\na. qu’une infraction au sens des art. 260ter, 305bis ou 305ter, al. 1, CP a été commise;\nb. que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP;\nc. que des valeurs patrimoniales sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou\nd. que des valeurs patrimoniales servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 4, Bureau de communication en matière de blanchiment d’argent",
+        "citation": "Art. 23 al. 5 LBA",
+        "content": "Il informe l’intermédiaire financier s’il transmet les informations communiquées en vertu de l’art. 9, al. 1, let. a, de la présente loi ou de l’art. 305ter, al. 2, CP à une autorité de poursuite pénale, dans la mesure où l’intermédiaire financier n’a pas rompu la relation d’affaires en vertu de l’art. 9b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Reconnaissance",
+        "citation": "Art. 24 al. 1 LBA",
+        "content": "Les organismes d’autorégulation doivent satisfaire aux exigences suivantes pour être reconnus comme tels:\na. disposer d’un règlement au sens de l’art. 25;\nb. veiller à ce que les intermédiaires financiers qui leur sont affiliés respectent les obligations définies au chap. 2;\nc. présenter toutes les garanties d’une activité irréprochable et s’assurer que les personnes et les sociétés d’audit chargées du contrôle:\n1. disposent des connaissances professionnelles requises,\n2. présentent toutes garanties quant à une activité de contrôle irréprochable,\n3. sont indépendantes de la direction et de l’administration des intermédiaires financiers qu’ils doivent contrôler;\nd. garantir que les sociétés d’audit chargées du contrôle ainsi que les auditeurs responsables remplissent les conditions énoncées à l’art. 24a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Reconnaissance",
+        "citation": "Art. 24 al. 2 LBA",
+        "content": "Les organismes d’autorégulation des entreprises de transport concessionnaires au sens de la loi du 20 mars 2009 sur le transport de voyageurs doivent être indépendants de la direction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Agrément des sociétés d’audit et des auditeurs responsables",
+        "citation": "Art. 24a al. 1 LBA",
+        "content": "L’organisme d’autorégulation accorde l’agrément requis aux sociétés d’audit et aux auditeurs responsables et surveille leur activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Agrément des sociétés d’audit et des auditeurs responsables",
+        "citation": "Art. 24a al. 2 LBA",
+        "content": "Une société d’audit obtient l’agrément lorsqu’elle:\na. est agréée en qualité de réviseur par l’Autorité fédérale de surveillance en matière de révision, conformément à l’art. 6 de la loi du 16 décembre 2005 sur la surveillance de la révision;\nb. présente une organisation suffisante pour cet audit, et\nc. n’exerce aucune autre activité soumise à autorisation en vertu des lois sur les marchés financiers au sens de l’art. 1, al. 1 LFINMA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Agrément des sociétés d’audit et des auditeurs responsables",
+        "citation": "Art. 24a al. 3 LBA",
+        "content": "Les auditeurs responsables obtiennent un agrément pour conduire des audits au sens de l’al. 1 lorsqu’ils:\na. sont agréés en qualité de réviseurs par l’Autorité fédérale de surveillance en matière de révision, conformément à l’art. 5 de la loi sur la surveillance de la révision;\nb. disposent des connaissances spécialisées et de l’expérience professionnelle requises pour l’audit au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Agrément des sociétés d’audit et des auditeurs responsables",
+        "citation": "Art. 24a al. 4 LBA",
+        "content": "L’art. 17 de la loi sur la surveillance de la révision s’applique par analogie au retrait de l’agrément et aux avertissements prononcés par l’organisme d’autorégulation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Agrément des sociétés d’audit et des auditeurs responsables",
+        "citation": "Art. 24a al. 5 LBA",
+        "content": "Les organismes d’autorégulation peuvent prévoir des critères supplémentaires pour l’agrément des sociétés d’audits et des auditeurs responsables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Règlement",
+        "citation": "Art. 25 al. 1 LBA",
+        "content": "Les organismes d’autorégulation édictent un règlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Règlement",
+        "citation": "Art. 25 al. 2 LBA",
+        "content": "Dans ce règlement, ils précisent à l’intention des intermédiaires financiers qui leur sont affiliés les obligations de diligence définies au chap. 2 et règlent les modalités d’application.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Règlement",
+        "citation": "Art. 25 al. 3 LBA",
+        "content": "Ils définissent en outre dans ce règlement:\na. les conditions relatives à l’affiliation et à l’exclusion d’intermédiaires financiers;\nb. la manière de contrôler si les obligations définies au chap. 2 sont respectées;\nc. des sanctions appropriées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Listes",
+        "citation": "Art. 26 al. 1 LBA",
+        "content": "Les organismes d’autorégulation tiennent la liste des intermédiaires financiers affiliés et celle des personnes auxquelles ils refusent l’affiliation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_26"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Listes",
+        "citation": "Art. 26 al. 2 LBA",
+        "content": "Ils communiquent ces listes et toutes les modifications qui y sont apportées à la FINMA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_26"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Sociétés de groupe suisses",
+        "citation": "Art. 26a al. 1 LBA",
+        "content": "Pour les intermédiaires financiers visés à l’art. 2, al. 3, qui sont une société suisse du groupe d’un intermédiaire financier au sens de l’art. 2, al. 2, let. a à dquater, la FINMA peut prévoir que le rapport d’audit du groupe atteste du respect des obligations définies au chapitre 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_26_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Sociétés de groupe suisses",
+        "citation": "Art. 26a al. 2 LBA",
+        "content": "La FINMA publie une liste des sociétés de groupe au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_26_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Échange d’informations et obligation de communiquer",
+        "citation": "Art. 27 al. 1 LBA",
+        "content": "Les organismes d’autorégulation et la FINMA peuvent échanger tous les renseignements et documents nécessaires à l’exercice de leur tâche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Échange d’informations et obligation de communiquer",
+        "citation": "Art. 27 al. 2 LBA",
+        "content": "Les organismes d’autorégulation signalent sans délai à la FINMA:\na. la démission de membres;\nb. les décisions visant à refuser une affiliation;\nc. les décisions d’exclusion ainsi que leur motif;\nd. l’ouverture de procédures de sanction susceptibles d’aboutir à l’exclusion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Échange d’informations et obligation de communiquer",
+        "citation": "Art. 27 al. 3 LBA",
+        "content": "Ils remettent à la FINMA au moins une fois par année un rapport sur l’activité qu’ils exercent dans le cadre de la présente loi et lui communiquent une liste des décisions de sanction rendues pendant la période faisant l’objet du rapport.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Échange d’informations et obligation de communiquer",
+        "citation": "Art. 27 al. 4 LBA",
+        "content": "Ils préviennent immédiatement le bureau de communication lorsque des soupçons fondés permettent de présumer:\na. qu’une infraction au sens des art. 260ter ou 305bis CP a été commise;\nb. que des valeurs patrimoniales proviennent d’un crime ou d’un délit fiscal qualifié au sens de l’art. 305bis, ch. 1bis, CP;\nc. que des valeurs patrimoniales sont soumises au pouvoir de disposition d’une organisation criminelle ou terroriste, ou\nd. que des valeurs patrimoniales servent au financement du terrorisme (art. 260quinquies, al. 1, CP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Échange d’informations et obligation de communiquer",
+        "citation": "Art. 27 al. 5 LBA",
+        "content": "Les organismes d’autorégulation sont dispensés de l’obligation d’informer au sens de l’al. 4 si un intermédiaire financier qui leur est affilié y a déjà satisfait.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Retrait de la reconnaissance",
+        "citation": "Art. 28 al. 1 LBA",
+        "content": "La FINMA ne retire la reconnaissance d’un organisme d’autorégulation en vertu de l’art. 37 LFINMA qu’après sommation préalable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_28"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 3, Surveillance, Section 5, Organismes d’autorégulation, Retrait de la reconnaissance",
+        "citation": "Art. 28 al. 2 LBA",
+        "content": "Lorsque la reconnaissance est retirée à un organisme d’autorégulation, les intermédiaires financiers qui lui sont affiliés ont deux mois pour demander leur affiliation à un autre organisme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_28"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Échange d’informations entre les autorités",
+        "citation": "Art. 29 al. 1 LBA",
+        "content": "La FINMA, la CFMJ, l’autorité intercantonale, le bureau central et le bureau de communication peuvent échanger tous les renseignements nécessaires à l’application de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Échange d’informations entre les autorités",
+        "citation": "Art. 29 al. 2 LBA",
+        "content": "Si le bureau de communication ou les offices centraux de police criminelle de la Confédération en font la demande, les autorités fédérales, cantonales et communales leur transmettent toutes les données dont ils ont besoin pour effectuer les analyses en relation avec la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme. Ces données comprennent notamment des informations financières ainsi que d’autres données sensibles collectées dans des procédures pénales, pénales administratives ou administratives, y compris dans des procédures pendantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Échange d’informations entre les autorités",
+        "citation": "Art. 29 al. 2bis LBA",
+        "content": "Le bureau de communication peut, au cas par cas, donner des renseignements aux autorités visées à l’al. 2, pour autant qu’ils soient utilisés exclusivement aux fins de la lutte contre le blanchiment d’argent, les infractions préalables au blanchiment d’argent, la criminalité organisée ou le financement du terrorisme. L’art. 30, al. 2 à 5, est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Échange d’informations entre les autorités",
+        "citation": "Art. 29 al. 2ter LBA",
+        "content": "Le bureau de communication ne peut transmettre aux autorités visées aux al. 1 et 2 des informations provenant d’un homologue étranger qu’aux fins mentionnées à l’al. 2bis et avec l’autorisation expresse de ce dernier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Échange d’informations entre les autorités",
+        "citation": "Art. 29 al. 3 LBA",
+        "content": "Le bureau de communication informe la FINMA, la CFMJ, l’autorité intercantonale et le bureau central des décisions rendues par les autorités cantonales de poursuite pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Autorités pénales",
+        "citation": "Art. 29a al. 1 LBA",
+        "content": "Les autorités pénales annoncent sans délai au bureau de communication toutes les procédures pendantes en rapport avec les art. 260ter, 260quinquies, al. 1, 305bis et 305ter, al. 1, CP. Elles lui font parvenir sans délai les jugements et les décisions de non-lieu correspondants, y compris leur motivation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Autorités pénales",
+        "citation": "Art. 29a al. 2 LBA",
+        "content": "De plus, elles annoncent sans délai au bureau de communication les décisions qu’elles ont prises sur les dénonciations qu’il leur a adressées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Autorités pénales",
+        "citation": "Art. 29a al. 2bis LBA",
+        "content": "Elles utilisent les informations transmises par le bureau de communication selon les conditions définies par ce dernier au cas par cas, en conformité avec l’art. 29, al. 2ter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Autorités pénales",
+        "citation": "Art. 29a al. 3 LBA",
+        "content": "Elles peuvent donner à la FINMA, à la CFMJ, à l’autorité intercantonale et au bureau central les renseignements et les documents nécessaires à l’accomplissement de leur tâche, dans la mesure où la procédure pénale n’est pas entravée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1, Collaboration entre les autorités suisses, Autorités pénales",
+        "citation": "Art. 29a al. 4 LBA",
+        "content": "La FINMA, la CFMJ, l’autorité intercantonale et le bureau central coordonnent les interventions éventuelles à l’encontre d’un intermédiaire financier avec les autorités de poursuite pénale compétentes. Ils consultent les autorités de poursuite pénale compétentes avant une transmission éventuelle des renseignements et des documents qu’ils ont reçus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1a, Collaboration avec les organismes de surveillance et les organismes d’autorégulation",
+        "citation": "Art. 29b al. 1 LBA",
+        "content": "Le bureau de communication peut échanger avec les organismes de surveillance et les organismes d’autorégulation tous les renseignements nécessaires à l’application de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1a, Collaboration avec les organismes de surveillance et les organismes d’autorégulation",
+        "citation": "Art. 29b al. 2 LBA",
+        "content": "Il ne peut transmettre aux organismes de surveillance et aux organismes d’autorégulation des informations provenant d’autorités pénales qu’avec l’autorisation expresse de ces dernières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 1a, Collaboration avec les organismes de surveillance et les organismes d’autorégulation",
+        "citation": "Art. 29b al. 3 LBA",
+        "content": "Il ne peut transmettre aux organismes de surveillance et aux organismes d’autorégulation des informations provenant d’un homologue étranger qu’avec l’autorisation expresse de ce dernier, et uniquement aux fins mentionnées à l’art. 29, al. 2bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 1 LBA",
+        "content": "Le bureau de communication peut transmettre à un homologue étranger les données personnelles et les autres informations dont il dispose ou qu’il peut obtenir en vertu de la présente loi si ce dernier remplit les conditions suivantes:\na. il s’engage à utiliser les informations transmises exclusivement à des fins d’analyse dans le cadre de la lutte contre le blanchiment d’argent et les infractions préalables au blanchiment, contre la criminalité organisée ou contre le financement du terrorisme;\nb. il s’engage à donner suite à une demande d’informations similaire provenant de la Suisse; \nc. il s’engage à garantir le respect du secret de fonction ou du secret professionnel;\nd. il s’engage à ne transmettre les informations obtenues à des tiers qu’avec l’autorisation expresse du bureau de communication;\ne. il respecte les charges et les restrictions d’utilisation exigées par le bureau de communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 2 LBA",
+        "content": "Il peut notamment transmettre les informations suivantes:\na. le nom de l’intermédiaire financier ou du négociant, dans la mesure où l’anonymat de la personne qui a adressé une communication ou qui a respecté le devoir d’informer visé par la présente loi est garanti;\nb. le nom du titulaire du compte, le numéro de compte et le montant des avoirs déposés;\nc. l’identité des ayants droit économiques;\nd. des indications sur les transactions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 3 LBA",
+        "content": "Il transmet ces informations sous forme de rapports.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 4 LBA",
+        "content": "Il peut autoriser un homologue étranger à transmettre les informations à des autorités tierces si ces dernières donnent les garanties suivantes:\na. elles utiliseront ces informations exclusivement:\n1. à des fins d’analyse dans le cadre de la lutte contre le blanchiment d’argent et les infractions préalables au blanchiment, contre la criminalité organisée ou contre le financement du terrorisme, ou\n2. dans le but d’ouvrir une procédure pénale pour blanchiment d’argent ou infraction préalable au blanchiment, pour criminalité organisée ou financement du terrorisme, ou afin de justifier une demande d’entraide judiciaire dans le cadre d’une telle procédure pénale;\nb. elles n’utiliseront pas ces informations dans le but de poursuivre des infractions qui ne constituent pas, en vertu du droit suisse, des infractions préalables au blanchiment d’argent;\nc. elles n’utiliseront pas ces informations comme éléments de preuve; \nd. le secret de fonction ou le secret professionnel sera respecté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 5 LBA",
+        "content": "Si la demande de transmission à une autorité étrangère tierce concerne des faits faisant l’objet d’une procédure pénale en Suisse, le bureau de communication demande l’autorisation préalable du ministère public chargé de conduire la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les homologues étrangers",
+        "citation": "Art. 30 al. 6 LBA",
+        "content": "Le bureau de communication est habilité à régler les modalités de la collaboration avec ses homologues étrangers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Refus d’informer",
+        "citation": "Art. 31 LBA",
+        "content": "Le bureau de communication refuse d’informer son homologue étranger:\na. si la requête ne présente aucun lien avec la Suisse;\nb. si la requête implique l’emploi de moyens de contrainte prévus par le droit de procédure ou la prise d’autres mesures ou actions pour lesquelles le droit suisse exige le dépôt d’une demande d’entraide judiciaire ou une autre procédure réglée par une loi spéciale ou par un accord international;\nc. si les intérêts nationaux ou la sécurité et l’ordre publics sont compromis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_31"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Dispositions applicables de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération",
+        "citation": "Art. 31a LBA",
+        "content": "Les dispositions des sections 1 et 4 de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération s’appliquent par analogie dans la mesure où la présente loi ne règle pas le traitement des données et l’octroi de l’assistance administrative par le bureau de communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_31_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les autorités de poursuite pénale étrangères",
+        "citation": "Art. 32 al. 1 LBA",
+        "content": "La collaboration du bureau de communication avec les autorités étrangères de poursuite pénale est régie par l’art. 13, al. 2, de la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_32"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 4, Entraide administrative, Section 2, Collaboration avec les autorités étrangères, Collaboration avec les autorités de poursuite pénale étrangères",
+        "citation": "Art. 32 al. 3 LBA",
+        "content": "Le bureau de communication n’est pas autorisé à transmettre aux autorités de poursuite pénale étrangères le nom de la personne qui lui a adressé la communication de l’intermédiaire financier ou du négociant ou qui a respecté le devoir d’informer visé à l’art. 11a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_32"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Principes",
+        "citation": "Art. 33 LBA",
+        "content": "Le traitement des données personnelles est régi par la loi fédérale du 25 septembre 2020 sur la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_33"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Dossiers et banques de données en rapport avec les communications et les informations transmises au bureau de communication",
+        "citation": "Art. 34 al. 1 LBA",
+        "content": "Les intermédiaires financiers gèrent des dossiers ou des banques de données séparés contenant tous les documents se rapportant aux communications visées à l’art. 9 de la présente loi ou à l’art. 305ter, al. 2, CP ainsi qu’aux demandes du bureau de communication visées à l’art. 11a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Dossiers et banques de données en rapport avec les communications et les informations transmises au bureau de communication",
+        "citation": "Art. 34 al. 2 LBA",
+        "content": "Ils ne peuvent transmettre des données de ces dossiers et de ces banques de données qu’à la FINMA, à la CFMJ, à l’autorité intercantonale, au bureau central, aux organismes de surveillance, aux organismes d’autorégulation, au bureau de communication et aux autorités de poursuite pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Dossiers et banques de données en rapport avec les communications et les informations transmises au bureau de communication",
+        "citation": "Art. 34 al. 3 LBA",
+        "content": "Les personnes concernées doivent faire valoir leur droit d’accès au sens de l’art. 25 de la loi fédérale du 25 septembre 2020 sur la protection des données auprès du bureau de communication (art. 35).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Dossiers et banques de données en rapport avec les communications et les informations transmises au bureau de communication",
+        "citation": "Art. 34 al. 4 LBA",
+        "content": "Les données doivent être détruites cinq ans après avoir été communiquées aux autorités compétentes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Traitement des données par le bureau de communication",
+        "citation": "Art. 35 al. 1 LBA",
+        "content": "Le traitement des données personnelles par le bureau de communication est régi par la loi fédérale du 7 octobre 1994 sur les Offices centraux de police criminelle de la Confédération. Le droit des particuliers d’obtenir des renseignements est régi par l’art. 8 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_35"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Traitement des données par le bureau de communication",
+        "citation": "Art. 35 al. 2 LBA",
+        "content": "Le bureau de communication peut échanger des informations avec la FINMA, la CFMJ, l’autorité intercantonale, le bureau central et les autorités de poursuite pénale au moyen d’une procédure d’appel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_35"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Vérification",
+        "citation": "Art. 35a al. 1 LBA",
+        "content": "Pour accomplir ses tâches, le bureau de communication peut vérifier en ligne si la personne qui lui a été signalée ou dénoncée est enregistrée dans un des systèmes d’information suivants:\na. index national de police;\nb. système d’information central sur la migration;\nc. casier judiciaire informatique VOSTRA;\nd. système de traitement des données relatives à la protection de l’État;\ne. système de gestion de personnes, de dossiers et d’affaires dans le cadre de l’entraide judiciaire internationale en matière pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_35_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 5, Traitement des données personnelles, Vérification",
+        "citation": "Art. 35a al. 2 LBA",
+        "content": "L’accès à des informations plus étendues est régi par les dispositions applicables à chaque système d’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_35_a"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 6, Dispositions pénales et voies de droit, Violation de l’obligation de communiquer",
+        "citation": "Art. 37 al. 1 LBA",
+        "content": "Est puni d’une amende de 500 000 francs au plus celui qui, intentionnellement, enfreint l’obligation de communiquer prévue à l’art. 9.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_37"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 6, Dispositions pénales et voies de droit, Violation de l’obligation de communiquer",
+        "citation": "Art. 37 al. 2 LBA",
+        "content": "Si l’auteur agit par négligence, il est puni d’une amende de 150 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_37"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 6, Dispositions pénales et voies de droit, Violation de l’obligation de contrôler",
+        "citation": "Art. 38 al. 1 LBA",
+        "content": "Le négociant qui enfreint intentionnellement l’obligation prévue à l’art. 15 de mandater une entreprise de révision est puni d’une amende de 100 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_38"
+    },
+    {
+        "book": "GwG",
+        "title": "LBA, Chapitre 6, Dispositions pénales et voies de droit, Violation de l’obligation de contrôler",
+        "citation": "Art. 38 al. 2 LBA",
+        "content": "S’il agit par négligence, il est puni d’une amende de 10 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/fr#art_38"
+    }
+]

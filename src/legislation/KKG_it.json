@@ -1,0 +1,702 @@
+[
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Contratto di credito al consumo",
+        "citation": "Art. 1 cpv. 1 LCC",
+        "content": "Il contratto di credito al consumo è un contratto in virtù del quale a un consumatore è concesso o promesso un credito sotto forma di dilazione di pagamento, di mutuo o di altra analoga facilitazione finanziaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Contratto di credito al consumo",
+        "citation": "Art. 1 cpv. 2 LCC",
+        "content": "Sono considerati contratti di credito al consumo anche:\na. i contratti di leasing su oggetti mobili che servono all’uso privato dell’assuntore del leasing e che, in caso di scioglimento anticipato del contratto di leasing, prevedono un aumento delle rate concordate;\nb. le carte di credito e le carte-cliente nonché i contratti di credito sotto forma di anticipo su conto corrente se vincolati a un’opzione di credito; per opzione di credito s’intende la possibilità di rimborsare a rate il saldo di una carta di credito o di una carta-cliente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Contratto di credito al consumo",
+        "citation": "Art. 1 cpv. 3 LCC",
+        "content": "Il credito al consumo è stipulato tra il consumatore e un creditore ai sensi dell’articolo 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_1"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Creditore",
+        "citation": "Art. 2 LCC",
+        "content": "Per creditore si intende ogni persona fisica o giuridica che:\na. concede professionalmente crediti al consumo (creditore professionale); o\nb. concede non professionalmente crediti al consumo per il tramite di un intermediario di crediti partecipativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_2"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Consumatore",
+        "citation": "Art. 3 LCC",
+        "content": "Per consumatore si intende ogni persona fisica che stipula un contratto di credito al consumo per uno scopo che può considerarsi estraneo alla sua attività commerciale o professionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_3"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Intermediario di credito",
+        "citation": "Art. 4 cpv. 1 LCC",
+        "content": "Per intermediario di credito si intende ogni persona fisica o giuridica che, professionalmente, fa mediazione per contratti di credito al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_4"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Intermediario di credito",
+        "citation": "Art. 4 cpv. 2 LCC",
+        "content": "Per intermediario di crediti partecipativi si intende ogni persona fisica o giuridica che, professionalmente, organizza per singoli consumatori la concessione di un credito al consumo cui possono partecipare in modo coordinato più creditori non professionali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_4"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Costo totale del credito per il consumatore",
+        "citation": "Art. 5 LCC",
+        "content": "Per costo totale del credito per il consumatore si intendono tutti i costi, compresi gli interessi e le altre spese, che il consumatore è tenuto a corrispondere per il credito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_5"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 1: Definizioni, Tasso annuo effettivo",
+        "citation": "Art. 6 LCC",
+        "content": "Per tasso annuo effettivo si intende il costo totale del credito per il consumatore, espresso in percentuale annua dell’ammontare del credito concesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_6"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 2: Campo d’applicazione, Esclusione",
+        "citation": "Art. 7 cpv. 1 LCC",
+        "content": "La presente legge non si applica:\na. ai contratti di credito o alle promesse di credito direttamente o indirettamente garantiti da pegno immobiliare;\nb. ai contratti di credito o alle promesse di credito coperti da garanzie bancarie usuali depositate o per i quali il consumatore ha depositato averi sufficienti presso il creditore;\nc. ai crediti concessi o messi a disposizione senza rimunerazione in interessi o altri oneri;\nd. ai contratti di credito in base ai quali non si impone nessun interesse, a condizione che il consumatore accetti di rimborsare il credito con un pagamento unico;\ne. ai contratti di credito per importi inferiori a 500 franchi o superiori a 80 000 franchi; i crediti concessi in modo coordinato a un consumatore per il tramite di un intermediario di crediti partecipativi sono sommati;\nf. ai contratti di credito in base ai quali il consumatore è tenuto a rimborsare il credito entro tre mesi; \ng. ai contratti stipulati in vista della fornitura continua di servizi o prestazioni di aziende d’approvvigionamento, in base ai quali il consumatore ha diritto di onorare il costo dei medesimi, per il periodo in cui sono forniti, mediante pagamenti rateali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_7"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 2: Campo d’applicazione, Esclusione",
+        "citation": "Art. 7 cpv. 2 LCC",
+        "content": "Il Consiglio federale può adeguare alle mutate circostanze l’importo di cui al capoverso 1 lettera e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_7"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 2: Campo d’applicazione, Limitazione",
+        "citation": "Art. 8 cpv. 1 LCC",
+        "content": "I contratti di leasing di cui all’articolo 1 capoverso 2 lettera a sottostanno solo agli articoli 11, 13–16, 17 capoverso 3, 18 capoversi 2 e 3, 19–24, 25 capoversi 1 e 3, 26, 29 e 31–40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_8"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 2: Campo d’applicazione, Limitazione",
+        "citation": "Art. 8 cpv. 2 LCC",
+        "content": "I conti connessi a carte di credito o a carte-cliente con opzione di credito e i crediti sotto forma di anticipo su conto corrente sottostanno solo agli articoli 12–16, 17 capoversi 1 e 2, 18 capoversi 1 e 3, 19–24, 25 capoversi 1 e 3, 27 e 30–40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_8"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Crediti in contanti",
+        "citation": "Art. 9 cpv. 1 LCC",
+        "content": "I contratti di credito al consumo devono essere conclusi per scritto; il consumatore riceve un esemplare del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_9"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Crediti in contanti",
+        "citation": "Art. 9 cpv. 2 LCC",
+        "content": "Il contratto deve contenere le seguenti indicazioni:\na. l’ammontare netto del credito;\nb. il tasso annuo effettivo o, in difetto di questo, il tasso d’interesse annuale e le spese addebitate al momento della conclusione del contratto;\nc. le condizioni secondo cui gli interessi e le spese di cui alla lettera b possono essere modificati;\nd. gli elementi del costo totale del credito che non sono considerati nel calcolo del tasso annuo effettivo (art. 34), ad eccezione delle spese scaturite dall’inadempimento degli obblighi contrattuali; se è conosciuto, l’ammontare esatto di questi elementi di costo dev’essere indicato; diversamente, quando è possibile, si deve fornire un metodo di calcolo oppure una stima realistica;\ne. l’eventuale limite massimo del credito;\nf. le modalità di rimborso, in particolare l’ammontare, il numero e la periodicità o le date di scadenza dei versamenti che il consumatore deve effettuare per rimborsare il credito e pagare gli interessi e le altre spese, come pure, quando è possibile, l’importo totale di questi versamenti;\ng. nel caso di rimborso anticipato, il diritto alla remissione degli interessi e a un’equa riduzione delle spese corrispondenti alla durata del credito rimasta inutilizzata;\nh. il diritto di revoca e il termine di revoca (art. 16);\ni. le garanzie eventualmente richieste;\nj. la parte del reddito che risulta pignorabile in seguito all’esame della capacità creditizia (art. 28 cpv. 2 e 3); i dettagli possono essere annotati in un documento separato dal contratto di credito al consumo; esso costituisce parte integrante del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_9"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Contratto di credito per il finanziamento dell’acquisto di beni o servizi",
+        "citation": "Art. 10 LCC",
+        "content": "Il contratto di credito avente per oggetto il finanziamento dell’acquisto di beni o servizi deve inoltre contenere le seguenti indicazioni:\na. la descrizione di questi beni o servizi;\nb. il prezzo in contanti e il prezzo stabilito dal contratto di credito;\nc l’importo di un eventuale acconto, il numero, l’ammontare e la data di scadenza delle rate, oppure il metodo da utilizzare per determinare ciascuno di tali elementi, qualora non siano noti al momento della conclusione del contratto;\nd. l’identità del proprietario dei beni, qualora la traslazione di proprietà al consumatore non sia immediata, e le condizioni alle quali il consumatore acquista la proprietà dei beni;\ne. l’eventuale obbligo di assicurazione e, qualora la scelta dell’assicuratore non sia lasciata al consumatore, il costo dell’assicurazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_10"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Contratto di leasing",
+        "citation": "Art. 11 cpv. 1 LCC",
+        "content": "Il contratto di leasing deve essere concluso per scritto; l’assuntore del leasing riceve un esemplare del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_11"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Contratto di leasing",
+        "citation": "Art. 11 cpv. 2 LCC",
+        "content": "Il contratto deve contenere le seguenti indicazioni:\na. la descrizione dell’oggetto del leasing e il prezzo d’acquisto in contanti al momento della conclusione del contratto;\nb. il numero, l’ammontare e la data di scadenza delle rate del leasing;\nc. l’ammontare di un’eventuale cauzione;\nd. l’eventuale obbligo di assicurazione e, qualora la scelta dell’assicuratore non sia lasciata all’assuntore del leasing, il costo dell’assicurazione;\ne. il tasso annuo effettivo;\nf. il diritto di revoca e il termine di revoca;\ng. una tabella, allestita secondo principi riconosciuti, da cui risulti l’importo che l’assuntore del leasing deve pagare, oltre alle rate già versate, in caso di scioglimento anticipato del contratto, e il valore residuo dell’oggetto del leasing al momento dello scioglimento;\nh. gli elementi considerati nell’esame della capacità creditizia (art. 29 cpv. 2); i dettagli possono essere annotati in un documento separato dal contratto di leasing; esso costituisce parte integrante del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_11"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o carte-cliente con opzione di credito",
+        "citation": "Art. 12 cpv. 1 LCC",
+        "content": "Qualora un creditore conceda un credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o a carte-cliente con opzione di credito, il contratto deve essere concluso per scritto; il consumatore riceve un esemplare del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o carte-cliente con opzione di credito",
+        "citation": "Art. 12 cpv. 2 LCC",
+        "content": "Il contratto deve contenere le seguenti indicazioni:\na. il limite massimo del credito;\nb. il tasso d’interesse annuale, le spese addebitate al momento della conclusione del contratto e le condizioni secondo cui essi potranno essere modificati;\nc. le modalità secondo cui è ammessa la risoluzione del contratto;\nd. gli elementi considerati nell’esame della capacità creditizia (art. 30 cpv. 1); i dettagli possono essere annotati in un documento separato dal contratto; esso costituisce parte integrante del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o carte-cliente con opzione di credito",
+        "citation": "Art. 12 cpv. 3 LCC",
+        "content": "Nel corso del contratto di credito il consumatore deve essere informato immediatamente di qualsiasi modifica del tasso d’interesse annuale o delle spese addebitate; questa notifica può aver luogo mediante un estratto conto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Credito sotto forma di anticipo su conto corrente o su conto connesso a carte di credito o carte-cliente con opzione di credito",
+        "citation": "Art. 12 cpv. 4 LCC",
+        "content": "Se uno scoperto è tacitamente accettato e si protrae oltre tre mesi, il consumatore deve essere informato:\na. del tasso d’interesse annuo e delle relative spese;\nb. di qualsiasi modifica di questi elementi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_12"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Consenso del rappresentante legale",
+        "citation": "Art. 13 cpv. 1 LCC",
+        "content": "Il contratto di credito al consumo concluso da un minorenne è valido solo con il consenso scritto del rappresentante legale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_13"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Consenso del rappresentante legale",
+        "citation": "Art. 13 cpv. 2 LCC",
+        "content": "Il consenso deve essere dato al più tardi quando il consumatore firma il contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_13"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Tasso d’interesse massimo",
+        "citation": "Art. 14 LCC",
+        "content": "Il Consiglio federale fissa il tasso d’interesse massimo ammesso giusta l’articolo 9 capoverso 2 lettera b. A tale scopo tiene conto dei tassi d’interesse della Banca nazionale determinanti per il rifinanziamento dei crediti al consumo. Il tasso d’interesse non deve di regola superare il 15 per cento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_14"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Nullità",
+        "citation": "Art. 15 cpv. 1 LCC",
+        "content": "L’inosservanza degli articoli 9–11, 12 capoversi 1, 2 e 4 lettera a, 13 e 14 comporta la nullità del contratto di credito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Nullità",
+        "citation": "Art. 15 cpv. 2 LCC",
+        "content": "In caso di nullità del contratto di credito, il consumatore è tenuto a rimborsare entro la scadenza della durata del credito l’ammontare già ricevuto o utilizzato, ma non deve né interessi né spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Nullità",
+        "citation": "Art. 15 cpv. 3 LCC",
+        "content": "Il credito è rimborsabile mediante versamenti rateali d’importo identico, a intervalli mensili, salvo che il contratto preveda intervalli più lunghi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Nullità",
+        "citation": "Art. 15 cpv. 4 LCC",
+        "content": "In caso di contratto di leasing, il consumatore deve restituire l’oggetto cedutogli e pagare le rate dovute sino a quel momento. La perdita di valore dell’oggetto non coperta in tal modo è a carico del fornitore del leasing.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_15"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Diritto di revoca",
+        "citation": "Art. 16 cpv. 1 LCC",
+        "content": "Il consumatore può revocare entro 14 giorni per scritto la proposta di conclusione del contratto o la dichiarazione di accettazione. Non vi è diritto di revoca nel caso di cui all’articolo 12 capoverso 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Diritto di revoca",
+        "citation": "Art. 16 cpv. 1bis LCC",
+        "content": "I contratti di credito al consumo conclusi con creditori ai sensi dell’articolo 2 lettera b possono essere revocati:\na. nei confronti di ogni singolo creditore; o\nb. mediante un’unica dichiarazione all’intermediario di crediti partecipativi, con effetto per tutti i creditori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Diritto di revoca",
+        "citation": "Art. 16 cpv. 2 LCC",
+        "content": "Il termine di revoca decorre dal momento in cui il consumatore riceve un esemplare del contratto giusta l’articolo 9 capoverso 1, 11 capoverso 1 o 12 capoverso 1. Il termine è osservato se il consumatore consegna la dichiarazione di revoca al creditore o alla posta entro l’ultimo giorno del termine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Diritto di revoca",
+        "citation": "Art. 16 cpv. 2bis LCC",
+        "content": "Nei casi di cui al capoverso 1bis lettera b il termine di revoca decorre dal momento in cui il consumatore riceve una copia dell’ultimo contratto concluso con un creditore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 3: Forma e contenuto del contratto, Diritto di revoca",
+        "citation": "Art. 16 cpv. 3 LCC",
+        "content": "Qualora il credito sia stato versato prima della revoca del contratto, si applica l’articolo 15 capoversi 2 e 3. In caso di acquisto a rate, di fornitura di un servizio a credito o di contratto di leasing si applica l’articolo 40f del Codice delle obbligazioni. In caso di uso abusivo della cosa durante il termine di revoca, il consumatore deve un’indennità adeguata calcolata in base alla perdita di valore della cosa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_16"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Rimborso anticipato",
+        "citation": "Art. 17 cpv. 1 LCC",
+        "content": "Il consumatore ha facoltà di adempiere in via anticipata gli obblighi che gli derivano dal contratto di credito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Rimborso anticipato",
+        "citation": "Art. 17 cpv. 2 LCC",
+        "content": "In tal caso egli ha diritto alla remissione degli interessi e a un’equa riduzione delle spese corrispondenti alla durata del credito rimasta inutilizzata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Rimborso anticipato",
+        "citation": "Art. 17 cpv. 3 LCC",
+        "content": "L’assuntore del leasing può disdire il contratto con preavviso di 30 giorni per la fine di un trimestre del contratto. Il diritto all’indennità spettante al fornitore del leasing si determina in base alla tabella prevista dall’articolo 11 capoverso 2 lettera g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_17"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Mora",
+        "citation": "Art. 18 cpv. 1 LCC",
+        "content": "Il creditore può recedere dal contratto se risultano impagate rate ammontanti ad almeno il 10 per cento dell’importo netto del credito o del prezzo in contanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Mora",
+        "citation": "Art. 18 cpv. 2 LCC",
+        "content": "Il fornitore del leasing può recedere dal contratto se risultano impagate rate ammontanti a oltre tre pagamenti mensili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Mora",
+        "citation": "Art. 18 cpv. 3 LCC",
+        "content": "L’interesse di mora non può superare l’interesse convenuto per il credito al consumo o per il contratto di leasing (art. 9 cpv. 2 lett. b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_18"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Eccezioni del consumatore",
+        "citation": "Art. 19 LCC",
+        "content": "Il consumatore ha il diritto inalienabile di opporre a ogni cessionario le eccezioni che gli derivano dal contratto di credito al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_19"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Pagamento e garanzia a mezzo di cambiali",
+        "citation": "Art. 20 cpv. 1 LCC",
+        "content": "Al creditore è vietato accettare il pagamento del credito mediante cambiali, compresi i vaglia cambiari, come pure ricevere garanzie sotto forma di cambiali, compresi vaglia cambiari e assegni bancari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Pagamento e garanzia a mezzo di cambiali",
+        "citation": "Art. 20 cpv. 2 LCC",
+        "content": "Se, contravvenendo al capoverso 1, il creditore accetta una cambiale o un assegno bancario, il consumatore ne può esigere la restituzione in qualsiasi momento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Pagamento e garanzia a mezzo di cambiali",
+        "citation": "Art. 20 cpv. 3 LCC",
+        "content": "Il creditore risponde del danno causato al consumatore dall’emissione della cambiale o dell’assegno bancario.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_20"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Esecuzione viziata del contratto d’acquisto",
+        "citation": "Art. 21 cpv. 1 LCC",
+        "content": "Il consumatore che conclude un contratto di credito, in vista dell’acquisto di beni o servizi, con una persona diversa dal fornitore dei medesimi può far valere verso il creditore tutti i diritti che gli spettano nei confronti del fornitore, alle seguenti condizioni:\na. fra il creditore e il fornitore dei beni o dei servizi esiste un accordo in base al quale il credito è concesso esclusivamente da quel creditore ai clienti di quel fornitore;\nb. il consumatore ottiene il credito in base a questo accordo;\nc. i beni o i servizi considerati dal contratto di credito non sono forniti o sono forniti soltanto in parte o non sono conformi al relativo contratto di fornitura;\nd. il consumatore ha proceduto contro il fornitore, ma non ha ottenuto soddisfazione;\ne. l’ammontare del negozio in questione supera i 500 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_21"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 4: Diritti e obblighi delle parti, Esecuzione viziata del contratto d’acquisto",
+        "citation": "Art. 21 cpv. 2 LCC",
+        "content": "Il Consiglio federale può adeguare alle mutate circostanze l’importo di cui al capoverso 1 lettera e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_21"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Principio",
+        "citation": "Art. 22 LCC",
+        "content": "L’esame della capacità creditizia ha lo scopo di impedire un eccessivo indebitamento del consumatore in seguito a un contratto di credito al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_22"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Centrale d’informazione per il credito al consumo",
+        "citation": "Art. 23 cpv. 1 LCC",
+        "content": "I creditori professionali istituiscono una Centrale d’informazione per il credito al consumo (Centrale d’informazione). Questa istituzione comune elabora i dati che le pervengono nell’ambito degli articoli 25–27.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Centrale d’informazione per il credito al consumo",
+        "citation": "Art. 23 cpv. 2 LCC",
+        "content": "Gli statuti della Centrale d’informazione devono essere approvati dal dipartimento competente. Essi disciplinano in particolare:\na. la responsabilità in materia di trattamento dei dati;\nb. le categorie dei dati da registrare e la durata della loro conservazione, archiviazione ed eliminazione;\nc. i diritti di accesso e di trattamento;\nd. la collaborazione con terzi coinvolti;\ne. la sicurezza dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Centrale d’informazione per il credito al consumo",
+        "citation": "Art. 23 cpv. 3 LCC",
+        "content": "La Centrale d’informazione è un organo federale ai sensi dell’articolo 5 lettera i della legge federale del 25 settembre 2020 sulla protezione dei dati. Il Consiglio federale emana le disposizioni d’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Centrale d’informazione per il credito al consumo",
+        "citation": "Art. 23 cpv. 4 LCC",
+        "content": "Fatte salve le competenze previste dalla legge federale sulla protezione dei dati, la Centrale d’informazione è sottoposta alla vigilanza del dipartimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Centrale d’informazione per il credito al consumo",
+        "citation": "Art. 23 cpv. 5 LCC",
+        "content": "Il Consiglio federale può impartire ai creditori professionali un termine entro il quale istituire la Centrale d’informazione. La istituisce da sé qualora i creditori professionali non l’abbiano istituita o l’abbiano sciolta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_23"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Accesso ai dati",
+        "citation": "Art. 24 cpv. 1 LCC",
+        "content": "Ai dati raccolti dalla Centrale d’informazione hanno accesso unicamente i creditori professionali e gli intermediari di crediti partecipativi, in quanto necessitino di tali dati per l’adempimento dei compiti che la presente legge attribuisce loro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_24"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Accesso ai dati",
+        "citation": "Art. 24 cpv. 2 LCC",
+        "content": "Con il consenso del debitore, hanno accesso ai dati nel singolo caso anche le istituzioni di risanamento dei debiti designate e sostenute dai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_24"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica",
+        "citation": "Art. 25 cpv. 1 LCC",
+        "content": "Il creditore professionale o l’intermediario di crediti partecipativi deve notificare alla Centrale d’informazione:\na. i crediti al consumo da lui concessi o di cui ha fatto la mediazione;\nb. i versamenti di rate scaduti che ammontano almeno al 10 per cento dell’importo netto del credito o del prezzo in contanti (art. 18 cpv. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica",
+        "citation": "Art. 25 cpv. 2 LCC",
+        "content": "Se il versamento delle rate non avviene tramite l’intermediario di crediti partecipativi, quest’ultimo si assicura che i creditori non professionali gli notifichino i versamenti scaduti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica",
+        "citation": "Art. 25 cpv. 3 LCC",
+        "content": "La Centrale d’informazione definisce negli statuti o in un regolamento fondato sugli stessi i dettagli concernenti contenuto, forma e momento della notifica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_25"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica per i contratti di leasing",
+        "citation": "Art. 26 cpv. 1 LCC",
+        "content": "In caso di contratto di leasing, il creditore professionale o l’intermediario di crediti partecipativi deve notificare alla Centrale d’informazione:\na. l’ammontare totale del leasing;\nb. la durata del contratto del leasing;\nc. l’ammontare delle rate mensili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_26"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica per i contratti di leasing",
+        "citation": "Art. 26 cpv. 2 LCC",
+        "content": "Deve inoltre notificare alla Centrale d’informazione i versamenti scaduti, se ammontano almeno a tre rate del leasing.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_26"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica per i conti connessi a carte di credito o carte-cliente",
+        "citation": "Art. 27 cpv. 1 LCC",
+        "content": "Se il consumatore fa uso dell’opzione di credito tre volte di seguito, il creditore deve notificare l’importo scoperto alla Centrale d’informazione. Non vi è obbligo di notifica se l’importo scoperto è inferiore a 3000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_27"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di notifica per i conti connessi a carte di credito o carte-cliente",
+        "citation": "Art. 27 cpv. 2 LCC",
+        "content": "Il Consiglio federale è autorizzato ad adeguare periodicamente, mediante ordinanza, il limite di 3000 franchi menzionato nel capoverso 1 all’evoluzione dell’indice svizzero dei prezzi al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_27"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Obbligo di esame della capacità creditizia",
+        "citation": "Art. 27a LCC",
+        "content": "Prima della conclusione del contratto, il creditore professionale o l’intermediario di crediti partecipativi esamina la capacità creditizia del consumatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_27_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia",
+        "citation": "Art. 28 cpv. 2 LCC",
+        "content": "Il consumatore è ritenuto capace di credito quando è in grado di rimborsare il credito al consumo senza gravare la parte impignorabile del reddito secondo l’articolo 93 capoverso 1 della legge federale dell’11 aprile 1889 sulla esecuzione e sul fallimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia",
+        "citation": "Art. 28 cpv. 3 LCC",
+        "content": "La parte pignorabile del reddito è determinata in base alle direttive sul calcolo del minimo esistenziale del Cantone di domicilio del consumatore. In ogni caso, nel corso dell’accertamento occorre tenere conto:\na. della pigione effettivamente dovuta;\nb. delle imposte dovute in base alla tabella dell’imposta alla fonte;\nc. degli obblighi notificati presso la Centrale d’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia",
+        "citation": "Art. 28 cpv. 4 LCC",
+        "content": "Nella valutazione della capacità creditizia occorre presupporre un ammortamento del credito al consumo entro 36 mesi, anche qualora per contratto sia stata stipulata una durata maggiore. Ciò vale anche per crediti al consumo precedenti, nella misura in cui non siano ancora stati rimborsati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia",
+        "citation": "Art. 28 cpv. 5 LCC",
+        "content": "In caso di contratti di credito al consumo oggetto di una mediazione coordinata, per l’esame della capacità creditizia si tiene conto di tutti i crediti oggetto dell’intermediazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_28"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia dell’assuntore del leasing",
+        "citation": "Art. 29 cpv. 1 LCC",
+        "content": "Il fornitore del leasing che agisce professionalmente esamina la capacità creditizia dell’assuntore del leasing prima della conclusione del contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_29"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia dell’assuntore del leasing",
+        "citation": "Art. 29 cpv. 2 LCC",
+        "content": "La capacità creditizia è data quando l’assuntore del leasing può pagare le rate senza gravare la parte impignorabile del reddito ai sensi dell’articolo 28 capoversi 2 e 3 o quando valori patrimoniali che gli appartengono garantiscono il pagamento delle rate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_29"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia per i conti connessi a carte di credito o a carte-cliente",
+        "citation": "Art. 30 cpv. 1 LCC",
+        "content": "Quando accorda un limite di credito nell’ambito di un conto connesso a carte di credito o carte-cliente con opzione di credito o di un credito sotto forma di anticipo su conto corrente, il creditore professionale o l’impresa che rilascia carte di credito deve verificare mediante esame sommario la capacità creditizia del consumatore. L’esame si fonda sulle informazioni fornite dal richiedente circa la propria situazione patrimoniale e di reddito. Il limite di credito deve tenere conto di tale situazione. Al riguardo, occorre considerare i crediti al consumo notificati alla Centrale d’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_30"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Esame della capacità creditizia per i conti connessi a carte di credito o a carte-cliente",
+        "citation": "Art. 30 cpv. 2 LCC",
+        "content": "L’esame della capacità creditizia secondo il capoverso 1 va ripetuto se il creditore professionale o l’impresa che rilascia carte di credito dispone di informazioni secondo le quali la situazione economica del consumatore è peggiorata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_30"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Rilievo delle indicazioni fornite dal consumatore",
+        "citation": "Art. 31 cpv. 1 LCC",
+        "content": "Il creditore professionale o l’intermediario di crediti partecipativi può fare affidamento sulle indicazioni fornite dal consumatore in merito alla situazione finanziaria (art. 28 cpv. 3 e 4) o alla situazione economica (art. 29 cpv. 2 e 30 cpv. 1). Può chiedere al consumatore l’estratto del registro delle esecuzioni e un’attestazione del salario o, se questi non esercita un’attività dipendente, altri documenti che ne indichino il reddito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Rilievo delle indicazioni fornite dal consumatore",
+        "citation": "Art. 31 cpv. 2 LCC",
+        "content": "Sono fatte salve le indicazioni manifestamente inesatte o in contraddizione con i dati di cui dispone la Centrale d’informazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Rilievo delle indicazioni fornite dal consumatore",
+        "citation": "Art. 31 cpv. 3 LCC",
+        "content": "In caso di dubbi sull’esattezza delle indicazioni fornite dal consumatore, il creditore professionale o l’intermediario di crediti partecipativi le verifica sulla base di pertinenti documenti ufficiali o privati. Non può limitare la verifica ai documenti indicati nel capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_31"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Sanzioni contro i creditori",
+        "citation": "Art. 32 cpv. 1 LCC",
+        "content": "Il creditore professionale che viola in modo grave le disposizioni dell’articolo 27a, 28, 29, 30 o 31 perde l’importo del credito concesso, compresi gli interessi e le spese. Il consumatore può esigere la restituzione delle prestazioni già fornite, secondo le norme sull’indebito arricchimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_32"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Sanzioni contro i creditori",
+        "citation": "Art. 32 cpv. 2 LCC",
+        "content": "Il creditore professionale che viola l’articolo 25, 26 o 27 capoverso 1 o, in modo lieve, l’articolo 27a, 28, 29, 30 o 31 perde unicamente gli interessi e le spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_32"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Sanzioni contro gli intermediari di crediti partecipativi",
+        "citation": "Art. 32a cpv. 1 LCC",
+        "content": "L’intermediario di crediti partecipativi che viola l’articolo 25, 26, 27 capoverso 1, 27a, 28, 29, 30 o 31 è punito con la multa fino a 100 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_32_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 5: Capacità creditizia, Sanzioni contro gli intermediari di crediti partecipativi",
+        "citation": "Art. 32a cpv. 2 LCC",
+        "content": "Il creditore perde unicamente gli interessi e le spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_32_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Termine e metodo di calcolo",
+        "citation": "Art. 33 cpv. 1 LCC",
+        "content": "Il tasso annuo effettivo è calcolato al momento della conclusione del contratto di credito al consumo secondo la formula matematica prevista nell’allegato 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Termine e metodo di calcolo",
+        "citation": "Art. 33 cpv. 2 LCC",
+        "content": "Il calcolo si basa sull’ipotesi che il contratto di credito rimanga in vigore per il periodo di tempo convenuto e che il creditore e il consumatore soddisfino gli obblighi nei termini convenuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Termine e metodo di calcolo",
+        "citation": "Art. 33 cpv. 3 LCC",
+        "content": "Se il contratto di credito permette di modificare il tasso d’interesse o altre spese che devono essere inclusi nel calcolo, ma che a quel momento non possono essere quantificati, il calcolo si basa sull’ipotesi che il tasso e le altre spese si mantengano fissi rispetto al livello iniziale e si applichino fino alla scadenza del contratto di credito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Termine e metodo di calcolo",
+        "citation": "Art. 33 cpv. 4 LCC",
+        "content": "Trattandosi di un contratto di leasing, il tasso annuo effettivo è calcolato in base al prezzo d’acquisto in contanti dell’oggetto del leasing alla conclusione del contratto (base di calcolo) e alla scadenza di quest’ultimo (valore residuo) nonché in base all’ammontare dei singoli rimborsi (rate del leasing).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_33"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Spese determinanti",
+        "citation": "Art. 34 cpv. 1 LCC",
+        "content": "Per il calcolo del tasso annuo effettivo si determina il costo totale del credito per il consumatore quale è definito all’articolo 5, incluso il prezzo di acquisto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Spese determinanti",
+        "citation": "Art. 34 cpv. 2 LCC",
+        "content": "Non si considerano:\na. le spese che il consumatore deve pagare se non adempie un qualsiasi obbligo che figura nel contratto;\nb. le spese che incombono al consumatore all’acquisto di beni o servizi, indipendentemente dal fatto che si tratti di un acquisto in contanti o a credito;\nc. i contributi per l’iscrizione ad associazioni o a gruppi, derivanti da accordi distinti dal contratto di credito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Spese determinanti",
+        "citation": "Art. 34 cpv. 3 LCC",
+        "content": "Le spese di trasferimento di fondi, come pure le spese per la gestione di un conto destinato a ricevere gli importi addebitati a titolo di rimborso del credito, del pagamento degli interessi e delle altre spese sono considerate soltanto nel caso in cui il consumatore non disponga di una adeguata libertà di scelta in materia e tali spese siano anormalmente elevate. Sono tuttavia incluse nel calcolo le spese di riscossione di tali rimborsi o di tali pagamenti, indipendentemente dal fatto che siano riscosse in contanti o in un altro modo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 6: Calcolo del tasso annuo effettivo, Spese determinanti",
+        "citation": "Art. 34 cpv. 4 LCC",
+        "content": "Le spese per le assicurazioni e garanzie sono considerate nella misura in cui:\na. sono imposte obbligatoriamente dal creditore professionale o dall’intermediario di crediti partecipativi per la concessione del credito; e\nb. assicurano al creditore professionale o all’intermediario di crediti partecipativi il rimborso, in caso di morte, invalidità, infermità o disoccupazione del consumatore, di una somma pari o inferiore all’importo totale del credito, compresi gli interessi e le altre spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_34"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 7: Mediazione di crediti",
+        "citation": "Art. 35 cpv. 1 LCC",
+        "content": "Il consumatore non deve indennità alcuna all’intermediario che gli procura un credito al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_35"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 7: Mediazione di crediti",
+        "citation": "Art. 35 cpv. 2 LCC",
+        "content": "Le spese del creditore per la mediazione del credito sono parte integrante del costo totale del credito (art. 5 e 34 cpv. 1); esse non possono essere esposte separatamente a carico del consumatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_35"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 8: Pubblicità, Principio",
+        "citation": "Art. 36 cpv. RS 241 LCC",
+        "content": "La pubblicità per crediti al consumo è retta dalla legge federale del 19 dicembre 1986 contro la concorrenza sleale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_36"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 8: Pubblicità, Pubblicità aggressiva",
+        "citation": "Art. 36a cpv. 1 LCC",
+        "content": "La pubblicità per i crediti al consumo non deve essere aggressiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 8: Pubblicità, Pubblicità aggressiva",
+        "citation": "Art. 36a cpv. 2 LCC",
+        "content": "I creditori professionali definiscono in modo adeguato in una convenzione di diritto privato quale pubblicità è considerata aggressiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 8: Pubblicità, Pubblicità aggressiva",
+        "citation": "Art. 36a cpv. 3 LCC",
+        "content": "Se la convenzione non è conclusa entro congruo termine o se la reputa insufficiente, il Consiglio federale disciplina quale pubblicità è considerata aggressiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_36_a"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 8: Pubblicità, Disposizione penale",
+        "citation": "Art. 36b LCC",
+        "content": "È punito con la multa fino a 100 000 franchi chiunque intenzionalmente contravviene al divieto di pubblicità aggressiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_36_b"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 9: Diritto imperativo",
+        "citation": "Art. 37 LCC",
+        "content": "Non si può derogare alle disposizioni della presente legge a svantaggio del consumatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_37"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Relazioni con il diritto cantonale",
+        "citation": "Art. 38 LCC",
+        "content": "La Confederazione disciplina esaustivamente i contratti di credito al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_38"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Obbligo di autorizzazione",
+        "citation": "Art. 39 cpv. 1 LCC",
+        "content": "I Cantoni subordinano la concessione a titolo professionale e la mediazione di crediti al consumo all’obbligo di autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Obbligo di autorizzazione",
+        "citation": "Art. 39 cpv. 2 LCC",
+        "content": "Il Cantone nel quale ha sede il creditore professionale o l’intermediario è competente per il rilascio dell’autorizzazione. Qualora il creditore professionale o l’intermediario non abbia sede in Svizzera, l’autorizzazione è rilasciata dal Cantone sul territorio del quale il creditore professionale o l’intermediario intende esercitare principalmente la sua attività. L’autorizzazione rilasciata da un Cantone vale per tutta la Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Obbligo di autorizzazione",
+        "citation": "Art. 39 cpv. 3 LCC",
+        "content": "Nessuna autorizzazione secondo il capoverso 2 è necessaria qualora il creditore professionale o l’intermediario:\na. sia soggetto alla legge federale dell’8 novembre 1934 sulle banche e le casse di risparmio;\nb. conceda o faccia mediazione di crediti al consumo per il finanziamento dell’acquisto dei suoi beni o della fornitura dei suoi servizi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_39"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Condizioni di rilascio dell’autorizzazione",
+        "citation": "Art. 40 cpv. 1 LCC",
+        "content": "L’autorizzazione è rilasciata se il richiedente:\na. è affidabile e la sua situazione economica è sana;\nb. possiede le conoscenze e attitudini generali commerciali e tecniche necessarie all’esercizio dell’attività;\nc. dispone di un’adeguata assicurazione di responsabilità civile professionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_40"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Condizioni di rilascio dell’autorizzazione",
+        "citation": "Art. 40 cpv. 2 LCC",
+        "content": "L’autorizzazione è rilasciata alle società e alle persone giuridiche soltanto se tutti i membri della direzione posseggono le conoscenze e le attitudini menzionate nel capoverso 1 lettera b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_40"
+    },
+    {
+        "book": "KKG",
+        "title": "LCC, Sezione 10: Competenze, Condizioni di rilascio dell’autorizzazione",
+        "citation": "Art. 40 cpv. 3 LCC",
+        "content": "Il Consiglio federale disciplina in un’ordinanza i dettagli inerenti alle condizioni di rilascio dell’autorizzazione di cui al capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/593/it#art_40"
+    }
+]

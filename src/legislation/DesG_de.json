@@ -1,0 +1,828 @@
+[
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Schutzgegenstand",
+        "citation": "Art. 1 DesG",
+        "content": "Dieses Gesetz schützt Gestaltungen von Erzeugnissen oder Teilen von Erzeugnissen, die namentlich durch die Anordnung von Linien, Flächen, Konturen oder Farben oder durch das verwendete Material charakterisiert sind, als Design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_1"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Schutzvoraussetzungen",
+        "citation": "Art. 2 Abs. 1 DesG",
+        "content": "Design ist schutzfähig, soweit es neu ist und Eigenart aufweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Schutzvoraussetzungen",
+        "citation": "Art. 2 Abs. 2 DesG",
+        "content": "Design ist nicht neu, wenn der Öffentlichkeit vor dem Hinterlegungs- oder Prioritätsdatum ein identisches Design zugänglich gemacht worden ist, welches den in der Schweiz beteiligten Verkehrskreisen bekannt sein konnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Schutzvoraussetzungen",
+        "citation": "Art. 2 Abs. 3 DesG",
+        "content": "Design weist keine Eigenart auf, wenn es sich nach dem Gesamteindruck von Design, welches den in der Schweiz beteiligten Verkehrskreisen bekannt sein konnte, nur in unwesentlichen Merkmalen unterscheidet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_2"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Unschädliche Offenbarungen",
+        "citation": "Art. 3 DesG",
+        "content": "Die Offenbarung eines Designs kann bis zu einer Dauer von zwölf Monaten vor dem Hinterlegungs- oder Prioritätsdatum der Person, die das Recht innehat (Rechtsinhaberin), nicht entgegengehalten werden, wenn:\na. Dritte das Design missbräuchlich zum Nachteil der berechtigten Person offenbart haben;\nb. die berechtigte Person das Design selber offenbart hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_3"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Schutzgegenstand und Schutzvoraussetzungen, Ausschlussgründe",
+        "citation": "Art. 4 DesG",
+        "content": "Der Designschutz ist ausgeschlossen, wenn:\na. kein Design im Sinne von Artikel 1 hinterlegt ist;\nb. das Design im Zeitpunkt der Hinterlegung die Voraussetzungen nach Artikel 2 nicht erfüllt;\nc. die Merkmale des Designs ausschliesslich durch die technische Funktion des Erzeugnisses bedingt sind;\nd. das Design Bundesrecht oder Staatsverträge verletzt;\ne. das Design gegen die öffentliche Ordnung oder die guten Sitten verstösst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_4"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Entstehung des Designrechts und Dauer des Schutzes",
+        "citation": "Art. 5 Abs. 1 DesG",
+        "content": "Das Designrecht entsteht mit der Eintragung im Design-Register (Register).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Entstehung des Designrechts und Dauer des Schutzes",
+        "citation": "Art. 5 Abs. 2 DesG",
+        "content": "Der Schutz besteht während fünf Jahren vom Datum der Hinterlegung an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Entstehung des Designrechts und Dauer des Schutzes",
+        "citation": "Art. 5 Abs. 3 DesG",
+        "content": "Er kann um vier Schutzperioden von jeweils fünf Jahren verlängert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_5"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Hinterlegungspriorität",
+        "citation": "Art. 6 DesG",
+        "content": "Das Designrecht steht demjenigen zu, der das Design zuerst hinterlegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_6"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Berechtigung zur Hinterlegung",
+        "citation": "Art. 7 Abs. 1 DesG",
+        "content": "Zur Hinterlegung berechtigt ist diejenige Person, die das Design entworfen hat, deren Rechtsnachfolgerin oder eine Drittperson, welcher das Recht aus einem andern Rechtsgrund gehört.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_7"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Bestand des Designrechts, Berechtigung zur Hinterlegung",
+        "citation": "Art. 7 Abs. 2 DesG",
+        "content": "Haben mehrere Personen ein Design gemeinsam entworfen, so sind sie ohne gegenteilige Vereinbarung gemeinschaftlich zur Hinterlegung berechtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_7"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Schutzbereich",
+        "citation": "Art. 8 DesG",
+        "content": "Der Schutz des Designrechts erstreckt sich auf Designs, welche die gleichen wesentlichen Merkmale aufweisen und dadurch den gleichen Gesamteindruck erwecken wie ein bereits eingetragenes Design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_8"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Wirkungen des Designrechts",
+        "citation": "Art. 9 Abs. 1 DesG",
+        "content": "Das Designrecht verleiht der Rechtsinhaberin das Recht, andern zu verbieten, das Design zu gewerblichen Zwecken zu gebrauchen. Als Gebrauch gelten insbesondere das Herstellen, das Lagern, das Anbieten, das Inverkehrbringen, die Ein-, Aus- und Durchfuhr sowie der Besitz zu diesen Zwecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Wirkungen des Designrechts",
+        "citation": "Art. 9 Abs. 1bis DesG",
+        "content": "Die Rechtsinhaberin kann die Ein-, Aus- und Durchfuhr von gewerblich hergestellten Waren auch dann verbieten, wenn sie zu privaten Zwecken erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Wirkungen des Designrechts",
+        "citation": "Art. 9 Abs. 2 DesG",
+        "content": "Die Rechtsinhaberin kann Dritten auch verbieten, bei einer widerrechtlichen Gebrauchshandlung mitzuwirken, deren Begehung zu begünstigen oder zu erleichtern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_9"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Auskunftspflicht der Rechtsinhaberin",
+        "citation": "Art. 10 DesG",
+        "content": "Wer auf Waren oder Geschäftspapieren auf Designschutz hinweist, ohne die Nummer des Designrechts zu nennen, ist verpflichtet, die Nummer auf Anfrage unentgeltlich bekannt zu geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_10"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Mehrere Rechtsinhaberinnen",
+        "citation": "Art. 11 DesG",
+        "content": "Mehreren Rechtsinhaberinnen stehen ohne gegenteilige Vereinbarung die Befugnisse nach Artikel 9 gesamtheitlich zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_11"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Weiterbenützungsrecht",
+        "citation": "Art. 12 Abs. 1 DesG",
+        "content": "Die Rechtsinhaberin kann Dritten nicht verbieten, ein von diesen im Inland während der folgenden Zeitabschnitte gutgläubig gebrauchtes Design im bisherigen Umfang weiter zu gebrauchen:\na. vor dem Hinterlegungs- oder Prioritätsdatum;\nb. während der Dauer des Aufschubs der Veröffentlichung (Art. 26).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_12"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Weiterbenützungsrecht",
+        "citation": "Art. 12 Abs. 2 DesG",
+        "content": "Das Weiterbenützungsrecht ist nur zusammen mit dem Unternehmen übertragbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_12"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Mitbenützungsrecht",
+        "citation": "Art. 13 Abs. 1 DesG",
+        "content": "Die Rechtsinhaberin kann das eingetragene Design Dritten nicht entgegenhalten, wenn die Dritten es im Inland zwischen dem letzten Tag der Frist für die Zahlung der Gebühr für eine weitere Schutzperiode und dem Tag, an dem ein Weiterbehandlungsantrag (Art. 31) eingereicht worden ist, gutgläubig gewerbsmässig gebraucht oder dazu besondere Anstalten getroffen haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Mitbenützungsrecht",
+        "citation": "Art. 13 Abs. 2 DesG",
+        "content": "Das Mitbenützungsrecht ist nur zusammen mit dem Unternehmen übertragbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Mitbenützungsrecht",
+        "citation": "Art. 13 Abs. 3 DesG",
+        "content": "Wer das Mitbenützungsrecht beansprucht, hat der Rechtsinhaberin ab Wiederaufleben des Designrechts eine angemessene Entschädigung zu bezahlen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_13"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Übertragung",
+        "citation": "Art. 14 Abs. 1 DesG",
+        "content": "Die Rechtsinhaberin kann das Designrecht ganz oder teilweise übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Übertragung",
+        "citation": "Art. 14 Abs. 2 DesG",
+        "content": "Die Übertragung bedarf zu ihrer Gültigkeit der schriftlichen Form, nicht aber der Eintragung im Register. Sie ist gegenüber gutgläubigen Dritten erst wirksam, wenn sie im Register eingetragen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Übertragung",
+        "citation": "Art. 14 Abs. 3 DesG",
+        "content": "Bis zur Eintragung der Übertragung im Register:\na. können gutgläubige Lizenznehmerinnen und Lizenznehmer mit befreiender Wirkung an die bisherige Rechtsinhaberin leisten;\nb. können Klagen nach diesem Gesetz gegen die bisherige Rechtsinhaberin gerichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_14"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Lizenz",
+        "citation": "Art. 15 Abs. 1 DesG",
+        "content": "Die Rechtsinhaberin kann das Designrecht oder einzelne Befugnisse daraus Dritten ausschliesslich oder nicht ausschliesslich zum Gebrauch überlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_15"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Lizenz",
+        "citation": "Art. 15 Abs. 2 DesG",
+        "content": "Die Lizenz wird auf Antrag einer der beteiligten Personen in das Register eingetragen. Sie erhält damit Geltung gegenüber einem später erworbenen Recht am Design.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_15"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Nutzniessung und Pfandrecht",
+        "citation": "Art. 16 Abs. 1 DesG",
+        "content": "Das Designrecht kann Gegenstand einer Nutzniessung oder eines Pfandrechts sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Nutzniessung und Pfandrecht",
+        "citation": "Art. 16 Abs. 2 DesG",
+        "content": "Eine Nutzniessung und ein Pfandrecht können gegenüber gutgläubigen Erwerberinnen und Erwerbern des Designrechts nur geltend gemacht werden, wenn sie im Register eingetragen sind. Die Eintragung erfolgt auf Antrag einer der beteiligten Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Nutzniessung und Pfandrecht",
+        "citation": "Art. 16 Abs. 3 DesG",
+        "content": "Bis zur Eintragung einer Nutzniessung im Register können gutgläubige Lizenznehmerinnen und Lizenznehmer mit befreiender Wirkung an die bisherige Rechtsinhaberin leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_16"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Schutzbereich und Wirkung, Zwangsvollstreckung",
+        "citation": "Art. 17 DesG",
+        "content": "Das Designrecht unterliegt der Zwangsvollstreckung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_17"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 4. Abschnitt: Vertretung",
+        "citation": "Art. 18 Abs. 1 DesG",
+        "content": "Wer an einem Verwaltungsverfahren nach diesem Gesetz beteiligt ist und in der Schweiz keinen Wohnsitz oder Sitz hat, muss ein Zustellungsdomizil in der Schweiz bezeichnen, es sei denn, das Völkerrecht oder die zuständige ausländische Stelle gestatte der Behörde, Schriftstücke im betreffenden Staat direkt zuzustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_18"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 1. Kapitel: Allgemeine Bestimmungen, 4. Abschnitt: Vertretung",
+        "citation": "Art. 18 Abs. 2 DesG",
+        "content": "Das Eidgenössische Institut für Geistiges Eigentum (IGE) ist befugt, gegenüber der zuständigen ausländischen Stelle zu erklären, dass im Bereich des geistigen Eigentums in der Schweiz die direkte Zustellung zulässig ist, sofern der Schweiz Gegenrecht gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_18"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Allgemeine Voraussetzungen",
+        "citation": "Art. 19 Abs. 1 DesG",
+        "content": "Ein Design gilt als hinterlegt, wenn beim IGE ein Eintragungsgesuch eingereicht wird. Das Gesuch enthält:\na. einen Antrag auf Eintragung;\nb. eine zur Reproduktion geeignete Abbildung des Designs; erfüllt sie diese Voraussetzung nicht, so setzt das IGE der hinterlegenden Person eine Frist zur Behebung dieses Mangels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Allgemeine Voraussetzungen",
+        "citation": "Art. 19 Abs. 2 DesG",
+        "content": "Innert der vom IGE gesetzten Frist ist zudem die vorgesehene Gebühr für die erste Schutzperiode zu bezahlen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Allgemeine Voraussetzungen",
+        "citation": "Art. 19 Abs. 3 DesG",
+        "content": "Wird ein flächenhaftes Design (Muster) hinterlegt und ist der Aufschub der Veröffentlichung nach Artikel 26 beantragt worden, so kann an Stelle der Abbildung ein Exemplar des Designs eingereicht werden. Soll der Designschutz nach Ablauf eines Aufschubs aufrechterhalten werden, so ist dem IGE vorab eine zur Reproduktion geeignete Abbildung des Designs nachzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Allgemeine Voraussetzungen",
+        "citation": "Art. 19 Abs. 4 DesG",
+        "content": "Das Design kann erläuternd zur Abbildung gegen Entrichtung einer Gebühr mit höchstens 100 Wörtern beschrieben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_19"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Sammelhinterlegung",
+        "citation": "Art. 20 Abs. 1 DesG",
+        "content": "Designs, die nach dem Abkommen von Locarno vom 8. Oktober 1968 über die Errichtung der internationalen Klassifikation für gewerbliche Muster und Modelle derselben Klasse angehören, können in einer Sammelhinterlegung hinterlegt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_20"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Sammelhinterlegung",
+        "citation": "Art. 20 Abs. 2 DesG",
+        "content": "Der Bundesrat kann die Sammelhinterlegung hinsichtlich Grösse und Gewicht beschränken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_20"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 1. Abschnitt: Hinterlegung, Wirkung der Hinterlegung",
+        "citation": "Art. 21 DesG",
+        "content": "Die Hinterlegung begründet die Vermutung der Neuheit und der Eigenart sowie der Berechtigung zur Hinterlegung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_21"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 2. Abschnitt: Priorität, Voraussetzungen und Wirkungen der Priorität",
+        "citation": "Art. 22 Abs. 1 DesG",
+        "content": "Ist ein Design erstmals in einem anderen Mitgliedstaat der Pariser Verbandsübereinkunft vom 20. März 1883 zum Schutz des gewerblichen Eigentums oder mit Wirkung für einen solchen Staat vorschriftsgemäss hinterlegt worden, so kann die hinterlegende Person oder deren Rechtsnachfolgerin für die Hinterlegung des gleichen Designs in der Schweiz das Datum der Ersthinterlegung beanspruchen, sofern die Hinterlegung in der Schweiz innerhalb von sechs Monaten nach der Ersthinterlegung erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_22"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 2. Abschnitt: Priorität, Voraussetzungen und Wirkungen der Priorität",
+        "citation": "Art. 22 Abs. 2 DesG",
+        "content": "Die Ersthinterlegung in einem Staat, welcher der Schweiz Gegenrecht hält, hat die gleiche Wirkung wie die Ersthinterlegung in einem Mitgliedstaat der Pariser Verbandsübereinkunft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_22"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 2. Abschnitt: Priorität, Formvorschriften",
+        "citation": "Art. 23 Abs. 1 DesG",
+        "content": "Wer ein Prioritätsrecht beanspruchen will, hat dem IGE eine Prioritätserklärung einzureichen. Das IGE kann die Einreichung eines Prioritätsbelegs verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 2. Abschnitt: Priorität, Formvorschriften",
+        "citation": "Art. 23 Abs. 2 DesG",
+        "content": "Der Anspruch verwirkt, wenn die vom Bundesrat festzulegenden Fristen und Formerfordernisse nicht eingehalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 2. Abschnitt: Priorität, Formvorschriften",
+        "citation": "Art. 23 Abs. 3 DesG",
+        "content": "Die Eintragung einer Priorität begründet lediglich eine Vermutung zu Gunsten der Rechtsinhaberin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_23"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Eintragung",
+        "citation": "Art. 24 Abs. 1 DesG",
+        "content": "Ein nach den gesetzlichen Vorschriften hinterlegtes Design wird in das Register eingetragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Eintragung",
+        "citation": "Art. 24 Abs. 2 DesG",
+        "content": "Das IGE tritt auf das Eintragungsgesuch nicht ein, wenn die formellen Erfordernisse nach Artikel 19 Absätze 1 und 2 nicht erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Eintragung",
+        "citation": "Art. 24 Abs. 3 DesG",
+        "content": "Es weist das Eintragungsgesuch ab, wenn offensichtlich ein Ausschlussgrund nach Artikel 4 Buchstaben a, d oder e vorliegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Eintragung",
+        "citation": "Art. 24 Abs. 4 DesG",
+        "content": "Im Register werden ferner alle Änderungen im Bestand des Designrechts oder in der Berechtigung am Design eingetragen. Der Bundesrat kann die Eintragung weiterer Angaben wie Verfügungsbeschränkungen von Gerichten oder Zwangsvollstreckungsbehörden vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_24"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Veröffentlichung",
+        "citation": "Art. 25 Abs. 1 DesG",
+        "content": "Das IGE veröffentlicht auf Grund der Eintragungen im Register die in der Verordnung vorgesehenen Angaben sowie eine Reproduktion des hinterlegten Designs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_25"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Veröffentlichung",
+        "citation": "Art. 25 Abs. 2 DesG",
+        "content": "Das IGE bestimmt das Publikationsorgan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_25"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Aufschub der Veröffentlichung",
+        "citation": "Art. 26 Abs. 1 DesG",
+        "content": "Die hinterlegende Person kann schriftlich beantragen, dass die Veröffentlichung um höchstens 30 Monate, vom Hinterlegungs- oder Prioritätsdatum an gerechnet, aufgeschoben wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Aufschub der Veröffentlichung",
+        "citation": "Art. 26 Abs. 2 DesG",
+        "content": "Während des Aufschubs kann die Rechtsinhaberin jederzeit die sofortige Veröffentlichung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Aufschub der Veröffentlichung",
+        "citation": "Art. 26 Abs. 3 DesG",
+        "content": "Das IGE hält das hinterlegte Design bis zum Ablauf des Aufschubs geheim. Die Geheimhaltung ist unbefristet, wenn die Hinterlegung vor Ablauf des Aufschubs zurückgenommen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Elektronischer Behördenverkehr",
+        "citation": "Art. 26a Abs. 1 DesG",
+        "content": "Der Bundesrat kann das IGE ermächtigen, die elektronische Kommunikation im Rahmen der allgemeinen Bestimmungen der Bundesrechtspflege zu regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Elektronischer Behördenverkehr",
+        "citation": "Art. 26a Abs. 2 DesG",
+        "content": "Das Aktenheft und die Akten können in elektronischer Form geführt und aufbewahrt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Elektronischer Behördenverkehr",
+        "citation": "Art. 26a Abs. 3 DesG",
+        "content": "Das Register kann in elektronischer Form geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Elektronischer Behördenverkehr",
+        "citation": "Art. 26a Abs. 4 DesG",
+        "content": "Das IGE kann seine Datenbestände insbesondere im elektronischen Abrufverfahren Dritten zugänglich machen; es kann dafür ein Entgelt verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Elektronischer Behördenverkehr",
+        "citation": "Art. 26a Abs. 5 DesG",
+        "content": "Die Veröffentlichungen des IGE können in elektronischer Form erfolgen; die elektronische Fassung ist jedoch nur massgebend, wenn die Daten ausschliesslich elektronisch veröffentlicht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_26_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Öffentlichkeit des Registers und Akteneinsicht",
+        "citation": "Art. 27 Abs. 1 DesG",
+        "content": "Jede Person kann in das Register Einsicht nehmen, über dessen Inhalt Auskünfte einholen und Auszüge verlangen; Artikel 26 bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Öffentlichkeit des Registers und Akteneinsicht",
+        "citation": "Art. 27 Abs. 2 DesG",
+        "content": "Sie hat zudem das Recht, in das Aktenheft eingetragener Designs Einsicht zu nehmen. Der Bundesrat darf das Einsichtsrecht nur einschränken, wenn Fabrikations- oder Geschäftsgeheimnisse oder andere überwiegende Interessen entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Öffentlichkeit des Registers und Akteneinsicht",
+        "citation": "Art. 27 Abs. 3 DesG",
+        "content": "Ausnahmsweise besteht das Einsichtsrecht in das Aktenheft schon vor der Eintragung, soweit dadurch die Voraussetzungen und der Umfang des Schutzes (Art. 2–17) nicht verändert werden. Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_27"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Löschung der Eintragung",
+        "citation": "Art. 28 DesG",
+        "content": "Das IGE löscht eine Eintragung ganz oder teilweise, wenn:\na. die Rechtsinhaberin die Löschung beantragt;\nb. die Eintragung nicht verlängert wird;\nc. die vorgesehenen Gebühren nicht bezahlt sind;\nd. die Eintragung durch ein rechtskräftiges richterliches Urteil für nichtig erklärt wird; oder\ne. die Schutzfrist nach Artikel 5 abgelaufen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_28"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 3. Abschnitt: Eintragung und Schutzverlängerung; elektronischer Behördenverkehr, Internationale Hinterlegung",
+        "citation": "Art. 29 DesG",
+        "content": "Wer ein gewerbliches Muster oder Modell (Design) international mit Benennung Schweiz hinterlegt, erlangt dadurch den Schutz dieses Gesetzes wie bei einer Hinterlegung in der Schweiz. Soweit die Bestimmungen des Haager Abkommens vom 6. November 1925 über die internationale Hinterlegung gewerblicher Muster und Modelle für die Inhaberin oder den Inhaber der internationalen Hinterlegung günstiger sind als dieses Gesetz, gehen sie diesem vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_29"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 2. Kapitel: Hinterlegung und Eintragung, 4. Abschnitt: Gebühren",
+        "citation": "Art. 30 DesG",
+        "content": "Die Höhe der nach diesem Gesetz und seiner Verordnung zu zahlenden Gebühren sowie die Zahlungsmodalitäten richten sich nach der Gebührenordnung des Eidgenössischen Instituts für Geistiges Eigentum vom 28. April 1997 (IGE-GebO).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_30"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 1. Abschnitt: Weiterbehandlung bei Fristversäumnis",
+        "citation": "Art. 31 Abs. 1 DesG",
+        "content": "Versäumt die hinterlegende Person oder die Rechtsinhaberin eine Frist, die gegenüber dem IGE einzuhalten ist, so kann sie bei diesem die Weiterbehandlung beantragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 1. Abschnitt: Weiterbehandlung bei Fristversäumnis",
+        "citation": "Art. 31 Abs. 2 DesG",
+        "content": "Der Antrag muss innerhalb von zwei Monaten ab Kenntnisnahme des Fristversäumnisses eingereicht werden, spätestens jedoch innerhalb von sechs Monaten nach Ablauf der versäumten Frist. Innerhalb dieser Fristen muss zudem die unterbliebene Handlung vollständig nachgeholt und die Weiterbehandlungsgebühr bezahlt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 1. Abschnitt: Weiterbehandlung bei Fristversäumnis",
+        "citation": "Art. 31 Abs. 3 DesG",
+        "content": "Die Gutheissung des Weiterbehandlungsantrags durch das IGE stellt den Zustand her, der bei rechtzeitiger Handlung eingetreten wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 1. Abschnitt: Weiterbehandlung bei Fristversäumnis",
+        "citation": "Art. 31 Abs. 4 DesG",
+        "content": "Die Weiterbehandlung ist ausgeschlossen beim Versäumen der Fristen:\na. für die Einreichung des Weiterbehandlungsantrags;\nb. für die Inanspruchnahme einer Priorität.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_31"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Feststellungsklage",
+        "citation": "Art. 33 DesG",
+        "content": "Wer ein rechtliches Interesse nachweist, kann gerichtlich feststellen lassen, dass ein Recht oder Rechtsverhältnis nach diesem Gesetz besteht oder nicht besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_33"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Abtretungsklage",
+        "citation": "Art. 34 Abs. 1 DesG",
+        "content": "Wer ein besseres Recht geltend macht, kann gegen die Rechtsinhaberin auf Abtretung des Designrechts klagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Abtretungsklage",
+        "citation": "Art. 34 Abs. 2 DesG",
+        "content": "Ist die Rechtsinhaberin gutgläubig, so ist ihr gegenüber die Klage innerhalb von zwei Jahren seit der Veröffentlichung des Designs anzuheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Abtretungsklage",
+        "citation": "Art. 34 Abs. 3 DesG",
+        "content": "Wird die Abtretung verfügt, so fallen die inzwischen Dritten eingeräumten Lizenzen oder andern Rechte dahin; diese Dritten haben jedoch, wenn sie in gutem Glauben das Design im Inland gewerbsmässig benützt oder besondere Anstalten dazu getroffen haben, Anspruch auf Erteilung einer nicht ausschliesslichen Lizenz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Abtretungsklage",
+        "citation": "Art. 34 Abs. 4 DesG",
+        "content": "Vorbehalten bleiben alle Schadenersatzansprüche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_34"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Leistungsklage",
+        "citation": "Art. 35 Abs. 1 DesG",
+        "content": "Die Rechtsinhaberin, die in ihren Rechten verletzt oder gefährdet wird, kann vom Gericht verlangen:\na. eine drohende Verletzung zu verbieten;\nb. eine bestehende Verletzung zu beseitigen;\nc. die beklagte Partei zu verpflichten, Herkunft und Umfang der in ihrem Besitz befindlichen, widerrechtlich hergestellten Gegenstände anzugeben und Adressaten sowie Umfang einer Weitergabe an gewerbliche Abnehmerinnen und Abnehmer zu nennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Leistungsklage",
+        "citation": "Art. 35 Abs. 2 DesG",
+        "content": "Vorbehalten bleiben die Klagen nach dem Obligationenrecht auf Schadenersatz, auf Genugtuung sowie auf Herausgabe eines Gewinns entsprechend den Bestimmungen über die Geschäftsführung ohne Auftrag.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Leistungsklage",
+        "citation": "Art. 35 Abs. 3 DesG",
+        "content": "Die Leistungsklage kann erst nach der Eintragung des Designs im Register angehoben werden. Ein Schaden kann rückwirkend auf den Zeitpunkt geltend gemacht werden, in dem die beklagte Partei vom Inhalt des Eintragungsgesuchs Kenntnis erhalten hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Leistungsklage",
+        "citation": "Art. 35 Abs. 4 DesG",
+        "content": "Wer über eine ausschliessliche Lizenz verfügt, ist unabhängig von der Eintragung der Lizenz im Register selbstständig zur Klage berechtigt, sofern dies im Lizenzvertrag nicht ausdrücklich ausgeschlossen worden ist. Alle Lizenznehmerinnen und Lizenznehmer können einer Verletzungsklage beitreten, um ihren eigenen Schaden geltend zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_35"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Einziehung im Zivilverfahren",
+        "citation": "Art. 36 DesG",
+        "content": "Das Gericht kann die Einziehung und Verwertung oder Vernichtung der widerrechtlich hergestellten Gegenstände oder der vorwiegend zu ihrer Herstellung dienenden Einrichtungen, Geräte und sonstigen Mittel anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_36"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Vorsorgliche Massnahmen",
+        "citation": "Art. 38 DesG",
+        "content": "Ersucht eine Person um die Anordnung vorsorglicher Massnahmen, so kann sie insbesondere verlangen, dass das Gericht Massnahmen anordnet: \na. zur Beweissicherung;\nb. zur Ermittlung der Herkunft widerrechtlich hergestellter Gegenstände;\nc. zur Wahrung des bestehenden Zustandes; oder \nd. zur vorläufigen Vollstreckung von Unterlassungs- und Beseitigungsansprüchen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_38"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Veröffentlichung des Urteils",
+        "citation": "Art. 39 DesG",
+        "content": "Das Gericht kann auf Antrag der obsiegenden Partei anordnen, dass das Urteil auf Kosten der anderen Partei veröffentlicht wird. Es bestimmt Art und Umfang der Veröffentlichung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_39"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 3. Abschnitt: Zivilrechtlicher Schutz, Mitteilung von Urteilen",
+        "citation": "Art. 40 DesG",
+        "content": "Die Gerichte stellen rechtskräftige Urteile dem IGE in vollständiger Ausfertigung unentgeltlich zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_40"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Designrechtsverletzung",
+        "citation": "Art. 41 Abs. 1 DesG",
+        "content": "Eine Person wird auf Antrag der Rechtsinhaberin mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft, wenn sie deren Designrecht vorsätzlich verletzt, indem sie:\na. das Design widerrechtlich gebraucht;\nb. bei einer Gebrauchshandlung mitwirkt, deren Begehung begünstigt oder erleichtert;\nc. sich weigert, der zuständigen Behörde die Herkunft und den Umfang der in ihrem Besitz befindlichen, widerrechtlich hergestellten Gegenstände anzugeben und Adressat sowie Umfang einer Weitergabe an gewerbliche Abnehmerinnen und Abnehmer zu nennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_41"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Designrechtsverletzung",
+        "citation": "Art. 41 Abs. 2 DesG",
+        "content": "Gewerbsmässige Handlungen werden von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_41"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Nicht strafbare Handlungen",
+        "citation": "Art. 41a Abs. bis DesG",
+        "content": "Handlungen nach Artikel 9 Absatz 1 sind nicht strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_41_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Widerhandlung in Geschäftsbetrieben",
+        "citation": "Art. 42 DesG",
+        "content": "Bei Widerhandlungen in Geschäftsbetrieben durch Untergebene, Beauftragte oder Vertreter gelten die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_42"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Aussetzung des Verfahrens",
+        "citation": "Art. 43 Abs. 1 DesG",
+        "content": "Macht die angeschuldigte Person die Nichtigkeit oder die Nichtverletzung des Designrechts in einem Zivilverfahren geltend, so kann das Gericht das Strafverfahren aussetzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Aussetzung des Verfahrens",
+        "citation": "Art. 43 Abs. 2 DesG",
+        "content": "Wird im Strafverfahren die Nichtigkeit oder die Nichtverletzung des Designrechts behauptet, so kann das Gericht zu ihrer Geltendmachung in einem Zivilverfahren eine angemessene Frist setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Aussetzung des Verfahrens",
+        "citation": "Art. 43 Abs. 3 DesG",
+        "content": "Während der Aussetzung ruht die Verjährung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_43"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Einziehung im Strafverfahren",
+        "citation": "Art. 44 DesG",
+        "content": "Das Gericht kann selbst im Falle eines Freispruchs die Einziehung oder Vernichtung der widerrechtlich hergestellten Gegenstände sowie der vorwiegend zu ihrer Herstellung dienenden Einrichtungen, Geräte und sonstigen Mittel anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_44"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 4. Abschnitt: Strafrechtlicher Schutz, Strafverfolgung",
+        "citation": "Art. 45 DesG",
+        "content": "Die Strafverfolgung ist Sache der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_45"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Anzeige verdächtiger Waren",
+        "citation": "Art. 46 Abs. 1 DesG",
+        "content": "Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Rechtsinhaberin eines hinterlegten Designs zu benachrichtigen, wenn der Verdacht besteht, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_46"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Anzeige verdächtiger Waren",
+        "citation": "Art. 46 Abs. 2 DesG",
+        "content": "In diesem Falle ist das BAZG ermächtigt, die Gegenstände während drei Arbeitstagen zurückzuhalten, damit die Rechtsinhaberin einen Antrag nach Artikel 47 stellen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_46"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 47 Abs. 1 DesG",
+        "content": "Hat die Rechtsinhaberin oder die klageberechtigte Lizenznehmerin beziehungsweise der klageberechtigte Lizenznehmer eines hinterlegten Designs konkrete Anhaltspunkte dafür, dass das Verbringen von widerrechtlich hergestellten Gegenständen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bevorsteht, so kann sie oder er beim BAZG schriftlich beantragen, die Freigabe der Gegenstände zu verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 47 Abs. 2 DesG",
+        "content": "Die den Antrag stellende Person (Antragstellerin) muss alle ihr zur Verfügung stehenden Angaben machen, die für den Entscheid des BAZG erforderlich sind; dazu gehört eine genaue Beschreibung der Gegenstände.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 47 Abs. 3 DesG",
+        "content": "Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_47"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehaltung der Gegenstände",
+        "citation": "Art. 48 Abs. 1 DesG",
+        "content": "Hat das BAZG aufgrund eines Antrags nach Artikel 47 Absatz 1 den begründeten Verdacht, dass zum Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet bestimmte Gegenstände widerrechtlich hergestellt worden sind, so teilt es dies einerseits der Antragstellerin beziehungsweise dem Antragsteller und andererseits der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer der Gegenstände mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehaltung der Gegenstände",
+        "citation": "Art. 48 Abs. 2 DesG",
+        "content": "Das BAZG behält die betreffenden Gegenstände bis zu zehn Arbeitstage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit die Antragstellerin vorsorgliche Massnahmen erwirken kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehaltung der Gegenstände",
+        "citation": "Art. 48 Abs. 3 DesG",
+        "content": "In begründeten Fällen kann das BAZG die betreffenden Gegenstände während höchstens zehn weiteren Arbeitstagen zurückbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 48a Abs. 1 DesG",
+        "content": "Während des Zurückbehaltens der Gegenstände ist das BAZG ermächtigt, der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihr die Besichtigung der Gegenstände zu gestatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 48a Abs. 2 DesG",
+        "content": "Die Proben oder Muster werden auf Kosten der Antragstellerin entnommen und versandt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 48a Abs. 3 DesG",
+        "content": "Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster bei der Antragstellerin, so unterliegen sie den Bestimmungen der Zollgesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_a"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 48b Abs. 1 DesG",
+        "content": "Gleichzeitig mit der Benachrichtigung nach Artikel 48 Absatz 1 informiert das BAZG die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise den Anmelder, Besitzer oder Eigentümer über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 48a Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 48b Abs. 2 DesG",
+        "content": "Die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer kann verlangen, zur Wahrung ihrer beziehungsweise seiner Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 48b Abs. 3 DesG",
+        "content": "Das BAZG kann auf begründeten Antrag der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers die Übergabe von Proben oder Mustern verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_b"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Gegenstände",
+        "citation": "Art. 48c Abs. 1 DesG",
+        "content": "Zusammen mit dem Antrag nach Artikel 47 Absatz 1 kann die Antragstellerin beim BAZG schriftlich beantragen, die Gegenstände zu vernichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Gegenstände",
+        "citation": "Art. 48c Abs. 2 DesG",
+        "content": "Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise dem Anmelder, Besitzer oder Eigentümer im Rahmen der Mitteilung nach Artikel 48 Absatz 1 mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Gegenstände",
+        "citation": "Art. 48c Abs. 3 DesG",
+        "content": "Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 48 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_c"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zustimmung",
+        "citation": "Art. 48d Abs. 1 DesG",
+        "content": "Für die Vernichtung der Gegenstände ist die Zustimmung der Anmelderin, Besitzerin oder Eigentümerin beziehungsweise des Anmelders, Besitzers oder Eigentümers erforderlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_d"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zustimmung",
+        "citation": "Art. 48d Abs. 2 DesG",
+        "content": "Die Zustimmung gilt als erteilt, wenn die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer die Vernichtung nicht innerhalb der Fristen nach Artikel 48 Absätze 2 und 3 ausdrücklich ablehnt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_d"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Beweismittel",
+        "citation": "Art. 48e DesG",
+        "content": "Vor der Vernichtung der Gegenstände entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_e"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Schadenersatz",
+        "citation": "Art. 48f Abs. 1 DesG",
+        "content": "Erweist sich die Vernichtung der Gegenstände als unbegründet, so haftet ausschliesslich die Antragstellerin für den entstandenen Schaden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_f"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Schadenersatz",
+        "citation": "Art. 48f Abs. 2 DesG",
+        "content": "Hat die Anmelderin, Besitzerin oder Eigentümerin beziehungsweise der Anmelder, Besitzer oder Eigentümer der Vernichtung schriftlich zugestimmt, so entstehen gegenüber der Antragstellerin auch dann keine Ansprüche auf Schadenersatz, wenn sich die Vernichtung später als unbegründet erweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_f"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Kosten",
+        "citation": "Art. 48g Abs. 1 DesG",
+        "content": "Die Vernichtung der Gegenstände erfolgt auf Kosten der Antragstellerin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_g"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Kosten",
+        "citation": "Art. 48g Abs. 2 DesG",
+        "content": "Über die Kosten für die Entnahme und Aufbewahrung von Proben oder Mustern nach Artikel 48e entscheidet das Gericht im Zusammenhang mit der Beurteilung der Schadenersatzansprüche nach Artikel 48f Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_48_g"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Haftungserklärung und Schadenersatz",
+        "citation": "Art. 49 Abs. 1 DesG",
+        "content": "Ist durch das Zurückbehalten der Gegenstände ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass die Antragstellerin ihm eine Haftungserklärung abgibt. An deren Stelle kann das BAZG von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_49"
+    },
+    {
+        "book": "DesG",
+        "title": "DesG, 3. Kapitel: Rechtsschutz, 5. Abschnitt: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Haftungserklärung und Schadenersatz",
+        "citation": "Art. 49 Abs. 2 DesG",
+        "content": "Die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Gegenstände und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/226/de#art_49"
+    }
+]

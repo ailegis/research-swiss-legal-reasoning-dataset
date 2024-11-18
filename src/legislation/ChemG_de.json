@@ -1,0 +1,814 @@
+[
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Zweck",
+        "citation": "Art. 1 ChemG",
+        "content": "Dieses Gesetz soll das Leben und die Gesundheit des Menschen vor schädlichen Einwirkungen durch Stoffe und Zubereitungen schützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_1"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 1 ChemG",
+        "content": "Dieses Gesetz ist anwendbar auf den Umgang mit Stoffen und Zubereitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 2 ChemG",
+        "content": "Dem Umgang mit Stoffen und Zubereitungen gleichgestellt ist der Umgang mit Mikroorganismen, soweit sie in Biozidprodukten oder Pflanzenschutzmitteln Verwendung finden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 3 ChemG",
+        "content": "Die Bundesversammlung kann durch Verordnung den Geltungsbereich dieses Gesetzes oder einzelner Bestimmungen ausdehnen auf:\na. Organismen, die gefährliche Eigenschaften im Sinne dieses Gesetzes aufweisen oder aufweisen können;\nb. den Schutz des Lebens und der Gesundheit von Nutz- und Haustieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 4 ChemG",
+        "content": "Der Bundesrat sieht Ausnahmen vom Geltungsbereich oder von einzelnen Bestimmungen dieses Gesetzes vor, wenn:\na. andere Erlasse des Bundes das Leben und die Gesundheit vor schädlichen Einwirkungen durch Stoffe und Zubereitungen hinreichend schützen;\nb. Stoffe und Zubereitungen ausschliesslich für die Durchfuhr oder Ausfuhr bestimmt sind;\nc. die Gesamtverteidigung sowie die Aufgaben von Polizei- und Zollbehörden dies erfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Gefährliche Stoffe und Zubereitungen",
+        "citation": "Art. 3 Abs. 1 ChemG",
+        "content": "Als gefährlich gelten Stoffe und Zubereitungen, die das Leben oder die Gesundheit durch physikalisch-chemische oder toxische Wirkung gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_3"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Gefährliche Stoffe und Zubereitungen",
+        "citation": "Art. 3 Abs. 2 ChemG",
+        "content": "Der Bundesrat bestimmt die als gefährlich geltenden Eigenschaften und legt die Gefährlichkeitsmerkmale fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_3"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 4 Abs. 1 ChemG",
+        "content": "In diesem Gesetz gelten als:\na. Stoffe: natürliche oder durch ein Produktionsverfahren hergestellte chemische Elemente und deren Verbindungen. Es werden alte Stoffe und neue Stoffe unterschieden:\n1. als alte Stoffe gelten diejenigen, die vom Bundesrat als solche bezeichnet werden,\n2. als neue gelten alle übrigen Stoffe;\nb. Wirkstoffe: Stoffe und Mikroorganismen einschliesslich Viren mit einer für die Verwendung als Biozidprodukt oder Pflanzenschutzmittel beabsichtigten Wirkung;\nc. Zubereitungen: Gemenge, Gemische und Lösungen, die aus zwei oder mehreren Stoffen bestehen;\nd. Biozidprodukte: Wirkstoffe und Zubereitungen, die nicht Pflanzenschutzmittel sind und die dazu bestimmt sind:\n1. Schadorganismen abzuschrecken, unschädlich zu machen, zu zerstören oder in anderer Weise zu bekämpfen, oder\n2. Schädigungen durch Schadorganismen zu verhindern;\ne. Pflanzenschutzmittel: Wirkstoffe und Zubereitungen, die dazu bestimmt sind:\n1. Pflanzen und Pflanzenerzeugnisse vor Schadorganismen zu schützen oder deren Einwirkung vorzubeugen,\n2. in einer anderen Weise als ein Nährstoff die Lebensvorgänge von Pflanzen zu beeinflussen,\n3. Pflanzenerzeugnisse zu konservieren,\n4. unerwünschte Pflanzen oder Pflanzenteile zu vernichten, oder\n5. auf ein unerwünschtes Pflanzenwachstum Einfluss zu nehmen;\nf. Herstellerin: jede natürliche oder juristische Person, die Stoffe oder Zubereitungen beruflich oder gewerblich herstellt, gewinnt oder zu beruflichen oder gewerblichen Zwecken einführt;\ng. Anmelderin: jede natürliche oder juristische Person, die bei der Anmeldestelle Anmeldungen für neue Stoffe, Unterlagen zu überprüften alten Stoffen oder Zulassungsanträge für Wirkstoffe oder Zubereitungen einreicht;\nh. Anmeldestelle: die Bundesstelle, welche insbesondere die Anmeldungen für neue Stoffe, die Unterlagen zu überprüften alten Stoffen oder die Zulassungsanträge für Wirkstoffe und Zubereitungen sowie weitere Meldungen entgegennimmt, die Verfahren koordiniert und die erforderlichen Verfügungen erlässt;\ni. Inverkehrbringen: die Bereitstellung für Dritte und die Abgabe an Dritte sowie die Einfuhr zu beruflichen oder gewerblichen Zwecken;\nj. Umgang: jede Tätigkeit im Zusammenhang mit Stoffen oder Zubereitungen, insbesondere das Herstellen, Einführen, Ausführen, Inverkehrbringen, Lagern, Aufbewahren, Transportieren, Verwenden oder Entsorgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_4"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 1. Abschnitt: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 4 Abs. 2 ChemG",
+        "content": "Der Bundesrat kann die Begriffe nach Absatz 1 sowie weitere in diesem Gesetz verwendete Begriffe näher ausführen, voneinander abgrenzen und gestützt auf neue Erkenntnisse in Wissenschaft und Technik sowie in Anlehnung an die internationale Entwicklung Anpassungen und Ausnahmen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_4"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Selbstkontrolle",
+        "citation": "Art. 5 Abs. 1 ChemG",
+        "content": "Wer als Herstellerin Stoffe oder Zubereitungen in Verkehr bringt, muss dafür sorgen, dass diese das Leben und die Gesundheit nicht gefährden. Insbesondere muss die Herstellerin Stoffe und Zubereitungen:\na. auf Grund ihrer Eigenschaften beurteilen und einstufen;\nb. entsprechend ihrer Gefährlichkeit verpacken und kennzeichnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_5"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Selbstkontrolle",
+        "citation": "Art. 5 Abs. 2 ChemG",
+        "content": "Der Bundesrat erlässt Vorschriften über Art, Umfang und Überprüfung der Selbstkontrolle. Insbesondere legt er fest:\na. die Prüfmethoden, die Grundsätze der Guten Laborpraxis (GLP) sowie die Kriterien für die Beurteilung und Einstufung;\nb. Vorschriften über die Verpackung und Kennzeichnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_5"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Inverkehrbringen",
+        "citation": "Art. 6 ChemG",
+        "content": "Die Herstellerin darf Stoffe und Zubereitungen nach Vornahme der Selbstkontrolle ohne vorgängige Zustimmung durch die Behörden in Verkehr bringen. Es gelten folgende Ausnahmen:\na. Das Inverkehrbringen von neuen Stoffen als solchen oder als Bestandteil einer Zubereitung bedarf einer Anmeldung (Art. 9).\nb. Das Inverkehrbringen von Biozidprodukten und von Pflanzenschutzmitteln bedarf einer Zulassung (Art. 10 und 11).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_6"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Informationspflicht gegenüber Abnehmerinnen und Abnehmern",
+        "citation": "Art. 7 Abs. 1 ChemG",
+        "content": "Wer Stoffe oder Zubereitungen in Verkehr bringt, muss Abnehmerinnen und Abnehmer über die gesundheitsrelevanten Eigenschaften und Gefahren sowie über die erforderlichen Vorsichts- und Schutzmassnahmen informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_7"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Informationspflicht gegenüber Abnehmerinnen und Abnehmern",
+        "citation": "Art. 7 Abs. 2 ChemG",
+        "content": "Der Bundesrat erlässt Vorschriften über Art, Inhalt und Umfang dieser Information, insbesondere über Abgabe und Inhalt eines Sicherheitsdatenblattes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_7"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 1. Kapitel: Allgemeine Bestimmungen und Grundsätze, 2. Abschnitt: Grundsätze für den Umgang mit Stoffen und Zubereitungen, Sorgfaltspflicht",
+        "citation": "Art. 8 ChemG",
+        "content": "Wer mit Stoffen oder Zubereitungen umgeht, muss deren gefährliche Eigenschaften beachten und die zum Schutz von Leben und Gesundheit erforderlichen Massnahmen treffen. Insbesondere sind diesbezügliche Informationen der Herstellerin zu beachten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_8"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Anmeldung neuer Stoffe",
+        "citation": "Art. 9 Abs. 1 ChemG",
+        "content": "Die Anmeldestelle überprüft und beurteilt die eingereichten Unterlagen zusammen mit den für die fachspezifischen Belange zuständigen Bundesstellen (Beurteilungsstellen) und teilt der Anmelderin das Ergebnis innerhalb einer vom Bundesrat festgelegten Frist mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Anmeldung neuer Stoffe",
+        "citation": "Art. 9 Abs. 2 ChemG",
+        "content": "Ein angemeldeter Stoff darf in Verkehr gebracht werden, wenn die Anmeldestelle die Anmeldung akzeptiert hat oder wenn sie innerhalb dieser Frist keine weiteren Unterlagen oder Auskünfte zur Anmeldung verlangt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Anmeldung neuer Stoffe",
+        "citation": "Art. 9 Abs. 3 ChemG",
+        "content": "Der Bundesrat erlässt Vorschriften über die Anforderungen und das Verfahren zur Anmeldung neuer Stoffe. Er legt die Ausnahmen von der Anmeldepflicht fest. Dabei berücksichtigt er insbesondere den Verwendungszweck, die Art des Stoffes oder der Zubereitung sowie die Mengen, die hergestellt oder in Verkehr gebracht werden sollen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Biozidprodukte",
+        "citation": "Art. 10 Abs. 1 ChemG",
+        "content": "Die Anmeldestelle überprüft und beurteilt die eingereichten Unterlagen zusammen mit den Beurteilungsstellen und entscheidet unter Berücksichtigung der Risikobewertung (Art. 16) innerhalb einer vom Bundesrat festgelegten Frist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Biozidprodukte",
+        "citation": "Art. 10 Abs. 2 ChemG",
+        "content": "Ein Biozidprodukt wird zugelassen, wenn es bei der vorgesehenen Verwendung insbesondere:\na. hinreichend wirksam ist;\nb. keine unannehmbaren Nebenwirkungen auf die Gesundheit des Menschen oder von Nutz- und Haustieren hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Biozidprodukte",
+        "citation": "Art. 10 Abs. 3 ChemG",
+        "content": "Die Zulassung kann verweigert oder widerrufen werden, wenn die Risiken für die Gesundheit Anlass zur Besorgnis geben und wenn für dieselbe Art von Biozidprodukten ein anderer Wirkstoff zugelassen ist, von dem ein erheblich geringeres Risiko für die Gesundheit ausgeht und der für den Benutzer oder die Benutzerin keine wesentlichen wirtschaftlichen und praktischen Nachteile mit sich bringt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Biozidprodukte",
+        "citation": "Art. 10 Abs. 4 ChemG",
+        "content": "Der Bundesrat legt die Zulassungsarten und -verfahren sowie die Ausnahmen von der Zulassungspflicht für Biozidprodukte fest. Die Zulassungen sind befristet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Mitteilungspflicht für Biozidprodukte",
+        "citation": "Art. 10a Abs. 1 ChemG",
+        "content": "Wer Biozidprodukte in Verkehr bringt, ist verpflichtet, dem Bund Daten über das Inverkehrbringen mitzuteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Mitteilungspflicht für Biozidprodukte",
+        "citation": "Art. 10a Abs. 2 ChemG",
+        "content": "Der Bundesrat regelt insbesondere, welche Daten zu erfassen und welcher Stelle diese zu melden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_10_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Pflanzenschutzmittel",
+        "citation": "Art. 11 Abs. 1 ChemG",
+        "content": "Ein Pflanzenschutzmittel wird zugelassen, wenn es bei der vorgesehenen Verwendung insbesondere keine unannehmbaren Nebenwirkungen auf die Gesundheit des Menschen oder von Nutz- und Haustieren hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_11"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zulassung für Pflanzenschutzmittel",
+        "citation": "Art. 11 Abs. 2 ChemG",
+        "content": "Im Übrigen bestimmt die Landwirtschaftsgesetzgebung die Zulassungsarten und ‐verfahren sowie die Ausnahmen von der Zulassungspflicht für Pflanzenschutzmittel. Der Bundesrat berücksichtigt beim Erlass der entsprechenden Ausführungsbestimmungen den Gesundheitsschutz im Sinne dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_11"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Voranfragepflicht",
+        "citation": "Art. 12 ChemG",
+        "content": "Bevor die Anmelderin die für eine Anmeldung oder Zulassung erforderlichen Tierversuche durchführt, muss sie die Anmeldestelle anfragen, ob für den betreffenden Stoff oder die betreffende Zubereitung bereits eine Anmeldung oder Zulassung vorliegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_12"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zweitanmeldung und Zweitzulassung",
+        "citation": "Art. 13 Abs. 1 ChemG",
+        "content": "Für anmelde- und für zulassungspflichtige Stoffe und Zubereitungen ist auch dann eine Anmeldung beziehungsweise Zulassung nach den Artikeln 9–11 nötig, wenn sie bereits von einer anderen Anmelderin angemeldet beziehungsweise für eine andere Anmelderin zugelassen worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_13"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Zweitanmeldung und Zweitzulassung",
+        "citation": "Art. 13 Abs. 2 ChemG",
+        "content": "Der Bundesrat legt für die Zweitanmeldung und Zweitzulassung ein besonderes Verfahren fest und bestimmt unter Berücksichtigung der Interessen der Erstanmelderin insbesondere, unter welchen Bedingungen:\na. die Zweitanmelderin auf bereits eingereichte Anmeldeunterlagen verweisen darf;\nb. die Erstanmelderin im Interesse des Tierschutzes die Nutzung ihrer Anmeldeunterlagen zu dulden hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_13"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Verwendung von Unterlagen",
+        "citation": "Art. 14 ChemG",
+        "content": "Unter Vorbehalt von Artikel 13 Absatz 2 dürfen die am Anmelde- oder Zulassungsverfahren beteiligten Bundesstellen Angaben und Unterlagen einer Anmelderin nicht ohne deren Zustimmung im Interesse einer andern Anmelderin verwenden. Der Bundesrat bestimmt die Schutzdauer und legt die Ausnahmen unter Berücksichtigung der Vertraulichkeit der Informationen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_14"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Überprüfung alter Stoffe",
+        "citation": "Art. 15 Abs. 1 ChemG",
+        "content": "Der Bundesrat erlässt Vorschriften für die Überprüfung und Beurteilung einzelner alter Stoffe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_15"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Überprüfung alter Stoffe",
+        "citation": "Art. 15 Abs. 2 ChemG",
+        "content": "Die Anmeldestelle kann von den Herstellerinnen Abklärungen, Untersuchungen sowie Unterlagen für alte Stoffe verlangen, die:\na. auf Grund der hergestellten oder in Verkehr gebrachten Mengen oder auf Grund ihrer Gefährlichkeit ein besonderes Risiko für das Leben oder die Gesundheit darstellen können; oder \nb. im Rahmen internationaler Bestrebungen und Programme überprüft werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_15"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Risikobewertung",
+        "citation": "Art. 16 Abs. 1 ChemG",
+        "content": "Die Anmeldestelle ermittelt zusammen mit den Beurteilungsstellen die durch Stoffe oder Zubereitungen möglichen Gefährdungen (Risikobewertung). Zu diesem Zweck können von der Anmelderin zusätzliche Informationen und nötigenfalls die Durchführung weiterer Untersuchungen verlangt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Risikobewertung",
+        "citation": "Art. 16 Abs. 2 ChemG",
+        "content": "Der Risikobewertung unterliegen:\na. neue Stoffe (Art. 9);\nb. Stoffe und Zubereitungen, für die eine Zulassung erforderlich ist (Art. 10 und 11);\nc. alte Stoffe, die nach Artikel 15 Absatz 2 Buchstabe b überprüft werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Risikobewertung",
+        "citation": "Art. 16 Abs. 3 ChemG",
+        "content": "Gestützt auf die Risikobewertung kann die Anmeldestelle empfehlen oder anordnen, dass die Anmelderin Massnahmen zur Verminderung der Risiken trifft; sie hört die Anmelderin zuvor an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Risikobewertung",
+        "citation": "Art. 16 Abs. 4 ChemG",
+        "content": "Sind keine risikomindernden Massnahmen möglich oder lassen sich die Risiken mit solchen Massnahmen nicht hinreichend vermindern, so leiten die zuständigen Stellen die Anpassung der massgebenden Rechtsvorschriften ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Risikobewertung",
+        "citation": "Art. 16 Abs. 5 ChemG",
+        "content": "Die Risikobewertung wird bei Vorliegen neuer Erkenntnisse überprüft und gegebenenfalls überarbeitet. Bei Biozidprodukten und Pflanzenschutzmitteln erfolgt die Überprüfung zudem periodisch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 2. Kapitel:, Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen, Folgeinformationen",
+        "citation": "Art. 17 ChemG",
+        "content": "Die Anmelderin muss die Anmeldestelle unverzüglich benachrichtigen und ihr gegebenenfalls neue Unterlagen einreichen, wenn neue Erkenntnisse über den Stoff oder die Zubereitung bekannt geworden sind oder sich massgebende Sachverhalte wie Eigenschaften, Verwendungszweck oder hergestellte oder in Verkehr gebrachte Mengen erheblich verändert haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_17"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Meldungen über Stoffe und Zubereitungen",
+        "citation": "Art. 18 Abs. 1 ChemG",
+        "content": "Die Herstellerin muss der Anmeldestelle zu in Verkehr gebrachten gefährlichen Stoffen und Zubereitungen, welche keinem Anmelde- oder Zulassungsverfahren unterliegen, melden:\na. Name und Adresse der Herstellerin;\nb. die wesentlichen Angaben zur Identität des Produktes;\nc. die Einstufung und Kennzeichnung;\nd. die einstufungsrelevanten Stoffe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Meldungen über Stoffe und Zubereitungen",
+        "citation": "Art. 18 Abs. 2 ChemG",
+        "content": "Der Bundesrat kann für bestimmte Stoffe und Zubereitungen ganz oder teilweise von der Meldepflicht absehen, insbesondere wenn:\na. Angaben über sie wegen ihrer Eigenschaften oder der vorgesehenen Verwendung für die Risikoermittlung und die Prävention von geringer Bedeutung sind;\nb. sie ausschliesslich an berufliche oder gewerbliche Verwenderinnen und Verwender abgegeben werden; oder\nc. sie in geringen Mengen an einen begrenzten Verwenderkreis abgegeben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Meldungen über Stoffe und Zubereitungen",
+        "citation": "Art. 18 Abs. 3 ChemG",
+        "content": "Er kann, sofern es für die Risikoermittlung und die Prävention wichtig ist:\na. für bestimmte Stoffe und Zubereitungen die Meldung zusätzlicher Angaben vorschreiben, namentlich über deren Zusammensetzung;\nb. die Meldepflicht ausdehnen auf nicht gefährliche Zubereitungen, die gefährliche Stoffe enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Stoffbezogene Vorschriften",
+        "citation": "Art. 19 Abs. 1 ChemG",
+        "content": "Der Bundesrat kann besondere Vorschriften erlassen:\na. für bestimmte Stoffe und Zubereitungen, welche das Leben oder die Gesundheit gefährden können;\nb. für Gegenstände, welche Stoffe oder Zubereitungen nach Buchstabe a enthalten, die bei der bestimmungsgemässen oder der zu erwartenden Verwendung der Gegenstände das Leben oder die Gesundheit gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_19"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Stoffbezogene Vorschriften",
+        "citation": "Art. 19 Abs. 2 ChemG",
+        "content": "Er kann:\na. die Art und Weise des Umgangs, namentlich der Herstellung, des Inverkehrbringens und der Verwendung einschränken;\nb. das Inverkehrbringen namentlich in Bezug auf den Verwendungszweck, die Beschaffenheit und die Form des Stoffes oder der Zubereitung einschränken;\nc. den Umgang verbieten, wenn das Leben und die Gesundheit nicht auf andere Weise geschützt werden können;\nd. die Ausfuhr an besondere Voraussetzungen knüpfen;\ne. vorschreiben, dass bestimmte Stoffe deklariert werden müssen, wenn sie in Gegenständen enthalten sind oder von ihnen freigesetzt werden können;\nf. vorschreiben, dass bestimmte giftige Pflanzen und Tiere als solche zu kennzeichnen sind, wenn sie in Verkehr gebracht werden;\ng. die Einstufung und Kennzeichnung einzelner gefährlicher Stoffe festlegen und Konzentrationsgrenzen bestimmen für die Einstufung und Kennzeichnung von Zubereitungen, welche diese Stoffe enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_19"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Werbung",
+        "citation": "Art. 20 Abs. 1 ChemG",
+        "content": "Das Anpreisen und Anbieten von gefährlichen Stoffen und Zubereitungen sowie von Zubereitungen, die gefährliche Stoffe enthalten, darf nicht Anlass zu Irrtum über die Gefährlichkeit geben oder zu unsachgemässem Umgang verleiten. Bei Biozidprodukten dürfen keine irreführenden Angaben über die Wirksamkeit gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_20"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Werbung",
+        "citation": "Art. 20 Abs. 2 ChemG",
+        "content": "Der Bundesrat erlässt Vorschriften darüber, wie beim Anpreisen und Anbieten auf die Gefährlichkeit hingewiesen werden muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_20"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Aufbewahrung, Lagerung",
+        "citation": "Art. 21 ChemG",
+        "content": "Gefährliche Stoffe und Zubereitungen müssen ihrer Gefährlichkeit entsprechend sicher aufbewahrt und gelagert werden. Insbesondere müssen sie:\na. vor gefährlichen äusseren Einwirkungen geschützt werden;\nb. für Unbefugte unzugänglich sein;\nc. so aufbewahrt oder gelagert werden, dass Verwechslungen, namentlich mit Lebensmitteln, oder irrtümliche Verwendungen verhindert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_21"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Rücknahme- und Rückgabepflicht",
+        "citation": "Art. 22 Abs. 1 ChemG",
+        "content": "Wer gefährliche Stoffe oder Zubereitungen abgibt, ist verpflichtet, sie von nicht gewerblichen Verwenderinnen und Verwendern zur fachgerechten Entsorgung zurückzunehmen. Die Rückgabe von Kleinmengen ist kostenlos.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_22"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Rücknahme- und Rückgabepflicht",
+        "citation": "Art. 22 Abs. 2 ChemG",
+        "content": "Der Bundesrat kann für besonders gefährliche Stoffe und Zubereitungen festlegen, dass sie durch den Besitzer oder die Besitzerin zur Entsorgung zurückzugeben sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_22"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Diebstahl, Verlust, irrtümliches Inverkehrbringen",
+        "citation": "Art. 23 ChemG",
+        "content": "Der Bundesrat erlässt Bestimmungen über Massnahmen, die nach einem Diebstahl, Verlust oder irrtümlichen Inverkehrbringen von gefährlichen Stoffen und Zubereitungen zu treffen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_23"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Vorschriften über persönliche und fachliche Voraussetzungen",
+        "citation": "Art. 24 Abs. 1 ChemG",
+        "content": "Der Bundesrat legt fest, welche persönlichen und fachlichen Voraussetzungen eine Person erfüllen muss, welche mit Stoffen und Zubereitungen umgehen will, die besonders gefährliche Eigenschaften oder bestimmte Gefährlichkeitsmerkmale aufweisen oder besondere Risiken bergen. Soweit es für den Schutz von Leben und Gesundheit erforderlich ist, legt er eine Bewilligungspflicht fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_24"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Vorschriften über persönliche und fachliche Voraussetzungen",
+        "citation": "Art. 24 Abs. 2 ChemG",
+        "content": "Er regelt, wie die erforderlichen Sachkenntnisse erlangt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_24"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Massnahmen in Betrieben und Bildungsstätten",
+        "citation": "Art. 25 Abs. 1 ChemG",
+        "content": "Wer beruflich oder gewerblich mit Stoffen oder Zubereitungen umgeht, muss zum Schutz von Leben und Gesundheit der Beschäftigten alle Massnahmen treffen, die nach der Erfahrung notwendig, nach dem Stand der Technik anwendbar und den Verhältnissen des Betriebes angemessen sind. Der Vollzug dieser Bestimmung richtet sich unter Vorbehalt der Artikel 42 und 45 nach dem Arbeitsgesetz vom 13. März 1964 und dem Bundesgesetz vom 20. März 1981 über die Unfallversicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_25"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Massnahmen in Betrieben und Bildungsstätten",
+        "citation": "Art. 25 Abs. 2 ChemG",
+        "content": "In Betrieben und Bildungsstätten, in denen beruflich oder gewerblich mit gefährlichen Stoffen oder Zubereitungen umgegangen wird, ist eine Person zu bezeichnen, die für Fragen des vorschriftsgemässen Umgangs zuständig ist und die den Vollzugsbehörden die erforderlichen Auskünfte (Art. 42 Abs. 2) erteilen kann. Sie muss über die nötigen fachlichen Qualifikationen und betrieblichen Kompetenzen verfügen. Ihr Name ist der zuständigen kantonalen Vollzugsbehörde mitzuteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_25"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Verminderung der Risiken durch den Einsatz von Biozidprodukten",
+        "citation": "Art. 25a Abs. 1 ChemG",
+        "content": "Die Risiken durch den Einsatz von Biozidprodukten für Mensch, Tier und Umwelt sollen vermindert und die Qualität des Trinkwassers, der Oberflächengewässer und des Grundwassers soll verbessert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_25_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 3. Kapitel:, Besondere Bestimmungen über den Umgang mit Stoffen und, Zubereitungen, Verminderung der Risiken durch den Einsatz von Biozidprodukten",
+        "citation": "Art. 25a Abs. 2 ChemG",
+        "content": "Der Bundesrat bestimmt bis 2023:\na. die massgeblichen Risikobereiche;\nb. die Ziele zur Verminderung der nicht annehmbaren Risiken in diesen Bereichen;\nc. die Methode, mit der die Erreichung der Ziele berechnet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_25_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Dokumentation",
+        "citation": "Art. 26 Abs. 1 ChemG",
+        "content": "Die Anmeldestelle sorgt für die bereichsübergreifende Dokumentation über Stoffe und Zubereitungen. Sie führt zu diesem Zweck ein Produkteregister.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_26"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Dokumentation",
+        "citation": "Art. 26 Abs. 2 ChemG",
+        "content": "Die Beurteilungsstellen sorgen für die zur Wahrnehmung ihrer Aufgaben notwendige Dokumentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_26"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Produkteregister",
+        "citation": "Art. 27 Abs. 1 ChemG",
+        "content": "Das Produkteregister enthält über Stoffe und Zubereitungen namentlich diejenigen Angaben, welche:\na. die Anmeldestelle und die Beurteilungsstellen im Rahmen von Anmelde- oder Zulassungsverfahren nach dem 2. Kapitel erhoben oder erarbeitet haben;\nb. die Herstellerin nach Artikel 18 gemeldet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_27"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Produkteregister",
+        "citation": "Art. 27 Abs. 2 ChemG",
+        "content": "Der Bundesrat regelt unter Berücksichtigung der Interessen der Herstellerin die Bearbeitung der im Produkteregister enthaltenen Daten, insbesondere deren Verwendung und Weitergabe; er legt fest, welche Angaben an Vollzugsbehörden weitergegeben werden dürfen, die auf Grund anderer Erlasse Vorschriften über Stoffe oder Zubereitungen vollziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_27"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Information",
+        "citation": "Art. 28 Abs. 1 ChemG",
+        "content": "Der Bund informiert Öffentlichkeit und Behörden über Risiken und Gefahren beim Umgang mit Stoffen und Zubereitungen und empfiehlt Massnahmen zur Verminderung der Risiken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Information",
+        "citation": "Art. 28 Abs. 2 ChemG",
+        "content": "Er gibt technische Wegleitungen heraus und veröffentlicht die für die Anwendung dieses Gesetzes erforderlichen Listen über Stoffe und Zubereitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Information",
+        "citation": "Art. 28 Abs. 3 ChemG",
+        "content": "Die Kantone informieren in ihrem Zuständigkeitsbereich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Information zur Innenraumluft",
+        "citation": "Art. 29 ChemG",
+        "content": "Der Bund informiert über Gefährdungen durch Schadstoffe in Innenräumen. Er kann insbesondere Empfehlungen zur Begrenzung oder Verhinderung gesundheitsgefährdender Expositionen sowie zur Verbesserung der Qualität der Innenraumluft abgeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_29"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Auskunftsstelle für Vergiftungen",
+        "citation": "Art. 30 Abs. 1 ChemG",
+        "content": "Der Bundesrat bezeichnet eine Auskunftsstelle für Vergiftungen und sorgt für die finanzielle Abgeltung der an sie übertragenen Aufgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Auskunftsstelle für Vergiftungen",
+        "citation": "Art. 30 Abs. 2 ChemG",
+        "content": "Die Auskunftsstelle erteilt Auskünfte über die Verhütung und Behandlung von Vergiftungen und empfiehlt entsprechende Massnahmen; zu diesem Zweck sammelt und verarbeitet sie die erforderlichen Informationen einschliesslich jener über Vergiftungsfälle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Auskunftsstelle für Vergiftungen",
+        "citation": "Art. 30 Abs. 3 ChemG",
+        "content": "Sie hat uneingeschränkten Zugriff auf die Daten im Produkteregister (Art. 27) und ist berechtigt, direkt bei der Herstellerin weitere zur Wahrnehmung ihrer Aufgaben erforderliche Angaben über Stoffe und Zubereitungen zu verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 4. Kapitel: Dokumentation und Information, Auskunftsstelle für Vergiftungen",
+        "citation": "Art. 30 Abs. 4 ChemG",
+        "content": "Der Bundesrat trifft die notwendigen Massnahmen, damit die nach Absatz 3 zur Verfügung gestellten Daten vertraulich behandelt und Geschäfts- und Fabrikationsgeheimnisse gewahrt werden. Er bestimmt insbesondere, unter welchen Bedingungen und wieweit die Auskunftsstelle zu medizinischen Zwecken präventiver oder heilender Art Angaben über die Zusammensetzung und die Eigenschaften von Stoffen und Zubereitungen machen darf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 1. Abschnitt: Kantone, Vollzug",
+        "citation": "Art. 31 Abs. 1 ChemG",
+        "content": "Die Kantone vollziehen dieses Gesetz, soweit nicht der Bund zuständig ist. Sie sorgen dafür, dass die Vollzugsbehörden dieses Gesetzes ihre Tätigkeit mit den Vollzugsbehörden des Arbeitnehmerschutzes und des Umweltschutzes koordinieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_31"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 1. Abschnitt: Kantone, Vollzug",
+        "citation": "Art. 31 Abs. 2 ChemG",
+        "content": "Sie vollziehen Verfügungen der Bundesbehörden, wenn diese sie damit beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_31"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 1. Abschnitt: Kantone, Kantonale Vorschriften",
+        "citation": "Art. 32 ChemG",
+        "content": "Die Kantone erlassen die organisatorischen Bestimmungen für den Vollzug und teilen sie dem Bund mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_32"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Aufsicht",
+        "citation": "Art. 33 Abs. 1 ChemG",
+        "content": "Der Bund beaufsichtigt den Vollzug dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_33"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Aufsicht",
+        "citation": "Art. 33 Abs. 2 ChemG",
+        "content": "Er koordiniert die Vollzugsmassnahmen der Kantone, soweit ein Interesse an einem einheitlichen Vollzug besteht. Zu diesem Zweck kann er insbesondere:\na. die Kantone verpflichten, den Bund über Vollzugsmassnahmen zu informieren;\nb. den Kantonen Massnahmen für einen einheitlichen Vollzug vorschreiben;\nc. bei ausserordentlichen Verhältnissen die Kantone anweisen, bestimmte Vollzugsmassnahmen zu treffen;\nd. die Aus- und Weiterbildung der Vollzugsbehörden fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_33"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 34 Abs. 1 ChemG",
+        "content": "Der Bund vollzieht:\na. Artikel 5 Absatz 1 Buchstabe a (Beurteilung und Einstufung von Stoffen und Zubereitungen) und die auf Artikel 5 Absatz 2 Buchstabe a gestützten Bestimmungen;\nb. Artikel 7 (Informationspflicht der Herstellerin);\nc. die Artikel 9–17 (Anmeldung und Zulassung von bestimmten Stoffen und Zubereitungen);\nd. Artikel 18 (Meldungen über Stoffe und Zubereitungen);\ne. Artikel 19 Absatz 2 Buchstabe d (Ausfuhr);\nf. Artikel 26–30 (Dokumentation und Information), mit Ausnahme von Artikel 28 Absatz 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 34 Abs. 2 ChemG",
+        "content": "Er kann einzelne Teilaufgaben nach Absatz 1 den Kantonen übertragen oder sie für bestimmte Teilaufgaben beiziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Vollzugskompetenzen des Bundes",
+        "citation": "Art. 34 Abs. 3 ChemG",
+        "content": "Dem Bund obliegt der Vollzug, soweit es sich handelt um:\na. Anlagen, Tätigkeiten, Stoffe und Zubereitungen, die der Landesverteidigung dienen;\nb. Einfuhr, Durchfuhr oder Ausfuhr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Koordination",
+        "citation": "Art. 35 Abs. 1 ChemG",
+        "content": "Der Bundesrat bestimmt, welche Beurteilungsstellen in die Verfahren und Überprüfungen nach dem 2. Kapitel einzubeziehen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Koordination",
+        "citation": "Art. 35 Abs. 2 ChemG",
+        "content": "Müssen Stoffe oder Zubereitungen auf Grund verschiedener Erlasse bei mehr als einer Bundesstelle angemeldet oder zugelassen werden, so bestimmt er eine gemeinsame Anmeldestelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Koordination",
+        "citation": "Art. 35 Abs. 3 ChemG",
+        "content": "Der Bundesrat regelt die Zusammenarbeit zwischen den beteiligten Bundesstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Übertragung von Vollzugsaufgaben",
+        "citation": "Art. 36 ChemG",
+        "content": "Der Bundesrat kann Vollzugsaufgaben auf Organisationen und Personen des öffentlichen oder privaten Rechts übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_36"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Grundlagenbeschaffung, Forschung",
+        "citation": "Art. 37 Abs. 1 ChemG",
+        "content": "Der Bund beschafft die für die Anwendung dieses Gesetzes erforderlichen wissenschaftlichen Grundlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Grundlagenbeschaffung, Forschung",
+        "citation": "Art. 37 Abs. 2 ChemG",
+        "content": "Er kann Erhebungen selber oder in Zusammenarbeit mit den Kantonen, mit geeigneten Institutionen oder Fachleuten durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Grundlagenbeschaffung, Forschung",
+        "citation": "Art. 37 Abs. 3 ChemG",
+        "content": "Er kann im Rahmen der internationalen Zusammenarbeit Untersuchungen von Stoffen und Zubereitungen ganz oder teilweise finanzieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Grundlagenbeschaffung, Forschung",
+        "citation": "Art. 37 Abs. 4 ChemG",
+        "content": "Er fördert die wissenschaftliche Lehre und Forschung über gefährliche Eigenschaften von Stoffen und Zubereitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Ausführungsbestimmungen des Bundesrates",
+        "citation": "Art. 38 ChemG",
+        "content": "Der Bundesrat erlässt die Ausführungsbestimmungen. Er fasst diese nach Möglichkeit mit den Ausführungsbestimmungen zu anderen Gesetzen zusammen, soweit diese Vorschriften über Stoffe und Zubereitungen enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_38"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Übernahme international harmonisierter Vorschriften und Normen",
+        "citation": "Art. 39 Abs. 1 ChemG",
+        "content": "Der Bundesrat berücksichtigt beim Erlass seiner Bestimmungen international harmonisierte Richtlinien und Empfehlungen sowie international harmonisierte technische Vorschriften und Normen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Übernahme international harmonisierter Vorschriften und Normen",
+        "citation": "Art. 39 Abs. 2 ChemG",
+        "content": "Er kann im Rahmen dieses Gesetzes bestimmte international harmonisierte technische Vorschriften und Normen für anwendbar erklären. Er kann das zuständige Bundesamt ermächtigen, Anpassungen technischer Einzelheiten von untergeordneter Bedeutung der für anwendbar erklärten Vorschriften und Normen nachzuführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Übernahme international harmonisierter Vorschriften und Normen",
+        "citation": "Art. 39 Abs. 3 ChemG",
+        "content": "Ausnahmsweise kann er eine besondere Art der Veröffentlichung der für anwendbar erklärten Vorschriften und Normen festlegen und bestimmen, dass auf eine Übersetzung in die Amtssprachen verzichtet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 40 Abs. 1 ChemG",
+        "content": "Der Bundesrat kann, ergänzend zu Artikel 18 des Bundesgesetzes vom 6. Oktober 1995 über die technischen Handelshemmnisse (THG), die Anerkennung namentlich von im Ausland durchgeführten Prüfungen, Inspektionen oder Bewertungen sowie von ausländischen Berichten oder Bescheinigungen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 40 Abs. 2 ChemG",
+        "content": "Er kann im Rahmen der Befugnisse, die ihm dieses Gesetz erteilt, über Artikel 14 Absatz 1 THG hinaus völkerrechtliche Vereinbarungen abschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 40 Abs. 3 ChemG",
+        "content": "Die Bundesstellen arbeiten mit ausländischen Behörden und Institutionen sowie mit internationalen Organisationen zusammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 2. Abschnitt: Bund, Schutzklausel",
+        "citation": "Art. 41 ChemG",
+        "content": "Gelangt die Anmeldestelle zu der begründeten Annahme, dass Stoffe oder Zubereitungen, insbesondere wegen nicht mehr angemessener Einstufung, Verpackung oder Kennzeichnung eine Gefahr für die Gesundheit darstellen, obwohl sie den Vorschriften dieses Gesetzes entsprechen, so kann sie nach Anhörung der Herstellerin vorläufig die Stoffe oder Zubereitungen anders einstufen, ihr Inverkehrbringen untersagen oder an besondere Bedingungen knüpfen. In solchen Fällen sind unverzüglich die erforderlichen Massnahmen zur Anpassung der betreffenden Vorschriften einzuleiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_41"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Befugnisse der Vollzugsbehörden",
+        "citation": "Art. 42 Abs. 1 ChemG",
+        "content": "Die Vollzugsbehörden sind befugt, zur Überwachung der Einhaltung der Bestimmungen dieses Gesetzes Stoffe, Zubereitungen und Gegenstände nach Artikel 19 Absatz 1 Buchstabe b zu prüfen sowie den Umgang mit diesen zu kontrollieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Befugnisse der Vollzugsbehörden",
+        "citation": "Art. 42 Abs. 2 ChemG",
+        "content": "Sie dürfen zu diesem Zweck von allen Personen, die mit solchen Stoffen, Zubereitungen und Gegenständen umgehen, verlangen, dass sie unentgeltlich:\na. die erforderlichen Auskünfte erteilen;\nb. Abklärungen vornehmen oder deren Vornahme dulden;\nc. Zutritt zu den Betriebs- und Lagerräumen gewähren;\nd. Probeentnahmen gestatten oder auf Verlangen Proben bereitstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Befugnisse der Vollzugsbehörden",
+        "citation": "Art. 42 Abs. 3 ChemG",
+        "content": "Sie sind berechtigt, auf Kosten der verantwortlichen Person alle erforderlichen Massnahmen zu treffen, um rechtswidrige Umstände betreffend solche Stoffe, Zubereitungen und Gegenstände zu beseitigen. Insbesondere sind sie befugt:\na. den weiteren Umgang zu verbieten;\nb. den Rückruf oder die Rückgabe anzuordnen;\nc. die Unschädlichmachung oder Vernichtung anzuordnen;\nd. die Beschlagnahme zu verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Schweigepflicht",
+        "citation": "Art. 43 ChemG",
+        "content": "Wer Aufgaben nach diesem Gesetz wahrnimmt, untersteht der Schweigepflicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_43"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Vertraulichkeit von Angaben",
+        "citation": "Art. 44 Abs. 1 ChemG",
+        "content": "Alle Angaben, an deren Geheimhaltung ein schutzwürdiges Interesse besteht, sind vertraulich zu behandeln. Als schutzwürdig gilt insbesondere das Interesse der Herstellerin an der Wahrung ihrer Geschäfts- und Fabrikationsgeheimnisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_44"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Vertraulichkeit von Angaben",
+        "citation": "Art. 44 Abs. 2 ChemG",
+        "content": "Der Bundesrat bestimmt die Angaben, an deren Geheimhaltung kein schutzwürdiges Interesse geltend gemacht werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_44"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch unter Vollzugsbehörden",
+        "citation": "Art. 45 Abs. 1 ChemG",
+        "content": "Sind am Vollzug mehrere Bundesstellen beteiligt, so sorgen sie für den gegenseitigen Austausch von Daten, soweit dies für den Vollzug ihrer Aufgaben erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch unter Vollzugsbehörden",
+        "citation": "Art. 45 Abs. 2 ChemG",
+        "content": "Der Bundesrat kann den Austausch von Daten mit weiteren Behörden oder mit Organisationen und Personen des öffentlichen oder privaten Rechts vorsehen, wenn es für den Vollzug dieses Gesetzes notwendig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch unter Vollzugsbehörden",
+        "citation": "Art. 45 Abs. 3 ChemG",
+        "content": "Die Bundesstellen geben den zuständigen kantonalen Vollzugsbehörden die Daten weiter, die für die Erfüllung ihrer Vollzugsaufgaben nötig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch unter Vollzugsbehörden",
+        "citation": "Art. 45 Abs. 4 ChemG",
+        "content": "Die kantonalen Vollzugsbehörden teilen den zuständigen Bundesstellen die Daten mit, die sie nach diesem Gesetz erhoben haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch unter Vollzugsbehörden",
+        "citation": "Art. 45 Abs. 5 ChemG",
+        "content": "Zum Zweck des Datenaustausches können automatisierte Abrufverfahren eingerichtet werden. Für diesen Fall legt der Bundesrat unter Berücksichtigung der schutzwürdigen Interessen der Betroffenen fest, wer Daten abrufen darf und welche Daten und zu welchem Zweck die Daten abgerufen werden dürfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch mit dem Ausland und mit internationalen Organisationen",
+        "citation": "Art. 46 Abs. 1 ChemG",
+        "content": "Der Bundesrat regelt Zuständigkeiten und Verfahren für den Austausch von Daten mit ausländischen Behörden und Institutionen sowie mit internationalen Organisationen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_46"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Datenaustausch mit dem Ausland und mit internationalen Organisationen",
+        "citation": "Art. 46 Abs. 2 ChemG",
+        "content": "Vertrauliche Angaben dürfen an ausländische Behörden und Institutionen sowie an internationale Organisationen nur weitergegeben werden, wenn:\na. völkerrechtliche Vereinbarungen oder Beschlüsse internationaler Organisationen dies erfordern; oder\nb. es zur Abwendung unmittelbar drohender Gefahr für Leben oder Gesundheit unbedingt erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_46"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 5. Kapitel: Vollzug, 3. Abschnitt: Besondere Vollzugsvorschriften, Gebühren",
+        "citation": "Art. 47 ChemG",
+        "content": "Der Bundesrat setzt die Gebühren für den Vollzug durch die Bundesbehörden fest. Er kann Ausnahmen von der Gebührenpflicht vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_47"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Verbrechen und Vergehen",
+        "citation": "Art. 49 Abs. 1 ChemG",
+        "content": "Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer als Herstellerin vorsätzlich:\na. Stoffe oder Zubereitungen für eine Verwendung in Verkehr bringt, von welcher sie weiss oder wissen muss, dass diese das Leben oder die Gesundheit unmittelbar gefährdet (Art. 5 Abs. 1);\nb. Stoffe oder Zubereitungen nicht richtig einstuft, verpackt oder kennzeichnet (Art. 5 Abs. 1) oder kein Sicherheitsdatenblatt erstellt oder darin unrichtige oder unvollständige Angaben macht (Art. 7);\nc. Stoffe oder Zubereitungen in Verkehr bringt:\n1. ohne sie anzumelden (Art. 6 und Art. 13 Abs. 1),\n2. bevor die Anmeldung akzeptiert oder die festgelegte Frist abgelaufen ist (Art. 9 Abs. 2),\n3. ohne dass die Zulassung vorliegt (Art. 6 und Art. 13 Abs. 1);\nd. der zuständigen Stelle Angaben zu Stoffen oder Zubereitungen vorenthält oder unrichtige Angaben macht (Art. 9 Abs. 3, Art. 10 Abs. 4, Art. 11 Abs. 2, Art. 15 Abs. 2, Art. 16 Abs. 1, Art. 17, Art. 30 Abs. 3 und Art. 42 Abs. 2);\ne. stoffbezogene Vorschriften missachtet (Art. 19 Abs. 2 Bst. a–c, e und g);\nf. gegen Massnahmen verstösst, die in Anwendung der Schutzklausel angeordnet worden sind (Art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Verbrechen und Vergehen",
+        "citation": "Art. 49 Abs. 3 ChemG",
+        "content": "Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer vorsätzlich:\na. gefährliche Stoffe oder Zubereitungen in Verkehr bringt, ohne den Abnehmer oder die Abnehmerin vorschriftsgemäss über die Eigenschaften der Stoffe oder Zubereitungen oder die erforderlichen Vorsichts- und Schutzmassnahmen zu informieren oder ohne dem Abnehmer oder der Abnehmerin ein Sicherheitsdatenblatt abzugeben (Art. 7);\nb. die Sorgfaltspflicht beim Umgang mit gefährlichen Stoffen oder Zubereitungen verletzt und dadurch wissentlich das Leben oder die Gesundheit anderer Menschen gefährdet (Art. 8, Art. 21, Art. 23 und Art. 25 Abs. 1);\nc. die Voranfragepflicht verletzt (Art. 12);\nd. stoffbezogene Vorschriften missachtet (Art. 19 Abs. 2 Bst. a und c);\ne. gegen Vorschriften über die Ausfuhr verstösst (Art. 19 Abs. 2 Bst. d);\nf. ohne Berechtigung mit gefährlichen Stoffen oder Zubereitungen umgeht (Art. 24 Abs. 1);\ng. gefährliche Stoffe oder Zubereitungen an Unberechtigte abgibt (Art. 19 Abs. 2 Bst. a und Art. 24 Abs. 1);\nh. die Schweigepflicht verletzt (Art. 30 Abs. 4, Art. 43 und Art. 44);\ni. gegen Massnahmen verstösst, die in Anwendung der Schutzklausel angeordnet worden sind (Art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Verbrechen und Vergehen",
+        "citation": "Art. 49 Abs. 4 ChemG",
+        "content": "Die Strafe ist Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe, wenn durch eine Handlung nach Absatz 1 oder 3 Menschen in schwere Gefahr gebracht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Verbrechen und Vergehen",
+        "citation": "Art. 49 Abs. 5 ChemG",
+        "content": "Wer fahrlässig handelt, wird mit Geldstrafe bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 50 Abs. 1 ChemG",
+        "content": "Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich:\na. Vorschriften über die Selbstkontrolle verletzt (Art. 5);\nb. die Sorgfaltspflicht beim Umgang mit Stoffen oder Zubereitungen verletzt (Art. 8, Art. 21, Art. 23 und Art. 25 Abs. 1);\nc. Meldungen über Stoffe und Zubereitungen nicht erstattet oder falsche Angaben macht (Art. 18);\nd. die Deklarationspflicht für giftige Pflanzen und Tiere verletzt (Art. 19 Abs. 2 Bst. f);\ne. Vorschriften über die Werbung missachtet (Art. 20);\nf. die Rücknahme gefährlicher Stoffe oder Zubereitungen verweigert (Art. 22 Abs. 1);\ng. die Mitteilungspflicht gegenüber kantonalen Vollzugsbehörden verletzt (Art. 25 Abs. 2);\nh. die Auskunftspflicht verletzt oder den Vollzugsbehörden unrichtige Angaben macht (Art. 42 Abs. 2);\ni.  gegen eine unter Hinweis auf die Strafdrohung dieses Artikels an ihn oder sie gerichtete Verfügung verstösst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 50 Abs. 2 ChemG",
+        "content": "Wer fahrlässig handelt, wird mit Busse bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 50 Abs. 3 ChemG",
+        "content": "Soweit nicht eine strafbare Handlung nach Absatz 1 oder nach Artikel 49 vorliegt, kann der Bundesrat für Widerhandlungen gegen seine Ausführungsbestimmungen androhen:\na. Busse bis zu 20 000 Franken bei vorsätzlicher Begehung;\nb. Busse bei fahrlässiger Begehung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 50 Abs. 4 ChemG",
+        "content": "Versuch und Gehilfenschaft sind strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Widerhandlungen in Geschäftsbetrieben",
+        "citation": "Art. 51 ChemG",
+        "content": "Die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht gelten für strafbare Handlungen nach diesem Gesetz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_51"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Strafverfolgung und Strafanzeige",
+        "citation": "Art. 52 Abs. 1 ChemG",
+        "content": "Verfolgung und Beurteilung strafbarer Handlungen sind Sache der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_52"
+    },
+    {
+        "book": "ChemG",
+        "title": "ChemG, 7. Kapitel: Strafbestimmungen, Strafverfolgung und Strafanzeige",
+        "citation": "Art. 52 Abs. 2 ChemG",
+        "content": "Besteht hinreichender Verdacht, dass im Vollzugsbereich des Bundes eine strafbare Handlung begangen worden ist, zeigt das zuständige Bundesamt dies der kantonalen Behörde an. In besonders leichten Fällen kann auf die Strafanzeige verzichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/de#art_52"
+    }
+]

@@ -1,0 +1,821 @@
+[
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Gegenstand",
+        "citation": "Art. 1 JStPO",
+        "content": "Dieses Gesetz regelt die Verfolgung und Beurteilung der Straftaten nach Bundesrecht, die von Jugendlichen im Sinne von Artikel 3 Absatz 1 des Jugendstrafgesetzes vom 20. Juni 2003 (JStG) verübt worden sind, sowie den Vollzug der gegen sie verhängten Sanktionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_1"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Zuständigkeit",
+        "citation": "Art. 2 JStPO",
+        "content": "Für die Verfolgung und Beurteilung der Straftaten sowie den Vollzug der verhängten Sanktionen sind ausschliesslich die Kantone zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_2"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Anwendbarkeit der Strafprozessordnung",
+        "citation": "Art. 3 Abs. 1 JStPO",
+        "content": "Enthält dieses Gesetz keine besondere Regelung, so sind die Bestimmungen der Strafprozessordnung vom 5. Oktober 2007 (StPO) anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Anwendbarkeit der Strafprozessordnung",
+        "citation": "Art. 3 Abs. 2 JStPO",
+        "content": "Nicht anwendbar sind die Bestimmungen der StPO über:\na. die Übertretungsstrafbehörden und das Übertretungsstrafverfahren (Art. 17 und 357);\nb. die Bundesgerichtsbarkeit (Art. 23–28);\nc. den Gerichtsstand (Art. 31 und 32) und die besonderen Gerichtsstände im Falle mehrerer Beteiligter (Art. 33) und bei mehreren an verschiedenen Orten verübten Straftaten (Art. 34);\nd. das abgekürzte Verfahren (Art. 358–362);\ne. das Verfahren bei Anordnung der Friedensbürgschaft (Art. 372 und 373);\nf. das Verfahren bei einer schuldunfähigen beschuldigten Person (Art. 374 und 375).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Anwendbarkeit der Strafprozessordnung",
+        "citation": "Art. 3 Abs. 3 JStPO",
+        "content": "Kommt die Strafprozessordnung zur Anwendung, so sind deren Bestimmungen im Lichte der Grundsätze von Artikel 4 dieses Gesetzes auszulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Grundsätze",
+        "citation": "Art. 4 Abs. 1 JStPO",
+        "content": "Für die Anwendung dieses Gesetzes sind der Schutz und die Erziehung der Jugendlichen wegleitend. Alter und Entwicklungsstand sind angemessen zu berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Grundsätze",
+        "citation": "Art. 4 Abs. 2 JStPO",
+        "content": "Die Strafbehörden achten in allen Verfahrensstadien die Persönlichkeitsrechte der Jugendlichen und ermöglichen ihnen, sich aktiv am Verfahren zu beteiligen. Vorbehältlich besonderer Verfahrensvorschriften hören sie die Jugendlichen persönlich an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Grundsätze",
+        "citation": "Art. 4 Abs. 3 JStPO",
+        "content": "Sie sorgen dafür, dass das Strafverfahren nicht mehr als nötig in das Privatleben der Jugendlichen und in den Einflussbereich ihrer gesetzlichen Vertretung eingreift.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Grundsätze",
+        "citation": "Art. 4 Abs. 4 JStPO",
+        "content": "Sie beziehen, wenn es angezeigt scheint, die gesetzliche Vertretung und die Behörde des Zivilrechts ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Verzicht auf Strafverfolgung",
+        "citation": "Art. 5 Abs. 1 JStPO",
+        "content": "Die Untersuchungsbehörde, die Jugendstaatsanwaltschaft und das Gericht sehen von der Strafverfolgung ab, wenn:\na. die Voraussetzungen für eine Strafbefreiung nach Artikel 21 JStG gegeben und Schutzmassnahmen entweder nicht notwendig sind oder die Behörde des Zivilrechts bereits geeignete Massnahmen angeordnet hat; oder\nb. ein Vergleich oder eine Mediation erfolgreich abgeschlossen werden konnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_5"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 1. Kapitel: Gegenstand und Grundsätze, Verzicht auf Strafverfolgung",
+        "citation": "Art. 5 Abs. 2 JStPO",
+        "content": "Im Übrigen ist Artikel 8 Absätze 2–4 StPO anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_5"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Strafverfolgungsbehörden",
+        "citation": "Art. 6 Abs. 1 JStPO",
+        "content": "Strafverfolgungsbehörden sind:\na. die Polizei;\nb. die Untersuchungsbehörde;\nc. die Jugendstaatsanwaltschaft, sofern der Kanton eine solche Behörde vorsehen muss (Art. 21).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Strafverfolgungsbehörden",
+        "citation": "Art. 6 Abs. 2 JStPO",
+        "content": "Die Kantone bezeichnen als Untersuchungsbehörde:\na. eine oder mehrere Jugendrichterinnen oder einen oder mehrere Jugendrichter; oder\nb. eine oder mehrere Jugendanwältinnen oder einen oder mehrere Jugendanwälte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Strafverfolgungsbehörden",
+        "citation": "Art. 6 Abs. 3 JStPO",
+        "content": "Die Jugendrichterinnen und Jugendrichter sind Mitglieder des Jugendgerichts. Im Übrigen bleiben die Bestimmungen über die Ablehnung (Art. 9) und den Ausstand (Art. 56–60 StPO) vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Strafverfolgungsbehörden",
+        "citation": "Art. 6 Abs. 4 JStPO",
+        "content": "Die Jugendanwältinnen und Jugendanwälte vertreten vor dem Jugendgericht die Anklage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Gerichte",
+        "citation": "Art. 7 Abs. 1 JStPO",
+        "content": "Gerichtliche Befugnisse im Jugendstrafverfahren haben:\na. das Zwangsmassnahmengericht;\nb. das Jugendgericht;\nc. die Beschwerdeinstanz in Jugendstrafsachen;\nd. die Berufungsinstanz in Jugendstrafsachen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Gerichte",
+        "citation": "Art. 7 Abs. 2 JStPO",
+        "content": "Das Jugendgericht setzt sich zusammen aus dem Präsidenten oder der Präsidentin und zwei Beisitzerinnen oder Beisitzern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Gerichte",
+        "citation": "Art. 7 Abs. 3 JStPO",
+        "content": "Die Kantone können die Befugnisse der Beschwerdeinstanz der Berufungsinstanz übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Organisation",
+        "citation": "Art. 8 Abs. 1 JStPO",
+        "content": "Die Kantone regeln Wahl, Zusammensetzung, Organisation, Aufsicht und Befugnisse der Jugendstrafbehörden, soweit dieses Gesetz oder andere Bundesgesetze dies nicht abschliessend regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Organisation",
+        "citation": "Art. 8 Abs. 2 JStPO",
+        "content": "Die Kantone können interkantonal zuständige Jugendstrafbehörden vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 2. Kapitel: Jugendstrafbehörden, Organisation",
+        "citation": "Art. 8 Abs. 3 JStPO",
+        "content": "Sie können Ober- oder Generaljugendanwaltschaften vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Ablehnung",
+        "citation": "Art. 9 Abs. 1 JStPO",
+        "content": "Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können innert zehn Tagen seit Eröffnung des Strafbefehls (Art. 32) beziehungsweise Zustellung der Anklageschrift (Art. 33) verlangen, dass die Jugendrichterin oder der Jugendrichter, die oder der bereits die Untersuchung geführt hat, im Hauptverfahren nicht mitwirkt. Die Ablehnung bedarf keiner Begründung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_9"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Ablehnung",
+        "citation": "Art. 9 Abs. 2 JStPO",
+        "content": "Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung werden im Strafbefehl oder in der Anklageschrift auf dieses Ablehnungsrecht aufmerksam gemacht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_9"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 1 JStPO",
+        "content": "Für die Strafverfolgung ist die Behörde des Ortes zuständig, an dem die oder der beschuldigte Jugendliche bei Eröffnung des Verfahrens den gewöhnlichen Aufenthalt hat. Für die Strafverfolgung im Bereich des Ordnungsbussenverfahrens ist die Behörde des Ortes zuständig, an dem die Straftat begangen worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 2 JStPO",
+        "content": "Fehlt ein gewöhnlicher Aufenthalt in der Schweiz, so ist folgende Behörde zuständig:\na. bei Taten im Inland die Behörde des Ortes, an dem die Straftat begangen worden ist;\nb. bei Taten im Ausland die Behörde des Heimatortes oder, für die ausländische Jugendliche oder den ausländischen Jugendlichen, die Behörde des Ortes, wo sie oder er wegen der Tat erstmals angehalten wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 3 JStPO",
+        "content": "Die Behörde des Ortes, an dem die Straftat begangen worden ist, nimmt die dringend notwendigen Ermittlungshandlungen vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 4 JStPO",
+        "content": "Die zuständige schweizerische Behörde kann auf Ersuchen der ausländischen Behörde die Strafverfolgung übernehmen, wenn:\na. die oder der Jugendliche den gewöhnlichen Aufenthalt in der Schweiz hat oder das Schweizer Bürgerrecht besitzt; \nb. die oder der Jugendliche im Ausland eine auch nach schweizerischem Recht strafbare Tat begangen hat; und \nc. die Voraussetzungen für die Strafverfolgung nach den Artikeln 4–7 des Strafgesetzbuches (StGB) nicht erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 5 JStPO",
+        "content": "Die zuständige Behörde wendet bei der Strafverfolgung nach Absatz 4 sowie nach den Artikeln 4–7 StGB ausschliesslich schweizerisches Recht an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 6 JStPO",
+        "content": "Für den Vollzug ist die Behörde am Ort der Beurteilung zuständig; abweichende Bestimmungen in Verträgen zwischen den Kantonen bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Gerichtsstand",
+        "citation": "Art. 10 Abs. 7 JStPO",
+        "content": "Kompetenzkonflikte zwischen den Kantonen entscheidet das Bundesstrafgericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Trennung von Verfahren",
+        "citation": "Art. 11 Abs. 1 JStPO",
+        "content": "Verfahren gegen Erwachsene und Jugendliche werden getrennt geführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_11"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Trennung von Verfahren",
+        "citation": "Art. 11 Abs. 2 JStPO",
+        "content": "Auf die Trennung kann ausnahmsweise verzichtet werden, wenn die Untersuchung durch die Trennung erheblich erschwert würde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_11"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Mitwirkung der gesetzlichen Vertretung",
+        "citation": "Art. 12 Abs. 1 JStPO",
+        "content": "Die gesetzliche Vertretung und die Behörde des Zivilrechts haben im Verfahren mitzuwirken, wenn die Jugendstrafbehörde dies anordnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_12"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Mitwirkung der gesetzlichen Vertretung",
+        "citation": "Art. 12 Abs. 2 JStPO",
+        "content": "Bei Nichtbefolgung kann die Untersuchungsbehörde oder das Jugendgericht die gesetzliche Vertretung verwarnen, bei der Behörde des Zivilrechts anzeigen oder ihr eine Ordnungsbusse bis zu 1000 Franken auferlegen. Der Bussenentscheid kann bei der Beschwerdeinstanz angefochten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_12"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Vertrauensperson",
+        "citation": "Art. 13 JStPO",
+        "content": "Die oder der beschuldigte Jugendliche kann in allen Verfahrensstadien eine Vertrauensperson beiziehen, sofern die Interessen der Untersuchung oder überwiegende private Interessen einem solchen Beizug nicht entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_13"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Ausschluss der Öffentlichkeit",
+        "citation": "Art. 14 Abs. 1 JStPO",
+        "content": "Das Strafverfahren findet unter Ausschluss der Öffentlichkeit statt. Die Untersuchungsbehörde und die Gerichte können die Öffentlichkeit in geeigneter Weise über den Stand des Verfahrens informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_14"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Ausschluss der Öffentlichkeit",
+        "citation": "Art. 14 Abs. 2 JStPO",
+        "content": "Das Jugendgericht und die Berufungsinstanz können eine öffentliche Verhandlung anordnen, wenn:\na. die oder der urteilsfähige beschuldigte Jugendliche oder die gesetzliche Vertretung dies verlangt oder das öffentliche Interesse es gebietet; und\nb. dies den Interessen der oder des beschuldigten Jugendlichen nicht zuwiderläuft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_14"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Umfang der Akteneinsicht",
+        "citation": "Art. 15 Abs. 1 JStPO",
+        "content": "Die Einsicht in Informationen über die persönlichen Verhältnisse der oder des beschuldigten Jugendlichen kann in ihrem oder seinem Interesse eingeschränkt werden für:\na. sie oder ihn selber;\nb. die gesetzliche Vertretung;\nc. die Privatklägerschaft;\nd. die Behörde des Zivilrechts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_15"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Umfang der Akteneinsicht",
+        "citation": "Art. 15 Abs. 2 JStPO",
+        "content": "Die Verteidigung und die Jugendstaatsanwaltschaft können die gesamten Akten einsehen. Sie dürfen von Inhalten, in welche die Einsicht eingeschränkt ist, keine Kenntnis geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_15"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Vergleich und Wiedergutmachung",
+        "citation": "Art. 16 JStPO",
+        "content": "Die Untersuchungsbehörde und das Jugendgericht können versuchen:\na. zwischen der geschädigten Person und der oder dem beschuldigten Jugendlichen einen Vergleich zu erreichen, soweit Antragsdelikte Gegenstand des Verfahrens sind; oder\nb. eine Wiedergutmachung zu erzielen, sofern eine Strafbefreiung nach Artikel 21 Absatz 1 Buchstabe c JStG in Frage kommt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_16"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Mediation",
+        "citation": "Art. 17 Abs. 1 JStPO",
+        "content": "Die Untersuchungsbehörde und die Gerichte können das Verfahren jederzeit sistieren und eine auf dem Gebiet der Mediation geeignete Organisation oder Person mit der Durchführung eines Mediationsverfahrens beauftragen, wenn:\na. Schutzmassnahmen nicht notwendig sind oder die Behörde des Zivilrechts bereits geeignete Massnahmen angeordnet hat;\nb. die Voraussetzungen von Artikel 21 Absatz 1 JStG nicht erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_17"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 3. Kapitel: Allgemeine Verfahrensregeln, Mediation",
+        "citation": "Art. 17 Abs. 2 JStPO",
+        "content": "Gelingt die Mediation, so wird das Verfahren eingestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_17"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Begriff",
+        "citation": "Art. 18 JStPO",
+        "content": "Parteien sind:\na. die oder der beschuldigte Jugendliche;\nb. die gesetzliche Vertretung der oder des beschuldigten Jugendlichen;\nc. die Privatklägerschaft;\nd. im Haupt- und im Rechtsmittelverfahren: die Jugendanwältin oder der Jugendanwalt beziehungsweise die Jugendstaatsanwaltschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_18"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Beschuldigte Jugendliche oder beschuldigter Jugendlicher",
+        "citation": "Art. 19 Abs. 1 JStPO",
+        "content": "Die oder der beschuldigte Jugendliche handelt durch die gesetzliche Vertretung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Beschuldigte Jugendliche oder beschuldigter Jugendlicher",
+        "citation": "Art. 19 Abs. 2 JStPO",
+        "content": "Urteilsfähige beschuldigte Jugendliche können ihre Parteirechte selbstständig wahrnehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Beschuldigte Jugendliche oder beschuldigter Jugendlicher",
+        "citation": "Art. 19 Abs. 3 JStPO",
+        "content": "Die Behörde kann das Recht der oder des beschuldigten Jugendlichen auf Teilnahme an bestimmten Verfahrenshandlungen mit Rücksicht auf Alter und ungestörte Entwicklung beschränken. Diese Beschränkungen gelten nicht für die Verteidigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Privatklägerschaft",
+        "citation": "Art. 20 Abs. 1 JStPO",
+        "content": "Die Privatklägerschaft kann an der Untersuchung teilnehmen, wenn dies den Interessen der oder des beschuldigten Jugendlichen nicht zuwiderläuft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_20"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Privatklägerschaft",
+        "citation": "Art. 20 Abs. 2 JStPO",
+        "content": "Sie nimmt an der Hauptverhandlung nicht teil, ausser wenn besondere Umstände es erfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_20"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Jugendstaatsanwaltschaft",
+        "citation": "Art. 21 JStPO",
+        "content": "Wird die Untersuchung durch eine Jugendrichterin oder einen Jugendrichter geführt, so sieht der Kanton eine Jugendstaatsanwaltschaft vor. Die Jugendstaatsanwaltschaft:\na. erhebt Anklage vor dem Jugendgericht;\nb. kann an der Hauptverhandlung vor dem Jugendgericht und vor der Berufungsinstanz teilnehmen; sie ist dazu verpflichtet, wenn das Gericht sie dazu auffordert; \nc. kann gegen Urteile des Jugendgerichts Berufung einlegen;\nd. vertritt die Anklage vor der Berufungsinstanz;\ne. nimmt jene Aufgaben wahr, welche ihr das kantonale Recht überträgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_21"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 1. Abschnitt: Parteien, Ober- oder Generaljugendanwaltschaft",
+        "citation": "Art. 22 JStPO",
+        "content": "Sieht das kantonale Recht eine Ober- oder Generaljugendanwaltschaft vor, so sind die Artikel 322 Absatz 1, 354 Absatz 1 Buchstabe c und 381 Absatz 2 StPO sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_22"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 2. Abschnitt: Verteidigung, Wahlverteidigung",
+        "citation": "Art. 23 JStPO",
+        "content": "Die oder der urteilsfähige beschuldigte Jugendliche sowie die gesetzliche Vertretung können eine Anwältin oder einen Anwalt mit der Verteidigung betrauen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_23"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 2. Abschnitt: Verteidigung, Notwendige Verteidigung",
+        "citation": "Art. 24 JStPO",
+        "content": "Die oder der Jugendliche muss verteidigt werden, wenn:\na. ihr oder ihm ein Freiheitsentzug von mehr als einem Monat oder eine Unterbringung droht;\nb. sie oder er die eigenen Verfahrensinteressen nicht ausreichend wahren kann und auch die gesetzliche Vertretung dazu nicht in der Lage ist;\nc. die Untersuchungs- oder Sicherheitshaft mehr als 24 Stunden gedauert hat;\nd. sie oder er vorsorglich in einer Einrichtung untergebracht worden ist;\ne. die Jugendanwältin oder der Jugendanwalt beziehungsweise die Jugendstaatsanwaltschaft an der Hauptverhandlung persönlich auftritt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_24"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 2. Abschnitt: Verteidigung, Amtliche Verteidigung",
+        "citation": "Art. 25 Abs. 1 JStPO",
+        "content": "Die zuständige Behörde ordnet eine amtliche Verteidigung an, wenn bei notwendiger Verteidigung:\na. die oder der beschuldigte Jugendliche oder die gesetzliche Vertretung trotz Aufforderung keine Wahlverteidigung bestimmt;\nb. der Wahlverteidigung das Mandat entzogen wurde oder sie es niedergelegt hat und die oder der beschuldigte Jugendliche oder die gesetzliche Vertretung nicht innert Frist eine neue Wahlverteidigung bestimmt; oder\nc. die oder der beschuldigte Jugendliche und die gesetzliche Vertretung nicht über die erforderlichen Mittel verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_25"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 4. Kapitel: Parteien und Verteidigung, 2. Abschnitt: Verteidigung, Amtliche Verteidigung",
+        "citation": "Art. 25 Abs. 2 JStPO",
+        "content": "Die Entschädigung der amtlichen Verteidigung richtet sich nach Artikel 135 StPO. Zur Rückerstattung im Sinne von Artikel 135 Absatz 4 StPO können im Rahmen ihrer Unterhaltspflicht auch die Eltern verpflichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_25"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Zuständigkeit",
+        "citation": "Art. 26 Abs. 1 JStPO",
+        "content": "Die Untersuchungsbehörde ist zuständig zur Anordnung:\na. jener Zwangsmassnahmen, die gemäss den Bestimmungen der StPO durch die Staatsanwaltschaft angeordnet werden können;\nb. der Untersuchungshaft;\nc. der vorsorglichen Schutzmassnahmen nach den Artikeln 12–15 und 16a JStG;\nd. der Beobachtung im Sinne von Artikel 9 JStG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Zuständigkeit",
+        "citation": "Art. 26 Abs. 2 JStPO",
+        "content": "Das Zwangsmassnahmengericht ist zuständig zur Anordnung oder Genehmigung der übrigen Zwangsmassnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Zuständigkeit",
+        "citation": "Art. 26 Abs. 3 JStPO",
+        "content": "Ist der Straffall beim Gericht hängig, so ist dieses für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 27 Abs. 1 JStPO",
+        "content": "Untersuchungs- und Sicherheitshaft werden nur in Ausnahmefällen und erst nach Prüfung sämtlicher Möglichkeiten von Ersatzmassnahmen angeordnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 27 Abs. 2 JStPO",
+        "content": "Soll die Untersuchungshaft länger als sieben Tage dauern, so stellt die Untersuchungsbehörde spätestens am siebten Tag ein Verlängerungsgesuch an das Zwangsmassnahmengericht. Dieses entscheidet unverzüglich, spätestens aber innert 48 Stunden nach Eingang des Gesuchs. Das Verfahren richtet sich nach den Artikeln 225 und 226 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 27 Abs. 3 JStPO",
+        "content": "Das Zwangsmassnahmengericht kann die Untersuchungshaft mehrmals verlängern, jedoch jeweils um höchstens einen Monat. Das Verfahren richtet sich nach Artikel 227 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 27 Abs. 4 JStPO",
+        "content": "Die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung können bei der Behörde, welche die Haft angeordnet hat, jederzeit die Entlassung beantragen. Das Verfahren richtet sich nach Artikel 228 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 27 Abs. 5 JStPO",
+        "content": "Die Anfechtbarkeit der Entscheide des Zwangsmassnahmengerichts richtet sich nach Artikel 222 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Vollzug der Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 28 Abs. 1 JStPO",
+        "content": "Untersuchungs- und Sicherheitshaft werden in einer für Jugendliche reservierten Einrichtung oder in einer besonderen Abteilung einer Haftanstalt vollzogen, wo die Jugendlichen von erwachsenen Inhaftierten getrennt sind. Eine angemessene Betreuung ist sicherzustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Vollzug der Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 28 Abs. 2 JStPO",
+        "content": "Die Jugendlichen können auf ihr Gesuch hin einer Beschäftigung nachgehen, wenn das Verfahren dadurch nicht beeinträchtigt wird und die Verhältnisse der Einrichtung oder der Haftanstalt es erlauben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Vollzug der Untersuchungs- und Sicherheitshaft",
+        "citation": "Art. 28 Abs. 3 JStPO",
+        "content": "Für den Vollzug können private Einrichtungen beigezogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Vorsorgliche Anordnung von Schutzmassnahmen und Anordnung der Beobachtung",
+        "citation": "Art. 29 Abs. 1 JStPO",
+        "content": "Die vorsorglichen Schutzmassnahmen und die Beobachtung werden schriftlich angeordnet und begründet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_29"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 5. Kapitel: Zwangsmassnahmen, Schutzmassnahmen und Beobachtungen, Vorsorgliche Anordnung von Schutzmassnahmen und Anordnung der Beobachtung",
+        "citation": "Art. 29 Abs. 2 JStPO",
+        "content": "Die stationäre Beobachtung ist angemessen auf die Strafe anzurechnen. Für den Vollzug ist Artikel 16 JStG sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_29"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 1. Abschnitt: Untersuchung, Untersuchungsbehörde",
+        "citation": "Art. 30 Abs. 1 JStPO",
+        "content": "Die Untersuchungsbehörde leitet die Strafverfolgung und nimmt alle zur Wahrheitsfindung notwendigen Untersuchungshandlungen vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_30"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 1. Abschnitt: Untersuchung, Untersuchungsbehörde",
+        "citation": "Art. 30 Abs. 2 JStPO",
+        "content": "Während der Untersuchung hat sie die Befugnisse und Aufgaben, die nach der StPO in diesem Verfahrensstadium der Staatsanwaltschaft zukommen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_30"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 1. Abschnitt: Untersuchung, Zusammenarbeit",
+        "citation": "Art. 31 Abs. 1 JStPO",
+        "content": "Bei der Abklärung der persönlichen Verhältnisse der oder des beschuldigten Jugendlichen arbeitet die Untersuchungsbehörde mit allen Instanzen der Straf- und Zivilrechtspflege, mit den Verwaltungsbehörden, mit öffentlichen und privaten Einrichtungen und mit Personen aus dem medizinischen und sozialen Bereich zusammen; sie holt bei ihnen die nötigen Auskünfte ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_31"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 1. Abschnitt: Untersuchung, Zusammenarbeit",
+        "citation": "Art. 31 Abs. 2 JStPO",
+        "content": "Diese Instanzen, Einrichtungen und Personen sind verpflichtet, die verlangten Auskünfte zu erteilen; das Berufsgeheimnis bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_31"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 1 JStPO",
+        "content": "Die Untersuchungsbehörde schliesst die Untersuchung ab und erlässt einen Strafbefehl, wenn die Beurteilung der Straftat nicht in die Zuständigkeit des Jugendgerichts fällt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 2 JStPO",
+        "content": "Die oder der beschuldigte Jugendliche kann vor Erlass des Strafbefehls einvernommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 3 JStPO",
+        "content": "Die Untersuchungsbehörde kann im Strafbefehl auch über Zivilforderungen entscheiden, sofern deren Beurteilung ohne besondere Untersuchung möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 4 JStPO",
+        "content": "Der Strafbefehl wird eröffnet:\na. der oder dem urteilsfähigen beschuldigten Jugendlichen und der gesetzlichen Vertretung;\nb. der Privatklägerschaft und den anderen Verfahrensbeteiligten, soweit ihre Anträge behandelt werden;\nc. der Jugendstaatsanwaltschaft, sofern das kantonale Recht dies vorsieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 5 JStPO",
+        "content": "Gegen den Strafbefehl können bei der Untersuchungsbehörde innert 10 Tagen schriftlich Einsprache erheben:\na. die oder der urteilsfähige beschuldigte Jugendliche und die gesetzliche Vertretung;\nb. die Privatklägerschaft;\nc. weitere Verfahrensbeteiligte, soweit sie in ihren Interessen betroffen sind;\nd. die Jugendstaatsanwaltschaft, sofern das kantonale Recht dies vorsieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 5bis JStPO",
+        "content": "Die Privatklägerschaft kann einen Strafbefehl hinsichtlich der ausgesprochenen Sanktion nicht anfechten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 2. Abschnitt: Strafbefehlsverfahren",
+        "citation": "Art. 32 Abs. 6 JStPO",
+        "content": "Im Übrigen richtet sich das Verfahren nach den Artikeln 352–356 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 3. Abschnitt: Anklageerhebung",
+        "citation": "Art. 33 Abs. 1 JStPO",
+        "content": "Die zuständige Behörde erhebt Anklage vor dem Jugendgericht, wenn sie den Sachverhalt und die persönlichen Verhältnisse der oder des beschuldigten Jugendlichen als hinreichend geklärt erachtet und kein Strafbefehl erlassen wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 3. Abschnitt: Anklageerhebung",
+        "citation": "Art. 33 Abs. 2 JStPO",
+        "content": "Für die Anklageerhebung zuständig ist:\na. wenn die Untersuchung durch eine Jugendrichterin oder einen Jugendrichter geführt wurde: die Jugendstaatsanwaltschaft;\nb. wenn die Untersuchung durch eine Jugendanwältin oder einen Jugendanwalt geführt wurde: die Jugendanwältin oder der Jugendanwalt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 3. Abschnitt: Anklageerhebung",
+        "citation": "Art. 33 Abs. 3 JStPO",
+        "content": "Die zuständige Behörde stellt die Anklageschrift zu:\na. der oder dem beschuldigten Jugendlichen und der gesetzlichen Vertretung;\nb. der Privatklägerschaft;\nc. dem Jugendgericht, mitsamt den Akten sowie den beschlagnahmten Gegenständen und Vermögenswerten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 1 JStPO",
+        "content": "Das Jugendgericht beurteilt als erste Instanz alle Straftaten, für die in Frage kommt:\na. eine Unterbringung;\nb. eine Busse von mehr als 1000 Franken;\nc. ein Freiheitsentzug von mehr als drei Monaten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 2 JStPO",
+        "content": "Es beurteilt Anklagen im Anschluss an Einsprachen gegen Strafbefehle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 3 JStPO",
+        "content": "Die Kantone, welche Jugendanwältinnen oder Jugendanwälte als Untersuchungsbehörde bezeichnen, können vorsehen, dass die Präsidentin oder der Präsident des Jugendgerichts Anklagen im Anschluss an Einsprachen gegen Strafbefehle beurteilt, welche Übertretungen zum Gegenstand haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 4 JStPO",
+        "content": "Fällt eine Straftat nach Auffassung des Jugendgerichts in die Zuständigkeit der Untersuchungsbehörde, so kann das Jugendgericht die Straftat selbst beurteilen oder den Fall der Untersuchungsbehörde zum Erlass eines Strafbefehls überweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 5 JStPO",
+        "content": "Ist der Straffall bei ihm hängig, so ist das Jugendgericht für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Zuständigkeit",
+        "citation": "Art. 34 Abs. 6 JStPO",
+        "content": "Das Jugendgericht kann auch über Zivilforderungen entscheiden, sofern deren Beurteilung ohne besondere Untersuchung möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Persönliches Erscheinen und Ausschluss",
+        "citation": "Art. 35 Abs. 1 JStPO",
+        "content": "Die oder der beschuldigte Jugendliche und die gesetzliche Vertretung haben an der Hauptverhandlung vor dem Jugendgericht und der Berufungsinstanz persönlich zu erscheinen, wenn sie nicht davon dispensiert worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_35"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Persönliches Erscheinen und Ausschluss",
+        "citation": "Art. 35 Abs. 2 JStPO",
+        "content": "Das Gericht kann die oder den Jugendlichen, die gesetzliche Vertretung und die Vertrauensperson von der Hauptverhandlung ganz oder teilweise ausschliessen, sofern überwiegende private oder öffentliche Interessen dies rechtfertigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_35"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Abwesenheitsverfahren",
+        "citation": "Art. 36 JStPO",
+        "content": "Das Abwesenheitsverfahren ist nur möglich, wenn:\na. die oder der beschuldigte Jugendliche trotz zweimaliger Vorladung nicht zur Hauptverhandlung erscheint;\nb. sie oder er durch die Untersuchungsbehörde einvernommen worden ist;\nc. die Beweislage ein Urteil in ihrer Abwesenheit zulässt; und\nd. einzig eine Strafe in Betracht kommt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_36"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 1 JStPO",
+        "content": "Das Urteil ist nach Möglichkeit mündlich zu eröffnen und zu begründen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 2 JStPO",
+        "content": "Das Gericht händigt den Parteien und den anderen Verfahrensbeteiligten am Ende der Hauptverhandlung das Urteilsdispositiv aus oder stellt es ihnen innert fünf Tagen zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 3 JStPO",
+        "content": "Das Urteil wird schriftlich begründet und zugestellt:\na. der oder dem urteilsfähigen beschuldigten Jugendlichen und der gesetzlichen Vertretung;\nb. der Jugendanwältin oder dem Jugendanwalt beziehungsweise der Jugendstaatsanwaltschaft;\nc. der Privatklägerschaft und den anderen Verfahrensbeteiligten, soweit ihre Anträge behandelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 4 JStPO",
+        "content": "Das Gericht kann auf eine schriftliche Begründung verzichten, wenn:\na. es das Urteil mündlich begründet; und \nb. keinen Freiheitsentzug und keine Schutzmassnahme verhängt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 5 JStPO",
+        "content": "Das Gericht stellt den Parteien nachträglich ein begründetes Urteil zu, wenn:\na. eine Partei dies innert zehn Tagen nach Zustellung des Dispositivs verlangt;\nb. eine Partei ein Rechtsmittel ergreift.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 6. Kapitel: Verfahren, 4. Abschnitt: Hauptverhandlung, Urteilseröffnung und -begründung",
+        "citation": "Art. 37 Abs. 6 JStPO",
+        "content": "Ergreift nur die Privatklägerschaft ein Rechtsmittel, so begründet das Gericht das Urteil nur insoweit, als dieses sich auf das strafbare Verhalten zum Nachteil der Privatklägerschaft oder auf deren Zivilansprüche bezieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Legitimation",
+        "citation": "Art. 38 Abs. 1 JStPO",
+        "content": "Zum Ergreifen von Rechtsmitteln sind legitimiert:\na. die oder der urteilsfähige Jugendliche; und\nb. die gesetzliche Vertretung oder, wo diese fehlt, die Behörde des Zivilrechts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Legitimation",
+        "citation": "Art. 38 Abs. 2 JStPO",
+        "content": "Das Recht zur Berufung steht jener Behörde zu, die vor dem Jugendgericht die Anklage vertreten hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Legitimation",
+        "citation": "Art. 38 Abs. 3 JStPO",
+        "content": "Im Übrigen ist Artikel 382 StPO anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Beschwerde",
+        "citation": "Art. 39 Abs. 1 JStPO",
+        "content": "Die Zulässigkeit der Beschwerde und die Beschwerdegründe richten sich nach Artikel 393 StPO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Beschwerde",
+        "citation": "Art. 39 Abs. 2 JStPO",
+        "content": "Die Beschwerde ist überdies zulässig gegen:\na. die vorsorgliche Anordnung von Schutzmassnahmen;\nb. die Anordnung der Beobachtung;\nc. den Entscheid über die Einschränkung der Akteneinsicht;\nd. die Anordnung der Untersuchungs- und Sicherheitshaft;\ne. andere verfahrensleitende Entscheide, sofern sie einen nicht wiedergutzumachenden Nachteil zur Folge haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Beschwerde",
+        "citation": "Art. 39 Abs. 3 JStPO",
+        "content": "Für den Entscheid zuständig ist die Beschwerdeinstanz; bei Beschwerden gegen die Anordnung der Untersuchungs- und Sicherheitshaft das Zwangsmassnahmengericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Berufung",
+        "citation": "Art. 40 Abs. 1 JStPO",
+        "content": "Die Berufungsinstanz entscheidet über:\na. Berufungen gegen erstinstanzliche Urteile des Jugendgerichts;\nb. die Aussetzung einer vorsorglich angeordneten Schutzmassnahme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_40"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Berufung",
+        "citation": "Art. 40 Abs. 2 JStPO",
+        "content": "Ist ein Fall bei der Berufungsinstanz hängig, so ist diese für die Anordnung der gesetzlich vorgesehenen Zwangsmassnahmen zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_40"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 7. Kapitel: Rechtsmittel, Revision",
+        "citation": "Art. 41 JStPO",
+        "content": "Über Revisionsgesuche entscheidet das Jugendgericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_41"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 8. Kapitel: Vollzug von Sanktionen, Zuständigkeit",
+        "citation": "Art. 42 Abs. 1 JStPO",
+        "content": "Für den Vollzug von Strafen und Schutzmassnahmen ist die Untersuchungsbehörde zuständig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_42"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 8. Kapitel: Vollzug von Sanktionen, Zuständigkeit",
+        "citation": "Art. 42 Abs. 2 JStPO",
+        "content": "Für den Vollzug können öffentliche und private Einrichtungen sowie Privatpersonen beigezogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_42"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 8. Kapitel: Vollzug von Sanktionen, Rechtsmittel",
+        "citation": "Art. 43 JStPO",
+        "content": "Mittels Beschwerde können angefochten werden:\na. die Änderung der Massnahme;\nb. die Überweisung an eine andere Einrichtung;\nc. die Verweigerung oder der Widerruf der bedingten Entlassung;\nd. die Beendigung der Massnahme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_43"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Verfahrenskosten",
+        "citation": "Art. 44 Abs. 1 JStPO",
+        "content": "Die Verfahrenskosten werden vorerst von dem Kanton getragen, in dem das Urteil gefällt wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Verfahrenskosten",
+        "citation": "Art. 44 Abs. 2 JStPO",
+        "content": "Im Übrigen gelten die Artikel 422–428 StPO sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Verfahrenskosten",
+        "citation": "Art. 44 Abs. 3 JStPO",
+        "content": "Sind die Voraussetzungen für eine Kostenauflage zulasten der oder des beschuldigten Jugendlichen erfüllt (Art. 426 StPO), so können ihre oder seine Eltern für die Kosten solidarisch haftbar erklärt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 1 JStPO",
+        "content": "Als Vollzugskosten gelten:\na. die Kosten des Vollzugs von Schutzmassnahmen und Strafen;\nb. die Kosten einer im Laufe des Verfahrens angeordneten Beobachtung oder vorsorglichen Unterbringung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 2 JStPO",
+        "content": "Der Kanton, in dem die oder der Jugendliche bei Eröffnung des Verfahrens den Wohnsitz hatte, trägt sämtliche Vollzugskosten mit Ausnahme der Kosten des Strafvollzugs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 3 JStPO",
+        "content": "Der Urteilskanton trägt:\na. sämtliche Vollzugskosten für Jugendliche, die in der Schweiz keinen Wohnsitz haben;\nb. die Kosten des Strafvollzugs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 4 JStPO",
+        "content": "Vertragliche Regelungen der Kantone über die Kostenverteilung bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 5 JStPO",
+        "content": "Die Eltern beteiligen sich im Rahmen ihrer zivilrechtlichen Unterhaltspflicht an den Kosten der Schutzmassnahmen und der Beobachtung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "JStPO, 9. Kapitel: Kosten, Vollzugskosten",
+        "citation": "Art. 45 Abs. 6 JStPO",
+        "content": "Verfügt die oder der Jugendliche über ein regelmässiges Erwerbseinkommen oder über Vermögen, so kann sie oder er zu einem angemessenen Beitrag an die Vollzugskosten verpflichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/de#art_45"
+    }
+]

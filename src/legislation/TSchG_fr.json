@@ -1,0 +1,618 @@
+[
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, But",
+        "citation": "Art. 1 LPA",
+        "content": "La présente loi vise à protéger la dignité et le bien-être de l’animal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_1"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Champ d’application",
+        "citation": "Art. 2 al. 1 LPA",
+        "content": "La présente loi s’applique aux vertébrés. Le Conseil fédéral détermine à quels invertébrés elle s’applique et dans quelle mesure. Il s’appuie à cet égard sur les résultats de la recherche scientifique menée sur les capacités sensitives de ces derniers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_2"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Champ d’application",
+        "citation": "Art. 2 al. 2 LPA",
+        "content": "Sont réservées la loi du 20 juin 1986 sur la chasse, la loi fédérale du 1er juillet 1966 sur la protection de la nature et du paysage, la loi fédérale du 21 juin 1991 sur la pêche, la loi fédérale du 13 décembre 2002 sur la formation professionnelle ainsi que la loi du 1er juillet 1966 sur les épizooties.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_2"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Définitions",
+        "citation": "Art. 3 LPA",
+        "content": "Au sens de la présente loi, on entend par:\na. dignité: la valeur propre de l’animal, qui doit être respectée par les personnes qui s’en occupent; il y a atteinte à la dignité de l’animal lorsque la contrainte qui lui est imposée ne peut être justifiée par des intérêts prépondérants; il y a contrainte notamment lorsque des douleurs, des maux ou des dommages sont causés à l’animal, lorsqu’il est mis dans un état d’anxiété ou avili, lorsqu’on lui fait subir des interventions modifiant profondément son phénotype ou ses capacités, ou encore lorsqu’il est instrumentalisé de manière excessive;\nb. bien-être: le bien-être des animaux est notamment réalisé:\n1. lorsque leur détention et leur alimentation sont telles que leurs fonctions corporelles et leur comportement ne sont pas perturbés et que leur capacité d’adaptation n’est pas sollicitée de manière excessive,\n2. lorsqu’ils ont la possibilité de se comporter conformément à leur espèce dans les limites de leur capacité d’adaptation biologique,\n3. lorsqu’ils sont cliniquement sains,\n4. lorsque les douleurs, les maux, les dommages et l’anxiété leur sont épargnés;\nc. expérience sur les animaux: toute intervention au cours de laquelle des animaux vivants sont utilisés pour:\n1. vérifier une hypothèse scientifique,\n2. vérifier les effets d’une mesure déterminée sur l’animal,\n3. tester une substance,\n4. prélever ou examiner des cellules, des organes ou des liquides organiques, sauf si ces actes sont réalisés dans le cadre de la production agricole ou d’une activité diagnostique ou curative sur l’animal, ou dans le but de vérifier le statut sanitaire de populations animales,\n5. obtenir ou reproduire des organismes étrangers à l’espèce,\n6. l’enseignement, la formation ou la formation continue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_3"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Principes",
+        "citation": "Art. 4 al. 1 LPA",
+        "content": "Toute personne qui s’occupe d’animaux doit:\na. tenir compte au mieux de leurs besoins;\nb. veiller à leur bien-être dans la mesure où le but de leur utilisation le permet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_4"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Principes",
+        "citation": "Art. 4 al. 2 LPA",
+        "content": "Personne ne doit de façon injustifiée causer à des animaux des douleurs, des maux ou des dommages, les mettre dans un état d’anxiété ou porter atteinte à leur dignité d’une autre manière. Il est interdit de maltraiter les animaux, de les négliger ou de les surmener inutilement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_4"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Principes",
+        "citation": "Art. 4 al. 3 LPA",
+        "content": "Le Conseil fédéral interdit les autres pratiques sur des animaux qui portent atteinte à leur dignité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_4"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Formation et information",
+        "citation": "Art. 5 al. 1 LPA",
+        "content": "La Confédération peut encourager la formation et la formation continue des personnes qui s’occupent d’animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_5"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Formation et information",
+        "citation": "Art. 5 al. 1bis LPA",
+        "content": "Le Conseil fédéral peut prévoir la reconnaissance de certaines formations et formations continues par la Confédération ou par les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_5"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 1, Généralités, Formation et information",
+        "citation": "Art. 5 al. 2 LPA",
+        "content": "La Confédération veille à l’information du public en matière de protection des animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_5"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Exigences générales",
+        "citation": "Art. 6 al. 1 LPA",
+        "content": "Toute personne qui détient des animaux ou en assume la garde doit, d’une manière appropriée, les nourrir, en prendre soin, leur garantir l’activité et la liberté de mouvement nécessaires à leur bien-être et, s’il le faut, leur fournir un gîte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_6"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Exigences générales",
+        "citation": "Art. 6 al. 2 LPA",
+        "content": "Après avoir consulté les milieux intéressés, le Conseil fédéral édicte des dispositions sur la détention d’animaux, en particulier des exigences minimales, en tenant compte des connaissances scientifiques, des expériences faites et de l’évolution des techniques. Il interdit les formes de détention qui contreviennent aux principes de la protection des animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_6"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Exigences générales",
+        "citation": "Art. 6 al. 3 LPA",
+        "content": "Il peut fixer les exigences auxquelles doivent satisfaire la formation et la formation continue des détenteurs d’animaux et des personnes qui éduquent des animaux ou qui leur apportent des soins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_6"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Régimes de l’annonce et de l’autorisation, interdictions",
+        "citation": "Art. 7 al. 1 LPA",
+        "content": "Le Conseil fédéral peut rendre obligatoires l’annonce de certaines formes de détention, l’annonce de la détention de certaines espèces animales et l’annonce de certains soins, ou les soumettre à autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_7"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Régimes de l’annonce et de l’autorisation, interdictions",
+        "citation": "Art. 7 al. 2 LPA",
+        "content": "La commercialisation des systèmes de stabulation et des équipements d’étables fabriqués en séries qui sont destinés aux animaux de rente est soumise à une autorisation de la Confédération. L’autorisation n’est accordée que si ces systèmes et équipements satisfont aux exigences d’une détention convenable. Le Conseil fédéral fixe la procédure d’autorisation et détermine à quels animaux de rente elle s’applique. Il peut prévoir, pour certaines formes de détention, des dérogations au régime de l’autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_7"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Régimes de l’annonce et de l’autorisation, interdictions",
+        "citation": "Art. 7 al. 3 LPA",
+        "content": "La détention, à des fins lucratives ou à titre privé, d’animaux sauvages qui requièrent des soins particuliers ou des conditions de détention spéciales est soumise à autorisation. L’importation de cétacés est interdite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_7"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Régimes de l’annonce et de l’autorisation, interdictions",
+        "citation": "Art. 7 al. 4 LPA",
+        "content": "Le Conseil fédéral peut rendre obligatoires l’annonce de la commercialisation et l’annonce de l’utilisation de moyens auxiliaires et d’appareils destinés à la formation et au contrôle des animaux qui leur causent des douleurs, les soumettre à autorisation ou les interdire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_7"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Protection des investissements",
+        "citation": "Art. 8 LPA",
+        "content": "Les bâtiments et installations destinés aux animaux de rente qui ont été autorisés en application de la présente loi peuvent être utilisés après leur construction au moins pendant la durée ordinaire d’amortissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_8"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 1, Détention d’animaux, Gardiens d’animaux",
+        "citation": "Art. 9 LPA",
+        "content": "Le Conseil fédéral peut déterminer dans quels secteurs, mis à part l’agriculture, l’emploi de gardiens d’animaux est nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_9"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Élevage et production d’animaux",
+        "citation": "Art. 10 al. 1 LPA",
+        "content": "L’utilisation de méthodes d’élevage et de reproduction naturelles et artificielles ne doit pas causer, chez les parents et chez les descendants, des douleurs, des maux, des dommages ou des troubles du comportement qui seraient liés directement ou indirectement au but de l’élevage; les dispositions relatives à l’expérimentation animale sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_10"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Élevage et production d’animaux",
+        "citation": "Art. 10 al. 2 LPA",
+        "content": "Le Conseil fédéral édicte des dispositions sur l’élevage et la production d’animaux et fixe les critères permettant d’évaluer l’admissibilité des buts de l’élevage et des méthodes de reproduction; ce faisant, il tient compte de la dignité de l’animal. Il peut interdire l’élevage, la production, la détention, l’importation, le transit, l’exportation et la commercialisation d’animaux présentant des caractéristiques particulières, notamment des anomalies dans leur anatomie ou dans leur comportement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_10"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Régime de l’autorisation pour les animaux génétiquement modifiés",
+        "citation": "Art. 11 al. 1 LPA",
+        "content": "Quiconque produit, élève, détient, commercialise ou utilise des animaux génétiquement modifiés doit être titulaire d’une autorisation cantonale. Quiconque produit, élève, détient ou commercialise de tels animaux à des fins de recherche, de thérapie ou de diagnostic doit être titulaire d’une autorisation cantonale délivrée conformément à l’art. 19, al. 1. Dans les autres cas, la procédure d’autorisation est régie par les dispositions sur l’expérimentation animale et par la loi du 21 mars 2003 sur le génie génétique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_11"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Régime de l’autorisation pour les animaux génétiquement modifiés",
+        "citation": "Art. 11 al. 2 LPA",
+        "content": "Après avoir consulté les milieux intéressés, la Commission fédérale d’éthique pour la biotechnologie dans le domaine non humain, la Commission fédérale d’experts pour la sécurité biologique et la Commission fédérale pour les expériences sur animaux, le Conseil fédéral fixe les critères permettant de pondérer les intérêts lors de la production, de l’élevage, de la détention, de la commercialisation et de l’utilisation d’animaux génétiquement modifiés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_11"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Régime de l’autorisation pour les animaux génétiquement modifiés",
+        "citation": "Art. 11 al. 3 LPA",
+        "content": "Le Conseil fédéral définit les exigences auxquelles doivent satisfaire les instituts qui exécutent des actes visés à l’al. 1, deuxième phrase, notamment les exigences concernant les infrastructures, le personnel, la surveillance et la documentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_11"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Régime de l’autorisation pour les animaux génétiquement modifiés",
+        "citation": "Art. 11 al. 4 LPA",
+        "content": "Le Conseil fédéral peut prévoir des dérogations au régime de l’autorisation ou une simplification de la procédure d’autorisation, notamment lorsqu’il est établi que les animaux ne subissent pas de douleurs, de maux, de dommages ou de troubles du comportement qui découleraient de la production ou de l’élevage et que la dignité de l’animal est prise en compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_11"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Déclaration obligatoire",
+        "citation": "Art. 12 al. 1 LPA",
+        "content": "Les animaux auxquels la production ou l’élevage provoquent des douleurs, des maux, des dommages ou des troubles du comportement, ou à la dignité desquels il est porté atteinte de toute autre manière doivent faire l’objet d’une déclaration à l’autorité cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_12"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Déclaration obligatoire",
+        "citation": "Art. 12 al. 2 LPA",
+        "content": "L’autorité cantonale transmet les déclarations à la commission cantonale pour les expériences sur les animaux et, sur la base de la proposition de cette dernière, statue sur la poursuite de l’élevage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_12"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 2, Élevage d’animaux et modifications obtenues par génie génétique, Déclaration obligatoire",
+        "citation": "Art. 12 al. 3 LPA",
+        "content": "Le Conseil fédéral règle les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_12"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 3, Circulation d’animaux et de produits d’origine animale, Régimes de l’autorisation et de l’annonce",
+        "citation": "Art. 13 al. 1 LPA",
+        "content": "Le commerce professionnel d’animaux et l’utilisation d’animaux vivants à des fins publicitaires sont soumis à autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_13"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 3, Circulation d’animaux et de produits d’origine animale, Régimes de l’autorisation et de l’annonce",
+        "citation": "Art. 13 al. 2 LPA",
+        "content": "Le Conseil fédéral peut rendre obligatoire l’annonce de manifestations suprarégionales impliquant des animaux ou les soumettre à autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_13"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 3, Circulation d’animaux et de produits d’origine animale, Conditions, restrictions et interdictions",
+        "citation": "Art. 14 al. 1 LPA",
+        "content": "Le Conseil fédéral peut, pour des raisons relevant de la protection des animaux, soumettre l’importation, le transit et l’exportation d’animaux et de produits d’origine animale à certaines conditions, les limiter ou les interdire. L’importation de viande kascher et de viande halal pour assurer un approvisionnement suffisant des communautés juive et musulmane en viande de ce type est réservée. Le droit d’importer et le droit de se procurer de la viande kascher ou halal sont réservés aux membres de ces communautés ainsi qu’aux personnes morales et aux sociétés de personnes qui leur sont affiliées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_14"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 3, Circulation d’animaux et de produits d’origine animale, Conditions, restrictions et interdictions",
+        "citation": "Art. 14 al. 2 LPA",
+        "content": "L’importation, le transit, l’exportation et le commerce de peaux de chat ou de chien et de produits fabriqués à partir de telles peaux sont interdits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_14"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 4, Transports d’animaux, Principes",
+        "citation": "Art. 15 al. 1 LPA",
+        "content": "Les transports d’animaux doivent être effectués avec ménagement et sans retard inutile. La durée du trajet ne doit pas excéder six heures à compter du lieu de chargement. Le Conseil fédéral édicte les dispositions dérogatoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_15"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 4, Transports d’animaux, Principes",
+        "citation": "Art. 15 al. 2 LPA",
+        "content": "Le Conseil fédéral fixe, après avoir consulté les organisations professionnelles, les exigences auxquelles doivent satisfaire la formation et la formation continue du personnel chargé des transports effectués à titre professionnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_15"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 4, Transports d’animaux, Transports internationaux d’animaux",
+        "citation": "Art. 15a al. 1 LPA",
+        "content": "Le transport international d’animaux à titre professionnel est soumis à autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_15_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 4, Transports d’animaux, Transports internationaux d’animaux",
+        "citation": "Art. 15a al. 2 LPA",
+        "content": "Le Conseil fédéral peut déterminer quelles normes internationales sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_15_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 4, Transports d’animaux, Transports internationaux d’animaux",
+        "citation": "Art. 15a al. 3 LPA",
+        "content": "Le transit par la Suisse de bovins, de moutons, de chèvres et de porcs, de chevaux d’abattage et de volailles d’abattage n’est admis que par le rail ou par avion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_15_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 5, Interventions sur les animaux",
+        "citation": "Art. 16 LPA",
+        "content": "Les interventions causant des douleurs ne peuvent être pratiquées que sous anesthésie générale ou locale par une personne compétente. Le Conseil fédéral fixe les dérogations. Il détermine les personnes considérées comme compétentes. Les dispositions de la présente loi concernant l’expérimentation animale sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_16"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Limitation des expériences à l’indispensable",
+        "citation": "Art. 17 LPA",
+        "content": "Les expériences qui peuvent causer aux animaux des douleurs, des maux ou des dommages, les mettre dans un état d’anxiété, perturber notablement leur état général ou porter atteinte à leur dignité d’une autre manière doivent être limitées à l’indispensable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_17"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Régime de l’autorisation",
+        "citation": "Art. 18 al. 1 LPA",
+        "content": "Toute personne qui entend effectuer des expériences sur les animaux doit être titulaire d’une autorisation de l’autorité cantonale compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_18"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Régime de l’autorisation",
+        "citation": "Art. 18 al. 2 LPA",
+        "content": "Les pratiques appliquées dans les cas visés à l’art. 11, al. 1, dernière phrase, sont assimilées aux expériences sur les animaux du point de vue de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_18"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Régime de l’autorisation",
+        "citation": "Art. 18 al. 3 LPA",
+        "content": "L’autorité cantonale compétente soumet les demandes d’autorisation pour les expériences sur les animaux visées à l’art. 17 à la commission cantonale pour les expériences sur les animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_18"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Régime de l’autorisation",
+        "citation": "Art. 18 al. 4 LPA",
+        "content": "La durée de validité des autorisations doit être limitée. Les autorisations peuvent être subordonnées à des conditions et liées à des charges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_18"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Régime de l’autorisation",
+        "citation": "Art. 18 al. 5 LPA",
+        "content": "Les instituts et les laboratoires qui pratiquent l’expérimentation animale ainsi que les établissements qui détiennent des animaux destinés à l’expérimentation doivent tenir un registre des animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_18"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exigences",
+        "citation": "Art. 19 al. 1 LPA",
+        "content": "Le Conseil fédéral fixe les exigences auxquelles doivent satisfaire les instituts et les laboratoires autorisés à pratiquer l’expérimentation animale, les exigences relatives à la formation et la formation continue du personnel et celles que les établissements détenant ou élevant des animaux destinés à l’expérimentation, ou en faisant le commerce, doivent remplir pour obtenir une autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_19"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exigences",
+        "citation": "Art. 19 al. 2 LPA",
+        "content": "Le Conseil fédéral fixe les critères permettant de déterminer quelles expériences sont indispensables au sens de l’art. 17.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_19"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exigences",
+        "citation": "Art. 19 al. 3 LPA",
+        "content": "Le Conseil fédéral peut déclarer certains buts d’expérience illicites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_19"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exigences",
+        "citation": "Art. 19 al. 4 LPA",
+        "content": "Les expériences sur les animaux sont notamment illicites lorsque les douleurs, les maux, les dommages ou l’état d’anxiété causés à l’animal sont disproportionnés par rapport au bénéfice escompté en termes de connaissances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_19"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exécution des expériences",
+        "citation": "Art. 20 al. 1 LPA",
+        "content": "Des douleurs, des maux, des dommages ou un état d’anxiété ne peuvent être imposés à un animal que si le but de l’expérience ne peut être atteint d’une autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exécution des expériences",
+        "citation": "Art. 20 al. 2 LPA",
+        "content": "Des expériences ne peuvent être exécutées sur des animaux d’un rang élevé du point de vue de l’évolution que s’il n’est pas possible d’atteindre le but visé avec des animaux d’un rang moins élevé, et pour autant qu’il n’existe pas de méthode de substitution appropriée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Exécution des expériences",
+        "citation": "Art. 20 al. 3 LPA",
+        "content": "Le Conseil fédéral fixe les autres exigences relatives à l’exécution des expériences.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Information du public",
+        "citation": "Art. 20a al. 1 LPA",
+        "content": "À l’issue de toute expérience sur des animaux, l’Office fédéral de la sécurité alimentaire et des affaires vétérinaires (OSAV) publie les informations suivantes:\na. le titre de l’expérience et le domaine concerné;\nb. le but de l’expérience;\nc. le nombre d’animaux de chaque espèce utilisés;\nd. la gravité de la contrainte imposée aux animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Information du public",
+        "citation": "Art. 20a al. 2 LPA",
+        "content": "Le Conseil fédéral peut prévoir la publication d’autres informations, à moins que des intérêts privés ou publics prépondérants dignes de protection s’y opposent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6, Expérimentation animale, Information du public",
+        "citation": "Art. 20a al. 3 LPA",
+        "content": "Il règle les modalités, notamment le degré de précision des informations que doivent fournir les personnes responsables de l’expérience. Ce faisant, il tient compte des intérêts privés ou publics prépondérants dignes de protection.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_a"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, But et contenu",
+        "citation": "Art. 20b al. 1 LPA",
+        "content": "La Confédération exploite un système d’information destiné à faciliter l’accomplissement des tâches légales de la Confédération et des cantons dans le domaine de l’expérimentation animale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_b"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, But et contenu",
+        "citation": "Art. 20b al. 2 LPA",
+        "content": "Le système d’information contient les données personnelles suivantes:\na. données sur les poursuites et les sanctions administratives et pénales;\nb. données sur les autorisations et sur la surveillance des expériences sur les animaux;\nc. données sur les autorisations d’exploiter un établissement qui détient des animaux destinés à l’expérimentation, qui les élève ou qui en fait le commerce et sur la surveillance de ces établissements;\nd. données sur les annonces des lignées ou des souches animales présentant un phénotype invalidant;\ne. données relatives à la formation et à la formation continue;\nf. données nécessaires à la publication de la statistique annuelle de l’expérimentation animale;\ng. données nécessaires à la gestion des utilisateurs et du système.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_b"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, Accès aux données",
+        "citation": "Art. 20c al. 1 LPA",
+        "content": "Les personnes suivantes peuvent traiter des données personnelles, y compris des données sensibles, et accéder à ces données en ligne, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales:\na. les collaborateurs de l’OSAV qui assument des tâches dans le cadre de la haute surveillance;\nb. les collaborateurs des autorités cantonales chargées d’établir les autorisations, dans leur domaine de compétence;\nc. les membres des commissions cantonales pour les expériences sur les animaux, dans leur domaine de compétence;\nd. les collaborateurs des instituts, des laboratoires et des établissements qui détiennent des animaux destinés à l’expérimentation, les élèvent ou en font le commerce, dans leur domaine de compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_c"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, Accès aux données",
+        "citation": "Art. 20c al. 2 LPA",
+        "content": "Les collaborateurs des autorités cantonales chargées d’établir les autorisations et les membres des commissions cantonales peuvent consulter en ligne les données concernant les demandes d’autorisation déposées dans les autres cantons et les décisions prises en la matière, pour autant que cela soit nécessaire à l’accomplissement de leurs tâches légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_c"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, Émoluments",
+        "citation": "Art. 20d LPA",
+        "content": "La Confédération perçoit des émoluments auprès des cantons pour l’utilisation du système d’information. Le Conseil fédéral en fixe le montant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_d"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 6a, Système d’information dans le domaine de l’expérimentation animale, Dispositions complémentaires",
+        "citation": "Art. 20e LPA",
+        "content": "Le Conseil fédéral règle:\na. la collaboration avec les cantons;\nb. l’inventaire des données;\nc. les responsabilités relatives au traitement des données;\nd. les droits d’accès, notamment l’étendue des accès en ligne;\ne. les mesures organisationnelles et techniques nécessaires pour assurer la protection et la sécurité des données, notamment les conditions de l’accès en ligne;\nf. l’archivage;\ng. les délais de conservation et de radiation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_20_e"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 7, Abattage d’animaux",
+        "citation": "Art. 21 al. 1 LPA",
+        "content": "Les mammifères ne peuvent être abattus que s’ils sont étourdis avant d’être saignés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_21"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 7, Abattage d’animaux",
+        "citation": "Art. 21 al. 2 LPA",
+        "content": "Le Conseil fédéral peut prescrire l’étourdissement pour l’abattage d’autres animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_21"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 7, Abattage d’animaux",
+        "citation": "Art. 21 al. 3 LPA",
+        "content": "Le Conseil fédéral spécifie les méthodes d’étourdissement autorisées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_21"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 2, Manière de traiter les animaux, Section 7, Abattage d’animaux",
+        "citation": "Art. 21 al. 4 LPA",
+        "content": "Le Conseil fédéral fixe, après avoir consulté les organisations professionnelles, les exigences auxquelles doivent satisfaire la formation et la formation continue du personnel des abattoirs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_21"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 3, Recherche",
+        "citation": "Art. 22 al. 1 LPA",
+        "content": "La Confédération fait de la recherche scientifique dans les domaines déterminants pour la protection des animaux et la soutient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_22"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 3, Recherche",
+        "citation": "Art. 22 al. 2 LPA",
+        "content": "Elle encourage notamment, en collaboration avec les hautes écoles et l’industrie, le développement, la reconnaissance et l’application de méthodes qui peuvent remplacer des expériences sur les animaux ou réduire soit le nombre des animaux utilisés, soit les contraintes qui leur sont imposées. Elle encourage plus particulièrement les projets de recherche qui ont pour objet l’élimination des douleurs, des maux ou de l’anxiété liés aux interventions visées à l’art. 16.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_22"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Interdiction de détenir des animaux",
+        "citation": "Art. 23 al. 1 LPA",
+        "content": "L’autorité compétente peut interdire pour une durée déterminée ou indéterminée la détention, le commerce ou l’élevage d’animaux, ou l’exercice d’une activité professionnelle impliquant l’utilisation d’animaux:\na. aux personnes qui ont été sanctionnées pour avoir enfreint à plusieurs reprises ou de manière grave des dispositions de la présente loi, des dispositions d’exécution ou des décisions d’application;\nb. aux personnes qui, pour d’autres raisons, sont incapables de détenir ou d’élever des animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_23"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Interdiction de détenir des animaux",
+        "citation": "Art. 23 al. 2 LPA",
+        "content": "L’interdiction prononcée par un canton en vertu de l’al. 1 est applicable sur tout le territoire suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_23"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Interdiction de détenir des animaux",
+        "citation": "Art. 23 al. 3 LPA",
+        "content": "L’OSAV tient un registre des interdictions qui ont été prononcées. Ce registre peut être consulté par les services cantonaux spécialisés visés à l’art. 33 pour l’accomplissement de leurs tâches légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_23"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Interdiction de détenir des animaux",
+        "citation": "Art. 23 al. 4 LPA",
+        "content": "Le Conseil fédéral peut conclure des traités internationaux d’échange d’informations sur les interdictions prononcées. Il peut prévoir que les interdictions prononcées à l’étranger sont applicables sur le territoire suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_23"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Intervention de l’autorité",
+        "citation": "Art. 24 al. 1 LPA",
+        "content": "L’autorité compétente intervient immédiatement lorsqu’il est constaté que des animaux sont négligés ou que leurs conditions de détention sont totalement inappropriées. Elle peut les séquestrer préventivement et leur fournir un gîte approprié, aux frais du détenteur; si nécessaire, elle fait vendre ou mettre à mort les animaux. À cet effet, elle peut faire appel aux organes de police.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_24"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Intervention de l’autorité",
+        "citation": "Art. 24 al. 2 LPA",
+        "content": "Le produit de la vente de l’animal revient à son détenteur, après déduction des frais de procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_24"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Intervention de l’autorité",
+        "citation": "Art. 24 al. 3 LPA",
+        "content": "Les autorités chargées de l’exécution dénoncent toutes les infractions à la présente loi qu’elles ont constatées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_24"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Intervention de l’autorité",
+        "citation": "Art. 24 al. 4 LPA",
+        "content": "Dans les cas de peu de gravité, elles peuvent renoncer à dénoncer l’infraction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_24"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Droit de recours des autorités",
+        "citation": "Art. 25 al. 1 LPA",
+        "content": "L’OSAV a qualité pour recourir contre les décisions des autorités cantonales relatives à l’expérimentation animale en utilisant les voies de recours du droit cantonal et du droit fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_25"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 4, Mesures administratives et droit de recours des autorités, Droit de recours des autorités",
+        "citation": "Art. 25 al. 2 LPA",
+        "content": "Les autorités cantonales notifient immédiatement leurs décisions à l’OSAV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_25"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Mauvais traitements infligés aux animaux",
+        "citation": "Art. 26 al. 1 LPA",
+        "content": "Est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:\na. maltraite un animal, le néglige ou le surmène inutilement ou porte atteinte à sa dignité d’une autre manière;\nb. met à mort des animaux de façon cruelle ou par malice;\nc. organise des combats entre animaux ou impliquant des animaux au cours desquels ceux-ci sont maltraités ou mis à mort;\nd. cause à un animal, lors d’expériences, des douleurs, des maux ou des dommages ou le met dans un état d’anxiété alors que le but visé aurait pu être atteint d’une autre manière;\ne. abandonne ou relâche un animal domestique ou un animal détenu dans une exploitation, dans l’intention de s’en défaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_26"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Mauvais traitements infligés aux animaux",
+        "citation": "Art. 26 al. 2 LPA",
+        "content": "Si l’auteur agit par négligence, il est puni d’une peine pécuniaire de 180 jours-amende au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_26"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Infractions en matière de circulation d’animaux et de produits d’origine animale",
+        "citation": "Art. 27 al. 2 LPA",
+        "content": "Quiconque, intentionnellement, contrevient à l’art. 14 soumettant à certaines conditions, limitant ou interdisant la circulation d’animaux ou de produits d’origine animale est puni d’une amende de 20 000 francs au plus. La tentative, la complicité et l’instigation sont punissables. Si l’auteur agit par négligence, il est puni de l’amende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_27"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Autres infractions",
+        "citation": "Art. 28 al. 1 LPA",
+        "content": "Sous réserve de l’art. 26, est puni d’une amende de 20 000 francs au plus quiconque, intentionnellement:\na. contrevient aux dispositions concernant la détention d’animaux;\nb. contrevient aux dispositions concernant l’élevage ou la production d’animaux;\nc. contrevient aux dispositions concernant la production, l’élevage, la détention, la commercialisation ou l’utilisation d’animaux génétiquement modifiés;\nd. contrevient aux dispositions concernant le transport d’animaux;\ne. contrevient aux dispositions concernant les interventions ou les expériences sur les animaux;\nf. contrevient aux dispositions concernant l’abattage;\ng. se livre sur des animaux à d’autres pratiques interdites par la présente loi ou par son ordonnance;\nh. contrevient aux dispositions concernant le commerce d’animaux à titre professionnel;\ni. contrevient aux dispositions concernant l’utilisation d’animaux vivants à des fins publicitaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_28"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Autres infractions",
+        "citation": "Art. 28 al. 2 LPA",
+        "content": "La tentative, la complicité et l’instigation sont punissables. Si l’auteur agit par négligence, il est puni de l’amende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_28"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Autres infractions",
+        "citation": "Art. 28 al. 3 LPA",
+        "content": "Est puni d’une amende quiconque, intentionnellement ou par négligence, contrevient à une disposition d’exécution dont la violation a été déclarée punissable ou à une décision qui lui a été signifiée sous la menace de la peine prévue au présent article.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_28"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Prescription",
+        "citation": "Art. 29 LPA",
+        "content": "Pour les contraventions, l’action pénale se prescrit par cinq ans, la peine par quatre ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_29"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Personnes morales et sociétés commerciales",
+        "citation": "Art. 30 LPA",
+        "content": "L’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_30"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Poursuite pénale",
+        "citation": "Art. 31 al. 1 LPA",
+        "content": "La poursuite et le jugement des infractions sont du ressort des cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_31"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Poursuite pénale",
+        "citation": "Art. 31 al. 2 LPA",
+        "content": "L’OSAV poursuit et juge les infractions visées à l’art. 27, al. 2, qui sont constatées lors de l’importation, du transit ou de l’exportation d’animaux ou de produits d’origine animale aux postes d’inspection frontaliers agréés. S’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA, l’Office fédéral de la douane et de la sécurité des frontières (OFDF) poursuit et juge les infractions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_31"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Poursuite pénale",
+        "citation": "Art. 31 al. 3 LPA",
+        "content": "En cas d’importation, de transit ou d’exportation d’animaux ou de produits d’origine animale en dehors des postes d’inspection frontaliers agréés, l’OFDF poursuit et juge les infractions s’il y a simultanément infraction à la loi du 18 mars 2005 sur les douanes ou à la loi du 12 juin 2009 sur la TVA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_31"
+    },
+    {
+        "book": "TSchG",
+        "title": "LPA, Chapitre 5, Dispositions pénales, Poursuite pénale",
+        "citation": "Art. 31 al. 4 LPA",
+        "content": "Si un acte constitue à la fois une infraction visée aux al. 1 à 3 et une infraction à la loi fédérale du 16 mars 2012 sur les espèces protégées, à la loi du 18 mars 2005 sur les douanes, à la loi du 12 juin 2009 sur la TVA, à la loi du 20 juin 2014 sur les denrées alimentaires, à la loi du 1er juillet 1966 sur les épizooties, à la loi du 20 juin 1986 sur la chasse ou à la loi fédérale du 21 juin 1991 sur la pêche et qu’elles sont poursuivies par la même autorité, la peine prévue pour l’infraction la plus grave est appliquée; cette peine peut être augmentée de manière appropriée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2008/414/fr#art_31"
+    }
+]

@@ -1,0 +1,443 @@
+[
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Objet",
+        "citation": "Art. 1 LRS",
+        "content": "La présente loi définit les conditions auxquelles sont soumises la construction de nouveaux logements ainsi que la modification de logements existants et de leur affectation dans les communes qui comptent une proportion de résidences secondaires supérieure à 20 %.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_1"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 1 LRS",
+        "content": "Est un logement au sens de la présente loi un ensemble de locaux qui remplit les conditions suivantes:\na. être propre à un usage d’habitation;\nb. former une unité de construction;\nc. disposer d’un accès soit depuis l’extérieur, soit depuis un espace commun à plusieurs logements à l’intérieur du bâtiment;\nd. être équipé d’une installation de cuisine; et\ne. ne pas constituer un bien meuble.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_2"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 2 LRS",
+        "content": "Est une résidence principale au sens de la présente loi un logement occupé par une personne au moins ayant comme commune d’établissement au sens de l’art. 3, let. b, de la loi du 23 juin 2006 sur l’harmonisation de registres la commune dans laquelle se trouve le logement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_2"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 3 LRS",
+        "content": "Est assimilé à une résidence principale un logement qui remplit l’une des conditions suivantes:\na. être occupé durablement pour les besoins d’une activité lucrative ou d’une formation;\nb. être occupé durablement par un ménage privé qui occupe durablement un autre logement situé dans le même bâtiment;\nc. être occupé durablement par des personnes non tenues de s’annoncer au contrôle des habitants, notamment par du personnel diplomatique et des requérants d’asile;\nd. être vacant depuis deux ans au plus, habitable et proposé pour une location durable ou mis en vente (logement inoccupé);\ne. être utilisé pour l’agriculture et ne pas être accessible toute l’année à des fins agricoles en raison de son altitude;\nf. être utilisé par une entreprise pour l’hébergement de personnel pendant de courtes périodes; \ng. être utilisé comme logement de service pour des personnes qui travaillent notamment dans des établissements hôteliers, des hôpitaux et des foyers;\nh. être affecté temporairement et licitement à une autre utilisation que l’habitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_2"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 4 LRS",
+        "content": "Est une résidence secondaire au sens de la présente loi tout logement qui n’est ni une résidence principale ni un logement assimilé à une résidence principale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_2"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Tâches et compétences des cantons",
+        "citation": "Art. 3 al. 1 LRS",
+        "content": "Les cantons définissent au besoin, dans leur plan directeur, des mesures visant à favoriser une meilleure occupation des résidences secondaires ainsi que celles visant à promouvoir l’hôtellerie et des résidences principales à un prix avantageux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_3"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 1, Dispositions générales, Tâches et compétences des cantons",
+        "citation": "Art. 3 al. 2 LRS",
+        "content": "Les cantons peuvent édicter des dispositions qui limitent davantage que la présente loi la construction et l’utilisation de logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_3"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Inventaire des logements",
+        "citation": "Art. 4 al. 1 LRS",
+        "content": "Toute commune établit une fois par année un inventaire des logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_4"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Inventaire des logements",
+        "citation": "Art. 4 al. 2 LRS",
+        "content": "L’inventaire doit au moins indiquer le nombre total de logements et le nombre des résidences principales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_4"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Inventaire des logements",
+        "citation": "Art. 4 al. 3 LRS",
+        "content": "La commune peut en outre y faire figurer séparément la catégorie des logements assimilés à des résidences principales et imputer cette catégorie de logements aux résidences principales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_4"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Inventaire des logements",
+        "citation": "Art. 4 al. 4 LRS",
+        "content": "Le Conseil fédéral fixe les exigences relatives à l’inventaire des logements et les modalités de la publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_4"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Détermination de la proportion de résidences secondaires",
+        "citation": "Art. 5 al. 1 LRS",
+        "content": "La Confédération détermine, sur la base de l’inventaire des logements prévu à l’art. 4, la proportion de résidences secondaires par rapport au parc des logements d’une commune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_5"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Détermination de la proportion de résidences secondaires",
+        "citation": "Art. 5 al. 2 LRS",
+        "content": "Si la commune ne remet pas l’inventaire des logements dans les délais prescrits, elle est réputée avoir une proportion de résidences secondaires supérieure à 20 %. L’autorité fédérale compétente peut, sur requête de la commune, accorder un délai supplémentaire si des motifs valables le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_5"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Détermination de la proportion de résidences secondaires",
+        "citation": "Art. 5 al. 3 LRS",
+        "content": "Le Conseil fédéral désigne l’autorité fédérale habilitée à déterminer la proportion de résidences secondaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_5"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 2, Inventaire des logements et proportion de résidences secondaires, Détermination de la proportion de résidences secondaires",
+        "citation": "Art. 5 al. 4 LRS",
+        "content": "L’autorité fédérale ne rend sa décision qu’après avoir entendu le canton dans lequel se trouve la commune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_5"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 3, Interdiction de nouvelles résidences secondaires",
+        "citation": "Art. 6 al. 1 LRS",
+        "content": "Dans les communes dont la proportion de résidences secondaires déterminée conformément à l’art. 5 est supérieure à 20 %, aucune nouvelle résidence secondaire ne peut être autorisée. Si cette proportion est inférieure à 20 %, mais que l’octroi d’une autorisation de construire conduirait, dans une commune, au dépassement de cette limite de 20 %, l’autorisation ne peut pas être délivrée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_6"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 3, Interdiction de nouvelles résidences secondaires",
+        "citation": "Art. 6 al. 2 LRS",
+        "content": "Demeure réservée la création de nouveaux logements au sens de l’art. 7, al. 1, let. b, et des art. 8, 9, 26 ou 27.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_6"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Nouveaux logements soumis à une restriction d’utilisation",
+        "citation": "Art. 7 al. 1 LRS",
+        "content": "Dans les communes qui comptent une proportion de résidences secondaires supé- rieure à 20 %, de nouveaux logements ne peuvent être autorisés qu’à la condition d’être utilisés:\na. comme résidence principale ou comme logement assimilé à une résidence principale au sens de l’art. 2, al. 3; ou\nb. comme logement affecté à l’hébergement touristique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_7"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Nouveaux logements soumis à une restriction d’utilisation",
+        "citation": "Art. 7 al. 2 LRS",
+        "content": "Un logement est réputé affecté à l’hébergement touristique uniquement s’il est mis de manière durable à la disposition d’hôtes pour des séjours de courte durée, aux conditions usuelles du marché et conformes à l’usage local; de plus, il doit remplir l’une des conditions suivantes:\na. être situé dans le même bâtiment que celui où le propriétaire a son domicile principal;\nb. ne pas être équipé en fonction des besoins personnels du propriétaire et être mis sur le marché dans le cadre d’un établissement d’hébergement organisé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_7"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Nouveaux logements soumis à une restriction d’utilisation",
+        "citation": "Art. 7 al. 3 LRS",
+        "content": "L’autorité compétente pour les autorisations de construire assortit son autorisation d’une charge sous la forme d’une restriction d’utilisation au sens de l’al. 1, let. a, ou de l’al. 2, let. a ou b. Si l’autorisation de construire n’est pas assortie d’une telle charge et qu’il ne s’agit pas d’une autorisation au sens des art. 8, 9, 26 ou 27, il est présumé que la restriction d’utilisation visée à l’al. 1, let. a, s’applique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_7"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Nouveaux logements soumis à une restriction d’utilisation",
+        "citation": "Art. 7 al. 4 LRS",
+        "content": "Immédiatement après l’entrée en force de l’autorisation de construire, l’autorité compétente pour les autorisations de construire ordonne à l’office du registre foncier de mentionner au registre la restriction d’utilisation relative au bien-fonds concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_7"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Nouveaux logements soumis à une restriction d’utilisation",
+        "citation": "Art. 7 al. 5 LRS",
+        "content": "Le Conseil fédéral règle notamment les modalités suivantes:\na. les exigences concernant l’établissement d’hébergement organisé;\nb. l’obligation de déclarer le changement d’affectation d’un logement affecté à l’hébergement touristique en une résidence principale;\nc. la formulation des conditions d’utilisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_7"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Logements en relation avec des établissements d’hébergement organisés",
+        "citation": "Art. 8 al. 1 LRS",
+        "content": "Dans les communes qui comptent une proportion de résidences secondaires supérieure à 20 %, des établissements d’hébergement organisés peuvent être autorisés à créer des logements sans restriction d’utilisation au sens de l’art. 7, al. 1, si les conditions suivantes sont remplies:\na. l’établissement ne peut être exploité de manière rentable qu’au moyen des revenus produits par la création de tels logements;\nb. le propriétaire ou l’exploitant est en mesure, sur demande, de prouver que les revenus réalisés par ces logements sont investis dans la construction ou l’exploitation de l’établissement;\nc. les surfaces utiles principales de ces logements n’excédent pas 20 % de l’ensemble des surfaces utiles principales des chambres et des logements;\nd. il existe une unité architecturale et fonctionnelle entre ces logements et l’établissement, à moins que des motifs afférents à la protection des monuments ou des sites ne s’y opposent;\ne. aucun intérêt prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_8"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Logements en relation avec des établissements d’hébergement organisés",
+        "citation": "Art. 8 al. 2 LRS",
+        "content": "Pour les logements créés en vertu de l’al. 1 qui restent durablement la propriété d’un établissement d’hébergement organisé et sont loués par celui-ci, la surface utile principale au sens de l’al. 1, let. c, peut atteindre 33 % au plus de l’ensemble des surfaces utiles principales. Une telle restriction du droit d’aliénation doit être mentionnée au registre foncier. L’art. 7, al. 4 et 5, est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_8"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Logements en relation avec des établissements d’hébergement organisés",
+        "citation": "Art. 8 al. 3 LRS",
+        "content": "Si l’établissement crée des logements tant au sens de l’al. 1 que de l’al. 2, la proportion maximale de 33 % est réduite de la valeur obtenue en multipliant par 13 % le quotient de la surface des logements au sens de l’al. 1 et de la somme des surfaces des logements au sens des al. 1 et 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_8"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Logements en relation avec des établissements d’hébergement organisés",
+        "citation": "Art. 8 al. 4 LRS",
+        "content": "Un établissement qui existait déjà le 11 mars 2012 peut être réaffecté en logements sans restriction d’utilisation au sens de l’art. 7, al. 1, à hauteur de 50 % de sa surface utile principale au plus, si les conditions suivantes sont remplies:\na. il est exploité depuis 25 ans au moins;\nb. il ne peut plus être exploité de manière rentable ni être transformé en logements affectés à l’hébergement touristique;\nc. le fait qu’il ne peut plus être exploité de manière rentable n’est pas imputable à un comportement fautif du propriétaire ou de l’exploitant;\nd. aucun intérêt prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_8"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Logements en relation avec des établissements d’hébergement organisés",
+        "citation": "Art. 8 al. 5 LRS",
+        "content": "Une expertise indépendante doit apporter la preuve que les conditions prévues aux al. 1 ou 4 sont remplies. Le Conseil fédéral fixe les modalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_8"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Nouveaux logements dans des bâtiments protégés",
+        "citation": "Art. 9 al. 1 LRS",
+        "content": "Dans les communes qui comptent une proportion de résidences secondaires supérieure à 20 %, de nouveaux logements sans restriction d’utilisation au sens de l’art. 7, al. 1, peuvent, à l’intérieur des zones à bâtir, être autorisés dans des bâtiments protégés ou caractéristiques du site si les conditions suivantes sont remplies:\na. cela ne porte pas atteinte au caractère protégé du bâtiment, en particulier si son aspect extérieur et sa structure architecturale demeurent inchangés pour l’essentiel; \nb. la conservation à long terme du bâtiment ne peut pas être assurée d’une autre manière;\nc. aucun intérêt prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_9"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Nouveaux logements dans des bâtiments protégés",
+        "citation": "Art. 9 al. 2 LRS",
+        "content": "En dehors des zones à bâtir, la construction de nouveaux logements sans restriction d’utilisation au sens de l’art. 7, al. 1, est soumise aux dispositions du droit sur l’aménagement du territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_9"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 4 Création de nouveaux logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Nouveaux logements sans restriction d’utilisation, Nouveaux logements dans des bâtiments protégés",
+        "citation": "Art. 9 al. 3 LRS",
+        "content": "Demeurent réservées les autres conditions du droit fédéral et du droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_9"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Définition",
+        "citation": "Art. 10 LRS",
+        "content": "Au sens de la présente loi, un logement créé selon l’ancien droit est un logement qui a été créé de manière conforme au droit en vigueur avant le 11 mars 2012 ou était au bénéfice d’une autorisation définitive à cette date.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_10"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Modification de la construction et de l’utilisation",
+        "citation": "Art. 11 al. 1 LRS",
+        "content": "Sous réserve de restrictions d’utilisation existantes ou futures du droit cantonal ou communal, le mode d’habitation des logements créés selon l’ancien droit est libre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_11"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Modification de la construction et de l’utilisation",
+        "citation": "Art. 11 al. 2 LRS",
+        "content": "De tels logements peuvent, dans les limites des surfaces utiles principales préexistantes, être rénovés, transformés et reconstruits. Lorsque des logements supplémentaires en résultent, ceux-ci peuvent être autorisés sans restriction d’utilisation selon l’art. 7, al. 1. Demeurent réservées les autres conditions du droit fédéral et du droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_11"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Modification de la construction et de l’utilisation",
+        "citation": "Art. 11 al. 3 LRS",
+        "content": "L’agrandissement des logements créés selon l’ancien droit au sein de la zone à bâtir ne peut excéder 30 % des surfaces utiles principales qui existaient le 11 mars 2012 dans la mesure où il n’en résulte aucun logement supplémentaire. Hors de la zone à bâtir, les agrandissements restent autorisés dans les limites des prescriptions relatives à la construction hors de la zone à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_11"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Modification de la construction et de l’utilisation",
+        "citation": "Art. 11 al. 4 LRS",
+        "content": "Lorsque les agrandissements dépassent le plafond fixé à l’al. 3, ils sont autorisés pour autant que le logement soit déclaré en tant que résidence principale au sens de l’art. 7, al. 1, let. a, ou en tant que logement affecté à l’hébergement touristique au sens de l’art. 7, al. 1, let. b, en relation avec l’art. 7, al. 2, let. a ou b, et que les conditions d’autorisation y relatives soient remplies. L’autorité compétente pour les autorisations de construire assortit son autorisation d’une restriction d’utilisation correspondante et, immédiatement après l’entrée en force de l’autorisation de construire, ordonne à l’office du registre foncier de mentionner au registre la restriction d’utilisation relative au bien-fonds concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_11"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Abus et évolutions indésirables",
+        "citation": "Art. 12 al. 1 LRS",
+        "content": "Au besoin, les cantons et les communes prennent les mesures nécessaires pour empêcher des abus et des évolutions indésirables qui pourraient résulter d’une utilisation sans limites de logements créés selon l’ancien droit en tant que résidences secondaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_12"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 1, Logements créés selon l’ancien droit, Abus et évolutions indésirables",
+        "citation": "Art. 12 al. 2 LRS",
+        "content": "A cette fin, les cantons peuvent limiter davantage que la présente loi la réaffectation en résidence secondaire d’un logement utilisé jusqu’ici comme résidence principale et les modifications prévues à l’art. 11, al. 2 à 4. Pour autant que les modifications de la construction et de l’utilisation ne soient pas soumises à autorisation de construire, les cantons peuvent les y soumettre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_12"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Modification et suspension des restrictions d’utilisation, Modification",
+        "citation": "Art. 13 LRS",
+        "content": "Les modifications des restrictions d’utilisation suivantes requièrent une autorisation de construire: \na. la modification de l’utilisation prévue à l’art. 7, al. 1, let. a, en utilisation comme logement affecté à l’hébergement touristique;\nb. la modification de l’utilisation dans le cadre des catégories d’utilisation prévues à l’art. 7, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_13"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Modification et suspension des restrictions d’utilisation, Suspension",
+        "citation": "Art. 14 al. 1 LRS",
+        "content": "L’autorité compétente pour les autorisations de construire suspend, à la demande du propriétaire, une restriction d’utilisation au sens de l’art. 7, al. 1, pendant une durée déterminée, lorsque l’une des conditions suivantes est remplie: \na. la restriction d’utilisation ne peut temporairement pas être respectée en raison de circonstances particulières telles que décès, changement de domicile ou changement d’état civil;\nb. le propriétaire apporte la preuve que le logement a été proposé sur le marché et qu’il a vainement recherché des personnes disposées à utiliser légalement le logement à un prix raisonnable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_14"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Modification et suspension des restrictions d’utilisation, Suspension",
+        "citation": "Art. 14 al. 2 LRS",
+        "content": "Elle prolonge la suspension selon l’al. 1, let. b, lorsque le propriétaire apporte la preuve que les exigences sont toujours remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_14"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Modification et suspension des restrictions d’utilisation, Suspension",
+        "citation": "Art. 14 al. 3 LRS",
+        "content": "Elle ordonne, en même temps que la suspension au sens de l’al. 1, let. b, et lors de chaque prolongation, une réestimation de la valeur officielle du logement aux frais du requérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_14"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 5, Modification de logements dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, Section 2, Modification et suspension des restrictions d’utilisation, Suspension",
+        "citation": "Art. 14 al. 4 LRS",
+        "content": "Le Conseil fédéral règle la durée des suspensions et de leurs prolongations, ainsi que les détails de la preuve au sens de l’al. 1, let. b, en particulier les exigences relatives à la mise sur le marché du logement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_14"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Autorité de surveillance",
+        "citation": "Art. 15 LRS",
+        "content": "Chaque canton désigne une autorité chargée de surveiller l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_15"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Obligation d’annoncer ",
+        "citation": "Art. 16 al. 1 LRS",
+        "content": "L’autorité chargée du contrôle des habitants dans une commune qui compte une proportion de résidences secondaires supérieure à 20 % annonce à l’autorité compétente pour les autorisations de construire les personnes qui:\na. changent de logement à l’intérieur de la commune;\nb. quittent la commune;\nc. s’établissent dans une autre commune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_16"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Obligation d’annoncer ",
+        "citation": "Art. 16 al. 2 LRS",
+        "content": "L’office du registre foncier annonce à l’autorité compétente pour les autorisations de construire l’inscription faite au registre foncier du transfert de la propriété d’un bien-fonds sis dans une commune qui compte une proportion de résidences secondaires supérieure à 20 % pour lequel une restriction d’utilisation au sens de l’art. 7, al. 1, est mentionnée. Les cantons règlent l’exécution de ces annonces.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_16"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Obligation d’annoncer ",
+        "citation": "Art. 16 al. 3 LRS",
+        "content": "Les informations du contrôle des habitants et du registre foncier nécessaires à la mise en œuvre des art. 4 et 7 peuvent être saisies dans le Registre fédéral des bâtiments et des logements. L’autorité compétente pour la mise à jour de ce registre effectue la saisie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_16"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 17 al. 1 LRS",
+        "content": "Si un logement soumis à une restriction d’utilisation au sens de l’art. 7, al. 1, n’est pas utilisé conformément à la loi, l’autorité compétente impartit au propriétaire, sous la menace d’une exécution d’office et de la peine prévue à l’art. 292 du code pénal, un délai pour le rétablissement d’un état conforme au droit. Sur requête du propriétaire, elle peut accorder un délai supplémentaire lorsque cela se justifie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_17"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 17 al. 2 LRS",
+        "content": "Si le propriétaire ne met pas fin à l’état contraire au droit dans le délai imparti, l’autorité compétente interdit l’utilisation du logement et ordonne sa mise sous scellés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_17"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 17 al. 3 LRS",
+        "content": "L’autorité compétente prend les mesures nécessaires au rétablissement d’un état conforme au droit. Elle peut en particulier mettre le logement en location en respectant la restriction d’utilisation au sens de l’art. 7, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_17"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 17 al. 4 LRS",
+        "content": "Lorsque des membres ou des employés des autorités compétentes en matière de constructions apprennent, en cette qualité, qu’une infraction a été commise, ils sont tenus de la dénoncer sans délai à l’autorité de surveillance au sens de l’art. 15.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_17"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Exécution des mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 18 al. 1 LRS",
+        "content": "L’autorité compétente a tous les droits et devoirs nécessaires pour rétablir une utilisation conforme au droit à la place du propriétaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_18"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Exécution des mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 18 al. 2 LRS",
+        "content": "Elle peut confier l’exécution des mesures nécessaires à des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_18"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Exécution des mesures administratives en cas d’utilisation illicite",
+        "citation": "Art. 18 al. 3 LRS",
+        "content": "Les recettes provenant de la mise en location prévue à l’art. 17, al. 3, reviennent au propriétaire, sous déduction des frais de l’autorité compétente ou, le cas échéant, des tiers mandatés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_18"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Contrôle des effets et proposition de mesures",
+        "citation": "Art. 19 al. 1 LRS",
+        "content": "L’Office fédéral du développement territorial analyse régulièrement les effets de la présente loi, en collaboration avec le Secrétariat d’Etat à l’économie. Son analyse tient notamment compte des effets de la loi sur le développement touristique et économique des régions concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_19"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Contrôle des effets et proposition de mesures",
+        "citation": "Art. 19 al. 2 LRS",
+        "content": "Les départements concernés présentent périodiquement un rapport au Conseil fédéral. Si nécessaire, ce rapport propose des mesures, notamment dans le domaine de la promotion économique. Il est élaboré pour la première fois quatre ans après l’entrée en vigueur de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_19"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Compétence, procédure et voies de droit",
+        "citation": "Art. 20 al. 1 LRS",
+        "content": "La mise à l’enquête de demandes d’autorisation de construire et la communication des décisions d’autorisation de construire sont entièrement régies par les prescriptions cantonales. L’art. 112, al. 4, de la loi du 17 juin 2005 sur le Tribunal fédéral est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_20"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 6, Exécution, Compétence, procédure et voies de droit",
+        "citation": "Art. 20 al. 2 LRS",
+        "content": "Sous réserve des dispositions de la présente loi, la compétence, la procédure et les voies de droit sont régies par la loi fédérale du 22 juin 1979 sur l’aménagement du territoire et par les dispositions d’exécution correspondantes des cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_20"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Inobservation de restrictions d’utilisation",
+        "citation": "Art. 21 al. 1 LRS",
+        "content": "Celui qui, intentionnellement, ne respecte pas une restriction d’utilisation au sens de la présente loi est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_21"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Inobservation de restrictions d’utilisation",
+        "citation": "Art. 21 al. 2 LRS",
+        "content": "Si l’auteur agit par négligence, la sanction est une peine pécuniaire de 180 jours-amende au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_21"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Inobservation de restrictions d’utilisation",
+        "citation": "Art. 21 al. 3 LRS",
+        "content": "Si la restriction d’utilisation est abrogée ultérieurement, la peine est une peine pécuniaire de 90 jours-amende au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_21"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Inobservation de restrictions d’utilisation",
+        "citation": "Art. 21 al. 4 LRS",
+        "content": "La poursuite pénale doit être ajournée jusqu’à la clôture définitive d’une procédure de suspension ou de modification d’une restriction d’utilisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_21"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Indications inexactes",
+        "citation": "Art. 22 al. 1 LRS",
+        "content": "Celui qui, intentionnellement, donne à l’autorité compétente des indications inexactes ou incomplètes sur des faits qui sont pertinents pour l’autorisation, la suspension ou la modification d’une restriction d’utilisation au sens de la présente loi, ou qui utilise trompeusement une erreur de cette autorité, est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_22"
+    },
+    {
+        "book": "ZWG",
+        "title": "LRS, Chapitre 7, Dispositions pénales, Indications inexactes",
+        "citation": "Art. 22 al. 2 LRS",
+        "content": "Celui qui, par négligence, donne des indications inexactes ou incomplètes est puni d’une peine pécuniaire de 180 jours-amende au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/886/fr#art_22"
+    }
+]

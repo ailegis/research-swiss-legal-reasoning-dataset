@@ -1,0 +1,1388 @@
+[
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Zweck",
+        "citation": "Art. 1 DSG",
+        "content": "Dieses Gesetz bezweckt den Schutz der Persönlichkeit und der Grundrechte von natürlichen Personen, über die Personendaten bearbeitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_1"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Persönlicher und sachlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 1 DSG",
+        "content": "Dieses Gesetz gilt für die Bearbeitung von Personendaten natürlicher Personen durch:\na. private Personen;\nb. Bundesorgane.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Persönlicher und sachlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 2 DSG",
+        "content": "Es ist nicht anwendbar auf:\na. Personendaten, die von einer natürlichen Person ausschliesslich zum persönlichen Gebrauch bearbeitet werden; \nb. Personendaten, die von den eidgenössischen Räten und den parlamentarischen Kommissionen im Rahmen ihrer Beratungen bearbeitet werden;\nc. Personendaten, die bearbeitet werden durch institutionelle Begünstigte nach Artikel 2 Absatz 1 des Gaststaatgesetzes vom 22. Juni 2007, die in der Schweiz Immunität von der Gerichtsbarkeit geniessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Persönlicher und sachlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 3 DSG",
+        "content": "Das anwendbare Verfahrensrecht regelt die Bearbeitung von Personendaten und die Rechte der betroffenen Personen in Gerichtsverfahren und in Verfahren nach bundesrechtlichen Verfahrensordnungen. Auf erstinstanzliche Verwaltungsverfahren sind die Bestimmungen dieses Gesetzes anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Persönlicher und sachlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 4 DSG",
+        "content": "Die öffentlichen Register des Privatrechtsverkehrs, insbesondere der Zugang zu diesen Registern und die Rechte der betroffenen Personen, werden durch die Spezialbestimmungen des anwendbaren Bundesrechts geregelt. Enthalten die Spezialbestimmungen keine Regelung, so ist dieses Gesetz anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Räumlicher Geltungsbereich",
+        "citation": "Art. 3 Abs. 1 DSG",
+        "content": "Dieses Gesetz gilt für Sachverhalte, die sich in der Schweiz auswirken, auch wenn sie im Ausland veranlasst werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_3"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Räumlicher Geltungsbereich",
+        "citation": "Art. 3 Abs. 2 DSG",
+        "content": "Für privatrechtliche Ansprüche gilt das Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht. Vorbehalten bleiben zudem die Bestimmungen zum räumlichen Geltungsbereich des Strafgesetzbuchs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_3"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "citation": "Art. 4 Abs. 1 DSG",
+        "content": "Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte (EDÖB) beaufsichtigt die Anwendung der bundesrechtlichen Datenschutzvorschriften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_4"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 1. Kapitel:, Zweck und Geltungsbereich sowie Aufsichtsbehörde des Bundes, Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter",
+        "citation": "Art. 4 Abs. 2 DSG",
+        "content": "Von der Aufsicht durch den EDÖB sind ausgenommen:\na. die Bundesversammlung;\nb. der Bundesrat;\nc.  die eidgenössischen Gerichte;\nd. die Bundesanwaltschaft: betreffend die Bearbeitung von Personendaten im Rahmen von Strafverfahren;\ne. Bundesbehörden: betreffend die Bearbeitung von Personendaten im Rahmen einer rechtsprechenden Tätigkeit oder von Verfahren der internationalen Rechtshilfe in Strafsachen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_4"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Begriffe",
+        "citation": "Art. 5 DSG",
+        "content": "In diesem Gesetz bedeuten:\na. Personendaten: alle Angaben, die sich auf eine bestimmte oder bestimmbare natürliche Person beziehen;\nb. betroffene Person: natürliche Person, über die Personendaten bearbeitet werden;\nc. besonders schützenswerte Personendaten:\n1. Daten über religiöse, weltanschauliche, politische oder gewerkschaftliche Ansichten oder Tätigkeiten,\n2. Daten über die Gesundheit, die Intimsphäre oder die Zugehörigkeit zu einer Rasse oder Ethnie,\n3. genetische Daten,\n4. biometrische Daten, die eine natürliche Person eindeutig identifizieren,\n5. Daten über verwaltungs- und strafrechtliche Verfolgungen oder Sanktionen,\n6. Daten über Massnahmen der sozialen Hilfe;\nd. Bearbeiten: jeder Umgang mit Personendaten, unabhängig von den angewandten Mitteln und Verfahren, insbesondere das Beschaffen, Speichern, Aufbewahren, Verwenden, Verändern, Bekanntgeben, Archivieren, Löschen oder Vernichten von Daten;\ne. Bekanntgeben: das Übermitteln oder Zugänglichmachen von Personendaten;\nf. Profiling: jede Art der automatisierten Bearbeitung von Personendaten, die darin besteht, dass diese Daten verwendet werden, um bestimmte persönliche Aspekte, die sich auf eine natürliche Person beziehen, zu bewerten, insbesondere um Aspekte bezüglich Arbeitsleistung, wirtschaftlicher Lage, Gesundheit, persönlicher Vorlieben, Interessen, Zuverlässigkeit, Verhalten, Aufenthaltsort oder Ortswechsel dieser natürlichen Person zu analysieren oder vorherzusagen;\ng. Profiling mit hohem Risiko: Profiling, das ein hohes Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Person mit sich bringt, indem es zu einer Verknüpfung von Daten führt, die eine Beurteilung wesentlicher Aspekte der Persönlichkeit einer natürlichen Person erlaubt;\nh. Verletzung der Datensicherheit: eine Verletzung der Sicherheit, die dazu führt, dass Personendaten unbeabsichtigt oder widerrechtlich verlorengehen, gelöscht, vernichtet oder verändert werden oder Unbefugten offengelegt oder zugänglich gemacht werden;\ni. Bundesorgan: Behörde oder Dienststelle des Bundes oder Person, die mit öffentlichen Aufgaben des Bundes betraut ist;\nj. Verantwortlicher: private Person oder Bundesorgan, die oder das allein oder zusammen mit anderen über den Zweck und die Mittel der Bearbeitung entscheidet;\nk. Auftragsbearbeiter: private Person oder Bundesorgan, die oder das im Auftrag des Verantwortlichen Personendaten bearbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_5"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 1 DSG",
+        "content": "Personendaten müssen rechtmässig bearbeitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 2 DSG",
+        "content": "Die Bearbeitung muss nach Treu und Glauben erfolgen und verhältnismässig sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 3 DSG",
+        "content": "Personendaten dürfen nur zu einem bestimmten und für die betroffene Person erkennbaren Zweck beschafft werden; sie dürfen nur so bearbeitet werden, dass es mit diesem Zweck vereinbar ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 4 DSG",
+        "content": "Sie werden vernichtet oder anonymisiert, sobald sie zum Zweck der Bearbeitung nicht mehr erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 5 DSG",
+        "content": "Wer Personendaten bearbeitet, muss sich über deren Richtigkeit vergewissern. Sie oder er muss alle angemessenen Massnahmen treffen, damit die Daten berichtigt, gelöscht oder vernichtet werden, die im Hinblick auf den Zweck ihrer Beschaffung oder Bearbeitung unrichtig oder unvollständig sind. Die Angemessenheit der Massnahmen hängt namentlich ab von der Art und dem Umfang der Bearbeitung sowie vom Risiko, das die Bearbeitung für die Persönlichkeit oder Grundrechte der betroffenen Personen mit sich bringt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 6 DSG",
+        "content": "Ist die Einwilligung der betroffenen Person erforderlich, so ist diese Einwilligung nur gültig, wenn sie für eine oder mehrere bestimmte Bearbeitungen nach angemessener Information freiwillig erteilt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Grundsätze",
+        "citation": "Art. 6 Abs. 7 DSG",
+        "content": "Die Einwilligung muss ausdrücklich erfolgen für:\na. die Bearbeitung von besonders schützenswerten Personendaten;\nb. ein Profiling mit hohem Risiko durch eine private Person; oder\nc. ein Profiling durch ein Bundesorgan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen",
+        "citation": "Art. 7 Abs. 1 DSG",
+        "content": "Der Verantwortliche ist verpflichtet, die Datenbearbeitung technisch und organisatorisch so auszugestalten, dass die Datenschutzvorschriften eingehalten werden, insbesondere die Grundsätze nach Artikel 6. Er berücksichtigt dies ab der Planung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen",
+        "citation": "Art. 7 Abs. 2 DSG",
+        "content": "Die technischen und organisatorischen Massnahmen müssen insbesondere dem Stand der Technik, der Art und dem Umfang der Datenbearbeitung sowie dem Risiko, das die Bearbeitung für die Persönlichkeit oder die Grundrechte der betroffenen Personen mit sich bringt, angemessen sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutz durch Technik und datenschutzfreundliche Voreinstellungen",
+        "citation": "Art. 7 Abs. 3 DSG",
+        "content": "Der Verantwortliche ist verpflichtet, mittels geeigneter Voreinstellungen sicherzustellen, dass die Bearbeitung der Personendaten auf das für den Verwendungszweck nötige Mindestmass beschränkt ist, soweit die betroffene Person nicht etwas anderes bestimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datensicherheit",
+        "citation": "Art. 8 Abs. 1 DSG",
+        "content": "Der Verantwortliche und der Auftragsbearbeiter gewährleisten durch geeignete technische und organisatorische Massnahmen eine dem Risiko angemessene Datensicherheit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datensicherheit",
+        "citation": "Art. 8 Abs. 2 DSG",
+        "content": "Die Massnahmen müssen es ermöglichen, Verletzungen der Datensicherheit zu vermeiden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datensicherheit",
+        "citation": "Art. 8 Abs. 3 DSG",
+        "content": "Der Bundesrat erlässt Bestimmungen über die Mindestanforderungen an die Datensicherheit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Bearbeitung durch Auftragsbearbeiter",
+        "citation": "Art. 9 Abs. 1 DSG",
+        "content": "Die Bearbeitung von Personendaten kann vertraglich oder durch die Gesetzgebung einem Auftragsbearbeiter übertragen werden, wenn:\na. die Daten so bearbeitet werden, wie der Verantwortliche selbst es tun dürfte; und\nb. keine gesetzliche oder vertragliche Geheimhaltungspflicht die Übertragung verbietet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Bearbeitung durch Auftragsbearbeiter",
+        "citation": "Art. 9 Abs. 2 DSG",
+        "content": "Der Verantwortliche muss sich insbesondere vergewissern, dass der Auftragsbearbeiter in der Lage ist, die Datensicherheit zu gewährleisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Bearbeitung durch Auftragsbearbeiter",
+        "citation": "Art. 9 Abs. 3 DSG",
+        "content": "Der Auftragsbearbeiter darf die Bearbeitung nur mit vorgängiger Genehmigung des Verantwortlichen einem Dritten übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Bearbeitung durch Auftragsbearbeiter",
+        "citation": "Art. 9 Abs. 4 DSG",
+        "content": "Er kann dieselben Rechtfertigungsgründe geltend machen wie der Verantwortliche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutzberaterin oder -berater",
+        "citation": "Art. 10 Abs. 1 DSG",
+        "content": "Private Verantwortliche können eine Datenschutzberaterin oder einen Datenschutzberater ernennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutzberaterin oder -berater",
+        "citation": "Art. 10 Abs. 2 DSG",
+        "content": "Die Datenschutzberaterin oder der Datenschutzberater ist Anlaufstelle für die betroffenen Personen und für die Behörden, die in der Schweiz für den Datenschutz zuständig sind. Sie oder er hat namentlich folgende Aufgaben:\na. Schulung und Beratung des privaten Verantwortlichen in Fragen des Datenschutzes;\nb. Mitwirkung bei der Anwendung der Datenschutzvorschriften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutzberaterin oder -berater",
+        "citation": "Art. 10 Abs. 3 DSG",
+        "content": "Private Verantwortliche können von der Ausnahme nach Artikel 23 Absatz 4 Gebrauch machen, wenn die folgenden Voraussetzungen erfüllt sind:\na. Die Datenschutzberaterin oder der Datenschutzberater übt ihre oder seine Funktion gegenüber dem Verantwortlichen fachlich unabhängig und weisungsungebunden aus.\nb. Sie oder er übt keine Tätigkeiten aus, die mit ihren oder seinen Aufgaben als Datenschutzberaterin oder -berater unvereinbar sind.\nc. Sie oder er verfügt über die erforderlichen Fachkenntnisse.\nd. Der Verantwortliche veröffentlicht die Kontaktdaten der Datenschutzberaterin oder des Datenschutzberaters und teilt diese dem EDÖB mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Datenschutzberaterin oder -berater",
+        "citation": "Art. 10 Abs. 4 DSG",
+        "content": "Der Bundesrat regelt die Ernennung von Datenschutzberaterinnen und Datenschutzberatern durch die Bundesorgane.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verhaltenskodizes",
+        "citation": "Art. 11 Abs. 1 DSG",
+        "content": "Berufs-, Branchen- und Wirtschaftsverbände, die nach ihren Statuten zur Wahrung der wirtschaftlichen Interessen ihrer Mitglieder befugt sind, sowie Bundesorgane können dem EDÖB Verhaltenskodizes vorlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_11"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verhaltenskodizes",
+        "citation": "Art. 11 Abs. 2 DSG",
+        "content": "Dieser nimmt zu den Verhaltenskodizes Stellung und veröffentlicht seine Stellungnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_11"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verzeichnis der Bearbeitungstätigkeiten",
+        "citation": "Art. 12 Abs. 1 DSG",
+        "content": "Die Verantwortlichen und Auftragsbearbeiter führen je ein Verzeichnis ihrer Bearbeitungstätigkeiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verzeichnis der Bearbeitungstätigkeiten",
+        "citation": "Art. 12 Abs. 2 DSG",
+        "content": "Das Verzeichnis des Verantwortlichen enthält mindestens:\na. die Identität des Verantwortlichen;\nb. den Bearbeitungszweck;\nc. eine Beschreibung der Kategorien betroffener Personen und der Kategorien bearbeiteter Personendaten;\nd. die Kategorien der Empfängerinnen und Empfänger;\ne.  wenn möglich die Aufbewahrungsdauer der Personendaten oder die Kriterien zur Festlegung dieser Dauer;\nf. wenn möglich eine allgemeine Beschreibung der Massnahmen zur Gewährleistung der Datensicherheit nach Artikel 8;\ng. falls die Daten ins Ausland bekanntgegeben werden, die Angabe des Staates sowie die Garantien nach Artikel 16 Absatz 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verzeichnis der Bearbeitungstätigkeiten",
+        "citation": "Art. 12 Abs. 3 DSG",
+        "content": "Das Verzeichnis des Auftragsbearbeiters enthält Angaben zur Identität des Auftragsbearbeiters und des Verantwortlichen, zu den Kategorien von Bearbeitungen, die im Auftrag des Verantwortlichen durchgeführt werden, sowie die Angaben nach Absatz 2 Buchstaben f und g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verzeichnis der Bearbeitungstätigkeiten",
+        "citation": "Art. 12 Abs. 4 DSG",
+        "content": "Die Bundesorgane melden ihre Verzeichnisse dem EDÖB.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Verzeichnis der Bearbeitungstätigkeiten",
+        "citation": "Art. 12 Abs. 5 DSG",
+        "content": "Der Bundesrat sieht Ausnahmen für Unternehmen vor, die weniger als 250 Mitarbeiterinnen und Mitarbeiter beschäftigen und deren Datenbearbeitung ein geringes Risiko von Verletzungen der Persönlichkeit der betroffenen Personen mit sich bringt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Zertifizierung",
+        "citation": "Art. 13 Abs. 1 DSG",
+        "content": "Die Hersteller von Datenbearbeitungssystemen oder -programmen sowie die Verantwortlichen und Auftragsbearbeiter können ihre Systeme, Produkte und Dienstleistungen einer Bewertung durch anerkannte unabhängige Zertifizierungsstellen unterziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_13"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Begriffe und Grundsätze, Zertifizierung",
+        "citation": "Art. 13 Abs. 2 DSG",
+        "content": "Der Bundesrat erlässt Vorschriften über die Anerkennung von Zertifizierungsverfahren und die Einführung eines Datenschutz-Qualitätszeichens. Er berücksichtigt dabei das internationale Recht und die international anerkannten technischen Normen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_13"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Vertretung",
+        "citation": "Art. 14 Abs. 1 DSG",
+        "content": "Private Verantwortliche mit Sitz oder Wohnsitz im Ausland bezeichnen eine Vertretung in der Schweiz, wenn sie Personendaten von Personen in der Schweiz bearbeiten und die Datenbearbeitung die folgenden Voraussetzungen erfüllt:\na. Die Bearbeitung steht im Zusammenhang mit dem Angebot von Waren und Dienstleistungen oder der Beobachtung des Verhaltens von Personen in der Schweiz.\nb. Es handelt sich um eine umfangreiche Bearbeitung.\nc. Es handelt sich um eine regelmässige Bearbeitung.\nd. Die Bearbeitung bringt ein hohes Risiko für die Persönlichkeit der betroffenen Personen mit sich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Vertretung",
+        "citation": "Art. 14 Abs. 2 DSG",
+        "content": "Die Vertretung dient als Anlaufstelle für die betroffenen Personen und den EDÖB.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Vertretung",
+        "citation": "Art. 14 Abs. 3 DSG",
+        "content": "Der Verantwortliche veröffentlicht den Namen und die Adresse der Vertretung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Pflichten der Vertretung",
+        "citation": "Art. 15 Abs. 1 DSG",
+        "content": "Die Vertretung führt ein Verzeichnis der Bearbeitungstätigkeiten des Verantwortlichen, das die Angaben nach Artikel 12 Absatz 2 enthält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Pflichten der Vertretung",
+        "citation": "Art. 15 Abs. 2 DSG",
+        "content": "Auf Anfrage teilt sie dem EDÖB die im Verzeichnis enthaltenen Angaben mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Datenbearbeitung durch private Verantwortliche mit Sitz oder Wohnsitz im Ausland, Pflichten der Vertretung",
+        "citation": "Art. 15 Abs. 3 DSG",
+        "content": "Auf Anfrage erteilt sie der betroffenen Person Auskünfte darüber, wie sie ihre Rechte ausüben kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Grundsätze",
+        "citation": "Art. 16 Abs. 1 DSG",
+        "content": "Personendaten dürfen ins Ausland bekanntgegeben werden, wenn der Bundesrat festgestellt hat, dass die Gesetzgebung des betreffenden Staates oder das internationale Organ einen angemessenen Schutz gewährleistet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Grundsätze",
+        "citation": "Art. 16 Abs. 2 DSG",
+        "content": "Liegt kein Entscheid des Bundesrates nach Absatz 1 vor, so dürfen Personendaten ins Ausland bekanntgegeben werden, wenn ein geeigneter Datenschutz gewährleistet wird durch:\na. einen völkerrechtlichen Vertrag;\nb. Datenschutzklauseln in einem Vertrag zwischen dem Verantwortlichen oder dem Auftragsbearbeiter und seiner Vertragspartnerin oder seinem Vertragspartner, die dem EDÖB vorgängig mitgeteilt wurden;\nc. spezifische Garantien, die das zuständige Bundesorgan erarbeitet und dem EDÖB vorgängig mitgeteilt hat;\nd.  Standarddatenschutzklauseln, die der EDÖB vorgängig genehmigt, ausgestellt oder anerkannt hat; oder\ne. verbindliche unternehmensinterne Datenschutzvorschriften, die vorgängig vom EDÖB oder von einer für den Datenschutz zuständigen Behörde eines Staates, der einen angemessenen Schutz gewährleistet, genehmigt wurden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Grundsätze",
+        "citation": "Art. 16 Abs. 3 DSG",
+        "content": "Der Bundesrat kann andere geeignete Garantien im Sinne von Absatz 2 vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Ausnahmen",
+        "citation": "Art. 17 Abs. 1 DSG",
+        "content": "Abweichend von Artikel 16 Absätze 1 und 2 dürfen in den folgenden Fällen Personendaten ins Ausland bekanntgegeben werden:\na. Die betroffene Person hat ausdrücklich in die Bekanntgabe eingewilligt.\nb. Die Bekanntgabe steht in unmittelbarem Zusammenhang mit dem Abschluss oder der Abwicklung eines Vertrags: \n1. zwischen dem Verantwortlichen und der betroffenen Person; oder\n2. zwischen dem Verantwortlichen und seiner Vertragspartnerin oder seinem Vertragspartner im Interesse der betroffenen Person.\nc. Die Bekanntgabe ist notwendig für:\n1. die Wahrung eines überwiegenden öffentlichen Interesses; oder\n2. die Feststellung, Ausübung oder Durchsetzung von Rechtsansprüchen vor einem Gericht oder einer anderen zuständigen ausländischen Behörde.\nd. Die Bekanntgabe ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.\ne. Die betroffene Person hat die Daten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt.\nf. Die Daten stammen aus einem gesetzlich vorgesehenen Register, das öffentlich oder Personen mit einem schutzwürdigen Interesse zugänglich ist, soweit im Einzelfall die gesetzlichen Voraussetzungen der Einsichtnahme erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_17"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Ausnahmen",
+        "citation": "Art. 17 Abs. 2 DSG",
+        "content": "Der Verantwortliche oder der Auftragsbearbeiter informiert den EDÖB auf Anfrage über die Bekanntgabe von Personendaten nach Absatz 1 Buchstaben b Ziffer 2, c und d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_17"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 2. Kapitel: Allgemeine Bestimmungen, 3. Abschnitt: Bekanntgabe von Personendaten ins Ausland, Veröffentlichung von Personendaten in elektronischer Form",
+        "citation": "Art. 18 DSG",
+        "content": "Werden Personendaten zur Information der Öffentlichkeit mittels automatisierter Informations- und Kommunikationsdienste allgemein zugänglich gemacht, so gilt dies nicht als Bekanntgabe ins Ausland, auch wenn die Daten vom Ausland aus zugänglich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_18"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei der Beschaffung von Personendaten",
+        "citation": "Art. 19 Abs. 1 DSG",
+        "content": "Der Verantwortliche informiert die betroffene Person angemessen über die Beschaffung von Personendaten; diese Informationspflicht gilt auch, wenn die Daten nicht bei der betroffenen Person beschafft werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei der Beschaffung von Personendaten",
+        "citation": "Art. 19 Abs. 2 DSG",
+        "content": "Er teilt der betroffenen Person bei der Beschaffung diejenigen Informationen mit, die erforderlich sind, damit sie ihre Rechte nach diesem Gesetz geltend machen kann und eine transparente Datenbearbeitung gewährleistet ist; er teilt ihr mindestens mit:\na. die Identität und die Kontaktdaten des Verantwortlichen;\nb. den Bearbeitungszweck;\nc. gegebenenfalls die Empfängerinnen und Empfänger oder die Kategorien von Empfängerinnen und Empfängern, denen Personendaten bekanntgegeben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei der Beschaffung von Personendaten",
+        "citation": "Art. 19 Abs. 3 DSG",
+        "content": "Werden die Daten nicht bei der betroffenen Person beschafft, so teilt er ihr zudem die Kategorien der bearbeiteten Personendaten mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei der Beschaffung von Personendaten",
+        "citation": "Art. 19 Abs. 4 DSG",
+        "content": "Werden die Personendaten ins Ausland bekanntgegeben, so teilt er der betroffenen Person auch den Staat oder das internationale Organ und gegebenenfalls die Garantien nach Artikel 16 Absatz 2 oder die Anwendung einer Ausnahme nach Artikel 17 mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei der Beschaffung von Personendaten",
+        "citation": "Art. 19 Abs. 5 DSG",
+        "content": "Werden die Daten nicht bei der betroffenen Person beschafft, so teilt er ihr die Informationen nach den Absätzen 2–4 spätestens einen Monat, nachdem er die Daten erhalten hat, mit. Gibt der Verantwortliche die Personendaten vor Ablauf dieser Frist bekannt, so informiert er die betroffene Person spätestens im Zeitpunkt der Bekanntgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Ausnahmen von der Informationspflicht und Einschränkungen",
+        "citation": "Art. 20 Abs. 1 DSG",
+        "content": "Die Informationspflicht nach Artikel 19 entfällt, wenn eine der folgenden Voraussetzungen erfüllt ist:\na. Die betroffene Person verfügt bereits über die entsprechenden Informationen.\nb. Die Bearbeitung ist gesetzlich vorgesehen.\nc. Es handelt sich beim Verantwortlichen um eine private Person, die gesetzlich zur Geheimhaltung verpflichtet ist.\nd. Die Voraussetzungen nach Artikel 27 sind erfüllt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Ausnahmen von der Informationspflicht und Einschränkungen",
+        "citation": "Art. 20 Abs. 2 DSG",
+        "content": "Werden die Personendaten nicht bei der betroffenen Person beschafft, so entfällt die Informationspflicht zudem, wenn eine der folgenden Voraussetzungen erfüllt ist:\na. Die Information ist nicht möglich.\nb. Die Information erfordert einen unverhältnismässigen Aufwand.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Ausnahmen von der Informationspflicht und Einschränkungen",
+        "citation": "Art. 20 Abs. 3 DSG",
+        "content": "Der Verantwortliche kann die Mitteilung der Informationen in den folgenden Fällen einschränken, aufschieben oder darauf verzichten:\na. Überwiegende Interessen Dritter erfordern die Massnahme.\nb. Die Information vereitelt den Zweck der Bearbeitung.\nc. Der Verantwortliche ist eine private Person und die folgenden Voraussetzungen sind erfüllt:\n1. Überwiegende Interessen des Verantwortlichen erfordern die Massnahme.\n2. Der Verantwortliche gibt die Personendaten nicht Dritten bekannt.\nd. Der Verantwortliche ist ein Bundesorgan und eine der folgenden Voraussetzungen ist erfüllt:\n1. Die Massnahme ist wegen überwiegender öffentlicher Interessen, insbesondere der inneren oder der äusseren Sicherheit der Schweiz, erforderlich.\n2. Die Mitteilung der Information kann eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Ausnahmen von der Informationspflicht und Einschränkungen",
+        "citation": "Art. 20 Abs. 4 DSG",
+        "content": "Unternehmen, die zum selben Konzern gehören, gelten nicht als Dritte im Sinne von Absatz 3 Buchstabe c Ziffer 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei einer automatisierten Einzelentscheidung",
+        "citation": "Art. 21 Abs. 1 DSG",
+        "content": "Der Verantwortliche informiert die betroffene Person über eine Entscheidung, die ausschliesslich auf einer automatisierten Bearbeitung beruht und die für sie mit einer Rechtsfolge verbunden ist oder sie erheblich beeinträchtigt (automatisierte Einzelentscheidung).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei einer automatisierten Einzelentscheidung",
+        "citation": "Art. 21 Abs. 2 DSG",
+        "content": "Er gibt der betroffenen Person auf Antrag die Möglichkeit, ihren Standpunkt darzulegen. Die betroffene Person kann verlangen, dass die automatisierte Einzelentscheidung von einer natürlichen Person überprüft wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei einer automatisierten Einzelentscheidung",
+        "citation": "Art. 21 Abs. 3 DSG",
+        "content": "Die Absätze 1 und 2 gelten nicht, wenn:\na. die automatisierte Einzelentscheidung in unmittelbarem Zusammenhang mit dem Abschluss oder der Abwicklung eines Vertrags zwischen dem Verantwortlichen und der betroffenen Person steht und ihrem Begehren stattgegeben wird; oder\nb. die betroffene Person ausdrücklich eingewilligt hat, dass die Entscheidung automatisiert erfolgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Informationspflicht bei einer automatisierten Einzelentscheidung",
+        "citation": "Art. 21 Abs. 4 DSG",
+        "content": "Ergeht die automatisierte Einzelentscheidung durch ein Bundesorgan, so muss es die Entscheidung entsprechend kennzeichnen. Absatz 2 ist nicht anwendbar, wenn die betroffene Person nach Artikel 30 Absatz 2 des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968 (VwVG) oder nach einem anderen Bundesgesetz vor dem Entscheid nicht angehört werden muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Datenschutz-Folgenabschätzung",
+        "citation": "Art. 22 Abs. 1 DSG",
+        "content": "Der Verantwortliche erstellt vorgängig eine Datenschutz-Folgenabschätzung, wenn eine Bearbeitung ein hohes Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Person mit sich bringen kann. Sind mehrere ähnliche Bearbeitungsvorgänge geplant, so kann eine gemeinsame Abschätzung erstellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Datenschutz-Folgenabschätzung",
+        "citation": "Art. 22 Abs. 2 DSG",
+        "content": "Das hohe Risiko ergibt sich, insbesondere bei Verwendung neuer Technologien, aus der Art, dem Umfang, den Umständen und dem Zweck der Bearbeitung. Es liegt namentlich vor:\na. bei der umfangreichen Bearbeitung besonders schützenswerter Personendaten;\nb. wenn systematisch umfangreiche öffentliche Bereiche überwacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Datenschutz-Folgenabschätzung",
+        "citation": "Art. 22 Abs. 3 DSG",
+        "content": "Die Datenschutz-Folgenabschätzung enthält eine Beschreibung der geplanten Bearbeitung, eine Bewertung der Risiken für die Persönlichkeit oder die Grundrechte der betroffenen Person sowie die Massnahmen zum Schutz der Persönlichkeit und der Grundrechte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Datenschutz-Folgenabschätzung",
+        "citation": "Art. 22 Abs. 4 DSG",
+        "content": "Von der Erstellung einer Datenschutz-Folgenabschätzung ausgenommen sind private Verantwortliche, wenn sie gesetzlich zur Bearbeitung der Daten verpflichtet sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Datenschutz-Folgenabschätzung",
+        "citation": "Art. 22 Abs. 5 DSG",
+        "content": "Der private Verantwortliche kann von der Erstellung einer Datenschutz-Folgenabschätzung absehen, wenn er ein System, ein Produkt oder eine Dienstleistung einsetzt, das oder die für die vorgesehene Verwendung nach Artikel 13 zertifiziert ist, oder wenn er einen Verhaltenskodex nach Artikel 11 einhält, der die folgenden Voraussetzungen erfüllt:\na. Der Verhaltenskodex beruht auf einer Datenschutz-Folgenabschätzung.\nb. Er sieht Massnahmen zum Schutz der Persönlichkeit und der Grundrechte der betroffenen Person vor.\nc. Er wurde dem EDÖB vorgelegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Konsultation des EDÖB",
+        "citation": "Art. 23 Abs. 1 DSG",
+        "content": "Ergibt sich aus der Datenschutz-Folgenabschätzung, dass die geplante Bearbeitung trotz der vom Verantwortlichen vorgesehenen Massnahmen noch ein hohes Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Person zur Folge hat, so holt er vorgängig die Stellungnahme des EDÖB ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Konsultation des EDÖB",
+        "citation": "Art. 23 Abs. 2 DSG",
+        "content": "Der EDÖB teilt dem Verantwortlichen innerhalb von zwei Monaten seine Einwände gegen die geplante Bearbeitung mit. Diese Frist kann um einen Monat verlängert werden, wenn es sich um eine komplexe Datenbearbeitung handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Konsultation des EDÖB",
+        "citation": "Art. 23 Abs. 3 DSG",
+        "content": "Hat der EDÖB Einwände gegen die geplante Bearbeitung, so schlägt er dem Verantwortlichen geeignete Massnahmen vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Konsultation des EDÖB",
+        "citation": "Art. 23 Abs. 4 DSG",
+        "content": "Der private Verantwortliche kann von der Konsultation des EDÖB absehen, wenn er die Datenschutzberaterin oder den Datenschutzberater nach Artikel 10 konsultiert hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 1 DSG",
+        "content": "Der Verantwortliche meldet dem EDÖB so rasch als möglich eine Verletzung der Datensicherheit, die voraussichtlich zu einem hohen Risiko für die Persönlichkeit oder die Grundrechte der betroffenen Person führt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 2 DSG",
+        "content": "In der Meldung nennt er mindestens die Art der Verletzung der Datensicherheit, deren Folgen und die ergriffenen oder vorgesehenen Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 3 DSG",
+        "content": "Der Auftragsbearbeiter meldet dem Verantwortlichen so rasch als möglich eine Verletzung der Datensicherheit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 4 DSG",
+        "content": "Der Verantwortliche informiert die betroffene Person, wenn es zu ihrem Schutz erforderlich ist oder der EDÖB es verlangt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 5 DSG",
+        "content": "Er kann die Information an die betroffene Person einschränken, aufschieben oder darauf verzichten, wenn:\na. ein Grund nach Artikel 26 Absatz 1 Buchstabe b oder Absatz 2 Buchstabe b vorliegt oder eine gesetzliche Geheimhaltungspflicht dies verbietet;\nb. die Information unmöglich ist oder einen unverhältnismässigen Aufwand erfordert; oder\nc. die Information der betroffenen Person durch eine öffentliche Bekanntmachung in vergleichbarer Weise sichergestellt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 3. Kapitel: Pflichten des Verantwortlichen und des Auftragsbearbeiters, Meldung von Verletzungen der Datensicherheit",
+        "citation": "Art. 24 Abs. 6 DSG",
+        "content": "Eine Meldung, die aufgrund dieses Artikels erfolgt, darf in einem Strafverfahren gegen die meldepflichtige Person nur mit deren Einverständnis verwendet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 1 DSG",
+        "content": "Jede Person kann vom Verantwortlichen Auskunft darüber verlangen, ob Personendaten über sie bearbeitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 2 DSG",
+        "content": "Die betroffene Person erhält diejenigen Informationen, die erforderlich sind, damit sie ihre Rechte nach diesem Gesetz geltend machen kann und eine transparente Datenbearbeitung gewährleistet ist. In jedem Fall werden ihr folgende Informationen mitgeteilt:\na. die Identität und die Kontaktdaten des Verantwortlichen;\nb. die bearbeiteten Personendaten als solche;\nc. der Bearbeitungszweck;\nd. die Aufbewahrungsdauer der Personendaten oder, falls dies nicht möglich ist, die Kriterien zur Festlegung dieser Dauer;\ne. die verfügbaren Angaben über die Herkunft der Personendaten, soweit sie nicht bei der betroffenen Person beschafft wurden;\nf. gegebenenfalls das Vorliegen einer automatisierten Einzelentscheidung sowie die Logik, auf der die Entscheidung beruht;\ng. gegebenenfalls die Empfängerinnen und Empfänger oder die Kategorien von Empfängerinnen und Empfängern, denen Personendaten bekanntgegeben werden, sowie die Informationen nach Artikel 19 Absatz 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 3 DSG",
+        "content": "Personendaten über die Gesundheit können der betroffenen Person mit ihrer Einwilligung durch eine von ihr bezeichnete Gesundheitsfachperson mitgeteilt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 4 DSG",
+        "content": "Lässt der Verantwortliche Personendaten von einem Auftragsbearbeiter bearbeiten, so bleibt er auskunftspflichtig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 5 DSG",
+        "content": "Niemand kann im Voraus auf das Auskunftsrecht verzichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 6 DSG",
+        "content": "Der Verantwortliche muss kostenlos Auskunft erteilen. Der Bundesrat kann Ausnahmen vorsehen, namentlich wenn der Aufwand unverhältnismässig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Auskunftsrecht",
+        "citation": "Art. 25 Abs. 7 DSG",
+        "content": "Die Auskunft wird in der Regel innerhalb von 30 Tagen erteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts",
+        "citation": "Art. 26 Abs. 1 DSG",
+        "content": "Der Verantwortliche kann die Auskunft verweigern, einschränken oder aufschieben, wenn:\na. ein Gesetz im formellen Sinn dies vorsieht, namentlich um ein Berufsgeheimnis zu schützen;\nb. dies aufgrund überwiegender Interessen Dritter erforderlich ist; oder\nc. das Auskunftsgesuch offensichtlich unbegründet ist, namentlich wenn es einen datenschutzwidrigen Zweck verfolgt, oder offensichtlich querulatorisch ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts",
+        "citation": "Art. 26 Abs. 2 DSG",
+        "content": "Darüber hinaus ist es in den folgenden Fällen möglich, die Auskunft zu verweigern, einzuschränken oder aufzuschieben:\na. Der Verantwortliche ist eine private Person und die folgenden Voraussetzungen sind erfüllt:\n1. Überwiegende Interessen des Verantwortlichen erfordern die Massnahme.\n2. Der Verantwortliche gibt die Personendaten nicht Dritten bekannt.\nb. Der Verantwortliche ist ein Bundesorgan, und eine der folgenden Voraussetzungen ist erfüllt:\n1. Die Massnahme ist wegen überwiegender öffentlicher Interessen, insbesondere der inneren oder der äusseren Sicherheit der Schweiz, erforderlich.\n2. Die Mitteilung der Information kann eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts",
+        "citation": "Art. 26 Abs. 3 DSG",
+        "content": "Unternehmen, die zum selben Konzern gehören, gelten nicht als Dritte im Sinne von Absatz 2 Buchstabe a Ziffer 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts",
+        "citation": "Art. 26 Abs. 4 DSG",
+        "content": "Der Verantwortliche muss angeben, weshalb er die Auskunft verweigert, einschränkt oder aufschiebt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts für Medien",
+        "citation": "Art. 27 Abs. 1 DSG",
+        "content": "Werden Personendaten ausschliesslich zur Veröffentlichung im redaktionellen Teil eines periodisch erscheinenden Mediums bearbeitet, so kann der Verantwortliche aus einem der folgenden Gründe die Auskunft verweigern, einschränken oder aufschieben:\na. Die Daten geben Aufschluss über die Informationsquellen.\nb. Durch die Auskunft würde Einsicht in Entwürfe für Publikationen gewährt.\nc. Die Veröffentlichung würde die freie Meinungsbildung des Publikums gefährden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_27"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Auskunftsrechts für Medien",
+        "citation": "Art. 27 Abs. 2 DSG",
+        "content": "Medienschaffende können die Auskunft zudem verweigern, einschränken oder aufschieben, wenn ihnen die Personendaten ausschliesslich als persönliches Arbeitsinstrument dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_27"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Recht auf Datenherausgabe oder -übertragung",
+        "citation": "Art. 28 Abs. 1 DSG",
+        "content": "Jede Person kann vom Verantwortlichen die Herausgabe ihrer Personendaten, die sie ihm bekanntgegeben hat, in einem gängigen elektronischen Format verlangen, wenn:\na. der Verantwortliche die Daten automatisiert bearbeitet; und\nb. die Daten mit der Einwilligung der betroffenen Person oder in unmittelbarem Zusammenhang mit dem Abschluss oder der Abwicklung eines Vertrags zwischen dem Verantwortlichen und der betroffenen Person bearbeitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Recht auf Datenherausgabe oder -übertragung",
+        "citation": "Art. 28 Abs. 2 DSG",
+        "content": "Die betroffene Person kann zudem vom Verantwortlichen verlangen, dass er ihre Personendaten einem anderen Verantwortlichen überträgt, wenn die Voraussetzungen nach Absatz 1 erfüllt sind und dies keinen unverhältnismässigen Aufwand erfordert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Recht auf Datenherausgabe oder -übertragung",
+        "citation": "Art. 28 Abs. 3 DSG",
+        "content": "Der Verantwortliche muss die Personendaten kostenlos herausgeben oder übertragen. Der Bundesrat kann Ausnahmen vorsehen, namentlich wenn der Aufwand unverhältnismässig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+        "citation": "Art. 29 Abs. 1 DSG",
+        "content": "Der Verantwortliche kann die Herausgabe oder Übertragung der Personendaten aus den in Artikel 26 Absätze 1 und 2 aufgeführten Gründen verweigern, einschränken oder aufschieben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_29"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 4. Kapitel: Rechte der betroffenen Person, Einschränkungen des Rechts auf Datenherausgabe oder -übertragung",
+        "citation": "Art. 29 Abs. 2 DSG",
+        "content": "Der Verantwortliche muss angeben, weshalb er die Herausgabe oder Übertragung verweigert, einschränkt oder aufschiebt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_29"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Persönlichkeitsverletzungen",
+        "citation": "Art. 30 Abs. 1 DSG",
+        "content": "Wer Personendaten bearbeitet, darf die Persönlichkeit der betroffenen Personen nicht widerrechtlich verletzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Persönlichkeitsverletzungen",
+        "citation": "Art. 30 Abs. 2 DSG",
+        "content": "Eine Persönlichkeitsverletzung liegt insbesondere vor, wenn:\na. Personendaten entgegen den Grundsätzen nach den Artikeln 6 und 8 bearbeitet werden;\nb. Personendaten entgegen der ausdrücklichen Willenserklärung der betroffenen Person bearbeitet werden;\nc. Dritten besonders schützenswerte Personendaten bekanntgegeben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Persönlichkeitsverletzungen",
+        "citation": "Art. 30 Abs. 3 DSG",
+        "content": "In der Regel liegt keine Persönlichkeitsverletzung vor, wenn die betroffene Person die Personendaten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtfertigungsgründe",
+        "citation": "Art. 31 Abs. 1 DSG",
+        "content": "Eine Persönlichkeitsverletzung ist widerrechtlich, wenn sie nicht durch Einwilligung der betroffenen Person, durch ein überwiegendes privates oder öffentliches Interesse oder durch Gesetz gerechtfertigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_31"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtfertigungsgründe",
+        "citation": "Art. 31 Abs. 2 DSG",
+        "content": "Ein überwiegendes Interesse des Verantwortlichen fällt insbesondere in folgenden Fällen in Betracht:\na. Der Verantwortliche bearbeitet die Personendaten über die Vertragspartnerin oder den Vertragspartner in unmittelbarem Zusammenhang mit dem Abschluss oder der Abwicklung eines Vertrags.\nb. Der Verantwortliche steht mit einer anderen Person in wirtschaftlichem Wettbewerb oder wird in wirtschaftlichen Wettbewerb treten und bearbeitet zu diesem Zweck Personendaten, die Dritten nicht bekanntgegeben werden; nicht als Dritte im Rahmen dieser Bestimmung gelten Unternehmen, die zum selben Konzern gehören wie der Verantwortliche.\nc. Der Verantwortliche bearbeitet Personendaten zur Prüfung der Kreditwürdigkeit der betroffenen Person, wobei die folgenden Voraussetzungen erfüllt sind:\n1. Es handelt sich weder um besonders schützenswerte Personendaten noch um ein Profiling mit hohem Risiko.\n2. Die Daten werden Dritten nur bekanntgegeben, wenn diese die Daten für den Abschluss oder die Abwicklung eines Vertrags mit der betroffenen Person benötigen.\n3. Die Daten sind nicht älter als zehn Jahre.\n4. Die betroffene Person ist volljährig.\nd. Der Verantwortliche bearbeitet die Personendaten beruflich und ausschliesslich zur Veröffentlichung im redaktionellen Teil eines periodisch erscheinenden Mediums oder die Daten dienen ihm, falls keine Veröffentlichung erfolgt, ausschliesslich als persönliches Arbeitsinstrument.\ne. Der Verantwortliche bearbeitet die Personendaten für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung oder Statistik, wobei die folgenden Voraussetzungen erfüllt sind:\n1. Er anonymisiert die Daten, sobald der Bearbeitungszweck dies erlaubt; ist eine Anonymisierung unmöglich oder erfordert sie einen unverhältnismässigen Aufwand, so trifft er angemessene Massnahmen, um die Bestimmbarkeit der betroffenen Person zu verhindern.\n2. Handelt es sich um besonders schützenswerte Personendaten, so gibt er diese Dritten so bekannt, dass die betroffene Person nicht bestimmbar ist; ist dies nicht möglich, so muss gewährleistet sein, dass die Dritten die Daten nur zu nicht personenbezogenen Zwecken bearbeiten.\n3. Die Ergebnisse werden so veröffentlicht, dass die betroffenen Personen nicht bestimmbar sind.\nf. Der Verantwortliche sammelt Personendaten über eine Person des öffentlichen Lebens, die sich auf das Wirken dieser Person in der Öffentlichkeit beziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_31"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtsansprüche",
+        "citation": "Art. 32 Abs. 1 DSG",
+        "content": "Die betroffene Person kann verlangen, dass unrichtige Personendaten berichtigt werden, es sei denn: \na. eine gesetzliche Vorschrift verbietet die Änderung;\nb. die Personendaten werden zu Archivzwecken im öffentlichen Interesse bearbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtsansprüche",
+        "citation": "Art. 32 Abs. 2 DSG",
+        "content": "Klagen zum Schutz der Persönlichkeit richten sich nach den Artikeln 28, 28a sowie 28g–28l des Zivilgesetzbuchs. Die klagende Partei kann insbesondere verlangen, dass:\na. eine bestimmte Datenbearbeitung verboten wird;\nb. eine bestimmte Bekanntgabe von Personendaten an Dritte untersagt wird;\nc. Personendaten gelöscht oder vernichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtsansprüche",
+        "citation": "Art. 32 Abs. 3 DSG",
+        "content": "Kann weder die Richtigkeit noch die Unrichtigkeit der betreffenden Personendaten festgestellt werden, so kann die klagende Partei verlangen, dass ein Bestreitungsvermerk angebracht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 5. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch private Personen, Rechtsansprüche",
+        "citation": "Art. 32 Abs. 4 DSG",
+        "content": "Die klagende Partei kann zudem verlangen, dass die Berichtigung, die Löschung oder die Vernichtung, das Verbot der Bearbeitung oder der Bekanntgabe an Dritte, der Bestreitungsvermerk oder das Urteil Dritten mitgeteilt oder veröffentlicht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Kontrolle und Verantwortung bei gemeinsamer Bearbeitung von Personendaten",
+        "citation": "Art. 33 DSG",
+        "content": "Der Bundesrat regelt die Kontrollverfahren und die Verantwortung für den Datenschutz, wenn ein Bundesorgan Personendaten zusammen mit anderen Bundesorganen, mit kantonalen Organen oder mit privaten Personen bearbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_33"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Rechtsgrundlagen",
+        "citation": "Art. 34 Abs. 1 DSG",
+        "content": "Bundesorgane dürfen Personendaten nur bearbeiten, wenn dafür eine gesetzliche Grundlage besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Rechtsgrundlagen",
+        "citation": "Art. 34 Abs. 2 DSG",
+        "content": "Eine Grundlage in einem Gesetz im formellen Sinn ist in folgenden Fällen erforderlich:\na. Es handelt sich um die Bearbeitung von besonders schützenswerten Personendaten.\nb. Es handelt sich um ein Profiling.\nc. Der Bearbeitungszweck oder die Art und Weise der Datenbearbeitung können zu einem schwerwiegenden Eingriff in die Grundrechte der betroffenen Person führen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Rechtsgrundlagen",
+        "citation": "Art. 34 Abs. 3 DSG",
+        "content": "Für die Bearbeitung von Personendaten nach Absatz 2 Buchstaben a und b ist eine Grundlage in einem Gesetz im materiellen Sinn ausreichend, wenn die folgenden Voraussetzungen erfüllt sind:\na. Die Bearbeitung ist für eine in einem Gesetz im formellen Sinn festgelegte Aufgabe unentbehrlich.\nb. Der Bearbeitungszweck birgt für die Grundrechte der betroffenen Person keine besonderen Risiken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Rechtsgrundlagen",
+        "citation": "Art. 34 Abs. 4 DSG",
+        "content": "In Abweichung von den Absätzen 1–3 dürfen Bundesorgane Personendaten bearbeiten, wenn eine der folgenden Voraussetzungen erfüllt ist:\na. Der Bundesrat hat die Bearbeitung bewilligt, weil er die Rechte der betroffenen Person für nicht gefährdet hält.\nb. Die betroffene Person hat im Einzelfall in die Bearbeitung eingewilligt oder hat ihre Personendaten allgemein zugänglich gemacht und eine Bearbeitung nicht ausdrücklich untersagt.\nc. Die Bearbeitung ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+        "citation": "Art. 35 Abs. 1 DSG",
+        "content": "Der Bundesrat kann vor Inkrafttreten eines Gesetzes im formellen Sinn die automatisierte Bearbeitung von besonders schützenswerten Personendaten oder andere Datenbearbeitungen nach Artikel 34 Absatz 2 Buchstaben b und c bewilligen, wenn:\na. die Aufgaben, aufgrund deren die Bearbeitung erforderlich ist, in einem bereits in Kraft stehenden Gesetz im formellen Sinn geregelt sind;\nb. ausreichende Massnahmen getroffen werden, um einen Eingriff in die Grundrechte der betroffenen Personen auf das Mindestmass zu begrenzen; und\nc. für die praktische Umsetzung der Datenbearbeitung eine Testphase vor dem Inkrafttreten, insbesondere aus technischen Gründen, unentbehrlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+        "citation": "Art. 35 Abs. 2 DSG",
+        "content": "Er holt vorgängig die Stellungnahme des EDÖB ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+        "citation": "Art. 35 Abs. 3 DSG",
+        "content": "Das zuständige Bundesorgan legt dem Bundesrat spätestens zwei Jahre nach der Aufnahme des Pilotversuchs einen Evaluationsbericht vor. Es schlägt darin die Fortführung oder die Einstellung der Bearbeitung vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Automatisierte Datenbearbeitung im Rahmen von Pilotversuchen",
+        "citation": "Art. 35 Abs. 4 DSG",
+        "content": "Die automatisierte Datenbearbeitung muss in jedem Fall abgebrochen werden, wenn innerhalb von fünf Jahren nach Aufnahme des Pilotversuchs kein Gesetz im formellen Sinn in Kraft getreten ist, das die erforderliche Rechtsgrundlage enthält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 1 DSG",
+        "content": "Bundesorgane dürfen Personendaten nur bekanntgeben, wenn dafür eine gesetzliche Grundlage nach Artikel 34 Absätze 1–3 besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 2 DSG",
+        "content": "Sie dürfen Personendaten in Abweichung von Absatz 1 im Einzelfall bekanntgeben, wenn eine der folgenden Voraussetzungen erfüllt ist:\na. Die Bekanntgabe der Daten ist für den Verantwortlichen oder für die Empfängerin oder den Empfänger zur Erfüllung einer gesetzlichen Aufgabe unentbehrlich.\nb. Die betroffene Person hat in die Bekanntgabe eingewilligt.\nc. Die Bekanntgabe der Daten ist notwendig, um das Leben oder die körperliche Unversehrtheit der betroffenen Person oder eines Dritten zu schützen, und es ist nicht möglich, innerhalb einer angemessenen Frist die Einwilligung der betroffenen Person einzuholen.\nd. Die betroffene Person hat ihre Daten allgemein zugänglich gemacht und eine Bekanntgabe nicht ausdrücklich untersagt.\ne. Die Empfängerin oder der Empfänger macht glaubhaft, dass die betroffene Person die Einwilligung verweigert oder Widerspruch gegen die Bekanntgabe einlegt, um ihr oder ihm die Durchsetzung von Rechtsansprüchen oder die Wahrnehmung anderer schutzwürdiger Interessen zu verwehren; der betroffenen Person ist vorgängig Gelegenheit zur Stellungnahme zu geben, es sei denn, dies ist unmöglich oder mit unverhältnismässigem Aufwand verbunden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 3 DSG",
+        "content": "Die Bundesorgane dürfen Personendaten darüber hinaus im Rahmen der behördlichen Information der Öffentlichkeit von Amtes wegen oder gestützt auf das Öffentlichkeitsgesetz vom 17. Dezember 2004 bekanntgeben, wenn:\na. die Daten im Zusammenhang mit der Erfüllung öffentlicher Aufgaben stehen; und\nb. an der Bekanntgabe ein überwiegendes öffentliches Interesse besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 4 DSG",
+        "content": "Sie dürfen Name, Vorname, Adresse und Geburtsdatum einer Person auf Anfrage auch bekanntgeben, wenn die Voraussetzungen nach Absatz 1 oder 2 nicht erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 5 DSG",
+        "content": "Sie dürfen Personendaten mittels automatisierter Informations- und Kommunikationsdienste allgemein zugänglich machen, wenn eine Rechtsgrundlage die Veröffentlichung dieser Daten vorsieht oder wenn sie Daten gestützt auf Absatz 3 bekanntgeben. Besteht kein öffentliches Interesse mehr daran, die Daten allgemein zugänglich zu machen, so werden die betreffenden Daten aus dem automatisierten Informations- und Kommunikationsdienst gelöscht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Bekanntgabe von Personendaten",
+        "citation": "Art. 36 Abs. 6 DSG",
+        "content": "Die Bundesorgane lehnen die Bekanntgabe ab, schränken sie ein oder verbinden sie mit Auflagen, wenn:\na. wesentliche öffentliche Interessen oder offensichtlich schutzwürdige Interessen der betroffenen Person es verlangen; oder\nb. gesetzliche Geheimhaltungspflichten oder besondere Datenschutzvorschriften es verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Widerspruch gegen die Bekanntgabe von Personendaten",
+        "citation": "Art. 37 Abs. 1 DSG",
+        "content": "Die betroffene Person, die ein schutzwürdiges Interesse glaubhaft macht, kann gegen die Bekanntgabe bestimmter Personendaten durch das verantwortliche Bundesorgan Widerspruch einlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Widerspruch gegen die Bekanntgabe von Personendaten",
+        "citation": "Art. 37 Abs. 2 DSG",
+        "content": "Das Bundesorgan weist das Begehren ab, wenn eine der folgenden Voraussetzungen erfüllt ist:\na. Es besteht eine Rechtspflicht zur Bekanntgabe.\nb. Die Erfüllung seiner Aufgaben wäre sonst gefährdet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Widerspruch gegen die Bekanntgabe von Personendaten",
+        "citation": "Art. 37 Abs. 3 DSG",
+        "content": "Artikel 36 Absatz 3 bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Angebot von Unterlagen an das Bundesarchiv",
+        "citation": "Art. 38 Abs. 1 DSG",
+        "content": "In Übereinstimmung mit dem Archivierungsgesetz vom 26. Juni 1998 bieten die Bundesorgane dem Bundesarchiv alle Personendaten an, die sie nicht mehr ständig benötigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_38"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Angebot von Unterlagen an das Bundesarchiv",
+        "citation": "Art. 38 Abs. 2 DSG",
+        "content": "Sie vernichten die vom Bundesarchiv als nicht archivwürdig bezeichneten Personendaten, es sei denn:\na. diese werden anonymisiert;\nb. diese müssen zu Beweis- oder Sicherheitszwecken oder zur Wahrung der schutzwürdigen Interessen der betroffenen Person aufbewahrt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_38"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Datenbearbeitung für nicht personenbezogene Zwecke",
+        "citation": "Art. 39 Abs. 1 DSG",
+        "content": "Bundesorgane dürfen Personendaten für nicht personenbezogene Zwecke, insbesondere für Forschung, Planung oder Statistik, bearbeiten, wenn:\na. die Daten anonymisiert werden, sobald der Bearbeitungszweck dies erlaubt;\nb. das Bundesorgan privaten Personen besonders schützenswerte Personendaten nur so bekanntgibt, dass die betroffenen Personen nicht bestimmbar sind;\nc. die Empfängerin oder der Empfänger Dritten die Daten nur mit der Zustimmung des Bundesorgans weitergibt, das die Daten bekanntgegeben hat; und\nd. die Ergebnisse nur so veröffentlicht werden, dass die betroffenen Personen nicht bestimmbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_39"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Datenbearbeitung für nicht personenbezogene Zwecke",
+        "citation": "Art. 39 Abs. 2 DSG",
+        "content": "Die Artikel 6 Absatz 3, 34 Absatz 2 sowie 36 Absatz 1 sind nicht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_39"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Privatrechtliche Tätigkeit von Bundesorganen",
+        "citation": "Art. 40 DSG",
+        "content": "Handelt ein Bundesorgan privatrechtlich, so gelten die Bestimmungen für die Datenbearbeitung durch private Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_40"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 1 DSG",
+        "content": "Wer ein schutzwürdiges Interesse hat, kann vom verantwortlichen Bundesorgan verlangen, dass es:\na. die widerrechtliche Bearbeitung der betreffenden Personendaten unterlässt;\nb. die Folgen einer widerrechtlichen Bearbeitung beseitigt;\nc. die Widerrechtlichkeit der Bearbeitung feststellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 2 DSG",
+        "content": "Die Gesuchstellerin oder der Gesuchsteller kann insbesondere verlangen, dass das Bundesorgan:\na. die betreffenden Personendaten berichtigt, löscht oder vernichtet;\nb. seinen Entscheid, namentlich über die Berichtigung, Löschung oder Vernichtung, den Widerspruch gegen die Bekanntgabe nach Artikel 37 oder den Bestreitungsvermerk nach Absatz 4 Dritten mitteilt oder veröffentlicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 3 DSG",
+        "content": "Statt die Personendaten zu löschen oder zu vernichten, schränkt das Bundesorgan die Bearbeitung ein, wenn:\na. die betroffene Person die Richtigkeit der Personendaten bestreitet und weder die Richtigkeit noch die Unrichtigkeit festgestellt werden kann;\nb. überwiegende Interessen Dritter dies erfordern;\nc. ein überwiegendes öffentliches Interesse, namentlich die innere oder die äussere Sicherheit der Schweiz, dies erfordert;\nd. die Löschung oder Vernichtung der Daten eine Ermittlung, eine Untersuchung oder ein behördliches oder gerichtliches Verfahren gefährden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 4 DSG",
+        "content": "Kann weder die Richtigkeit noch die Unrichtigkeit der betreffenden Personendaten festgestellt werden, so bringt das Bundesorgan bei den Daten einen Bestreitungsvermerk an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 5 DSG",
+        "content": "Die Berichtigung, Löschung oder Vernichtung von Personendaten kann nicht verlangt werden in Bezug auf die Bestände öffentlich zugänglicher Bibliotheken, Bildungseinrichtungen, Museen, Archive oder anderer öffentlicher Gedächtnisinstitutionen. Macht die Gesuchstellerin oder der Gesuchsteller ein überwiegendes Interesse glaubhaft, so kann sie oder er verlangen, dass die Institution den Zugang zu den umstrittenen Daten beschränkt. Die Absätze 3 und 4 sind nicht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Ansprüche und Verfahren",
+        "citation": "Art. 41 Abs. 6 DSG",
+        "content": "Das Verfahren richtet sich nach dem VwVG. Die Ausnahmen nach den Artikeln 2 und 3 VwVG sind nicht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 6. Kapitel:, Besondere Bestimmungen zur Datenbearbeitung durch Bundesorgane, Verfahren im Falle der Bekanntgabe von amtlichen Dokumenten, die Personendaten enthalten",
+        "citation": "Art. 42 DSG",
+        "content": "Ist ein Verfahren betreffend den Zugang zu amtlichen Dokumenten, die Personendaten enthalten, im Sinne des Öffentlichkeitsgesetzes vom 17. Dezember 2004 hängig, so kann die betroffene Person in diesem Verfahren diejenigen Rechte geltend machen, die ihr nach Artikel 41 des vorliegenden Gesetzes bezogen auf diejenigen Dokumente zustehen, die Gegenstand des Zugangsverfahrens sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_42"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 1 DSG",
+        "content": "Die Vereinigte Bundesversammlung wählt die Leiterin oder den Leiter des EDÖB (die oder der Beauftragte).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 2 DSG",
+        "content": "Wählbar ist, wer in eidgenössischen Angelegenheiten stimmberechtigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 3 DSG",
+        "content": "Das Arbeitsverhältnis der oder des Beauftragten richtet sich, soweit dieses Gesetz nichts anderes vorsieht, nach dem Bundespersonalgesetz vom 24. März 2000 (BPG). Die oder der Beauftragte ist bis zum vollendeten 65. Altersjahr bei der Pensionskasse des Bundes PUBLICA gegen die wirtschaftlichen Folgen von Alter, Invalidität und Tod versichert. Wird das Arbeitsverhältnis nach dem vollendeten 65. Altersjahr fortgesetzt, so wird auf Verlangen der oder des Beauftragten die Altersvorsorge bis zur Beendigung des Arbeitsverhältnisses, höchstens aber bis zum Ende des Jahres, in dem sie oder er das 68. Altersjahr vollendet, weitergeführt. Der EDÖB finanziert die Sparbeiträge des Arbeitsgebers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 3bis DSG",
+        "content": "Die Bundesversammlung erlässt die Ausführungsbestimmungen über das Arbeitsverhältnis der oder des Beauftragten in einer Verordnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 4 DSG",
+        "content": "Die oder der Beauftragte übt ihre oder seine Funktion unabhängig aus, ohne Weisungen einer Behörde oder eines Dritten einzuholen oder entgegenzunehmen. Sie oder er ist administrativ der Bundeskanzlei zugeordnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 5 DSG",
+        "content": "Sie oder er verfügt über ein ständiges Sekretariat und ein eigenes Budget. Sie oder er stellt sein Personal an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Wahl und Stellung",
+        "citation": "Art. 43 Abs. 6 DSG",
+        "content": "Sie oder er untersteht nicht dem Beurteilungssystem nach Artikel 4 Absatz 3 BPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Amtsdauer, Wiederwahl und Beendigung der Amtsdauer",
+        "citation": "Art. 44 Abs. 1 DSG",
+        "content": "Die Amtsdauer der oder des Beauftragten beträgt vier Jahre und kann zwei Mal erneuert werden. Sie beginnt am 1. Januar nach Beginn der Legislaturperiode des Nationalrates.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Amtsdauer, Wiederwahl und Beendigung der Amtsdauer",
+        "citation": "Art. 44 Abs. 2 DSG",
+        "content": "Die oder der Beauftragte kann das Arbeitsverhältnis auf Ende jedes Monats unter Einhaltung einer Kündigungsfrist von sechs Monaten kündigen. Die Gerichtskommission kann der oder dem Beauftragten im Einzelfall eine kürzere Kündigungsfrist zugestehen, wenn keine wesentlichen Interessen entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Amtsdauer, Wiederwahl und Beendigung der Amtsdauer",
+        "citation": "Art. 44 Abs. 3 DSG",
+        "content": "Die Vereinigte Bundesversammlung kann die Beauftragte oder den Beauftragten vor Ablauf der Amtsdauer des Amtes entheben, wenn diese oder dieser:\na. vorsätzlich oder grobfahrlässig Amtspflichten schwer verletzt hat; oder\nb. die Fähigkeit, das Amt auszuüben, auf Dauer verloren hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Verwarnung",
+        "citation": "Art. 44a DSG",
+        "content": "Die Gerichtskommission kann eine Verwarnung aussprechen, wenn sie feststellt, dass die oder der Beauftragte Amtspflichten verletzt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_44_a"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Budget",
+        "citation": "Art. 45 DSG",
+        "content": "Der EDÖB reicht den Entwurf seines Budgets jährlich über die Bundeskanzlei dem Bundesrat ein. Dieser leitet ihn unverändert an die Bundesversammlung weiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_45"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Unvereinbarkeit",
+        "citation": "Art. 46 DSG",
+        "content": "Die oder der Beauftragte darf weder der Bundesversammlung noch dem Bundesrat angehören und in keinem anderen Arbeitsverhältnis mit dem Bund stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_46"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Nebenbeschäftigung",
+        "citation": "Art. 47 Abs. 1 DSG",
+        "content": "Die oder der Beauftragte darf keine Nebenbeschäftigung ausüben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_47"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Nebenbeschäftigung",
+        "citation": "Art. 47 Abs. 2 DSG",
+        "content": "Die Gerichtskommission kann der oder dem Beauftragten gestatten, eine Nebenbeschäftigung auszuüben, wenn dadurch die Ausübung der Funktion sowie die Unabhängigkeit und das Ansehen des EDÖB nicht beeinträchtigt werden. Der Entscheid wird veröffentlicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_47"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Ausstand",
+        "citation": "Art. 47a DSG",
+        "content": "Ist der Ausstand der oder des Beauftragten streitig, so entscheidet darüber die Präsidentin oder der Präsident der auf dem Gebiet des Datenschutzes zuständigen Abteilung des Bundesverwaltungsgerichts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_47_a"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 1. Abschnitt: Organisation, Selbstkontrolle des EDÖB",
+        "citation": "Art. 48 DSG",
+        "content": "Der EDÖB stellt durch geeignete Kontrollmassnahmen, insbesondere in Bezug auf die Datensicherheit, sicher, dass der rechtskonforme Vollzug der bundesrechtlichen Datenschutzvorschriften innerhalb seiner Behörde gewährleistet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_48"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Untersuchung",
+        "citation": "Art. 49 Abs. 1 DSG",
+        "content": "Der EDÖB eröffnet von Amtes wegen oder auf Anzeige hin eine Untersuchung gegen ein Bundesorgan oder eine private Person, wenn genügend Anzeichen bestehen, dass eine Datenbearbeitung gegen die Datenschutzvorschriften verstossen könnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Untersuchung",
+        "citation": "Art. 49 Abs. 2 DSG",
+        "content": "Er kann von der Eröffnung einer Untersuchung absehen, wenn die Verletzung der Datenschutzvorschriften von geringfügiger Bedeutung ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Untersuchung",
+        "citation": "Art. 49 Abs. 3 DSG",
+        "content": "Das Bundesorgan oder die private Person erteilt dem EDÖB alle Auskünfte und stellt ihm alle Unterlagen zur Verfügung, die für die Untersuchung notwendig sind. Das Auskunftsverweigerungsrecht richtet sich nach den Artikeln 16 und 17 des VwVG, sofern Artikel 50 Absatz 2 des vorliegenden Gesetzes nichts anderes bestimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Untersuchung",
+        "citation": "Art. 49 Abs. 4 DSG",
+        "content": "Hat die betroffene Person Anzeige erstattet, so informiert der EDÖB sie über die gestützt darauf unternommenen Schritte und das Ergebnis einer allfälligen Untersuchung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Befugnisse",
+        "citation": "Art. 50 Abs. 1 DSG",
+        "content": "Kommt das Bundesorgan oder die private Person den Mitwirkungspflichten nicht nach, so kann der EDÖB im Rahmen der Untersuchung insbesondere Folgendes anordnen: \na. Zugang zu allen Auskünften, Unterlagen, Verzeichnissen der Bearbeitungstätigkeiten und Personendaten, die für die Untersuchung erforderlich sind;\nb. Zugang zu Räumlichkeiten und Anlagen;\nc. Zeugeneinvernahmen;\nd. Begutachtungen durch Sachverständige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Befugnisse",
+        "citation": "Art. 50 Abs. 2 DSG",
+        "content": "Das Berufsgeheimnis bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Befugnisse",
+        "citation": "Art. 50 Abs. 3 DSG",
+        "content": "Zum Vollzug der Massnahmen nach Absatz 1 kann der EDÖB andere Bundesbehörden sowie die kantonalen oder kommunalen Polizeiorgane beiziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verwaltungsmassnahmen",
+        "citation": "Art. 51 Abs. 1 DSG",
+        "content": "Liegt eine Verletzung von Datenschutzvorschriften vor, so kann der EDÖB verfügen, dass die Bearbeitung ganz oder teilweise angepasst, unterbrochen oder abgebrochen wird und die Personendaten ganz oder teilweise gelöscht oder vernichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verwaltungsmassnahmen",
+        "citation": "Art. 51 Abs. 2 DSG",
+        "content": "Er kann die Bekanntgabe ins Ausland aufschieben oder untersagen, wenn sie gegen die Voraussetzungen nach Artikel 16 oder 17 oder gegen Bestimmungen betreffend die Bekanntgabe von Personendaten ins Ausland in anderen Bundesgesetzen verstösst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verwaltungsmassnahmen",
+        "citation": "Art. 51 Abs. 3 DSG",
+        "content": "Er kann namentlich anordnen, dass das Bundesorgan oder die private Person:\na. ihn nach den Artikeln 16 Absatz 2 Buchstaben b und c sowie 17 Absatz 2 informiert;\nb. die Vorkehren nach den Artikeln 7 und 8 trifft;\nc. nach den Artikeln 19 und 21 die betroffenen Personen informiert;\nd. eine Datenschutz-Folgenabschätzung nach Artikel 22 vornimmt;\ne. ihn nach Artikel 23 konsultiert;\nf. ihn oder gegebenenfalls die betroffenen Personen nach Artikel 24 informiert;\ng. der betroffenen Person die Auskünfte nach Artikel 25 erteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verwaltungsmassnahmen",
+        "citation": "Art. 51 Abs. 4 DSG",
+        "content": "Er kann auch anordnen, dass der private Verantwortliche mit Sitz oder Wohnsitz im Ausland eine Vertretung nach Artikel 14 bezeichnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verwaltungsmassnahmen",
+        "citation": "Art. 51 Abs. 5 DSG",
+        "content": "Hat das Bundesorgan oder die private Person während der Untersuchung die erforderlichen Massnahmen getroffen, um die Einhaltung der Datenschutzvorschriften wiederherzustellen, so kann der EDÖB sich darauf beschränken, eine Verwarnung auszusprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verfahren",
+        "citation": "Art. 52 Abs. 1 DSG",
+        "content": "Das Untersuchungsverfahren sowie Verfügungen nach den Artikeln 50 und 51 richten sich nach dem VwVG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verfahren",
+        "citation": "Art. 52 Abs. 2 DSG",
+        "content": "Partei ist nur das Bundesorgan oder die private Person, gegen das oder die eine Untersuchung eröffnet wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Verfahren",
+        "citation": "Art. 52 Abs. 3 DSG",
+        "content": "Der EDÖB kann Beschwerdeentscheide des Bundesverwaltungsgerichts anfechten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Koordination",
+        "citation": "Art. 53 Abs. 1 DSG",
+        "content": "Bundesverwaltungsbehörden, die nach einem anderen Bundesgesetz private Personen oder Organisationen ausserhalb der Bundesverwaltung beaufsichtigen, laden den EDÖB zur Stellungnahme ein, bevor sie eine Verfügung erlassen, die Fragen des Datenschutzes betrifft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_53"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 2. Abschnitt: Untersuchung von Verstössen gegen Datenschutzvorschriften, Koordination",
+        "citation": "Art. 53 Abs. 2 DSG",
+        "content": "Führt der EDÖB gegen die gleiche Partei eine eigene Untersuchung durch, so koordinieren die beiden Behörden ihre Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_53"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 3. Abschnitt: Amtshilfe, Amtshilfe zwischen schweizerischen Behörden",
+        "citation": "Art. 54 Abs. 1 DSG",
+        "content": "Bundesbehörden und kantonale Behörden geben dem EDÖB die Informationen und Personendaten bekannt, die für die Erfüllung seiner gesetzlichen Aufgaben erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_54"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 3. Abschnitt: Amtshilfe, Amtshilfe zwischen schweizerischen Behörden",
+        "citation": "Art. 54 Abs. 2 DSG",
+        "content": "Der EDÖB gibt den folgenden Behörden die Informationen und Personendaten bekannt, die für die Erfüllung ihrer gesetzlichen Aufgaben erforderlich sind:\na. den Behörden, die in der Schweiz für den Datenschutz zuständig sind;\nb. den zuständigen Strafverfolgungsbehörden, falls es um die Anzeige einer Straftat nach Artikel 65 Absatz 2 geht;\nc. den Bundesbehörden sowie den kantonalen und kommunalen Polizeiorganen für den Vollzug der Massnahmen nach den Artikeln 50 Absatz 3 und 51.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_54"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 3. Abschnitt: Amtshilfe, Amtshilfe gegenüber ausländischen Behörden",
+        "citation": "Art. 55 Abs. 1 DSG",
+        "content": "Der EDÖB kann mit ausländischen Behörden, die für den Datenschutz zuständig sind, für die Erfüllung ihrer jeweiligen gesetzlich vorgesehenen Aufgaben im Bereich des Datenschutzes Informationen oder Personendaten austauschen, wenn folgende Voraussetzungen erfüllt sind:\na. Die Gegenseitigkeit der Amtshilfe ist sichergestellt.\nb. Die Informationen und Personendaten werden nur für das den Datenschutz betreffende Verfahren verwendet, das dem Amtshilfeersuchen zugrunde liegt.\nc. Die empfangende Behörde verpflichtet sich, das Berufsgeheimnis sowie Geschäfts- und Fabrikationsgeheimnisse zu wahren.\nd. Die Informationen und Personendaten werden Dritten nur bekanntgegeben, wenn die Behörde, die sie übermittelt hat, dies vorgängig genehmigt.\ne. Die empfangende Behörde verpflichtet sich, die Auflagen und Einschränkungen der Behörde einzuhalten, die ihr die Informationen und Personendaten übermittelt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 3. Abschnitt: Amtshilfe, Amtshilfe gegenüber ausländischen Behörden",
+        "citation": "Art. 55 Abs. 2 DSG",
+        "content": "Um sein Amtshilfegesuch zu begründen oder um dem Ersuchen einer Behörde Folge zu leisten, kann der EDÖB insbesondere folgende Angaben machen:\na. Identität des Verantwortlichen, des Auftragsbearbeiters oder anderer beteiligter Dritter;\nb. Kategorien der betroffenen Personen;\nc. Identität der betroffenen Personen, falls:\n1. die betroffenen Personen eingewilligt haben, oder\n2. die Mitteilung der Identität der betroffenen Personen unentbehrlich ist zur Erfüllung der gesetzlichen Aufgaben durch den EDÖB oder die ausländische Behörde;\nd. bearbeitete Personendaten oder Kategorien bearbeiteter Personendaten;\ne. Bearbeitungszweck;\nf. Empfängerinnen und Empfänger oder die Kategorien der Empfängerinnen und Empfänger;\ng. technische und organisatorische Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 3. Abschnitt: Amtshilfe, Amtshilfe gegenüber ausländischen Behörden",
+        "citation": "Art. 55 Abs. 3 DSG",
+        "content": "Bevor der EDÖB einer ausländischen Behörde Informationen bekanntgibt, die ein Berufsgeheimnis, Geschäfts- oder Fabrikationsgeheimnisse enthalten können, informiert er die betroffenen natürlichen oder juristischen Personen, die Trägerinnen dieser Geheimnisse sind, und lädt sie zur Stellungnahme ein, es sei denn, dies ist nicht möglich oder erfordert einen unverhältnismässigen Aufwand.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Register",
+        "citation": "Art. 56 DSG",
+        "content": "Der EDÖB führt ein Register der Bearbeitungstätigkeiten der Bundesorgane. Das Register wird veröffentlicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_56"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Information",
+        "citation": "Art. 57 Abs. 1 DSG",
+        "content": "Der EDÖB erstattet der Bundesversammlung jährlich Bericht über seine Tätigkeit. Er übermittelt ihn gleichzeitig dem Bundesrat. Der Bericht wird veröffentlicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_57"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Information",
+        "citation": "Art. 57 Abs. 2 DSG",
+        "content": "In Fällen von allgemeinem Interesse informiert der EDÖB die Öffentlichkeit über seine Feststellungen und Verfügungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_57"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Weitere Aufgaben",
+        "citation": "Art. 58 Abs. 1 DSG",
+        "content": "Der EDÖB nimmt darüber hinaus insbesondere folgende Aufgaben wahr:\na. Er informiert, schult und berät die Bundesorgane sowie private Personen in Fragen des Datenschutzes.\nb. Er unterstützt die kantonalen Organe und arbeitet mit schweizerischen und ausländischen Behörden, die für den Datenschutz zuständig sind, zusammen.\nc. Er sensibilisiert die Bevölkerung, insbesondere schutzbedürftige Personen, in Bezug auf den Datenschutz.\nd. Er erteilt betroffenen Personen auf Anfrage Auskunft darüber, wie sie ihre Rechte ausüben können.\ne. Er nimmt Stellung zu Erlassentwürfen und Massnahmen des Bundes, die eine Datenbearbeitung zur Folge haben.\nf. Er nimmt die ihm durch das Öffentlichkeitsgesetz vom 17. Dezember 2004 oder andere Bundesgesetze übertragenen Aufgaben wahr.\ng. Er erarbeitet Arbeitsinstrumente als Empfehlungen der guten Praxis zuhanden von Verantwortlichen, Auftragsbearbeitern und betroffenen Personen; hierfür berücksichtigt er die Besonderheiten des jeweiligen Bereichs sowie den Schutz von schutzbedürftigen Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Weitere Aufgaben",
+        "citation": "Art. 58 Abs. 2 DSG",
+        "content": "Er kann auch Bundesorgane beraten, die gemäss den Artikeln 2 und 4 nicht seiner Aufsicht unterstehen. Die Bundesorgane können ihm Akteneinsicht gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 4. Abschnitt: Andere Aufgaben des EDÖB, Weitere Aufgaben",
+        "citation": "Art. 58 Abs. 3 DSG",
+        "content": "Der EDÖB ist befugt, gegenüber den ausländischen Behörden, die für den Datenschutz zuständig sind, zu erklären, dass im Bereich des Datenschutzes in der Schweiz die direkte Zustellung zulässig ist, sofern der Schweiz Gegenrecht gewährt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 5. Abschnitt:, Gebühren",
+        "citation": "Art. 59 Abs. 1 DSG",
+        "content": "Der EDÖB erhebt von privaten Personen Gebühren für:\na. die Stellungnahme zu einem Verhaltenskodex nach Artikel 11 Absatz 2;\nb. die Genehmigung von Standarddatenschutzklauseln und verbindlichen unternehmensinternen Datenschutzvorschriften nach Artikel 16 Absatz 2 Buchstaben d und e;\nc. die Konsultation aufgrund einer Datenschutz-Folgenabschätzung nach Artikel 23 Absatz 2;\nd. vorsorgliche Massnahmen und Massnahmen nach Artikel 51;\ne. Beratungen in Fragen des Datenschutzes nach Artikel 58 Absatz 1 Buchstabe a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 5. Abschnitt:, Gebühren",
+        "citation": "Art. 59 Abs. 2 DSG",
+        "content": "Der Bundesrat legt die Höhe der Gebühren fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 7. Kapitel: Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter, 5. Abschnitt:, Gebühren",
+        "citation": "Art. 59 Abs. 3 DSG",
+        "content": "Er kann festlegen, in welchen Fällen es möglich ist, auf die Erhebung einer Gebühr zu verzichten oder sie zu reduzieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung von Informations-, Auskunfts- und Mitwirkungspflichten",
+        "citation": "Art. 60 Abs. 1 DSG",
+        "content": "Mit Busse bis zu 250 000 Franken werden private Personen auf Antrag bestraft:\na. die ihre Pflichten nach den Artikeln 19, 21 und 25–27 verletzen, indem sie vorsätzlich eine falsche oder unvollständige Auskunft erteilen;\nb. die es vorsätzlich unterlassen:\n1. die betroffene Person nach den Artikeln 19 Absatz 1 und 21 Absatz 1 zu informieren, oder\n2. ihr die Angaben nach Artikel 19 Absatz 2 zu liefern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_60"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung von Informations-, Auskunfts- und Mitwirkungspflichten",
+        "citation": "Art. 60 Abs. 2 DSG",
+        "content": "Mit Busse bis zu 250 000 Franken werden private Personen bestraft, die unter Verstoss gegen Artikel 49 Absatz 3 dem EDÖB im Rahmen einer Untersuchung vorsätzlich falsche Auskünfte erteilen oder vorsätzlich die Mitwirkung verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_60"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung von Sorgfaltspflichten",
+        "citation": "Art. 61 DSG",
+        "content": "Mit Busse bis zu 250 000 Franken werden private Personen auf Antrag bestraft, die vorsätzlich:\na. unter Verstoss gegen Artikel 16 Absätze 1 und 2 und ohne dass die Voraussetzungen nach Artikel 17 erfüllt sind, Personendaten ins Ausland bekanntgeben;\nb. die Datenbearbeitung einem Auftragsbearbeiter übergeben, ohne dass die Voraussetzungen nach Artikel 9 Absätze 1 und 2 erfüllt sind;\nc. die Mindestanforderungen an die Datensicherheit, die der Bundesrat nach Artikel 8 Absatz 3 erlassen hat, nicht einhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_61"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung der beruflichen Schweigepflicht",
+        "citation": "Art. 62 Abs. 1 DSG",
+        "content": "Wer geheime Personendaten vorsätzlich offenbart, von denen sie oder er bei der Ausübung ihres oder seines Berufes, der die Kenntnis solcher Daten erfordert, Kenntnis erlangt hat, wird auf Antrag mit Busse bis zu 250 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung der beruflichen Schweigepflicht",
+        "citation": "Art. 62 Abs. 2 DSG",
+        "content": "Gleich wird bestraft, wer vorsätzlich geheime Personendaten offenbart, von denen sie oder er bei der Tätigkeit für eine geheimhaltungspflichtige Person oder während der Ausbildung bei dieser Kenntnis erlangt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verletzung der beruflichen Schweigepflicht",
+        "citation": "Art. 62 Abs. 3 DSG",
+        "content": "Das Offenbaren geheimer Personendaten ist auch nach Beendigung der Berufsausübung oder der Ausbildung strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Missachten von Verfügungen",
+        "citation": "Art. 63 DSG",
+        "content": "Mit Busse bis zu 250 000 Franken werden private Personen bestraft, die einer Verfügung des EDÖB oder einem Entscheid der Rechtsmittelinstanzen, die oder der unter Hinweis auf die Strafdrohung dieses Artikels ergangen ist, vorsätzlich nicht Folge leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_63"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Widerhandlungen in Geschäftsbetrieben",
+        "citation": "Art. 64 Abs. 1 DSG",
+        "content": "Für Widerhandlungen in Geschäftsbetrieben sind die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht (VStrR) anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_64"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Widerhandlungen in Geschäftsbetrieben",
+        "citation": "Art. 64 Abs. 2 DSG",
+        "content": "Fällt eine Busse von höchstens 50 000 Franken in Betracht und würde die Ermittlung der nach Artikel 6 VStrR strafbaren Personen Untersuchungsmassnahmen bedingen, die im Hinblick auf die verwirkte Strafe unverhältnismässig wären, so kann die Behörde von einer Verfolgung dieser Personen absehen und an ihrer Stelle den Geschäftsbetrieb (Art. 7 VStrR) zur Bezahlung der Busse verurteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_64"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Zuständigkeit",
+        "citation": "Art. 65 Abs. 1 DSG",
+        "content": "Die Verfolgung und die Beurteilung strafbarer Handlungen obliegen den Kantonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_65"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Zuständigkeit",
+        "citation": "Art. 65 Abs. 2 DSG",
+        "content": "Der EDÖB kann bei der zuständigen Strafverfolgungsbehörde Anzeige erstatten und im Verfahren die Rechte einer Privatklägerschaft wahrnehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_65"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 8. Kapitel: Strafbestimmungen, Verfolgungsverjährung ",
+        "citation": "Art. 66 DSG",
+        "content": "Die Strafverfolgung verjährt nach fünf Jahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_66"
+    },
+    {
+        "book": "DSG",
+        "title": "DSG, 9. Kapitel: Abschluss von Staatsverträgen",
+        "citation": "Art. 67 DSG",
+        "content": "Der Bundesrat kann Staatsverträge abschliessen betreffend:\na. die internationale Zusammenarbeit zwischen Datenschutzbehörden;\nb. die gegenseitige Anerkennung eines angemessenen Schutzes für die Bekanntgabe von Personendaten ins Ausland.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/de#art_67"
+    }
+]

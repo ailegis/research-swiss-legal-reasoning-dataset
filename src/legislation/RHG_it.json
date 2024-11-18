@@ -1,0 +1,303 @@
+[
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Scopo e oggetto",
+        "citation": "Art. 1 cpv. 1 LArRa",
+        "content": "La presente legge ha lo scopo di semplificare:\na. la rilevazione dei dati per la statistica mediante l’armonizzazione dei registri ufficiali di persone (registri);\nb. lo scambio, previsto dalla legge, di dati personali tra i registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_1"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Scopo e oggetto",
+        "citation": "Art. 1 cpv. 2 LArRa",
+        "content": "A tal fine la legge stabilisce:\na.  gli identificatori e le caratteristiche che devono essere registrati;\nb.  la competenza dell’Ufficio federale di statistica (Ufficio federale) di unificare le definizioni, le caratteristiche e le specificità;\nc.  il principio della completezza e dell’esattezza dei registri;\nd.  l’obbligo di aggiornare i registri degli abitanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_1"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 1 LArRa",
+        "content": "La presente legge si applica ai seguenti registri:\na. il registro informatizzato dello stato civile (Infostar) tenuto dai Cantoni e gestito dall’Ufficio federale di giustizia;\nb il sistema centrale d’informazione sulle migrazioni (SIMIC) della Segreteria di Stato della migrazione;\nc. il sistema d’informazione Ordipro del Dipartimento federale degli affari esteri;\nd. il sistema d’informazione Gestione in rete dei dati relativi agli Svizzeri all’estero (E-VERA) del Dipartimento federale degli affari esteri;\ne. il registro centrale degli assicurati, il registro centrale delle rendite e il registro delle prestazioni in natura dell’Ufficio centrale di compensazione di cui all’articolo 71 della legge federale del 20 dicembre 1946 sull’assicurazione per la vecchiaia e per i superstiti (LAVS);\nf. il sistema d’informazione per il trattamento di dati concernenti le prestazioni complementari dell’Ufficio centrale di compensazione di cui all’articolo 71 LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_2"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 2 LArRa",
+        "content": "La presente legge si applica inoltre:\na. ai registri cantonali e comunali degli abitanti;\nb. ai cataloghi elettorali cantonali e comunali utilizzati come base per le votazioni popolari federali e le elezioni del Consiglio nazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_2"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 3 LArRa",
+        "content": "Nella presente legge, le seguenti espressioni significano: \na. registro degli abitanti: registro gestito manualmente o elettronicamente dal Cantone o dal Comune, in cui sono iscritte tutte le persone che risiedono o dimorano nel Cantone o nel Comune;\nb. Comune di residenza: Comune in cui una persona risiede con l’intenzione di stabilirvisi durevolmente per costituirvi il centro della propria vita in modo riconoscibile agli occhi di terzi; una persona è considerata residente nel Comune in cui ha depositato il documento richiesto e può avere soltanto un Comune di residenza; \nc. Comune di soggiorno: Comune in cui una persona dimora per un determinato scopo almeno per tre mesi consecutivi o per tre mesi sull’arco di un anno, senza l’intenzione di stabilirvisi durevolmente; il Comune in cui una persona dimora allo scopo di frequentarvi una scuola o in cui si trova l’istituto di educazione, l’ospizio, la casa di cura o lo stabilimento penitenziario in cui essa è collocata costituisce un Comune di soggiorno;\nd. economia domestica: insieme di tutte le persone che vivono nella stessa abitazione;\ne. identificatore: numero inespressivo e invariabile che funge da elemento funzionale per consentire l’identificazione univoca di una persona o di una cosa all’interno di un insieme di dati;\nf. caratteristica: qualità di una persona o di una cosa che può essere registrata e descritta obiettivamente;\ng. specificità: valore concreto che una caratteristica può assumere;\nh. nomenclatura: sistema di classificazione e rappresentazione delle specificità;\ni. lista di codici: raccolta di codici che serve a tradurre in valori numerici elaborabili nei sistemi informatici le specificità espresse sotto forma di testo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_3"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Compito dell’Ufficio federale",
+        "citation": "Art. 4 cpv. 1 LArRa",
+        "content": "L’Ufficio federale definisce gli identificatori e le caratteristiche di cui agli articoli 6 lettere b-t, 7 e 13 capoverso 2, nonché le specificità, le nomenclature e le liste di codici corrispondenti. L’iscrizione a registro di dati dello stato civile avviene conformemente agli articoli 39–49 del Codice civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Compito dell’Ufficio federale",
+        "citation": "Art. 4 cpv. 2 LArRa",
+        "content": "Nell’elaborare le definizioni, l’Ufficio federale tiene conto dei requisiti e dei bisogni dei Cantoni e dei Comuni, nonché dei servizi federali che tengono i registri di cui all’articolo 2 capoverso 1 o che si basano su di essi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Compito dell’Ufficio federale",
+        "citation": "Art. 4 cpv. 3 LArRa",
+        "content": "L’Ufficio federale mette gratuitamente a disposizione dei Cantoni, dei Comuni e dei servizi federali di cui all’articolo 2 capoverso 1 le necessarie definizioni, nomenclature e liste di codici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Compito dell’Ufficio federale",
+        "citation": "Art. 4 cpv. 4 LArRa",
+        "content": "L’Ufficio federale pubblica periodicamente un catalogo ufficiale delle caratteristiche, contenente le specificità, nonché le nomenclature e le liste di codici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 1: Disposizioni generali, Completezza dei registri",
+        "citation": "Art. 5 LArRa",
+        "content": "In relazione al gruppo di persone registrato, i registri devono essere attuali, esatti e completi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_5"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Contenuto minimo",
+        "citation": "Art. 6 LArRa",
+        "content": "Per ogni persona residente o dimorante, i registri degli abitanti contengono almeno i dati sui seguenti identificatori e caratteristiche:\na. numero AVS secondo l’articolo 50c della legge federale del 20 dicembre 1946 sull’assicurazione per la vecchiaia e per i superstiti (LAVS);\nb. numero del Comune secondo la classificazione dell’Ufficio federale e nome ufficiale del Comune;\nc. identificatore dell’edificio in base al Registro federale degli edifici e delle abitazioni (REA) dell’Ufficio federale;\nd. identificatore dell’abitazione in base al REA, economia domestica d’appartenenza e tipo di economia domestica;\ne.  cognome ufficiale e gli altri cognomi attestati nei registri dello stato civile;\nf. tutti i nomi nell’ordine corretto;\ng. indirizzo e recapito, inclusi il numero postale d’avviamento e il luogo;\nh. data di nascita e luogo di nascita;\ni. per gli Svizzeri, luogo di origine;\nj. sesso;\nk. stato civile;\nl. appartenenza a una comunità religiosa riconosciuta dal diritto pubblico o riconosciuta in altro modo dal Cantone;\nm. cittadinanza;\nn. per gli stranieri, tipo di permesso;\no. residenza o soggiorno nel Comune;\np. Comune di residenza o Comune di soggiorno;\nq. in caso di arrivo: data e Comune di provenienza, rispettivamente Stato di provenienza;\nr. in caso di partenza: data e Comune di destinazione, rispettivamente Stato di destinazione;\ns. in caso di trasloco nel Comune: data;\nt. diritto di voto e di eleggibilità a livello federale, cantonale e comunale;\nu. data del decesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_6"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Altre caratteristiche",
+        "citation": "Art. 7 LArRa",
+        "content": "La registrazione di una caratteristica non menzionata nell’articolo 6 è retta dai requisiti del catalogo di cui all’articolo 4 capoverso 4, a condizione che la caratteristica figuri nel catalogo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_7"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Determinazione e aggiornamento dell’identificatore dell’abitazione e dell’economia domestica d’appartenenza",
+        "citation": "Art. 8 cpv. 1 LArRa",
+        "content": "Se necessario per determinare e aggiornare l’identificatore dell’abitazione e dell’economia domestica d’appartenenza di una persona possono essere riportate nei registri degli abitanti le caratteristiche contenute nel REA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Determinazione e aggiornamento dell’identificatore dell’abitazione e dell’economia domestica d’appartenenza",
+        "citation": "Art. 8 cpv. 2 LArRa",
+        "content": "I Cantoni emanano le norme necessarie affinché i servizi industriali e altri servizi che tengono registri forniscano gratuitamente ai servizi ufficiali competenti per la tenuta dei registri degli abitanti i dati necessari alla determinazione e all’aggiornamento dell’identificatore dell’abitazione di una persona.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Determinazione e aggiornamento dell’identificatore dell’abitazione e dell’economia domestica d’appartenenza",
+        "citation": "Art. 8 cpv. 3 LArRa",
+        "content": "Per la determinazione e l’aggiornamento dell’identificatore dell’abitazione i Cantoni possono introdurre una numerazione fisica delle abitazioni. I numeri fisici delle abitazioni sono gestiti nel REA come numero cantonale o comunale dell’abitazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Determinazione e aggiornamento dell’identificatore dell’abitazione e dell’economia domestica d’appartenenza",
+        "citation": "Art. 8 cpv. 4 LArRa",
+        "content": "I Cantoni possono emanare altre norme per assicurare la determinazione e l’aggiornamento dell’identificatore dell’abitazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Servizio ufficiale competente",
+        "citation": "Art. 9 LArRa",
+        "content": "I Cantoni designano un servizio ufficiale competente per il coordinamento, la realizzazione e il controllo della qualità dell’armonizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_9"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Scambio di dati in caso di trasloco",
+        "citation": "Art. 10 cpv. 1 LArRa",
+        "content": "I Cantoni emanano le norme necessarie affinché, nel caso di arrivi e partenze di abitanti, i dati di cui all’articolo 6 siano scambiati tra i registri degli abitanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Scambio di dati in caso di trasloco",
+        "citation": "Art. 10 cpv. 2 LArRa",
+        "content": "Lo scambio ha luogo per via elettronica e in forma criptata. Il criptaggio avviene conformemente alla legge del 19 dicembre 2003 sulla firma elettronica. Il Consiglio federale stabilisce le modalità dello scambio dei dati e le interfacce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Scambio di dati in caso di trasloco",
+        "citation": "Art. 10 cpv. 3 LArRa",
+        "content": "La Confederazione mette a disposizione dei servizi ufficiali e delle autorità competenti una piattaforma informatica e di comunicazione per lo scambio dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Obbligo di notifica",
+        "citation": "Art. 11 LArRa",
+        "content": "I Cantoni emanano le norme necessarie affinché:\na. le persone fisiche si annuncino presso il servizio ufficiale competente per la tenuta del registro degli abitanti entro 14 giorni dal trasloco;\nb.  le persone soggette all’obbligo di notifica forniscano informazioni veritiere sui dati di cui all’articolo 6 e, se del caso, documentino le loro indicazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_11"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Obbligo d’informazione",
+        "citation": "Art. 12 cpv. 1 LArRa",
+        "content": "I Cantoni emanano le norme necessarie affinché, su richiesta, nei casi in cui l’obbligo di notifica ai sensi dell’articolo 11 non è adempiuto, le seguenti persone forniscano gratuitamente ai servizi ufficiali competenti per la tenuta dei registri degli abitanti informazioni sulle persone soggette all’obbligo di notifica:\na. i datori di lavoro, sulle persone alle loro dipendenze;\nb. i locatori e le amministrazioni immobiliari, sugli inquilini residenti, in arrivo e in partenza;\nc. gli alloggiatori, sulle persone che abitano nella loro economia domestica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_12"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 2: Registri degli abitanti, Obbligo d’informazione",
+        "citation": "Art. 12 cpv. 2 LArRa",
+        "content": "Su richiesta, nei casi in cui l’obbligo di notifica ai sensi dell’articolo 11 non è adempiuto, la Posta comunica gratuitamente ai servizi ufficiali competenti per la tenuta dei registri degli abitanti i recapiti degli abitanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_12"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 3: Registri federali e cantonali",
+        "citation": "Art. 13 cpv. 1 LArRa",
+        "content": "Gli organi che tengono i registri di cui all’articolo 2 capoverso 1 lettere a–d gestiscono il numero AVS conformemente all’articolo 50c LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 3: Registri federali e cantonali",
+        "citation": "Art. 13 cpv. 2 LArRa",
+        "content": "La gestione di altre caratteristiche è retta dalle disposizioni federali determinanti, nonché dai requisiti del catalogo di cui all’articolo 4 capoverso 4, a condizione che la caratteristica figuri nel catalogo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 3: Registri federali e cantonali",
+        "citation": "Art. 13 cpv. 3 LArRa",
+        "content": "L’Ufficio federale è consultato in caso di modifiche del contenuto di un registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamentodei dati per scopi statistici da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 14 cpv. 1 LArRa",
+        "content": "I Cantoni e i Comuni mettono gratuitamente a disposizione dell’Ufficio federale i dati di cui all’articolo 6. Il Consiglio federale stabilisce il momento e la periodicità dell’invio dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamentodei dati per scopi statistici da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 14 cpv. 2 LArRa",
+        "content": "Per alleggerire l’onere delle persone interrogate nell’ambito delle rilevazioni, su richiesta i Cantoni e i Comuni mettono gratuitamente a disposizione dell’Ufficio federale i dati di cui all’articolo 7, eccetto che la legislazione cantonale ne escluda espressamente l’utilizzazione per scopi statistici. Il Consiglio federale stabilisce i dati necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamentodei dati per scopi statistici da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 14 cpv. 3 LArRa",
+        "content": "I dati sono trasmessi mediante supporto elettronico o in forma elettronica. Nel secondo caso, i dati devono essere criptati conformemente alla legge del 19 dicembre 2003 sulla firma elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamentodei dati per scopi statistici da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 14 cpv. 4 LArRa",
+        "content": "L’Ufficio federale disciplina, in collaborazione con i Cantoni, le condizioni tecniche generali della consegna dei dati, nonché la realizzazione delle interfacce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamentodei dati per scopi statistici da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 14 cpv. 5 LArRa",
+        "content": "In collaborazione con i Cantoni, l’Ufficio federale definisce altresì i controlli e gli standard di qualità necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamento dei dati per scopi statistici da parte di organi federali",
+        "citation": "Art. 15 cpv. 1 LArRa",
+        "content": "Gli organi federali di cui all’articolo 2 capoverso 1 mettono gratuitamente i dati a disposizione dell’Ufficio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_15"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Approntamento dei dati per scopi statistici da parte di organi federali",
+        "citation": "Art. 15 cpv. 2 LArRa",
+        "content": "Il Consiglio federale stabilisce i dati necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_15"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Utilizzazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 16 cpv. 1 LArRa",
+        "content": "I dati servono all’Ufficio federale per rilevazioni e utilizzazioni statistiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Utilizzazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 16 cpv. 2 LArRa",
+        "content": "Sulla base dei dati, l’Ufficio federale può estrarre campioni per rilevazioni statistiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Utilizzazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 16 cpv. 3 LArRa",
+        "content": "L’Ufficio federale può utilizzare i dati di cui all’articolo 6 lettere a–h, j, k e m quale elenco di indirizzi per l’esecuzione di rilevazioni statistiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Utilizzazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 16 cpv. 4 LArRa",
+        "content": "Per adempiere i suoi compiti statistici, l’Ufficio federale può collegare e conservare durevolmente i dati, senza denominazioni personali, con quelli del REA e del Registro delle imprese e degli stabilimenti (RIS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 17 cpv. 1 LArRa",
+        "content": "Per permettere ai servizi di statistica e di ricerca della Confederazione come pure agli uffici statistici dei Cantoni e dei Comuni di effettuare elaborazioni statistiche, l’Ufficio federale comunica loro gratuitamente i dati, senza denominazioni personali e senza numero AVS, o consente loro di accedervi tramite procedura di richiamo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 17 cpv. 2 LArRa",
+        "content": "L’Ufficio federale mette gratuitamente a disposizione degli uffici statistici dei Cantoni e dei Comuni, per l’esecuzione di rilevazioni statistiche, i dati di cui all’articolo 6 lettere a–h, j, k e m concernenti il loro territorio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 17 cpv. 3 LArRa",
+        "content": "L’Ufficio federale può comunicare i dati, senza denominazioni personali e senza numero AVS, ad altri servizi ufficiali della Confederazione, dei Cantoni e dei Comuni, nonché a privati per scopi di statistica, ricerca e pianificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 17 cpv. 4 LArRa",
+        "content": "Al termine dei lavori, i destinatari di cui al capoverso 3 sono tenuti a restituire all’Ufficio federale i dati ricevuti o a confermargliene per scritto la distruzione. I dati possono essere trasmessi a terzi soltanto con l’approvazione scritta dell’Ufficio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Comunicazione dei dati da parte dell’Ufficio federale per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 17 cpv. 5 LArRa",
+        "content": "L’Ufficio federale comunica i dati soltanto se ne è garantita la protezione e sono stati presi i necessari accordi contrattuali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LArRa, Sezione 4: Approntamento, utilizzazione e comunicazione dei dati, Pubblicazione dei dati per scopi di statistica, ricerca e pianificazione",
+        "citation": "Art. 18 LArRa",
+        "content": "I risultati delle elaborazioni possono essere pubblicati soltanto in modo da non permettere l’identificazione delle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/it#art_18"
+    }
+]

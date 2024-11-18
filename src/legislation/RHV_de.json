@@ -1,0 +1,478 @@
+[
+    {
+        "book": "RHV",
+        "title": "RHV, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand",
+        "citation": "Art. 1 Abs. 1 RHV",
+        "content": "Diese Verordnung regelt im Rahmen der Registerharmonisierung:\na. die Führung der amtlichen Personenregister (Register);\nb. den Datenaustausch zwischen den Registern;\nc. die Datenlieferung der Register an das Bundesamt für Statistik (BFS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand",
+        "citation": "Art. 1 Abs. 2 RHV",
+        "content": "Sie regelt überdies die zentrale Informatik- und Kommunikationsplattform des Bundes (Sedex).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand",
+        "citation": "Art. 1 Abs. 3 RHV",
+        "content": "Sie enthält ergänzende Bestimmungen über die AHV-Nummer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 1. Abschnitt: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2 RHV",
+        "content": "In dieser Verordnung bedeuten:\na. Privathaushalt: Gesamtheit der Personen, die in derselben Wohnung in demselben Gebäude wohnen;\nabis. Kollektivhaushalte:\n1. Alters- und Pflegeheime,\n2. Wohn- und Erziehungsheime für Kinder und Jugendliche,\n3. Internate und Studentenwohnheime,\n4. Institutionen für Behinderte,\n5. Spitäler, Heilstätten und ähnliche Institutionen im Gesundheitsbereich,\n6. Institutionen des Straf- und Massnahmenvollzugs,\n7. Gemeinschaftsunterkünfte für Asylsuchende,\n8. Klöster und andere Unterkünfte religiöser Vereinigungen;\nb. Sedex: zentrale Informatik- und Kommunikationsplattform, die der Bund den zuständigen Amtsstellen für die sichere Datenübermittlung zur Verfügung stellt (secure data exchange);\nc. Token: einmaliges und fälschungssicheres Merkmal zur Identifikation eines Teilnehmers oder einer Teilnehmerin in einem elektronischen Netzwerk (z.B. im Internet).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_2"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 2. Abschnitt: Registerführung, Änderungen",
+        "citation": "Art. 3 Abs. 1 RHV",
+        "content": "Soll ein Register nach Artikel 2 RHG grundlegend geändert oder aufgehoben werden, so muss das BFS vorgängig informiert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 2. Abschnitt: Registerführung, Änderungen",
+        "citation": "Art. 3 Abs. 2 RHV",
+        "content": "Eine grundlegende Änderung liegt vor, wenn die Zwecke der Bundesstatistik betroffen sind, insbesondere wenn die geforderten Identifikatoren oder Merkmale oder der Aktualisierungsrhythmus geändert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 2. Abschnitt: Registerführung, Datenschutz",
+        "citation": "Art. 4 RHV",
+        "content": "Die für die Register nach Artikel 2 RHG zuständigen Stellen (registerführende Stellen) sind für die Einhaltung des Datenschutzes im Rahmen der Registerführung selber verantwortlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_4"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Grundsätze",
+        "citation": "Art. 5 Abs. 1 RHV",
+        "content": "Der Datenaustausch zwischen den Registern nach Artikel 2 RHG und die Datenlieferung an das BFS erfolgen über Sedex oder mittels elektronischen Datenträgers nach den Richtlinien des BFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Grundsätze",
+        "citation": "Art. 5 Abs. 2 RHV",
+        "content": "Der Datenaustausch innerhalb eines Kantons kann über dafür eingerichtete Systeme der Kantone und Gemeinden erfolgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Grundsätze",
+        "citation": "Art. 5 Abs. 3 RHV",
+        "content": "Der Bund stellt Sedex den registerführenden Stellen unentgeltlich zur Verfügung. Er trägt die Kosten für dessen Aufbau, Betrieb und Unterhalt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Grundsätze",
+        "citation": "Art. 5 Abs. 4 RHV",
+        "content": "Das BFS ist die beim Bund verantwortliche Stelle für Sedex. Es kann den Betrieb Dritten übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenaustausch zwischen den Einwohnerregistern",
+        "citation": "Art. 6 Abs. 1 RHV",
+        "content": "Der Datenaustausch zwischen den Einwohnerregistern bei Weg- und Zuzug erfolgt laufend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenaustausch zwischen den Einwohnerregistern",
+        "citation": "Art. 6 Abs. 2 RHV",
+        "content": "Der interkantonale Datenaustausch erfolgt verschlüsselt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenaustausch zwischen den Einwohnerregistern",
+        "citation": "Art. 6 Abs. 3 RHV",
+        "content": "Das BFS koordiniert die Vorbereitungsarbeiten zur Einführung des Datenaustauschs über Sedex in Absprache mit den Kantonen und dem Verein eCH.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der eidgenössischen Register an das BFS",
+        "citation": "Art. 7 Abs. 1 RHV",
+        "content": "Die Daten aus den Registern nach Artikel 2 Absatz 1 RHG werden dem BFS unentgeltlich geliefert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der eidgenössischen Register an das BFS",
+        "citation": "Art. 7 Abs. 2 RHV",
+        "content": "Das BFS kann die Qualität der gelieferten Daten kontrollieren. Bei unvollständiger oder fehlerhafter Datenlieferung kann es eine erneute Lieferung auf den gleichen Stichtag verlangen; es bestimmt die erneut zu liefernden Daten und den Liefertermin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der eidgenössischen Register an das BFS",
+        "citation": "Art. 7 Abs. 3 RHV",
+        "content": "Inhalt und Periodizität der Datenlieferungen richten sich nach der Verordnung vom 30. Juni 1993 über die Durchführung von statistischen Erhebungen des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der kantonalen Register an das BFS",
+        "citation": "Art. 8 Abs. 1 RHV",
+        "content": "Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG liefern dem BFS vierteljährlich die Daten nach Artikel 6 RHG. Der Kanton bestimmt die für die Datenlieferung zuständige Stelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der kantonalen Register an das BFS",
+        "citation": "Art. 8 Abs. 2 RHV",
+        "content": "Stichtage für die Datenlieferungen sind der 31. März, der 30. Juni, der 30. September und der 31. Dezember. Die Daten müssen spätestens am letzten Tag des Folgemonats beim BFS eintreffen. Erster Stichtag ist der 31. März 2010.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der kantonalen Register an das BFS",
+        "citation": "Art. 8 Abs. 3 RHV",
+        "content": "Zu liefern sind jeweils die vollständigen Daten. Sie müssen mindestens die folgenden Informationen enthalten:\na. die am Stichtag in der Gemeinde angemeldeten Personen, unabhängig vom Meldeverhältnis gemäss Merkmalskatalog;\nb. die während den 12 Monaten vor dem Stichtag verstorbenen Personen;\nc. die während den 12 Monaten vor dem Stichtag weggezogenen Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Datenlieferung der kantonalen Register an das BFS",
+        "citation": "Art. 8 Abs. 4 RHV",
+        "content": "Eine regelmässige Datenlieferung mittels elektronischen Datenträgers muss mindestens drei Monate vor dem ersten Stichtag dem BFS angekündigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Kollektivhaushalte",
+        "citation": "Art. 9 RHV",
+        "content": "Die Kantone stellen sicher, dass die Bewohnerinnen und Bewohner von Kollektivhaushalten in den Registern nach Artikel 2 Absatz 2 RHG geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_9"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 1 RHV",
+        "content": "Damit die Anforderungen an die Qualität der von den registerführenden Stellen nach Artikel 2 Absatz 2 RHG gelieferten Daten erfüllt werden, betreibt das BFS einen Validierungsservice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 2 RHV",
+        "content": "Der Validierungsservice kontrolliert:\na. die Vollständigkeit der Datenlieferung;\nb. das Vorhandensein des Registerinhalts nach Artikel 6 RHG;\nc. die korrekte Anwendung der Identifikatoren und die Einhaltung der Anforderungen des Merkmalskatalogs;\nd. die Korrektheit des eidgenössischen Gebäudeidentifikators (EGID) und die Plausibilität des eidgenössischen Wohnungsidentifikators (EWID) gemäss Abgleich mit dem eidgenössischen Gebäude- und Wohnungsregister (GWR);\ne. die Plausibilität der Informationen über eine einzelne Person gemäss den Plausibilisierungsregeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 3 RHV",
+        "content": "Das BFS legt die Plausibilisierungsregeln in einer Richtlinie fest und veröffentlicht sie im Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 4 RHV",
+        "content": "Es meldet festgestellte Mängel der für die Datenlieferung zuständigen Stelle nach Artikel 8 Absatz 1. Diese stellt sicher, dass die Mängel behoben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 5 RHV",
+        "content": "Bei unvollständiger oder fehlerhafter Datenlieferung kann das BFS eine erneute Lieferung auf den gleichen Stichtag verlangen; es bestimmt die erneut zu liefernden Daten und den Liefertermin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 3. Abschnitt: Datenübermittlung, Validierung der Daten für die Statistik",
+        "citation": "Art. 10 Abs. 6 RHV",
+        "content": "Der Validierungsservice protokolliert zusätzlich in einer Datei die Anzahl und Art der Fehler, ohne Rückschlüsse auf Personendaten zuzulassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Anschluss der kantonalen Register",
+        "citation": "Art. 11 Abs. 1 RHV",
+        "content": "Die Amtsstelle nach Artikel 9 RHG meldet dem BFS, welche im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG an Sedex angeschlossen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Anschluss der kantonalen Register",
+        "citation": "Art. 11 Abs. 2 RHV",
+        "content": "Die registerführenden Stellen sind für den Anschluss an Sedex selber verantwortlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Anschlussadapter",
+        "citation": "Art. 12 Abs. 1 RHV",
+        "content": "Die Datenübermittlung über Sedex erfolgt ausschliesslich über einen Sedex-Anschlussadapter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Anschlussadapter",
+        "citation": "Art. 12 Abs. 2 RHV",
+        "content": "Der Bund ist für die Entwicklung und Weiterentwicklung des Anschlussadapters zuständig und trägt dafür die Kosten. Er stellt den Adapter den registerführenden Stellen unentgeltlich zur Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Anschlussadapter",
+        "citation": "Art. 12 Abs. 3 RHV",
+        "content": "Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG tragen die Kosten für die Installation und den Betrieb des Anschlussadapters sowie für die Anpassung ihrer Registersoftware und -hardware selber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Zertifizierung",
+        "citation": "Art. 13 Abs. 1 RHV",
+        "content": "Die Registersoftware muss für die Verwendung von Sedex zertifiziert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Zertifizierung",
+        "citation": "Art. 13 Abs. 2 RHV",
+        "content": "Die Zertifizierung erfolgt mittels Selbstdeklaration des Lizenzgebers bei der Zertifizierungsstelle. Mit der Selbstdeklaration bestätigt der Lizenzgeber, dass seine Registersoftware nach den Vorschriften des Bundes über den Sedex-Anschlussadapter mit Sedex kommunizieren kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Zertifizierung",
+        "citation": "Art. 13 Abs. 3 RHV",
+        "content": "Zertifizierungsstelle ist das BFS. Es führt eine Liste der durch Selbstdeklaration zugelassenen Registersoftware.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Datenübermittlung",
+        "citation": "Art. 14 Abs. 1 RHV",
+        "content": "Die Datenübermittlung über Sedex erfolgt verschlüsselt und in einem elektronischen Umschlag.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Datenübermittlung",
+        "citation": "Art. 14 Abs. 2 RHV",
+        "content": "Jede Übermittlung wird protokolliert. Die übermittelten Daten können einzig von der berechtigten empfangenden Stelle gelesen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Datenübermittlung",
+        "citation": "Art. 14 Abs. 3 RHV",
+        "content": "Jede erfolgreiche Übermittlung wird von Sedex an den Absender quittiert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Datenübermittlung",
+        "citation": "Art. 14 Abs. 4 RHV",
+        "content": "Wird der Umschlag nicht innert eines Monats von den berechtigten Stellen in Empfang genommen, so wird er samt Inhalt gelöscht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Nutzung zu weiteren behördlichen Zwecken",
+        "citation": "Art. 15 Abs. 1 RHV",
+        "content": "Werden Daten zu weiteren behördlichen Zwecken über Sedex übermittelt, so erfolgt die Datenübermittlung nach den Richtlinien des BFS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Nutzung zu weiteren behördlichen Zwecken",
+        "citation": "Art. 15 Abs. 2 RHV",
+        "content": "Die Gebührenerhebung durch das BFS richtet sich nach der Verordnung vom 25. Juni 2003 über die Gebühren und Entschädigungen für statistische Dienstleistungen von Verwaltungseinheiten des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Datenschutz",
+        "citation": "Art. 16 RHV",
+        "content": "Wird Sedex von weiteren Benutzerinnen und Benutzern verwendet, so müssen diese dieselben Massnahmen des Datenschutzes ergreifen wie die registerführenden Stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_16"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Digitale Identität",
+        "citation": "Art. 17 Abs. 1 RHV",
+        "content": "Die registerführenden Stellen, die an Sedex angeschlossen sind, erhalten unentgeltlich eine digitale Identität.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Digitale Identität",
+        "citation": "Art. 17 Abs. 2 RHV",
+        "content": "Das BFS führt ein Verzeichnis dieser Stellen und ihrer digitalen Identität.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 4. Abschnitt: Verwendung von Sedex, Digitale Identität",
+        "citation": "Art. 17 Abs. 3 RHV",
+        "content": "Das Bundesamt für Informatik und Telekommunikation erteilt für jede dieser Stellen sowie für jede weitere Benutzerin oder jeden weiteren Benutzer von Sedex ein Zertifikat:\na. zur Überprüfung ihrer elektronischen Signatur;\nb. zu ihrer Authentifizierung;\nc. zur Verschlüsselung von für sie bestimmten elektronischen Daten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Meldung der systematischen Verwendung der AHV-Nummer an die ZAS",
+        "citation": "Art. 18 RHV",
+        "content": "Die Amtsstelle nach Artikel 9 RHG meldet der Zentralen Ausgleichsstelle der AHV (ZAS) die systematische Verwendung der AHV-Nummer nach Artikel 134ter der Verordnung vom 31. Oktober 1947 über die Alters- und Hinterlassenenversicherung (AHVV) für alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG als Sammelmeldung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_18"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der Register im Kanton",
+        "citation": "Art. 19 Abs. 1 RHV",
+        "content": "Die Amtsstelle nach Artikel 9 RHG stellt sicher, dass alle im Kanton registerführenden Stellen nach Artikel 2 Absatz 2 RHG die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der Register im Kanton",
+        "citation": "Art. 19 Abs. 2 RHV",
+        "content": "Das Verfahren für die Zuweisung und Bekanntgabe der Nummer richtet sich nach den Artikeln 133bis und 134quater AHVV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der Register im Kanton",
+        "citation": "Art. 19 Abs. 3 RHV",
+        "content": "Das BFS koordiniert die Zuweisung und Bekanntgabe in Absprache mit der ZAS und den Amtsstellen nach Artikel 9 RHG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der Register im Kanton",
+        "citation": "Art. 19 Abs. 4 RHV",
+        "content": "Es legt in Absprache mit den Amtsstellen nach Artikel 9 RHG fest, auf welche Weise, ab welchem Zeitpunkt und auf welchen Stichtag die für die Zuweisung und Bekanntgabe notwendigen kantonalen Datenlieferungen an die ZAS erfolgen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der Register im Kanton",
+        "citation": "Art. 19 Abs. 5 RHV",
+        "content": "Die ZAS gibt die Nummer den registerführenden Stellen bekannt und liefert ihnen gleichzeitig die für die Zuweisung und Bekanntgabe gelieferten Daten zurück. Sie gibt den registerführenden Stellen zusätzlich die entsprechenden Daten aus den Informationssystemen Infostar und ZEMIS bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Bekanntgabe innerhalb eines Kantons",
+        "citation": "Art. 20 Abs. 1 RHV",
+        "content": "Die registerführenden Stellen nach Artikel 2 Absatz 2 RHG können die AHV-Nummer denjenigen Stellen und Institutionen bekannt geben, die aufgrund eidgenössischer oder kantonaler Gesetze berechtigt sind, die Nummer zur Erfüllung ihrer gesetzlichen Aufgaben systematisch zu verwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Bekanntgabe innerhalb eines Kantons",
+        "citation": "Art. 20 Abs. 2 RHV",
+        "content": "Die Erhebung von Gebühren richtet sich nach kantonalem Recht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der eidgenössischen Register",
+        "citation": "Art. 21 Abs. 1 RHV",
+        "content": "Die erstmalige und umfassende Zuweisung und Bekanntgabe der AHV-Nummer an die Register nach Artikel 2 Absatz 1 RHG richtet sich nach den Artikeln 133bis und 134quater AHVV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der eidgenössischen Register",
+        "citation": "Art. 21 Abs. 2 RHV",
+        "content": "Das BFS koordiniert die Bekanntgabe in Absprache mit der ZAS und den registerführenden Stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Aufdatierung der eidgenössischen Register",
+        "citation": "Art. 21 Abs. 3 RHV",
+        "content": "Es legt fest, auf welche Weise, ab welchem Zeitpunkt und auf welchen Stichtag die für die Zuweisung und Bekanntgabe notwendigen Datenlieferungen an die ZAS erfolgen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 5. Abschnitt: AHV-Nummer, Nachführung der AHV-Nummer",
+        "citation": "Art. 22 RHV",
+        "content": "Die registerführenden Stellen führen die AHV-Nummer laufend nach.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_22"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 6. Abschnitt: Kantonale Amtsstelle",
+        "citation": "Art. 23 Abs. 1 RHV",
+        "content": "Die Amtsstelle nach Artikel 9 RHG koordiniert das Vorgehen und stellt die Einhaltung der Fristen für die Durchführung der Registerharmonisierung in Absprache mit dem BFS fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 6. Abschnitt: Kantonale Amtsstelle",
+        "citation": "Art. 23 Abs. 2 RHV",
+        "content": "Sie kann für die Kontrolle von Durchführung und Qualität der Harmonisierung im Kanton die Protokollierungsdatei des Validierungsservice nach Artikel 10 Absatz 6 anfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Datenbank",
+        "citation": "Art. 24 Abs. 1 RHV",
+        "content": "Das BFS betreibt das Adressverzeichnis nach Artikel 16 Absatz 3 RHG als Datenbank.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Datenbank",
+        "citation": "Art. 24 Abs. 2 RHV",
+        "content": "Es aktualisiert die Datenbank vierteljährlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Verwendungszweck",
+        "citation": "Art. 25 RHV",
+        "content": "Das BFS verwendet das Adressverzeichnis ausschliesslich für Zwecke der Statistik, der Forschung und der Planung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_25"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Statistische Nutzung durch Kantone und Gemeinden",
+        "citation": "Art. 26 Abs. 1 RHV",
+        "content": "Die für die Statistik zuständigen Amtsstellen der Kantone und Gemeinden können vom BFS die Lieferung der Daten über ihr Hoheitsgebiet nach Artikel 17 Absatz 2 RHG verlangen. Das Begehren ist schriftlich zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Statistische Nutzung durch Kantone und Gemeinden",
+        "citation": "Art. 26 Abs. 2 RHV",
+        "content": "Das BFS liefert die Daten höchstens vierteljährlich und frühestens einen Monat nach Erhalt der letzten Datenlieferung aus dem Kanton. Die Daten werden verschlüsselt geliefert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Statistische Nutzung durch Kantone und Gemeinden",
+        "citation": "Art. 26 Abs. 3 RHV",
+        "content": "Die Daten dürfen ausschliesslich als Stichprobenbasis für eigene statistische Erhebungen der Kantone und Gemeinden genutzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Bearbeitungsreglement",
+        "citation": "Art. 27 Abs. 1 RHV",
+        "content": "Das BFS erlässt ein Bearbeitungsreglement über die Nutzung des Adressverzeichnisses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_27"
+    },
+    {
+        "book": "RHV",
+        "title": "RHV, 7. Abschnitt: Adressverzeichnis, Bearbeitungsreglement",
+        "citation": "Art. 27 Abs. 2 RHV",
+        "content": "Das Adressverzeichnis darf nicht an Dritte weitergegeben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/de#art_27"
+    }
+]

@@ -1,0 +1,1626 @@
+[
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, But",
+        "citation": "Art. 1 al. 1 LSI",
+        "content": "La présente loi vise à garantir la sécurité du traitement des informations relevant de la compétence de la Confédération et la sécurité de ses moyens informatiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_1"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, But",
+        "citation": "Art. 1 al. 2 LSI",
+        "content": "Elle vise ainsi à protéger les intérêts publics suivants:\na. la capacité de décision et d’action des autorités et organisations de la Confédération;\nb. la sécurité intérieure et extérieure de la Suisse;\nc. les intérêts de la politique extérieure de la Suisse;\nd. les intérêts économiques, financiers et monétaires de la Suisse;\ne. l’accomplissement des obligations légales et contractuelles des autorités et organisations de la Confédération en matière de protection des informations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_1"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Autorités et organisations concernées ",
+        "citation": "Art. 2 al. 1 LSI",
+        "content": "La présente loi s’applique aux autorités suivantes:\na. l’Assemblée fédérale;\nb. le Conseil fédéral;\nc. les tribunaux de la Confédération;\nd. le Ministère public de la Confédération et son autorité de surveillance;\ne. la Banque nationale suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Autorités et organisations concernées ",
+        "citation": "Art. 2 al. 2 LSI",
+        "content": "Elle s’applique également aux organisations suivantes:\na. les Services du Parlement;\nb. l’administration fédérale;\nc. les services administratifs des tribunaux de la Confédération;\nd.  l’armée;\ne. les organisations visées à l’art. 2, al. 4, de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration (LOGA), pour leurs tâches administratives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Autorités et organisations concernées ",
+        "citation": "Art. 2 al. 3 LSI",
+        "content": "Le Conseil fédéral peut restreindre le champ d’application de la présente loi pour les organisations au sens de l’art. 2, al. 3 et 4, LOGA à celles qui:\na. exercent des activités sensibles, ou\nb. recourent ou accèdent à des moyens informatiques de la Confédération dans l’accomplissement de leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Autorités et organisations concernées ",
+        "citation": "Art. 2 al. 4 LSI",
+        "content": "Il peut limiter à certaines dispositions de la présente loi le champ d’application au sens de l’al. 3. Il tient compte à cet égard de l’autonomie d’exécution des organisations concernées selon les actes organisationnels qui les régissent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Autorités et organisations concernées ",
+        "citation": "Art. 2 al. 5 LSI",
+        "content": "Les organisations de droit public ou privé qui exploitent des infrastructures critiques sans être visées par les al. 1 à 3 sont soumises aux art. 74 à 80. La législation spéciale peut prévoir que d’autres dispositions de la présente loi leur sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_2"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Application de la loi aux cantons",
+        "citation": "Art. 3 al. 1 LSI",
+        "content": "Ne s’appliquent aux cantons que les dispositions relatives:\na. aux informations classifiées, lorsque les cantons traitent des informations classifiées de la Confédération, et\nb. à la sécurité des moyens informatiques, lorsque les cantons accèdent à des moyens informatiques de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_3"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Application de la loi aux cantons",
+        "citation": "Art. 3 al. 2 LSI",
+        "content": "Ces dispositions ne s’appliquent pas lorsque les cantons garantissent une sécurité au moins équivalente de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_3"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Rapport avec d’autres lois fédérales",
+        "citation": "Art. 4 al. 1 LSI",
+        "content": "La loi du 17 décembre 2004 sur la transparence prime la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_4"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Rapport avec d’autres lois fédérales",
+        "citation": "Art. 4 al. 2 LSI",
+        "content": "Lorsque la protection d’informations est également réglée dans d’autres lois fédérales, les dispositions de la présente loi s’appliquent à titre complémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_4"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 5 LSI",
+        "content": "On entend par:\na. moyen informatique: moyen relevant des techniques de l’information et de la communication, notamment les applications, les systèmes d’information et les fichiers, ainsi que les installations, les produits et les services servant au traitement électronique des informations;\nb. activité sensible:\n1. le traitement d’informations classifiées «confidentiel» ou «secret»,\n2. l’administration, l’exploitation, la maintenance et le contrôle de moyens informatiques relevant des catégories de sécurité «protection élevée» ou «protection très élevée»,\n3. l’accès à des zones de sécurité, en particulier aux zones de protection 2 ou 3 d’un ouvrage au sens de la législation sur la protection des ouvrages militaires;\nc. infrastructure critique: l’approvisionnement en eau potable et en énergie, les infrastructures d’information, de communication et de transports ainsi que d’autres installations, processus et systèmes essentiels au fonctionnement de l’économie et au bien-être de la population.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_5"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Sécurité de l’information",
+        "citation": "Art. 6 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à ce que le besoin de protection des informations relevant de leur compétence soit évalué en fonction de l’atteinte potentielle aux intérêts définis à l’art. 1, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Sécurité de l’information",
+        "citation": "Art. 6 al. 2 LSI",
+        "content": "Elles veillent à ce que les informations, en fonction de leur besoin de protection:\na. ne soient accessibles qu’aux personnes autorisées (confidentialité);\nb. soient disponibles en cas de besoin (disponibilité);\nc. ne puissent être modifiées sans droit ou par mégarde (intégrité);\nd. soient traitées de manière à être traçables (traçabilité).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Sécurité de l’information",
+        "citation": "Art. 6 al. 3 LSI",
+        "content": "Elles veillent à ce que les moyens informatiques auxquels elles recourent pour accomplir leurs tâches légales soient protégés contre les utilisations abusives et les perturbations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Sécurité de l’information",
+        "citation": "Art. 6 al. 4 LSI",
+        "content": "Elles tiennent compte à cet égard des principes de la proportionnalité, de l’économicité et de la simplicité d’emploi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_6"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Responsabilité des autorités soumises à la présente loi",
+        "citation": "Art. 7 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi veillent, chacune dans son domaine de compétence, à ce que la sécurité de l’information soit organisée, mise en œuvre et contrôlée conformément à l’état des connaissances scientifiques et techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_7"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Responsabilité des autorités soumises à la présente loi",
+        "citation": "Art. 7 al. 2 LSI",
+        "content": "Elles fixent:\na. leurs objectifs en matière de sécurité de l’information;\nb. les principes de gestion des risques;\nc. les conséquences d’une violation des prescriptions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_7"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Gestion des risques",
+        "citation": "Art. 8 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent, chacune dans son domaine de compétence, à ce que les risques en matière de sécurité de l’information soient constamment évalués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Gestion des risques",
+        "citation": "Art. 8 al. 2 LSI",
+        "content": "Elles prennent les mesures nécessaires pour éliminer les risques ou les ramener à un niveau acceptable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Gestion des risques",
+        "citation": "Art. 8 al. 3 LSI",
+        "content": "Les risques jugés acceptables doivent être formellement acceptés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_8"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Collaboration avec les tiers",
+        "citation": "Art. 9 al. 1 LSI",
+        "content": "Lorsque les autorités et organisations soumises à la présente loi collaborent avec des tiers, elles veillent à ce que les exigences et mesures prévues par la présente loi soient reprises dans les accords et les contrats qu’elles concluent à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_9"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Collaboration avec les tiers",
+        "citation": "Art. 9 al. 2 LSI",
+        "content": "Elles veillent à ce que la mise en œuvre des mesures soit contrôlée de manière adéquate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_9"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Procédure en cas de violation de la sécurité de l’information ",
+        "citation": "Art. 10 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à ce que les violations de la sécurité de l’information soient décelées rapidement, leurs causes clarifiées et leurs conséquences limitées au maximum.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_10"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 1, Principes, Procédure en cas de violation de la sécurité de l’information ",
+        "citation": "Art. 10 al. 2 LSI",
+        "content": "Les autorités soumises à la présente loi veillent à établir des plans d’action dans l’éventualité de graves violations de la sécurité de l’information susceptibles de menacer l’accomplissement de tâches indispensables de la Confédération; elles organisent des exercices à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_10"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Principes régissant la classification",
+        "citation": "Art. 11 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à ce que les informations qui remplissent les critères définis à l’art. 13 soient classifiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_11"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Principes régissant la classification",
+        "citation": "Art. 11 al. 2 LSI",
+        "content": "La classification doit se limiter au strict nécessaire et être si possible temporaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_11"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Compétences",
+        "citation": "Art. 12 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi désignent les personnes et services compétents pour classifier les informations (auteurs de la classification).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Compétences",
+        "citation": "Art. 12 al. 2 LSI",
+        "content": "Seuls l’auteur de la classification ou le service auquel il est subordonné peuvent modifier ou supprimer une classification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Compétences",
+        "citation": "Art. 12 al. 3 LSI",
+        "content": "Le Conseil fédéral règle la déclassification des archives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_12"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Échelons de classification",
+        "citation": "Art. 13 al. 1 LSI",
+        "content": "Les informations susceptibles de nuire aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «interne».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Échelons de classification",
+        "citation": "Art. 13 al. 2 LSI",
+        "content": "Les informations susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «confidentiel».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Échelons de classification",
+        "citation": "Art. 13 al. 3 LSI",
+        "content": "Les informations susceptibles de nuire gravement aux intérêts définis à l’art. 1, al. 2, let. a à d, si elles sont portées à la connaissance d’une personne non autorisée sont classifiées «secret».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_13"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Accès aux informations classifiées",
+        "citation": "Art. 14 al. 1 LSI",
+        "content": "Seules peuvent accéder aux informations classifiées les personnes qui offrent toutes les garanties qu’elles les traiteront correctement et qui remplissent l’une des conditions suivantes:\na. elles ont besoin des informations en question pour accomplir une tâche légale;\nb. elles disposent d’une autorisation d’accès qui leur a été conférée contractuellement et ont besoin des informations en question pour accomplir les tâches qui leur ont été confiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Accès aux informations classifiées",
+        "citation": "Art. 14 al. 2 LSI",
+        "content": "L’accès aux archives classifiées est réglé par la législation sur l’archivage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Accès aux informations classifiées",
+        "citation": "Art. 14 al. 3 LSI",
+        "content": "Les limitations d’accès prévues dans des traités internationaux au sens de l’art. 87 sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_14"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Accès à des informations classifiées dans le cadre de procédures spéciales",
+        "citation": "Art. 15 al. 1 LSI",
+        "content": "L’accès à des informations classifiées relevant de l’Assemblée fédérale, des Services du Parlement, des tribunaux et des ministères publics est régi par le droit de procédure applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_15"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 2, Classification des informations, Accès à des informations classifiées dans le cadre de procédures spéciales",
+        "citation": "Art. 15 al. 2 LSI",
+        "content": "Avant toute décision donnant accès à une information au sens de l’al. 1, l’organe parlementaire ou le tribunal compétent peut consulter l’auteur de la classification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_15"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Procédure de sécurité",
+        "citation": "Art. 16 al. 1 LSI",
+        "content": "Pour garantir la sécurité de l’information lors de l’utilisation de moyens informatiques, les autorités soumises à la présente loi élaborent une procédure de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Procédure de sécurité",
+        "citation": "Art. 16 al. 2 LSI",
+        "content": "La procédure de sécurité définit en particulier:\na. les critères permettant d’évaluer le besoin de protection des informations avant la mise en service des moyens informatiques; \nb. les modalités de mise en œuvre des mesures de sécurité et leur contrôle;\nc. la compétence d’autoriser les moyens informatiques; \nd. la procédure à suivre en cas de modification des risques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Procédure de sécurité",
+        "citation": "Art. 16 al. 3 LSI",
+        "content": "L’exécution de la procédure de sécurité incombe aux autorités et organisations soumises à la présente loi qui décident de l’utilisation de moyens informatiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_16"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Catégories de sécurité",
+        "citation": "Art. 17 al. 1 LSI",
+        "content": "Les moyens informatiques relèvent de la catégorie de sécurité «protection de base», à moins qu’ils relèvent d’une catégorie de sécurité supérieure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Catégories de sécurité",
+        "citation": "Art. 17 al. 2 LSI",
+        "content": "Ils relèvent de la catégorie de sécurité «protection élevée» dans les cas suivants:\na. une violation de la confidentialité, de la disponibilité, de l’intégrité ou de la traçabilité des informations qu’ils traitent risque de nuire considérablement aux intérêts définis à l’art. 1, al. 2; \nb. leur utilisation abusive ou leur perturbation sont susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Catégories de sécurité",
+        "citation": "Art. 17 al. 3 LSI",
+        "content": "Ils relèvent de la catégorie de sécurité «protection très élevée» dans les cas suivants:\na. une violation de la confidentialité, de la disponibilité, de l’intégrité ou de la traçabilité des informations qu’ils traitent risque de nuire gravement aux intérêts définis à l’art. 1, al. 2;\nb. leur utilisation abusive ou leur perturbation sont susceptibles de nuire gravement aux intérêts définis à l’art. 1, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_17"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Mesures de sécurité",
+        "citation": "Art. 18 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi fixent les exigences de sécurité minimales applicables aux catégories de sécurité définies à l’art. 17.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Mesures de sécurité",
+        "citation": "Art. 18 al. 2 LSI",
+        "content": "Tous les moyens informatiques doivent satisfaire aux exigences minimales de la catégorie de sécurité «protection de base».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Mesures de sécurité",
+        "citation": "Art. 18 al. 3 LSI",
+        "content": "L’efficacité des mesures applicables aux moyens informatiques de la catégorie de sécurité «protection très élevée» doit faire l’objet de contrôles périodiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_18"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Sécurité de l’exploitation",
+        "citation": "Art. 19 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi garantissent la sécurité des moyens informatiques qu’elles exploitent pour elles-mêmes ou sur mandat d’une autre autorité ou organisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_19"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 3, Sécurité des moyens informatiques, Sécurité de l’exploitation",
+        "citation": "Art. 19 al. 2 LSI",
+        "content": "Les art. 57i à 57q LOGA s’appliquent par analogie au traitement des données personnelles dans le cadre de la surveillance des réseaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_19"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 4, Mesures relatives aux personnes, Conditions d’accès aux informations et aux moyens informatiques de la Confédération",
+        "citation": "Art. 20 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à ce que les personnes qui accèdent à des informations, des moyens informatiques, des locaux et d’autres infrastructures de la Confédération:\na. soient choisies avec soin;\nb. soient identifiées en fonction de la sensibilité de l’activité concernée; \nc. reçoivent une formation et une formation continue adaptées à leur niveau de responsabilité; \nd. soient le cas échéant tenues au maintien du secret.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 4, Mesures relatives aux personnes, Conditions d’accès aux informations et aux moyens informatiques de la Confédération",
+        "citation": "Art. 20 al. 2 LSI",
+        "content": "Elles peuvent recourir à des méthodes biométriques de vérification pour identifier les personnes, si la sensibilité de l’activité concernée le requiert. Les données biométriques sont détruites à l’échéance de l’autorisation d’accès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 4, Mesures relatives aux personnes, Conditions d’accès aux informations et aux moyens informatiques de la Confédération",
+        "citation": "Art. 20 al. 3 LSI",
+        "content": "Elles peuvent en outre utiliser systématiquement le numéro AVS au sens de l’art. 50c de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants comme identificateur de personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_20"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 4, Mesures relatives aux personnes, Délivrance restrictive des autorisations",
+        "citation": "Art. 21 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à ce que des autorisations d’accès à des informations, des moyens informatiques, des locaux ou d’autres infrastructures de la Confédération ne soient délivrées qu’aux personnes qui en ont besoin pour accomplir leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_21"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 4, Mesures relatives aux personnes, Délivrance restrictive des autorisations",
+        "citation": "Art. 21 al. 2 LSI",
+        "content": "Les autorisations sont retirées à la fin de l’engagement ou du contrat ou dès que la tâche concernée a été exécutée. Elles peuvent être bloquées ou retirées sans préavis lorsque des indices concrets donnent à penser que la sécurité est menacée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_21"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 5, Protection physique, Principe",
+        "citation": "Art. 22 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi veillent à assurer une protection physique adéquate des informations et moyens informatiques dont elles sont responsables contre les utilisations abusives et les perturbations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_22"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 5, Protection physique, Zones de sécurité",
+        "citation": "Art. 23 al. 1 LSI",
+        "content": "Les autorités et organisations soumises à la présente loi peuvent instituer des zones de sécurité dans des locaux ou des espaces dans lesquels: \na. des informations classifiées «confidentiel» ou «secret» sont fréquemment traitées, ou\nb. des moyens informatiques des catégories de sécurité «protection élevée» ou «protection très élevée» sont exploités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 5, Protection physique, Zones de sécurité",
+        "citation": "Art. 23 al. 2 LSI",
+        "content": "Elles peuvent prendre les mesures suivantes:\na. interdire certains objets, en particulier les appareils de prises de vue et de son; \nb. surveiller les secteurs sensibles avec des appareils de prises de vue et de son;\nc. procéder à des fouilles;\nd. procéder à des contrôles des locaux inopinés, même en l’absence des employés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 5, Protection physique, Zones de sécurité",
+        "citation": "Art. 23 al. 3 LSI",
+        "content": "Elles peuvent exploiter, conformément à l’art. 34, al. 1ter, de la loi du 30 avril 1997 sur les télécommunications, une installation perturbatrice dans les zones de sécurité où des informations classifiées «secret» sont fréquemment traitées ou des moyens informatiques de la catégorie de sécurité «protection très élevée» sont exploités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 5, Protection physique, Zones de sécurité",
+        "citation": "Art. 23 al. 4 LSI",
+        "content": "Les dispositions particulières relatives aux zones de sécurité établies en vertu des traités internationaux au sens de l’art. 87 et les dispositions applicables aux zones de protection des ouvrages au sens de la législation sur la protection des ouvrages militaires sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_23"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Exploitation de systèmes de gestion des données d’identification",
+        "citation": "Art. 24 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi peuvent exploiter des systèmes permettant une gestion centralisée des données servant à identifier les personnes qui ont accès aux informations, aux moyens informatiques, aux locaux et à d’autres infrastructures (systèmes de gestion des données d’identification).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Exploitation de systèmes de gestion des données d’identification",
+        "citation": "Art. 24 al. 2 LSI",
+        "content": "Les systèmes de gestion des données d’identification vérifient l’identité et les profils d’accès des personne, des machines et des systèmes. Ils transmettent le résultat aux systèmes d’information raccordés pour la vérification des autorisations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Exploitation de systèmes de gestion des données d’identification",
+        "citation": "Art. 24 al. 3 LSI",
+        "content": "Les autorités soumises à la présente loi désignent un service responsable pour chaque système de gestion des données d’identification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_24"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Échange et harmonisation des données",
+        "citation": "Art. 25 al. 1 LSI",
+        "content": "Les systèmes de gestion des données d’identification permettent d’échanger des données et de les harmoniser avec les systèmes d’information raccordés, avec les répertoires de personnes et d’utilisateurs et avec d’autres systèmes de gestion des données d’identification exploités par des autorités soumises à la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_25"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Échange et harmonisation des données",
+        "citation": "Art. 25 al. 2 LSI",
+        "content": "L’échange et l’harmonisation sont limités aux données dont le traitement est autorisé dans le système concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_25"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 2, Mesures générales, Section 6, Systèmes de gestion des données d’identification, Dispositions d’exécution",
+        "citation": "Art. 26 LSI",
+        "content": "Les autorités soumises à la présente loi édictent des dispositions d’exécution notamment dans les domaines suivants:\na. la protection et la sécurité des données;\nb. les données personnelles traitées;\nc. l’échange et l’harmonisation des données avec d’autres systèmes;\nd. la journalisation et la transmission des données de journalisation aux systèmes d’information raccordés;\ne. le contrôle périodique, réalisé par un organe externe, du traitement des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_26"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, But et objet du contrôle",
+        "citation": "Art. 27 al. 1 LSI",
+        "content": "Le contrôle de sécurité relatif aux personnes vise à déterminer si l’exercice d’une activité sensible par une personne dans le cadre de sa fonction ou d’un mandat présente un risque pour la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, But et objet du contrôle",
+        "citation": "Art. 27 al. 2 LSI",
+        "content": "À cette fin, les services compétents collectent les données pertinentes pour la sécurité touchant au mode de vie de la personne concernée, notamment à ses relations personnelles étroites et familiales, à sa situation financière et à ses rapports avec l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, But et objet du contrôle",
+        "citation": "Art. 27 al. 3 LSI",
+        "content": "Les données sur l’exercice des droits constitutionnels ne peuvent être traitées que s’il existe un soupçon concret que la personne soumise au contrôle exerce ces droits pour préparer ou accomplir des actes susceptibles de nuire considérablement aux intérêts définis à l’art. 1, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_27"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Liste des fonctions",
+        "citation": "Art. 28 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi édictent, chacune dans son domaine de compétence, une liste des fonctions qui impliquent l’exercice d’une activité sensible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_28"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Liste des fonctions",
+        "citation": "Art. 28 al. 2 LSI",
+        "content": "Elles contrôlent périodiquement l’exactitude de la liste et y apportent les corrections nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_28"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Personnes soumises au contrôle",
+        "citation": "Art. 29 al. 1 LSI",
+        "content": "Sont soumis à un contrôle de sécurité:\na. les employés de la Confédération, les collaborateurs externes et les militaires qui exercent une fonction figurant sur l’une des listes visées à l’art. 28;\nb. les employés cantonaux qui exercent une activité sensible;\nc. les tiers qui exécutent pour une autorité ou une organisation soumise à la présente loi un mandat qui implique l’exercice d’une activité sensible;\nd. les personnes soumises à un contrôle de sécurité en vertu d’un traité international au sens de l’art. 87.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Personnes soumises au contrôle",
+        "citation": "Art. 29 al. 2 LSI",
+        "content": "Toute personne appelée à exercer une activité sensible pour le compte d’une autorité étrangère ou d’une organisation internationale est soumise à un contrôle de sécurité pour autant que la Suisse ait conclu un traité international au sens de l’art. 87 avec l’État ou l’organisation internationale en question.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Personnes soumises au contrôle",
+        "citation": "Art. 29 al. 3 LSI",
+        "content": "Les personnes qui exercent une fonction qui ne figure pas encore sur l’une des listes visées à l’art. 28 peuvent exceptionnellement, sur approbation de l’autorité concernée, être soumises à un contrôle de sécurité. La liste des fonctions doit être complétée dès que possible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Personnes soumises au contrôle",
+        "citation": "Art. 29 al. 4 LSI",
+        "content": "Les candidats aux fonctions suivantes ne sont pas soumis à un contrôle de sécurité:\na. membre de l’Assemblée fédérale;\nb. membre du Conseil fédéral et chancelier de la Confédération;\nc. juge auprès d’un tribunal de la Confédération;\nd. procureur général de la Confédération;\ne. membre de l’Autorité de surveillance du Ministère public de la Confédération;\nebis. chef du Préposé fédéral à la protection des données et à la transparence;\nf. général;\ng. magistrat cantonal élu par le peuple ou par le parlement du canton concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_29"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 1, Dispositions générales, Degrés de contrôle",
+        "citation": "Art. 30 LSI",
+        "content": "Les autorités soumises à la présente loi attribuent les degrés de contrôle suivants aux activités sensibles définies ci-après:\na. contrôle de sécurité de base: activités sensibles dont l’exercice inadéquat ou contraire aux prescriptions est susceptible de nuire considérablement aux intérêts définis à l’art. 1, al. 2;\nb. contrôle de sécurité élargi: activités sensibles dont l’exercice inadéquat ou contraire aux prescriptions est susceptible de nuire gravement aux intérêts définis à l’art. 1, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_30"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Services compétents",
+        "citation": "Art. 31 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi et les cantons désignent les services qui ont les compétences suivantes:\na. ouvrir la procédure du contrôle de sécurité (services qui demandent le contrôle);\nb. décider de confier l’activité sensible (instances décisionnelles).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_31"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Services compétents",
+        "citation": "Art. 31 al. 2 LSI",
+        "content": "Le Conseil fédéral désigne un ou plusieurs services spécialisés chargés de réaliser les contrôles de sécurité relatifs aux personnes (services spécialisés CSP). Ces services réalisent l’évaluation sans aucune instruction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_31"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Consentement et collaboration",
+        "citation": "Art. 32 al. 1 LSI",
+        "content": "Aucun contrôle de sécurité ne peut être réalisé sans le consentement de la personne soumise au contrôle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Consentement et collaboration",
+        "citation": "Art. 32 al. 2 LSI",
+        "content": "Les conscrits, les militaires et les membres de la protection civile peuvent être soumis à un contrôle de sécurité sans leur consentement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Consentement et collaboration",
+        "citation": "Art. 32 al. 3 LSI",
+        "content": "La personne soumise au contrôle est tenue de collaborer à l’établissement des faits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_32"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Moment du contrôle",
+        "citation": "Art. 33 al. 1 LSI",
+        "content": "Pour les personnes visées à l’art. 29, al. 1, let. a et b, la procédure de contrôle de sécurité doit être ouverte avant l’attribution de la fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Moment du contrôle",
+        "citation": "Art. 33 al. 2 LSI",
+        "content": "Pour les personnes visées à l’art. 29, al. 1, let. a, qui doivent être nommées par le Conseil fédéral, le contrôle de sécurité doit être achevé avant le dépôt de la proposition de nomination.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Moment du contrôle",
+        "citation": "Art. 33 al. 3 LSI",
+        "content": "Pour les personnes visées à l’art. 29, al. 1, let. c, le contrôle de sécurité doit être achevé avant que l’activité sensible ne leur soit confiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Moment du contrôle",
+        "citation": "Art. 33 al. 4 LSI",
+        "content": "Pour les personnes visées à l’art. 29, al. 1, let. d, le contrôle de sécurité a lieu au moment prévu par le traité applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_33"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Collecte des données",
+        "citation": "Art. 34 al. 1 LSI",
+        "content": "Les services spécialisés CSP peuvent collecter les données suivantes relatives à une personne pour réaliser un contrôle de sécurité de base:\na. données du casier judiciaire;\nb. données sur des procédures pénales en cours, classées ou suspendues, en demandant des renseignements ou des dossiers auprès des autorités pénales;\nc. données nécessaires à l’évaluation du risque, auprès des organes de sécurité de la Confédération, du Service de renseignement de la Confédération (SRC), des organes de l’armée et d’autres organes de la Confédération;\nd. données des registres et dossiers des organes de sécurité des cantons et des organes de police;\ne. données des registres des offices des poursuites et des faillites;\nf. données des dossiers établis lors de contrôles de sécurité antérieurs;\ng. données de sources d’information publiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Collecte des données",
+        "citation": "Art. 34 al. 2 LSI",
+        "content": "Ils peuvent au surplus collecter les données suivantes relatives à une personne pour réaliser un contrôle de sécurité élargi:\na. données détenues par les autorités fiscales fédérales et cantonales;\nb. données du registre du contrôle des habitants;\nc. données détenues par les établissements financiers et banques entretenant des relations d’affaires avec la personne concernée;\nd. données fournies par la personne concernée au cours d’une audition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Collecte des données",
+        "citation": "Art. 34 al. 3 LSI",
+        "content": "Lorsque des indices concrets fondés sur les données collectées donnent à penser qu’il existe un risque pour la sécurité ou lorsque les données collectées sont insuffisantes ou ne s’étendent pas sur une période suffisante pour réaliser le contrôle, les services spécialisés CSP peuvent auditionner la personne concernée. Ils peuvent également interroger des tiers moyennant le consentement de la personne soumise au contrôle de sécurité; ils indiquent aux tiers concernés qu’ils sont libres de donner des renseignements ou non.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Collecte des données",
+        "citation": "Art. 34 al. 4 LSI",
+        "content": "Les données relatives à des tiers qui sont indissociables des données relatives à la personne soumise au contrôle de sécurité peuvent être traitées si elles sont indispensables pour réaliser le contrôle. Les services spécialisés CSP informent les tiers concernés du traitement de leurs données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_34"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Assistance administrative",
+        "citation": "Art. 35 al. 1 LSI",
+        "content": "L’autorité ou l’organisation concernée au sens de l’art. 34 collecte les données détenues par une autorité étrangère ou une organisation internationale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_35"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Assistance administrative",
+        "citation": "Art. 35 al. 2 LSI",
+        "content": "Lorsque les données collectées fournissent des indices concrets de crime organisé ou de criminalité internationale, le service spécialisé CSP consulte les offices centraux de police criminelle de la Confédération. Les offices centraux ne communiquent au service spécialisé CSP que les données personnelles pertinentes pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_35"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Prise en charge des coûts",
+        "citation": "Art. 36 al. 1 LSI",
+        "content": "Les autorités et organisations de droit public auprès desquelles les services spécialisés CSP peuvent collecter des données ou qui sont tenues de participer à la procédure prêtent leur concours gratuitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Prise en charge des coûts",
+        "citation": "Art. 36 al. 2 LSI",
+        "content": "Les tiers auxquels la procédure occasionne une charge considérable sont indemnisés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Prise en charge des coûts",
+        "citation": "Art. 36 al. 3 LSI",
+        "content": "La Confédération supporte les coûts du contrôle pour les employés cantonaux visés à l’art. 29, al. 1, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_36"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Classement de la procédure",
+        "citation": "Art. 37 al. 1 LSI",
+        "content": "Les services spécialisés CSP classent la procédure lorsque la personne concernée revient sur son consentement ou qu’elle n’entre plus en considération pour exercer la fonction prévue ou pour exécuter le mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_37"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 2, Procédure, Classement de la procédure",
+        "citation": "Art. 37 al. 2 LSI",
+        "content": "Ils communiquent le classement de la procédure à la personne concernée et au service qui a demandé son ouverture. La personne concernée est réputée ne pas avoir été contrôlée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_37"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Risque pour la sécurité",
+        "citation": "Art. 38 al. 1 LSI",
+        "content": "Il existe un risque pour la sécurité lorsque des indices concrets fondés sur les données collectées laissent supposer avec une probabilité élevée que la personne contrôlée exécutera l’activité sensible de manière inadéquate ou contraire aux prescriptions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Risque pour la sécurité",
+        "citation": "Art. 38 al. 2 LSI",
+        "content": "La probabilité d’un exercice inadéquat ou contraire aux prescriptions d’une activité sensible peut notamment être jugée élevée lorsque des indices concrets donnent à penser que la personne présente l’une des caractéristiques suivantes:\na. elle manque d’intégrité ou de loyauté;\nb. elle est susceptible de céder au chantage ou à la corruption;\nc. elle ne dispose pas d’une pleine capacité de jugement ou de décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Risque pour la sécurité",
+        "citation": "Art. 38 al. 3 LSI",
+        "content": "L’évaluation doit se fonder sur des faits concernant la situation personnelle de la personne soumise au contrôle, indépendamment de toute faute commise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_38"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Résultat de l’évaluation",
+        "citation": "Art. 39 al. 1 LSI",
+        "content": "Les services spécialisés CSP rendent l’une des déclarations suivantes, qui a la signification indiquée ci-après:\na. déclaration de sécurité: il n’existe aucun risque pour la sécurité;\nb. déclaration de sécurité sous réserve: il existe un risque pour la sécurité, mais celui-ci peut être ramené à un niveau acceptable en respectant certaines conditions; les services spécialisés CSP recommandent les conditions à fixer;\nc. déclaration de risque: il existe un risque pour la sécurité;\nd. constatation: les données sont insuffisantes ou ne s’étendent pas sur une période suffisante pour évaluer le risque pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_39"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Résultat de l’évaluation",
+        "citation": "Art. 39 al. 2 LSI",
+        "content": "Dans les cas visés à l’al. 1, let. b à d, ils donnent au préalable la possibilité à la personne soumise au contrôle de donner son avis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_39"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Communication",
+        "citation": "Art. 40 al. 1 LSI",
+        "content": "Les services spécialisés CSP communiquent par écrit à la personne concernée et à l’instance décisionnelle la déclaration qu’ils ont rendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Communication",
+        "citation": "Art. 40 al. 2 LSI",
+        "content": "Pour les nominations par le Conseil fédéral, les services spécialisés CSP communiquent leur déclaration au département qui propose la nomination.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Communication",
+        "citation": "Art. 40 al. 3 LSI",
+        "content": "Ils peuvent communiquer la déclaration à une autre instance décisionnelle dans les cas suivants:\na. la personne soumise au contrôle est appelée à exercer une autre activité sensible au sens de la présente loi qui requiert un contrôle de sécurité;\nb. la personne est soumise à un contrôle de loyauté en vertu d’une autre loi fédérale;\nc. la personne est soumise à une évaluation en vertu de l’art. 113 de la loi du 3 février 1995 sur l’armée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 3, Évaluation du risque pour la sécurité, Communication",
+        "citation": "Art. 40 al. 4 LSI",
+        "content": "Si les services spécialisés CSP disposent, avant la clôture de l’évaluation, d’indices concrets d’un risque pour la sécurité, ils peuvent communiquer leurs constatations intermédiaires par écrit aux autorités et instances visées aux al. 1 à 3 et à la personne contrôlée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_40"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Exercice de l’activité sensible",
+        "citation": "Art. 41 al. 1 LSI",
+        "content": "Les déclarations des services spécialisés CSP ont valeur de recommandation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Exercice de l’activité sensible",
+        "citation": "Art. 41 al. 2 LSI",
+        "content": "Le service visé à l’art. 31, al. 1, let. b décide, après avoir pris connaissance de la déclaration, si la personne contrôlée peut exercer l’activité sensible en question.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Exercice de l’activité sensible",
+        "citation": "Art. 41 al. 3 LSI",
+        "content": "Il peut fixer des conditions à l’exercice de l’activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Exercice de l’activité sensible",
+        "citation": "Art. 41 al. 4 LSI",
+        "content": "Il communique sa décision au service spécialisé CSP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_41"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Utilisation de la déclaration pour d’autres activités sensibles ",
+        "citation": "Art. 42 LSI",
+        "content": "Il n’est pas nécessaire de réaliser un nouveau contrôle de sécurité lorsque la personne concernée a déjà obtenu une déclaration pour un degré de contrôle au moins équivalent:\na. en vue d’une autre activité sensible au sens de la présente loi;\nb. dans le cadre d’un contrôle de loyauté en vertu d’une autre loi fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_42"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Répétition du contrôle",
+        "citation": "Art. 43 al. 1 LSI",
+        "content": "Le contrôle de sécurité relatif aux personnes est répété comme suit:\na. contrôle de sécurité de base: au plus tôt après cinq ans, au plus tard après dix ans;\nb. contrôle de sécurité élargi: au plus tôt après trois ans, au plus tard après cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Répétition du contrôle",
+        "citation": "Art. 43 al. 2 LSI",
+        "content": "Le Conseil fédéral peut prévoir qu’il n’est pas nécessaire de répéter le contrôle de sécurité de base pour les personnes exerçant certaines fonctions au sein de l’armée ou de la protection civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Répétition du contrôle",
+        "citation": "Art. 43 al. 3 LSI",
+        "content": "Lorsque le service qui demande le contrôle ou l’instance décisionnelle ont des raisons de penser que de nouveaux risques sont apparus depuis le dernier contrôle, ils peuvent demander la répétition du contrôle de sécurité au service spécialisé CSP; ils motivent leur demande par écrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_43"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Voies de droit",
+        "citation": "Art. 44 al. 1 LSI",
+        "content": "La personne contrôlée dispose d’un délai de 30 jours à compter de la réception d’une déclaration au sens de l’art. 39, al. 1, pour:\na. consulter le dossier du contrôle;\nb. demander la rectification des données erronées ou la destruction des données obsolètes;\nc. demander que l’on ajoute à une donnée la mention de son caractère litigieux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Voies de droit",
+        "citation": "Art. 44 al. 2 LSI",
+        "content": "Les restrictions à la communication de renseignements sont régies par l’art. 26 de la loi fédérale du 25 septembre 2020 sur la protection des données (LPD).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Voies de droit",
+        "citation": "Art. 44 al. 3 LSI",
+        "content": "La déclaration constitue un acte matériel au sens de l’art. 25a de la loi fédérale du 20 décembre 1968 sur la procédure administrative. La personne contrôlée peut recourir contre une déclaration au sens de l’art. 39, al. 1, let. b à d, auprès du Tribunal administratif fédéral dans un délai de 30 jours à compter de sa réception.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Voies de droit",
+        "citation": "Art. 44 al. 4 LSI",
+        "content": "Si l’instance décisionnelle est le Tribunal fédéral ou le Tribunal administratif fédéral, l’art. 36, al. 2 et 4, de la loi du 24 mars 2000 sur le personnel de la Confédération s’applique par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 4, Conséquences de la déclaration, Voies de droit",
+        "citation": "Art. 44 al. 5 LSI",
+        "content": "La procédure de recours est régie au surplus par les dispositions générales de la procédure fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_44"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 1 LSI",
+        "content": "Les services spécialisés CSP exploitent un système d’information. Celui-ci sert à l’exécution:\na. des contrôles de sécurité relatifs aux personnes;\nb. des évaluations du potentiel d’abus ou de dangerosité en ce qui concerne l’arme personnelle;\nc. des contrôles de fiabilité;\nd. des contrôles de loyauté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 2 LSI",
+        "content": "Chaque service spécialisé CSP est responsable de la licéité du traitement des données personnelles qu’il effectue dans le système d’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 3 LSI",
+        "content": "Les données sensibles au sens de l’art. 5, let. c, LPD peuvent être traités dans le système d’information dans la mesure où elles sont nécessaires à l’évaluation du risque pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 3bis LSI",
+        "content": "Un profilage au sens de la LPD, y compris un profilage à risque élevé, peut être effectué à l’aide des données contenues dans le système d’information pour analyser, évaluer, apprécier ou prédire les aspects personnels ci-après relatifs à une personne physique dans les buts visés à l’al. 1:\na. risque pour la sécurité;\nb. potentiel d’abus et de dangerosité en ce qui concerne l’arme personnelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 4 LSI",
+        "content": "Le système d’information contient les données suivantes:\na. les données d’identité des personnes à contrôler ou des personnes qui ont été contrôlées, y compris le numéro AVS et le numéro de passeport;\nb. les données visées aux art. 34 et 35;\nc. les données relatives à l’évaluation du risque pour la sécurité;\nd. le résultat de l’évaluation visé à l’art. 39, al. 1;\ne. la décision de l’instance décisionnelle;\nf. les données et les dossiers relatifs aux procédures de recours;\ng. des listes et statistiques contenant les données visées aux let. a à f.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 5 LSI",
+        "content": "Le traitement des données visées à l’al. 4 en dehors du système d’information doit être mentionné dans le système.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Système d’information sur le contrôle de sécurité relatif aux personnes",
+        "citation": "Art. 45 al. 6 LSI",
+        "content": "Les données visées à l’al. 4 peuvent être collectées automatiquement et systématiquement en ligne dans les systèmes d’information suivants:\na. casier judiciaire informatique au sens de la loi du 17 juin 2016 sur le casier judiciaire;\nb. index national de police au sens de l’art. 17 de la loi fédérale du 13 juin 2008 sur les systèmes d’information de police de la Confédération;\nc. système d’indexation des données du SRC au sens de l’art. 51 de la loi fédérale du 25 septembre 2015 sur le renseignement;\nd. banques de données de l’Office central des armes visées à l’art. 32a, al. 1, de la loi du 20 juin 1997 sur les armes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_45"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 46 al. 1 LSI",
+        "content": "Les organes suivants peuvent consulter en ligne les données ci-après contenues dans le système d’information:\na. les services qui demandent le contrôle: les données visées à l’art. 45, al. 4, let. b, qu’ils ont saisies eux-mêmes lors de l’ouverture de la procédure de contrôle, ainsi que les données visées à l’art. 45, al. 4, let. a, d et e;\nb. les instances décisionnelles: les données visées à l’art. 45, al. 4, let. a, d et e;\nc. les préposés à la sécurité de l’information au sens de l’art. 81, pour l’exécution de leurs tâches de contrôle: les données visées à l’art. 45, al. 4, let. a, d et e;\nd. les services de la Confédération et des cantons auprès desquels les données visées à l’art. 37 sont collectées: les données visées à l’art. 45, al. 4, let. a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 46 al. 2 LSI",
+        "content": "Les organes suivants peuvent consulter les données ci-après contenues dans le système d’information:\na. le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises (service spécialisé PSE) au sens de l’art. 51, al. 2, par une interface liée au système d’information visé à l’art. 70, pour mener la procédure de sécurité relative aux entreprises au sens des art. 49 à 73: les données visées à l’art. 45, al. 4, let. a, d et e;\nb. le Groupement Défense:\n1. par une interface liée au système d’information visé à l’art. 12 de la loi fédérale du 3 octobre 2008 sur les systèmes d’information de l’armée (LSIA), dans les buts définis à l’art. 13 LSIA: les données visées à l’art. 45, al. 4, let. a, d et e,\n2. par une interface liée au système d’information visé à l’art. 18 LSIA, dans les buts définis à l’art. 19 LSIA: les données visées à l’art. 45, al. 4, let. a et e;\n3. par une interface liée au système d’information visé à l’art. 156 LSIA, dans le but visé à l’art. 157 LSIA: les données visées à l’art. 45, al. 4, let. a et e,\n4. par une interface liée au système d’information visé à l’art. 162 LSIA, dans le but visé à l’art. 163 LSIA: les données visées à l’art. 45, al. 4, let. a et e;\nc. le service compétent pour délivrer des certificats internationaux de sécurité au sens de l’art. 48, let. c, par une interface: les données visées à l’art. 45, al. 4, let. a, d et e.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 46 al. 3 LSI",
+        "content": "Les services spécialisés CSP peuvent au surplus communiquer électroniquement les données visées à l’art. 45, al. 4, let. a et e, à d’autres services de la Confédération dans la mesure où ces données sont nécessaires pour contrôler l’accès aux zones de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 46 al. 4 LSI",
+        "content": "Ils peuvent communiquer aux autorités et organisations soumises à la présente loi les listes et statistiques visées à l’art. 45, al. 1, let. g, dans la mesure où elles en ont besoin pour exécuter les tâches de contrôle prévues par la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_46"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 47 al. 1 LSI",
+        "content": "Les services spécialisés CSP peuvent enregistrer les auditions visées à l’art. 34, al. 2, let. d, et 3, et conserver les enregistrements sur des supports.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 47 al. 2 LSI",
+        "content": "Ils conservent les données aussi longtemps que la personne concernée exerce l’activité sensible, mais dix ans au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 47 al. 3 LSI",
+        "content": "L’archivage des données est régi par les dispositions de la législation relative à l’archivage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 5, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 47 al. 4 LSI",
+        "content": "Lorsque la procédure est classée ou que les services spécialisés CSP apprennent qu’une personne contrôlée n’occupe pas la fonction prévue ou a refusé d’exécuter le mandat prévu, ces services détruisent l’ensemble des données et dossiers relatifs à la procédure dans les trois mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_47"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 3, Contrôle de sécurité relatif aux personnes, Section 6, Dispositions édictées par le Conseil fédéral",
+        "citation": "Art. 48 LSI",
+        "content": "Le Conseil fédéral règle:\na. les modalités de la procédure du contrôle de sécurité relatif aux personnes;\nb. l’organisation des services spécialisés CSP;\nc. les modalités de délivrance des certificats internationaux de sécurité;\nd. les responsabilités en matière de protection des données traitées dans le système d’information visé à l’art. 45 et la sécurité des données;\ne. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_48"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, But de la procédure",
+        "citation": "Art. 49 LSI",
+        "content": "La procédure de sécurité relative aux entreprises vise à préserver la sécurité de l’information lors de l’exécution de mandats publics par des entreprises, des parties d’entre elles ou des sous-contractants (entreprises), dans la mesure où ces mandats impliquent l’exercice d’une activité sensible (mandats sensibles).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_49"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, Entreprises concernées",
+        "citation": "Art. 50 al. 1 LSI",
+        "content": "Les entreprises suivantes peuvent être soumises à la procédure de sécurité:\na. entreprises appelées à exécuter un mandat sensible pour le compte d’une autorité ou d’une organisation soumise à la présente loi;\nb. entreprises dont le siège est en Suisse et qui soumissionnent pour des mandats dont l’exécution requiert un certificat international de sécurité au sens de l’art. 66.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, Entreprises concernées",
+        "citation": "Art. 50 al. 2 LSI",
+        "content": "La procédure ne peut être menée sans le consentement de l’entreprise concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, Entreprises concernées",
+        "citation": "Art. 50 al. 3 LSI",
+        "content": "Les entreprises visées à l’al. 1, let. b, supportent les coûts de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_50"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, Classement de la procédure",
+        "citation": "Art. 51 al. 1 LSI",
+        "content": "La procédure de sécurité est classée dans les cas suivants:\na. l’entreprise concernée revient sur son consentement ou ne collabore pas à la procédure;\nb. l’entreprise concernée retire son offre;\nc. l’entreprise concernée n’entre plus en considération pour l’exécution du mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_51"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 1, Dispositions générales, Classement de la procédure",
+        "citation": "Art. 51 al. 2 LSI",
+        "content": "Le service spécialisé chargé de mener la procédure de sécurité relative aux entreprises (service spécialisé PSE) communique le classement de la procédure à l’entreprise et à l’autorité ou l’organisation qui attribue le mandat (adjudicateur).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_51"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Demande d’ouverture de la procédure",
+        "citation": "Art. 52 al. 1 LSI",
+        "content": "Lorsque les autorités et organisations soumises à la présente loi envisagent d’attribuer un mandat sensible, elles adressent au service spécialisé PSE une demande d’ouverture de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Demande d’ouverture de la procédure",
+        "citation": "Art. 52 al. 2 LSI",
+        "content": "Les autorités soumises à la présente loi désignent les services compétents pour demander l’ouverture de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Demande d’ouverture de la procédure",
+        "citation": "Art. 52 al. 3 LSI",
+        "content": "Les autorités étrangères ou organisations internationales doivent déposer elles-mêmes une demande pour les entreprises visées à l’art. 50, al. 1, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_52"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Examen de la demande",
+        "citation": "Art. 53 al. 1 LSI",
+        "content": "Le service spécialisé PSE examine la demande et ouvre la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_53"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Examen de la demande",
+        "citation": "Art. 53 al. 2 LSI",
+        "content": "Il peut renoncer, en accord avec l’adjudicateur, à ouvrir une procédure lorsque d’autres mesures permettent de ramener le risque pour la sécurité à un niveau acceptable. Il recommande les mesures à prendre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_53"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 2, Ouverture de la procédure, Définition des exigences en matière de sécurité",
+        "citation": "Art. 54 LSI",
+        "content": "Le service spécialisé PSE fixe, en accord avec l’adjudicateur, les exigences en matière de sécurité de l’information pour la procédure d’adjudication et la phase d’exécution du mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_54"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Qualification",
+        "citation": "Art. 55 al. 1 LSI",
+        "content": "L’adjudicateur indique au service spécialisé PSE quelles entreprises entrent en considération pour l’exécution du mandat sensible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Qualification",
+        "citation": "Art. 55 al. 2 LSI",
+        "content": "Le service spécialisé PSE évalue si les entreprises concernées présentent les qualifications requises sous l’angle de la sécurité pour exécuter le mandat sensible ou s’il existe un risque pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Qualification",
+        "citation": "Art. 55 al. 3 LSI",
+        "content": "Il réalise l’évaluation sans aucune instruction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_55"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Collecte des données",
+        "citation": "Art. 56 al. 1 LSI",
+        "content": "Pour évaluer la qualification d’une entreprise, le service spécialisé PSE peut collecter des données auprès des sources suivantes:\na. l’entreprise concernée;\nb. le SRC;\nc. toute source d’information publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_56"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Collecte des données",
+        "citation": "Art. 56 al. 2 LSI",
+        "content": "Il peut demander à des services étrangers ou internationaux de lui transmettre des données. La demande est adressée par l’intermédiaire du SRC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_56"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Évaluation du risque pour la sécurité",
+        "citation": "Art. 57 al. 1 LSI",
+        "content": "Il existe un risque pour la sécurité lorsque des indices concrets fondés sur les données collectées laissent supposer avec une probabilité élevée que l’entreprise exécutera le mandat sensible de manière inadéquate ou contraire aux prescriptions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Évaluation du risque pour la sécurité",
+        "citation": "Art. 57 al. 2 LSI",
+        "content": "La probabilité d’une exécution inadéquate ou contraire aux prescriptions du mandat sensible peut être jugée élevée dans les cas suivants notamment:\na. l’entreprise manque d’intégrité ou de loyauté;\nb. l’entreprise est contrôlée par des États étrangers ou des organisations étrangères de droit public ou privé ou se trouve sous leur influence, lorsque ce contrôle ou cette influence sont incompatibles avec les intérêts définis à l’art. 1, al. 2;\nc. un service spécialisé CSP a rendu une déclaration de risque pour un membre du personnel de l’entreprise et cette personne est indispensable pour l’exécution du mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Évaluation du risque pour la sécurité",
+        "citation": "Art. 57 al. 3 LSI",
+        "content": "L’évaluation doit se fonder sur des faits concernant la situation de l’entreprise, indépendamment de toute faute commise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_57"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Notification de l’évaluation et exclusion de la procédure d’adjudication",
+        "citation": "Art. 58 al. 1 LSI",
+        "content": "Le service spécialisé PSE communique son évaluation à l’adjudicateur et la notifie formellement à l’entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Notification de l’évaluation et exclusion de la procédure d’adjudication",
+        "citation": "Art. 58 al. 2 LSI",
+        "content": "Si le service spécialisé PSE conclut que l’exécution du mandat sensible par l’entreprise concernée pose un risque pour la sécurité, l’adjudicateur exclut l’entreprise de la procédure d’adjudication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 3, Évaluation des entreprises, Notification de l’évaluation et exclusion de la procédure d’adjudication",
+        "citation": "Art. 58 al. 3 LSI",
+        "content": "Si toutes les entreprises qui entrent en considération posent un risque pour la sécurité, l’adjudicateur peut néanmoins confier le mandat à l’une d’entre elles. Le service spécialisé PSE classe la procédure. L’adjudicateur applique par analogie les mesures visées aux art. 59, 60, 63 et 64.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_58"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 4, Plan de sécurité, Adjudication et plan de sécurité",
+        "citation": "Art. 59 al. 1 LSI",
+        "content": "L’adjudicateur indique au service spécialisé PSE quelle est l’entreprise adjudicataire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 4, Plan de sécurité, Adjudication et plan de sécurité",
+        "citation": "Art. 59 al. 2 LSI",
+        "content": "L’entreprise établit un plan de sécurité en suivant les directives du service spécialisé PSE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 4, Plan de sécurité, Adjudication et plan de sécurité",
+        "citation": "Art. 59 al. 3 LSI",
+        "content": "Le plan de sécurité est soumis au contrôle du service spécialisé PSE. Ce dernier peut collecter les données nécessaires par écrit ou inspecter les locaux de l’entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_59"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 4, Plan de sécurité, Contrôles de sécurité relatifs aux personnes",
+        "citation": "Art. 60 al. 1 LSI",
+        "content": "Les collaborateurs de l’entreprise qui sont appelés à exercer une activité sensible sont soumis à un contrôle de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_60"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 4, Plan de sécurité, Contrôles de sécurité relatifs aux personnes",
+        "citation": "Art. 60 al. 2 LSI",
+        "content": "Le service spécialisé PSE est compétent pour la décision au sens de l’art. 41, al. 2. Si la procédure de sécurité relative aux entreprises est classée conformément à l’art. 58, al. 3, parce qu’aucune entreprise ne présente les qualifications requises pour exécuter le mandat, l’adjudicateur prend la décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_60"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Établissement de la déclaration de sécurité relative aux entreprises",
+        "citation": "Art. 61 al. 1 LSI",
+        "content": "Le service spécialisé PSE rend formellement une déclaration de sécurité lorsque l’entreprise apporte la preuve qu’elle a mis en œuvre le plan de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Établissement de la déclaration de sécurité relative aux entreprises",
+        "citation": "Art. 61 al. 2 LSI",
+        "content": "Il refuse à l’entreprise la déclaration de sécurité et classe la procédure si l’entreprise ne met pas en œuvre le plan de sécurité. Il rend formellement une décision en conséquence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Établissement de la déclaration de sécurité relative aux entreprises",
+        "citation": "Art. 61 al. 3 LSI",
+        "content": "Les décisions visées aux al. 1 et 2 sont communiquées à l’adjudicateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Établissement de la déclaration de sécurité relative aux entreprises",
+        "citation": "Art. 61 al. 4 LSI",
+        "content": "L’adjudicateur est lié par la décision du service spécialisé PSE, sous réserve de l’art. 58, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Établissement de la déclaration de sécurité relative aux entreprises",
+        "citation": "Art. 61 al. 5 LSI",
+        "content": "La déclaration de sécurité est valable cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_61"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Exécution d’un mandat sensible",
+        "citation": "Art. 62 LSI",
+        "content": "L’adjudicateur ne peut laisser une entreprise exécuter un mandat sensible qu’une fois que celle-ci a obtenu une déclaration de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_62"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Obligations de l’entreprise",
+        "citation": "Art. 63 al. 1 LSI",
+        "content": "Les entreprises qui ont obtenu une déclaration de sécurité doivent constamment appliquer les mesures prévues par le plan de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_63"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Obligations de l’entreprise",
+        "citation": "Art. 63 al. 2 LSI",
+        "content": "Elles informent immédiatement le service spécialisé PSE et l’adjudicateur de tout changement et de tout incident dans le domaine de la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_63"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Contrôles et mesures de protection",
+        "citation": "Art. 64 al. 1 LSI",
+        "content": "Le service spécialisé PSE peut:\na. inspecter inopinément les secteurs où le mandat sensible est exécuté;\nb. consulter les documents relatifs au mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_64"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Contrôles et mesures de protection",
+        "citation": "Art. 64 al. 2 LSI",
+        "content": "Lorsque des indices concrets donnent à penser que la sécurité de l’information est menacée dans une entreprise, le service spécialisé PSE peut prendre immédiatement les mesures de protection qui s’imposent, notamment mettre les documents et le matériel en lieu sûr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_64"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Procédure simplifiée en cas d’adjudication d’autres mandats sensibles",
+        "citation": "Art. 65 LSI",
+        "content": "Les entreprises qui ont obtenu une déclaration de sécurité sont réputées qualifiées en cas d’adjudication d’autres mandats sensibles. Le service spécialisé PSE examine la nécessité d’adapter le plan de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_65"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Certificat international de sécurité",
+        "citation": "Art. 66 LSI",
+        "content": "Le service spécialisé PSE établit à la demande de l’entreprise un certificat international de sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_66"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Révocation de la déclaration de sécurité",
+        "citation": "Art. 67 al. 1 LSI",
+        "content": "Le service spécialisé PSE révoque la déclaration de sécurité dans les cas suivants:\na. l’entreprise n’a pas rempli ses obligations au sens de l’art. 63;\nb. une répétition de la procédure a permis d’identifier un risque pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Révocation de la déclaration de sécurité",
+        "citation": "Art. 67 al. 2 LSI",
+        "content": "Il notifie sa décision à l’entreprise et à l’adjudicateur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 5, Déclaration de sécurité relative aux entreprises, Révocation de la déclaration de sécurité",
+        "citation": "Art. 67 al. 3 LSI",
+        "content": "En cas de révocation de la déclaration de sécurité, l’adjudicateur retire immédiatement le mandat à l’entreprise, sous réserve de l’art. 58, al. 3. L’entreprise n’a droit à aucune indemnisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_67"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 6, Répétition de la procédure et voies de droit, Répétition de la procédure",
+        "citation": "Art. 68 LSI",
+        "content": "La procédure de sécurité est répétée dans les cas suivants:\na. la déclaration de sécurité de l’entreprise échoit alors que l’entreprise exécute un mandat sensible;\nb. des changements importants sont intervenus au sein de l’entreprise et des indices concrets donnent à penser que ces changements ont fait apparaître de nouveaux risques pour la sécurité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_68"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 6, Répétition de la procédure et voies de droit, Voies de droit",
+        "citation": "Art. 69 al. 1 LSI",
+        "content": "L’entreprise a 30 jours à compter de la notification de la décision du service spécialisé PSE pour:\na. consulter le dossier du contrôle;\nb. demander la rectification des données erronées ou la destruction des données obsolètes;\nc. demander que l’on ajoute à une donnée la mention de son caractère litigieux;\nd. faire recours devant le Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_69"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 6, Répétition de la procédure et voies de droit, Voies de droit",
+        "citation": "Art. 69 al. 2 LSI",
+        "content": "Les restrictions à la communication de renseignements sont régies par l’art. 26 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_69"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Système d’information sur la procédure de sécurité relative, aux entreprises",
+        "citation": "Art. 70 al. 1 LSI",
+        "content": "Le service spécialisé PSE exploite un système d’information pour réaliser et gérer les procédures de sécurité relatives aux entreprises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Système d’information sur la procédure de sécurité relative, aux entreprises",
+        "citation": "Art. 70 al. 2 LSI",
+        "content": "Les données sensibles et au sens de l’art. 5, let. c, LPD peuvent être traitées dans le système d’information dans la mesure où elles sont nécessaires à l’exécution de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Système d’information sur la procédure de sécurité relative, aux entreprises",
+        "citation": "Art. 70 al. 3 LSI",
+        "content": "Le système d’information contient les données suivantes:\na. les données visées aux art. 56 et 59, al. 3;\nb. le résultat de l’évaluation visée à l’art. 55, al. 2;\nc. le résultat des contrôles de sécurité relatifs aux personnes visés à l’art. 60, al. 1;\nd. la décision du service spécialisé PSE visée à l’art. 60, al. 2;\ne. la raison sociale des entreprises qui ont obtenu une déclaration de sécurité;\nf. les mesures de protection visées à l’art. 64;\ng. les données et les dossiers relatifs aux procédures de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Système d’information sur la procédure de sécurité relative, aux entreprises",
+        "citation": "Art. 70 al. 4 LSI",
+        "content": "Le service spécialisé PSE est responsable de la sécurité du système d’information et de la licéité du traitement des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_70"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 71 al. 1 LSI",
+        "content": "Les organes suivants peuvent consulter en ligne les données ci-après:\na. les adjudicateurs: les données visées à l’art. 70, al. 3, let. b et d à g;\nb. les entreprises qui sont habilitées par le Conseil fédéral, en vertu de l’art. 31, al. 1, let. a, à ouvrir des procédures de contrôle de sécurité relatifs aux personnes dans leur domaine de compétence: les données visées à l’art. 70, al. 3, let. d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_71"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Consultation et communication des données",
+        "citation": "Art. 71 al. 2 LSI",
+        "content": "Le service spécialisé PSE peut au surplus communiquer les données visées à l’art. 70, al. 3, let. b à d, à d’autres services de la Confédération dans la mesure où ces données sont nécessaires à la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_71"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 72 al. 1 LSI",
+        "content": "Le service spécialisé PSE conserve les données aussi longtemps que l’entreprise concernée dispose d’une déclaration de sécurité, mais dix ans au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 72 al. 2 LSI",
+        "content": "L’archivage des données est régi par les dispositions de la législation relative à l’archivage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 7, Traitement des données personnelles, Conservation, archivage et destruction des données",
+        "citation": "Art. 72 al. 3 LSI",
+        "content": "Lorsque la procédure est classée, le service spécialisé PSE détruit l’ensemble des données et dossiers relatifs à la procédure dans les trois mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_72"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 4, Procédure de sécurité relative aux entreprises, Section 8, Dispositions édictées par le Conseil fédéral",
+        "citation": "Art. 73 LSI",
+        "content": "Le Conseil fédéral règle:\na. les modalités de la procédure de sécurité relative aux entreprises;\nb. l’application aux sous-contractants de la procédure de sécurité relative aux entreprises;\nc. l’organisation du service spécialisé PSE;\nd. les mesures nécessaires pour garantir la sécurité des données du système visé à l’art. 70;\ne. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_73"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Tâches de la Confédération",
+        "citation": "Art. 74 al. 1 LSI",
+        "content": "La Confédération apporte un soutien aux exploitants d’infrastructures critiques pour garantir que les interruptions de réseau et de système et que les utilisations abusives soient rares, de courte durée, maîtrisables et peu dommageables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Tâches de la Confédération",
+        "citation": "Art. 74 al. 2 LSI",
+        "content": "Le soutien apporté par la Confédération en matière de sécurité de l’information prend les formes suivantes:\na. identification et évaluation précoces des menaces, dangers, vulnérabilités et failles de sécurité;\nb. identification des incidents;\nc. maintien et rétablissement de la sécurité de l’information après un incident;\nd. suivi des incidents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Tâches de la Confédération",
+        "citation": "Art. 74 al. 3 LSI",
+        "content": "La Confédération gère un service national d’alerte et un service d’assistance pour la mise en place de mesures techniques de sécurité à titre préventif ou après un incident.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Tâches de la Confédération",
+        "citation": "Art. 74 al. 4 LSI",
+        "content": "Elle veille à ce que les exploitants d’infrastructures critiques puissent échanger des informations en toute sécurité, entre elles et avec les services compétents de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Tâches de la Confédération",
+        "citation": "Art. 74 al. 5 LSI",
+        "content": "Le Conseil fédéral désigne les services fédéraux chargés d’accomplir ces tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_74"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Traitement des données personnelles",
+        "citation": "Art. 75 al. 1 LSI",
+        "content": "Les services visés à l’art. 74, al. 5, peuvent traiter des ressources d’adressage au sens de l’art. 3, let. f, de la loi du 30 avril 1997 sur les télécommunications et les données personnelles qui s’y rapportent dans la mesure où elles en ont besoin pour accomplir leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Traitement des données personnelles",
+        "citation": "Art. 75 al. 2 LSI",
+        "content": "Ils peuvent également traiter les données visées à l’al. 1 lorsque ces dernières comportent des informations concernant:\na. des opinions religieuses, philosophiques ou politiques; le traitement des données n’est admissible que dans la mesure où elles sont nécessaires à l’évaluation de menaces et dangers concrets en matière de sécurité de l’information;\nb. des poursuites ou sanctions pénales ou administratives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Traitement des données personnelles",
+        "citation": "Art. 75 al. 3 LSI",
+        "content": "Les données personnelles peuvent être traitées à l’insu de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Traitement des données personnelles",
+        "citation": "Art. 75 al. 4 LSI",
+        "content": "En cas de soupçon fondé d’usurpation d’identité ou d’utilisation abusive de ressources d’adressage, les services visés à l’art. 74, al. 5, informent la personne concernée. L’art. 20 LPD est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_75"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération sur le plan national",
+        "citation": "Art. 76 al. 1 LSI",
+        "content": "Les services visés à l’art. 74, al. 5, peuvent communiquer aux exploitants d’infrastructures critiques des données personnelles au sens de l’art 75 dans la mesure où elles sont utiles à la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération sur le plan national",
+        "citation": "Art. 76 al. 2 LSI",
+        "content": "Ils peuvent communiquer aux fournisseurs et exploitants de services informatiques et de communication des données personnelles au sens de l’art. 75 dans la mesure où elles sont nécessaires à la sécurité de l’information d’infrastructures critiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération sur le plan national",
+        "citation": "Art. 76 al. 3 LSI",
+        "content": "Les exploitants d’infrastructures critiques de même que les fournisseurs et les exploitants de services informatiques et de communication peuvent communiquer aux services visés à l’art. 74, al. 5, des données liées à des incidents, y compris des données personnelles. Les services visés à l’art. 74, al. 5, ne peuvent transmettre ces données à des fins de poursuite pénale qu’avec l’autorisation expresse du fournisseur des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_76"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération internationale",
+        "citation": "Art. 77 al. 1 LSI",
+        "content": "Les services visés à l’art. 74, al. 5, peuvent échanger avec des services étrangers ou internationaux chargés de la protection d’infrastructures critiques des données au sens de l’art. 75 lorsqu’elles sont nécessaires pour accomplir des tâches correspondant à celles définies à l’art. 74.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération internationale",
+        "citation": "Art. 77 al. 2 LSI",
+        "content": "L’échange de données au sens de l’al. 1 n’est autorisé que si les services étrangers ou internationaux garantissent que les données seront utilisées exclusivement aux fins prévues à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Coopération internationale",
+        "citation": "Art. 77 al. 3 LSI",
+        "content": "Si les données sont nécessaires à l’exécution d’une procédure à l’étranger, les dispositions régissant l’assistance administrative et l’entraide judiciaire sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_77"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Système d’information pour le soutien aux infrastructures critiques",
+        "citation": "Art. 78 al. 1 LSI",
+        "content": "Les services visés à l’art. 74, al. 5, exploitent un système d’information permettant d’échanger en toute sécurité des informations avec les exploitants des infrastructures critiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Système d’information pour le soutien aux infrastructures critiques",
+        "citation": "Art. 78 al. 2 LSI",
+        "content": "Le système contient les informations suivantes:\na. description et évaluation des menaces et dangers;\nb. consignes sur l’identification et la résolution techniques des incidents;\nc. analyses des incidents et recommandations pour la sécurité;\nd. analyses des vulnérabilités que présentent les moyens informatiques;\ne. correspondance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Système d’information pour le soutien aux infrastructures critiques",
+        "citation": "Art. 78 al. 3 LSI",
+        "content": "Les informations visées à l’al. 2 peuvent contenir des données personnelles au sens de l’art. 75.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_78"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Conservation et archivage des données",
+        "citation": "Art. 79 al. 1 LSI",
+        "content": "Les services visés à l’art. 74, al. 5, conservent les données personnelles aussi longtemps que celles-ci sont utiles pour prévenir des dangers ou pour identifier des incidents, mais cinq ans au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_79"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Conservation et archivage des données",
+        "citation": "Art. 79 al. 2 LSI",
+        "content": "L’archivage des données est régi par les dispositions de la législation relative à l’archivage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_79"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 5, Infrastructures critiques, Dispositions édictées par le Conseil fédéral",
+        "citation": "Art. 80 LSI",
+        "content": "Le Conseil fédéral règle:\na. la répartition des tâches, la collaboration et les échanges entre les services visés à l’art. 74, al. 5, et le SRC;\nb. les modalités de la communication d’informations aux exploitants d’infrastructures critiques, à des tiers et aux services étrangers et internationaux;\nc. les responsabilités en matière de protection des données traitées dans le système d’information visé à l’art. 78 et la sécurité des données;\nd. les modalités du contrôle périodique réalisé par un organe externe du traitement des données personnelles dans le système d’information visé à l’art. 78.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_80"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Préposés à la sécurité de l’information",
+        "citation": "Art. 81 al. 1 LSI",
+        "content": "Les autorités et organisations suivantes désignent, chacune dans son domaine de compétence, un préposé à la sécurité de l’information et un suppléant:\na. le Conseil fédéral;\nb. la Délégation administrative de l’Assemblée fédérale;\nc. les tribunaux de la Confédération;\nd. le Ministère public de la Confédération;\ne. la Banque nationale suisse;\nf. les départements et la Chancellerie fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Préposés à la sécurité de l’information",
+        "citation": "Art. 81 al. 2 LSI",
+        "content": "Les préposés à la sécurité de l’information accomplissent les tâches suivantes:\na. conseiller et aider dans leur domaine les services compétents dans l’accomplissement des tâches et l’exécution des obligations qui leur incombent en vertu de la présente loi;\nb. diriger, sur mandat de l’autorité ou de l’organisation à laquelle ils sont subordonnés, l’organisation spécialisée chargée de la sécurité de l’information et la gestion des risques;\nc. vérifier, sur mandat de l’autorité ou de l’organisation à laquelle ils sont subordonnés, le respect des prescriptions relatives à la sécurité de l’information, en rendre compte et proposer les mesures qui s’imposent;\nd. signaler, sur une base volontaire, les incidents dans le domaine de la sécurité de l’information au service spécialisé de la Confédération pour la sécurité de l’information et aux services visés à l’art. 74, al. 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Préposés à la sécurité de l’information",
+        "citation": "Art. 81 al. 3 LSI",
+        "content": "Aucune tâche susceptible d’entrer en conflit avec l’une des tâches visées à l’al. 2 ne peut être confiée aux préposés à la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_81"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Conférence des préposés à la sécurité de l’information",
+        "citation": "Art. 82 al. 1 LSI",
+        "content": "La Conférence des préposés à la sécurité de l’information se compose des préposés à la sécurité de l’information au sens de l’art. 81, al. 1, de deux représentants des cantons et du Préposé fédéral à la protection des données et à la transparence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Conférence des préposés à la sécurité de l’information",
+        "citation": "Art. 82 al. 2 LSI",
+        "content": "Elle accomplit les tâches suivantes:\na. promouvoir l’exécution uniforme de la présente loi;\nb. contribuer à la normalisation des exigences et mesures visées à l’art. 85;\nc. conseiller le service spécialisé de la Confédération pour la sécurité de l’information sur tous les aspects de la coordination de l’exécution et sur tous les points d’importance stratégique;\nd. veiller à l’échange d’informations, notamment sur la gestion des risques et sur les problèmes et les incidents dans le domaine de la sécurité de l’information;\ne. assurer la coordination avec les autres services qui accomplissent des tâches dans le domaine de la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Conférence des préposés à la sécurité de l’information",
+        "citation": "Art. 82 al. 3 LSI",
+        "content": "Elle édicte son règlement interne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_82"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Service spécialisé de la Confédération pour la sécurité de l’information",
+        "citation": "Art. 83 al. 1 LSI",
+        "content": "Le service spécialisé de la Confédération pour la sécurité de l’information:\na. conseille et soutient les autorités soumises à la présente loi, leurs préposés à la sécurité de l’information et les cantons dans l’exécution de la présente loi;\nb. peut recommander des mesures si la sécurité de l’information de la Confédération est menacée;\nc. peut mener des contrôles à la demande des autorités soumises à la présente loi;\nd. peut évaluer, à la demande des autorités soumises à la présente loi, les risques liés à l’utilisation de nouvelles technologies;\ne. peut examiner, à la demande des autorités et organisations soumises à la présente loi, l’adéquation de leurs processus, moyens, installations, objets et prestations par rapport aux exigences en matière de sécurité de l’information; \nf. peut gérer et coordonner, à la demande des autorités soumises à la présente loi, les questions liées à la sécurité de l’information lorsque des projets importants impliquent plusieurs autorités;\ng. sert d’interlocuteur pour les contacts spécialisés avec des services nationaux, étrangers ou internationaux;\nh. rend compte chaque année au Conseil fédéral de la situation en matière de sécurité de l’information au sein de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Service spécialisé de la Confédération pour la sécurité de l’information",
+        "citation": "Art. 83 al. 2 LSI",
+        "content": "Le préposé du Conseil fédéral à la sécurité de l’information dirige le service spécialisé de la Confédération pour la sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 1, Organisation, Service spécialisé de la Confédération pour la sécurité de l’information",
+        "citation": "Art. 83 al. 3 LSI",
+        "content": "Le Conseil fédéral règle l’organisation du service spécialisé de la Confédération pour la sécurité de l’information. Il peut le charger d’autres tâches pour le compte de l’administration fédérale ou de l’armée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_83"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Dispositions d’exécution",
+        "citation": "Art. 84 al. 1 LSI",
+        "content": "Les autorités soumises à la présente loi édictent les dispositions d’exécution. Le Conseil fédéral peut charger la Chancellerie fédérale d’édicter des dispositions d’exécution pour les affaires du Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Dispositions d’exécution",
+        "citation": "Art. 84 al. 2 LSI",
+        "content": "Les compétences que la présente loi donne aux autorités soumises à la présente loi sont exercées, pour l’Assemblée fédérale, par la Délégation administrative de l’Assemblée fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Dispositions d’exécution",
+        "citation": "Art. 84 al. 3 LSI",
+        "content": "Les dispositions d’exécution du Conseil fédéral s’appliquent par analogie aux autorités soumises à la présente loi si elles n’édictent pas leurs propres dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_84"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Exigences et mesures standard",
+        "citation": "Art. 85 al. 1 LSI",
+        "content": "Le Conseil fédéral fixe des exigences standard en matière de sécurité et définit des mesures standard en matière d’organisation, de personnel et de construction, de même que sur le plan technique, pour assurer la sécurité de l’information; il suit à cet effet l’avancement des connaissances et de la technique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Exigences et mesures standard",
+        "citation": "Art. 85 al. 2 LSI",
+        "content": "Il peut déléguer cette tâche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Exigences et mesures standard",
+        "citation": "Art. 85 al. 3 LSI",
+        "content": "Les exigences et mesures standard du Conseil fédéral ont valeur de recommandations, sauf si les autorités soumises à la présente loi les déclarent obligatoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_85"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Cantons",
+        "citation": "Art. 86 al. 1 LSI",
+        "content": "Les cantons veillent au contrôle périodique de la mise en œuvre et de l’efficacité de la sécurité de l’information visée à l’art. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Cantons",
+        "citation": "Art. 86 al. 2 LSI",
+        "content": "Ils informent le service spécialisé de la Confédération pour la sécurité de l’information des résultats des contrôles visés à l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Cantons",
+        "citation": "Art. 86 al. 3 LSI",
+        "content": "Ils désignent le service qui est l’interlocuteur des autorités soumises à la présente loi en matière de sécurité de l’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Cantons",
+        "citation": "Art. 86 al. 4 LSI",
+        "content": "Le Conseil fédéral définit les cas dans lesquels les cantons peuvent recourir aux prestations des services spécialisés visés par la présente loi afin d’assurer leur propre sécurité de l’information. Ces prestations sont soumises à des émoluments. Leur montant est fixé par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_86"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Traités internationaux",
+        "citation": "Art. 87 LSI",
+        "content": "Le Conseil fédéral peut conclure des traités internationaux en matière de sécurité de l’information portant sur les objets suivants:\na. l’échange d’informations sur des menaces, des vulnérabilités et des incidents dans le domaine de la sécurité de l’information, en particulier dans les infrastructures critiques;\nb. l’échange d’informations classifiées;\nc. l’exécution des contrôles de sécurité relatifs aux personnes et des procédures de sécurité relatives aux entreprises;\nd. la reconnaissance des déclarations de sécurité;\ne. l’exécution de contrôles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_87"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Évaluation",
+        "citation": "Art. 88 al. 1 LSI",
+        "content": "Le Conseil fédéral veille à ce que l’exécution, l’adéquation, l’efficacité et l’économicité de la présente loi soient contrôlés périodiquement par un service indépendant, en particulier par le Contrôle fédéral des finances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_88"
+    },
+    {
+        "book": "ISG",
+        "title": "LSI, Chapitre 6, Organisation et exécution, Section 2, Exécution, Évaluation",
+        "citation": "Art. 88 al. 2 LSI",
+        "content": "Il en rend compte régulièrement aux commissions compétentes de l’Assemblée fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/232/fr#art_88"
+    }
+]

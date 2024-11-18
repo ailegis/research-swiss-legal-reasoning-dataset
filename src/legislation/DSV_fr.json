@@ -1,0 +1,744 @@
+[
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Principes ",
+        "citation": "Art. 1 al. 1 OPDo",
+        "content": "Pour assurer une sécurité adéquate des données, le responsable du traitement et le sous-traitant établissent le besoin de protection des données personnelles et déterminent les mesures techniques et organisationnelles appropriées à prendre par rapport au risque encouru.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Principes ",
+        "citation": "Art. 1 al. 2 OPDo",
+        "content": "Le besoin de protection des données personnelles est évalué en fonction des critères suivants:\na.  le type de données traitées;\nb. la finalité, la nature, l’étendue et les circonstances du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Principes ",
+        "citation": "Art. 1 al. 3 OPDo",
+        "content": "Le risque pour la personnalité ou les droits fondamentaux de la personne concernée est évalué en fonction des critères suivants:\na. les causes du risque;\nb.  les principales menaces;\nc.  les mesures prises ou prévues pour réduire le risque;\nd.  la probabilité et la gravité d’une violation de la sécurité des données, malgré les mesures prises ou prévues.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Principes ",
+        "citation": "Art. 1 al. 4 OPDo",
+        "content": "Lors de la détermination des mesures techniques et organisationnelles, les critères suivants sont de plus pris en compte:\na.  l’état des connaissances;\nb. les coûts de mise en œuvre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Principes ",
+        "citation": "Art. 1 al. 5 OPDo",
+        "content": "Le besoin de protection des données personnelles, le risque encouru, ainsi que les mesures techniques et organisationnelles sont réévalués pendant toute la durée du traitement. En cas de besoin, les mesures sont adaptées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_1"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Objectifs",
+        "citation": "Art. 2 OPDo",
+        "content": "En fonction du besoin de protection, le responsable du traitement et le sous-traitant prennent des mesures techniques et organisationnelles pour que les données traitées: \na.  ne soient accessibles qu’aux personnes autorisées (confidentialité); \nb.  soient disponibles en cas de besoin (disponibilité); \nc.  ne puissent être modifiées sans droit ou par mégarde (intégrité); \nd.  soient traitées de manière à être traçables (traçabilité).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_2"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Mesures techniques et organisationnelles",
+        "citation": "Art. 3 al. 1 OPDo",
+        "content": "Pour assurer la confidentialité, le responsable du traitement et le sous-traitant prennent des mesures appropriées afin que:\na. les personnes autorisées n’aient accès qu’aux données personnelles dont elles ont besoin pour accomplir leurs tâches (contrôle de l’accès aux données);\nb. seules les personnes autorisées puissent accéder aux locaux et aux installations utilisés pour le traitement de données (contrôle de l’accès aux locaux et aux installations);\nc. les personnes non autorisées ne puissent pas utiliser les systèmes de traitement automatisé de données personnelles à l’aide d’installations de transmission (contrôle d’utilisation).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Mesures techniques et organisationnelles",
+        "citation": "Art. 3 al. 2 OPDo",
+        "content": "Pour assurer la disponibilité et l’intégrité, le responsable du traitement et le sous-traitant prennent des mesures appropriées afin que:\na. les personnes non autorisées ne puissent pas lire, copier, modifier, déplacer, effacer ou détruire des supports de données (contrôle des supports de données);\nb. les personnes non autorisées ne puissent pas enregistrer, lire, modifier, effacer ou détruire des données personnelles dans la mémoire (contrôle de la mémoire);\nc. les personnes non autorisées ne puissent pas lire, copier, modifier, effacer ou détruire des données personnelles lors de leur communication ou lors du transport de supports de données (contrôle du transport);\nd. la disponibilité des données personnelles et l’accès à celles-ci puissent être rapidement restaurés en cas d’incident physique ou technique (restauration);\ne. toutes les fonctions du système de traitement automatisé de données personnelles soient disponibles (disponibilité), que les dysfonctionnements soient signalés (fiabilité) et que les données personnelles stockées ne puissent pas être endommagées en cas de dysfonctionnements du système (intégrité des données);\nf. les systèmes d’exploitation et les logiciels d’application soient toujours maintenus à jour en matière de sécurité et que les failles critiques connues soient corrigées (sécurité du système).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Mesures techniques et organisationnelles",
+        "citation": "Art. 3 al. 3 OPDo",
+        "content": "Pour assurer la traçabilité, le responsable du traitement et le sous-traitant prennent des mesures appropriées afin que:\na. il soit possible de vérifier quelles données personnelles sont saisies ou modifiées dans le système de traitement automatisé de données, par quelle personne et à quel moment (contrôle de la saisie);\nb. il soit possible de vérifier à qui sont communiquées les données personnelles à l’aide d’installations de transmission (contrôle de la communication);\nc. les violations de la sécurité des données puissent être rapidement détectées (détection) et que des mesures puissent être prises pour atténuer ou éliminer les conséquences (réparation).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_3"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Journalisation",
+        "citation": "Art. 4 al. 1 OPDo",
+        "content": "Lors de traitements automatisés de données sensibles à grande échelle ou de profilage à risque élevé et lorsque les mesures préventives ne suffisent pas à garantir la protection des données, le responsable du traitement privé et son sous-traitant privé journalisent au moins l’enregistrement, la modification, la lecture, la communication, l’effacement et la destruction des données. La journalisation est notamment nécessaire lorsque, sans cette mesure, il n’est pas possible de vérifier a posteriori que les données ont été traitées conformément aux finalités pour lesquelles elles ont été collectées ou communiquées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Journalisation",
+        "citation": "Art. 4 al. 2 OPDo",
+        "content": "Lors du traitement automatisé de données personnelles, l’organe fédéral responsable et son sous-traitant journalisent au moins l’enregistrement, la modification, la lecture, la communication, l’effacement et la destruction des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Journalisation",
+        "citation": "Art. 4 al. 3 OPDo",
+        "content": "Pour les données personnelles généralement accessibles au public, l’enregistrement, la modification, l’effacement et la destruction des données doivent au moins être journalisés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Journalisation",
+        "citation": "Art. 4 al. 4 OPDo",
+        "content": "La journalisation doit fournir des informations sur l’identité de la personne qui a effectué le traitement, la nature, la date et l’heure du traitement et, cas échéant, l’identité du destinataire des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Journalisation",
+        "citation": "Art. 4 al. 5 OPDo",
+        "content": "Les procès-verbaux de journalisation sont conservés durant au moins un an, séparément du système dans lequel les données personnelles sont traitées. Ils sont accessibles uniquement aux organes et aux personnes chargés de vérifier l’application des dispositions relatives à la protection des données personnelles ou de préserver ou restaurer la confidentialité, l’intégrité, la disponibilité et la traçabilité des données, et ne peuvent être utilisés qu’à cette fin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_4"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des personnes privées",
+        "citation": "Art. 5 al. 1 OPDo",
+        "content": "Le responsable du traitement privé et son sous-traitant privé établissent un règlement pour les traitements automatisés en cas:\na. de traitement de données sensibles à grande échelle, ou\nb. de profilage à risque élevé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des personnes privées",
+        "citation": "Art. 5 al. 2 OPDo",
+        "content": "Le règlement comprend en particulier des informations sur l’organisation interne, sur les procédures de traitement et de contrôle des données, ainsi que sur les mesures visant à garantir la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des personnes privées",
+        "citation": "Art. 5 al. 3 OPDo",
+        "content": "Le responsable du traitement privé et son sous-traitant privé actualisent régulièrement le règlement. S’ils ont nommé un conseiller à la protection des données, ils mettent le règlement à sa disposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_5"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des organes fédéraux",
+        "citation": "Art. 6 al. 1 OPDo",
+        "content": "L’organe fédéral responsable et son sous-traitant établissent un règlement pour les traitements automatisés en cas: \na. de traitement de données sensibles;\nb. de profilage;\nc. de traitement de données personnelles au sens de l’art. 34, al. 2, let. c, LPD;\nd. d’accès aux données personnelles accordé aux cantons, aux autorités étrangères, aux organisations internationales ou aux personnes privées;\ne. d’ensembles de données interconnectés, ou\nf. d’exploitation d’un système d’information ou de gestion d’ensembles de données conjointement avec d’autres organes fédéraux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des organes fédéraux",
+        "citation": "Art. 6 al. 2 OPDo",
+        "content": "Le règlement comprend en particulier des informations sur l’organisation interne, sur les procédures de traitement et de contrôle des données, ainsi que sur les mesures visant à garantir la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 1, Sécurité des données Règlement de traitement des organes fédéraux",
+        "citation": "Art. 6 al. 3 OPDo",
+        "content": "L’organe fédéral responsable et son sous-traitant actualisent régulièrement le règlement et le mettent à la disposition du conseiller à la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_6"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 2, Sous-traitance",
+        "citation": "Art. 7 al. 1 OPDo",
+        "content": "L’autorisation préalable du responsable du traitement permettant au sous-traitant de confier le traitement des données à un tiers peut être de nature spécifique ou générale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_7"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 2, Sous-traitance",
+        "citation": "Art. 7 al. 2 OPDo",
+        "content": "En cas d’autorisation générale, le sous-traitant informe le responsable du traitement lorsqu’il envisage de recourir à d’autres tiers ou de les remplacer. Le responsable du traitement peut s’opposer à cette modification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_7"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 1 OPDo",
+        "content": "Les États, les territoires, les secteurs déterminés dans un État, et les organismes internationaux avec un niveau de protection adéquat sont mentionnés à l’annexe 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 2 OPDo",
+        "content": "Pour évaluer si un État, un territoire, un secteur déterminé dans un État, ou un organisme international garantit un niveau de protection adéquat, les critères suivants sont en particulier pris en compte: \na. les engagements internationaux de l’État ou de l’organisme international, notamment en matière de protection des données; \nb. l’état de droit et le respect des droits de l’homme; \nc. la législation applicable, notamment en matière de protection des données, de même que sa mise en œuvre et la jurisprudence y relative;\nd. la garantie effective des droits des personnes concernées et des voies de droit;\ne. le fonctionnement effectif d’une ou de plusieurs autorités indépendantes chargées de la protection des données dans l’État concerné, ou auxquelles un organisme international est soumis, et disposant de pouvoirs et de compétences suffisants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 3 OPDo",
+        "content": "Le Préposé fédéral à la protection des données et à la transparence (PFPDT) est consulté lors de chaque évaluation. Les appréciations effectuées par des organismes internationaux ou des autorités étrangères chargées de la protection des données peuvent être prises en compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 4 OPDo",
+        "content": "L’adéquation du niveau de protection est réévaluée périodiquement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 5 OPDo",
+        "content": "Les évaluations doivent être publiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Évaluation du niveau de protection adéquat des données d’un État, d’un territoire, d’un secteur déterminé dans un État, ou d’un organisme international",
+        "citation": "Art. 8 al. 6 OPDo",
+        "content": "Lorsque l’évaluation visée à l’al. 4 ou que d’autres informations indiquent que le niveau de protection adéquat n’est plus garanti, l’annexe 1 est modifiée sans effet sur les communications de données déjà effectuées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_8"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Clauses de protection des données d’un contrat et garanties spécifiques ",
+        "citation": "Art. 9 al. 1 OPDo",
+        "content": "Les clauses de protection des données d’un contrat au sens de l’art. 16, al. 2, let. b, LPD et les garanties spécifiques au sens de l’art. 16, al. 2, let. c, LPD comprennent au moins les points suivants: \na. l’application des principes de licéité, de bonne foi, de proportionnalité, de transparence, de finalité et d’exactitude;\nb. les catégories de données communiquées et de personnes concernées;\nc. le type et la finalité de la communication des données personnelles;\nd. le cas échéant, le nom des États ou des organismes internationaux auxquels sont destinées les données personnelles, et les conditions applicables à la communication;\ne. les conditions applicables à la conservation, à l’effacement et à la destruction des données personnelles; \nf. les destinataires ou les catégories de destinataires;\ng. les mesures visant à garantir la sécurité des données;\nh. l’obligation d’annoncer les violations de la sécurité des données;\ni. l’obligation pour le destinataire, lorsqu’il est responsable du traitement, d’informer les personnes concernées par le traitement des données;\nj. les droits de la personne concernée, en particulier: \n1. le droit d’accès et le droit à la remise ou à la transmission des données personnelles,\n2. le droit de s’opposer à la communication des données, \n3. le droit de demander la rectification, l’effacement ou la destruction des données, \n4. le droit de saisir en justice une autorité indépendante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Clauses de protection des données d’un contrat et garanties spécifiques ",
+        "citation": "Art. 9 al. 2 OPDo",
+        "content": "Le responsable du traitement ou, dans le cas de clauses de protection des données d’un contrat, le sous-traitant prend les mesures adéquates pour s’assurer que le destinataire respecte ces clauses ou les garanties spécifiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Clauses de protection des données d’un contrat et garanties spécifiques ",
+        "citation": "Art. 9 al. 3 OPDo",
+        "content": "Une fois les clauses de protection des données d’un contrat ou les garanties spécifiques annoncées au PFPDT, le devoir d’information du responsable du traitement est réputé également rempli pour toutes les communications: \na.  qui se fondent sur les mêmes clauses ou garanties, pour autant que les catégories de destinataires, les finalités du traitement et les catégories de données communiquées soient similaires, ou \nb.  qui sont effectuées au sein d’une même personne morale ou société ou entre des entreprises appartenant au même groupe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_9"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Clauses types de protection des données ",
+        "citation": "Art. 10 al. 1 OPDo",
+        "content": "Lorsque le responsable du traitement ou le sous-traitant communique des données personnelles à l’étranger au moyen de clauses types de protection des données au sens de l’art. 16, al. 2, let. d, LPD, il prend les mesures adéquates pour s’assurer que le destinataire les respecte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_10"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Clauses types de protection des données ",
+        "citation": "Art. 10 al. 2 OPDo",
+        "content": "Le PFPDT publie une liste des clauses types de protection des données qu’il a approuvées, établies ou reconnues. Il communique le résultat de l’examen sur les clauses types qui lui sont soumises dans un délai de 90 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_10"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Règles d’entreprise contraignantes ",
+        "citation": "Art. 11 al. 1 OPDo",
+        "content": "Les règles d’entreprise contraignantes au sens de l’art. 16, al. 2, let. e, LPD s’appliquent à toutes les entreprises appartenant au même groupe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Règles d’entreprise contraignantes ",
+        "citation": "Art. 11 al. 2 OPDo",
+        "content": "Elles portent au moins sur les points mentionnés à l’art. 9, al. 1, ainsi que sur les points suivants:\na. la structure et les coordonnées du groupe d’entreprises et de chacune de ses entités;\nb. les mesures mises en place au sein des groupes d’entreprises pour garantir le respect des règles d’entreprise contraignantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Règles d’entreprise contraignantes ",
+        "citation": "Art. 11 al. 3 OPDo",
+        "content": "Le PFPDT communique le résultat de l’examen sur les règles d’entreprise contraignantes qui lui sont soumises dans un délai de 90 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_11"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Codes de conduite et certifications ",
+        "citation": "Art. 12 al. 1 OPDo",
+        "content": "Des données personnelles peuvent être communiquées à l’étranger à condition qu’un code de conduite ou qu’une certification garantisse un niveau de protection approprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Codes de conduite et certifications ",
+        "citation": "Art. 12 al. 2 OPDo",
+        "content": "Le code de conduite est préalablement soumis au PFPDT pour approbation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 1, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Codes de conduite et certifications ",
+        "citation": "Art. 12 al. 3 OPDo",
+        "content": "Le code de conduite ou la certification doit être assorti d’un engagement contraignant et exécutoire par lequel le responsable du traitement ou le sous-traitant dans l’État tiers garantit qu’il applique les mesures contenues dans ces instruments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_12"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Modalités du devoir d’informer",
+        "citation": "Art. 13 OPDo",
+        "content": "Le responsable du traitement communique aux personnes concernées les informations sur la collecte de données personnelles de manière concise, transparente, compréhensible et facilement accessible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_13"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Conservation de l’analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 14 OPDo",
+        "content": "Le responsable du traitement conserve l’analyse d’impact relative à la protection des données personnelles pendant au moins deux ans après la fin du traitement des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_14"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Annonce des violations de la sécurité des données",
+        "citation": "Art. 15 al. 1 OPDo",
+        "content": "L’annonce au PFPDT d’une violation de la sécurité des données comprend les informations suivantes:\na. la nature de la violation;\nb. dans la mesure du possible, le moment et la durée;\nc. dans la mesure du possible, les catégories et le nombre approximatif de données personnelles concernées;\nd. dans la mesure du possible, les catégories et le nombre approximatif de personnes concernées;\ne. les conséquences, y compris les risques éventuels, pour les personnes concernées;\nf. les mesures prises ou prévues pour remédier à cette défaillance et atténuer les conséquences, y compris les risques éventuels;\ng. le nom et les coordonnées d’une personne de contact.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Annonce des violations de la sécurité des données",
+        "citation": "Art. 15 al. 2 OPDo",
+        "content": "Si le responsable du traitement n’est pas en mesure d’annoncer simultanément toutes les informations, il fournit les informations manquantes dans les meilleurs délais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Annonce des violations de la sécurité des données",
+        "citation": "Art. 15 al. 3 OPDo",
+        "content": "Si le responsable du traitement est tenu d’informer la personne concernée, il lui communique, dans un langage simple et compréhensible, au moins les informations visées à l’al. 1, let. a et e à g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 2, Obligations du responsable du traitement, Annonce des violations de la sécurité des données",
+        "citation": "Art. 15 al. 4 OPDo",
+        "content": "Le responsable du traitement documente les violations. La documentation contient les faits relatifs aux incidents, à leurs effets et aux mesures prises. Elle est conservée pendant au moins deux ans à compter de la date d’annonce au sens de l’al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_15"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Modalités ",
+        "citation": "Art. 16 al. 1 OPDo",
+        "content": "Toute personne qui demande au responsable du traitement si des données personnelles la concernant sont traitées doit le faire par écrit. La demande peut être faite oralement moyennant l’accord du responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Modalités ",
+        "citation": "Art. 16 al. 2 OPDo",
+        "content": "Les renseignements sont communiqués par écrit ou sous la forme dans laquelle les données se présentent. D’entente avec le responsable du traitement, la personne concernée peut consulter ses données sur place. Si elle y consent, les renseignements peuvent lui être fournis oralement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Modalités ",
+        "citation": "Art. 16 al. 3 OPDo",
+        "content": "La demande de renseignement et la communication des renseignements peuvent être effectuées par voie électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Modalités ",
+        "citation": "Art. 16 al. 4 OPDo",
+        "content": "Les renseignements sont communiqués sous une forme compréhensible pour la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Modalités ",
+        "citation": "Art. 16 al. 5 OPDo",
+        "content": "Le responsable du traitement prend des mesures adéquates pour identifier la personne concernée. Celle-ci est tenue de coopérer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_16"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Responsabilité",
+        "citation": "Art. 17 al. 1 OPDo",
+        "content": "Lorsque plusieurs responsables traitent en commun des données personnelles, la personne concernée peut exercer son droit d’accès auprès de chacun d’eux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_17"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Responsabilité",
+        "citation": "Art. 17 al. 2 OPDo",
+        "content": "Si la demande de renseignement porte sur des données traitées par un sous-traitant, celui-ci aide le responsable du traitement à fournir les renseignements pour autant qu’il ne réponde pas lui-même à la demande pour le compte du responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_17"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Délais",
+        "citation": "Art. 18 al. 1 OPDo",
+        "content": "Les renseignements sont fournis dans les 30 jours suivant la réception de la demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Délais",
+        "citation": "Art. 18 al. 2 OPDo",
+        "content": "Si les renseignements ne peuvent être donnés dans les 30 jours, le responsable du traitement en informe la personne concernée en lui indiquant le délai dans lequel les renseignements seront fournis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Délais",
+        "citation": "Art. 18 al. 3 OPDo",
+        "content": "Si le responsable du traitement refuse, restreint ou diffère le droit d’accès, il le communique dans le même délai.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_18"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Exception à la gratuité",
+        "citation": "Art. 19 al. 1 OPDo",
+        "content": "Si la communication des renseignements occasionne des efforts disproportionnés, le responsable du traitement peut exiger que la personne concernée participe aux coûts de manière adéquate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Exception à la gratuité",
+        "citation": "Art. 19 al. 2 OPDo",
+        "content": "Le montant de la participation s’élève à 300 francs au maximum.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 1, Droit d’accès Exception à la gratuité",
+        "citation": "Art. 19 al. 3 OPDo",
+        "content": "Le responsable du traitement informe la personne concernée du montant avant de lui communiquer les renseignements. Si la personne concernée ne confirme pas sa demande dans les 10 jours, celle-ci est considérée comme retirée sans occasionner de frais. Le délai prévu à l’art. 18, al. 1, commence à courir à l’expiration du délai de réflexion de 10 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_19"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Étendue du droit",
+        "citation": "Art. 20 al. 1 OPDo",
+        "content": "Sont considérées comme des données personnelles que la personne concernée a communiquées au responsable du traitement:\na.  les données qu’elle a mises à sa disposition délibérément et en connaissance de cause;\nb.  les données que le responsable du traitement a collectées au sujet de la personne concernée et qui concernent son comportement dans le cadre de l’utilisation d’un service ou d’un appareil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_20"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Étendue du droit",
+        "citation": "Art. 20 al. 2 OPDo",
+        "content": "Ne sont pas considérées comme des données personnelles que la personne concernée a communiquées au responsable du traitement, les données personnelles que celui-ci a générées en évaluant les données personnelles mises à disposition ou observées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_20"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Exigences techniques de mise en œuvre",
+        "citation": "Art. 21 al. 1 OPDo",
+        "content": "Les formats électroniques couramment utilisés sont les formats qui permettent, moyennant un effort proportionné, de transmettre les données personnelles en vue de leur réutilisation par la personne concernée ou par un autre responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Exigences techniques de mise en œuvre",
+        "citation": "Art. 21 al. 2 OPDo",
+        "content": "Le droit à la remise ou à la transmission des données personnelles ne crée pas d’obligation pour le responsable du traitement d’adopter ou de conserver des systèmes de traitement de données techniquement compatibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Exigences techniques de mise en œuvre",
+        "citation": "Art. 21 al. 3 OPDo",
+        "content": "L’effort est disproportionné lorsque la transmission de données personnelles à un autre responsable du traitement n’est pas possible pour des raisons techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_21"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 3, Droits de la personne concernée Section 2, Droit à la remise ou à la transmission des données personnelles, Délais, modalités et responsabilité",
+        "citation": "Art. 22 OPDo",
+        "content": "Les art. 16, al. 1 et 5, et 17 à 19 s’appliquent par analogie à la remise ou à la transmission des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_22"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 4, Dispositions particulières pour le traitement de données personnelles par des personnes privées, Conseiller à la protection des données",
+        "citation": "Art. 23 OPDo",
+        "content": "Le responsable du traitement:\na. met les ressources nécessaires à la disposition du conseiller à la protection des données;\nb.  donne accès au conseiller à la protection des données à tous les renseignements, les documents, les registres des activités de traitement et à toutes les données personnelles dont il a besoin pour l’accomplissement de ses tâches;\nc. donne au conseiller à la protection des données le droit d’informer l’organe supérieur de direction ou d’administration dans les cas importants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_23"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 4, Dispositions particulières pour le traitement de données personnelles par des personnes privées, Exception à l’obligation de tenir un registre des activités de traitement",
+        "citation": "Art. 24 OPDo",
+        "content": "Les entreprises et autres organismes de droit privé employant moins de 250 collaborateurs au 1er janvier d’une année, ainsi que les personnes physiques, sont déliés de leur obligation de tenir un registre des activités de traitement, à moins que l’une des conditions suivantes soit remplie: \na. le traitement porte sur des données sensibles à grande échelle;\nb. le traitement constitue un profilage à risque élevé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_24"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Désignation ",
+        "citation": "Art. 25 OPDo",
+        "content": "Tout organe fédéral désigne un conseiller à la protection des données. Plusieurs organes fédéraux peuvent désigner ensemble un conseiller.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_25"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Exigences et tâches",
+        "citation": "Art. 26 al. 1 OPDo",
+        "content": "Le conseiller à la protection des données remplit les conditions suivantes: \na. il dispose des connaissances professionnelles nécessaires;\nb. il exerce sa fonction de manière indépendante par rapport à l’organe fédéral et sans recevoir d’instruction de celui-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_26"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Exigences et tâches",
+        "citation": "Art. 26 al. 2 OPDo",
+        "content": "Il accomplit les tâches suivantes:\na. participer à l’application des dispositions relatives à la protection des données, en particulier:\n1. en contrôlant le traitement de données personnelles et en proposant des mesures correctives lorsqu’une violation des dispositions relatives à la protection des données est constatée,\n2. en conseillant le responsable du traitement lors de l’établissement de l’analyse d’impact relative à la protection des données et en vérifiant son exécution;\nb. servir d’interlocuteur pour les personnes concernées;\nc. former et conseiller les collaborateurs de l’organe fédéral en matière de protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_26"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Devoirs de l’organe fédéral",
+        "citation": "Art. 27 al. 1 OPDo",
+        "content": "L’organe fédéral:\na. donne accès au conseiller à la protection des données à tous les renseignements, les documents, les registres des activités de traitement et à toutes les données personnelles dont il a besoin pour l’accomplissement de ses tâches;\nb. veille à ce que le conseiller à la protection des données soit informé de toute violation de la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_27"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Devoirs de l’organe fédéral",
+        "citation": "Art. 27 al. 2 OPDo",
+        "content": "Il publie les coordonnées du conseiller à la protection des données en ligne et les communique au PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_27"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 1, Conseiller à la protection des données, Interlocuteur du PFPDT",
+        "citation": "Art. 28 OPDo",
+        "content": "Le conseiller à la protection des données personnelles est l’interlocuteur du PFPDT pour les questions relatives au traitement des données par l’organe fédéral concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_28"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 2, Devoir d’informer, Devoir d’informer lors de la communication des données personnelles",
+        "citation": "Art. 29 OPDo",
+        "content": "L’organe fédéral indique au destinataire l’actualité, la fiabilité et l’exhaustivité des données personnelles qu’il communique, dans la mesure où ces informations ne ressortent pas des données elles-mêmes ou des circonstances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_29"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 2, Devoir d’informer, Devoir d’informer lors de la collecte systématique des données personnelles",
+        "citation": "Art. 30 OPDo",
+        "content": "Si la personne concernée n’est pas tenue de fournir des renseignements, l’organe fédéral qui collecte systématiquement des données personnelles doit l’en informer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_30"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 3, Annonce au PFPDT des projets pour le traitement automatisé des données personnelles",
+        "citation": "Art. 31 al. 1 OPDo",
+        "content": "L’organe fédéral responsable annonce au PFPDT les activités prévues de traitement automatisé au moment de l’approbation du projet ou de la décision de le développer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 3, Annonce au PFPDT des projets pour le traitement automatisé des données personnelles",
+        "citation": "Art. 31 al. 2 OPDo",
+        "content": "L’annonce contient les indications prévues à l’art. 12, al. 2, let. a à d, LPD, ainsi que la date prévue pour le début des activités de traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 3, Annonce au PFPDT des projets pour le traitement automatisé des données personnelles",
+        "citation": "Art. 31 al. 3 OPDo",
+        "content": "Le PFPDT enregistre cette annonce dans le registre des activités de traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 3, Annonce au PFPDT des projets pour le traitement automatisé des données personnelles",
+        "citation": "Art. 31 al. 4 OPDo",
+        "content": "L’organe fédéral responsable actualise cette annonce lors du passage à la phase de production ou lorsque le projet est abandonné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_31"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Caractère indispensable de l’essai pilote",
+        "citation": "Art. 32 OPDo",
+        "content": "Un essai pilote est indispensable si l’une des conditions suivantes est remplie:\na. l’accomplissement des tâches nécessite l’introduction d’innovations techniques dont les effets doivent être évalués;\nb. l’accomplissement des tâches nécessite la prise de mesures organisationnelles ou techniques importantes dont l’efficacité doit être examinée, notamment dans le cadre d’une collaboration entre les organes fédéraux et les cantons;\nc. l’accomplissement des tâches nécessite de rendre accessibles en ligne les données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_32"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 1 OPDo",
+        "content": "Avant de consulter les unités administratives concernées, l’organe fédéral responsable de l’essai pilote communique au PFPDT de quelle manière il est prévu d’assurer que les conditions de l’art. 35 LPD soient remplies et l’invite à prendre position.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 2 OPDo",
+        "content": "Le PFPDT prend position sur le respect des conditions de l’art. 35 LPD. À cet effet, l’organe fédéral lui remet tous les documents nécessaires et en particulier:\na. un descriptif général de l’essai pilote;\nb. un rapport démontrant que l’accomplissement des tâches légales nécessite un traitement selon l’art. 34, al. 2, LPD et rend indispensable une phase d’essai avant l’entrée en vigueur de la loi au sens formel;\nc. un descriptif de l’organisation interne et des processus de traitement et de contrôle des données;\nd. un descriptif des mesures de sécurité et de protection des données;\ne. un projet d’ordonnance réglant les modalités de traitement ou les grandes lignes de cet acte législatif;\nf. la planification des différentes phases de l’essai pilote.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 3 OPDo",
+        "content": "Le PFPDT peut exiger d’autres documents et procéder à des vérifications complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 4 OPDo",
+        "content": "L’organe fédéral informe le PFPDT de toute modification essentielle portant sur le respect des conditions de l’art. 35 LPD. Si nécessaire, le PFPDT prend à nouveau position.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 5 OPDo",
+        "content": "La prise de position du PFPDT est annexée à la proposition adressée au Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Procédure d’autorisation de l’essai pilote",
+        "citation": "Art. 33 al. 6 OPDo",
+        "content": "Le traitement automatisé est réglé par voie d’ordonnance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_33"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Rapport d’évaluation ",
+        "citation": "Art. 34 al. 1 OPDo",
+        "content": "L’organe fédéral responsable soumet le projet de rapport d’évaluation à l’intention du Conseil fédéral au PFPDT pour prise de position.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_34"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 4, Essais pilotes, Rapport d’évaluation ",
+        "citation": "Art. 34 al. 2 OPDo",
+        "content": "Il soumet le rapport d’évaluation accompagné de la prise de position du PFPDT au Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_34"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 5, Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Section 5, Traitement des données à des fins ne se rapportant pas à des personnes",
+        "citation": "Art. 35 OPDo",
+        "content": "Lorsque des données personnelles sont traitées à des fins ne se rapportant pas à des personnes, en particulier à des fins de recherche, de planification ou de statistique, et que le traitement sert également une autre finalité, les dérogations prévues à l’art. 39, al. 2, LPD ne s’appliquent qu’au seul traitement effectué à des fins ne se rapportant pas à des personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_35"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Siège et secrétariat permanent",
+        "citation": "Art. 36 al. 1 OPDo",
+        "content": "Le siège du PFPDT est à Berne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_36"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Siège et secrétariat permanent",
+        "citation": "Art. 36 al. 2 OPDo",
+        "content": "Les rapports de travail du personnel du secrétariat permanent du PFPDT sont régis par la législation sur le personnel de la Confédération. Le personnel est assuré auprès de la Caisse de prévoyance de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_36"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Voie de communication",
+        "citation": "Art. 37 al. 1 OPDo",
+        "content": "Le PFPDT communique avec le Conseil fédéral par l’intermédiaire du chancelier de la Confédération. Celui-ci transmet les propositions, les prises de positions et les rapports au Conseil fédéral sans les modifier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_37"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Voie de communication",
+        "citation": "Art. 37 al. 2 OPDo",
+        "content": "Le PFPDT transmet les rapports destinés à l’Assemblée fédérale par l’intermédiaire des Services du Parlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_37"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Communication des décisions, des directives et des projets",
+        "citation": "Art. 38 al. 1 OPDo",
+        "content": "En matière de protection des données, les départements et la Chancellerie fédérale communiquent au PFPDT leurs décisions sous forme anonyme, ainsi que leurs directives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_38"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Communication des décisions, des directives et des projets",
+        "citation": "Art. 38 al. 2 OPDo",
+        "content": "Les organes fédéraux soumettent au PFPDT tous leurs projets législatifs concernant le traitement de données personnelles, la protection des données et l’accès aux documents officiels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_38"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Traitement des données",
+        "citation": "Art. 39 OPDo",
+        "content": "Le PFPDT peut traiter les données personnelles, y compris les données sensibles, notamment aux fins suivantes: \na. exercer ses activités de surveillance;\nb. exercer ses activités de conseil;\nc. collaborer avec les autorités cantonales, fédérales et étrangères;\nd. exécuter des tâches dans le cadre des dispositions pénales au sens de la LPD; \ne. mettre en œuvre des procédures de conciliation et émettre des recommandations au sens de la loi du 17 décembre 2004 sur la transparence (LTrans);\nf. mettre en œuvre des évaluations au sens de la LTrans;\ng. mettre en œuvre des procédures de demande d’accès au sens de la LTrans;\nh. informer la surveillance parlementaire;\ni. informer le public;\nj. exercer ses activités de formation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_39"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Autocontrôle ",
+        "citation": "Art. 40 OPDo",
+        "content": "Le PFPDT établit un règlement pour tous les traitements automatisés; l’art. 6, al. 1, ne s’applique pas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_40"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Collaboration avec l’Office fédéral de la cybersécurité",
+        "citation": "Art. 41 al. 1 OPDo",
+        "content": "Le PFPDT peut, avec l’accord du responsable du traitement tenu d’annoncer, transmettre l’annonce d’une violation de la sécurité des données à l’Office fédéral de la cybersécurité (OFCS) pour que celui-ci analyse l’incident. La communication peut contenir des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_41"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Collaboration avec l’Office fédéral de la cybersécurité",
+        "citation": "Art. 41 al. 2 OPDo",
+        "content": "Le PFPDT invite l’OFCS à se prononcer avant d’ordonner à l’organe fédéral de prendre les mesures visées à l’art. 8 LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_41"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Registre des activités de traitement des organes fédéraux",
+        "citation": "Art. 42 al. 1 OPDo",
+        "content": "Le registre des activités de traitement des organes fédéraux contient les informations fournies par les organes fédéraux conformément aux art. 12, al. 2, LPD et 31, al. 2, de la présente ordonnance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_42"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Registre des activités de traitement des organes fédéraux",
+        "citation": "Art. 42 al. 2 OPDo",
+        "content": "Il est publié en ligne. Les inscriptions au registre concernant les activités de traitement automatisé prévues, au sens de l’art. 31, ne sont pas publiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_42"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Codes de conduite ",
+        "citation": "Art. 43 OPDo",
+        "content": "Si un code de conduite est soumis au PFPDT, celui-ci indique dans sa prise de position si le code de conduite remplit les conditions de l’art. 22, al. 5, let. a et b, LPD.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_43"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Émolument",
+        "citation": "Art. 44 al. 1 OPDo",
+        "content": "L’émolument perçu par le PFPDT se calcule en fonction du temps consacré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Émolument",
+        "citation": "Art. 44 al. 2 OPDo",
+        "content": "Le tarif horaire varie entre 150 et 250 francs, selon la fonction exercée par la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Émolument",
+        "citation": "Art. 44 al. 3 OPDo",
+        "content": "Pour les prestations d’une ampleur extraordinaire, présentant des difficultés particulières ou ayant un caractère urgent, des suppléments pouvant atteindre 50 % de l’émolument prévu à l’al. 2 peuvent être perçus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Émolument",
+        "citation": "Art. 44 al. 4 OPDo",
+        "content": "Si la prestation du PFPDT peut être réutilisée à des fins commerciales par la personne assujettie à l’émolument, des suppléments pouvant atteindre 100 % de l’émolument prévu à l’al. 2 peuvent être perçus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_44"
+    },
+    {
+        "book": "DSV",
+        "title": "OPDo, Chapitre 6, Préposé fédéral à la protection des données et à la transparence, Émolument",
+        "citation": "Art. 44 al. 5 OPDo",
+        "content": "L’ordonnance générale du 8 septembre 2004 sur les émoluments s’applique pour le reste.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/568/fr#art_44"
+    }
+]

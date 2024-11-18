@@ -1,0 +1,506 @@
+[
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Gegenstand",
+        "citation": "Art. 1 BGFA",
+        "content": "Dieses Gesetz gewährleistet die Freizügigkeit der Anwältinnen und Anwälte und legt die Grundsätze für die Ausübung des Anwaltsberufs in der Schweiz fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_1"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Persönlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 1 BGFA",
+        "content": "Dieses Gesetz gilt für Personen, die über ein Anwaltspatent verfügen und in der Schweiz im Rahmen des Anwaltsmonopols Parteien vor Gerichtsbehörden vertreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Persönlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 2 BGFA",
+        "content": "Es bestimmt die Modalitäten für die Vertretung von Parteien vor Gerichtsbehörden durch Anwältinnen und Anwälte, die:\na. Staatsangehörige von Mitgliedstaaten der Europäischen Union (EU) oder der Europäischen Freihandelsassoziation (EFTA) sind;\nb. Staatsangehörige des Vereinigten Königreichs von Grossbritannien und Nordirlands sind, die von Teil Vier des Abkommens vom 25. Februar 2019 zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens erfasst werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Persönlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 3 BGFA",
+        "content": "Diese Modalitäten gelten auch für Schweizerinnen und Schweizer, die berechtigt sind, den Anwaltsberuf unter einer der im Anhang aufgeführten Berufsbezeichnungen in einem Mitgliedstaat der EU oder der EFTA auszuüben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Persönlicher Geltungsbereich",
+        "citation": "Art. 2 Abs. 4 BGFA",
+        "content": "Die Bestimmungen über Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA gelten sinngemäss auch für Anwältinnen und Anwälte des Vereinigten Königreichs nach Absatz 2 Buchstabe b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 1 BGFA",
+        "content": "Das Recht der Kantone, im Rahmen dieses Gesetzes die Anforderungen für den Erwerb des Anwaltspatentes festzulegen, bleibt gewahrt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_3"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 1. Abschnitt: Allgemeines, Verhältnis zum kantonalen Recht",
+        "citation": "Art. 3 Abs. 2 BGFA",
+        "content": "Das Gleiche gilt für das Recht der Kantone, Inhaberinnen und Inhaber ihres kantonalen Anwaltspatentes vor den eigenen Gerichtsbehörden Parteien vertreten zu lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_3"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Grundsatz der interkantonalen Freizügigkeit",
+        "citation": "Art. 4 BGFA",
+        "content": "Anwältinnen und Anwälte, die in einem kantonalen Anwaltsregister eingetragen sind, können in der Schweiz ohne weitere Bewilligung Parteien vor Gerichtsbehörden vertreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_4"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Kantonales Anwaltsregister",
+        "citation": "Art. 5 Abs. 1 BGFA",
+        "content": "Jeder Kanton führt ein Register der Anwältinnen und Anwälte, die über eine Geschäftsadresse auf dem Kantonsgebiet verfügen und die Voraussetzungen nach den Artikeln 7 und 8 erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Kantonales Anwaltsregister",
+        "citation": "Art. 5 Abs. 2 BGFA",
+        "content": "Das Register enthält folgende persönliche Daten:\na. den Namen, den Vornamen, das Geburtsdatum und den Heimatort oder die Staatsangehörigkeit;\nb. eine Kopie des Anwaltspatents;\nc. die Bescheinigungen, welche belegen, dass die Voraussetzungen nach Artikel 8 erfüllt sind;\nd. die Geschäftsadressen sowie gegebenenfalls den Namen des Anwaltsbüros;\ne. die nicht gelöschten Disziplinarmassnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Kantonales Anwaltsregister",
+        "citation": "Art. 5 Abs. 3 BGFA",
+        "content": "Es wird von der kantonalen Aufsichtsbehörde über die Anwältinnen und Anwälte geführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Eintragung ins Register",
+        "citation": "Art. 6 Abs. 1 BGFA",
+        "content": "Anwältinnen und Anwälte, die über ein kantonales Anwaltspatent verfügen und Parteien vor Gerichtsbehörden vertreten wollen, lassen sich ins Register des Kantons eintragen, in dem sie ihre Geschäftsadresse haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Eintragung ins Register",
+        "citation": "Art. 6 Abs. 2 BGFA",
+        "content": "Die Aufsichtsbehörde trägt sie ein, wenn sie festgestellt hat, dass die Voraussetzungen nach den Artikeln 7 und 8 erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Eintragung ins Register",
+        "citation": "Art. 6 Abs. 3 BGFA",
+        "content": "Sie veröffentlicht die Eintragung in einem amtlichen kantonalen Publikationsorgan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Eintragung ins Register",
+        "citation": "Art. 6 Abs. 4 BGFA",
+        "content": "Gegen Eintragungen ins kantonale Register steht das Beschwerderecht auch dem Anwaltsverband des betroffenen Kantons zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Fachliche Voraussetzungen",
+        "citation": "Art. 7 Abs. 1 BGFA",
+        "content": "Für den Registereintrag müssen die Anwältinnen und Anwälte über ein Anwaltspatent verfügen. Ein solches kann von den Kantonen nur auf Grund folgender Voraussetzungen erteilt werden:\na. ein juristisches Studium, das mit einem Lizentiat oder Master einer schweizerischen Hochschule oder einem gleichwertigen Hochschuldiplom eines Staates abgeschlossen wurde, der mit der Schweiz die gegenseitige Anerkennung vereinbart hat;\nb. ein mindestens einjähriges Praktikum in der Schweiz, das mit einem Examen über die theoretischen und praktischen juristischen Kenntnisse abgeschlossen wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Fachliche Voraussetzungen",
+        "citation": "Art. 7 Abs. 2 BGFA",
+        "content": "Kantone, in denen Italienisch Amtssprache ist, können ein dem Lizentiat oder dem Master gleichwertiges ausländisches Diplom anerkennen, das in italienischer Sprache erlangt worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Fachliche Voraussetzungen",
+        "citation": "Art. 7 Abs. 3 BGFA",
+        "content": "Für die Zulassung zum Praktikum genügt der Abschluss eines juristischen Studiums mit dem Bachelor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Persönliche Voraussetzungen",
+        "citation": "Art. 8 Abs. 1 BGFA",
+        "content": "Für den Registereintrag müssen die Anwältinnen und Anwälte folgende persönliche Voraussetzungen erfüllen:\na. sie müssen handlungsfähig sein;\nb. es darf keine strafrechtliche Verurteilung vorliegen wegen Handlungen, die mit dem Anwaltsberuf nicht zu vereinbaren sind, es sei denn, diese Verurteilung erscheine nicht mehr im Privatauszug nach Artikel 41 des Strafregistergesetzes vom 17. Juni 2016;\nc. es dürfen gegen sie keine Verlustscheine bestehen;\nd. sie müssen in der Lage sein, den Anwaltsberuf unabhängig auszuüben; sie können Angestellte nur von Personen sein, die ihrerseits in einem kantonalen Register eingetragen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_8"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Persönliche Voraussetzungen",
+        "citation": "Art. 8 Abs. 2 BGFA",
+        "content": "Anwältinnen und Anwälte, die bei anerkannten gemeinnützigen Organisationen angestellt sind, können sich ins Register eintragen lassen, sofern die Voraussetzungen nach Absatz 1 Buchstaben a–c erfüllt sind und sich die Tätigkeit der Parteivertretung strikte auf Mandate im Rahmen des von der betroffenen Organisation verfolgten Zwecks beschränkt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_8"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Löschung des Registereintrags",
+        "citation": "Art. 9 BGFA",
+        "content": "Anwältinnen und Anwälte, die eine der Voraussetzungen für den Registereintrag nicht mehr erfüllen, werden im Register gelöscht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_9"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Einsicht in das Register",
+        "citation": "Art. 10 Abs. 1 BGFA",
+        "content": "Einsicht in das Register erhalten:\na. die eidgenössischen und kantonalen Gerichts- und Verwaltungsbehörden, vor denen die Anwältinnen und Anwälte auftreten;\nb. die Gerichts- und Verwaltungsbehörden der Mitgliedstaaten der EU oder der EFTA, vor denen die im Register eingetragenen Anwältinnen und Anwälte auftreten;\nc. die kantonalen Aufsichtsbehörden über die Anwältinnen und Anwälte;\nd. die Anwältinnen und Anwälte in Bezug auf ihren Eintrag.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_10"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Einsicht in das Register",
+        "citation": "Art. 10 Abs. 2 BGFA",
+        "content": "Jede Person hat ein Recht auf Auskunft, ob eine Anwältin oder ein Anwalt im Register eingetragen ist und ob gegen sie oder ihn ein Berufsausübungsverbot verhängt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_10"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Meldung",
+        "citation": "Art. 10a BGFA",
+        "content": "Die Daten des Registers, die für die Zuweisung und Verwendung der Unternehmens-Identifikationsnummer nach dem Bundesgesetz vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer erforderlich sind, werden dem Bundesamt für Statistik mitgeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_10_a"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Berufsbezeichnung",
+        "citation": "Art. 11 Abs. 1 BGFA",
+        "content": "Anwältinnen und Anwälte verwenden diejenige Berufsbezeichnung, die ihnen mit ihrem Anwaltspatent erteilt worden ist, oder eine gleichwertige Berufsbezeichnung des Kantons, in dessen Register sie eingetragen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_11"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 2. Abschnitt:, Interkantonale Freizügigkeit und kantonales Anwaltsregister, Berufsbezeichnung",
+        "citation": "Art. 11 Abs. 2 BGFA",
+        "content": "Im Geschäftsverkehr geben sie ihren Eintrag in einem kantonalen Register an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_11"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Berufsregeln",
+        "citation": "Art. 12 BGFA",
+        "content": "Für Anwältinnen und Anwälte gelten folgende Berufsregeln:\na. Sie üben ihren Beruf sorgfältig und gewissenhaft aus.\nb. Sie üben ihren Beruf unabhängig, in eigenem Namen und auf eigene Verantwortung aus.\nc. Sie meiden jeden Konflikt zwischen den Interessen ihrer Klientschaft und den Personen, mit denen sie geschäftlich oder privat in Beziehung stehen.\nd. Sie können Werbung machen, solange diese objektiv bleibt und solange sie dem Informationsbedürfnis der Öffentlichkeit entspricht.\ne. Sie dürfen vor Beendigung eines Rechtsstreits mit der Klientin oder dem Klienten keine Vereinbarung über die Beteiligung am Prozessgewinn als Ersatz für das Honorar abschliessen; sie dürfen sich auch nicht dazu verpflichten, im Falle eines ungünstigen Abschlusses des Verfahrens auf das Honorar zu verzichten.\nf. Sie haben eine Berufshaftpflichtversicherung nach Massgabe der Art und des Umfangs der Risiken, die mit ihrer Tätigkeit verbunden sind, abzuschliessen; die Versicherungssumme muss mindestens eine Million Franken pro Jahr betragen; anstelle der Haftpflichtversicherung können andere, gleichwertige Sicherheiten erbracht werden.\ng. Sie sind verpflichtet, in dem Kanton, in dessen Register sie eingetragen sind, amtliche Pflichtverteidigungen und im Rahmen der unentgeltlichen Rechtspflege Rechtsvertretungen zu übernehmen.\nh. Sie bewahren die ihnen anvertrauten Vermögenswerte getrennt von ihrem eigenen Vermögen auf.\ni. Sie klären ihre Klientschaft bei Übernahme des Mandates über die Grundsätze ihrer Rechnungsstellung auf und informieren sie periodisch oder auf Verlangen über die Höhe des geschuldeten Honorars.\nj. Sie teilen der Aufsichtsbehörde jede Änderung der sie betreffenden Daten im Register mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_12"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Berufsgeheimnis",
+        "citation": "Art. 13 Abs. 1 BGFA",
+        "content": "Anwältinnen und Anwälte unterstehen zeitlich unbegrenzt und gegenüber jedermann dem Berufsgeheimnis über alles, was ihnen infolge ihres Berufes von ihrer Klientschaft anvertraut worden ist. Die Entbindung verpflichtet sie nicht zur Preisgabe von Anvertrautem.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_13"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Berufsgeheimnis",
+        "citation": "Art. 13 Abs. 2 BGFA",
+        "content": "Sie sorgen für die Wahrung des Berufsgeheimnisses durch ihre Hilfspersonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_13"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Kantonale Aufsichtsbehörde über die Anwältinnen und Anwälte",
+        "citation": "Art. 14 BGFA",
+        "content": "Jeder Kanton bezeichnet eine Behörde, welche die Anwältinnen und Anwälte beaufsichtigt, die auf seinem Gebiet Parteien vor Gerichtsbehörden vertreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_14"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Meldepflicht",
+        "citation": "Art. 15 Abs. 1 BGFA",
+        "content": "Die kantonalen Gerichts- und Verwaltungsbehörden melden der Aufsichtsbehörde ihres Kantons unverzüglich das Fehlen persönlicher Voraussetzungen nach Artikel 8 sowie Vorfälle, welche die Berufsregeln verletzen könnten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_15"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Meldepflicht",
+        "citation": "Art. 15 Abs. 2 BGFA",
+        "content": "Die eidgenössischen Gerichts- und Verwaltungsbehörden melden der Aufsichtsbehörde des Kantons, in dem eine Anwältin oder ein Anwalt eingetragen ist, unverzüglich das Fehlen persönlicher Voraussetzungen nach Artikel 8 sowie Vorfälle, welche die Berufsregeln verletzen könnten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_15"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarverfahren in einem anderen Kanton",
+        "citation": "Art. 16 Abs. 1 BGFA",
+        "content": "Eröffnet eine Aufsichtsbehörde ein Disziplinarverfahren gegen Anwältinnen oder Anwälte, die nicht im Register dieses Kantons eingetragen sind, so informiert sie die Aufsichtsbehörde des Kantons, in dessen Register sie eingetragen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarverfahren in einem anderen Kanton",
+        "citation": "Art. 16 Abs. 2 BGFA",
+        "content": "Beabsichtigt sie, eine Disziplinarmassnahme anzuordnen, so räumt sie der Aufsichtsbehörde des Kantons, in dessen Register die Anwältin oder der Anwalt eingetragen ist, die Möglichkeit ein, zum Ergebnis der Untersuchung Stellung zu nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarverfahren in einem anderen Kanton",
+        "citation": "Art. 16 Abs. 3 BGFA",
+        "content": "Das Ergebnis des Disziplinarverfahrens ist der Aufsichtsbehörde des Kantons mitzuteilen, in dessen Register die Anwältin oder der Anwalt eingetragen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarmassnahmen",
+        "citation": "Art. 17 Abs. 1 BGFA",
+        "content": "Bei Verletzung dieses Gesetzes kann die Aufsichtsbehörde folgende Disziplinarmassnahmen anordnen:\na. eine Verwarnung;\nb. einen Verweis;\nc. eine Busse bis zu 20 000 Franken;\nd. ein befristetes Berufsausübungsverbot für längstens zwei Jahre;\ne. ein dauerndes Berufsausübungsverbot.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarmassnahmen",
+        "citation": "Art. 17 Abs. 2 BGFA",
+        "content": "Eine Busse kann zusätzlich zu einem Berufsausübungsverbot angeordnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Disziplinarmassnahmen",
+        "citation": "Art. 17 Abs. 3 BGFA",
+        "content": "Nötigenfalls kann die Aufsichtsbehörde die Berufsausübung vorsorglich verbieten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Geltung des Berufsausübungsverbots",
+        "citation": "Art. 18 Abs. 1 BGFA",
+        "content": "Ein Berufsausübungsverbot gilt auf dem gesamten Gebiet der Schweiz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_18"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Geltung des Berufsausübungsverbots",
+        "citation": "Art. 18 Abs. 2 BGFA",
+        "content": "Es wird den Aufsichtsbehörden der übrigen Kantone mitgeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_18"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Verjährung",
+        "citation": "Art. 19 Abs. 1 BGFA",
+        "content": "Die disziplinarische Verfolgung verjährt ein Jahr, nachdem die Aufsichtsbehörde vom beanstandeten Vorfall Kenntnis hatte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Verjährung",
+        "citation": "Art. 19 Abs. 2 BGFA",
+        "content": "Die Frist wird durch jede Untersuchungshandlung der Aufsichtsbehörde unterbrochen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Verjährung",
+        "citation": "Art. 19 Abs. 3 BGFA",
+        "content": "Die disziplinarische Verfolgung verjährt in jedem Fall zehn Jahre nach dem beanstandeten Vorfall.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Verjährung",
+        "citation": "Art. 19 Abs. 4 BGFA",
+        "content": "Stellt die Verletzung der Berufsregeln eine strafbare Handlung dar, gilt die vom Strafrecht vorgesehene längere Verjährungsfrist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Löschung der Disziplinarmassnahmen",
+        "citation": "Art. 20 Abs. 1 BGFA",
+        "content": "Verwarnungen, Verweise und Bussen werden fünf Jahre nach ihrer Anordnung im Register gelöscht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_20"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 3. Abschnitt: Berufsregeln und Disziplinaraufsicht, Löschung der Disziplinarmassnahmen",
+        "citation": "Art. 20 Abs. 2 BGFA",
+        "content": "Ein befristetes Berufsausübungsverbot wird zehn Jahre nach seiner Aufhebung im Register gelöscht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_20"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Grundsätze",
+        "citation": "Art. 21 Abs. 1 BGFA",
+        "content": "Angehörige von Mitgliedstaaten der EU oder der EFTA, die berechtigt sind, den Anwaltsberuf in ihrem Herkunftsstaat unter einer der im Anhang aufgeführten Berufsbezeichnungen auszuüben, können im freien Dienstleistungsverkehr in der Schweiz Parteien vor Gerichtsbehörden vertreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_21"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Grundsätze",
+        "citation": "Art. 21 Abs. 2 BGFA",
+        "content": "Die dienstleistungserbringenden Anwältinnen und Anwälte werden nicht in die kantonalen Anwaltsregister eingetragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_21"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Nachweis der Anwaltsqualifikation",
+        "citation": "Art. 22 BGFA",
+        "content": "Die eidgenössischen und kantonalen Gerichtsbehörden, vor denen die dienstleistungserbringenden Anwältinnen und Anwälte auftreten, sowie die Aufsichtsbehörden über die Anwältinnen und Anwälte können verlangen, dass diese ihre Anwaltsqualifikation nachweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_22"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Verpflichtung zur Handlung im Einvernehmen mit einer eingetragenen Anwältin oder einem eingetragenen Anwalt",
+        "citation": "Art. 23 BGFA",
+        "content": "Besteht für ein Verfahren Anwaltszwang, so sind die dienstleistungserbringenden Anwältinnen und Anwälte verpflichtet, im Einvernehmen mit einer Anwältin oder einem Anwalt zu handeln, die oder der in einem kantonalen Anwaltsregister eingetragen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_23"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Berufsbezeichnung",
+        "citation": "Art. 24 BGFA",
+        "content": "Die dienstleistungserbringenden Anwältinnen und Anwälte verwenden ihre ursprüngliche Berufsbezeichnung in der Amtssprache ihres Herkunftsstaats unter Angabe der Berufsorganisation, deren Zuständigkeit sie unterliegen, oder des Gerichts, bei dem sie nach den Vorschriften dieses Staats zugelassen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_24"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Berufsregeln",
+        "citation": "Art. 25 BGFA",
+        "content": "Für die dienstleistungserbringenden Anwältinnen und Anwälte gelten die Berufsregeln nach Artikel 12 mit Ausnahme der Bestimmungen betreffend die amtliche Pflichtverteidigung und die unentgeltliche Rechtsvertretung (Bst. g) sowie den Registereintrag (Bst. j).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_25"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 4. Abschnitt:, Ausübung des Anwaltsberufs im freien Dienstleistungsverkehr durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA, Information über Disziplinarmassnahmen",
+        "citation": "Art. 26 BGFA",
+        "content": "Die Aufsichtsbehörde informiert die zuständige Stelle des Herkunftsstaats über Disziplinarmassnahmen, die sie gegenüber dienstleistungserbringenden Anwältinnen und Anwälten anordnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_26"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Grundsätze",
+        "citation": "Art. 27 Abs. 1 BGFA",
+        "content": "Angehörige von Mitgliedstaaten der EU oder der EFTA, die berechtigt sind, den Anwaltsberuf in ihrem Herkunftsstaat unter einer der im Anhang aufgeführten Berufsbezeichnungen auszuüben, können in der Schweiz ständig Parteien vor Gerichtsbehörden vertreten, wenn sie bei einer kantonalen Aufsichtsbehörde über die Anwältinnen und Anwälte eingetragen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_27"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Grundsätze",
+        "citation": "Art. 27 Abs. 2 BGFA",
+        "content": "Die Artikel 23–25 gelten für diese Anwältinnen und Anwälte ebenfalls.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_27"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Eintragung bei der Aufsichtsbehörde",
+        "citation": "Art. 28 Abs. 1 BGFA",
+        "content": "Die Aufsichtsbehörde führt eine öffentliche Liste der Angehörigen von Mitgliedstaaten der EU oder der EFTA, die in der Schweiz unter ihrer ursprünglichen Berufsbezeichnung ständig Parteien vor Gerichtsbehörden vertreten dürfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Eintragung bei der Aufsichtsbehörde",
+        "citation": "Art. 28 Abs. 2 BGFA",
+        "content": "Die Anwältinnen und Anwälte tragen sich bei der Aufsichtsbehörde des Kantons ein, in dem sie eine Geschäftsadresse haben. Sie weisen ihre Anwaltsqualifikation mit einer Bescheinigung über ihre Eintragung bei der zuständigen Stelle des Herkunftsstaats nach; diese Bescheinigung darf nicht älter als drei Monate sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Eintragung bei der Aufsichtsbehörde",
+        "citation": "Art. 28 Abs. 3 BGFA",
+        "content": "Die Aufsichtsbehörde informiert die zuständige Stelle des Herkunftsstaats über die Eintragung in die Liste.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Zusammenarbeit mit der zuständigen Stelle des Herkunftsstaats",
+        "citation": "Art. 29 Abs. 1 BGFA",
+        "content": "Bevor die Aufsichtsbehörde ein Disziplinarverfahren gegen Angehörige von Mitgliedstaaten der EU oder der EFTA einleitet, die in der Schweiz ständig Parteien vor Gerichtsbehörden vertreten, informiert sie die zuständige Stelle des Herkunftsstaats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_29"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 5. Abschnitt:, Ständige Ausübung des Anwaltsberufs durch Anwältinnen und Anwälte aus Mitgliedstaaten der EU oder der EFTA unter ihrer ursprünglichen Berufsbezeichnung, Zusammenarbeit mit der zuständigen Stelle des Herkunftsstaats",
+        "citation": "Art. 29 Abs. 2 BGFA",
+        "content": "Die Aufsichtsbehörde arbeitet mit der zuständigen Stelle des Herkunftsstaats während des Disziplinarverfahrens zusammen und gibt ihr insbesondere die Möglichkeit zur Stellungnahme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_29"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Grundsätze",
+        "citation": "Art. 30 Abs. 1 BGFA",
+        "content": "Angehörige von Mitgliedstaaten der EU oder der EFTA können sich, ohne dass sie die Voraussetzungen nach Artikel 7 Buchstabe b erfüllen, in ein kantonales Anwaltsregister eintragen lassen, wenn sie:\na. eine Eignungsprüfung bestanden haben (Art. 31); oder\nb. während mindestens drei Jahren in der Liste der unter ihrer ursprünglichen Berufsbezeichnung tätigen Anwältinnen und Anwälte eingetragen waren und nachweisen, dass sie:\n1. während dieser Zeit effektiv und regelmässig im schweizerischen Recht tätig waren, oder\n2. im schweizerischen Recht während eines kürzeren Zeitraums tätig waren und sich in einem Gespräch über ihre beruflichen Fähigkeiten ausgewiesen haben (Art. 32).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_30"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Grundsätze",
+        "citation": "Art. 30 Abs. 2 BGFA",
+        "content": "Sie haben damit die gleichen Rechte und Pflichten wie die Anwältinnen und Anwälte, die über ein kantonales Anwaltspatent verfügen und in einem kantonalen Anwaltsregister eingetragen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_30"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Eignungsprüfung",
+        "citation": "Art. 31 Abs. 1 BGFA",
+        "content": "Zur Eignungsprüfung zugelassen werden Angehörige von Mitgliedstaaten der EU oder der EFTA, wenn sie:\na. ein mindestens dreijähriges Studium an einer Hochschule absolviert und gegebenenfalls die über das Studium hinaus erforderliche berufliche Ausbildung abgeschlossen haben; und\nb. über ein Diplom verfügen, das sie zur Ausübung des Anwaltsberufs in einem Mitgliedstaat der EU oder der EFTA berechtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Eignungsprüfung",
+        "citation": "Art. 31 Abs. 2 BGFA",
+        "content": "Die Anwältinnen und Anwälte müssen die Eignungsprüfung vor der Anwaltsprüfungskommission des Kantons ablegen, in dessen Register sie sich eintragen lassen wollen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Eignungsprüfung",
+        "citation": "Art. 31 Abs. 3 BGFA",
+        "content": "Die Eignungsprüfung erstreckt sich über Sachgebiete, die Gegenstand der kantonalen Anwaltsprüfung sind und die sich wesentlich von denjenigen unterscheiden, die im Rahmen der Ausbildung in ihrem Herkunftsstaat bereits geprüft worden sind. Ihr Inhalt bestimmt sich auch nach der Berufserfahrung der Anwältinnen und Anwälte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Eignungsprüfung",
+        "citation": "Art. 31 Abs. 4 BGFA",
+        "content": "Die Eignungsprüfung kann zweimal wiederholt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Gespräch zur Prüfung der beruflichen Fähigkeiten",
+        "citation": "Art. 32 Abs. 1 BGFA",
+        "content": "Das Gespräch zur Prüfung der beruflichen Fähigkeiten wird von der Anwaltsprüfungskommission des Kantons geführt, in dessen Register die Anwältin oder der Anwalt sich eintragen lassen will.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Gespräch zur Prüfung der beruflichen Fähigkeiten",
+        "citation": "Art. 32 Abs. 2 BGFA",
+        "content": "Sie stützt sich namentlich auf die von der Anwältin oder dem Anwalt vorgelegten Informationen und Unterlagen über die in der Schweiz ausgeübten Tätigkeiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Gespräch zur Prüfung der beruflichen Fähigkeiten",
+        "citation": "Art. 32 Abs. 3 BGFA",
+        "content": "Sie berücksichtigt die Kenntnisse und die Berufserfahrung der Anwältin oder des Anwalts im schweizerischen Recht, ferner die Teilnahme an Kursen und Seminaren über das schweizerische Recht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 6. Abschnitt:, Eintragung von Anwältinnen und Anwälten aus Mitgliedstaaten der EU oder der EFTA in ein kantonales Anwaltsregister, Berufsbezeichnung",
+        "citation": "Art. 33 BGFA",
+        "content": "Die Anwältinnen und Anwälte können neben der Berufsbezeichnung des Kantons, in dessen Register sie eingetragen sind, auch ihre ursprüngliche Berufsbezeichnung verwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_33"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 7. Abschnitt: Verfahren",
+        "citation": "Art. 34 Abs. 1 BGFA",
+        "content": "Die Kantone regeln das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_34"
+    },
+    {
+        "book": "BGFA",
+        "title": "BGFA, 7. Abschnitt: Verfahren",
+        "citation": "Art. 34 Abs. 2 BGFA",
+        "content": "Sie sehen für die Prüfung der Voraussetzungen für die Eintragung ins kantonale Anwaltsregister ein einfaches und rasches Verfahren vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/de#art_34"
+    }
+]

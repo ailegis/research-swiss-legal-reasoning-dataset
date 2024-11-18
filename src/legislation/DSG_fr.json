@@ -1,0 +1,1388 @@
+[
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, But",
+        "citation": "Art. 1 LPD",
+        "content": "La présente loi vise à protéger la personnalité et les droits fondamentaux des personnes physiques dont les données personnelles font l’objet d’un traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_1"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application à raison de la personne et de la matière",
+        "citation": "Art. 2 al. 1 LPD",
+        "content": "La présente loi régit le traitement de données personnelles concernant des personnes physiques effectué par:\na. des personnes privées;\nb. des organes fédéraux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application à raison de la personne et de la matière",
+        "citation": "Art. 2 al. 2 LPD",
+        "content": "Elle ne s’applique pas: \na. aux traitements de données personnelles effectués par une personne physique pour un usage exclusivement personnel;\nb. aux traitements de données personnelles effectués par les Chambres fédérales et les commissions parlementaires dans le cadre de leurs délibérations;\nc. aux traitements de données personnelles effectués par les bénéficiaires institutionnels au sens de l’art. 2, al. 1, de la loi du 22 juin 2007 sur l’État hôte qui jouissent en Suisse de l’immunité de juridiction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application à raison de la personne et de la matière",
+        "citation": "Art. 2 al. 3 LPD",
+        "content": "Les traitements de données personnelles effectués dans le cadre de procédures devant des tribunaux ou dans le cadre de procédures régies par des dispositions fédérales de procédure, ainsi que les droits des personnes concernées, obéissent au droit de procédure applicable. La présente loi s’applique aux procédures administratives de première instance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application à raison de la personne et de la matière",
+        "citation": "Art. 2 al. 4 LPD",
+        "content": "Les registres publics relatifs aux rapports de droit privé, notamment l’accès à ces registres et les droits des personnes concernées, sont régis par les dispositions spéciales du droit fédéral applicable. À défaut la présente loi s’applique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_2"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application territorial",
+        "citation": "Art. 3 al. 1 LPD",
+        "content": "La présente loi s’applique aux états de fait qui déploient des effets en Suisse, même s’ils se sont produits à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_3"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Champ d’application territorial",
+        "citation": "Art. 3 al. 2 LPD",
+        "content": "Les prétentions de droit privé sont régies par la loi fédérale du 18 décembre 1987 sur le droit international privé. Sont également réservées les dispositions régissant le champ d’application territorial du code pénal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_3"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Préposé fédéral à la protection des données et à la transparence",
+        "citation": "Art. 4 al. 1 LPD",
+        "content": "Le Préposé fédéral à la protection des données et à la transparence (PFPDT) est chargé de surveiller la bonne application des dispositions fédérales de protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_4"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 1 But, champ d’application et autorité fédérale de surveillance, Préposé fédéral à la protection des données et à la transparence",
+        "citation": "Art. 4 al. 2 LPD",
+        "content": "Il ne peut exercer aucune surveillance sur:\na. l’Assemblée fédérale;\nb. le Conseil fédéral;\nc. les tribunaux fédéraux;\nd. le Ministère public de la Confédération, en ce qui concerne le traitement de données personnelles dans le cadre de procédures pénales;\ne. les autorités fédérales, en ce qui concerne le traitement de données personnelles dans le cadre de leurs activités juridictionnelles ou dans le cadre de procédures d’entraide judiciaire internationale en matière pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_4"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Définitions",
+        "citation": "Art. 5 LPD",
+        "content": "On entend par:\na. données personnelles: toutes les informations concernant une personne physique identifiée ou identifiable;\nb. personne concernée: la personne physique dont les données personnelles font l’objet d’un traitement;\nc.  données personnelles sensibles (données sensibles):\n1.  les données sur les opinions ou les activités religieuses, philosophiques, politiques ou syndicales,\n2. les données sur la santé, la sphère intime ou l’origine raciale ou ethnique,\n3. les données génétiques,\n4. les données biométriques identifiant une personne physique de manière univoque,\n5.  les données sur des poursuites ou sanctions pénales et administratives,\n6.  les données sur des mesures d’aide sociale;\nd. traitement: toute opération relative à des données personnelles, quels que soient les moyens et procédés utilisés, notamment la collecte, l’enregistrement, la conservation, l’utilisation, la modification, la communication, l’archivage, l’effacement ou la destruction de données; \ne.  communication: le fait de transmettre des données personnelles ou de les rendre accessibles;\nf.  profilage: toute forme de traitement automatisé de données personnelles consistant à utiliser ces données pour évaluer certains aspects personnels relatifs à une personne physique, notamment pour analyser ou prédire des éléments concernant le rendement au travail, la situation économique, la santé, les préférences personnelles, les intérêts, la fiabilité, le comportement, la localisation ou les déplacements de cette personne physique;\ng. profilage à risque élevé: tout profilage entraînant un risque élevé pour la personnalité ou les droits fondamentaux de la personne concernée, parce qu’il conduit à un appariement de données qui permet d’apprécier les caractéristiques essentielles de la personnalité d’une personne physique;\nh. violation de la sécurité des données: toute violation de la sécurité entraînant de manière accidentelle ou illicite la perte de données personnelles, leur modification, leur effacement ou leur destruction, leur divulgation ou un accès non autorisés à ces données;\ni.  organe fédéral: l’autorité fédérale, le service fédéral ou la personne chargée d’une tâche publique de la Confédération;\nj. responsable du traitement: la personne privée ou l’organe fédéral qui, seul ou conjointement avec d’autres, détermine les finalités et les moyens du traitement de données personnelles;\nk. sous-traitant: la personne privée ou l’organe fédéral qui traite des données personnelles pour le compte du responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_5"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 1 LPD",
+        "content": "Tout traitement de données personnelles doit être licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 2 LPD",
+        "content": "Il doit être conforme aux principes de la bonne foi et de la proportionnalité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 3 LPD",
+        "content": "Les données personnelles ne peuvent être collectées que pour des finalités déterminées et reconnaissables pour la personne concernée et doivent être traitées ultérieurement de manière compatible avec ces finalités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 4 LPD",
+        "content": "Elles sont détruites ou anonymisées dès qu’elles ne sont plus nécessaires au regard des finalités du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 5 LPD",
+        "content": "Celui qui traite des données personnelles doit s’assurer qu’elles sont exactes. Il prend toute mesure appropriée permettant de rectifier, d’effacer ou de détruire les données inexactes ou incomplètes au regard des finalités pour lesquelles elles sont collectées ou traitées. Le caractère approprié de la mesure dépend notamment du type de traitement et de son étendue, ainsi que du risque que le traitement des données en question présente pour la personnalité ou les droits fondamentaux des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 6 LPD",
+        "content": "Lorsque le consentement de la personne concernée est requis, celle-ci ne consent valablement que si elle exprime librement sa volonté concernant un ou plusieurs traitements déterminés et après avoir été dûment informée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Principes",
+        "citation": "Art. 6 al. 7 LPD",
+        "content": "Le consentement doit être exprès dans les cas suivants:\na. il s’agit d’un traitement de données sensibles;\nb. il s’agit d’un profilage à risque élevé effectué par une personne privée;\nc. il s’agit d’un profilage effectué par un organe fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_6"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Protection des données dès la conception et par défaut",
+        "citation": "Art. 7 al. 1 LPD",
+        "content": "Le responsable du traitement est tenu de mettre en place des mesures techniques et organisationnelles afin que le traitement respecte les prescriptions de protection des données, en particulier les principes fixés à l’art. 6. Il le fait dès la conception du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Protection des données dès la conception et par défaut",
+        "citation": "Art. 7 al. 2 LPD",
+        "content": "Les mesures techniques et organisationnelles doivent être appropriées au regard notamment de l’état de la technique, du type de traitement et de son étendue, ainsi que du risque que le traitement des données présente pour la personnalité ou les droits fondamentaux des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Protection des données dès la conception et par défaut",
+        "citation": "Art. 7 al. 3 LPD",
+        "content": "Le responsable du traitement est tenu de garantir, par le biais de préréglages appropriés, que le traitement des données personnelles soit limité au minimum requis par la finalité poursuivie, pour autant que la personne concernée n’en dispose pas autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_7"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sécurité des données",
+        "citation": "Art. 8 al. 1 LPD",
+        "content": "Les responsables du traitement et les sous-traitants doivent assurer, par des mesures organisationnelles et techniques appropriées, une sécurité adéquate des données personnelles par rapport au risque encouru.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sécurité des données",
+        "citation": "Art. 8 al. 2 LPD",
+        "content": "Les mesures doivent permettre d’éviter toute violation de la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sécurité des données",
+        "citation": "Art. 8 al. 3 LPD",
+        "content": "Le Conseil fédéral édicte des dispositions sur les exigences minimales en matière de sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_8"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sous-traitance ",
+        "citation": "Art. 9 al. 1 LPD",
+        "content": "Le traitement de données personnelles peut être confié à un sous-traitant pour autant qu’un contrat ou la loi le prévoie et que les conditions suivantes soient réunies: \na. seuls sont effectués les traitements que le responsable du traitement serait en droit d’effectuer lui-même;\nb. aucune obligation légale ou contractuelle de garder le secret ne l’interdit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sous-traitance ",
+        "citation": "Art. 9 al. 2 LPD",
+        "content": "Le responsable du traitement doit en particulier s’assurer que le sous-traitant est en mesure de garantir la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sous-traitance ",
+        "citation": "Art. 9 al. 3 LPD",
+        "content": "Le sous-traitant ne peut lui-même sous-traiter un traitement à un tiers qu’avec l’autorisation préalable du responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Sous-traitance ",
+        "citation": "Art. 9 al. 4 LPD",
+        "content": "Il peut faire valoir les mêmes motifs justificatifs que le responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_9"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Conseiller à la protection des données",
+        "citation": "Art. 10 al. 1 LPD",
+        "content": "Les responsables du traitement privés peuvent nommer un conseiller à la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Conseiller à la protection des données",
+        "citation": "Art. 10 al. 2 LPD",
+        "content": "Le conseiller à la protection des données est l’interlocuteur des personnes concernées et des autorités chargées de la protection des données en Suisse. Il a notamment les tâches suivantes:\na. former et conseiller le responsable du traitement privé dans le domaine de la protection des données;\nb. concourir à l’application des prescriptions relatives à la protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Conseiller à la protection des données",
+        "citation": "Art. 10 al. 3 LPD",
+        "content": "Les responsables du traitement privés peuvent se prévaloir de l’exception prévue à l’art. 23, al. 4, lorsque les conditions suivantes sont réunies:\na. le conseiller à la protection des données exerce sa fonction de manière indépendante par rapport au responsable du traitement et sans recevoir d’instruction de celui-ci;\nb. il n’exerce pas de tâches incompatibles avec ses tâches de conseiller à la protection des données;\nc. il dispose des connaissances professionnelles nécessaires;\nd. le responsable du traitement publie les coordonnées du conseiller à la protection des données et les communique au PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Conseiller à la protection des données",
+        "citation": "Art. 10 al. 4 LPD",
+        "content": "Le Conseil fédéral règle la désignation de conseillers à la protection des données par les organes fédéraux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_10"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Codes de conduite",
+        "citation": "Art. 11 al. 1 LPD",
+        "content": "Les associations professionnelles, sectorielles et économiques, lorsqu’elles sont autorisées de par leurs statuts à défendre les intérêts économiques de leurs membres, de même que les organes fédéraux, peuvent soumettre leur code de conduite au PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_11"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Codes de conduite",
+        "citation": "Art. 11 al. 2 LPD",
+        "content": "Le PFPDT prend position sur les codes de conduite et publie ses prises de position.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_11"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Registre des activités de traitement",
+        "citation": "Art. 12 al. 1 LPD",
+        "content": "Les responsables du traitement et les sous-traitants tiennent chacun un registre de leurs activités de traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Registre des activités de traitement",
+        "citation": "Art. 12 al. 2 LPD",
+        "content": "Le registre du responsable du traitement contient au moins les indications suivantes: \na. l’identité du responsable du traitement;\nb. la finalité du traitement;\nc. une description des catégories de personnes concernées et des catégories de données personnelles traitées;\nd. les catégories de destinataires;\ne. dans la mesure du possible, le délai de conservation des données personnelles ou les critères pour déterminer la durée de conservation; \nf. dans la mesure du possible, une description générale des mesures visant à garantir la sécurité des données selon l’art. 8;\ng. en cas de communication de données personnelles à l’étranger, le nom de l’État concerné et les garanties prévues à l’art. 16, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Registre des activités de traitement",
+        "citation": "Art. 12 al. 3 LPD",
+        "content": "Le registre du sous-traitant contient des indications concernant l’identité du sous-traitant et du responsable du traitement, les catégories de traitements effectués pour le compte du responsable du traitement ainsi que les indications prévues à l’al. 2, let. f et g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Registre des activités de traitement",
+        "citation": "Art. 12 al. 4 LPD",
+        "content": "Les organes fédéraux déclarent leur registre d’activités de traitement au PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Registre des activités de traitement",
+        "citation": "Art. 12 al. 5 LPD",
+        "content": "Le Conseil fédéral prévoit des exceptions pour les entreprises qui emploient moins de 250 collaborateurs et dont le traitement des données présente un risque limité d’atteinte à la personnalité des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_12"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Certification",
+        "citation": "Art. 13 al. 1 LPD",
+        "content": "Les fournisseurs de systèmes ou de logiciels de traitement de données personnelles ainsi que les responsables du traitement et les sous-traitants peuvent soumettre leurs systèmes, leurs produits ou leurs services à une évaluation effectuée par des organismes de certification agréés et indépendants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_13"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 1, Définitions et principes généraux, Certification",
+        "citation": "Art. 13 al. 2 LPD",
+        "content": "Le Conseil fédéral édicte des dispositions sur la reconnaissance des procédures de certification et sur l’introduction d’un label de qualité de protection des données. Il tient compte du droit international et des normes techniques reconnues au niveau international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_13"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Représentant",
+        "citation": "Art. 14 al. 1 LPD",
+        "content": "Le responsable du traitement privé qui a son siège ou son domicile à l’étranger désigne un représentant en Suisse lorsqu’il traite des données personnelles concernant des personnes en Suisse et que ce traitement remplit les conditions suivantes:\na. le traitement est en rapport avec l’offre de biens ou de services ou le suivi du comportement de personnes en Suisse;\nb. il s’agit d’un traitement à grande échelle;\nc. il s’agit d’un traitement régulier;\nd. le traitement présente un risque élevé pour la personnalité des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Représentant",
+        "citation": "Art. 14 al. 2 LPD",
+        "content": "Le représentant est le point de contact pour les personnes concernées et le PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Représentant",
+        "citation": "Art. 14 al. 3 LPD",
+        "content": "Le responsable du traitement publie le nom et l’adresse de son représentant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_14"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Obligations du représentant",
+        "citation": "Art. 15 al. 1 LPD",
+        "content": "Le représentant tient un registre des activités de traitement du responsable du traitement qui contient les indications mentionnées à l’art. 12, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Obligations du représentant",
+        "citation": "Art. 15 al. 2 LPD",
+        "content": "Il fournit sur demande au PFPDT les indications contenues dans ce registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 2, Traitements de données personnelles par des responsables du traitement privés ayant leur siège ou leur domicile à l’étranger, Obligations du représentant",
+        "citation": "Art. 15 al. 3 LPD",
+        "content": "Il fournit sur demande à la personne concernée des renseignements concernant l’exercice de ses droits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_15"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Principes",
+        "citation": "Art. 16 al. 1 LPD",
+        "content": "Des données personnelles peuvent être communiquées à l’étranger si le Conseil fédéral a constaté que l’État concerné dispose d’une législation assurant un niveau de protection adéquat ou qu’un organisme international garantit un niveau de protection adéquat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Principes",
+        "citation": "Art. 16 al. 2 LPD",
+        "content": "En l’absence d’une décision du Conseil fédéral au sens de l’al. 1, des données personnelles peuvent être communiquées à l’étranger si un niveau de protection approprié est garanti par:\na. un traité international;\nb. les clauses de protection des données d’un contrat entre le responsable du traitement ou le sous-traitant et son cocontractant, préalablement communiquées au PFPDT;\nc. des garanties spécifiques élaborées par l’organe fédéral compétent et préalablement communiquées au PFPDT;\nd. des clauses type de protection des données préalablement approuvées, établies ou reconnues par le PFPDT;\ne. des règles d’entreprise contraignantes préalablement approuvées par le PFPDT ou par une autorité chargée de la protection des données relevant d’un État qui assure un niveau de protection adéquat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Principes",
+        "citation": "Art. 16 al. 3 LPD",
+        "content": "Le Conseil fédéral peut prévoir d’autres garanties appropriées au sens de l’al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_16"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Dérogations",
+        "citation": "Art. 17 al. 1 LPD",
+        "content": "En dérogation à l’art. 16, al. 1 et 2, des données personnelles peuvent être communiquées à l’étranger dans les cas suivants:\na. la personne concernée a expressément donné son consentement à la communication;\nb. la communication est en relation directe avec la conclusion ou l’exécution d’un contrat: \n1. entre le responsable du traitement et la personne concernée, ou\n2. entre le responsable du traitement et son cocontractant, dans l’intérêt de la personne concernée;\nc. la communication est nécessaire:\n1. à la sauvegarde d’un intérêt public prépondérant, ou\n2. à la constatation, à l’exercice ou à la défense d’un droit devant un tribunal ou une autre autorité étrangère compétente;\nd. la communication est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée ou d’un tiers et il n’est pas possible d’obtenir le consentement de la personne concernée dans un délai raisonnable;\ne. la personne concernée a rendu les données personnelles accessibles à tout un chacun et ne s’est pas opposée expressément au traitement;\nf. les données personnelles proviennent d’un registre prévu par la loi, accessible au public ou à toute personne justifiant d’un intérêt légitime, pour autant que les conditions légales pour la consultation dans le cas d’espèce soient remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_17"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Dérogations",
+        "citation": "Art. 17 al. 2 LPD",
+        "content": "Le responsable du traitement ou le sous-traitant informe, sur demande, le PFPDT des communications de données personnelles effectuées en vertu de l’al. 1, let. b, ch. 2, c et d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_17"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 2, Dispositions générales, Section 3, Communication de données personnelles à l’étranger, Publication de données personnelles sous forme électronique",
+        "citation": "Art. 18 LPD",
+        "content": "La publication de données personnelles au moyen de services d’information et de communication automatisés afin d’informer le public n’est pas assimilée à une communication à l’étranger, même si ces données peuvent être consultées depuis l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_18"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer lors de la collecte de données personnelles",
+        "citation": "Art. 19 al. 1 LPD",
+        "content": "Le responsable du traitement informe la personne concernée de manière adéquate de la collecte de données personnelles, que celle-ci soit effectuée auprès d’elle ou non.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer lors de la collecte de données personnelles",
+        "citation": "Art. 19 al. 2 LPD",
+        "content": "Lors de la collecte, il communique à la personne concernée les informations nécessaires pour qu’elle puisse faire valoir ses droits selon la présente loi et pour que la transparence des traitements soit garantie; il lui communique au moins: \na. l’identité et les coordonnées du responsable du traitement; \nb. la finalité du traitement;\nc. le cas échéant, les destinataires ou les catégories de destinataires auxquels des données personnelles sont transmises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer lors de la collecte de données personnelles",
+        "citation": "Art. 19 al. 3 LPD",
+        "content": "Si les données personnelles ne sont pas collectées auprès de la personne concernée, il communique en outre les catégories de données traitées à cette personne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer lors de la collecte de données personnelles",
+        "citation": "Art. 19 al. 4 LPD",
+        "content": "Lorsque des données personnelles sont communiquées à l’étranger, il communique également à la personne concernée le nom de l’État ou de l’organisme international auquel elles sont communiquées et, le cas échéant, les garanties prévues à l’art. 16, al. 2, ou l’application d’une des exceptions prévues à l’art. 17.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer lors de la collecte de données personnelles",
+        "citation": "Art. 19 al. 5 LPD",
+        "content": "Si les données personnelles ne sont pas collectées auprès de la personne concernée, il communique à cette personne les informations mentionnées aux al. 2 à 4 au plus tard un mois après qu’il a obtenu les données personnelles. S’il communique les données personnelles avant l’échéance de ce délai, il en informe la personne concernée au plus tard lors de la communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_19"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Exceptions au devoir d’informer et restrictions",
+        "citation": "Art. 20 al. 1 LPD",
+        "content": "Le responsable du traitement est délié du devoir d’information au sens de l’art. 19 si l’une des conditions suivantes est remplie: \na. la personne concernée dispose déjà des informations correspondantes;\nb. le traitement des données personnelles est prévu par la loi;\nc. le responsable du traitement est une personne privée et il est lié par une obligation légale de garder le secret;\nd. les conditions de l’art. 27 sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Exceptions au devoir d’informer et restrictions",
+        "citation": "Art. 20 al. 2 LPD",
+        "content": "Lorsque les données personnelles ne sont pas collectées auprès de la personne concernée, le devoir d’information ne s’applique pas non plus dans les cas suivants: \na. l’information est impossible à donner;\nb. elle nécessite des efforts disproportionnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Exceptions au devoir d’informer et restrictions",
+        "citation": "Art. 20 al. 3 LPD",
+        "content": "Le responsable du traitement peut restreindre ou différer la communication des informations, ou y renoncer, si l’une des conditions suivantes est remplie:\na. les intérêts prépondérants d’un tiers l’exigent;\nb.  l’information empêche le traitement d’atteindre son but; \nc. lorsque le responsable du traitement est une personne privée et que les conditions suivantes sont remplies:\n1. ses intérêts prépondérants l’exigent,\n2. il ne communique pas les données à un tiers;\nd. lorsque le responsable du traitement est un organe fédéral: \n1. si un intérêt public prépondérant, en particulier la sûreté intérieure ou extérieure de la Suisse, l’exige, ou\n2. si la communication des informations est susceptible de compromettre une enquête, une instruction ou une procédure judiciaire ou administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Exceptions au devoir d’informer et restrictions",
+        "citation": "Art. 20 al. 4 LPD",
+        "content": "Les entreprises appartenant au même groupe ne sont pas considérées comme des tiers au sens de l’al. 3, let. c, ch. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_20"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer en cas de décision individuelle automatisée",
+        "citation": "Art. 21 al. 1 LPD",
+        "content": "Le responsable du traitement informe la personne concernée de toute décision qui est prise exclusivement sur la base d’un traitement de données personnelles automatisé et qui a des effets juridiques pour elle ou l’affecte de manière significative (décision individuelle automatisée).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer en cas de décision individuelle automatisée",
+        "citation": "Art. 21 al. 2 LPD",
+        "content": "Si la personne concernée le demande, le responsable du traitement lui donne la possibilité de faire valoir son point de vue. La personne concernée peut exiger que la décision individuelle automatisée soit revue par une personne physique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer en cas de décision individuelle automatisée",
+        "citation": "Art. 21 al. 3 LPD",
+        "content": "Les al. 1 et 2 ne s’appliquent pas dans les cas suivants: \na. la décision individuelle automatisée est en relation directe avec la conclusion ou l’exécution d’un contrat entre le responsable du traitement et la personne concernée et la demande de cette dernière est satisfaite;\nb. la personne concernée a expressément consenti à ce que la décision soit prise de manière automatisée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Devoir d’informer en cas de décision individuelle automatisée",
+        "citation": "Art. 21 al. 4 LPD",
+        "content": "Si la décision individuelle automatisée émane d’un organe fédéral, ce dernier doit la qualifier comme telle. L’al. 2 ne s’applique pas lorsque la personne concernée ne doit pas être entendue avant la décision conformément à l’art. 30, al. 2, de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA) ou en vertu d’une autre loi fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_21"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 22 al. 1 LPD",
+        "content": "Lorsque le traitement envisagé est susceptible d’entraîner un risque élevé pour la personnalité ou les droits fondamentaux de la personne concernée, le responsable du traitement procède au préalable à une analyse d’impact relative à la protection des données personnelles. S’il envisage d’effectuer plusieurs opérations de traitement semblables, il peut établir une analyse d’impact commune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 22 al. 2 LPD",
+        "content": "L’existence d’un risque élevé, en particulier lors du recours à de nouvelles technologies, dépend de la nature, de l’étendue, des circonstances et de la finalité du traitement. Un tel risque existe notamment dans les cas suivants: \na. traitement de données sensibles à grande échelle;\nb. surveillance systématique de grandes parties du domaine public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 22 al. 3 LPD",
+        "content": "L’analyse d’impact contient une description du traitement envisagé, une évaluation des risques pour la personnalité ou les droits fondamentaux de la personne concernée, ainsi que les mesures prévues pour protéger sa personnalité et ses droits fondamentaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 22 al. 4 LPD",
+        "content": "Le responsable du traitement privé est délié de son obligation d’établir une analyse d’impact s’il est tenu d’effectuer le traitement en vertu d’une obligation légale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Analyse d’impact relative à la protection des données personnelles",
+        "citation": "Art. 22 al. 5 LPD",
+        "content": "Le responsable du traitement privé peut renoncer à établir une analyse d’impact lorsqu’il recourt à un système, un produit ou un service certifié conformément à l’art. 13 pour l’utilisation prévue ou qu’il respecte un code de conduite au sens de l’art. 11 remplissant les conditions suivantes:\na. il repose sur une analyse d’impact relative à la protection des données personnelles;\nb. il prévoit des mesures pour protéger la personnalité et les droits fondamentaux de la personne concernée;\nc. il a été soumis au PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_22"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Consultation préalable du PFPDT",
+        "citation": "Art. 23 al. 1 LPD",
+        "content": "Le responsable du traitement consulte le PFPDT préalablement au traitement lorsque l’analyse d’impact relative à la protection des données révèle que, malgré les mesures prévues par le responsable du traitement, le traitement envisagé présente encore un risque élevé pour la personnalité ou les droits fondamentaux de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Consultation préalable du PFPDT",
+        "citation": "Art. 23 al. 2 LPD",
+        "content": "Le PFPDT communique au responsable du traitement ses objections concernant le traitement envisagé dans un délai de deux mois. Ce délai peut être prolongé d’un mois lorsqu’il s’agit d’un traitement de données complexe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Consultation préalable du PFPDT",
+        "citation": "Art. 23 al. 3 LPD",
+        "content": "Si le PFPDT a des objections concernant le traitement envisagé, il propose au responsable du traitement des mesures appropriées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Consultation préalable du PFPDT",
+        "citation": "Art. 23 al. 4 LPD",
+        "content": "Le responsable du traitement privé peut renoncer à consulter le PFPDT s’il a consulté son conseiller à la protection des données au sens de l’art. 10.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_23"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 1 LPD",
+        "content": "Le responsable du traitement annonce dans les meilleurs délais au PFPDT les cas de violation de la sécurité des données entraînant vraisemblablement un risque élevé pour la personnalité ou les droits fondamentaux de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 2 LPD",
+        "content": "L’annonce doit indiquer au moins la nature de la violation de la sécurité des données, ses conséquences et les mesures prises ou envisagées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 3 LPD",
+        "content": "Le sous-traitant annonce dans les meilleurs délais au responsable du traitement tout cas de violation de la sécurité des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 4 LPD",
+        "content": "Le responsable du traitement informe la personne concernée lorsque cela est nécessaire à sa protection ou lorsque le PFPDT l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 5 LPD",
+        "content": "Il peut restreindre l’information de la personne concernée, la différer ou y renoncer, dans les cas suivants: \na. il existe un motif au sens de l’art. 26, al. 1, let. b, ou 2, let. b, ou un devoir légal de garder le secret qui l’interdit;\nb. l’information est impossible à fournir ou exige des efforts disproportionnés; \nc. l’information de la personne concernée peut être garantie de manière équivalente par une communication publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 3 Obligations du responsable du traitement et du sous-traitant, Annonce des violations de la sécurité des données",
+        "citation": "Art. 24 al. 6 LPD",
+        "content": "Une annonce fondée sur le présent article ne peut être utilisée dans le cadre d’une procédure pénale contre la personne tenue d’annoncer qu’avec son consentement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_24"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 1 LPD",
+        "content": "Toute personne peut demander au responsable du traitement si des données personnelles la concernant sont traitées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 2 LPD",
+        "content": "La personne concernée reçoit les informations nécessaires pour qu’elle puisse faire valoir ses droits selon la présente loi et pour que la transparence du traitement soit garantie. Dans tous les cas, elle reçoit les informations suivantes:\na. l’identité et les coordonnées du responsable du traitement;\nb. les données personnelles traitées en tant que telles;\nc. la finalité du traitement;\nd. la durée de conservation des données personnelles ou, si cela n’est pas possible, les critères pour fixer cette dernière;\ne. les informations disponibles sur l’origine des données personnelles, dans la mesure où ces données n’ont pas été collectées auprès de la personne concernée;\nf. le cas échéant, l’existence d’une décision individuelle automatisée ainsi que la logique sur laquelle se base la décision;\ng. le cas échéant, les destinataires ou les catégories de destinataires auxquels des données personnelles sont communiquées, ainsi que les informations prévues à l’art. 19, al. 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 3 LPD",
+        "content": "Des données personnelles sur la santé de la personne concernée peuvent lui être communiquées, moyennant son consentement, par l’intermédiaire d’un professionnel de la santé qu’elle aura désigné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 4 LPD",
+        "content": "Le responsable du traitement qui fait traiter des données personnelles par un sous-traitant demeure tenu de fournir les renseignements demandés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 5 LPD",
+        "content": "Nul ne peut renoncer par avance au droit d’accès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 6 LPD",
+        "content": "Le responsable du traitement fournit gratuitement les renseignements demandés. Le Conseil fédéral peut prévoir des exceptions, notamment si la communication de l’information exige des efforts disproportionnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit d’accès ",
+        "citation": "Art. 25 al. 7 LPD",
+        "content": "En règle générale, les renseignements sont fournis dans un délai de 30 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_25"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès ",
+        "citation": "Art. 26 al. 1 LPD",
+        "content": "Le responsable du traitement peut refuser, restreindre ou différer la communication des renseignements dans les cas suivants: \na. une loi au sens formel le prévoit, notamment pour protéger un secret professionnel;\nb. les intérêts prépondérants d’un tiers l’exigent; \nc. la demande d’accès est manifestement infondée notamment parce qu’elle poursuit un but contraire à la protection des données ou est manifestement procédurière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès ",
+        "citation": "Art. 26 al. 2 LPD",
+        "content": "Il est au surplus possible de refuser, de restreindre ou de différer la communication des renseignements dans les cas suivants: \na. lorsque le responsable du traitement est une personne privée et que les conditions suivantes sont remplies:\n1. ses intérêts prépondérants l’exigent,\n2. il ne communique pas les données à un tiers.\nb. lorsque le responsable du traitement est un organe fédéral: \n1. si un intérêt public prépondérant, en particulier la sûreté intérieure ou extérieure de la Suisse, l’exige, ou \n2. si la communication des informations est susceptible de compromettre une enquête, une instruction ou une procédure judiciaire ou administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès ",
+        "citation": "Art. 26 al. 3 LPD",
+        "content": "Les entreprises appartenant au même groupe ne sont pas considérées comme des tiers au sens de l’al. 2, let. a, ch. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès ",
+        "citation": "Art. 26 al. 4 LPD",
+        "content": "Le responsable du traitement indique le motif pour lequel il refuse, restreint ou diffère la communication des informations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_26"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès applicables aux médias",
+        "citation": "Art. 27 al. 1 LPD",
+        "content": "Lorsque les données personnelles sont traitées exclusivement pour la publication dans la partie rédactionnelle d’un média à caractère périodique, le responsable du traitement peut refuser, restreindre ou différer la communication des renseignements dans l’un des cas suivants: \na. les données fournissent des indications sur les sources d’information; \nb. un droit de regard sur des projets de publication en résulterait; \nc. la libre formation de l’opinion publique serait compromise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_27"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions au droit d’accès applicables aux médias",
+        "citation": "Art. 27 al. 2 LPD",
+        "content": "Les journalistes peuvent en outre refuser, restreindre ou différer la communication des renseignements lorsque les données personnelles servent exclusivement d’instrument de travail personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_27"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit à la remise ou à la transmission des données personnelles",
+        "citation": "Art. 28 al. 1 LPD",
+        "content": "La personne concernée peut demander au responsable du traitement qu’il lui remette sous un format électronique couramment utilisé les données personnelles la concernant qu’elle lui a communiquées lorsque les conditions suivantes sont réunies:\na. le responsable du traitement traite les données personnelles de manière automatisée;\nb. les données personnelles sont traitées avec le consentement de la personne concernée ou en relation directe avec la conclusion ou l’exécution d’un contrat entre elle et le responsable du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit à la remise ou à la transmission des données personnelles",
+        "citation": "Art. 28 al. 2 LPD",
+        "content": "La personne concernée peut en outre demander au responsable du traitement qu’il transmette les données personnelles la concernant à un autre responsable du traitement, pour autant que les conditions de l’al. 1 soient remplies et que cela n’exige pas des efforts disproportionnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Droit à la remise ou à la transmission des données personnelles",
+        "citation": "Art. 28 al. 3 LPD",
+        "content": "Le responsable du traitement remet ou transmet gratuitement les données personnelles. Le Conseil fédéral peut prévoir des exceptions, notamment si la remise ou la transmission des données personnelles exige des efforts disproportionnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_28"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions du droit à la remise ou à la transmission des données personnelles",
+        "citation": "Art. 29 al. 1 LPD",
+        "content": "Le responsable du traitement peut refuser, restreindre ou différer la remise ou la transmission de données personnelles pour les mêmes motifs que ceux prévus à l’art. 26, al. 1 et 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_29"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 4, Droits de la personne concernée, Restrictions du droit à la remise ou à la transmission des données personnelles",
+        "citation": "Art. 29 al. 2 LPD",
+        "content": "Le responsable du traitement indique le motif pour lequel il refuse, restreint ou diffère la remise ou la transmission des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_29"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Atteintes à la personnalité",
+        "citation": "Art. 30 al. 1 LPD",
+        "content": "Celui qui traite des données personnelles ne doit pas porter une atteinte illicite à la personnalité des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Atteintes à la personnalité",
+        "citation": "Art. 30 al. 2 LPD",
+        "content": "Constitue notamment une atteinte à la personnalité le fait de:\na. traiter des données personnelles en violation des principes définis aux art. 6 et 8;\nb. traiter des données personnelles contre la manifestation expresse de la volonté de la personne concernée;\nc. communiquer à des tiers des données sensibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Atteintes à la personnalité",
+        "citation": "Art. 30 al. 3 LPD",
+        "content": "En règle générale, il n’y a pas atteinte à la personnalité lorsque la personne concernée a rendu les données personnelles accessibles à tout un chacun et ne s’est pas opposée expressément au traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_30"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Motifs justificatifs",
+        "citation": "Art. 31 al. 1 LPD",
+        "content": "Une atteinte à la personnalité est illicite à moins d’être justifiée par le consentement de la personne concernée, par un intérêt privé ou public prépondérant, ou par la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_31"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Motifs justificatifs",
+        "citation": "Art. 31 al. 2 LPD",
+        "content": "Les intérêts prépondérants du responsable du traitement entrent notamment en considération dans les cas suivants:\na. le traitement est en relation directe avec la conclusion ou l’exécution d’un contrat et les données traitées concernent le cocontractant; \nb. le traitement s’inscrit dans un rapport de concurrence économique actuel ou futur avec une autre personne, à condition toutefois qu’aucune donnée personnelle traitée ne soit communiquée à des tiers; ne sont pas considérées comme des tiers au sens de cette disposition les entreprises appartenant au même groupe que le responsable du traitement;\nc. les données personnelles sont traitées dans le but d’évaluer la solvabilité de la personne concernée pour autant que les conditions suivantes soient réunies:\n1. il ne s’agit pas de données sensibles ni d’un profilage à risque élevé,\n2. les données ne sont communiquées à des tiers que s’ils en ont besoin pour conclure ou exécuter un contrat avec la personne concernée,\n3. les données ne datent pas de plus de dix ans,\n4. la personne concernée est majeure;\nd. les données personnelles sont traitées de manière professionnelle exclusivement en vue d’une publication dans la partie rédactionnelle d’un média à caractère périodique ou, si la publication n’a pas lieu, servent exclusivement d’instrument de travail personnel;\ne. les données personnelles sont traitées à des fins ne se rapportant pas à des personnes, notamment dans le cadre de la recherche, de la planification ou de la statistique, si les conditions suivantes sont réunies: \n1. le responsable du traitement anonymise les données dès que la finalité du traitement le permet; si une anonymisation est impossible ou exige des efforts disproportionnés, il prend des mesures appropriées afin que les personnes concernées ne puissent pas être identifiées,\n2. s’il s’agit de données sensibles, le responsable du traitement ne les communique à des tiers que sous une forme ne permettant pas d’identifier la personne concernée; si cela n’est pas possible, des mesures doivent être prises qui garantissent que les tiers ne traitent les données qu’à des fins ne se rapportant pas à des personnes,\n3. les résultats sont publiés sous une forme ne permettant pas d’identifier les personnes concernées;\nf. les données personnelles recueillies concernent une personnalité publique et se réfèrent à son activité publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_31"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Prétentions",
+        "citation": "Art. 32 al. 1 LPD",
+        "content": "La personne concernée peut exiger que des données personnelles inexactes soient rectifiées, sauf si:\na. la modification est interdite par une disposition légale;\nb. les données sont traitées à des fins archivistiques répondant à un intérêt public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Prétentions",
+        "citation": "Art. 32 al. 2 LPD",
+        "content": "Les actions concernant la protection de la personnalité sont régies par les art. 28, 28a et 28g à 28l du code civil. Le demandeur peut requérir en particulier:\na. l’interdiction d’un traitement déterminé de données personnelles; \nb. l’interdiction d’une communication déterminée de données personnelles à des tiers;\nc. l’effacement ou la destruction de données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Prétentions",
+        "citation": "Art. 32 al. 3 LPD",
+        "content": "Si l’exactitude ou l’inexactitude d’une donnée personnelle ne peut pas être établie, le demandeur peut requérir que l’on ajoute à la donnée la mention de son caractère litigieux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 5 Dispositions particulières pour le traitement de données personnelles par des personnes privées, Prétentions",
+        "citation": "Art. 32 al. 4 LPD",
+        "content": "Il peut en outre demander que la rectification, l’effacement ou la destruction des données, l’interdiction du traitement ou de la communication à des tiers, la mention du caractère litigieux ou le jugement soient communiqués à des tiers ou publiés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_32"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Contrôle et responsabilité en cas de traitements de données personnelles conjoints",
+        "citation": "Art. 33 LPD",
+        "content": "Lorsqu’un organe fédéral traite des données personnelles conjointement avec d’autres organes fédéraux, avec des organes cantonaux ou avec des personnes privées, le Conseil fédéral règle les procédures de contrôle et les responsabilités en matière de protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_33"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Bases légales",
+        "citation": "Art. 34 al. 1 LPD",
+        "content": "Les organes fédéraux ne sont en droit de traiter des données personnelles que s’il existe une base légale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Bases légales",
+        "citation": "Art. 34 al. 2 LPD",
+        "content": "La base légale doit être prévue dans une loi au sens formel dans les cas suivants:\na. il s’agit d’un traitement de données sensibles;\nb. il s’agit d’un profilage;\nc. la finalité ou le mode du traitement de données personnelles est susceptible de porter gravement atteinte aux droits fondamentaux de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Bases légales",
+        "citation": "Art. 34 al. 3 LPD",
+        "content": "Pour les traitements de données personnelles visés à l’al. 2, let. a et b, une base légale prévue dans une loi au sens matériel suffit si les conditions suivantes sont réunies: \na. le traitement est indispensable à l’accomplissement d’une tâche définie dans une loi au sens formel;\nb. la finalité du traitement ne présente pas de risques particuliers pour les droits fondamentaux de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Bases légales",
+        "citation": "Art. 34 al. 4 LPD",
+        "content": "En dérogation aux al. 1 à 3, les organes fédéraux peuvent traiter des données personnelles si l’une des conditions suivantes est remplie:\na. le Conseil fédéral a autorisé le traitement, considérant que les droits des personnes concernées ne sont pas menacés; \nb. la personne concernée a consenti au traitement en l’espèce ou a rendu ses données personnelles accessibles à tout un chacun et ne s’est pas opposée expressément au traitement;\nc. le traitement est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée ou d’un tiers et il n’est pas possible d’obtenir le consentement de la personne concernée dans un délai raisonnable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_34"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitement de données personnelles automatisé dans le cadre d’essais pilotes",
+        "citation": "Art. 35 al. 1 LPD",
+        "content": "Le Conseil fédéral peut autoriser, avant l’entrée en vigueur d’une loi au sens formel, le traitement automatisé de données sensibles ou d’autres traitements au sens de l’art. 34, al. 2, let. b et c, si les conditions suivantes sont réunies:\na. les tâches qui nécessitent ce traitement sont réglées dans une loi au sens formel déjà en vigueur; \nb. des mesures appropriées sont prises aux fins de réduire au minimum les atteintes aux droits fondamentaux de la personne concernée; \nc. la mise en œuvre du traitement rend indispensable une phase d’essai avant l’entrée en vigueur de la loi au sens formel, en particulier pour des raisons techniques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitement de données personnelles automatisé dans le cadre d’essais pilotes",
+        "citation": "Art. 35 al. 2 LPD",
+        "content": "Il consulte au préalable le PFPDT.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitement de données personnelles automatisé dans le cadre d’essais pilotes",
+        "citation": "Art. 35 al. 3 LPD",
+        "content": "L’organe fédéral responsable transmet, au plus tard deux ans après la mise en œuvre de l’essai pilote, un rapport d’évaluation au Conseil fédéral. Dans ce rapport, il lui propose la poursuite ou l’interruption du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitement de données personnelles automatisé dans le cadre d’essais pilotes",
+        "citation": "Art. 35 al. 4 LPD",
+        "content": "Le traitement automatisé de données personnelles doit être interrompu dans tous les cas si aucune loi au sens formel prévoyant la base légale nécessaire n’est entrée en vigueur dans un délai de cinq ans à compter de la mise en œuvre de l’essai pilote.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_35"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 1 LPD",
+        "content": "Les organes fédéraux ne sont en droit de communiquer des données personnelles que si une base légale au sens de l’art. 34, al. 1 à 3, le prévoit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 2 LPD",
+        "content": "En dérogation à l’al. 1, ils peuvent, dans un cas d’espèce, communiquer des données personnelles si l’une des conditions suivantes est remplie: \na. la communication des données est indispensable à l’accomplissement des tâches légales du responsable du traitement ou du destinataire; \nb. la personne concernée a consenti à la communication des données;\nc. la communication des données est nécessaire pour protéger la vie ou l’intégrité corporelle de la personne concernée ou d’un tiers et il n’est pas possible d’obtenir le consentement de la personne concernée dans un délai raisonnable;\nd. la personne concernée a rendu ses données accessibles à tout un chacun et ne s’est pas expressément opposée à la communication; \ne. le destinataire rend vraisemblable que la personne concernée ne refuse son consentement ou ne s’oppose à la communication que dans le but de l’empêcher de se prévaloir de prétentions juridiques ou de faire valoir d’autres intérêts légitimes; à moins que cela ne s’avère impossible ou ne nécessite des efforts disproportionnés, la personne concernée sera auparavant invitée à se prononcer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 3 LPD",
+        "content": "Les organes fédéraux peuvent en outre communiquer des données personnelles, d’office, dans le cadre de l’information officielle du public, ou en vertu de la loi du 17 décembre 2004 sur la transparence, si les conditions suivantes sont réunies:\na. les données sont en rapport avec l’accomplissement de tâches publiques; \nb. la communication répond à un intérêt public prépondérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 4 LPD",
+        "content": "Ils sont en droit de communiquer, sur demande, le nom, le prénom, l’adresse et la date de naissance d’une personne, même si les conditions des al. 1 ou 2 ne sont pas remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 5 LPD",
+        "content": "Ils peuvent rendre accessibles des données personnelles à tout un chacun au moyen de services d’information et de communication automatisés lorsqu’une base légale prévoit la publication de ces données ou que ces organes communiquent des données sur la base de l’al. 3. Lorsqu’il n’existe plus d’intérêt public à rendre accessibles ces données, elles doivent être effacées du service d’information et de communication automatisé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Communication de données personnelles",
+        "citation": "Art. 36 al. 6 LPD",
+        "content": "Ils refusent la communication, la restreignent ou l’assortissent de charges:\na. si un intérêt public important ou un intérêt digne de protection manifeste de la personne concernée l’exige, ou\nb. si une obligation légale de garder le secret ou une disposition particulière de protection des données l’exige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_36"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Opposition à la communication de données personnelles",
+        "citation": "Art. 37 al. 1 LPD",
+        "content": "La personne concernée qui rend vraisemblable un intérêt digne de protection peut s’opposer à ce que l’organe fédéral responsable communique des données personnelles déterminées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Opposition à la communication de données personnelles",
+        "citation": "Art. 37 al. 2 LPD",
+        "content": "L’organe fédéral rejette l’opposition si l’une des conditions suivantes est remplie:\na. il est juridiquement tenu de communiquer les données personnelles; \nb. le défaut de communication risque de compromettre l’accomplissement de ses tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Opposition à la communication de données personnelles",
+        "citation": "Art. 37 al. 3 LPD",
+        "content": "L’art. 36, al. 3, est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_37"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Proposition des documents aux Archives fédérales",
+        "citation": "Art. 38 al. 1 LPD",
+        "content": "Conformément à la loi fédérale du 26 juin 1998 sur l’archivage, les organes fédéraux proposent aux Archives fédérales de reprendre toutes les données personnelles dont ils n’ont plus besoin en permanence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_38"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Proposition des documents aux Archives fédérales",
+        "citation": "Art. 38 al. 2 LPD",
+        "content": "Ils détruisent les données personnelles que les Archives fédérales ont désignées comme n’ayant plus de valeur archivistique, à moins que celles-ci:\na. ne soient rendues anonymes; \nb. ne doivent être conservées à titre de preuve, par mesure de sûreté ou afin de sauvegarder un intérêt digne de protection de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_38"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitements à des fins ne se rapportant pas à des personnes",
+        "citation": "Art. 39 al. 1 LPD",
+        "content": "Les organes fédéraux sont en droit de traiter des données personnelles à des fins ne se rapportant pas à des personnes, notamment dans le cadre de la recherche, de la planification ou de la statistique, si les conditions suivantes sont réunies:\na. les données sont rendues anonymes dès que la finalité du traitement le permet;\nb. l’organe fédéral ne communique des données sensibles à des personnes privées que sous une forme ne permettant pas d’identifier les personnes concernées;\nc. le destinataire ne communique les données à des tiers qu’avec le consentement de l’organe fédéral qui les lui a transmises;\nd. les résultats du traitement ne sont publiés que sous une forme ne permettant pas d’identifier les personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_39"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Traitements à des fins ne se rapportant pas à des personnes",
+        "citation": "Art. 39 al. 2 LPD",
+        "content": "Les art. 6, al. 3, 34, al. 2, et 36, al. 1, ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_39"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Activités de droit privé exercées par des organes fédéraux",
+        "citation": "Art. 40 LPD",
+        "content": "Lorsqu’un organe fédéral agit selon le droit privé, le traitement des données personnelles est régi par les dispositions applicables aux personnes privées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_40"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 1 LPD",
+        "content": "Quiconque a un intérêt digne de protection peut exiger de l’organe fédéral responsable:\na. qu’il s’abstienne de procéder à un traitement illicite; \nb. qu’il supprime les effets d’un traitement illicite; \nc. qu’il constate le caractère illicite du traitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 2 LPD",
+        "content": "Le demandeur peut en particulier demander que l’organe fédéral:\na. rectifie les données personnelles, les efface ou les détruise; \nb. publie ou communique à des tiers sa décision, concernant notamment la rectification, l’effacement ou la destruction des données, l’opposition à une communication (art. 37) ou la mention du caractère litigieux des données personnelles (al. 4).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 3 LPD",
+        "content": "Au lieu d’effacer ou de détruire les données personnelles, l’organe fédéral limite le traitement dans les cas suivants: \na. l’exactitude des données est contestée par la personne concernée et leur exactitude ou inexactitude ne peut pas être établie;\nb. des intérêts prépondérants d’un tiers l’exigent;\nc. un intérêt public prépondérant, en particulier la sûreté intérieure ou extérieure de la Suisse, l’exige;\nd. l’effacement ou la destruction des données est susceptible de compromettre une enquête, une instruction ou une procédure judiciaire ou administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 4 LPD",
+        "content": "Si l’exactitude ou l’inexactitude d’une donnée personnelle ne peut pas être établie, il ajoute à la donnée la mention de son caractère litigieux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 5 LPD",
+        "content": "La rectification, l’effacement ou la destruction de données personnelles ne peut pas être exigée pour les fonds gérés par des institutions ouvertes au public telles que les bibliothèques, les établissements d’enseignement, les musées, les archives et les autres institutions patrimoniales publiques. Si le demandeur rend vraisemblable qu’il dispose d’un intérêt prépondérant, il peut exiger que l’institution limite l’accès aux données litigieuses. Les al. 3 et 4 ne s’appliquent pas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Prétentions et procédure",
+        "citation": "Art. 41 al. 6 LPD",
+        "content": "La procédure est régie par la PA. Les exceptions prévues aux art. 2 et 3 PA ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_41"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 6 Dispositions particulières pour le traitement de données personnelles par des organes fédéraux, Procédure en cas de communication de documents officiels contenant des données personnelles ",
+        "citation": "Art. 42 LPD",
+        "content": "Tant que l’accès à des documents officiels contenant des données personnelles fait l’objet d’une procédure au sens de la loi du 17 décembre 2004 sur la transparence, la personne concernée peut, dans le cadre de cette procédure, faire valoir les droits que lui confère l’art. 41 de la présente loi concernant les documents qui sont l’objet de la procédure d’accès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_42"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 1 LPD",
+        "content": "L’Assemblée fédérale (Chambres réunies) élit le chef du PFPDT (le préposé).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 2 LPD",
+        "content": "Quiconque a le droit de vote en matière fédérale est éligible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 3 LPD",
+        "content": "Pour autant que la présente loi n’en dispose pas autrement, les rapports de travail du préposé sont régis par la loi du 24 mars 2000 sur le personnel de la Confédération (LPers). Le préposé est assuré jusqu’à l’âge de 65 ans révolus auprès de la caisse de pensions PUBLICA contre les conséquences économiques de la vieillesse, de l’invalidité et du décès. Sur demande du préposé, la prévoyance vieillesse est maintenue au-delà de l’âge de 65 ans jusqu’à la cessation des rapports de travail mais, au plus tard, jusqu’à la fin de l’année au cours de laquelle le préposé atteint l’âge de 68 ans. Dans ce cas, le PFPDT finance les cotisations d’épargne de l’employeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 3bis LPD",
+        "content": "L’Assemblée fédérale édicte par voie d’ordonnance les dispositions d’exécution relatives aux rapports de travail du préposé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 4 LPD",
+        "content": "Le préposé exerce ses fonctions de manière indépendante et sans recevoir ni solliciter d’instructions de la part d’une autorité ou d’un tiers. Il est rattaché administrativement à la Chancellerie fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 5 LPD",
+        "content": "Il dispose d’un secrétariat permanent et de son propre budget. Il engage son personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Élection et statut",
+        "citation": "Art. 43 al. 6 LPD",
+        "content": "Il n’est pas soumis au système d’évaluation prévu à l’art. 4, al. 3, LPers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_43"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Durée, renouvellement et fin des rapports de fonction",
+        "citation": "Art. 44 al. 1 LPD",
+        "content": "La période de fonction du préposé est de quatre ans et peut être renouvelée deux fois. Elle débute le 1er janvier suivant le début de la législature du Conseil national.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Durée, renouvellement et fin des rapports de fonction",
+        "citation": "Art. 44 al. 2 LPD",
+        "content": "Le préposé peut résilier ses rapports de travail pour la fin de chaque mois moyennant un délai de congé de six mois. La Commission judiciaire peut, dans des cas particuliers, accorder au préposé un délai de congé plus court lorsqu’aucun intérêt essentiel ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Durée, renouvellement et fin des rapports de fonction",
+        "citation": "Art. 44 al. 3 LPD",
+        "content": "L’Assemblée fédérale (Chambres réunies) peut révoquer le préposé avant la fin de sa période de fonction:\na. s’il a violé gravement ses devoirs de fonction de manière intentionnelle ou par négligence grave; \nb. s’il a durablement perdu la capacité d’exercer sa fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_44"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Avertissement",
+        "citation": "Art. 44a LPD",
+        "content": "La Commission judiciaire peut adresser un avertissement au préposé si elle constate qu’il a violé ses devoirs de fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_44_a"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Budget",
+        "citation": "Art. 45 LPD",
+        "content": "Le PFPDT remet chaque année, par l’intermédiaire de la Chancellerie fédérale, son projet de budget au Conseil fédéral. Celui-ci le transmet tel quel à l’Assemblée fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_45"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Incompatibilité",
+        "citation": "Art. 46 LPD",
+        "content": "Le préposé ne peut pas être membre de l’Assemblée fédérale ou du Conseil fédéral ni exercer aucune autre fonction au service de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_46"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Activité accessoire",
+        "citation": "Art. 47 al. 1 LPD",
+        "content": "Le préposé ne peut exercer aucune activité accessoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_47"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Activité accessoire",
+        "citation": "Art. 47 al. 2 LPD",
+        "content": "La Commission judiciaire peut autoriser le préposé à exercer une activité accessoire, pour autant que l’exercice de la fonction ainsi que l’indépendance et la réputation du PFPDT n’en soient pas affectés. Sa décision est publiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_47"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Récusation",
+        "citation": "Art. 47a LPD",
+        "content": "Si la récusation du préposé est contestée, le président de la cour du Tribunal administratif fédéral compétente en matière de protection des données statue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_47_a"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 1, Organisation, Autocontrôle du PFPDT",
+        "citation": "Art. 48 LPD",
+        "content": "Le PFPDT s’assure, par des mesures de contrôle appropriées portant notamment sur la sécurité des données personnelles, du respect et de la bonne application des dispositions fédérales de protection des données en son sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_48"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Enquête",
+        "citation": "Art. 49 al. 1 LPD",
+        "content": "Le PFPDT ouvre d’office ou sur dénonciation une enquête contre un organe fédéral ou une personne privée si des indices suffisants font penser qu’un traitement de données pourrait être contraire à des dispositions de protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Enquête",
+        "citation": "Art. 49 al. 2 LPD",
+        "content": "Il peut renoncer à ouvrir une enquête lorsque la violation des prescriptions de protection des données est de peu d’importance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Enquête",
+        "citation": "Art. 49 al. 3 LPD",
+        "content": "L’organe fédéral ou la personne privée fournit au PFPDT tous les renseignements et les documents qui lui sont nécessaires pour l’enquête. Le droit de refuser de fournir des renseignements est régi par les art. 16 et 17 PA, pour autant que l’art. 50, al. 2, de la présente loi n’en dispose pas autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Enquête",
+        "citation": "Art. 49 al. 4 LPD",
+        "content": "Si la personne concernée est l’auteur de la dénonciation, le PFPDT l’informe des suites données à celle-ci et du résultat d’une éventuelle enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_49"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Pouvoirs",
+        "citation": "Art. 50 al. 1 LPD",
+        "content": "Lorsque l’organe fédéral ou la personne privée ne respecte pas son obligation de collaborer, le PFPDT peut dans le cadre de la procédure d’enquête ordonner notamment:\na. l’accès à tous les renseignements, documents, registres des activités de traitement et données personnelles nécessaires pour l’enquête;\nb. l’accès aux locaux et aux installations;\nc. l’audition de témoins;\nd. des expertises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Pouvoirs",
+        "citation": "Art. 50 al. 2 LPD",
+        "content": "Le secret professionnel demeure réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Pouvoirs",
+        "citation": "Art. 50 al. 3 LPD",
+        "content": "Pour l’exécution des mesures prévues à l’al. 1, le PFPDT peut faire appel à d’autres autorités fédérales ainsi qu’aux organes de police cantonaux et communaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_50"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Mesures administratives",
+        "citation": "Art. 51 al. 1 LPD",
+        "content": "Si des dispositions de protection des données sont violées, le PFPDT peut ordonner la modification, la suspension ou la cessation de tout ou partie du traitement ainsi que l’effacement ou la destruction de tout ou partie des données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Mesures administratives",
+        "citation": "Art. 51 al. 2 LPD",
+        "content": "Il peut suspendre ou interdire la communication de données personnelles à l’étranger si elle est contraire aux conditions des art. 16 ou 17 ou à des dispositions d’autres lois fédérales concernant la communications de données personnelles à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Mesures administratives",
+        "citation": "Art. 51 al. 3 LPD",
+        "content": "Il peut notamment ordonner à l’organe fédéral ou à la personne privée:\na. de lui fournir les informations prévues aux art. 16, al. 2, let. b et c, et 17, al. 2; \nb. de prendre les mesures prévues aux art. 7 et 8; \nc. d’informer les personnes concernées conformément aux art. 19 et 21;\nd. d’établir une analyse d’impact relative à la protection des données personnelles conformément à l’art. 22;\ne. de le consulter conformément à l’art. 23;\nf. de l’informer et, le cas échéant, d’informer les personnes concernées, conformément à l’art. 24;\ng. de communiquer à la personne concernée les renseignements visés à l’art. 25.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Mesures administratives",
+        "citation": "Art. 51 al. 4 LPD",
+        "content": "Il peut également ordonner au responsable du traitement privé ayant son siège ou son domicile à l’étranger de désigner un représentant conformément à l’art. 14.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Mesures administratives",
+        "citation": "Art. 51 al. 5 LPD",
+        "content": "Lorsque l’organe fédéral ou la personne privée a pris, durant l’enquête, les mesures nécessaires au rétablissement d’une situation conforme aux prescriptions de protection des données, le PFPDT peut se limiter à prononcer un avertissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_51"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Procédure",
+        "citation": "Art. 52 al. 1 LPD",
+        "content": "La procédure d’enquête et les décisions relatives aux mesures visées aux art. 50 et 51 sont régies par la PA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Procédure",
+        "citation": "Art. 52 al. 2 LPD",
+        "content": "Seuls l’organe fédéral ou la personne privée contre lesquels une enquête a été ouverte ont qualité de partie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Procédure",
+        "citation": "Art. 52 al. 3 LPD",
+        "content": "Le PFPDT a qualité pour recourir contre les décisions sur recours du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_52"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Coordination",
+        "citation": "Art. 53 al. 1 LPD",
+        "content": "L’autorité administrative fédérale qui surveille une personne privée ou une organisation extérieure à l’administration fédérale en vertu d’une autre loi fédérale donne au PFPDT la possibilité de se prononcer lorsqu’elle doit rendre une décision qui touche à des questions de protection des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_53"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 2 Enquêtes concernant des violations des prescriptions de protection des données, Coordination",
+        "citation": "Art. 53 al. 2 LPD",
+        "content": "Si le PFPDT mène une enquête contre la même partie, les deux autorités doivent coordonner leurs procédures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_53"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 3, Assistance administrative, Assistance administrative en Suisse",
+        "citation": "Art. 54 al. 1 LPD",
+        "content": "Les autorités fédérales et cantonales communiquent au PFPDT les informations et les données personnelles nécessaires à l’accomplissement de ses tâches légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_54"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 3, Assistance administrative, Assistance administrative en Suisse",
+        "citation": "Art. 54 al. 2 LPD",
+        "content": "Le PFPDT communique les informations et les données personnelles nécessaires à l’accomplissement de leurs tâches légales:\na. aux autorités chargées de la protection des données en Suisse; \nb. aux autorités de poursuite pénale compétentes, lorsqu’il s’agit de dénoncer une infraction conformément à l’art. 65, al. 2;\nc. aux autorités fédérales ainsi qu’aux organes de police cantonaux et communaux, pour l’exécution des mesures prévues aux art. 50, al. 3, et 51.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_54"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 3, Assistance administrative, Assistance administrative avec des autorités étrangères",
+        "citation": "Art. 55 al. 1 LPD",
+        "content": "Le PFPDT peut échanger des informations ou des données personnelles avec des autorités étrangères chargées de la protection des données personnelles pour l’accomplissement de leurs tâches légales respectives en matière de protection des données, pour autant que les conditions suivantes soient réunies:\na. la réciprocité en matière d’assistance administrative est garantie;\nb. les informations et les données personnelles échangées ne sont utilisées que dans le cadre de la procédure liée à la protection des données personnelles qui a donné lieu à la demande d’assistance administrative;\nc. l’autorité destinataire s’engage à ne pas divulguer les secrets professionnels, d’affaires ou de fabrication;\nd. les informations et les données personnelles ne sont communiquées à des tiers qu’avec l’accord préalable de l’autorité qui les a transmises; \ne. l’autorité destinataire s’engage à respecter les charges et les restrictions d’utilisation exigées par l’autorité qui lui a transmis les informations et les données personnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 3, Assistance administrative, Assistance administrative avec des autorités étrangères",
+        "citation": "Art. 55 al. 2 LPD",
+        "content": "Pour motiver sa demande d’assistance administrative ou pour donner suite à une demande d’assistance administrative de l’autorité requérante, le PFPDT peut communiquer notamment les indications suivantes:\na. l’identité du responsable du traitement, du sous-traitant ou de tout autre tiers participant au traitement;\nb. les catégories de personnes concernées;\nc. l’identité des personnes concernées lorsque: \n1. celles-ci ont donné leur consentement, ou que\n2. la communication de l’identité des personnes concernées est indispensable à l’accomplissement des tâches légales du PFPDT ou de l’autorité étrangère;\nd. les données personnelles ou les catégories de données personnelles traitées;\ne. la finalité du traitement;\nf. les destinataires ou les catégories de destinataires;\ng. les mesures techniques et organisationnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 3, Assistance administrative, Assistance administrative avec des autorités étrangères",
+        "citation": "Art. 55 al. 3 LPD",
+        "content": "Avant de transmettre à une autorité étrangère des informations susceptibles de contenir des secrets professionnels, de fabrication ou d’affaires, il informe les personnes physiques ou morales détentrices de ces secrets et les invite à prendre position, à moins que cela ne s’avère impossible ou ne nécessite des efforts disproportionnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_55"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Registre",
+        "citation": "Art. 56 LPD",
+        "content": "Le PFPDT tient un registre des activités de traitement des organes fédéraux. Ce registre est publié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_56"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Information",
+        "citation": "Art. 57 al. 1 LPD",
+        "content": "Le PFPDT remet annuellement un rapport sur son activité à l’Assemblée fédérale. Il transmet simultanément ce rapport au Conseil fédéral. Le rapport est publié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_57"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Information",
+        "citation": "Art. 57 al. 2 LPD",
+        "content": "S’il en va de l’intérêt général, le PFPDT informe le public de ses constatations et de ses décisions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_57"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Autres tâches",
+        "citation": "Art. 58 al. 1 LPD",
+        "content": "Le PFPDT a notamment les autres tâches suivantes:\na. informer, former et conseiller les organes fédéraux et les personnes privées dans le domaine de la protection des données; \nb. assister les organes cantonaux et collaborer avec les autorités chargées de la protection des données en Suisse et à l’étranger;\nc. sensibiliser le public, en particulier les personnes vulnérables, à la protection des données personnelles;\nd. fournir sur demande à la personne concernée des informations sur l’exercice de ses droits;\ne. se prononcer sur les projets d’actes législatifs fédéraux et de mesures fédérales impliquant des traitements de données;\nf. assumer les tâches qui lui sont conférées par la loi du 17 décembre 2004 sur la transparence ou par d’autres lois fédérales;\ng. élaborer des outils valant recommandations de bonne pratique à l’attention des responsables du traitement, des sous-traitants et des personnes concernées; ce faisant, il tient compte des particularités des différents secteurs, ainsi que du besoin de protection des personnes vulnérables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Autres tâches",
+        "citation": "Art. 58 al. 2 LPD",
+        "content": "Il peut conseiller les organes fédéraux, même s’ils ne sont pas soumis à sa surveillance en vertu des art. 2 et 4. Les organes fédéraux peuvent lui donner accès à leurs dossiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 4, Autres tâches du PFPDT, Autres tâches",
+        "citation": "Art. 58 al. 3 LPD",
+        "content": "Il est autorisé à remettre aux autorités étrangères chargées de la protection des données une déclaration indiquant que, dans le domaine de la protection des données, la Suisse autorise la notification directe sur son territoire si la réciprocité lui est accordée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_58"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 5, Émoluments",
+        "citation": "Art. 59 al. 1 LPD",
+        "content": "Le PFPDT perçoit des émoluments auprès des personnes privées pour les prestations suivantes:\na. la prise de position concernant les codes de conduite visés à l’art. 11, al. 2;\nb. l’approbation des clauses type de protection des données et des règles d’entreprise contraignantes selon l’art. 16, al. 2, let. d et e; \nc. la consultation préalable dans le cadre de l’analyse d’impact relative à la protection des données selon l’art. 23, al. 2;\nd. les mesures provisionnelles et les mesures prononcées en vertu de l’art. 51;\ne. les conseils en matière de protection des données visés à l’art. 58, al. 1, let. a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 5, Émoluments",
+        "citation": "Art. 59 al. 2 LPD",
+        "content": "Le Conseil fédéral fixe le montant des émoluments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 7 Préposé fédéral à la protection des données personnelles et à la transparence, Section 5, Émoluments",
+        "citation": "Art. 59 al. 3 LPD",
+        "content": "Il peut déterminer les cas dans lesquels il est possible de renoncer à percevoir un émolument ou de le réduire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_59"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation des obligations d’informer, de renseigner et de collaborer",
+        "citation": "Art. 60 al. 1 LPD",
+        "content": "Sont, sur plainte, punies d’une amende de 250 000 francs au plus les personnes privées qui:\na. contreviennent aux obligations prévues aux art. 19, 21 et 25 à 27 en fournissant intentionnellement des renseignements inexacts ou incomplets;\nb. omettent intentionnellement:\n1. d’informer la personne concernée conformément aux art. 19, al. 1, et 21, al. 1,\n2. de lui fournir les informations prévues à l’art. 19, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_60"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation des obligations d’informer, de renseigner et de collaborer",
+        "citation": "Art. 60 al. 2 LPD",
+        "content": "Sont punies d’une amende de 250 000 francs au plus les personnes privées qui, dans le cadre d’une enquête, en violation de l’art. 49, al. 3, fournissent intentionnellement au PFPDT des renseignements inexacts ou refusent intentionnellement de collaborer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_60"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation des devoirs de diligence",
+        "citation": "Art. 61 LPD",
+        "content": "Sont, sur plainte, punies d’une amende de 250 000 francs au plus les personnes privées qui, intentionnellement: \na. communiquent des données personnelles à l’étranger en violation de l’art. 16, al. 1 et 2, et sans que les conditions de l’art. 17 soient remplies;\nb. confient le traitement de données personnelles à un sous-traitant sans que les conditions de l’art. 9, al. 1 et 2, soient remplies;\nc. ne respectent pas les exigences minimales en matière de sécurité des données édictées par le Conseil fédéral selon l’art. 8, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_61"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation du devoir de discrétion",
+        "citation": "Art. 62 al. 1 LPD",
+        "content": "Est, sur plainte, puni d’une amende de 250 000 francs au plus quiconque révèle intentionnellement des données personnelles secrètes portées à sa connaissance dans l’exercice d’une profession qui requiert la connaissance de telles données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation du devoir de discrétion",
+        "citation": "Art. 62 al. 2 LPD",
+        "content": "Est passible de la même peine quiconque révèle intentionnellement des données personnelles secrètes portées à sa connaissance dans le cadre des activités qu’il exerce pour le compte d’une personne soumise à l’obligation de garder le secret ou lors de sa formation chez elle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Violation du devoir de discrétion",
+        "citation": "Art. 62 al. 3 LPD",
+        "content": "La révélation de données personnelles secrètes demeure punissable alors même que l’exercice de la profession ou la formation ont pris fin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_62"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Insoumission à une décision",
+        "citation": "Art. 63 LPD",
+        "content": "Sont punies d’une amende de 250 000 francs au plus les personnes privées qui, intentionnellement, ne se conforment pas à une décision du PFPDT ou d’une autorité de recours, à elles signifiée sous la menace de la peine prévue au présent article.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_63"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Infractions commises dans une entreprise",
+        "citation": "Art. 64 al. 1 LPD",
+        "content": "Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif (DPA) sont applicables aux infractions commises dans une entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_64"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Infractions commises dans une entreprise",
+        "citation": "Art. 64 al. 2 LPD",
+        "content": "Lorsque l’amende entrant en ligne de compte ne dépasse pas 50 000 francs et que l’enquête rendrait nécessaires à l’égard des personnes punissables selon l’art. 6 DPA des mesures d’instruction hors de proportion avec la peine encourue, l’autorité peut renoncer à poursuivre ces personnes et condamner l’entreprise (art. 7 DPA) au paiement de l’amende à leur place.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_64"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Compétence",
+        "citation": "Art. 65 al. 1 LPD",
+        "content": "La poursuite et le jugement des infractions incombent aux cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_65"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Compétence",
+        "citation": "Art. 65 al. 2 LPD",
+        "content": "Le PFPDT peut dénoncer des infractions aux autorités de poursuite pénale compétentes et faire valoir les droits d’une partie plaignante dans la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_65"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 8, Dispositions pénales, Prescription de l’action pénale",
+        "citation": "Art. 66 LPD",
+        "content": "L’action pénale se prescrit par cinq ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_66"
+    },
+    {
+        "book": "DSG",
+        "title": "LPD, Chapitre 9, Conclusion de traités internationaux",
+        "citation": "Art. 67 LPD",
+        "content": "Le Conseil fédéral peut conclure des traités internationaux concernant: \na. la coopération internationale entre autorités chargées de la protection des données;\nb. la reconnaissance réciproque d’un niveau de protection adéquat pour la communication de données personnelles à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/491/fr#art_67"
+    }
+]

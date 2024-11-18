@@ -1,0 +1,940 @@
+[
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ziele",
+        "citation": "Art. 1 Abs. 1 RPG",
+        "content": "Bund, Kantone und Gemeinden sorgen dafür, dass der Boden haushälterisch genutzt und das Baugebiet vom Nichtbaugebiet getrennt wird. Sie stimmen ihre raumwirksamen Tätigkeiten aufeinander ab und verwirklichen eine auf die erwünschte Entwicklung des Landes ausgerichtete Ordnung der Besiedlung. Sie achten dabei auf die natürlichen Gegebenheiten sowie auf die Bedürfnisse von Bevölkerung und Wirtschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_1"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ziele",
+        "citation": "Art. 1 Abs. 2 RPG",
+        "content": "Sie unterstützen mit Massnahmen der Raumplanung insbesondere die Bestrebungen:\na. die natürlichen Lebensgrundlagen wie Boden, Luft, Wasser, Wald und die Landschaft zu schützen;\nabis. die Siedlungsentwicklung nach innen zu lenken, unter Berücksichtigung einer angemessenen Wohnqualität;\nb. kompakte Siedlungen zu schaffen;\nbbis. die räumlichen Voraussetzungen für die Wirtschaft zu schaffen und zu erhalten;\nc. das soziale, wirtschaftliche und kulturelle Leben in den einzelnen Landesteilen zu fördern und auf eine angemessene Dezentralisation der Besiedlung und der Wirtschaft hinzuwirken;\nd. die ausreichende Versorgungsbasis des Landes zu sichern;\ne. die Gesamtverteidigung zu gewährleisten;\nf. die Integration von Ausländerinnen und Ausländern sowie den gesellschaftlichen Zusammenhalt zu fördern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_1"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungspflicht",
+        "citation": "Art. 2 Abs. 1 RPG",
+        "content": "Bund, Kantone und Gemeinden erarbeiten die für ihre raumwirksamen Aufgaben nötigen Planungen und stimmen sie aufeinander ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungspflicht",
+        "citation": "Art. 2 Abs. 2 RPG",
+        "content": "Sie berücksichtigen die räumlichen Auswirkungen ihrer übrigen Tätigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungspflicht",
+        "citation": "Art. 2 Abs. 3 RPG",
+        "content": "Die mit Planungsaufgaben betrauten Behörden achten darauf, den ihnen nachgeordneten Behörden den zur Erfüllung ihrer Aufgaben nötigen Ermessensspielraum zu lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_2"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungsgrundsätze",
+        "citation": "Art. 3 Abs. 1 RPG",
+        "content": "Die mit Planungsaufgaben betrauten Behörden achten auf die nachstehenden Grundsätze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungsgrundsätze",
+        "citation": "Art. 3 Abs. 2 RPG",
+        "content": "Die Landschaft ist zu schonen. Insbesondere sollen:\na. der Landwirtschaft genügende Flächen geeigneten Kulturlandes, insbesondere Fruchtfolgeflächen, erhalten bleiben;\nb. Siedlungen, Bauten und Anlagen sich in die Landschaft einordnen;\nc. See- und Flussufer freigehalten und öffentlicher Zugang und Begehung erleichtert werden;\nd. naturnahe Landschaften und Erholungsräume erhalten bleiben;\ne. die Wälder ihre Funktionen erfüllen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungsgrundsätze",
+        "citation": "Art. 3 Abs. 3 RPG",
+        "content": "Die Siedlungen sind nach den Bedürfnissen der Bevölkerung zu gestalten und in ihrer Ausdehnung zu begrenzen. Insbesondere sollen:\na. Wohn- und Arbeitsgebiete einander zweckmässig zugeordnet sein und schwergewichtig an Orten geplant werden, die auch mit dem öffentlichen Verkehr angemessen erschlossen sind;\nabis. Massnahmen getroffen werden zur besseren Nutzung der brachliegenden oder ungenügend genutzten Flächen in Bauzonen und der Möglichkeiten zur Verdichtung der Siedlungsfläche;\nb. Wohngebiete vor schädlichen oder lästigen Einwirkungen wie Luftverschmutzung, Lärm und Erschütterungen möglichst verschont werden;\nc. Rad- und Fusswege erhalten und geschaffen werden;\nd. günstige Voraussetzungen für die Versorgung mit Gütern und Dienstleistungen sichergestellt sein;\ne. Siedlungen viele Grünflächen und Bäume enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Planungsgrundsätze",
+        "citation": "Art. 3 Abs. 4 RPG",
+        "content": "Für die öffentlichen oder im öffentlichen Interesse liegenden Bauten und Anlagen sind sachgerechte Standorte zu bestimmen. Insbesondere sollen:\na. regionale Bedürfnisse berücksichtigt und störende Ungleichheiten abgebaut werden;\nb. Einrichtungen wie Schulen, Freizeitanlagen oder öffentliche Dienste für die Bevölkerung gut erreichbar sein;\nc. nachteilige Auswirkungen auf die natürlichen Lebensgrundlagen, die Bevölkerung und die Wirtschaft vermieden oder gesamthaft gering gehalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_3"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Information und Mitwirkung",
+        "citation": "Art. 4 Abs. 1 RPG",
+        "content": "Die mit Planungsaufgaben betrauten Behörden unterrichten die Bevölkerung über Ziele und Ablauf der Planungen nach diesem Gesetz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Information und Mitwirkung",
+        "citation": "Art. 4 Abs. 2 RPG",
+        "content": "Sie sorgen dafür, dass die Bevölkerung bei Planungen in geeigneter Weise mitwirken kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Information und Mitwirkung",
+        "citation": "Art. 4 Abs. 3 RPG",
+        "content": "Die Pläne nach diesem Gesetz sind öffentlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_4"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1 RPG",
+        "content": "Das kantonale Recht regelt einen angemessenen Ausgleich für erhebliche Vor- und Nachteile, die durch Planungen nach diesem Gesetz entstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1bis RPG",
+        "content": "Planungsvorteile werden mit einem Satz von mindestens 20 Prozent ausgeglichen. Der Ausgleich wird bei der Überbauung des Grundstücks oder dessen Veräusserung fällig. Das kantonale Recht gestaltet den Ausgleich so aus, dass mindestens Mehrwerte bei neu und dauerhaft einer Bauzone zugewiesenem Boden ausgeglichen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1ter RPG",
+        "content": "Der Ertrag wird für Massnahmen nach Absatz 2 oder für weitere Massnahmen der Raumplanung nach Artikel 3, insbesondere Absätze 2 Buchstabe a und 3 Buchstabe abis, verwendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1quater RPG",
+        "content": "Für die Bemessung der Abgabe ist der bei einer Einzonung errechnete Planungsvorteil um den Betrag zu kürzen, welcher innert angemessener Frist zur Beschaffung einer landwirtschaftlichen Ersatzbaute zur Selbstbewirtschaftung verwendet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1quinquies RPG",
+        "content": "Das kantonale Recht kann von der Erhebung der Abgabe absehen, wenn:\na. ein Gemeinwesen abgabepflichtig wäre; oder \nb. der voraussichtliche Abgabeertrag in einem ungünstigen Verhältnis zum Erhebungsaufwand steht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 1sexies RPG",
+        "content": "Die bezahlte Abgabe ist bei der Bemessung einer allfälligen Grundstückgewinnsteuer als Teil der Aufwendungen vom Gewinn in Abzug zu bringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 2 RPG",
+        "content": "Führen Planungen zu Eigentumsbeschränkungen, die einer Enteignung gleichkommen, so wird voll entschädigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 1. Titel: Einleitung, Ausgleich und Entschädigung",
+        "citation": "Art. 5 Abs. 3 RPG",
+        "content": "Die Kantone können vorschreiben, dass die Auszahlung von Entschädigungen bei Eigentumsbeschränkungen im Grundbuch anzumerken ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_5"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Grundlagen",
+        "citation": "Art. 6 Abs. 2 RPG",
+        "content": "Für die Erstellung ihrer Richtpläne erarbeiten die Kantone Grundlagen, in denen sie feststellen, welche Gebiete:\na. sich für die Landwirtschaft eignen;\nb. besonders schön, wertvoll, für die Erholung oder als natürliche Lebensgrundlage bedeutsam sind;\nbbis. sich für die Produktion von Elektrizität aus erneuerbaren Energien eignen;\nc. durch Naturgefahren oder schädliche Einwirkungen erheblich bedroht sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Grundlagen",
+        "citation": "Art. 6 Abs. 3 RPG",
+        "content": "In den Grundlagen geben sie auch Aufschluss über den Stand und die bisherige Entwicklung:\na. ihres Siedlungsgebietes;\nb. des Verkehrs;\nbbis. der Versorgung, insbesondere mit Elektrizität aus erneuerbaren Energien;\nbter. der öffentlichen Bauten und Anlagen;\nc. ihres Kulturlandes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Grundlagen",
+        "citation": "Art. 6 Abs. 4 RPG",
+        "content": "Sie berücksichtigen die Konzepte und Sachpläne des Bundes, die Richtpläne der Nachbarkantone sowie regionale Entwicklungskonzepte und Pläne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_6"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Zusammenarbeit der Behörden",
+        "citation": "Art. 7 Abs. 1 RPG",
+        "content": "Die Kantone arbeiten mit den Behörden des Bundes und der Nachbarkantone zusammen, soweit ihre Aufgaben sich berühren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Zusammenarbeit der Behörden",
+        "citation": "Art. 7 Abs. 2 RPG",
+        "content": "Einigen sich Kantone untereinander oder mit dem Bund nicht darüber, wie raumwirksame Tätigkeiten aufeinander abgestimmt werden, so kann das Bereinigungsverfahren (Art. 12) verlangt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Zusammenarbeit der Behörden",
+        "citation": "Art. 7 Abs. 3 RPG",
+        "content": "Die Grenzkantone suchen die Zusammenarbeit mit den regionalen Behörden des benachbarten Auslandes, soweit sich ihre Massnahmen über die Grenzen auswirken können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_7"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Mindestinhalt der Richtpläne",
+        "citation": "Art. 8 Abs. 1 RPG",
+        "content": "Jeder Kanton erstellt einen Richtplan, worin er mindestens festlegt:\na. wie der Kanton sich räumlich entwickeln soll;\nb. wie die raumwirksamen Tätigkeiten im Hinblick auf die anzustrebende Entwicklung aufeinander abgestimmt werden;\nc. in welcher zeitlichen Folge und mit welchen Mitteln vorgesehen ist, die Aufgaben zu erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_8"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Mindestinhalt der Richtpläne",
+        "citation": "Art. 8 Abs. 2 RPG",
+        "content": "Vorhaben mit gewichtigen Auswirkungen auf Raum und Umwelt bedürfen einer Grundlage im Richtplan.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_8"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Richtplaninhalt im Bereich Siedlung",
+        "citation": "Art. 8a Abs. 1 RPG",
+        "content": "Der Richtplan legt im Bereich Siedlung insbesondere fest:\na. wie gross die Siedlungsfläche insgesamt sein soll, wie sie im Kanton verteilt sein soll und wie ihre Erweiterung regional abgestimmt wird;\nb. wie Siedlung und Verkehr aufeinander abgestimmt und eine rationelle sowie flächensparende Erschliessung sichergestellt werden;\nc. wie eine hochwertige Siedlungsentwicklung nach innen bewirkt wird;\nd. wie sichergestellt wird, dass die Bauzonen den Anforderungen von Artikel 15 entsprechen; und\ne. wie die Siedlungserneuerung gestärkt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_8_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Richtplaninhalt im Bereich Energie",
+        "citation": "Art. 8b RPG",
+        "content": "Der Richtplan bezeichnet die für die Nutzung erneuerbarer Energien geeigneten Gebiete und Gewässerstrecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_8_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Verbindlichkeit und Anpassung",
+        "citation": "Art. 9 Abs. 1 RPG",
+        "content": "Richtpläne sind für die Behörden verbindlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Verbindlichkeit und Anpassung",
+        "citation": "Art. 9 Abs. 2 RPG",
+        "content": "Haben sich die Verhältnisse geändert, stellen sich neue Aufgaben oder ist eine gesamthaft bessere Lösung möglich, so werden die Richtpläne überprüft und nötigenfalls angepasst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Verbindlichkeit und Anpassung",
+        "citation": "Art. 9 Abs. 3 RPG",
+        "content": "Richtpläne werden in der Regel alle zehn Jahre gesamthaft überprüft und nötigenfalls überarbeitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_9"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Zuständigkeit und Verfahren",
+        "citation": "Art. 10 Abs. 1 RPG",
+        "content": "Die Kantone ordnen Zuständigkeit und Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_10"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Zuständigkeit und Verfahren",
+        "citation": "Art. 10 Abs. 2 RPG",
+        "content": "Sie regeln, wie die Gemeinden, andere Träger raumwirksamer Aufgaben sowie die beschwerdeberechtigten Umwelt-, Natur- und Heimatschutzorganisationen nach Artikel 55 des Umweltschutzgesetzes vom 7. Oktober 1983 und nach Artikel 12 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz beim Erarbeiten der Richtpläne mitwirken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_10"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Genehmigung des Bundesrates",
+        "citation": "Art. 11 Abs. 1 RPG",
+        "content": "Der Bundesrat genehmigt die Richtpläne und ihre Anpassungen, wenn sie diesem Gesetz entsprechen, namentlich die raumwirksamen Aufgaben des Bundes und der Nachbarkantone sachgerecht berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_11"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Genehmigung des Bundesrates",
+        "citation": "Art. 11 Abs. 2 RPG",
+        "content": "Für den Bund und die Nachbarkantone werden Richtpläne erst mit der Genehmigung durch den Bundesrat verbindlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_11"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Bereinigung",
+        "citation": "Art. 12 Abs. 1 RPG",
+        "content": "Kann der Bundesrat Richtpläne oder Teile davon nicht genehmigen, so ordnet er nach Anhören der Beteiligten eine Einigungsverhandlung an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Bereinigung",
+        "citation": "Art. 12 Abs. 2 RPG",
+        "content": "Für die Dauer der Einigungsverhandlung verfügt er, dass nichts unternommen wird, was ihren Ausgang nachteilig beeinflussen könnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 1. Kapitel: Richtpläne der Kantone, Bereinigung",
+        "citation": "Art. 12 Abs. 3 RPG",
+        "content": "Kommt keine Einigung zustande, so entscheidet der Bundesrat, spätestens drei Jahre nachdem er die Einigungsverhandlung angeordnet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_12"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 2. Kapitel: Besondere Massnahmen des Bundes, Konzepte und Sachpläne",
+        "citation": "Art. 13 Abs. 1 RPG",
+        "content": "Der Bund erarbeitet Grundlagen, um seine raumwirksamen Aufgaben erfüllen zu können; er erstellt die nötigen Konzepte und Sachpläne und stimmt sie aufeinander ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_13"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 2. Kapitel: Besondere Massnahmen des Bundes, Konzepte und Sachpläne",
+        "citation": "Art. 13 Abs. 2 RPG",
+        "content": "Er arbeitet mit den Kantonen zusammen und gibt ihnen seine Konzepte, Sachpläne und Bauvorhaben rechtzeitig bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_13"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Begriff",
+        "citation": "Art. 14 Abs. 1 RPG",
+        "content": "Nutzungspläne ordnen die zulässige Nutzung des Bodens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_14"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Begriff",
+        "citation": "Art. 14 Abs. 2 RPG",
+        "content": "Sie unterscheiden vorab Bau-, Landwirtschafts- und Schutzzonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_14"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauzonen",
+        "citation": "Art. 15 Abs. 1 RPG",
+        "content": "Die Bauzonen sind so festzulegen, dass sie dem voraussichtlichen Bedarf für 15 Jahre entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauzonen",
+        "citation": "Art. 15 Abs. 2 RPG",
+        "content": "Überdimensionierte Bauzonen sind zu reduzieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauzonen",
+        "citation": "Art. 15 Abs. 3 RPG",
+        "content": "Lage und Grösse der Bauzonen sind über die Gemeindegrenzen hinaus abzustimmen; dabei sind die Ziele und Grundsätze der Raumplanung zu befolgen. Insbesondere sind die Fruchtfolgeflächen zu erhalten sowie Natur und Landschaft zu schonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauzonen",
+        "citation": "Art. 15 Abs. 4 RPG",
+        "content": "Land kann neu einer Bauzone zugewiesen werden, wenn:\na. es sich für die Überbauung eignet;\nb. es auch im Fall einer konsequenten Mobilisierung der inneren Nutzungsreserven in den bestehenden Bauzonen voraussichtlich innerhalb von 15 Jahren benötigt, erschlossen und überbaut wird;\nc. Kulturland damit nicht zerstückelt wird;\nd. seine Verfügbarkeit rechtlich sichergestellt ist; und\ne. damit die Vorgaben des Richtplans umgesetzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauzonen",
+        "citation": "Art. 15 Abs. 5 RPG",
+        "content": "Bund und Kantone erarbeiten zusammen technische Richtlinien für die Zuweisung von Land zu den Bauzonen, namentlich die Berechnung des Bedarfs an Bauzonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Förderung der Verfügbarkeit von Bauland",
+        "citation": "Art. 15a Abs. 1 RPG",
+        "content": "Die Kantone treffen in Zusammenarbeit mit den Gemeinden die Massnahmen, die notwendig sind, um die Bauzonen ihrer Bestimmung zuzuführen, insbesondere bodenrechtliche Massnahmen wie Landumlegungen (Art. 20).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Förderung der Verfügbarkeit von Bauland",
+        "citation": "Art. 15a Abs. 2 RPG",
+        "content": "Das kantonale Recht sieht vor, dass, wenn das öffentliche Interesse es rechtfertigt, die zuständige Behörde eine Frist für die Überbauung eines Grundstücks setzen und, wenn die Frist unbenützt verstreicht, bestimmte Massnahmen anordnen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_15_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Landwirtschaftszonen",
+        "citation": "Art. 16 Abs. 1 RPG",
+        "content": "Landwirtschaftszonen dienen der langfristigen Sicherung der Ernährungsbasis des Landes, der Erhaltung der Landschaft und des Erholungsraums oder dem ökologischen Ausgleich und sollen entsprechend ihren verschiedenen Funktionen von Überbauungen weitgehend freigehalten werden. Sie umfassen Land, das:\na. sich für die landwirtschaftliche Bewirtschaftung oder den produzierenden Gartenbau eignet und zur Erfüllung der verschiedenen Aufgaben der Landwirtschaft benötigt wird; oder\nb. im Gesamtinteresse landwirtschaftlich bewirtschaftet werden soll.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Landwirtschaftszonen",
+        "citation": "Art. 16 Abs. 2 RPG",
+        "content": "Soweit möglich werden grössere zusammenhängende Flächen ausgeschieden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Landwirtschaftszonen",
+        "citation": "Art. 16 Abs. 3 RPG",
+        "content": "Die Kantone tragen in ihren Planungen den verschiedenen Funktionen der Landwirtschaftszone angemessen Rechnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Zonenkonforme Bauten und Anlagen in der Landwirtschaftszone",
+        "citation": "Art. 16a Abs. 1 RPG",
+        "content": "Zonenkonform sind Bauten und Anlagen, die zur landwirtschaftlichen Bewirtschaftung oder für den produzierenden Gartenbau nötig sind. Vorbehalten bleibt eine engere Umschreibung der Zonenkonformität im Rahmen von Artikel 16 Absatz 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Zonenkonforme Bauten und Anlagen in der Landwirtschaftszone",
+        "citation": "Art. 16a Abs. 1bis RPG",
+        "content": "Bauten und Anlagen, die zur Gewinnung von Energie aus Biomasse oder für damit im Zusammenhang stehende Kompostanlagen nötig sind, können auf einem Landwirtschaftsbetrieb als zonenkonform bewilligt werden, wenn die verarbeitete Biomasse einen engen Bezug zur Landwirtschaft sowie zum Standortbetrieb hat. Die Bewilligungen sind mit der Bedingung zu verbinden, dass die Bauten und Anlagen nur zum bewilligten Zweck verwendet werden dürfen. Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Zonenkonforme Bauten und Anlagen in der Landwirtschaftszone",
+        "citation": "Art. 16a Abs. 2 RPG",
+        "content": "Bauten und Anlagen, die der inneren Aufstockung eines landwirtschaftlichen oder eines dem produzierenden Gartenbau zugehörigen Betriebs dienen, sind zonenkonform. Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Zonenkonforme Bauten und Anlagen in der Landwirtschaftszone",
+        "citation": "Art. 16a Abs. 3 RPG",
+        "content": "Bauten und Anlagen, die über eine innere Aufstockung hinausgehen, können als zonenkonform bewilligt werden, wenn sie in einem Gebiet der Landwirtschaftszone erstellt werden sollen, das vom Kanton in einem Planungsverfahren dafür freigegeben wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauten und Anlagen für die Haltung und Nutzung von Pferden",
+        "citation": "Art. 16abis Abs. 1 RPG",
+        "content": "Bauten und Anlagen, die zur Haltung von Pferden nötig sind, werden auf einem bestehenden landwirtschaftlichen Gewerbe im Sinne des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht als zonenkonform bewilligt, wenn dieses Gewerbe über eine überwiegend betriebseigene Futtergrundlage und Weiden für die Pferdehaltung verfügt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauten und Anlagen für die Haltung und Nutzung von Pferden",
+        "citation": "Art. 16abis Abs. 2 RPG",
+        "content": "Für die Nutzung der auf dem Betrieb gehaltenen Pferde können Plätze mit befestigtem Boden bewilligt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauten und Anlagen für die Haltung und Nutzung von Pferden",
+        "citation": "Art. 16abis Abs. 3 RPG",
+        "content": "Mit der Nutzung der Pferde unmittelbar zusammenhängende Einrichtungen wie Sattelkammern oder Umkleideräume werden bewilligt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Bauten und Anlagen für die Haltung und Nutzung von Pferden",
+        "citation": "Art. 16abis Abs. 4 RPG",
+        "content": "Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_a_bis"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Benutzungsverbot und Beseitigung",
+        "citation": "Art. 16b Abs. 1 RPG",
+        "content": "Bauten und Anlagen, die nicht mehr zonenkonform verwendet werden und für die eine Nutzung im Sinne der Artikel 24–24e nicht zulässig ist, dürfen nicht mehr benutzt werden. Dieses Verbot entfällt, sobald sie wieder zonenkonform genutzt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Benutzungsverbot und Beseitigung",
+        "citation": "Art. 16b Abs. 2 RPG",
+        "content": "Wurde die Bewilligung befristet oder mit einer auflösenden Bedingung erteilt, so sind die Bauten und Anlagen bei Wegfall der Bewilligung zu beseitigen, und der frühere Zustand ist wiederherzustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_16_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Schutzzonen",
+        "citation": "Art. 17 Abs. 1 RPG",
+        "content": "Schutzzonen umfassen:\na. Bäche, Flüsse, Seen und ihre Ufer;\nb. besonders schöne sowie naturkundlich oder kulturgeschichtlich wertvolle Landschaften;\nc. bedeutende Ortsbilder, geschichtliche Stätten sowie Natur- und Kulturdenkmäler;\nd. Lebensräume für schutzwürdige Tiere und Pflanzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_17"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Schutzzonen",
+        "citation": "Art. 17 Abs. 2 RPG",
+        "content": "Statt Schutzzonen festzulegen, kann das kantonale Recht andere geeignete Massnahmen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_17"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Weitere Zonen und Gebiete",
+        "citation": "Art. 18 Abs. 1 RPG",
+        "content": "Das kantonale Recht kann weitere Nutzungszonen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Weitere Zonen und Gebiete",
+        "citation": "Art. 18 Abs. 2 RPG",
+        "content": "Es kann Vorschriften enthalten über Gebiete, deren Nutzung noch nicht bestimmt ist oder in denen eine bestimmte Nutzung erst später zugelassen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Weitere Zonen und Gebiete",
+        "citation": "Art. 18 Abs. 3 RPG",
+        "content": "Das Waldareal ist durch die Forstgesetzgebung umschrieben und geschützt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Solaranlagen",
+        "citation": "Art. 18a Abs. 1 RPG",
+        "content": "In Bau- und in Landwirtschaftszonen bedürfen auf Dächern genügend angepasste Solaranlagen keiner Baubewilligung nach Artikel 22 Absatz 1. Solche Vorhaben sind lediglich der zuständigen Behörde zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Solaranlagen",
+        "citation": "Art. 18a Abs. 2 RPG",
+        "content": "Das kantonale Recht kann:\na. bestimmte, ästhetisch wenig empfindliche Typen von Bauzonen festlegen, in denen auch andere Solaranlagen ohne Baubewilligung erstellt werden können;\nb. in klar umschriebenen Typen von Schutzzonen eine Baubewilligungspflicht vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Solaranlagen",
+        "citation": "Art. 18a Abs. 3 RPG",
+        "content": "Solaranlagen auf Kultur- und Naturdenkmälern von kantonaler oder nationaler Bedeutung bedürfen stets einer Baubewilligung. Sie dürfen solche Denkmäler nicht wesentlich beeinträchtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Solaranlagen",
+        "citation": "Art. 18a Abs. 4 RPG",
+        "content": "Ansonsten gehen die Interessen an der Nutzung der Solarenergie auf bestehenden oder neuen Bauten den ästhetischen Anliegen grundsätzlich vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_18_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Erschliessung",
+        "citation": "Art. 19 Abs. 1 RPG",
+        "content": "Land ist erschlossen, wenn die für die betreffende Nutzung hinreichende Zufahrt besteht und die erforderlichen Wasser-, Energie- sowie Abwasserleitungen so nahe heranführen, dass ein Anschluss ohne erheblichen Aufwand möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Erschliessung",
+        "citation": "Art. 19 Abs. 2 RPG",
+        "content": "Das Gemeinwesen hat die Bauzonen innerhalb der im Erschliessungsprogramm vorgesehenen Frist zu erschliessen; es kann die Erschliessung bei Bedarf etappieren. Das kantonale Recht regelt die Beiträge der Grundeigentümer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Erschliessung",
+        "citation": "Art. 19 Abs. 3 RPG",
+        "content": "Erschliesst das Gemeinwesen Bauzonen nicht fristgerecht, so ist den Grundeigentümern zu gestatten, ihr Land nach den vom Gemeinwesen genehmigten Plänen selber zu erschliessen oder die Erschliessung durch das Gemeinwesen nach den Bestimmungen des kantonalen Rechts zu bevorschussen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_19"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 1. Abschnitt: Zweck und Inhalt, Landumlegung",
+        "citation": "Art. 20 RPG",
+        "content": "Die Landumlegung kann von Amtes wegen angeordnet und auch durchgeführt werden, wenn Nutzungspläne dies erfordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_20"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Verbindlichkeit und Anpassung",
+        "citation": "Art. 21 Abs. 1 RPG",
+        "content": "Nutzungspläne sind für jedermann verbindlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_21"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Verbindlichkeit und Anpassung",
+        "citation": "Art. 21 Abs. 2 RPG",
+        "content": "Haben sich die Verhältnisse erheblich geändert, so werden die Nutzungspläne überprüft und nötigenfalls angepasst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_21"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Baubewilligung",
+        "citation": "Art. 22 Abs. 1 RPG",
+        "content": "Bauten und Anlagen dürfen nur mit behördlicher Bewilligung errichtet oder geändert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Baubewilligung",
+        "citation": "Art. 22 Abs. 2 RPG",
+        "content": "Voraussetzung einer Bewilligung ist, dass:\na. die Bauten und Anlagen dem Zweck der Nutzungszone entsprechen; und\nb. das Land erschlossen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Baubewilligung",
+        "citation": "Art. 22 Abs. 3 RPG",
+        "content": "Die übrigen Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_22"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Ausnahmen innerhalb der Bauzonen",
+        "citation": "Art. 23 RPG",
+        "content": "Ausnahmen innerhalb der Bauzonen regelt das kantonale Recht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_23"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Ausnahmen für Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24 RPG",
+        "content": "Abweichend von Artikel 22 Absatz 2 Buchstabe a können Bewilligungen erteilt werden, Bauten und Anlagen zu errichten oder ihren Zweck zu ändern, wenn:\na. der Zweck der Bauten und Anlagen einen Standort ausserhalb der Bauzonen erfordert; und\nb. keine überwiegenden Interessen entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Zweckänderungen ohne bauliche Massnahmen ausserhalb der Bauzonen",
+        "citation": "Art. 24a Abs. 1 RPG",
+        "content": "Erfordert die Änderung des Zwecks einer Baute oder Anlage ausserhalb der Bauzonen keine baulichen Massnahmen im Sinne von Artikel 22 Absatz 1, so ist die Bewilligung zu erteilen, wenn:\na. dadurch keine neuen Auswirkungen auf Raum, Erschliessung und Umwelt entstehen; und\nb. sie nach keinem anderen Bundeserlass unzulässig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Zweckänderungen ohne bauliche Massnahmen ausserhalb der Bauzonen",
+        "citation": "Art. 24a Abs. 2 RPG",
+        "content": "Die Ausnahmebewilligung ist unter dem Vorbehalt zu erteilen, dass bei veränderten Verhältnissen von Amtes wegen neu verfügt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 1 RPG",
+        "content": "Können landwirtschaftliche Gewerbe im Sinne des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht ohne ein Zusatzeinkommen nicht weiter bestehen, so können bauliche Massnahmen zur Einrichtung eines betriebsnahen nichtlandwirtschaftlichen Nebenbetriebs in bestehenden Bauten und Anlagen bewilligt werden. Die Anforderung nach Artikel 24 Buchstabe a muss nicht erfüllt sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 1bis RPG",
+        "content": "Unabhängig vom Erfordernis eines Zusatzeinkommens können Nebenbetriebe mit einem engen sachlichen Bezug zum landwirtschaftlichen Gewerbe bewilligt werden; dafür können massvolle Erweiterungen zugelassen werden, sofern in den bestehenden Bauten und Anlagen kein oder zu wenig Raum zur Verfügung steht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 1ter RPG",
+        "content": "Bei temporären Betriebszentren können bauliche Massnahmen nur in den bestehenden Bauten und Anlagen und nur für gastwirtschaftliche Nebenbetriebe bewilligt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 1quater RPG",
+        "content": "Um Wettbewerbsverzerrungen zu vermeiden, müssen nichtlandwirtschaftliche Nebenbetriebe den gleichen gesetzlichen Anforderungen und Rahmenbedingungen genügen wie Gewerbebetriebe in vergleichbaren Situationen in den Bauzonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 2 RPG",
+        "content": "Der Nebenbetrieb darf nur vom Bewirtschafter oder von der Bewirtschafterin des landwirtschaftlichen Gewerbes beziehungsweise von der Lebenspartnerin oder dem Lebenspartner geführt werden. Personal, das überwiegend oder ausschliesslich für den Nebenbetrieb tätig ist, darf nur für Nebenbetriebe nach Absatz 1bis angestellt werden. In jedem Fall muss die in diesem Betriebsteil anfallende Arbeit zum überwiegenden Teil durch die Bewirtschafterfamilie geleistet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 3 RPG",
+        "content": "Die Existenz des Nebenbetriebs ist im Grundbuch anzumerken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 4 RPG",
+        "content": "Nichtlandwirtschaftliche Nebenbetriebe bilden Bestandteile des landwirtschaftlichen Gewerbes und unterstehen dem Realteilungs- und Zerstückelungsverbot nach den Artikeln 58–60 des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Nichtlandwirtschaftliche Nebenbetriebe ausserhalb der Bauzonen",
+        "citation": "Art. 24b Abs. 5 RPG",
+        "content": "Die Bestimmungen des Bundesgesetzes vom 4. Oktober 1991 über das bäuerliche Bodenrecht betreffend die nichtlandwirtschaftlichen Nebengewerbe finden auf die Nebenbetriebe keine Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_b"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24c Abs. 1 RPG",
+        "content": "Bestimmungsgemäss nutzbare Bauten und Anlagen ausserhalb der Bauzonen, die nicht mehr zonenkonform sind, werden in ihrem Bestand grundsätzlich geschützt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24c Abs. 2 RPG",
+        "content": "Solche Bauten und Anlagen können mit Bewilligung der zuständigen Behörde erneuert, teilweise geändert, massvoll erweitert oder wiederaufgebaut werden, sofern sie rechtmässig erstellt oder geändert worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24c Abs. 3 RPG",
+        "content": "Dies gilt auch für landwirtschaftliche Wohnbauten sowie angebaute Ökonomiebauten, die rechtmässig erstellt oder geändert worden sind, bevor das betreffende Grundstück Bestandteil des Nichtbaugebietes im Sinne des Bundesrechts wurde. Der Bundesrat erlässt Vorschriften, um negative Auswirkungen auf die Landwirtschaft zu vermeiden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24c Abs. 4 RPG",
+        "content": "Veränderungen am äusseren Erscheinungsbild müssen für eine zeitgemässe Wohnnutzung oder eine energetische Sanierung nötig oder darauf ausgerichtet sein, die Einpassung in die Landschaft zu verbessern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Bestehende zonenwidrige Bauten und Anlagen ausserhalb der Bauzonen",
+        "citation": "Art. 24c Abs. 5 RPG",
+        "content": "In jedem Fall bleibt die Vereinbarkeit mit den wichtigen Anliegen der Raumplanung vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_c"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Landwirtschaftsfremde Wohnnutzung und schützenswerte Bauten und Anlagen",
+        "citation": "Art. 24d Abs. 1 RPG",
+        "content": "In landwirtschaftlichen Wohnbauten, die in ihrer Substanz erhalten sind, können landwirtschaftsfremde Wohnnutzungen zugelassen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Landwirtschaftsfremde Wohnnutzung und schützenswerte Bauten und Anlagen",
+        "citation": "Art. 24d Abs. 2 RPG",
+        "content": "Die vollständige Zweckänderung von als schützenswert anerkannten Bauten und Anlagen kann zugelassen werden, wenn:\na. diese von der zuständigen Behörde unter Schutz gestellt worden sind; und\nb. ihre dauernde Erhaltung nicht anders sichergestellt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Landwirtschaftsfremde Wohnnutzung und schützenswerte Bauten und Anlagen",
+        "citation": "Art. 24d Abs. 3 RPG",
+        "content": "Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn:\na. die Baute oder Anlage für den bisherigen Zweck nicht mehr benötigt wird, für die vorgesehene Nutzung geeignet ist und keine Ersatzbaute zur Folge hat, die nicht notwendig ist;\nb. die äussere Erscheinung und die bauliche Grundstruktur im Wesentlichen unverändert bleiben;\nc. höchstens eine geringfügige Erweiterung der bestehenden Erschliessung notwendig ist und sämtliche Infrastrukturkosten, die im Zusammenhang mit der vollständigen Zweckänderung der Bauten und Anlagen anfallen, auf deren Eigentümer überwälzt werden;\nd. die landwirtschaftliche Bewirtschaftung des umliegenden Grundstücks nicht gefährdet ist;\ne. keine überwiegenden Interessen entgegenstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_d"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 1 RPG",
+        "content": "Bauliche Massnahmen werden bewilligt in unbewohnten Gebäuden oder Gebäudeteilen, die in ihrer Substanz erhalten sind, wenn sie Bewohnern oder Bewohnerinnen einer nahe gelegenen Wohnbaute zur hobbymässigen Tierhaltung dienen und eine tierfreundliche Haltung gewährleisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 2 RPG",
+        "content": "Im Rahmen von Absatz 1 werden neue Aussenanlagen bewilligt, soweit sie für eine tiergerechte Haltung notwendig sind. Im Interesse einer tierfreundlichen Haltung können solche Anlagen grösser als die gesetzlichen Mindestmasse dimensioniert werden, soweit dies mit den wichtigen Anliegen der Raumplanung vereinbar ist und die Anlage reversibel erstellt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 3 RPG",
+        "content": "Die Aussenanlagen können für die hobbymässige Beschäftigung mit den Tieren genutzt werden, soweit damit keine baulichen Änderungen verbunden sind und keine neuen Auswirkungen auf Raum und Umwelt entstehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 4 RPG",
+        "content": "Einzäunungen, die der Beweidung dienen und nicht mit nachteiligen Auswirkungen auf die Landschaft verbunden sind, werden auch dann bewilligt, wenn die Tiere in der Bauzone gehalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 5 RPG",
+        "content": "Bewilligungen nach diesem Artikel dürfen nur erteilt werden, wenn die Voraussetzungen von Artikel 24d Absatz 3 erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 2. Abschnitt: Wirkungen, Hobbymässige Tierhaltung",
+        "citation": "Art. 24e Abs. 6 RPG",
+        "content": "Der Bundesrat regelt die Einzelheiten. Er legt namentlich fest, in welchem Verhältnis die Änderungsmöglichkeiten nach diesem Artikel zu denjenigen nach Artikel 24c und nach Artikel 24d Absatz 1 stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_24_e"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Kantonale Zuständigkeiten",
+        "citation": "Art. 25 Abs. 1 RPG",
+        "content": "Die Kantone ordnen Zuständigkeiten und Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Kantonale Zuständigkeiten",
+        "citation": "Art. 25 Abs. 1bis RPG",
+        "content": "Sie legen für alle Verfahren zur Errichtung, Änderung oder Zweckänderung von Bauten und Anlagen Fristen und deren Wirkungen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Kantonale Zuständigkeiten",
+        "citation": "Art. 25 Abs. 2 RPG",
+        "content": "Die zuständige kantonale Behörde entscheidet bei allen Bauvorhaben ausserhalb der Bauzonen, ob sie zonenkonform sind oder ob für sie eine Ausnahmebewilligung erteilt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Grundsätze der Koordination",
+        "citation": "Art. 25a Abs. 1 RPG",
+        "content": "Erfordert die Errichtung oder die Änderung einer Baute oder Anlage Verfügungen mehrerer Behörden, so ist eine Behörde zu bezeichnen, die für ausreichende Koordination sorgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Grundsätze der Koordination",
+        "citation": "Art. 25a Abs. 2 RPG",
+        "content": "Die für die Koordination verantwortliche Behörde:\na. kann die erforderlichen verfahrensleitenden Anordnungen treffen;\nb. sorgt für eine gemeinsame öffentliche Auflage aller Gesuchsunterlagen;\nc. holt von allen beteiligten kantonalen und eidgenössischen Behörden umfassende Stellungnahmen zum Vorhaben ein;\nd. sorgt für eine inhaltliche Abstimmung sowie möglichst für eine gemeinsame oder gleichzeitige Eröffnung der Verfügungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Grundsätze der Koordination",
+        "citation": "Art. 25a Abs. 3 RPG",
+        "content": "Die Verfügungen dürfen keine Widersprüche enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Grundsätze der Koordination",
+        "citation": "Art. 25a Abs. 4 RPG",
+        "content": "Diese Grundsätze sind auf das Nutzungsplanverfahren sinngemäss anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_25_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Genehmigung der Nutzungspläne durch eine kantonale Behörde",
+        "citation": "Art. 26 Abs. 1 RPG",
+        "content": "Eine kantonale Behörde genehmigt die Nutzungspläne und ihre Anpassungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Genehmigung der Nutzungspläne durch eine kantonale Behörde",
+        "citation": "Art. 26 Abs. 2 RPG",
+        "content": "Sie prüft diese auf ihre Übereinstimmung mit den vom Bundesrat genehmigten kantonalen Richtplänen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Genehmigung der Nutzungspläne durch eine kantonale Behörde",
+        "citation": "Art. 26 Abs. 3 RPG",
+        "content": "Mit der Genehmigung durch die kantonale Behörde werden die Nutzungspläne verbindlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_26"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Planungszonen",
+        "citation": "Art. 27 Abs. 1 RPG",
+        "content": "Müssen Nutzungspläne angepasst werden oder liegen noch keine vor, so kann die zuständige Behörde für genau bezeichnete Gebiete Planungszonen bestimmen. Innerhalb der Planungszonen darf nichts unternommen werden, was die Nutzungsplanung erschweren könnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_27"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Planungszonen",
+        "citation": "Art. 27 Abs. 2 RPG",
+        "content": "Planungszonen dürfen für längstens fünf Jahre bestimmt werden; das kantonale Recht kann eine Verlängerung vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_27"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 2. Titel: Massnahmen der Raumplanung, 3. Kapitel: Nutzungspläne, 3. Abschnitt: Zuständigkeit und Verfahren, Einschränkende Bestimmungen der Kantone zum Bauen ausserhalb der Bauzonen",
+        "citation": "Art. 27a RPG",
+        "content": "Auf dem Weg der kantonalen Gesetzgebung können einschränkende Bestimmungen erlassen werden zu den Artikeln 16a Absatz 2, 24b, 24c und 24d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_27_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 3. Titel: Bundesbeiträge, Beiträge an Entschädigungen für Schutzmassnahmen",
+        "citation": "Art. 29 RPG",
+        "content": "Der Bund kann an Entschädigungen für besonders bedeutsame Schutzmassnahmen nach Artikel 17 Beiträge leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_29"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 3. Titel: Bundesbeiträge, Beiträge an Projekte",
+        "citation": "Art. 29a Abs. 1 RPG",
+        "content": "Der Bund kann in Zusammenarbeit mit den Kantonen, Städten und Gemeinden Projekte fördern, die nachhaltig der Verbesserung der Wohnqualität und des gesellschaftlichen Zusammenhalts in Wohngebieten dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_29_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 3. Titel: Bundesbeiträge, Beiträge an Projekte",
+        "citation": "Art. 29a Abs. 2 RPG",
+        "content": "Das Bundesamt für Raumentwicklung koordiniert diese Förderung mit den betroffenen Bundesstellen und stellt eine systematische Auswertung der Erfahrungen sicher.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_29_a"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 3. Titel: Bundesbeiträge, Voraussetzung für andere Beiträge",
+        "citation": "Art. 30 RPG",
+        "content": "Der Bund macht die Leistung von Beiträgen an raumwirksame Massnahmen nach andern Bundesgesetzen davon abhängig, dass diese den genehmigten Richtplänen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_30"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 4. Titel: Organisation, Kantonale Fachstellen",
+        "citation": "Art. 31 RPG",
+        "content": "Die Kantone bezeichnen eine Fachstelle für Raumplanung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_31"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 4. Titel: Organisation, Fachstelle des Bundes",
+        "citation": "Art. 32 RPG",
+        "content": "Fachstelle des Bundes ist das Bundesamt für Raumentwicklung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_32"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Kantonales Recht",
+        "citation": "Art. 33 Abs. 1 RPG",
+        "content": "Nutzungspläne werden öffentlich aufgelegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Kantonales Recht",
+        "citation": "Art. 33 Abs. 2 RPG",
+        "content": "Das kantonale Recht sieht wenigstens ein Rechtsmittel vor gegen Verfügungen und Nutzungspläne, die sich auf dieses Gesetz und seine kantonalen und eidgenössischen Ausführungsbestimmungen stützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Kantonales Recht",
+        "citation": "Art. 33 Abs. 3 RPG",
+        "content": "Es gewährleistet:\na. die Legitimation mindestens im gleichen Umfang wie für die Beschwerde in öffentlich-rechtlichen Angelegenheiten an das Bundesgericht;\nb. die volle Überprüfung durch wenigstens eine Beschwerdebehörde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Kantonales Recht",
+        "citation": "Art. 33 Abs. 4 RPG",
+        "content": "Für die Anfechtung von Verfügungen kantonaler Behörden, auf welche Artikel 25a Absatz 1 Anwendung findet, sind einheitliche Rechtsmittelinstanzen vorzusehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_33"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Bundesrecht",
+        "citation": "Art. 34 Abs. 1 RPG",
+        "content": "Für die Rechtsmittel an Bundesbehörden gelten die allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_34"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Bundesrecht",
+        "citation": "Art. 34 Abs. 2 RPG",
+        "content": "Kantone und Gemeinden sind zur Beschwerde berechtigt gegen Entscheide letzter kantonaler Instanzen über:\na. Entschädigungen als Folge von Eigentumsbeschränkungen (Art. 5);\nb. die Zonenkonformität von Bauten und Anlagen ausserhalb der Bauzonen;\nc. Bewilligungen im Sinne der Artikel 24–24d und 37a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_34"
+    },
+    {
+        "book": "RPG",
+        "title": "RPG, 5. Titel: Rechtsschutz, Bundesrecht",
+        "citation": "Art. 34 Abs. 3 RPG",
+        "content": "Das Bundesamt für Landwirtschaft ist zur Beschwerde berechtigt gegen Entscheide über Vorhaben, die Fruchtfolgeflächen beanspruchen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1979/1573_1573_1573/de#art_34"
+    }
+]

@@ -1,0 +1,681 @@
+[
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Oggetto",
+        "citation": "Art. 1 Sortenschutzgesetz",
+        "content": "La presente legge disciplina la protezione delle nuove varietà in esecuzione della Convenzione internazionale del 2 dicembre 1961 per la protezione delle novità vegetali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_1"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Definizioni",
+        "citation": "Art. 2 cpv. 1 Sortenschutzgesetz",
+        "content": "Per varietà s’intende una comunità vegetale all’interno di un unico taxon botanico del grado più basso conosciuto il quale può essere:\na. definito mediante le caratteristiche risultanti da un determinato genotipo o da una determinata combinazione di genotipi;\nb. distinto almeno per una delle caratteristiche di cui alla lettera a da ogni altra comunità vegetale; e\nc. considerato un’unità, data la sua idoneità a moltiplicarsi senza alterazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_2"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Definizioni",
+        "citation": "Art. 2 cpv. 2 Sortenschutzgesetz",
+        "content": "Una varietà s’intende derivata essenzialmente da un’altra varietà (varietà iniziale) quando:\na. è derivata in maniera preponderante dalla varietà iniziale o da una varietà che a sua volta proviene in maniera preponderante dalla varietà iniziale;\nb. si distingue nettamente dalla varietà iniziale; e\nc. a prescindere dalle differenze risultanti dal processo di derivazione, corrisponde alla varietà iniziale nelle caratteristiche essenziali riconducibili al genotipo o alla combinazione di genotipi della varietà iniziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_2"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Definizioni",
+        "citation": "Art. 2 cpv. 3 Sortenschutzgesetz",
+        "content": "Per materiale di riproduzione o moltiplicazione s’intendono le sementi, i tuberi-seme, i nesti, i portainnesto e tutte le altri parti di piante, compreso il materiale prodotto in vitro, che sono previsti per la moltiplicazione, la semina, l’impianto o il reimpianto di una coltura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_2"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Domicilio all’estero",
+        "citation": "Art. 3 Sortenschutzgesetz",
+        "content": "Chi non ha né domicilio né sede in Svizzera deve farsi rappresentare da un mandatario domiciliato in Svizzera nelle procedure promosse conformemente alla presente legge dinanzi alle autorità amministrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_3"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo I. Disposizioni generali, ..., Riserva di trattati internazionali",
+        "citation": "Art. 4 Sortenschutzgesetz",
+        "content": "I depositanti della domanda del titolo di protezione e coloro che già lo posseggono possono invocare le disposizioni del testo, ratificato da ultimo dalla Svizzera, di convenzioni multilaterali, se siffatte disposizioni sono più favorevoli di quelle della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_4"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Principio",
+        "citation": "Art. 5 cpv. 1 Sortenschutzgesetz",
+        "content": "La protezione delle varietà garantisce che nessuno, senza il consenso del suo titolare, possa:\na. produrre, moltiplicare o preparare a scopo di riproduzione o moltiplicazione,\nb. offrire,\nc. vendere o distribuire in altro modo,\nd. esportare o importare e\ne. conservare per uno degli scopi menzionati nelle lettere a–d,materiale di riproduzione o moltiplicazione della varietà protetta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_5"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Principio",
+        "citation": "Art. 5 cpv. 2 Sortenschutzgesetz",
+        "content": "Il capoverso 1 si applica pure a:\na. varietà derivate essenzialmente dalla varietà protetta, nella misura in cui la varietà protetta, a sua volta, non sia essenzialmente una varietà derivata;\nb. varietà che non si distinguono chiaramente dalla varietà protetta;\nc. varietà la cui produzione richiede l’utilizzazione costante della varietà protetta;\nd. prodotto del raccolto della varietà protetta o di una varietà di cui alle lettere a–c, se, per la sua produzione, è stato utilizzato materiale di riproduzione o moltiplicazione senza il consenso del titolare della protezione della varietà e questi non aveva un’adeguata opportunità per far valere il suo diritto riguardo a tale utilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_5"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Eccezioni",
+        "citation": "Art. 6 Sortenschutzgesetz",
+        "content": "Il consenso del titolare della protezione della varietà non è necessario per operazioni di cui all’articolo 5:\na. in ambito privato a scopi non commerciali; \nb. a fini sperimentali; \nc. allo scopo di creare nuove varietà mediante una varietà protetta, nonché per operazioni menzionate nell’articolo 5 capoverso 1 riguardanti queste varietà, tranne nel caso in cui si tratti di varietà di cui all’articolo 5 capoverso 2 lettere a–c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_6"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Privilegio degli agricoltori",
+        "citation": "Art. 7 cpv. 1 Sortenschutzgesetz",
+        "content": "Gli agricoltori che hanno acquistato dal titolare della protezione della varietà o con il suo consenso materiale di riproduzione o moltiplicazione di una varietà agricola protetta possono moltiplicare nella propria azienda il prodotto del raccolto ivi ottenuto mediante la coltivazione di questo materiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_7"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Privilegio degli agricoltori",
+        "citation": "Art. 7 cpv. 2 Sortenschutzgesetz",
+        "content": "Il Consiglio federale stabilisce le specie vegetali che beneficiano del privilegio degli agricoltori; a tale proposito considera in particolare la loro importanza quale materia prima per le derrate alimentari e i foraggi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_7"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Nullità di intese",
+        "citation": "Art. 8 Sortenschutzgesetz",
+        "content": "Le intese contrattuali che limitano o sopprimono le eccezioni alla protezione delle varietà previste negli articoli 6 e 7 sono nulle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Esaurimento della protezione delle varietà",
+        "citation": "Art. 8a cpv. 1 Sortenschutzgesetz",
+        "content": "La protezione delle varietà di cui all’articolo 5 è esaurita quando il materiale è venduto o distribuito in altro modo dal titolare della protezione della varietà o con il suo consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione I: Effetti della protezione delle varietà, Esaurimento della protezione delle varietà",
+        "citation": "Art. 8a cpv. 2 Sortenschutzgesetz",
+        "content": "La protezione delle varietà non è esaurita se:\na. si procede a una nuova riproduzione o moltiplicazione della relativa varietà senza che, al momento della consegna, il materiale fosse destinato a tale scopo;\nb. vi è stata un’esportazione di materiale della varietà in un Paese che non protegge le varietà della relativa specie e il materiale esportato non è destinato al consumo finale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione II: Varietà suscettibili di protezione",
+        "citation": "Art. 8b cpv. 1 Sortenschutzgesetz",
+        "content": "La protezione è concessa a tutte le varietà nuove, distinguibili, omogenee e stabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione II: Varietà suscettibili di protezione",
+        "citation": "Art. 8b cpv. 2 Sortenschutzgesetz",
+        "content": "La varietà è nuova se non è stato venduto o consegnato in altro modo dal costitutore o con il suo consenso, a fini di utilizzazione della varietà, alcun materiale di riproduzione o moltiplicazione o prodotto del raccolto della varietà in Svizzera per più di un anno e all’estero per più di quattro anni prima del deposito della domanda di protezione della varietà. Per gli alberi e le viti venduti o consegnati in altro modo all’estero il termine è di sei anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione II: Varietà suscettibili di protezione",
+        "citation": "Art. 8b cpv. 3 Sortenschutzgesetz",
+        "content": "La varietà è distinguibile se si contraddistingue chiaramente da qualsiasi altra varietà la cui esistenza è generalmente nota al momento in cui è depositata la domanda di protezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione II: Varietà suscettibili di protezione",
+        "citation": "Art. 8b cpv. 4 Sortenschutzgesetz",
+        "content": "La varietà è omogenea se, a prescindere da differenze prevedibili legate alle particolarità della sua riproduzione o moltiplicazione, è sufficientemente uniforme nelle sue caratteristiche essenziali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione II: Varietà suscettibili di protezione",
+        "citation": "Art. 8b cpv. 5 Sortenschutzgesetz",
+        "content": "La varietà è stabile se le sue caratteristiche essenziali rimangono inalterate dopo diverse riproduzioni o moltiplicazioni successive o, nel caso di un particolare ciclo di riproduzione o moltiplicazione, alla fine di ogni ciclo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_8_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Principio",
+        "citation": "Art. 9 cpv. 1 Sortenschutzgesetz",
+        "content": "Il diritto alla protezione di una varietà spetta al costitutore o al suo avente causa. L’articolo 332 del Codice delle obbligazioni è applicabile per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_9"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Principio",
+        "citation": "Art. 9 cpv. 2 Sortenschutzgesetz",
+        "content": "Se più persone hanno creato insieme una varietà, il diritto spetta loro in comune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_9"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Principio",
+        "citation": "Art. 9 cpv. 3 Sortenschutzgesetz",
+        "content": "Se la varietà è stata creata da più persone indipendentemente l’una dall’altra, il diritto spetta a quella che può invocare un deposito anteriore, ovvero un deposito che fruisce di una priorità anteriore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_9"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Posizione del depositante",
+        "citation": "Art. 10 Sortenschutzgesetz",
+        "content": "Il depositante di una varietà è, fino a prova del contrario, legittimato a chiedere la protezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_10"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Diritto di priorità",
+        "citation": "Art. 11 cpv. 1 Sortenschutzgesetz",
+        "content": "Chiunque deposita una varietà entro 12 mesi a decorrere dal momento in cui egli stesso o il suo dante causa ha depositato regolarmente la prima domanda all’estero fruisce di un diritto di priorità per il primo deposito. In tal caso non sono opponibili al secondo deposito i fatti sopravvenuti posteriormente al primo deposito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_11"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione III: Diritto alla protezione, Diritto di priorità",
+        "citation": "Art. 11 cpv. 2 Sortenschutzgesetz",
+        "content": "Il diritto di priorità dev’essere rivendicato al momento del deposito della varietà. L’Ufficio può esigere i documenti che comprovano il deposito della prima domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_11"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Denominazione della varietà",
+        "citation": "Art. 12 cpv. 1 Sortenschutzgesetz",
+        "content": "La varietà dev’essere provvista di una denominazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_12"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Denominazione della varietà",
+        "citation": "Art. 12 cpv. 2 Sortenschutzgesetz",
+        "content": "La denominazione della varietà non può:\na. essere fuorviante o confondibile con un’altra denominazione depositata o iscritta in uno Stato o in un’organizzazione interstatale che fa parte dell’Unione internazionale per la protezione delle novità vegetali, per una varietà della stessa specie o di una specie botanica affine;\nb. violare l’ordine pubblico, i buoni costumi, il diritto federale o i trattati internazionali;\nc. consistere unicamente in cifre, tranne nel caso in cui la denominazione mediante cifre sia una prassi consolidata per le varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_12"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Denominazione della varietà",
+        "citation": "Art. 12 cpv. 3 Sortenschutzgesetz",
+        "content": "Se la stessa varietà è già stata depositata o iscritta in uno Stato o un’organizzazione interstatale di cui al capoverso 2 lettera a, la denominazione della varietà ivi utilizzata va ripresa, sempre che non risulti inadeguata per motivi linguistici o per altri motivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_12"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Utilizzazione della denominazione della varietà",
+        "citation": "Art. 13 cpv. 1 Sortenschutzgesetz",
+        "content": "Chi offre o commercializza professionalmente materiale di riproduzione o moltiplicazione deve utilizzare la denominazione della varietà anche qualora la durata della protezione sia scaduta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_13"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Utilizzazione della denominazione della varietà",
+        "citation": "Art. 13 cpv. 2 Sortenschutzgesetz",
+        "content": "Sono fatti salvi i diritti di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_13"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Modifica della denominazione della varietà",
+        "citation": "Art. 13a Sortenschutzgesetz",
+        "content": "Una volta rilasciata la protezione della varietà, l’Ufficio può modificare la denominazione della varietà soltanto:\na. sulla base di una sentenza passata in giudicato;\nb. se un terzo rende verosimile un diritto contrario e il titolare della protezione acconsente alla modifica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_13_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione IV: Denominazione della varietà e marchi, Marchio",
+        "citation": "Art. 13b Sortenschutzgesetz",
+        "content": "Una varietà protetta può essere messa in commercio anche con un marchio o un’altra denominazione commerciale che si distingue nettamente dalla denominazione della varietà. A questo riguardo, la denominazione della varietà dev’essere chiaramente riconoscibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_13_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Scadenza della durata di protezione",
+        "citation": "Art. 14 Sortenschutzgesetz",
+        "content": "La protezione della varietà termina alla fine del 25° anno civile successivo al suo rilascio, ma per varietà di viti e specie arboree alla fine del 30°.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_14"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Estinzione prematura",
+        "citation": "Art. 15 cpv. 1 Sortenschutzgesetz",
+        "content": "Il titolo di protezione della varietà si estingue se il titolare vi rinuncia mediante dichiarazione scritta all’Ufficio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_15"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Estinzione prematura",
+        "citation": "Art. 15 cpv. 2 Sortenschutzgesetz",
+        "content": "La rinuncia può essere revocata finché l’Ufficio non l’ha pubblicata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_15"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Dichiarazione di nullità",
+        "citation": "Art. 16 cpv. 1 Sortenschutzgesetz",
+        "content": "Su istanza, il giudice dichiara nullo il titolo di protezione se è accertato che:\na. al momento del rilascio della protezione, la varietà non era nuova o non era distinguibile;\nb. al momento del rilascio della protezione, la varietà non era omogenea o non era stabile e il rilascio della protezione era avvenuto essenzialmente sulla base delle informazioni fornite dal richiedente e dei documenti presentati;\nc. la protezione della varietà era stata rilasciata a un non avente diritto e questi non l’ha trasferita all’avente diritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_16"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Dichiarazione di nullità",
+        "citation": "Art. 16 cpv. 2 Sortenschutzgesetz",
+        "content": "Ha diritto all’azione chiunque dimostri interesse alla dichiarazione di nullità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_16"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Revoca",
+        "citation": "Art. 17 cpv. 1 Sortenschutzgesetz",
+        "content": "Il titolo di protezione della varietà è revocato dall’Ufficio se:\na. il titolare non presenta, entro il termine prescritto dall’Ufficio e dopo intimazione, il materiale di riproduzione o moltiplicazione, i documenti e le informazioni necessari al controllo;\nb. il titolare non paga l’emolumento annuo nemmeno dopo l’avvenuta intimazione;\nc. si constata che la varietà non è più omogenea o non è più stabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_17"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione V: Modifiche nell’esistenza della protezione, Revoca",
+        "citation": "Art. 17 cpv. 2 Sortenschutzgesetz",
+        "content": "La revoca del titolo di protezione diviene efficace con l’iscrizione nel registro dei titoli di protezione delle varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_17"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Trasferimento",
+        "citation": "Art. 18 cpv. 1 Sortenschutzgesetz",
+        "content": "Il diritto al rilascio del titolo di protezione e alla protezione della varietà è trasferibile e suscettibile tutto o in parte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_18"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Trasferimento",
+        "citation": "Art. 18 cpv. 2 Sortenschutzgesetz",
+        "content": "All’acquirente in buona fede di diritti alla protezione, i diritti dei terzi sono opponibili soltanto se iscritti nel registro dei titoli di protezione delle varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_18"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Cessione",
+        "citation": "Art. 19 cpv. 1 Sortenschutzgesetz",
+        "content": "Quando la domanda del titolo di protezione è stata depositata da una persona che non aveva diritto alla protezione della varietà, l’avente diritto può chiedere la cessione della domanda oppure proporre l’azione per la cessione del titolo già rilasciato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_19"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Cessione",
+        "citation": "Art. 19 cpv. 2 Sortenschutzgesetz",
+        "content": "L’azione dev’essere promossa entro due anni a contare dalla data di pubblicazione della protezione della varietà. L’azione contro il convenuto in malafede è sempre ammissibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_19"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Cessione",
+        "citation": "Art. 19 cpv. 3 Sortenschutzgesetz",
+        "content": "Accolta l’azione, decadono i diritti che il convenuto ha concesso a terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_19"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Espropriazione",
+        "citation": "Art. 20 cpv. 1 Sortenschutzgesetz",
+        "content": "Se l’approvvigionamento del Paese lo esige, il Consiglio federale può ordinare l’espropriazione totale o parziale del titolo di protezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_20"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VI: Modifiche concernenti il diritto al rilascio del titolo di protezione e il diritto alla protezione delle varietà, Espropriazione",
+        "citation": "Art. 20 cpv. 2 Sortenschutzgesetz",
+        "content": "L’espropriato ha diritto a indennità piena. In caso di contestazione, essa è stabilita dal Tribunale federale. Il capo II della legge federale del 20 giugno 1930 sull’espropriazione è applicabile per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_20"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Concessione contrattuale di licenze",
+        "citation": "Art. 21 cpv. 1 Sortenschutzgesetz",
+        "content": "Il possessore del titolo di protezione può autorizzare terzi a utilizzare la varietà protetta (concessione di licenze). Se la varietà appartiene a più persone in comune, la licenza può essere concessa solo con il consenso di tutti gli interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_21"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Concessione contrattuale di licenze",
+        "citation": "Art. 21 cpv. 2 Sortenschutzgesetz",
+        "content": "All’acquirente in buona fede di diritti sul titolo di protezione le licenze sono opponibili soltanto se iscritte nel registro dei titoli della protezione delle varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_21"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Licenza d’interesse pubblico",
+        "citation": "Art. 22 Sortenschutzgesetz",
+        "content": "Se richiesto dall’interesse pubblico, la persona la cui domanda di licenza è stata respinta senza sufficienti motivi dal titolare della protezione della varietà può rivolgersi al giudice per ottenere una licenza non esclusiva e non trasferibile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Licenza per brevetto dipendente",
+        "citation": "Art. 22a cpv. 1 Sortenschutzgesetz",
+        "content": "Se il brevetto relativo a un’invenzione che concerne materiale biologico non può essere utilizzato senza violare un diritto di protezione della varietà rilasciato precedentemente, il titolare del brevetto ha diritto a una licenza non esclusiva nella misura necessaria all’utilizzazione del suo brevetto, sempre che l’invenzione rappresenti un progresso rilevante di notevole importanza economica rispetto alla varietà vegetale protetta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Licenza per brevetto dipendente",
+        "citation": "Art. 22a cpv. 2 Sortenschutzgesetz",
+        "content": "In compenso, il titolare della protezione della varietà può esigere che il titolare del brevetto gli rilasci una licenza per l’utilizzazione del suo diritto di brevetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 1 Sortenschutzgesetz",
+        "content": "Le licenze secondo gli articoli 22 e 22a sono rilasciate se gli sforzi del richiedente per ottenere una licenza contrattuale ad adeguate condizioni di mercato entro un adeguato termine sono rimasti infruttuosi. Simili sforzi non sono necessari in caso di emergenza nazionale o di assoluta urgenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 2 Sortenschutzgesetz",
+        "content": "Portata e durata delle licenze sono limitate allo scopo per il quale le licenze sono state concesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 3 Sortenschutzgesetz",
+        "content": "Le licenze possono essere trasferite solo con la parte dell’azienda a cui si riferisce la loro utilizzazione. Ciò vale anche per le sottolicenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 4 Sortenschutzgesetz",
+        "content": "Le licenze sono rilasciate prevalentemente per l’approvvigionamento del mercato interno.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 5 Sortenschutzgesetz",
+        "content": "A richiesta, il giudice revoca la licenza all’avente diritto se le circostanze che hanno portato al suo rilascio non sono più date e non vi è da prevedere che si verifichino nuovamente. È fatta salva un’adeguata protezione dei legittimi interessi dell’avente diritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 6 Sortenschutzgesetz",
+        "content": "Il titolare della protezione della varietà ha diritto a un adeguato compenso. Nel calcolo sono considerate le circostanze del singolo caso e il valore economico della licenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 7 Sortenschutzgesetz",
+        "content": "Il giudice decide circa il rilascio e la revoca della licenza, la sua portata e durata nonché il compenso da versare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo Ia: Protezione delle varietà, Sezione VII: Licenze, Procedura giudiziaria",
+        "citation": "Art. 22b cpv. 8 Sortenschutzgesetz",
+        "content": "Se l’azione appare giustificata, il giudice può, dopo aver sentito il convenuto, concedere la licenza con riserva della decisione definitiva, se l’attore lo richiede e fornisce al convenuto un’adeguata garanzia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_22_b"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione I: Organizzazione e competenze, Ufficio della protezione delle varietà",
+        "citation": "Art. 23 Sortenschutzgesetz",
+        "content": "Salvo che la presente legge non disponga altrimenti, l’Ufficio è competente per il rilascio del titolo di protezione e per tutte le questioni connesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_23"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione I: Organizzazione e competenze, Servizio incaricato dell’esame",
+        "citation": "Art. 24 cpv. 1 Sortenschutzgesetz",
+        "content": "L’Ufficio affida a una stazione federale di ricerche agrarie o a un altro servizio appropriato il compito di esaminare se la varietà è distinguibile, omogenea e stabile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_24"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione I: Organizzazione e competenze, Servizio incaricato dell’esame",
+        "citation": "Art. 24 cpv. 2 Sortenschutzgesetz",
+        "content": "L’Ufficio può riconoscere i risultati di esami condotti da servizi esteri, sempre che i loro metodi d’esame siano conformi alle esigenze della presente legge e alle disposizioni che ne derivano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_24"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Forma della domanda e data del deposito",
+        "citation": "Art. 26 cpv. 1 Sortenschutzgesetz",
+        "content": "Chiunque vuole far proteggere una varietà deve depositare all’Ufficio, nella forma prescritta, una domanda corredata delle indicazioni e dei documenti richiesti e pagare la tassa di deposito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_26"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Forma della domanda e data del deposito",
+        "citation": "Art. 26 cpv. 2 Sortenschutzgesetz",
+        "content": "Data del deposito della domanda è considerato il momento in cui è depositato l’inserto completo e pagata la tassa prescritta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_26"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Procedura di rettificazione",
+        "citation": "Art. 27 cpv. 1 Sortenschutzgesetz",
+        "content": "La domanda manchevole deve, su invito dell’Ufficio, essere messa in regola. L’Ufficio ha diritto di esigere altre rettificazioni in qualsiasi tempo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_27"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Procedura di rettificazione",
+        "citation": "Art. 27 cpv. 2 Sortenschutzgesetz",
+        "content": "Se alle manchevolezze non è stato ovviato entro il termine stabilito, la domanda è respinta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_27"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Pubblicazione della domanda",
+        "citation": "Art. 28 cpv. 1 Sortenschutzgesetz",
+        "content": "La domanda depositata regolarmente è pubblicata dall’Ufficio. Devono per lo meno essere pubblicati:\na. la data del deposito;\nb. il nome o la ditta e l’indirizzo del depositante e, all’occorrenza, del suo mandatario;\nc. il nome o la ditta e l’indirizzo del costitutore, se questi non è il depositante;\nd. la proposta per la denominazione della varietà;\ne. il genere o la specie cui appartiene la varietà;\nf. all’occorrenza, il Paese e la data di priorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_28"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Pubblicazione della domanda",
+        "citation": "Art. 28 cpv. 2 Sortenschutzgesetz",
+        "content": "Se, dopo la pubblicazione, la domanda è ritirata o respinta o il contenuto successivamente modificato, ne sarà fatta pertinente pubblicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_28"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Obiezioni",
+        "citation": "Art. 29 cpv. 1 Sortenschutzgesetz",
+        "content": "Ognuno può, nei tre mesi dalla pubblicazione, muovere obiezioni all’ Ufficio contro il deposito della domanda. Le obiezioni devono essere presentate per scritto e motivate. I documenti e le piante probatori devono essere allegati o indicati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_29"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Obiezioni",
+        "citation": "Art. 29 cpv. 2 Sortenschutzgesetz",
+        "content": "Le obiezioni possono fondarsi soltanto sull’allegazione che la varietà depositata non è suscettibile di protezione secondo l’articolo 8b o che la denominazione non è ammissibile secondo l’articolo 12.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_29"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Obiezioni",
+        "citation": "Art. 29 cpv. 3 Sortenschutzgesetz",
+        "content": "Il depositante può esprimersi sulle obiezioni. Deve dichiarare se mantiene, modifica o ritira la domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_29"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Esame della varietà",
+        "citation": "Art. 30 cpv. 1 Sortenschutzgesetz",
+        "content": "Entro il termine prescritto, il depositante trasmette al servizio incaricato dell’esame il materiale di riproduzione o moltiplicazione indispensabile e gli fornisce tutte le informazioni necessarie, autorizzandolo a verificarle. Il depositante che rivendica la priorità del deposito secondo l’articolo 11 deve fornire il materiale di riproduzione o moltiplicazione entro due anni dalla scadenza del termine di priorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_30"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Esame della varietà",
+        "citation": "Art. 30 cpv. 2 Sortenschutzgesetz",
+        "content": "Il servizio incaricato dell’esame raccoglie i risultati in un rapporto d’esame. Se la varietà è suscettibile di protezione, ne descrive le caratteristiche in una descrizione ufficiale della varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_30"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Esame della varietà",
+        "citation": "Art. 30 cpv. 3 Sortenschutzgesetz",
+        "content": "Se il servizio incaricato dell’esame sottopone la varietà a prove di coltura, il depositante ha diritto di seguire le prove sul posto e di esprimersi sui risultati dell’esame",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_30"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Concessione della protezione",
+        "citation": "Art. 31 cpv. 1 Sortenschutzgesetz",
+        "content": "Ad esame avvenuto, l’Ufficio concede la protezione se tutte le condizioni sono adempiute; in caso diverso, respinge la domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_31"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Concessione della protezione",
+        "citation": "Art. 31 cpv. 2 Sortenschutzgesetz",
+        "content": "La protezione è concessa, senza garanzia della Confederazione, con l’iscrizione del titolo di protezione della varietà nel registro. Come titolo di protezione, il depositante riceve un estratto del registro (titolo di protezione della varietà).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_31"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Concessione della protezione",
+        "citation": "Art. 31 cpv. 3 Sortenschutzgesetz",
+        "content": "Fino a prova del contrario, il titolo rilasciato è considerato legittimo e il titolare l’avente diritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_31"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione II:, Deposito della domanda, esame della varietà e rilascio della protezione della varietà, Titolo estero di protezione delle varietà",
+        "citation": "Art. 31a Sortenschutzgesetz",
+        "content": "Il Consiglio federale disciplina il riconoscimento di titoli di protezione delle varietà rilasciati da Stati con esigenze comparabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_31_a"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Contenuto del registro",
+        "citation": "Art. 32 cpv. 1 Sortenschutzgesetz",
+        "content": "L’Ufficio tiene un registro in cui sono iscritte le protezioni concesse con le indicazioni richieste, segnatamente:\na. la denominazione delle varietà;\nb. la descrizione delle varietà;\nc. il nome o la ditta e l’indirizzo del possessore del titolo di protezione e del suo mandatario eventuale;\nd. il nome o la ditta e l’indirizzo del costitutore, se questi non è il possessore del titolo di protezione;\ne. la data del deposito e della pubblicazione;\nf. all’occorrenza, il Paese e la data di priorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_32"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Contenuto del registro",
+        "citation": "Art. 32 cpv. 2 Sortenschutzgesetz",
+        "content": "Sono inoltre iscritte tutte le modifiche inerenti all’esistenza del titolo di protezione o al diritto alla protezione. I tribunali trasmettono gratuitamente all’Ufficio una copia integrale delle sentenze passate in giudicato riferentesi a siffatte modifiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_32"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Contenuto del registro",
+        "citation": "Art. 32 cpv. 3 Sortenschutzgesetz",
+        "content": "L’Ufficio, previa comunicazione al possessore del titolo di protezione, può completare la descrizione di una varietà se la descrizione di un’altra varietà lo rende necessario.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_32"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Pubblicazione",
+        "citation": "Art. 33 cpv. 1 Sortenschutzgesetz",
+        "content": "L’Ufficio pubblica le iscrizioni eseguite nel registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_33"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Pubblicazione",
+        "citation": "Art. 33 cpv. 2 Sortenschutzgesetz",
+        "content": "Nessuno può obiettare di aver ignorato un’iscrizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_33"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Pubblicità del registro",
+        "citation": "Art. 34 cpv. 1 Sortenschutzgesetz",
+        "content": "Verso pagamento di una tassa, chiunque può consultare il registro o informarsi sul suo contenuto e chiedere estratti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_34"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Pubblicità del registro",
+        "citation": "Art. 34 cpv. 2 Sortenschutzgesetz",
+        "content": "I documenti del registro, eccetto il rapporto del servizio incaricato dell’esame, sono confidenziali. I terzi possono prenderne visione soltanto con il consenso del possessore del titolo di protezione. Ai tribunali non occorre tale consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_34"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Conservazione degli atti",
+        "citation": "Art. 35 Sortenschutzgesetz",
+        "content": "L’Ufficio conserva fino allo spirare del termine di cinque anni a contare dalla scadenza della protezione gli atti inerenti ai titoli di protezione, in originale o in copia e illimitatamente il registro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_35"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Tasse",
+        "citation": "Art. 36 cpv. 1 Sortenschutzgesetz",
+        "content": "Per il rilascio del titolo di protezione, i servizi competenti riscuotono le tasse seguenti:\na. la tassa di deposito;\nb. le tasse per l’esame della varietà;\nc. le tasse annuali per la durata della protezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_36"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Tasse",
+        "citation": "Art. 36 cpv. 2 Sortenschutzgesetz",
+        "content": "Le tasse, da pagare in anticipo, sono fissate in modo da coprire le spese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_36"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo II: Organizzazione e procedura, Sezione III: Registro dei titoli di protezione, pubblicazioni e tasse, Tasse",
+        "citation": "Art. 36 cpv. 3 Sortenschutzgesetz",
+        "content": "Il Consiglio federale emana prescrizioni su l’ammontare e la scadenza delle tasse, come pure sui termini di pagamento. Esso può dichiarare tassabili altre prestazioni dei servizi incaricati della protezione delle varietà.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_36"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo III: Protezione di diritto civile, ..., Azione per cessazione dell’atto e per soppressione dello stato di fatto",
+        "citation": "Art. 37 cpv. 1 Sortenschutzgesetz",
+        "content": "Chiunque è minacciato o leso nel suo diritto derivante dal titolo di protezione o nel suo diritto alla denominazione della varietà può domandare la cessazione dell’atto o la soppressione dello stato di fatto illeciti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_37"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo III: Protezione di diritto civile, ..., Diritto d’azione prima del rilascio del titolo di protezione",
+        "citation": "Art. 38 cpv. 1 Sortenschutzgesetz",
+        "content": "Dopo la pubblicazione della domanda e già prima del rilascio del titolo di protezione, il depositante può proporre l’azione per cessazione dell’ atto o soppressione dello stato di fatto illeciti, se fornisce alla controparte garanzie adeguate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_38"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo III: Protezione di diritto civile, ..., Diritto d’azione prima del rilascio del titolo di protezione",
+        "citation": "Art. 38 cpv. 2 Sortenschutzgesetz",
+        "content": "L’azione per risarcimento di danni può essere proposta soltanto dopo il rilascio del titolo di protezione, ma il convenuto può essere obbligato a risarcire il danno cagionato con colpa a decorrere dal momento della pubblicazione della domanda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_38"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo III: Protezione di diritto civile, ..., Provvedimenti cautelari",
+        "citation": "Art. 43 Sortenschutzgesetz",
+        "content": "Chi chiede al giudice di ordinare provvedimenti cautelari può in particolare esigere che il giudice prenda provvedimenti per:\na. assicurare le prove;\nb. accertare la provenienza del materiale designato mediante una denominazione di una varietà protetta in Svizzera;\nc. salvaguardare lo stato di fatto; o\nd. permettere l’esercizio provvisorio di diritti concernenti la cessazione dell’atto o la soppressione dello stato di fatto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_43"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo IV: Protezione di diritto pende, Violazione della protezione delle varietà",
+        "citation": "Art. 48 Sortenschutzgesetz",
+        "content": "1. Chiunque, senza averne diritto, commette atti di cui all’articolo 5 capoverso 1 con materiale di riproduzione o moltiplicazione o prodotto del raccolto di una varietà protetta o di una varietà secondo l’articolo 5 capoverso 2 lettere a–c o usa reiteratamente questo materiale per produrre materiale di riproduzione o moltiplicazione di una nuova varietà, \nè punito, se ha agito intenzionalmente e a querela di chi è stato leso nei suoi diritti, con una pena detentiva sino a un anno o con una pena pecuniaria.\n2. Se l’autore ha agito per negligenza, la pena è della multa.\n3. Il diritto di querela si estingue decorsi sei mesi dal giorno in cui la persona lesa ha conosciuto l’autore dell’infrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_48"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo IV: Protezione di diritto pende, Pubblicità ingannevole e altre contravvenzioni",
+        "citation": "Art. 49 Sortenschutzgesetz",
+        "content": "1. Chiunque, nella pubblicità, sulle carte d’affari o in relazione con i prodotti da lui messi in commercio, dà indicazioni tali da far credere, a torto, che un prodotto sia protetto.\nchiunque non impiega la denominazione della varietà nella commercializzazione di materiale di riproduzione o moltiplicazione di una varietà protetta,\nchiunque impiega per mestiere la denominazione di una varietà protetta o una denominazione che dia adito a confusioni con essa, per un’altra varietà della stessa specie botanica o di una specie botanica vicina,\nchiunque viola altrimenti la presente legge o le pertinenti prescrizioni d’esecuzione,\nè punito con la multa se ha agito intenzionalmente.\n2. Il tentativo e la complicità sono punibili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_49"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo IV: Protezione di diritto pende, Confisca di oggetti",
+        "citation": "Art. 50 Sortenschutzgesetz",
+        "content": "Il giudice, indipendentemente dalla punibilità di una data persona, può ordinare la confisca dei prodotti fabbricati illecitamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_50"
+    },
+    {
+        "book": "Sortenschutzgesetz",
+        "title": "Sortenschutzgesetz, Capitolo IV: Protezione di diritto pende, Procedimento penale",
+        "citation": "Art. 51 Sortenschutzgesetz",
+        "content": "Il procedimento penale incombe ai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1977/862_862_862/it#art_51"
+    }
+]

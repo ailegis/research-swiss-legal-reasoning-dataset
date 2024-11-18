@@ -1,0 +1,506 @@
+[
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Objet",
+        "citation": "Art. 1 LLCA",
+        "content": "La présente loi garantit la libre circulation des avocats et fixe les principes applicables à l’exercice de la profession d’avocat en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_1"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Champ d’application personnel",
+        "citation": "Art. 2 al. 1 LLCA",
+        "content": "La présente loi s’applique aux titulaires d’un brevet d’avocat qui pratiquent, dans le cadre d’un monopole, la représentation en justice en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Champ d’application personnel",
+        "citation": "Art. 2 al. 2 LLCA",
+        "content": "Elle détermine les modalités selon lesquelles les personnes suivantes peuvent pratiquer la représentation en justice:\na. les avocats ressortissants des États membres de l’Union européenne (UE) ou de l’Association européenne de libre-échange (AELE);\nb. les avocats ressortissants du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord auxquels s’applique la quatrième partie de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’Accord sur la libre circulation des personnes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Champ d’application personnel",
+        "citation": "Art. 2 al. 3 LLCA",
+        "content": "Ces modalités s’appliquent également aux ressortissants suisses habilités à exercer la profession d’avocat dans un État membre de l’UE ou de l’AELE sous un titre figurant en annexe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Champ d’application personnel",
+        "citation": "Art. 2 al. 4 LLCA",
+        "content": "Les dispositions concernant les avocats ressortissants des États membres de l’UE ou de l’AELE sont applicables par analogie aux avocats ressortissants du Royaume-Uni visés à l’al. 2, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_2"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Droit cantonal",
+        "citation": "Art. 3 al. 1 LLCA",
+        "content": "Est réservé le droit des cantons de fixer, dans le cadre de la présente loi, les exigences pour l’obtention du brevet d’avocat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_3"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 1, Généralités, Droit cantonal",
+        "citation": "Art. 3 al. 2 LLCA",
+        "content": "Est réservé également le droit des cantons d’autoriser les titulaires des brevets d’avocat qu’ils délivrent à représenter des parties devant leurs propres autorités judiciaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_3"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Principe de la libre circulation entre les cantons",
+        "citation": "Art. 4 LLCA",
+        "content": "Tout avocat inscrit à un registre cantonal des avocats peut pratiquer la représentation en justice en Suisse sans autre autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_4"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Registre cantonal des avocats",
+        "citation": "Art. 5 al. 1 LLCA",
+        "content": "Chaque canton institue un registre des avocats qui disposent d’une adresse professionnelle sur le territoire cantonal et qui remplissent les conditions prévues aux art. 7 et 8.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Registre cantonal des avocats",
+        "citation": "Art. 5 al. 2 LLCA",
+        "content": "Le registre contient les données personnelles suivantes:\na. le nom, le prénom, la date de naissance et le lieu d’origine ou la nationalité;\nb. une copie du brevet d’avocat;\nc. les attestations établissant que les conditions prévues à l’art. 8 sont remplies;\nd. la ou les adresses professionnelles ainsi que, le cas échéant, le nom de l’étude;\ne. les mesures disciplinaires non radiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Registre cantonal des avocats",
+        "citation": "Art. 5 al. 3 LLCA",
+        "content": "Il est tenu par l’autorité chargée de la surveillance des avocats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_5"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Inscription au registre",
+        "citation": "Art. 6 al. 1 LLCA",
+        "content": "L’avocat titulaire d’un brevet d’avocat cantonal qui entend pratiquer la représentation en justice doit demander son inscription au registre du canton dans lequel il a son adresse professionnelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Inscription au registre",
+        "citation": "Art. 6 al. 2 LLCA",
+        "content": "L’autorité de surveillance l’inscrit s’il remplit les conditions prévues aux art. 7 et 8.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Inscription au registre",
+        "citation": "Art. 6 al. 3 LLCA",
+        "content": "Elle publie l’inscription dans un organe cantonal officiel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Inscription au registre",
+        "citation": "Art. 6 al. 4 LLCA",
+        "content": "L’association des avocats du canton concerné dispose d’un droit de recours contre les inscriptions au registre cantonal des avocats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_6"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Conditions de formation",
+        "citation": "Art. 7 al. 1 LLCA",
+        "content": "Pour être inscrit au registre, l’avocat doit être titulaire d’un brevet d’avocat. Les cantons ne peuvent délivrer un tel brevet que si le titulaire a effectué:\na. des études de droit sanctionnées soit par une licence ou un master délivrés par une université suisse, soit par un diplôme équivalent délivré par une université de l’un des États qui ont conclu avec la Suisse un accord de reconnaissance mutuelle des diplômes;\nb. un stage d’une durée d’un an au moins effectué en Suisse et sanctionné par un examen portant sur les connaissances juridiques théoriques et pratiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Conditions de formation",
+        "citation": "Art. 7 al. 2 LLCA",
+        "content": "Les cantons dans lesquels l’italien est langue officielle peuvent reconnaître un diplôme étranger obtenu en langue italienne équivalant à une licence ou à un master.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Conditions de formation",
+        "citation": "Art. 7 al. 3 LLCA",
+        "content": "Le bachelor en droit est une condition suffisante pour l’admission au stage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_7"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Conditions personnelles",
+        "citation": "Art. 8 al. 1 LLCA",
+        "content": "Pour être inscrit au registre, l’avocat doit remplir les conditions personnelles suivantes:\na. avoir l’exercice des droits civils;\nb. ne pas faire l’objet d’une condamnation pénale pour des faits incompatibles avec la profession d’avocat, à moins que cette condamnation ne figure plus sur l’extrait destiné aux particuliers selon l’art. 41 de la loi du 17 juin 2016 sur le casier judiciaire;\nc. ne pas faire l’objet d’un acte de défaut de biens;\nd. être en mesure de pratiquer en toute indépendance; il ne peut être employé que par des personnes elles-mêmes inscrites dans un registre cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_8"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Conditions personnelles",
+        "citation": "Art. 8 al. 2 LLCA",
+        "content": "L’avocat qui est employé par une organisation reconnue d’utilité publique peut demander à être inscrit au registre à condition de remplir les conditions prévues à l’al. 1, let. a à c, et de limiter son activité de défenseur à des mandats concernant strictement le but visé par cette organisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_8"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Radiation du registre",
+        "citation": "Art. 9 LLCA",
+        "content": "L’avocat qui ne remplit plus l’une des conditions d’inscription est radié du registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_9"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Consultation du registre",
+        "citation": "Art. 10 al. 1 LLCA",
+        "content": "Sont admis à consulter le registre:\na. les autorités judiciaires et administratives fédérales et cantonales devant lesquelles l’avocat exerce son activité;\nb. les autorités judiciaires et administratives des États membres de l’UE ou de l’AELE devant lesquelles un avocat inscrit au registre exerce ses activités;\nc. les autorités cantonales de surveillance des avocats;\nd. l’avocat, pour les indications qui le concernent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_10"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Consultation du registre",
+        "citation": "Art. 10 al. 2 LLCA",
+        "content": "Toute personne a le droit de demander si un avocat est inscrit au registre et s’il fait l’objet d’une interdiction de pratiquer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_10"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Communication",
+        "citation": "Art. 10a LLCA",
+        "content": "Les données du registre nécessaires à l’attribution et à l’utilisation du numéro d’identification des entreprises au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises, sont communiquées à l’Office fédéral de la statistique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_10_a"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Titre professionnel",
+        "citation": "Art. 11 al. 1 LLCA",
+        "content": "L’avocat fait usage de son titre professionnel d’origine ou du titre équivalent délivré dans le canton au registre duquel il est inscrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_11"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 2, Libre circulation entre les cantons et registre cantonal des avocats, Titre professionnel",
+        "citation": "Art. 11 al. 2 LLCA",
+        "content": "Dans ses relations d’affaires, il mentionne son inscription à un registre ou un barreau cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_11"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Règles professionnelles",
+        "citation": "Art. 12 LLCA",
+        "content": "L’avocat est soumis aux règles professionnelles suivantes:\na. il exerce sa profession avec soin et diligence;\nb. il exerce son activité professionnelle en toute indépendance, en son nom personnel et sous sa propre responsabilité;\nc. il évite tout conflit entre les intérêts de son client et ceux des personnes avec lesquelles il est en relation sur le plan professionnel ou privé;\nd. il peut faire de la publicité, pour autant que celle-ci se limite à des faits objectifs et qu’elle satisfasse à l’intérêt général;\ne. il ne peut pas, avant la conclusion d’une affaire, passer une convention avec son client par laquelle ce dernier accepterait de faire dépendre les honoraires du résultat de l’affaire; il ne peut pas non plus s’engager à renoncer à ses honoraires en cas d’issue défavorable du procès;\nf. il doit être au bénéfice d’une assurance responsabilité civile professionnelle offrant une couverture adaptée à la nature et à l’étendue des risques liés à son activité; la somme couvrant les événements dommageables pour une année doit s’élever au minimum à un million de francs; des sûretés équivalentes peuvent remplacer l’assurance responsabilité civile;\ng. il est tenu d’accepter les défenses d’office et les mandats d’assistance judiciaire dans le canton au registre duquel il est inscrit;\nh. il conserve séparément les avoirs qui lui sont confiés et son patrimoine;\ni. lorsqu’il accepte un mandat, il informe son client des modalités de facturation et le renseigne périodiquement ou à sa demande sur le montant des honoraires dus;\nj. il communique à l’autorité de surveillance toute modification relative aux indications du registre le concernant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_12"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Secret professionnel",
+        "citation": "Art. 13 al. 1 LLCA",
+        "content": "L’avocat est soumis au secret professionnel pour toutes les affaires qui lui sont confiées par ses clients dans l’exercice de sa profession; cette obligation n’est pas limitée dans le temps et est applicable à l’égard des tiers. Le fait d’être délié du secret professionnel n’oblige pas l’avocat à divulguer des faits qui lui ont été confiés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_13"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Secret professionnel",
+        "citation": "Art. 13 al. 2 LLCA",
+        "content": "Il veille à ce que ses auxiliaires respectent le secret professionnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_13"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Autorité cantonale de surveillance",
+        "citation": "Art. 14 LLCA",
+        "content": "Chaque canton désigne une autorité chargée de la surveillance des avocats qui pratiquent la représentation en justice sur son territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_14"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Devoir de communication",
+        "citation": "Art. 15 al. 1 LLCA",
+        "content": "Les autorités judiciaires et administratives cantonales annoncent sans retard à l’autorité de surveillance de leur canton le défaut d’une condition personnelle au sens de l’art. 8, ou les faits susceptibles de constituer une violation des règles professionnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_15"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Devoir de communication",
+        "citation": "Art. 15 al. 2 LLCA",
+        "content": "Les autorités judiciaires et administratives fédérales annoncent sans retard à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit le défaut d’une condition personnelle au sens de l’art. 8, ou les faits susceptibles de constituer une violation des règles professionnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_15"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Procédure disciplinaire dans un autre canton",
+        "citation": "Art. 16 al. 1 LLCA",
+        "content": "L’autorité de surveillance qui ouvre une procédure disciplinaire contre un avocat non inscrit dans le registre du canton doit en informer l’autorité de surveillance du canton au registre duquel l’avocat est inscrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Procédure disciplinaire dans un autre canton",
+        "citation": "Art. 16 al. 2 LLCA",
+        "content": "Si elle envisage de prononcer une mesure disciplinaire, elle donne à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit la possibilité de déposer ses observations sur le résultat de l’enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Procédure disciplinaire dans un autre canton",
+        "citation": "Art. 16 al. 3 LLCA",
+        "content": "Le résultat de la procédure doit être communiqué à l’autorité de surveillance du canton au registre duquel l’avocat est inscrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_16"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Mesures disciplinaires",
+        "citation": "Art. 17 al. 1 LLCA",
+        "content": "En cas de violation de la présente loi, l’autorité de surveillance peut prononcer les mesures disciplinaires suivantes:\na. l’avertissement;\nb. le blâme;\nc. une amende de 20 000 francs au plus;\nd. l’interdiction temporaire de pratiquer pour une durée maximale de deux ans;\ne. l’interdiction définitive de pratiquer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Mesures disciplinaires",
+        "citation": "Art. 17 al. 2 LLCA",
+        "content": "L’amende peut être cumulée avec une interdiction de pratiquer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Mesures disciplinaires",
+        "citation": "Art. 17 al. 3 LLCA",
+        "content": "Si nécessaire, l’autorité de surveillance peut retirer provisoirement l’autorisation de pratiquer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_17"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Interdiction de pratiquer",
+        "citation": "Art. 18 al. 1 LLCA",
+        "content": "L’interdiction de pratiquer a effet sur tout le territoire suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_18"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Interdiction de pratiquer",
+        "citation": "Art. 18 al. 2 LLCA",
+        "content": "Elle est communiquée aux autorités de surveillance des autres cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_18"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Prescription",
+        "citation": "Art. 19 al. 1 LLCA",
+        "content": "La poursuite disciplinaire se prescrit par un an à compter du jour où l’autorité de surveillance a eu connaissance des faits incriminés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Prescription",
+        "citation": "Art. 19 al. 2 LLCA",
+        "content": "Le délai est interrompu par tout acte d’instruction de l’autorité de surveillance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Prescription",
+        "citation": "Art. 19 al. 3 LLCA",
+        "content": "La poursuite disciplinaire se prescrit en tout cas par dix ans à compter de la commission des faits incriminés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Prescription",
+        "citation": "Art. 19 al. 4 LLCA",
+        "content": "Si la violation des règles professionnelles constitue un acte punissable pénalement, la prescription plus longue prévue par le droit pénal s’applique à la poursuite disciplinaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_19"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Radiation des mesures disciplinaires",
+        "citation": "Art. 20 al. 1 LLCA",
+        "content": "L’avertissement, le blâme et l’amende sont radiés du registre cinq ans après leur prononcé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_20"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 3, Règles professionnelles et surveillance disciplinaire, Radiation des mesures disciplinaires",
+        "citation": "Art. 20 al. 2 LLCA",
+        "content": "L’interdiction temporaire de pratiquer est radiée du registre dix ans après la fin de ses effets.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_20"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Principes",
+        "citation": "Art. 21 al. 1 LLCA",
+        "content": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous l’une des dénominations figurant en annexe peut pratiquer la représentation en justice en Suisse sous la forme de prestation de services.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_21"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Principes",
+        "citation": "Art. 21 al. 2 LLCA",
+        "content": "L’avocat prestataire de services n’est pas inscrit au registre cantonal des avocats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_21"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Devoir de légitimation",
+        "citation": "Art. 22 LLCA",
+        "content": "Les autorités judiciaires fédérales et cantonales devant lesquelles l’avocat prestataire de services exerce son activité ainsi que les autorités de surveillance des avocats peuvent lui demander d’établir sa qualité d’avocat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_22"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Obligation d’agir de concert avec un avocat inscrit au registre",
+        "citation": "Art. 23 LLCA",
+        "content": "Pour les procédures où l’assistance d’un avocat est obligatoire, l’avocat prestataire de services agit de concert avec un avocat inscrit à un registre cantonal des avocats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_23"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Titre professionnel",
+        "citation": "Art. 24 LLCA",
+        "content": "L’avocat prestataire de services fait usage de son titre professionnel d’origine exprimé dans la ou l’une des langues officielles de l’État de provenance, accompagné du nom de l’organisme professionnel dont il relève ou de celui de la juridiction auprès de laquelle il est habilité à exercer en application de la législation de cet État.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_24"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Règles professionnelles",
+        "citation": "Art. 25 LLCA",
+        "content": "L’avocat prestataire de services est soumis aux règles professionnelles prévues à l’art. 12, à l’exception de celles relatives aux défenses d’office et aux mandats d’assistance judiciaire (let. g) ainsi qu’au registre (let. j).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_25"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 4, Prestation de services par les avocats des États membres de l’UE ou de l’AELE, Communication des mesures disciplinaires",
+        "citation": "Art. 26 LLCA",
+        "content": "L’autorité de surveillance informe l’autorité compétente de l’État de provenance des mesures disciplinaires qu’elle a prises à l’encontre de l’avocat prestataire de services.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_26"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Principes",
+        "citation": "Art. 27 al. 1 LLCA",
+        "content": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE habilité à exercer dans son État de provenance sous un titre figurant en annexe peut pratiquer la représentation en justice en Suisse à titre permanent, sous son titre professionnel d’origine, après s’être inscrit au tableau.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_27"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Principes",
+        "citation": "Art. 27 al. 2 LLCA",
+        "content": "Les art. 23 à 25 sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_27"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Inscription au tableau",
+        "citation": "Art. 28 al. 1 LLCA",
+        "content": "L’autorité de surveillance tient un tableau public des avocats des États membres de l’UE ou de l’AELE autorisés à pratiquer la représentation en justice en Suisse de manière permanente sous leur titre d’origine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Inscription au tableau",
+        "citation": "Art. 28 al. 2 LLCA",
+        "content": "L’avocat s’inscrit auprès de l’autorité de surveillance du canton sur le territoire duquel il a une adresse professionnelle. Il établit sa qualité d’avocat en produisant une attestation de son inscription auprès de l’autorité compétente de son État de provenance; cette attestation ne doit pas dater de plus de trois mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Inscription au tableau",
+        "citation": "Art. 28 al. 3 LLCA",
+        "content": "Après avoir inscrit l’avocat au tableau, l’autorité de surveillance en informe l’autorité compétente de l’État de provenance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_28"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Coopération avec l’autorité compétente de l’État de provenance",
+        "citation": "Art. 29 al. 1 LLCA",
+        "content": "Avant d’ouvrir une procédure disciplinaire contre un avocat ressortissant d’un État membre de l’UE ou de l’AELE exerçant de manière permanente en Suisse sous son titre d’origine, l’autorité de surveillance informe l’autorité compétente de l’État de provenance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_29"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 5, Exercice permanent, par les avocats des États membres de l’UE ou de l’AELE, de la profession d’avocat sous leur titre d’origine, Coopération avec l’autorité compétente de l’État de provenance",
+        "citation": "Art. 29 al. 2 LLCA",
+        "content": "L’autorité de surveillance coopère avec l’autorité compétente de l’État de provenance pendant la procédure disciplinaire en lui donnant notamment la possibilité de déposer des observations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_29"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Principes",
+        "citation": "Art. 30 al. 1 LLCA",
+        "content": "L’avocat ressortissant d’un État membre de l’UE ou de l’AELE peut être inscrit à un registre cantonal des avocats sans remplir les conditions prévues à l’art. 7, let. b:\na. s’il a réussi une épreuve d’aptitude (art. 31), ou\nb. s’il a été inscrit pendant trois ans au moins au tableau des avocats pratiquant sous leur titre professionnel d’origine et:\n1. qu’il justifie pendant cette période d’une activité effective et régulière en droit suisse, ou\n2. qu’il justifie d’une activité effective et régulière d’une durée moindre en droit suisse et qu’il a passé avec succès un entretien de vérification de ses compétences professionnelles (art. 32).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_30"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Principes",
+        "citation": "Art. 30 al. 2 LLCA",
+        "content": "Il jouit alors des mêmes droits et obligations qu’un avocat titulaire d’un brevet cantonal inscrit au registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_30"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Épreuve d’aptitude",
+        "citation": "Art. 31 al. 1 LLCA",
+        "content": "Peuvent se présenter à l’épreuve d’aptitude les avocats ressortissants des États membres de l’UE ou de l’AELE qui:\na. ont suivi avec succès un cycle d’études d’une durée minimale de trois ans dans une université et, le cas échéant, la formation complémentaire requise en plus de ce cycle d’études, et\nb. possèdent un diplôme permettant l’exercice de la profession d’avocat dans un État membre de l’UE ou de l’AELE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Épreuve d’aptitude",
+        "citation": "Art. 31 al. 2 LLCA",
+        "content": "La commission des examens d’avocat du canton au registre duquel l’avocat souhaite être inscrit lui fait passer une épreuve d’aptitude.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Épreuve d’aptitude",
+        "citation": "Art. 31 al. 3 LLCA",
+        "content": "L’épreuve porte sur les matières qui figurent au programme de l’examen cantonal d’accès à la profession d’avocat, et qui sont substantiellement différentes de celles comprises dans le cadre de la formation suivie par le candidat dans son État de provenance. Le contenu de l’épreuve est fixé compte tenu également de l’expérience professionnelle du candidat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Épreuve d’aptitude",
+        "citation": "Art. 31 al. 4 LLCA",
+        "content": "L’épreuve d’aptitude peut être repassée deux fois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_31"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Entretien de vérification des compétences professionnelles",
+        "citation": "Art. 32 al. 1 LLCA",
+        "content": "La commission des examens d’avocat du canton au registre duquel l’avocat souhaite être inscrit est compétente pour évaluer les compétences professionnelles de l’avocat lors d’un entretien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Entretien de vérification des compétences professionnelles",
+        "citation": "Art. 32 al. 2 LLCA",
+        "content": "Elle se base notamment sur les informations et les documents produits par l’avocat et relatifs à son activité en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Entretien de vérification des compétences professionnelles",
+        "citation": "Art. 32 al. 3 LLCA",
+        "content": "Elle prend en compte les connaissances et l’expérience professionnelle de l’avocat en droit suisse, ainsi que sa participation à des cours ou des séminaires portant sur le droit suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_32"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 6, Inscription des avocats des États membres de l’UE ou de l’AELE au registre cantonal des avocats, Titre professionnel",
+        "citation": "Art. 33 LLCA",
+        "content": "L’avocat peut utiliser, outre le titre professionnel du canton au registre duquel il est inscrit, son titre professionnel d’origine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_33"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 7, Procédure",
+        "citation": "Art. 34 al. 1 LLCA",
+        "content": "Les cantons règlent la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_34"
+    },
+    {
+        "book": "BGFA",
+        "title": "LLCA, Section 7, Procédure",
+        "citation": "Art. 34 al. 2 LLCA",
+        "content": "Ils prévoient une procédure simple et rapide pour l’examen des conditions d’inscription dans le registre cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/153/fr#art_34"
+    }
+]

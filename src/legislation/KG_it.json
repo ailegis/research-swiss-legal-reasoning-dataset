@@ -1,0 +1,954 @@
+[
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 LCart",
+        "content": "La legge ha lo scopo di impedire gli effetti nocivi di ordine economico o sociale dovuti ai cartelli e alle altre limitazioni della concorrenza e di promuovere in tal modo la concorrenza nell’interesse di un’economia di mercato fondata su un ordine liberale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_1"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 1 LCart",
+        "content": "La presente legge si applica alle imprese di diritto privato e di diritto pubblico che fanno parte di un cartello o di altri accordi in materia di concorrenza, dominano il mercato o partecipano a concentrazioni di imprese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 1bis LCart",
+        "content": "Sono considerati imprese i richiedenti o offerenti di beni e servizi nel processo economico, indipendentemente dal loro statuto giuridico o dalla loro forma organizzativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Campo d’applicazione",
+        "citation": "Art. 2 cpv. 2 LCart",
+        "content": "Essa è applicabile a fattispecie che esplicano i loro effetti in Svizzera, anche se si sono verificate all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Relazioni con altre prescrizioni legali",
+        "citation": "Art. 3 cpv. 1 LCart",
+        "content": "Sono fatte salve le prescrizioni che vietano la concorrenza per determinati beni o servizi su un mercato, in particolare:\na. quelle che fondano un regime statale di mercato o dei prezzi;\nb. quelle che incaricano singole imprese dell’esecuzione di compiti pubblici e accordano loro speciali diritti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Relazioni con altre prescrizioni legali",
+        "citation": "Art. 3 cpv. 2 LCart",
+        "content": "La presente legge non si applica agli effetti della concorrenza dovuti esclusivamente alla legislazione sulla proprietà intellettuale. Per contro, le limitazioni all’importazione fondate sui diritti di proprietà intellettuale sono valutate secondo le disposizioni della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Relazioni con altre prescrizioni legali",
+        "citation": "Art. 3 cpv. 3 LCart",
+        "content": "Le procedure previste dalla presente legge in vista della valutazione delle limitazioni della concorrenza hanno il primato su quelle previste dalla legge federale del 20 dicembre 1985 sulla sorveglianza dei prezzi, salvo disposizione contraria pattuita tra la Commissione della concorrenza e il Sorvegliante dei prezzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 4 cpv. 1 LCart",
+        "content": "Per accordi in materia di concorrenza si intendono le convenzioni con o senza forza obbligatoria, nonché le pratiche concordate da imprese di livello economico identico o diverso, nella misura in cui si prefiggono o provocano una limitazione della concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 4 cpv. 2 LCart",
+        "content": "Per imprese che dominano il mercato si intendono una o più imprese che per il tramite dell’offerta o della domanda sono in grado di comportarsi in modo ampiamente indipendente sul mercato rispetto agli altri partecipanti (concorrenti, fornitori o compratori).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 4 cpv. 2bis LCart",
+        "content": "Per impresa che ha una posizione dominante relativa si intende un’impresa da cui, per la domanda o l’offerta di un bene o un servizio, altre imprese dipendono a tal punto da non avere possibilità sufficienti e ragionevolmente esigibili di rivolgersi a imprese terze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 4 cpv. 3 LCart",
+        "content": "Per concentrazioni di imprese si intendono:\na. la fusione di due o più imprese fino allora indipendenti le une dalle altre;\nb. ogni operazione mediante la quale una o più imprese assumono, in particolare con l’acquisto di una partecipazione al capitale o con la conclusione di un contratto, il controllo diretto o indiretto di una o più imprese fino allora indipendenti o di una parte di esse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Accordi illeciti",
+        "citation": "Art. 5 cpv. 1 LCart",
+        "content": "Sono illeciti gli accordi in materia di concorrenza che intralciano notevolmente la concorrenza sul mercato di determinati beni o servizi e che non sono giustificati da motivi di efficienza economica, nonché quelli che provocano la soppressione di una concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Accordi illeciti",
+        "citation": "Art. 5 cpv. 2 LCart",
+        "content": "Un accordo in materia di concorrenza è considerato giustificato da motivi di efficienza economica:\na. se è necessario per ridurre il costo di produzione o di distribuzione, per migliorare i prodotti o il processo di fabbricazione, per promuovere la ricerca o la diffusione di conoscenze tecniche o professionali o per sfruttare più razionalmente le risorse; e\nb. se non consentirà affatto alle imprese interessate di sopprimere la concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Accordi illeciti",
+        "citation": "Art. 5 cpv. 3 LCart",
+        "content": "È data presunzione della soppressione della concorrenza efficace quando tali accordi, che riuniscono imprese effettivamente o potenzialmente concorrenti:\na. fissano direttamente o indirettamente i prezzi;\nb. limitano i quantitativi di beni o servizi da produrre, acquistare o consegnare;\nc. operano una ripartizione dei mercati per zone o partner commerciali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Accordi illeciti",
+        "citation": "Art. 5 cpv. 4 LCart",
+        "content": "La soppressione di una concorrenza efficace è pure presunta in caso di accordi mediante i quali imprese collocate ai diversi livelli di mercato convengono prezzi minimi o fissi, nonché in caso di accordi relativi all’assegnazione di zone nell’ambito di contratti di distribuzione, per quanto vi si escludano vendite da parte di distributori esterni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Tipi di accordi giustificati",
+        "citation": "Art. 6 cpv. 1 LCart",
+        "content": "Nelle ordinanze o nelle comunicazioni possono essere descritte le esigenze in virtù delle quali gli accordi in materia di concorrenza vengono di norma considerati giustificati da motivi di efficienza economica. A tale scopo vengono in particolare presi in considerazione:\na. gli accordi di cooperazione in materia di ricerca e di sviluppo;\nb. gli accordi di specializzazione e di razionalizzazione, ivi compresi gli accordi concernenti l’utilizzazione di schemi di calcolo;\nc. gli accordi concernenti l’esclusiva di acquisto o di vendita di determinati beni o servizi;\nd. gli accordi concernenti l’esclusiva di concessione di licenze di diritti di proprietà intellettuale;\ne. gli accordi che hanno lo scopo di migliorare la competitività delle piccole e medie imprese, per quanto il loro effetto sul mercato sia limitato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Tipi di accordi giustificati",
+        "citation": "Art. 6 cpv. 2 LCart",
+        "content": "Le ordinanze e le comunicazioni relative a accordi in materia di concorrenza possono considerare di norma giustificate speciali forme di cooperazione in singoli rami economici, in particolare accordi sulla trasposizione razionale di prescrizioni di diritto pubblico per la protezione dei clienti o degli investitori nel settore dei servizi finanziari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Tipi di accordi giustificati",
+        "citation": "Art. 6 cpv. 3 LCart",
+        "content": "Le comunicazioni vengono pubblicate nel Foglio federale da parte della Commissione della concorrenza. Il Consiglio federale emana le ordinanze di cui ai capoversi 1 e 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Pratiche illecite di imprese che dominano il mercato o che hanno una posizione dominante relativa",
+        "citation": "Art. 7 cpv. 1 LCart",
+        "content": "Le pratiche di imprese che dominano il mercato o che hanno una posizione dominante relativa sono considerate illecite se, abusando della loro posizione sul mercato, tali imprese ostacolano l’accesso o l’esercizio della concorrenza delle altre imprese o svantaggiano i partner commerciali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_7"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Pratiche illecite di imprese che dominano il mercato o che hanno una posizione dominante relativa",
+        "citation": "Art. 7 cpv. 2 LCart",
+        "content": "Costituiscono in particolare pratiche del genere:\na. il rifiuto di relazioni commerciali (p. es. il blocco della consegna o dell’acquisto);\nb. la discriminazione di partner commerciali in materia di prezzi o di altre condizioni commerciali;\nc. l’imposizione di prezzi inadeguati o di altre condizioni commerciali inadeguate;\nd. la vendita sotto prezzo o ad altre condizioni commerciali diretta contro determinati concorrenti;\ne. la limitazione della produzione, dello smercio o dello sviluppo tecnico;\nf. la subordinazione della conclusione di contratti all’assunzione o alla fornitura di ulteriori prestazioni da parte del partner;\ng. la limitazione della possibilità per i richiedenti di approvvigionarsi all’estero, ai prezzi e alle condizioni usuali del settore economico ivi praticati, di beni e servizi offerti in Svizzera e all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_7"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 1: Limitazioni illecite della concorrenza, Autorizzazione eccezionale per motivi preponderanti di interesse pubblico",
+        "citation": "Art. 8 LCart",
+        "content": "Gli accordi in materia di concorrenza e le pratiche delle imprese che dominano il mercato, dichiarati illeciti dall’autorità competente, possono essere autorizzati dal Consiglio federale su richiesta degli interessati, se sono eccezionalmente necessari alla realizzazione di interessi pubblici preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_8"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Annuncio di progetti di concentrazione",
+        "citation": "Art. 9 cpv. 1 LCart",
+        "content": "I progetti di concentrazioni di imprese devono essere annunciati alla Commissione della concorrenza prima della loro esecuzione, sempreché durante l’ultimo esercizio prima della concentrazione:\na. le imprese partecipanti abbiano realizzato congiuntamente una cifra d’affari di almeno 2 miliardi di franchi o una cifra d’affari in Svizzera di almeno 500 milioni di franchi; e\nb. almeno due delle imprese partecipanti abbiano realizzato in Svizzera una cifra d’affari di almeno 100 milioni di franchi ognuna.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Annuncio di progetti di concentrazione",
+        "citation": "Art. 9 cpv. 3 LCart",
+        "content": "Nel caso delle compagnie di assicurazione, al posto della cifra d’affari si tiene conto del totale lordo dei premi annui; nel caso delle banche e degli altri intermediari finanziari assoggettati alle regole sulla compilazione dei conti previste nella legge dell’8 novembre 1934 sulle banche, si tiene conto dei ricavi lordi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Annuncio di progetti di concentrazione",
+        "citation": "Art. 9 cpv. 4 LCart",
+        "content": "A prescindere dai capoversi 1 e 3, è dato obbligo di annuncio se risulta da una procedura fondata sulla presente legge e passata in giudicato che un’impresa partecipante alla concentrazione occupa in Svizzera una posizione dominante sul mercato e che la concentrazione concerne questo mercato oppure un mercato situato a monte o a valle o che le è prossimo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Annuncio di progetti di concentrazione",
+        "citation": "Art. 9 cpv. 5 LCart",
+        "content": "Mediante decreti federali di obbligatorietà generale non sottoposti al referendum l’Assemblea federale può:\na. adeguare alle circostanze gli importi stabiliti dai capoversi 1–3;\nb. vincolare a speciali esigenze l’obbligo dell’annuncio per le concentrazioni di imprese in determinati settori economici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Valutazione delle concentrazioni",
+        "citation": "Art. 10 cpv. 1 LCart",
+        "content": "Le concentrazioni sottoposte all’obbligo di annuncio sottostanno ad un esame da parte della Commissione della concorrenza sempreché da un esame preliminare (art. 32 cpv. 1) risulti l’indizio che esse creino o rafforzino una posizione dominante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Valutazione delle concentrazioni",
+        "citation": "Art. 10 cpv. 2 LCart",
+        "content": "La Commissione della concorrenza può vietare la concentrazione o vincolarla a condizioni e oneri, se dall’esame risulta che la concentrazione:\na. crea o rafforza una posizione dominante sul mercato che può sopprimere la concorrenza efficace, e\nb. non provoca su un altro mercato un miglioramento delle condizioni di concorrenza tale da avere il sopravvento sugli svantaggi della posizione dominante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Valutazione delle concentrazioni",
+        "citation": "Art. 10 cpv. 3 LCart",
+        "content": "Nel caso di concentrazioni di banche ai sensi della legge dell’8 novembre 1934 sulle banche che sono reputate necessarie dall’Autorità federale di vigilanza sui mercati finanziari (FINMA) per motivi di protezione dei creditori, gli interessi di questi ultimi possono essere considerati prioritariamente. In tali casi, la FINMA subentra alla Commissione della concorrenza e la invita a prendere posizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Valutazione delle concentrazioni",
+        "citation": "Art. 10 cpv. 4 LCart",
+        "content": "Nella valutazione delle ripercussioni di una concentrazione sull’efficacia della concorrenza, la Commissione della concorrenza tiene parimenti conto dell’evoluzione del mercato nonché della posizione dell’impresa nella concorrenza internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 2: Disposizioni di diritto materiale, Sezione 2: Concentrazioni di imprese, Autorizzazione eccezionale per motivi preponderanti di interesse pubblico",
+        "citation": "Art. 11 LCart",
+        "content": "Le concentrazioni di imprese vietate ai sensi dell’articolo 10 possono essere autorizzate dal Consiglio federale su richiesta delle imprese partecipanti se sono eccezionalmente necessarie alla realizzazione di interessi pubblici preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_11"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Azioni per limitazioni della concorrenza",
+        "citation": "Art. 12 cpv. 1 LCart",
+        "content": "Chiunque è impedito nell’accesso o nell’esercizio della concorrenza da una limitazione illecita della stessa può chiedere:\na. la soppressione o la cessazione dell’ostacolo;\nb. il risarcimento del danno e la riparazione morale secondo il Codice delle obbligazioni;\nc. la consegna dell’utile illecito conformemente alle disposizioni della gestione d’affari senza mandato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Azioni per limitazioni della concorrenza",
+        "citation": "Art. 12 cpv. 2 LCart",
+        "content": "Si considerano in particolare ostacoli alla concorrenza il rifiuto di relazioni commerciali e le misure discriminanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Azioni per limitazioni della concorrenza",
+        "citation": "Art. 12 cpv. 3 LCart",
+        "content": "Le azioni di cui al capoverso 1 competono anche alla persona che per causa di una limitazione lecita della concorrenza subisce un impedimento più grave di quello che esige l’attuazione della limitazione medesima.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Esercizio dell’azione di soppressione e di cessazione",
+        "citation": "Art. 13 LCart",
+        "content": "Per garantire il diritto alla soppressione o alla cessazione della limitazione della concorrenza, il giudice può, su richiesta dell’attore, ordinare in particolare che:\na. i contratti sono in tutto o in parte nulli;\nb. il responsabile della limitazione della concorrenza deve concludere con la persona impedita contratti conformi al mercato e alle condizioni usuali del settore economico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_13"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Valutazione della liceità di una limitazione della concorrenza",
+        "citation": "Art. 15 cpv. 1 LCart",
+        "content": "Se nel caso di una procedura civile sorge una contestazione in merito alla liceità di una limitazione della concorrenza, la causa è trasmessa per parere alla Commissione della concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_15"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 3: Disposizioni di procedura civile, Valutazione della liceità di una limitazione della concorrenza",
+        "citation": "Art. 15 cpv. 2 LCart",
+        "content": "Se una limitazione della concorrenza solitamente considerata illecita è presentata come necessaria per la tutela di interessi pubblici preponderanti, la causa è trasmessa al Consiglio federale per decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_15"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Commissione della concorrenza",
+        "citation": "Art. 18 cpv. 1 LCart",
+        "content": "Il Consiglio federale istituisce la Commissione della concorrenza e designa i membri della presidenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Commissione della concorrenza",
+        "citation": "Art. 18 cpv. 2bis LCart",
+        "content": "I membri della Commissione della concorrenza rendono noti i loro interessi in un registro degli interessi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Commissione della concorrenza",
+        "citation": "Art. 18 cpv. 2 LCart",
+        "content": "La Commissione è composta di 11 a 15 membri. La maggioranza dei membri devono essere esperti indipendenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Commissione della concorrenza",
+        "citation": "Art. 18 cpv. 3 LCart",
+        "content": "La Commissione prende tutte le decisioni che non sono espressamente riservate ad altre autorità. Emana raccomandazioni (art. 45 cpv. 2) e preavvisi (art. 46 cpv. 2) all’indirizzo delle autorità politiche e fornisce pareri (art. 47 cpv. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Organizzazione",
+        "citation": "Art. 19 cpv. 1 LCart",
+        "content": "La Commissione è indipendente dalle autorità amministrative. Essa può strutturarsi in Camere dotate di competenze decisionali autonome. In singoli casi può autorizzare un membro della presidenza a sbrigare direttamente casi urgenti o di secondaria importanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_19"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Organizzazione",
+        "citation": "Art. 19 cpv. 2 LCart",
+        "content": "La Commissione è aggregata amministrativamente al Dipartimento federale dell’economia, della formazione e della ricerca (DEFR).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_19"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Regolamento interno",
+        "citation": "Art. 20 cpv. 1 LCart",
+        "content": "La Commissione emana un regolamento interno che disciplina in particolare i dettagli organizzativi, segnatamente le competenze della presidenza, delle singole camere e del plenum.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_20"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Regolamento interno",
+        "citation": "Art. 20 cpv. 2 LCart",
+        "content": "Il regolamento interno deve essere approvato dal Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_20"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Decisioni",
+        "citation": "Art. 21 cpv. 1 LCart",
+        "content": "La Commissione e le sue camere deliberano validamente se sono presenti almeno la metà dei membri, ma in ogni caso almeno tre membri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_21"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Decisioni",
+        "citation": "Art. 21 cpv. 2 LCart",
+        "content": "Le decisioni sono prese alla maggioranza semplice dei membri presenti; a parità di voti prevale quello del presidente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_21"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Ricusazione di membri della Commissione",
+        "citation": "Art. 22 cpv. 1 LCart",
+        "content": "I membri della Commissione devono ricusarsi qualora sussista un motivo di ricusazione secondo l’articolo 10 della legge federale del 20 dicembre 1968 sulla procedura amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Ricusazione di membri della Commissione",
+        "citation": "Art. 22 cpv. 2 LCart",
+        "content": "Di norma non si considera che un membro della Commissione abbia interessi personali o che sussistano altri motivi di prevenzione se questi rappresenta un’associazione mantello.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Ricusazione di membri della Commissione",
+        "citation": "Art. 22 cpv. 3 LCart",
+        "content": "Se la ricusazione è contestata, la Commissione o la pertinente camera decidono in assenza del membro interessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Compiti della segreteria",
+        "citation": "Art. 23 cpv. 1 LCart",
+        "content": "La segreteria prepara gli affari della Commissione, esegue le inchieste e emana unitamente a un membro della presidenza le necessarie decisioni di procedura. Essa presenta proposte alla Commissione e ne esegue le decisioni. Tratta direttamente con gli interessati, i terzi e le autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_23"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Compiti della segreteria",
+        "citation": "Art. 23 cpv. 2 LCart",
+        "content": "La segreteria allestisce preavvisi (art. 46 cpv. 1) e consiglia i servizi e le imprese su questioni concernenti la presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_23"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Personale della segreteria",
+        "citation": "Art. 24 cpv. 1 LCart",
+        "content": "Il Consiglio federale nomina la direzione e la Commissione il rimanente personale della segreteria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_24"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Personale della segreteria",
+        "citation": "Art. 24 cpv. 2 LCart",
+        "content": "Il rapporto di servizio è disciplinato dalla legislazione sul personale della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_24"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Segreto d’ufficio e d’affari",
+        "citation": "Art. 25 cpv. 1 LCart",
+        "content": "Le autorità in materia di concorrenza serbano il segreto d’ufficio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Segreto d’ufficio e d’affari",
+        "citation": "Art. 25 cpv. 2 LCart",
+        "content": "Quanto appreso nell’esercizio delle loro funzioni può essere utilizzato unicamente per gli scopi perseguiti dalla raccolta d’informazioni o dalla procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Segreto d’ufficio e d’affari",
+        "citation": "Art. 25 cpv. 3 LCart",
+        "content": "Al Sorvegliante dei prezzi possono essere comunicate unicamente le informazioni necessarie allo svolgimento del suo compito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 1: Autorità in materia di concorrenza, Segreto d’ufficio e d’affari",
+        "citation": "Art. 25 cpv. 4 LCart",
+        "content": "Le pubblicazioni delle autorità della concorrenza non devono rivelare alcun segreto d’affari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Inchiesta preliminare",
+        "citation": "Art. 26 cpv. 1 LCart",
+        "content": "La segreteria può effettuare inchieste preliminari d’ufficio, su richiesta degli interessati o su denuncia di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Inchiesta preliminare",
+        "citation": "Art. 26 cpv. 2 LCart",
+        "content": "Essa può proporre misure per sopprimere o impedire limitazioni della concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Inchiesta preliminare",
+        "citation": "Art. 26 cpv. 3 LCart",
+        "content": "La procedura di inchiesta preliminare non dà diritto alla consultazione degli atti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Apertura di un’inchiesta",
+        "citation": "Art. 27 cpv. 1 LCart",
+        "content": "Se esistono indizi di una limitazione illecita della concorrenza, la segreteria apre un’inchiesta d’intesa con un membro della presidenza. L’inchiesta viene aperta in ogni caso se la segreteria vi è invitata dalla Commissione o dal DEFR.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_27"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Apertura di un’inchiesta",
+        "citation": "Art. 27 cpv. 2 LCart",
+        "content": "La Commissione decide quali delle inchieste aperte devono essere trattate prioritariamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_27"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Comunicazione",
+        "citation": "Art. 28 cpv. 1 LCart",
+        "content": "La segreteria comunica l’apertura dell’inchiesta mediante pubblicazione ufficiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Comunicazione",
+        "citation": "Art. 28 cpv. 2 LCart",
+        "content": "La comunicazione menziona l’oggetto e le persone inquisite e indica inoltre che i terzi devono annunciare entro 30 giorni se intendono partecipare all’inchiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Comunicazione",
+        "citation": "Art. 28 cpv. 3 LCart",
+        "content": "L’omissione della pubblicazione non impedisce gli atti d’inchiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Conciliazione",
+        "citation": "Art. 29 cpv. 1 LCart",
+        "content": "Qualora reputi illecita una limitazione della concorrenza, la segreteria della Commissione può proporre alle parti una conciliazione sulle modalità della sua soppressione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_29"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Conciliazione",
+        "citation": "Art. 29 cpv. 2 LCart",
+        "content": "La conciliazione va redatta per scritto e necessita dell’approvazione della Commissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_29"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Decisione",
+        "citation": "Art. 30 cpv. 1 LCart",
+        "content": "La Commissione decide su proposta della segreteria le misure da adottare o l’approvazione della conciliazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Decisione",
+        "citation": "Art. 30 cpv. 2 LCart",
+        "content": "Le parti alla procedura possono prendere posizione per scritto sulla proposta della segreteria. La Commissione può ordinare un’audizione e ordinare alla segreteria ulteriori misure di inchiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Decisione",
+        "citation": "Art. 30 cpv. 3 LCart",
+        "content": "Se le circostanze di fatto o giuridiche hanno subìto modificazioni essenziali, la Commissione può revocare o modificare la sua decisione su proposta della segreteria o degli interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Autorizzazione eccezionale",
+        "citation": "Art. 31 cpv. 1 LCart",
+        "content": "Qualora la Commissione della concorrenza abbia deciso che una limitazione della concorrenza è illecita, le parti possono chiedere entro 30 giorni per il tramite del DEFR un’autorizzazione eccezionale del Consiglio federale per motivi preponderanti di interesse pubblico. In caso di presentazione di una simile richiesta, il termine per interporre ricorso al Tribunale amministrativo federale decorre soltanto dalla notificazione della decisione del Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Autorizzazione eccezionale",
+        "citation": "Art. 31 cpv. 2 LCart",
+        "content": "La richiesta di un’autorizzazione eccezionale da parte del Consiglio federale può anche essere presentata entro 30 giorni dal momento in cui è passata in giudicato una decisione del Tribunale amministrativo federale o del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Autorizzazione eccezionale",
+        "citation": "Art. 31 cpv. 3 LCart",
+        "content": "L’autorizzazione è limitata nel tempo; essa può essere vincolata a condizioni e oneri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 2: Inchieste su limitazioni della concorrenza, Autorizzazione eccezionale",
+        "citation": "Art. 31 cpv. 4 LCart",
+        "content": "Su richiesta degli interessati, il Consiglio federale può prorogare l’autorizzazione se i requisiti del suo rilascio permangono adempiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Avvio della procedura di esame",
+        "citation": "Art. 32 cpv. 1 LCart",
+        "content": "Ricevuta la comunicazione di una concentrazione di imprese (art. 9), la Commissione della concorrenza decide in merito all’opportunità di un esame del progetto di concentrazione. Entro un mese dalla comunicazione del progetto di concentrazione la Commissione deve notificare alle imprese interessate l’avvio della procedura di esame. Se l’avvio della procedura di esame non viene notificato alle imprese interessate entro detto termine, la concentrazione può essere realizzata senza riserve.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_32"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Avvio della procedura di esame",
+        "citation": "Art. 32 cpv. 2 LCart",
+        "content": "Le imprese partecipanti non possono effettuare la concentrazione durante il mese seguente la comunicazione del progetto di concentrazione, a meno che la Commissione la autorizzi per motivi importanti su loro richiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_32"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di esame",
+        "citation": "Art. 33 cpv. 1 LCart",
+        "content": "Qualora la Commissione della concorrenza decida l’esecuzione di un esame, la segreteria pubblica il contenuto essenziale della comunicazione della concentrazione e rende noto il termine entro il quale i terzi possono prendere posizione in merito alla concentrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di esame",
+        "citation": "Art. 33 cpv. 2 LCart",
+        "content": "All’inizio dell’esame, la Commissione decide se la concentrazione può essere effettuata eccezionalmente a titolo provvisorio o se va mantenuta in sospeso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di esame",
+        "citation": "Art. 33 cpv. 3 LCart",
+        "content": "La Commissione esegue l’esame entro quattro mesi sempreché non ne venga impedita da circostanze imputabili alle imprese partecipanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Effetti giuridici",
+        "citation": "Art. 34 LCart",
+        "content": "Fatti salvi il decorso del termine ai sensi dell’articolo 32 capoverso 1 e l’autorizzazione dell’esecuzione provvisoria, gli effetti di diritto civile di una concentrazione soggetta ad autorizzazione rimangono sospesi. La concentrazione è considerata autorizzata se la Commissione non decide in merito entro i termini stabiliti dall’articolo 33 capoverso 3, a meno che constati mediante decisione che è stata impedita ad effettuare l’esame da circostanze imputabili alle imprese partecipanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_34"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Violazione dell’obbligo di autorizzazione",
+        "citation": "Art. 35 LCart",
+        "content": "Se una concentrazione di imprese soggetta ad autorizzazione viene effettuata senza comunicazione, la procedura giusta gli articoli 32 a 38 è avviata d’ufficio. In questo caso il termine di cui all’articolo 32 capoverso 1 decorre dal momento in cui l’autorità è in possesso delle informazioni che devono essere contenute nella comunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_35"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di autorizzazione eccezionale",
+        "citation": "Art. 36 cpv. 1 LCart",
+        "content": "Qualora la Commissione della concorrenza abbia vietato la concentrazione, le imprese partecipanti possono chiedere entro 30 giorni per il tramite del DEFR un’autorizzazione eccezionale del Consiglio federale per motivi preponderanti di interesse pubblico. In caso di presentazione di una simile richiesta, il termine per interporre ricorso al Tribunale amministrativo federale decorre soltanto dalla notificazione della decisione del Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di autorizzazione eccezionale",
+        "citation": "Art. 36 cpv. 2 LCart",
+        "content": "La richiesta di un’autorizzazione eccezionale da parte del Consiglio federale può anche essere presentata entro 30 giorni dal momento in cui è passata in giudicato una decisione del Tribunale amministrativo federale o del Tribunale federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Procedura di autorizzazione eccezionale",
+        "citation": "Art. 36 cpv. 3 LCart",
+        "content": "Il Consiglio federale decide in merito alla richiesta possibilmente entro quattro mesi dalla sua presentazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Ripristino della concorrenza efficace",
+        "citation": "Art. 37 cpv. 1 LCart",
+        "content": "Se viene effettuata una concentrazione di imprese vietata oppure viene vietata una concentrazione già effettuata e se ai fini della stessa non viene richiesta o rilasciata un’autorizzazione eccezionale, le imprese partecipanti hanno l’obbligo di prendere i provvedimenti necessari al ripristino della concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Ripristino della concorrenza efficace",
+        "citation": "Art. 37 cpv. 2 LCart",
+        "content": "La Commissione può esigere dalle imprese partecipanti proposte vincolanti in merito al ripristino della concorrenza efficace. Essa impartisce un termine all’uopo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Ripristino della concorrenza efficace",
+        "citation": "Art. 37 cpv. 3 LCart",
+        "content": "Se accetta le proposte, la Commissione può ordinare in che modo ed entro quale termine le imprese partecipanti devono eseguire i provvedimenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Ripristino della concorrenza efficace",
+        "citation": "Art. 37 cpv. 4 LCart",
+        "content": "Se nonostante diffida le imprese partecipanti non presentano proposte o se queste ultime non sono accettate, la Commissione può ordinare:\na. la separazione delle imprese o degli attivi concentrati;\nb. la cessazione degli effetti di controllo;\nc. ulteriori provvedimenti idonei al ripristino della concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Revoca dell’autorizzazione",
+        "citation": "Art. 38 cpv. 1 LCart",
+        "content": "La Commissione della concorrenza può revocare un’autorizzazione o decidere l’esame di una concentrazione nonostante la scadenza del termine di cui all’articolo 32 capoverso 1 se:\na. le imprese partecipanti hanno fornito indicazioni inesatte;\nb. l’autorizzazione è stata ottenuta fraudolentemente; oppure\nc. le imprese partecipanti contravvengono gravemente ad un onere vincolato all’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_38"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 3: Esame delle concentrazioni di imprese, Revoca dell’autorizzazione",
+        "citation": "Art. 38 cpv. 2 LCart",
+        "content": "Il Consiglio federale può revocare per i medesimi motivi un’autorizzazione eccezionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_38"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Principio",
+        "citation": "Art. 39 LCart",
+        "content": "La legge federale del 20 dicembre 1968 sulla procedura amministrativa è applicabile alle procedure nella misura in cui la presente legge non vi deroghi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_39"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Obbligo di fornire informazioni",
+        "citation": "Art. 40 LCart",
+        "content": "Le persone che partecipano a intese, le imprese che dominano il mercato, quelle che partecipano a concentrazioni di imprese nonché i terzi interessati devono fornire alla autorità in materia di concorrenza tutte le informazioni utili alle inchieste e presentare i documenti necessari. Il diritto di non fornire informazioni è disciplinato dagli articoli 16 e 17 della legge federale del 20 dicembre 1968 sulla procedura amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_40"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Assistenza amministrativa",
+        "citation": "Art. 41 LCart",
+        "content": "I servizi della Confederazione e dei Cantoni hanno l’obbligo di collaborare alle inchieste delle autorità in materia di concorrenza e di mettere a disposizione i documenti necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_41"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Misure di inchiesta",
+        "citation": "Art. 42 cpv. 1 LCart",
+        "content": "Le autorità in materia di concorrenza possono procedere all’audizione di terzi come testimoni e costringere le parti all’inchiesta a deporre. L’articolo 64 della legge federale del 4 dicembre 1947 di procedura civile è applicabile per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Misure di inchiesta",
+        "citation": "Art. 42 cpv. 2 LCart",
+        "content": "Le autorità in materia di concorrenza possono ordinare perquisizioni e sequestrare mezzi di prova. A questi provvedimenti coercitivi sono applicabili per analogia gli articoli 45–50 della legge federale del 22 marzo 1974 sul diritto penale amministrativo. Le perquisizioni domiciliari e i sequestri sono ordinati, su domanda della segreteria, da un membro della presidenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Inchieste nelle procedure secondo l’Accordo sul trasporto aereo tra la Svizzera e la CE",
+        "citation": "Art. 42a cpv. 1 LCart",
+        "content": "La Commissione della concorrenza è l’autorità svizzera competente per la cooperazione con gli organi della Comunità europea secondo l’articolo 11 dell’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Inchieste nelle procedure secondo l’Accordo sul trasporto aereo tra la Svizzera e la CE",
+        "citation": "Art. 42a cpv. 2 LCart",
+        "content": "Un’impresa che si oppone alla verifica effettuata nell’ambito di una procedura basata sull’articolo 11 dell’Accordo può essere sottoposta, su richiesta della Commissione della Comunità europea, a misure di inchiesta secondo l’articolo 42; è applicabile l’articolo 44",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Comunicazione di dati a un’autorità estera in materia di concorrenza",
+        "citation": "Art. 42b cpv. 1 LCart",
+        "content": "La comunicazione di dati a un’autorità estera in materia di concorrenza è ammessa soltanto se fondata su una legge o su un accordo internazionale o se le imprese interessate vi acconsentono.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Comunicazione di dati a un’autorità estera in materia di concorrenza",
+        "citation": "Art. 42b cpv. 2 LCart",
+        "content": "In assenza del consenso delle imprese interessate, le autorità in materia di concorrenza possono comunicare a un’autorità estera in materia di concorrenza dati confidenziali, in particolare segreti d’affari, fondandosi su un accordo internazionale soltanto se:\na. le pratiche oggetto d’inchiesta nello Stato ricevente sono illecite anche secondo il diritto svizzero;\nb. le due autorità in materia di concorrenza stanno svolgendo un’inchiesta sulle stesse pratiche o gli stessi negozi giuridici o su pratiche o negozi giuridici correlati;\nc. i dati sono utilizzati dall’autorità estera soltanto ai fini dell’applicazione di disposizioni del diritto dei cartelli e come mezzi di prova riguardo all’oggetto dell’inchiesta al quale si riferisce la sua richiesta di informazioni;\nd. i dati non sono utilizzati in una procedura penale o civile;\ne. il diritto procedurale estero garantisce i diritti di parte e il segreto d’ufficio; e\nf. i dati confidenziali non sono comunicati all’autorità estera nell’ambito di una conciliazione (art. 29) o della collaborazione alla rilevazione e all’eliminazione di una limitazione della concorrenza (art. 49a cpv. 2).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Comunicazione di dati a un’autorità estera in materia di concorrenza",
+        "citation": "Art. 42b cpv. 3 LCart",
+        "content": "Prima di trasmettere i dati all’autorità estera, le autorità in materia di concorrenza informano le imprese interessate e le invitano a prendere posizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Partecipazione di terzi all’inchiesta",
+        "citation": "Art. 43 cpv. 1 LCart",
+        "content": "Possono annunciare la loro partecipazione all’inchiesta su una limitazione della concorrenza:\na. le persone che a motivo della limitazione della concorrenza sono impedite nell’accesso o nell’esercizio della concorrenza;\nb. le associazioni professionali ed economiche autorizzate per statuto a difendere gli interessi economici dei loro membri, sempreché anche i membri dell’associazione o di una sezione possano partecipare all’inchiesta;\nc. le organizzazioni di importanza nazionale o regionale che per statuto si dedicano alla difesa dei consumatori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Partecipazione di terzi all’inchiesta",
+        "citation": "Art. 43 cpv. 2 LCart",
+        "content": "La segreteria può esigere che i gruppi di sei o più partecipanti ad un’inchiesta aventi un identico interesse designino un rappresentante comune se l’inchiesta ne dovesse altrimenti risultare eccessivamente complicata. Essa può in ogni caso limitare la partecipazione a un’audizione; sono fatti salvi i diritti di parte giusta la legge federale del 20 dicembre 1968 sulla procedura amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Partecipazione di terzi all’inchiesta",
+        "citation": "Art. 43 cpv. 3 LCart",
+        "content": "I capoversi 1 e 2 si applicano per analogia alla procedura di autorizzazione eccezionale di una limitazione della concorrenza da parte del Consiglio federale (art. 8).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 4: Procedura e rimedi giuridici, Partecipazione di terzi all’inchiesta",
+        "citation": "Art. 43 cpv. 4 LCart",
+        "content": "Nella procedura di esame delle concentrazioni di imprese la qualità di parte è riservata alle sole imprese partecipanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Raccomandazioni alle autorità",
+        "citation": "Art. 45 cpv. 1 LCart",
+        "content": "La Commissione osserva continuamente le condizioni di concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_45"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Raccomandazioni alle autorità",
+        "citation": "Art. 45 cpv. 2 LCart",
+        "content": "Può sottoporre alle autorità raccomandazioni per il promovimento di una concorrenza efficace, in particolare tramite l’elaborazione e l’applicazione di prescrizioni giuridico-economiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_45"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Preavvisi",
+        "citation": "Art. 46 cpv. 1 LCart",
+        "content": "I disegni di atti normativi della Confederazione in materia economica o di altri atti normativi federali che possono influenzare la concorrenza devono essere sottoposti alla segreteria. Questa li esamina dal profilo delle distorsioni e delle limitazioni eccessive della concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_46"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Preavvisi",
+        "citation": "Art. 46 cpv. 2 LCart",
+        "content": "Nelle procedure di consultazione la Commissione dà il suo preavviso sui disegni di atti normativi della Confederazione che limitano la concorrenza o la influenzano altrimenti. Può dare il suo preavviso sui disegni di atti normativi cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_46"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Pareri",
+        "citation": "Art. 47 cpv. 1 LCart",
+        "content": "La Commissione redige pareri per altre autorità su questioni di concorrenza di importanza sostanziale. Nelle questioni di importanza secondaria può incaricarne la segreteria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_47"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Pubblicazione delle decisioni e delle sentenze",
+        "citation": "Art. 48 cpv. 1 LCart",
+        "content": "Le autorità in materia di concorrenza possono pubblicare le loro decisioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_48"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Pubblicazione delle decisioni e delle sentenze",
+        "citation": "Art. 48 cpv. 2 LCart",
+        "content": "I tribunali trasmettono spontaneamente alla segreteria una copia completa delle sentenze emesse in virtù della presente legge. La segreteria raccoglie queste sentenze e può pubblicarle periodicamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_48"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Obbligo di informare",
+        "citation": "Art. 49 cpv. 1 LCart",
+        "content": "La segreteria e la Commissione informano il pubblico circa la loro attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_49"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 5:, Altri compiti e competenze delle autorità in materia di concorrenza, Obbligo di informare",
+        "citation": "Art. 49 cpv. 2 LCart",
+        "content": "La Commissione riferisce annualmente al Consiglio federale circa le sue attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_49"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Sanzione in caso di limitazioni illecite della concorrenza",
+        "citation": "Art. 49a cpv. 1 LCart",
+        "content": "All’impresa che partecipa a un accordo illecito secondo l’articolo 5 capoversi 3 e 4 o domina il mercato e attua una pratica illecita secondo l’articolo 7 è addossato un importo sino al 10 per cento della cifra d’affari realizzata in Svizzera negli ultimi tre esercizi. L’articolo 9 capoverso 3 è applicabile per analogia. L’importo è calcolato in funzione della durata e della gravità delle pratiche illecite. Nella determinazione dell’importo è tenuto adeguatamente conto del presunto guadagno che l’impresa ha conseguito con le pratiche illecite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Sanzione in caso di limitazioni illecite della concorrenza",
+        "citation": "Art. 49a cpv. 2 LCart",
+        "content": "Se l’impresa collabora a rilevare e a eliminare la limitazione della concorrenza, si può rinunciare in tutto o in parte alla sanzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Sanzione in caso di limitazioni illecite della concorrenza",
+        "citation": "Art. 49a cpv. 3 LCart",
+        "content": "Non vi è sanzione se:\na. l’impresa annuncia la limitazione della concorrenza prima che questa esplichi i suoi effetti; se nei cinque mesi dall’annuncio le viene comunicata l’apertura di una procedura secondo gli articoli 26–30, la sanzione non decade qualora l’impresa mantenga la limitazione;\nb. la limitazione della concorrenza ha cessato di esplicare i suoi effetti da oltre cinque anni prima dell’apertura dell’inchiesta;\nc. il Consiglio federale ha autorizzato una limitazione della concorrenza in virtù dell’articolo 8.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Infrazioni in relazione con conciliazioni e decisioni dell’autorità",
+        "citation": "Art. 50 LCart",
+        "content": "All’impresa che a proprio vantaggio contravviene a una conciliazione, a una decisione passata in giudicato delle autorità in materia di concorrenza o a una decisione di un’autorità di ricorso è addossato un importo sino al 10 per cento della cifra d’affari realizzata in Svizzera nei tre ultimi esercizi. L’articolo 9 capoverso 3 è applicabile per analogia. Nella determinazione dell’importo è tenuto adeguatamente conto del presunto guadagno che l’impresa ha conseguito con le pratiche illecite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_50"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Infrazioni in relazione con concentrazioni di imprese",
+        "citation": "Art. 51 cpv. 1 LCart",
+        "content": "All’impresa che effettua senza comunicazione una concentrazione soggetta a comunicazione, non osserva il divieto temporaneo di esecuzione, contravviene ad un onere vincolato all’autorizzazione, realizza una concentrazione vietata o non esegue un provvedimento per il ripristino di una concorrenza efficace è addossato un importo sino a un milione di franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_51"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Infrazioni in relazione con concentrazioni di imprese",
+        "citation": "Art. 51 cpv. 2 LCart",
+        "content": "In caso di recidiva inerente a un onere connesso all’autorizzazione, l’importo addossato all’impresa ammonta sino al dieci per cento della cifra d’affari totale realizzata in Svizzera dall’insieme delle imprese partecipanti. L’articolo 9 capoverso 3 è applicabile per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_51"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Altre infrazioni",
+        "citation": "Art. 52 LCart",
+        "content": "All’impresa che non adempie o adempie solo in parte il suo obbligo di fornire informazioni o di presentare i documenti è addossato un importo sino a 100 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_52"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 6: Sanzioni amministrative, Procedura",
+        "citation": "Art. 53 cpv. 1 LCart",
+        "content": "Le infrazioni sono istruite dalla segreteria d’intesa con un membro della presidenza e giudicate dalla Commissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_53"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 7:, Emolumenti",
+        "citation": "Art. 53a cpv. 1 LCart",
+        "content": "Le autorità in materia di concorrenza riscuotono emolumenti per:\na. le decisioni relative a inchieste concernenti limitazioni della concorrenza ai sensi degli articoli 26–31;\nb. l’esame delle concentrazioni di imprese ai sensi degli articoli 32–38;\nc. i pareri e altri servizi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 7:, Emolumenti",
+        "citation": "Art. 53a cpv. 2 LCart",
+        "content": "Gli emolumenti sono calcolati in funzione del tempo impiegato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 4: Disposizioni di procedura amministrativa, Sezione 7:, Emolumenti",
+        "citation": "Art. 53a cpv. 3 LCart",
+        "content": "Il Consiglio federale stabilisce il tasso degli emolumenti e ne disciplina la riscossione. Esso può esentare da emolumenti talune procedure o prestazioni, in particolare in caso di sospensione delle procedure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Reati in materia di conciliazioni e decisioni amministrative",
+        "citation": "Art. 54 LCart",
+        "content": "Chiunque, intenzionalmente, contravviene a una conciliazione, a una decisione passata in giudicato delle autorità in materia di concorrenza o a una decisione di un’autorità di ricorso, è punito con la multa sino a 100 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_54"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Altri reati",
+        "citation": "Art. 55 LCart",
+        "content": "Chiunque, intenzionalmente, non esegue o esegue solo in parte una decisione dell’autorità in materia di concorrenza concernente l’obbligo di fornire informazioni (art. 40), esegue senza comunicazione una concentrazione soggetta a comunicazione oppure viola decisioni in relazione con le concentrazioni di imprese, è punito con la multa sino a 20 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_55"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Prescrizione",
+        "citation": "Art. 56 cpv. 1 LCart",
+        "content": "Il perseguimento penale si prescrive in sette anni nel caso di reati contro le conciliazioni e le decisioni amministrative (art. 54).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_56"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Prescrizione",
+        "citation": "Art. 56 cpv. 2 LCart",
+        "content": "Il perseguimento penale nel caso degli altri reati (art. 55) si prescrive in quattro anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_56"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Procedura e rimedi giuridici",
+        "citation": "Art. 57 cpv. 1 LCart",
+        "content": "Il perseguimento e il giudizio dei reati sono disciplinati dalla legge federale del 22 marzo 1974 sul diritto penale amministrativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_57"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 5: Sanzioni penali, Procedura e rimedi giuridici",
+        "citation": "Art. 57 cpv. 2 LCart",
+        "content": "Autorità di perseguimento penale è la segreteria, d’intesa con un membro della presidenza. Autorità di giudizio è la Commissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_57"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6: Esecuzione di accordi internazionali, Accertamento dei fatti",
+        "citation": "Art. 58 cpv. 1 LCart",
+        "content": "Se una parte contraente di un accordo internazionale fa valere che determinate limitazioni della concorrenza sono incompatibili con l’accordo, il DEFR può incaricare la segreteria di avviare una corrispondente inchiesta preliminare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_58"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6: Esecuzione di accordi internazionali, Accertamento dei fatti",
+        "citation": "Art. 58 cpv. 2 LCart",
+        "content": "Il DEFR decide su proposta della segreteria circa il seguito della procedura. Esso sente dapprima gli interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_58"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6: Esecuzione di accordi internazionali, Soppressione delle incompatibilità",
+        "citation": "Art. 59 cpv. 1 LCart",
+        "content": "Se nell’esecuzione di un accordo internazionale si constata che una limitazione della concorrenza è incompatibile con l’accordo, il DEFR può, d’intesa con il Dipartimento federale degli affari esteri, proporre alle parti interessate una conciliazione in vista della soppressione delle incompatibilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_59"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6: Esecuzione di accordi internazionali, Soppressione delle incompatibilità",
+        "citation": "Art. 59 cpv. 2 LCart",
+        "content": "Se una conciliazione non può essere attuata tempestivamente e se la parte contraente dell’accordo minaccia di prendere misure nei confronti della Svizzera, il DEFR può prendere, d’intesa con il Dipartimento federale degli affari esteri, le misure necessarie per sopprimere la limitazione della concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_59"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6a:, Valutazione",
+        "citation": "Art. 59a cpv. 1 LCart",
+        "content": "Il Consiglio federale fa valutare l’efficacia delle misure e l’esecuzione della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_59_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Capitolo 6a:, Valutazione",
+        "citation": "Art. 59a cpv. 2 LCart",
+        "content": "Il Consiglio federale riferisce all’Assemblea federale al termine della valutazione, ma al più tardi cinque anni dopo l’entrata in vigore della presente disposizione, e formula proposte per il seguito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/it#art_59_a"
+    }
+]

@@ -1,0 +1,1311 @@
+[
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, But",
+        "citation": "Art. 1 al. 1 ODI",
+        "content": "La présente ordonnance a pour but de garantir en Suisse aux particuliers, aux milieux économiques et aux collectivités publiques une offre de noms de domaine de l’Internet suffisante, avantageuse, de qualité et répondant aux besoins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_1"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, But",
+        "citation": "Art. 1 al. 2 ODI",
+        "content": "Elle doit en particulier:\na. assurer une exploitation rationnelle, transparente et judicieuse des domaines de premier niveau dont la gestion relève de la compétence de la Suisse;\nb. préserver la sécurité et la disponibilité de l’infrastructure et des services nécessaires au fonctionnement du système des noms de domaine (DNS);\nc. veiller à ce que le droit suisse et les intérêts de la Suisse soient respectés lors de la gestion et de l’utilisation des domaines de premier niveau déployant des effets en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_1"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1 ODI",
+        "content": "La présente ordonnance régit:\na. le domaine de pays de premier niveau (country code Top Level Domain [ccTLD]) «.ch» et ses transpositions en d’autres alphabets ou systèmes graphiques;\nb. le domaine générique de premier niveau (generic Top Level Domain [gTLD]) «.swiss»;\nc. les domaines génériques de premier niveau dont la gestion a été confiée à d’autres collectivités publiques suisses que la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_2"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 2 ODI",
+        "content": "Elle est applicable aux états de fait qui déploient des effets sur ces domaines, même s’ils se produisent à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_2"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 3 ODI",
+        "content": "Les termes et abréviations utilisés dans la présente ordonnance sont explicités en annexe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_3"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Tâches générales",
+        "citation": "Art. 4 al. 1 ODI",
+        "content": "À moins que la présente ordonnance n’en dispose autrement, l’Office fédéral de la communication (OFCOM) exerce l’ensemble des compétences, fonctions ou tâches qui sont liées aux domaines de premier niveau gérés par la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Tâches générales",
+        "citation": "Art. 4 al. 2 ODI",
+        "content": "Il veille à la sauvegarde de la souveraineté et des intérêts de la Suisse dans le DNS et lors de la gestion ou de l’utilisation de domaines de premier niveau ainsi que des noms de domaine qui leur sont subordonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Tâches générales",
+        "citation": "Art. 4 al. 3 ODI",
+        "content": "Il peut prendre toute mesure susceptible de contribuer à la sécurité et à la disponibilité du DNS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_4"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Relations internationales",
+        "citation": "Art. 5 al. 1 ODI",
+        "content": "L’OFCOM veille aux intérêts de la Suisse dans les forums et organismes internationaux qui sont chargés ou traitent des questions liées aux noms de domaine ou à d’autres ressources d’adressage de l’Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_5"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Relations internationales",
+        "citation": "Art. 5 al. 2 ODI",
+        "content": "Il peut inviter les délégataires (art. 32, al. 1) et autres personnes chargés de tout ou partie de fonctions ou de tâches qui sont liées à un domaine géré par la Confédération ou par d’autres collectivités publiques suisses à participer aux travaux des forums et organismes internationaux appropriés, en veillant aux intérêts de la Suisse. Il peut leur donner des instructions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_5"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 1, Dispositions générales, Information par l’OFCOM",
+        "citation": "Art. 6 ODI",
+        "content": "L’OFCOM informe les milieux intéressés au sujet du DNS et de l’évolution du régime international ainsi que du marché global des noms de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_6"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 1, Objet et organisation, Objet",
+        "citation": "Art. 7 ODI",
+        "content": "Les dispositions du présent chapitre régissent les domaines de premier niveau gérés par la Confédération, ainsi que la gestion et l’attribution des noms de domaine de deuxième niveau qui leur sont subordonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_7"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 1, Objet et organisation, Organisation",
+        "citation": "Art. 8 al. 1 ODI",
+        "content": "La gestion des domaines s’organise sur la base des deux fonctions fondamentales de registre et de registraire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 1, Objet et organisation, Organisation",
+        "citation": "Art. 8 al. 2 ODI",
+        "content": "L’OFCOM exerce la fonction de registre ou la délègue à un tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 1, Objet et organisation, Organisation",
+        "citation": "Art. 8 al. 3 ODI",
+        "content": "Il peut exercer la fonction de registraire lorsqu’aucune offre de services d’enregistrement satisfaisante n’est proposée sur le marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_8"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Généralités",
+        "citation": "Art. 9 al. 1 ODI",
+        "content": "Le registre gère le domaine de manière rationnelle et judicieuse. Il exerce sa fonction de manière transparente et non discriminatoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Généralités",
+        "citation": "Art. 9 al. 2 ODI",
+        "content": "Il dispose du personnel ayant les qualifications et les connaissances professionnelles nécessaires pour remplir ses différentes tâches. Il désigne un responsable technique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Généralités",
+        "citation": "Art. 9 al. 3 ODI",
+        "content": "L’OFCOM peut prescrire les exigences de qualité et de sécurité des services du registre et les modalités du contrôle de la sécurité et de la résilience des infrastructures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_9"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Tâches",
+        "citation": "Art. 10 al. 1 ODI",
+        "content": "Dans l’exercice de sa fonction, le registre a les tâches suivantes:\na. fournir les prestations, opérations et fonctionnalités du DNS requises conformément aux règles qui s’appliquent à l’échelon international, en particulier:\n1. tenir le journal des activités,\n2. administrer et maintenir à jour les bases de données comprenant l’ensemble des informations relatives au domaine considéré qui sont nécessaires pour exécuter sa fonction,\n3. gérer les serveurs de noms primaires et secondaires, en assurant la diffusion du fichier de zone vers ces serveurs,\n4. exécuter la résolution des noms de domaine en adresses IP,\n5. assurer l’installation, la gestion et la mise à jour d’une banque de données RDDS (WHOIS),\n6. donner accès aux informations contenues dans le fichier de zone à des fins de lutte contre la cybercriminalité, à des fins de recherche scientifique ou sociétale ou à d’autres fins d’intérêt public;\nb. mettre à la disposition des registraires un système qui leur permet de déposer des demandes d’enregistrement de noms de domaine et d’en assurer la gestion administrative (système d’enregistrement) et fixer les procédures ainsi que les conditions techniques et organisationnelles relatives à l’enregistrement et à la gestion des noms de domaine par les registraires;\nc. attribuer et révoquer les droits d’utilisation sur les noms de domaine;\nd. prévoir une procédure technique et administrative permettant, lorsque cela est requis par leurs titulaires, un transfert aisé entre registraires de la gestion de noms de domaine;\ne. mettre en œuvre les services de règlement des différends (art. 14);\nf. assurer l’acquisition, l’installation, l’exploitation et la mise à jour de l’infrastructure technique nécessaire;\ng. prendre les mesures propres à assurer la fiabilité, la résilience, l’accessibilité, la disponibilité, la sécurité et l’exploitation de l’infrastructure ainsi que des prestations nécessaires;\nh. annoncer immédiatement aux registraires touchés toute perturbation de l’exploitation du DNS, de son infrastructure ou de ses services d’enregistrement;\ni. lutter contre la cybercriminalité conformément aux dispositions prévues par la présente ordonnance;\nj. fournir au public, en ligne par le biais d’un site dédié et facilement identifiable, toute information utile sur les activités du registre;\nk. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_10"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Tâches",
+        "citation": "Art. 10 al. 2 ODI",
+        "content": "Le registre n’examine pas de manière générale et continue les activités des registraires ainsi que des titulaires. Sous réserve de l’art. 51, let. b, il n’est pas tenu de rechercher activement des faits ou des circonstances révélant des activités illicites commises au moyen de noms de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_10"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Journal des activités",
+        "citation": "Art. 11 al. 1 ODI",
+        "content": "Le registre consigne dans un journal les activités déployées en rapport avec l’enregistrement et l’attribution de noms de domaine, leurs mutations, leurs transferts, leurs mises hors service et leurs révocations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Journal des activités",
+        "citation": "Art. 11 al. 2 ODI",
+        "content": "Il conserve les données consignées et les pièces justificatives correspondantes pendant dix ans à partir de la révocation d’un nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Journal des activités",
+        "citation": "Art. 11 al. 3 ODI",
+        "content": "Toute personne qui fait état de manière vraisemblable d’un intérêt légitime prépondérant a le droit de consulter le dossier figurant au journal des activités qui concerne un nom de domaine particulier. Le registre fixe les modalités techniques et administratives de la consultation. Il peut demander une rémunération pour la consultation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_11"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Dépôt d’une sauvegarde du système d’enregistrement et de gestion",
+        "citation": "Art. 12 al. 1 ODI",
+        "content": "Lorsque la fonction de registre est déléguée, le registre peut être tenu par l’OFCOM de conclure avec un mandataire indépendant un contrat de droit privé qui porte sur la sauvegarde au bénéfice de l’OFCOM du système d’enregistrement et de gestion d’un domaine de premier niveau avec toutes les données et informations relatives aux titulaires et aux caractéristiques notamment techniques des noms de domaine attribués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_12"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Dépôt d’une sauvegarde du système d’enregistrement et de gestion",
+        "citation": "Art. 12 al. 2 ODI",
+        "content": "L’OFCOM ne peut donner des instructions au mandataire et exploiter ou faire exploiter le système, les données et les informations sauvegardés que dans les circonstances suivantes:\na. le registre se trouve en état de faillite, en liquidation ou dans une procédure concordataire;\nb. le registre cesse son activité mais ne transmet pas au nouveau registre ou à l’OFCOM les données ou informations nécessaires pour gérer le domaine;\nc. le registre n’est plus en mesure d’exécuter sa fonction ou l’une de ses tâches;\nd. des circonstances extraordinaires, telles qu’une catastrophe naturelle, l’exigent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_12"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Données personnelles",
+        "citation": "Art. 13 al. 1 ODI",
+        "content": "Le registre peut traiter les données personnelles concernant les registraires, les requérants et titulaires de noms de domaine, les services de règlement des différends et leurs experts ou toute autre personne qui prend part ou est impliquée dans la gestion du domaine concerné dans la mesure où et aussi longtemps que cela est nécessaire:\na. à la gestion du domaine concerné;\nb. à l’accomplissement de la fonction de registre et à l’exécution des obligations qui découlent pour lui de la présente ordonnance, de ses dispositions d’exécution ou de son contrat de délégation;\nc. à la stabilité du DNS;\nd. à l’obtention du paiement des montants dus pour les prestations du registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_13"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Données personnelles",
+        "citation": "Art. 13 al. 2 ODI",
+        "content": "Sous réserve de l’art. 11, al. 2, la durée maximale des traitements de données personnelles opérés par le registre est de 10 ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_13"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Services de règlement des différends",
+        "citation": "Art. 14 al. 1 ODI",
+        "content": "Le registre institue les services de règlement des différends qui s’imposent. Il règle l’organisation et la procédure de ces services dans le respect des règles et principes suivants:\na. les services constituent des processus de résolution extrajudiciaire des litiges menés par des experts neutres et indépendants;\nb. les services connaissent des litiges relevant du droit civil survenant entre titulaires du droit d’utiliser un nom de domaine et titulaires de droits attachés à des signes distinctifs;\nc. les décisions des experts concernant les noms de domaine ont force obligatoire pour le registre concerné, à moins qu’une action civile n’ait été ouverte dans le délai prévu par le règlement de procédure;\nd. les décisions des experts portent sur la légitimité de l’attribution d’un nom de domaine; elles ne peuvent accorder de dommages-intérêts ou se prononcer quant à la validité de droits attachés à des signes distinctifs;\ne. les règles régissant la résolution des litiges doivent s’inspirer des meilleures pratiques en la matière;\nf. la procédure doit être équitable, transparente, rapide et avantageuse; les experts mandatés par les services ne peuvent être soumis à aucune directive générale ou particulière concernant la solution d’un litige; ils peuvent entreprendre toutes les démarches nécessaires à la solution d’un litige dont ils sont saisis;\ng. la procédure de règlement des différends prend fin avec le retrait de la requête, la conclusion d’un accord entre les parties, la décision des experts ou l’ouverture d’une action civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Services de règlement des différends",
+        "citation": "Art. 14 al. 2 ODI",
+        "content": "La structure de l’organisation, les règles régissant la résolution des litiges, les règles de procédure et la nomination des experts appelés à trancher requièrent l’approbation de l’OFCOM. Celui-ci prend au préalable l’avis de l’Institut fédéral de la propriété intellectuelle et, si l’affaire touche à la structure de l’organisation ou aux règles de procédure, l’avis de l’Office fédéral de la justice.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Services de règlement des différends",
+        "citation": "Art. 14 al. 3 ODI",
+        "content": "Le registre transmet sur demande au service de règlement des différends saisi toutes les données personnelles en sa possession qui sont nécessaires à la résolution d’un litige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Services de règlement des différends",
+        "citation": "Art. 14 al. 4 ODI",
+        "content": "Il peut publier ou faire publier les décisions prises par les experts. Le nom et d’autres données personnelles des parties ne peuvent être publiées que s’ils sont indispensables pour la compréhension des décisions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_14"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage",
+        "citation": "Art. 15 al. 1 ODI",
+        "content": "Le registre peut bloquer techniquement et administrativement un nom de domaine durant 5 jours ouvrables au maximum si des raisons fondées permettent de supposer que le nom de domaine en question est utilisé:\na. pour accéder par des méthodes illicites à des données critiques;\nb. pour diffuser ou exploiter des logiciels malveillants, ou\nc. pour soutenir des activités au sens des let. a ou b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage",
+        "citation": "Art. 15 al. 2 ODI",
+        "content": "Il peut prolonger le blocage durant 30 jours au maximum:\na. si des raisons fondées permettent de supposer que le titulaire recourt manifestement à de fausses données d’identification ou usurpe l’identité d’un tiers, et\nb. s’il est urgent de prévenir la survenance d’un préjudice imminent et difficilement réparable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage",
+        "citation": "Art. 15 al. 3 ODI",
+        "content": "Un service de lutte contre la cybercriminalité reconnu par l’OFCOM peut exiger le blocage durant 30 jours au maximum si les conditions mentionnées à l’al. 1 sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage",
+        "citation": "Art. 15 al. 4 ODI",
+        "content": "Un blocage ne peut être maintenu au-delà des délais fixés dans le présent article que si l’OFCOM l’ordonne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: redirection du trafic",
+        "citation": "Art. 15a al. 1 ODI",
+        "content": "Le registre redirige le trafic destiné à un nom de domaine ou transitant par ce nom de domaine si les conditions suivantes sont réunies:\na. le nom de domaine concerné est bloqué conformément à l’art. 15;\nb. le traitement des informations vise uniquement à identifier et à informer les victimes d’activités au sens de l’art. 15, al. 1, ainsi qu’à en analyser le fonctionnement dans le but de développer les techniques visant à identifier, combattre, limiter ou poursuivre ces activités; les informations recueillies qui n’ont aucun rapport avec ces activités ne peuvent être utilisées et doivent être immédiatement supprimées;\nc. la redirection du trafic est requise par un service au sens de l’art. 15, al. 3, pour 30 jours au maximum.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: redirection du trafic",
+        "citation": "Art. 15a al. 2 ODI",
+        "content": "Il redirige le trafic vers un outil d’analyse ou vers une page d’information qui contient:\na. des indications sur le soupçon d’abus en cause;\nb. le nom et les données de contact du service ou de l’autorité ayant requis la mesure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: redirection du trafic",
+        "citation": "Art. 15a al. 3 ODI",
+        "content": "Une redirection de trafic ne peut être maintenue au-delà des délais fixés dans le présent article que si l’OFCOM l’ordonne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: information et demande d’identification",
+        "citation": "Art. 15b al. 1 ODI",
+        "content": "Le registre informe le titulaire du nom de domaine concerné immédiatement, par voie électronique, du blocage ou de la redirection du trafic.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: information et demande d’identification",
+        "citation": "Art. 15b al. 2 ODI",
+        "content": "Il demande simultanément au titulaire d’indiquer, si besoin est, une adresse de correspondance valable en Suisse et de s’identifier dans les 10 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: information et demande d’identification",
+        "citation": "Art. 15b al. 3 ODI",
+        "content": "L’information du titulaire peut être différée si cela est indispensable pour protéger des intérêts publics ou privés prépondérants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_b"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: décision et révocation",
+        "citation": "Art. 15c al. 1 ODI",
+        "content": "L’OFCOM rend une décision sur le blocage ou sur la redirection du trafic si, dans les 30 jours suivant l’information par le registre portant sur la mesure, le titulaire:\na. demande une telle décision;\nb. s’identifie correctement, et\nc. indique une adresse de correspondance valable en Suisse lorsqu’il est établi à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_c"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: décision et révocation",
+        "citation": "Art. 15c al. 2 ODI",
+        "content": "Si le titulaire ne s’identifie pas correctement ou n’indique pas une adresse de correspondance valable dans le délai conformément à l’art. 15b, al. 2, le registre révoque l’attribution du nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_c"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: noms de domaine non attribués",
+        "citation": "Art. 15d ODI",
+        "content": "Le registre peut, de son propre fait, ou doit, sur demande d’un service au sens de l’art. 15, al. 3, prendre les mesures suivantes concernant un nom de domaine qui n’est pas encore attribué s’il y a des raisons fondées de supposer que ce nom de domaine pourrait faire l’objet d’une demande d’attribution et d’une utilisation à une fin ou d’une manière illicite:\na. il s’attribue le nom de domaine ou l’attribue à un tiers qui prête son concours à la lutte contre la cybercriminalité;\nb. il redirige à des fins d’analyse le trafic destiné au nom de domaine ou transitant par ce nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_d"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage de noms de domaine nouvellement attribués",
+        "citation": "Art. 15dbis al. 1 ODI",
+        "content": "Le registre peut bloquer pendant 10 jours un nom de domaine dont l’attribution remonte à moins de 90 jours si des raisons fondées lui permettent de supposer que le titulaire:\na. recourt manifestement à de fausses données d’identification ou usurpe l’identité d’un tiers, et\nb. utilise le nom de domaine à une fin ou d’une manière illicite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_d_bis"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage de noms de domaine nouvellement attribués",
+        "citation": "Art. 15dbis al. 2 ODI",
+        "content": "Il demande simultanément au titulaire de s’identifier dans les 10 jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_d_bis"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: blocage de noms de domaine nouvellement attribués",
+        "citation": "Art. 15dbis al. 3 ODI",
+        "content": "Si le titulaire ne s’identifie pas correctement dans les 10 jours, le registre révoque l’attribution du nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_d_bis"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: documentation et rapports",
+        "citation": "Art. 15e al. 1 ODI",
+        "content": "Le registre documente les cas de blocage et de redirection du trafic.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_e"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Mesures en cas de soupçon d’abus: documentation et rapports",
+        "citation": "Art. 15e al. 2 ODI",
+        "content": "Il présente périodiquement ou sur demande un rapport à l’OFCOM. Il peut également le transmettre aux services reconnus au sens de l’art. 15, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_15_e"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Assistance administrative et coopération",
+        "citation": "Art. 16 al. 1 ODI",
+        "content": "Le registre peut collaborer avec tout tiers qui prête son concours à l’identification et à l’évaluation des menaces, abus et dangers qui touchent ou pourraient toucher la gestion du domaine dont il a la charge, l’infrastructure dédiée à cette gestion ou le DNS. Il veille à ce que les tiers concernés puissent, sur une base volontaire, échanger avec lui en toute sécurité des informations et des données personnelles sur ces menaces, abus ou dangers. Il peut leur communiquer de telles données ou informations personnelles, au besoin à l’insu des personnes concernées. Cette communication peut être opérée par procédure d’appel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Assistance administrative et coopération",
+        "citation": "Art. 16 al. 2 ODI",
+        "content": "Il signale aux services spécialisés de la Confédération les incidents en matière de sécurité de l’information qui touchent le domaine dont il a la charge ou le DNS. Il peut traiter des données personnelles en rapport avec ces incidents et les communiquer aux services spécialisés, au besoin à l’insu des personnes concernées. Cette communication peut être opérée par procédure d’appel ou par transfert en bloc de données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Assistance administrative et coopération",
+        "citation": "Art. 16 al. 3 ODI",
+        "content": "Lorsqu’une autorité suisse intervenant dans le cadre de l’exécution de ses tâches le requiert, le registre demande au titulaire qui ne possède pas d’adresse de correspondance valable en Suisse d’indiquer une telle adresse et de s’identifier dans les 30 jours. Le registre révoque le nom de domaine si le titulaire ne s’exécute pas dans le délai imparti et informe l’autorité suisse requérante de la révocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 2, Registre, Assistance administrative et coopération",
+        "citation": "Art. 16 al. 4 ODI",
+        "content": "Pour le surplus, l’art. 13b LTC s’applique par analogie à l’assistance administrative garantie par le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_16"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 1 ODI",
+        "content": "Un registraire ne peut offrir des services d’enregistrement que s’il:\na. peut faire état de la conclusion d’un contrat de registraire avec l’ICANN lorsque les règles qui s’appliquent à l’échelon international l’exigent pour le domaine concerné, et qu’il\nb. a conclu avec le registre un contrat portant sur l’enregistrement de noms de domaine (contrat de registraire).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 2 ODI",
+        "content": "Le registre a l’obligation de conclure un contrat de registraire lorsque le demandeur remplit les conditions suivantes:\na. il s’engage à respecter le droit suisse, en particulier la présente ordonnance et ses dispositions d’exécution ainsi que son contrat de registraire;\nb. il possède en Suisse une adresse de correspondance valable;\nc. il maîtrise les matériels et logiciels ainsi que les règles techniques permettant d’effectuer les enregistrements et autres opérations administratives auprès du registre;\nd. il a mis en place une procédure de vérification des données d’identification fournies par les requérants de noms de domaine;\ne. il dispose des ressources humaines et techniques nécessaires pour assurer la tenue ainsi que la mise à jour des données administratives et techniques fournies par les requérants ou titulaires de noms de domaine;\nf. il dispose des matériels et logiciels informatiques nécessaires pour assurer la sécurité des données personnelles fournies par les requérants de noms de domaine et conserve ces dernières dans le respect des dispositions de la loi fédérale du 25 septembre 2020 sur la protection des données;\ng. il s’est acquitté des sûretés exigibles en cas de solvabilité douteuse ou de non-paiement; le montant de ces sûretés, rémunérées au taux d’intérêt appliqué aux comptes d’épargne, ne peut excéder la couverture du risque vraisemblable auquel s’expose le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 3 ODI",
+        "content": "La demande de conclure un contrat de registraire est adressée au registre. Elle comporte l’ensemble des documents, indications et informations permettant d’apprécier le respect par le demandeur des conditions fixées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 4 ODI",
+        "content": "Tout changement intervenu dans les conditions ayant justifié la conclusion d’un contrat de registraire doit être communiqué au registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 5 ODI",
+        "content": "Le contrat de registraire ne peut déroger aux règles prévues par la présente ordonnance et ses dispositions d’exécution. Le registre respecte pour le surplus les principes de non-discrimination et de transparence dans ses relations contractuelles avec les registraires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 6 ODI",
+        "content": "Le contrat de registraire est régi par le droit public lorsque la fonction de registre est exercée par l’OFCOM (contrat de droit administratif) et par le droit privé lorsque la fonction de registre est déléguée (contrat de droit privé).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 7 ODI",
+        "content": "Le registre résilie le contrat de registraire sans indemnité lorsqu’un registraire le requiert, ne remplit plus les conditions mises à l’exercice de sa fonction, cesse toute activité ou se trouve en état de faillite ou en liquidation. Il doit informer de la manière qui s’impose les titulaires des noms de domaine gérés par le registraire concerné de la résiliation d’un contrat de registraire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Contrat de registraire",
+        "citation": "Art. 17 al. 8 ODI",
+        "content": "Les art. 40, al. 1, 3 et 4, et art. 41 s’appliquent par analogie à la surveillance exercée par l’OFCOM sur les registraires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_17"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Information du public",
+        "citation": "Art. 18 al. 1 ODI",
+        "content": "Le registre met à la disposition du public les détails de la procédure menant à la conclusion d’un contrat de registraire et la liste des registraires ayant conclu un contrat avec leur nom et raison sociale, leur adresse postale, leur numéro de téléphone, ainsi que leurs adresses de courrier électronique et de site Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_18"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Information du public",
+        "citation": "Art. 18 al. 2 ODI",
+        "content": "Il fournit les contrats de registraire aux tiers qui en font la demande. Les clauses et annexes contenant des secrets d’affaires ne sont pas communiquées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_18"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Droit d’accès au système d’enregistrement",
+        "citation": "Art. 19 al. 1 ODI",
+        "content": "Les registraires ayant conclu un contrat peuvent accéder au système d’enregistrement du registre qui leur permet d’enregistrer et de gérer administrativement des noms de domaine au nom et pour le compte de tiers. Ils peuvent se faire attribuer des noms de domaine en leur nom pour leurs propres besoins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_19"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Droit d’accès au système d’enregistrement",
+        "citation": "Art. 19 al. 2 ODI",
+        "content": "Ils ne peuvent prétendre à leur droit que dans la mesure où l’accès s’effectue conformément aux procédures et conditions techniques ou organisationnelles prévues par le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_19"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligations des registraires",
+        "citation": "Art. 20 al. 1 ODI",
+        "content": "Les registraires doivent proposer une offre comprenant exclusivement l’attribution d’un nom de domaine (offre dégroupée).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligations des registraires",
+        "citation": "Art. 20 al. 2 ODI",
+        "content": "Ils doivent garantir en tout temps à leurs clients la faculté de transférer la gestion administrative d’un nom de domaine à un nouveau registraire. Sont réservées les prétentions civiles pour inexécution du contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligations des registraires",
+        "citation": "Art. 20 al. 3 ODI",
+        "content": "Les registraires doivent conserver la correspondance commerciale, les justificatifs, les titres et les fichiers de journalisation (log files) classés selon les noms de domaine pendant 10 ans à partir de la fin de l’enregistrement d’un nom de domaine. Ils les présentent, sur demande, au registre au plus tard dans les 3 jours ouvrables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligations des registraires",
+        "citation": "Art. 20 al. 4 ODI",
+        "content": "Les registraires sont tenus:\na. de collaborer avec le registre et de lui fournir toute l’aide et l’assistance techniques et organisationnelles nécessaires afin d’assurer la continuité et la sécurité de la gestion des noms de domaine dont ils assurent la gestion administrative;\nb. de veiller à ce que les titulaires des noms de domaine pour lesquels ils assurent la gestion administrative aient connaissance de la cessation de leurs activités et des démarches à entreprendre pour sauvegarder leurs prétentions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_20"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Devoirs d’information",
+        "citation": "Art. 21 al. 1 ODI",
+        "content": "Les registraires signalent au registre les noms de domaine requis ou enregistrés présentant un caractère manifestement illicite ou contraire à l’ordre public dès qu’ils en ont connaissance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Devoirs d’information",
+        "citation": "Art. 21 al. 2 ODI",
+        "content": "Ils annoncent immédiatement au registre toute perturbation technique qu’ils constatent de leurs systèmes, des services d’enregistrement du registre ou de l’exploitation du DNS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Devoirs d’information",
+        "citation": "Art. 21 al. 3 ODI",
+        "content": "Ils sont tenus de transmettre ou de faire transmettre aux titulaires ou aux requérants dans les meilleurs délais les informations émanant du registre pour ces derniers. Ils veillent à ce que leurs clients concernés soient informés de tout refus d’attribuer des noms de domaine au plus tard dans les 3 jours qui suivent la communication de ce refus qui leur a été faite par le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Devoirs d’information",
+        "citation": "Art. 21 al. 4 ODI",
+        "content": "Ils n’examinent pas de manière générale et continue les activités des titulaires. Ils ne sont pas tenus de rechercher activement des faits ou des circonstances révélant des activités illicites commises au moyen de noms de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_21"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Relations juridiques",
+        "citation": "Art. 22 al. 1 ODI",
+        "content": "Les relations juridiques des registraires avec les requérants et titulaires de noms de domaines sont régies par les dispositions du droit privé. Elles ne peuvent déroger aux règles prévues par la présente ordonnance et ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Relations juridiques",
+        "citation": "Art. 22 al. 2 ODI",
+        "content": "Sous réserve de l’art. 40, al. 4, LTC, les registraires fixent librement le prix de leurs services d’enregistrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Relations juridiques",
+        "citation": "Art. 22 al. 3 ODI",
+        "content": "Les registraires publient les prix et les conditions générales de leur offre de services.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_22"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligation de collaborer",
+        "citation": "Art. 23 al. 1 ODI",
+        "content": "Les registraires collaborent avec le registre en vue d’identifier ou d’évaluer les menaces, abus et dangers qui touchent ou pourraient toucher la gestion du domaine et des noms de domaine qui lui sont subordonnés, l’infrastructure dédiée à cette gestion ou le DNS. Ils peuvent traiter des données personnelles en rapport avec ces incidents, au besoin à l’insu des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligation de collaborer",
+        "citation": "Art. 23 al. 2 ODI",
+        "content": "Ils signalent aux services spécialisés de la Confédération les incidents en matière de sécurité de l’information qui touchent leurs systèmes et infrastructures de gestion ou le DNS. Ils peuvent traiter et communiquer aux services concernés des données personnelles en rapport avec ces incidents, au besoin à l’insu des personnes concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 3, Registraires, Obligation de collaborer",
+        "citation": "Art. 23 al. 4 ODI",
+        "content": "Les registraires transmettent sur demande au service de règlement des différends saisi toutes les données personnelles en leur possession qui sont nécessaires à la résolution d’un litige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_23"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Demande d’enregistrement",
+        "citation": "Art. 24 al. 1 ODI",
+        "content": "Lorsqu’un registraire dépose une demande d’enregistrement pour le compte d’un requérant, le registre lance un processus d’attribution d’un nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Demande d’enregistrement",
+        "citation": "Art. 24 al. 2 ODI",
+        "content": "Il traite la demande d’enregistrement lorsque celle-ci:\na. a été valablement déposée par l’intermédiaire du système d’enregistrement du registre;\nb. comporte toutes les informations, éléments et documents nécessaires pour autoriser l’attribution d’un nom de domaine, en particulier:\n1. la dénomination souhaitée en tant que nom de domaine,\n2. des informations actuelles, complètes et correctes sur le requérant, notamment son nom et ses adresses postale et électronique,\n3. les indications actuelles, complètes et correctes permettant de vérifier le respect des conditions générales et particulières d’attribution du nom de domaine requis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Demande d’enregistrement",
+        "citation": "Art. 24 al. 3 ODI",
+        "content": "L’OFCOM détermine les informations et documents qu’un requérant doit fournir au registraire concerné à l’intention du registre afin de vérifier son identité, son adresse et son existence juridique ainsi que le respect des conditions d’attribution d’un nom de domaine, en particulier:\na. si le requérant est une personne physique: une copie d’un document d’identité national ou d’un passeport valable et une attestation de domicile actuelle;\nb. si le requérant est une association ou une fondation ayant son siège en Suisse et non inscrite auprès du registre du commerce: une copie certifiée conforme des statuts de l’association ou de l’acte de fondation;\nc. si le requérant est une personne morale ou une société de personnes ayant son siège à l’étranger: un extrait actuel attesté conforme du registre du commerce étranger ou, lorsque l’extrait ne contient pas d’indications suffisantes ou qu’il n’existe pas d’institution correspondant au registre du commerce, une pièce officielle attestant que l’entité existe légalement conformément aux dispositions du droit étranger applicable;\nd. le numéro d’identification des entreprises (IDE) au sens de la loi fédérale du 18 juin 2010 sur le numéro d’identification des entreprises pour les personnes morales et le numéro AVS pour les personnes physiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Demande d’enregistrement",
+        "citation": "Art. 24 al. 4 ODI",
+        "content": "Il règle au besoin les modalités du dépôt des demandes d’enregistrement. Il peut imposer le recours à des formulaires d’enregistrement et de mutation préétablis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_24"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Acquisition de données personnelles pour l’attribution de noms de domaine",
+        "citation": "Art. 24a ODI",
+        "content": "Afin de vérifier les données personnelles des requérants et des titulaires en vue d’attribuer et de gérer les noms de domaine, le registre a accès aux données personnelles du registre des habitants, du service national des adresses et du registre central des assurés. Les données sont mises à la disposition du registre via un accès en ligne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_24_a"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 1 ODI",
+        "content": "Un nom de domaine est attribué lorsque:\na. la dénomination requise, respectivement l’ACE-String correspondant, comprend de 3 à 63 caractères autorisés; l’OFCOM détermine les caractères autorisés et peut prévoir des exceptions concernant le nombre minimum de caractères lorsqu’un intérêt public prépondérant le justifie; les abréviations comportant deux caractères qui désignent les cantons suisses, d’une part, et les noms de communes politiques ou de localités suisses formés de deux caractères qui sont réservés conformément à l’art. 26, al. 1, let. b, d’autre part, peuvent être attribués aux collectivités publiques concernées;\nb. la dénomination requise ne fait pas l’objet d’une réservation conformément à la présente ordonnance, à moins que la demande n’émane d’une personne en faveur de laquelle la réservation est prévue;\nc. les conditions particulières mises à une attribution dans le domaine concerné sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 1bis ODI",
+        "content": "Le registre attribue un nom de domaine en empêchant toute configuration, dans le fichier de zone des serveurs de noms qui y sont liés, qui permet l’activation du nom de domaine lorsqu’une autorité compétente lui communique que des raisons fondées permettent de supposer que le requérant utilisera le nom de domaine demandé à une fin ou d’une manière illicite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 1ter ODI",
+        "content": "Il peut attribuer un nom de domaine en empêchant toute configuration, dans le fichier de zone des serveurs de noms qui y sont liés, qui permet l’activation du nom de domaine si des raisons fondées lui permettent de supposer que le requérant:\na. recourt manifestement à de fausses données d’identification ou usurpe l’identité d’un tiers, et\nb. utilisera le nom de domaine demandé à une fin ou d’une manière illicite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 1quater ODI",
+        "content": "Si le titulaire ne s’identifie pas correctement dans un délai de 30 jours dans les cas visés aux al. 1bis et 1ter, le registre révoque l’attribution du nom de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 2 ODI",
+        "content": "Le registre refuse d’attribuer un nom de domaine lorsque:\na. la dénomination choisie est contraire à l’ordre public, aux bonnes mœurs ou au droit en vigueur;\nb. des motifs techniques l’exigent;\nc. une autorité compétente lui communique que des raisons fondées permettent de supposer que le requérant utilisera le nom de domaine demandé à une fin ou d’une manière illicite;\nd. le requérant demande l’attribution d’un même nom de domaine ayant été révoqué conformément à l’art. 15c, al. 2, ou 16, al. 3, sans indiquer une adresse de correspondance valable en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Conditions générales d’attribution",
+        "citation": "Art. 25 al. 3 ODI",
+        "content": "Il peut refuser d’attribuer un nom de domaine lorsque le requérant se trouve en état de faillite, en liquidation ou dans une procédure concordataire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_25"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Dénominations réservées",
+        "citation": "Art. 26 al. 1 ODI",
+        "content": "Les dénominations ou catégories de dénominations suivantes font l’objet d’une réservation:\na. les désignations d’institutions fédérales et d’unités de l’administration fédérale, les noms des conseillers fédéraux ainsi que des chanceliers de la Confédération, les désignations de bâtiments officiels et les autres dénominations liées à l’État qui figurent dans la liste centrale des désignations dignes d’être protégées en tant que noms de domaine; cette liste est établie par la Chancellerie fédérale;\nb. les noms des cantons, des communes politiques et des localités suisses au sens de l’art. 3 de l’ordonnance du 21 mai 2008 sur les noms géographiques, ainsi que les abréviations comportant deux caractères qui désignent les cantons suisses;\nc. les noms et les abréviations des organisations internationales protégés par la législation suisse;\nd. les dénominations qui doivent être réservées dans les domaines génériques de premier niveau conformément aux règles qui s’appliquent à l’échelon international;\ne. les dénominations nécessaires à l’activité du registre, en particulier à sa communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_26"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Dénominations réservées",
+        "citation": "Art. 26 al. 2 ODI",
+        "content": "Les dénominations ou catégories de dénominations qui font l’objet d’une réservation ne peuvent être attribuées en tant que noms de domaine qu’aux seules personnes ou catégories de personnes en faveur desquelles la réservation est prévue, à moins que celles-ci n’aient permis l’attribution à des tiers et sous réserve des dénominations attribuées à des tiers avant leur réservation ou avant l’entrée en vigueur de la présente ordonnance. En l’absence d’accord, les désignations homonymes de canton et de commune sont attribuées à la commune politique concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_26"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Processus d’attribution",
+        "citation": "Art. 27 al. 1 ODI",
+        "content": "Le traitement d’une demande d’enregistrement par le registre prend fin avec l’attribution ou le refus d’attribution du nom de domaine demandé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Processus d’attribution",
+        "citation": "Art. 27 al. 2 ODI",
+        "content": "Le registre attribue le droit d’utilisation d’un nom de domaine. L’attribution prend effet dès sa confirmation sous forme électronique par l’intermédiaire du système d’enregistrement au registraire opérant pour le compte du requérant concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Processus d’attribution",
+        "citation": "Art. 27 al. 3 ODI",
+        "content": "Il communique sous forme électronique le refus d’attribuer un nom de domaine par l’intermédiaire du système d’enregistrement ou au besoin par d’autres moyens au registraire opérant pour le compte du requérant concerné. Il communique directement au requérant, par un moyen approprié, le refus d’attribuer un nom de domaine qui doit être attribué sous mandat de nommage selon l’art. 56.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 4, Attribution, Processus d’attribution",
+        "citation": "Art. 27 al. 4 ODI",
+        "content": "L’OFCOM rend une décision sur le refus d’attribuer un nom de domaine si, dans les 40 jours suivant la communication de ce refus conformément à l’al. 3, le requérant:\na. demande une telle décision, et\nb. indique une adresse de correspondance valable en Suisse lorsqu’il est établi à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_27"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 1 ODI",
+        "content": "Le titulaire a le droit d’utiliser le nom de domaine qui lui a été attribué dans les limites et aux fins prévues par la présente ordonnance et ses dispositions d’exécution. Le droit d’utilisation relève du droit public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 2 ODI",
+        "content": "Il gère librement les noms de domaines subordonnés au nom de domaine qui lui a été attribué, sous réserve de dispositions contraires de la présente ordonnance ou de ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 3 ODI",
+        "content": "Il peut céder à un tiers un nom de domaine qui lui a été attribué lorsque les conditions générales et particulières d’attribution sont remplies en déposant, par le biais du registraire qui le gère, une demande de changement de titulaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 4 ODI",
+        "content": "Il peut renoncer en tout temps à son nom de domaine en déposant, par le biais du registraire qui le gère, une demande de révocation. Sont réservées les prétentions civiles pour inexécution du contrat conclu avec le registraire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 5 ODI",
+        "content": "Le droit d’utiliser un nom de domaine passe de plein droit:\na. à l’entreprise née d’une fusion, qui devient titulaire des noms de domaine attribués aux entreprises fusionnées;\nb. en cas de scission ou de transfert de patrimoine régis par la loi du 3 octobre 2003 sur la fusion, à la société reprenante, qui devient titulaire des noms de domaine attribués à la société transférante mentionnés dans l’inventaire;\nc. aux héritiers du titulaire décédé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Droits du titulaire",
+        "citation": "Art. 28 al. 6 ODI",
+        "content": "Il tombe dans la masse en faillite du titulaire failli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_28"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Obligations du titulaire",
+        "citation": "Art. 29 al. 1 ODI",
+        "content": "Le titulaire doit tenir à jour et au besoin compléter ou corriger toutes les informations le concernant qui sont nécessaires à la gestion du nom de domaine qui lui a été attribué.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_29"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Obligations du titulaire",
+        "citation": "Art. 29 al. 2 ODI",
+        "content": "Il est tenu de prendre part à une procédure de règlement des différends engagée par le titulaire d’un droit attaché à un signe distinctif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_29"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Mesures",
+        "citation": "Art. 30 al. 1 ODI",
+        "content": "Le registre peut révoquer, de son propre fait ou sur demande du registraire concerné, l’attribution d’un nom de domaine:\na. lorsque le titulaire ne respecte pas la présente ordonnance ou ses dispositions d’exécution;\nb. lorsque les conditions générales ou particulières mises à l’attribution d’un nom de domaine ne sont plus respectées;\nc. lorsque le titulaire ne respecte pas son obligation de tenir à jour, de compléter ou de corriger toutes les informations le concernant qui sont nécessaires à la gestion du nom de domaine qui lui a été attribué;\nd. lorsqu’un registraire le requiert après avoir résilié son contrat avec le titulaire et que celui-ci n’a pas transféré la gestion du nom de domaine à un nouveau registraire dans un délai de 30 jours;\ne. lorsqu’il existe d’autres motifs importants, tels que des raisons techniques, des normes ou des mesures d’harmonisation internationales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Mesures",
+        "citation": "Art. 30 al. 2 ODI",
+        "content": "Le registre révoque l’attribution d’un nom de domaine:\na. lorsqu’une modification de la présente ordonnance et de ses dispositions d’exécution l’exige;\nb. lorsque cela s’avère nécessaire afin de protéger l’intégrité ou la stabilité du DNS;\nc. lorsque le titulaire renonce de son propre fait à son nom de domaine;\nd. lorsque le registraire opérant pour le compte du titulaire se trouve en état de faillite, en liquidation ou a vu son contrat de registraire résilié et que le titulaire n’a pas transféré la gestion du nom de domaine à un nouveau registraire dans un délai de 90 jours; ce délai court à partir du moment où le registre a informé le titulaire de la nécessité de transférer la gestion du nom de domaine à un nouveau registraire; le délai de quarantaine au sens de l’art. 31, al. 3, est de 90 jours;\ne. lorsque des experts mandatés par un service de règlement des différends l’exigent, à moins qu’une action civile n’ait été ouverte dans le délai prévu par le règlement de procédure du service de règlement des différends concerné;\nf. lorsqu’un tribunal ou un tribunal arbitral l’ordonne dans le cadre d’une procédure qui mène à un jugement ou à une décision exécutoire en Suisse;\ng. lorsqu’une autorité administrative ou de poursuite pénale suisse l’ordonne conformément à ses compétences.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Mesures",
+        "citation": "Art. 30 al. 3 ODI",
+        "content": "Un expert mandaté par un service de règlement des différends, un tribunal, un tribunal arbitral ou une autorité administrative ou de poursuite pénale suisse peut, conformément à ses compétences, ordonner au registre de prendre des mesures provisoires; celles-ci peuvent consister notamment à:\na. bloquer ou modifier techniquement le fonctionnement d’un nom de domaine en supprimant les serveurs de noms qui y sont liés dans le fichier de zone, en les remplaçant par de nouveaux serveurs de noms ou en s’abstenant de les réintroduire après leur suppression;\nb. bloquer administrativement un nom de domaine en interdisant son attribution ou sa réattribution à un tiers, son transfert ou tout changement de paramètre technique ou administratif y relatif;\nc. transférer un nom de domaine à un nouveau registraire;\nd. corriger, modifier ou supprimer toute information ou paramètre technique ou administratif qui concernent la gestion d’un nom de domaine;\ne. corriger, modifier, rendre anonyme ou supprimer toute information qui figure dans la banque de données RDDS (WHOIS);\nf. s’attribuer un nom de domaine ou l’attribuer à une personne désignée;\ng. rediriger à des fins d’analyse le trafic destiné à un nom de domaine ou transitant par ce nom de domaine;\nh. rediriger le trafic destiné à un nom de domaine ou transitant par ce nom de domaine vers une page d’information.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Mesures",
+        "citation": "Art. 30 al. 4 ODI",
+        "content": "Le registre peut prendre des mesures préliminaires au sens de l’al. 3:\na. si cela s’avère nécessaire afin de protéger l’intégrité ou la stabilité du DNS et s’il est urgent de prévenir la survenance d’un préjudice imminent et difficilement réparable;\nb. durant 5 jours ouvrables au maximum si des raisons fondées permettent de supposer que le titulaire utilise le nom de domaine à une fin ou d’une manière illicite et s’il est urgent de prévenir la survenance d’un préjudice imminent et difficilement réparable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_30"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Effet de la révocation",
+        "citation": "Art. 31 al. 1 ODI",
+        "content": "La révocation d’un nom de domaine prend effet dès sa communication par le registre sous forme électronique au registraire opérant pour le compte du titulaire concerné par l’intermédiaire du système d’enregistrement. Elle entraîne la révocation des noms de domaine subordonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Effet de la révocation",
+        "citation": "Art. 31 al. 2 ODI",
+        "content": "L’OFCOM rend une décision sur la révocation d’un nom de domaine si, dans les 30 jours suivant la communication de cette révocation, le titulaire:\na. demande une telle décision, et\nb. indique une adresse de correspondance valable en Suisse lorsqu’il est établi à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 2, Dispositions générales pour les domaines gérés par la Confédération, Section 5, Noms de domaine, Effet de la révocation",
+        "citation": "Art. 31 al. 3 ODI",
+        "content": "Sous réserve d’un délai de quarantaine plus long accordé par la présente ordonnance, un nom de domaine révoqué ne peut être attribué à un nouveau titulaire que 40 jours après sa révocation ou l’entrée en force d’une décision au sens de l’al. 2. Durant ce délai de quarantaine, le nom de domaine révoqué doit être réattribué à compter de la date de révocation à son ancien titulaire si celui-ci en fait la demande et que les conditions générales et particulières d’attribution sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_31"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Procédure et conditions de délégation",
+        "citation": "Art. 32 al. 1 ODI",
+        "content": "Lorsque la fonction de registre est déléguée sur la base d’un appel d’offres public ou d’une invitation à soumissionner (art. 28a, al. 2, LTC), l’OFCOM évalue les offres sur la base de critères qui peuvent être pondérés et porter en particulier:\na. sur le prix, l’adéquation et la qualité des services;\nb. sur les qualifications et caractéristiques exigées des délégataires;\nc. sur la sécurité publique et la lutte contre la cybercriminalité;\nd. sur la protection des infrastructures critiques;\ne. sur la participation de la communauté concernée à la gestion des ressources déléguées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Procédure et conditions de délégation",
+        "citation": "Art. 32 al. 2 ODI",
+        "content": "Les candidats n’ont pas le droit de consulter les dossiers de leurs concurrents, ni de prendre position sur les offres et autres actes produits par ceux-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Procédure et conditions de délégation",
+        "citation": "Art. 32 al. 3 ODI",
+        "content": "Les décisions de l’OFCOM doivent préserver les secrets d’affaires des candidats ayant participé à la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_32"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Forme de la délégation",
+        "citation": "Art. 33 ODI",
+        "content": "La délégation à des tiers de la fonction de registre d’un domaine géré par la Confédération ou de tâches particulières liées à cette fonction doit revêtir la forme d’un contrat de droit administratif (contrat de délégation).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_33"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Durée de la délégation",
+        "citation": "Art. 34 al. 1 ODI",
+        "content": "Le contrat de délégation est établi pour une durée déterminée. Sa durée est fixée en fonction du genre et de l’importance des tâches déléguées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_34"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Durée de la délégation",
+        "citation": "Art. 34 al. 2 ODI",
+        "content": "Il peut être prolongé ou renouvelé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_34"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Activités ou services essentiels",
+        "citation": "Art. 35 ODI",
+        "content": "Le délégataire ne peut confier à des tiers des activités ou prestations constituant un élément essentiel de la fonction ou des tâches qui lui sont déléguées qu’avec l’accord de l’OFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_35"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Indépendance",
+        "citation": "Art. 36 al. 1 ODI",
+        "content": "Le délégataire ne peut pas en même temps exercer une fonction de registraire pour le domaine qu’il gère.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_36"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Indépendance",
+        "citation": "Art. 36 al. 2 ODI",
+        "content": "Si le délégataire est lié juridiquement ou économiquement à une entreprise qui exerce une fonction de registraire pour le domaine, une exécution indépendante des tâches doit être garantie dans le contrat de délégation par des mesures appropriées comme la prescription de formes et de pratiques communicationnelles déterminées ou l’obligation de garantir l’autonomie du personnel employé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_36"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Délégation des tâches",
+        "citation": "Art. 37 al. 1 ODI",
+        "content": "Les tâches du registre sont convenues sous forme de catalogue de prestations; des critères qualitatifs sont définis afin de vérifier l’exécution des tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Délégation des tâches",
+        "citation": "Art. 37 al. 2 ODI",
+        "content": "D’autres prestations du registre peuvent être convenues, notamment pour une collaboration dans des forums et organismes internationaux appropriés ou dans le domaine de la protection des données et de la sécurité de l’Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Délégation des tâches",
+        "citation": "Art. 37 al. 3 ODI",
+        "content": "Le registre doit prouver qu’il dispose d’une assurance suffisante pour couvrir les risques liés à ses activités de gestion et d’attribution de noms de domaine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_37"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Prix",
+        "citation": "Art. 38 al. 1 ODI",
+        "content": "Le prix que les registraires doivent acquitter annuellement pour l’enregistrement d’un nom de domaine et pour l’administration des données est fixé dans le contrat de délégation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Prix",
+        "citation": "Art. 38 al. 2 ODI",
+        "content": "Lorsque la délégation des tâches résulte d’un appel d’offres public ou d’une invitation à soumissionner selon l’art. 32, les règles suivantes s’appliquent:\na. le prix correspond à l’offre;\nb. le prix offert peut être adapté pendant la durée de la délégation si la tâche déléguée est modifiée; la différence de prix est calculée d’après les modifications de coûts découlant de l’adaptation des prestations; le délégataire soumet une offre à l’OFCOM et apporte la preuve des modifications de coûts; pour examiner l’offre, l’OFCOM peut recourir à des valeurs de comparaison et exiger la fourniture de tout document utile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Prix",
+        "citation": "Art. 38 al. 3 ODI",
+        "content": "Lorsque la délégation des tâches a lieu directement, le prix couvre les coûts pertinents du registre afférents au catalogue de prestations convenu avec l’OFCOM et permet en outre de réaliser un bénéfice approprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_38"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Obligation d’informer",
+        "citation": "Art. 39 al. 1 ODI",
+        "content": "Les délégataires ont l’obligation de fournir à l’OFCOM tous les renseignements et les documents nécessaires à l’exécution de la présente ordonnance et de ses dispositions d’application.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_39"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Obligation d’informer",
+        "citation": "Art. 39 al. 2 ODI",
+        "content": "Ils sont tenus de transmettre gratuitement à l’OFCOM les renseignements nécessaires à l’établissement d’une statistique officielle. Pour le surplus, les art. 97 à 103 de l’ordonnance du 9 mars 2007 sur les services de télécommunication sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_39"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Surveillance",
+        "citation": "Art. 40 al. 1 ODI",
+        "content": "L’OFCOM veille à ce que les délégataires respectent la présente ordonnance et ses dispositions d’exécution, ainsi que leur contrat de délégation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Surveillance",
+        "citation": "Art. 40 al. 2 ODI",
+        "content": "Il contrôle en principe une fois tous les deux ans la manière dont les délégataires exécutent la fonction ou les tâches déléguées. Ces derniers doivent garantir l’accès à leurs locaux et à leurs installations et fournir tous les renseignements utiles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Surveillance",
+        "citation": "Art. 40 al. 3 ODI",
+        "content": "S’il y a lieu de soupçonner qu’un délégataire ne respecte pas les obligations découlant de la présente ordonnance, de ses dispositions d’exécution ou encore du contrat de délégation, l’OFCOM procède à une vérification. Le délégataire doit garantir l’accès à ses locaux et à ses installations et fournir tous les renseignements utiles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Surveillance",
+        "citation": "Art. 40 al. 4 ODI",
+        "content": "Si la vérification permet d’établir que le délégataire ne remplit pas ses obligations, ce dernier en supporte les coûts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_40"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Mesures de surveillance",
+        "citation": "Art. 41 al. 1 ODI",
+        "content": "S’il s’avère qu’un délégataire ne respecte pas ses obligations, l’OFCOM peut:\na. le sommer de remédier à ce manquement ou de prendre les mesures propres à prévenir toute récidive; le délégataire doit informer l’OFCOM des dispositions prises;\nb. l’obliger à céder à la Confédération l’avantage financier illicitement acquis;\nc. assortir le contrat de délégation de charges;\nd. restreindre ou résilier le contrat de délégation avec effet immédiat ou dans un délai déterminé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_41"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Mesures de surveillance",
+        "citation": "Art. 41 al. 2 ODI",
+        "content": "L’OFCOM peut ordonner des mesures provisionnelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_41"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Modification du contrat de délégation",
+        "citation": "Art. 42 al. 1 ODI",
+        "content": "L’OFCOM peut modifier par voie de décision administrative certaines dispositions du contrat de délégation avant l’expiration de sa durée de validité si les conditions de fait ou de droit ont changé et si la modification est nécessaire pour préserver des intérêts publics prépondérants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_42"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Modification du contrat de délégation",
+        "citation": "Art. 42 al. 2 ODI",
+        "content": "Le délégataire reçoit un dédommagement approprié si la modification du contrat de délégation lui cause un préjudice financier se rapportant à la fonction ou aux tâches déléguées. Ce dédommagement ne comprend pas la compensation du gain manqué.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_42"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 1 ODI",
+        "content": "L’OFCOM résilie le contrat de délégation sans indemnité lorsqu’un délégataire ne remplit plus les conditions d’exercice de la fonction ou des tâches déléguées, cesse toute activité ou se trouve en état de faillite, en liquidation ou dans une procédure concordataire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 2 ODI",
+        "content": "Il peut résilier le contrat de délégation en indemnisant de façon appropriée le délégataire si les conditions de fait ou de droit ont changé et si la résiliation est nécessaire pour préserver des intérêts publics prépondérants. L’indemnité ne comprend pas la compensation du gain manqué. Elle tient compte du montant reçu par le délégataire selon l’al. 5, let. b, pour l’assistance fournie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 3 ODI",
+        "content": "L’OFCOM reprend la fonction ou la tâche déléguée ou charge directement un nouveau délégataire de la reprendre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 4 ODI",
+        "content": "Les titulaires conservent envers le nouveau registre leurs prétentions sur les noms de domaine qui leur ont été attribués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 5 ODI",
+        "content": "Le délégataire est tenu de collaborer et de fournir au nouveau registre toute l’aide et l’assistance techniques et organisationnelles nécessaires afin d’assurer la continuité et la sécurité de la gestion du domaine concerné et des noms de domaine qui lui sont subordonnés. Il a droit à une indemnité fondée sur la valeur utile de son assistance. L’indemnité est, sur demande, fixée par l’OFCOM. Le délégataire doit notamment mettre à disposition:\na. gratuitement: le journal des activités et l’ensemble des données ou informations conservées qui se rapportent au domaine concerné et aux titulaires des noms de domaine attribués ou qui répertorient les actes de gestion de ces noms de domaine et leurs caractéristiques, notamment techniques;\nb. contre dédommagement à la valeur comptable: l’infrastructure technique et informatique indispensable à la poursuite de la fonction ou des tâches déléguées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 3, Délégation de la fonction de registre, Fin de l’activité déléguée",
+        "citation": "Art. 43 al. 6 ODI",
+        "content": "Le délégataire veille à ce que les personnes touchées aient connaissance de la cessation de ses activités et des démarches à entreprendre pour sauvegarder leurs prétentions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_43"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Objet",
+        "citation": "Art. 44 ODI",
+        "content": "Les dispositions du présent chapitre régissent la gestion du domaine de premier niveau «.ch» ainsi que la gestion et l’attribution des noms de domaine de deuxième niveau qui lui sont subordonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_44"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Caractéristiques",
+        "citation": "Art. 45 al. 1 ODI",
+        "content": "Le domaine «.ch» présente les caractéristiques suivantes:\na. il constitue un domaine de pays de premier niveau géré par la Confédération;\nb. les noms de domaine qui lui sont subordonnés sont ouverts à toute personne physique et morale en vue de leur attribution et de leur utilisation;\nc. la fonction de registraire est assurée en libre concurrence par l’ensemble des entités ayant conclu un contrat de registraire avec le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_45"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Caractéristiques",
+        "citation": "Art. 45 al. 2 ODI",
+        "content": "Le registre institue un service de règlement des différends au sens de l’art. 14.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_45"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Mise à disposition de données",
+        "citation": "Art. 46 al. 1 ODI",
+        "content": "Les données suivantes doivent figurer dans la banque de données RDDS (WHOIS):\na. la dénomination du nom de domaine attribué et l’ACE-String correspondant;\nb. dans le cas où le nom de domaine concerné est activé, les données des serveurs de noms qui lui sont assignés;\nc. l’information selon laquelle un nom de domaine est ou non sécurisé par le système DNSSEC;\nd. la date de la première attribution du nom de domaine;\ne. le nom, l’adresse et les données de contact du registraire opérant pour le compte du titulaire du nom de domaine concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Mise à disposition de données",
+        "citation": "Art. 46 al. 2 ODI",
+        "content": "Le registre peut publier les données suivantes dans la banque de données RDDS (WHOIS):\na. les données d’identification et de contact du titulaire du nom de domaine concerné lorsque ce titulaire est une personne morale;\nb. les données d’identification et de contact du titulaire du nom de domaine concerné qui a consenti à la publication;\nc. l’indication d’un moyen anonyme permettant de contacter le titulaire du nom de domaine concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Mise à disposition de données",
+        "citation": "Art. 46 al. 3 ODI",
+        "content": "Il donne gratuitement à toute personne faisant état de manière vraisemblable d’un intérêt légitime prépondérant l’accès aux données personnelles figurant dans la banque de données RDDS (WHOIS) qui se rapportent au titulaire du nom de domaine concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Mise à disposition de données",
+        "citation": "Art. 46 al. 4 ODI",
+        "content": "L’OFCOM peut prescrire les modalités et les processus d’accès au sens de l’al. 3 en tenant compte des règles qui s’appliquent à l’échelon international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Mise à disposition de données",
+        "citation": "Art. 46 al. 5 ODI",
+        "content": "Le registre prend les mesures adéquates, notamment techniques, afin d’empêcher une utilisation abusive des données mises à la disposition du public, en particulier leur utilisation à des fins de publicité ou de promotion commerciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_46"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Conditions particulières d’attribution",
+        "citation": "Art. 47 al. 1 ODI",
+        "content": "Si un nom de domaine n’est pas encore attribué et que les conditions générales prévues à l’art. 25 sont remplies, le registre attribue ce nom au premier requérant qui le demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_47"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Conditions particulières d’attribution",
+        "citation": "Art. 47 al. 2 ODI",
+        "content": "Le registre ne vérifie pas le bien-fondé des droits d’utiliser les dénominations alphanumériques des noms de domaine. Les litiges relatifs aux droits attachés à des signes distinctifs en relation avec des noms de domaine sont régis par le droit civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_47"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Domaines «.ch» transposés",
+        "citation": "Art. 48 al. 1 ODI",
+        "content": "La gestion d’un domaine de pays constituant la transposition du «.ch» en un autre alphabet ou système graphique relève d’un registre propre. L’OFCOM peut confier cette gestion au registre du domaine «.ch».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_48"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 4, Domaine «.ch», Domaines «.ch» transposés",
+        "citation": "Art. 48 al. 2 ODI",
+        "content": "Pour le surplus, les dispositions de la présente ordonnance qui régissent le domaine «.ch» s’appliquent par analogie à la gestion d’un domaine «.ch» transposé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_48"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 1, Dispositions générales, Objet",
+        "citation": "Art. 49 ODI",
+        "content": "Les dispositions du présent chapitre régissent la gestion du domaine de premier niveau «.swiss», ainsi que la gestion et l’attribution des noms de domaine de deuxième niveau qui lui sont subordonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_49"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 1, Dispositions générales, Caractéristiques",
+        "citation": "Art. 50 ODI",
+        "content": "Le domaine «.swiss» présente les caractéristiques suivantes:\na. il est géré par la Confédération;\nb. le domaine et les noms de domaine qui lui sont subordonnés sont destinés à servir et promouvoir la communauté suisse, son image et ses intérêts politiques, économiques, juridiques ou culturels en Suisse et dans le monde;\nc. les noms de domaine subordonnés ne peuvent être attribués qu’aux entités sises en Suisse ou présentant un lien particulier avec la Suisse;\nd. la politique d’attribution des noms de domaine doit être conduite de manière prudente et soucieuse des intérêts de la communauté suisse; elle peut prévoir une ouverture échelonnée des catégories de dénominations pouvant faire l’objet d’une attribution ou de personnes pouvant requérir une telle attribution;\ne. la fonction de registraire est assurée en libre concurrence par l’ensemble des entités ayant conclu un contrat de registraire avec le registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_50"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Tâches particulières",
+        "citation": "Art. 51 ODI",
+        "content": "Dans l’exercice de sa fonction, le registre a les tâches particulières suivantes:\na. offrir un dispositif unique (single point of contact) permettant à toute personne de porter à la connaissance du registre un nom de domaine dont l’attribution ou l’utilisation sont susceptibles de présenter un caractère illicite ou contraire à l’ordre public;\nb. contrôler par sondages que les noms de domaine attribués respectent effectivement les conditions d’attribution et que leur utilisation ne présente manifestement pas un caractère illicite ou contraire à l’ordre public;\nc. prendre des mesures de communication commerciale ou de sponsoring afin de promouvoir le domaine «.swiss»; à cet effet, il peut collaborer avec les autorités compétentes, en particulier l’Institut fédéral de la propriété intellectuelle, l’Office fédéral de la statistique et les registres cantonaux du commerce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_51"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 1 ODI",
+        "content": "Le registre publie dans la banque de données RDDS (WHOIS) les données requises par les règles qui s’appliquent à l’échelon international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 2 ODI",
+        "content": "Il peut y publier les données suivantes:\na. le nom de l’organisation et le numéro IDE du titulaire du nom de domaine concerné;\nb. les données d’identification et de contact du titulaire du nom de domaine concerné lorsque ce titulaire est une personne morale;\nc. les données d’identification et de contact du titulaire du nom de domaine concerné qui a consenti à la publication;\nd. l’indication d’un moyen anonyme permettant de contacter le titulaire du nom de domaine concerné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 3 ODI",
+        "content": "Il offre des facilités de recherche dans la banque de données RDDS (WHOIS) sur la base de critères comme le nom de domaine concerné, le registraire en charge de sa gestion ou la désignation du serveur de nom.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 4 ODI",
+        "content": "Il donne à toute personne qui justifie d’un intérêt légitime prépondérant l’accès aux données personnelles figurant dans la banque de données RDDS (WHOIS) qui se rapportent au titulaire du nom de domaine concerné. Il peut demander une rémunération pour l’accès selon les règles et tarifs qui s’appliquent à l’échelon international, pour autant qu’aucun autre acte législatif n’impose la gratuité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 5 ODI",
+        "content": "Le registraire garantit, conformément aux règles qui s’appliquent à l’échelon international, l’accès au sens de l’al. 4 qui porte sur les données personnelles qui se rapportent au titulaire du nom de domaine concerné pour le compte duquel le registraire opère.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 2, Registre, Mise à disposition de données",
+        "citation": "Art. 52 al. 6 ODI",
+        "content": "Les modalités et les processus d’accès au sens des al. 4 et 5 doivent être conformes aux règles qui s’appliquent à l’échelon international. L’OFCOM peut prescrire des modalités et des processus complémentaires et fixer le montant de la rémunération pour l’accès dans les cas d’espèce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_52"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Conditions particulières d’attribution",
+        "citation": "Art. 53 al. 1 ODI",
+        "content": "Un nom de domaine est attribué lorsque les conditions particulières suivantes sont remplies, en sus des conditions générales prévues par l’art. 25:\na. le requérant peut faire état d’un lien suffisant avec la Suisse; tel est en particulier le cas lorsque son siège et un réel site administratif ou son domicile se trouvent en Suisse, ou s’il peut faire état de la nationalité suisse;\nb. le requérant appartient, au moment du dépôt de la demande d’enregistrement, à une catégorie de personnes habilitée à requérir une attribution (éligibilité);\nc. ...\nd. l’usage prévu est conforme au droit suisse; lorsque le nom de domaine est utilisé pour offrir des produits ou fournir des services, ou pour faire de la publicité en leur faveur, un siège et un réel site administratif ou un domicile en Suisse sont indispensables;\ne. la dénomination requise peut légitimement être considérée comme ayant un rapport objectif avec le requérant ou l’usage prévu du nom de domaine;\nf. la dénomination requise ne correspond ou ne s’apparente pas à une dénomination à caractère générique, sous réserve des dispositions relatives au mandat de nommage (art. 56).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Conditions particulières d’attribution",
+        "citation": "Art. 53 al. 1bis ODI",
+        "content": "Si le requérant est une personne physique, un rapport objectif au sens de l’al. 1, let. e, existe lorsque le nom de domaine contient, outre une dénomination facultative librement choisie, au moins l’une des dénominations suivantes:\na. l’un des noms officiels ou des autres noms enregistrés à l’état civil;\nb. l’un des prénoms;\nc. une dénomination sur laquelle le requérant dispose d’un droit attaché à un signe distinctif;\nd. le nom d’alliance, le nom de partenariat enregistré, le nom reçu dans un ordre religieux ou le nom d’artiste sous lequel la personne s’est fait connaître.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Conditions particulières d’attribution",
+        "citation": "Art. 53 al. 1ter ODI",
+        "content": "Si le requérant est une personne autre que physique, un rapport objectif au sens de l’al. 1, let. e, existe lorsque le nom de domaine remplit l’une des conditions suivantes:\na. il contient une dénomination sur laquelle le requérant dispose d’un droit attaché à un signe distinctif;\nb. il se réfère à une dénomination objectivement liée à l’État ou à ses activités qui est requise par la collectivité publique ou l’organisation de droit public concernée;\nc. il contient une dénomination géographique:\n1. sur laquelle le requérant dispose d’un droit ou d’un intérêt légitime,\n2. pour laquelle le requérant apparaît aux yeux du public comme disposant d’un droit ou d’un intérêt légitime, ou\n3. à l’utilisation de laquelle le requérant est autorisé par la collectivité ou l’organisation concernée;\nd. il relève d’une dénomination sur laquelle le requérant dispose d’un intérêt légitime ou qui est assimilée à ce requérant dans l’esprit du public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Conditions particulières d’attribution",
+        "citation": "Art. 53 al. 2 ODI",
+        "content": "Le registre peut refuser l’attribution d’un nom de domaine:\na. lorsque la dénomination choisie peut manifestement prêter à confusion avec un nom de domaine déjà attribué ou une dénomination réservée en vertu de l’art. 26;\nb. lorsqu’il est manifeste, sur la base d’un examen succinct, que la dénomination choisie viole les droits attachés à un signe distinctif de tiers; pour le reste, le bien-fondé des droits d’utiliser les dénominations alphanumériques des noms de domaine n’est pas vérifié; les litiges relatifs aux droits attachés à des signes distinctifs en relation avec des noms de domaine sont régis par le droit civil;\nc. lorsque les caractéristiques ou les valeurs qui sous-tendent le domaine s’opposent à cette attribution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Conditions particulières d’attribution",
+        "citation": "Art. 53 al. 3 ODI",
+        "content": "Dans des cas exceptionnels, le registre peut attribuer des noms de domaine qui ne remplissent pas les conditions particulières mises à l’attribution lorsque l’intérêt de cette attribution pour la communauté suisse le justifie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_53"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Éligibilité",
+        "citation": "Art. 55 ODI",
+        "content": "Sont éligibles à l’attribution d’un nom de domaine:\na. les collectivités publiques ou autres organisations de droit public suisses;\nb. les entités inscrites au registre du commerce suisse ayant leur siège et un réel site administratif en Suisse;\nc. les associations et les fondations non inscrites au registre du commerce suisse ayant leur siège et un réel site administratif en Suisse;\nd. les personnes physiques ayant leur domicile en Suisse et les ressortissants suisses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_55"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 1 ODI",
+        "content": "Les noms de domaine qui correspondent ou qui s’apparentent à des dénominations à caractère générique présentant un intérêt particulier pour tout ou partie de la communauté suisse doivent être attribués sous mandat de nommage. L’OFCOM peut publier une liste non exhaustive des dénominations ou des catégories de dénomination concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 2 ODI",
+        "content": "Le registre peut attribuer des noms de domaine sous mandat de nommage:\na. à la suite d’un appel à projets; il règle si besoin les modalités de la procédure d’appel à projets; celle-ci doit obéir aux principes de l’objectivité, de la non-discrimination et de la transparence, tout en garantissant la confidentialité des données fournies par les candidats, ou\nb. sur la base d’une candidature spontanée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 3 ODI",
+        "content": "Tout candidat à un nom de domaine devant être attribué sous mandat de nommage doit:\na. démontrer qu’il respecte les conditions générales et particulières mises à l’attribution d’un nom de domaine;\nb. démontrer qu’il représente tout ou partie importante de la communauté concernée par la dénomination requise ou que sa candidature bénéficie du soutien de tout ou partie importante de cette communauté; des garanties de neutralité concurrentielle, de non-discrimination et de transparence peuvent suppléer la représentation ou le soutien de la communauté lorsque la dénomination requise ne se réfère à aucune communauté particulière ou n’est pas représentée par une communauté organisée ou constituée;\nc. indiquer les éventuels noms de domaine apparentés en allemand, français, italien ou anglais qu’il souhaite intégrer dans le mandat de nommage;\nd. démontrer que l’utilisation envisagée du nom de domaine et les prestations ou services offerts en lien avec ce nom bénéficient à l’ensemble de la communauté concernée; \ne. montrer de quelle manière il veillera à ce que les exigences prévues au titre 2 de la loi du 28 août 1992 sur la protection des marques sont respectées par tous les produits proposés à l’aide d’un nom de domaine dont la dénomination se réfère à un produit, à ses caractéristiques ou à une catégorie de produits;\nf. démontrer dans quelle mesure son projet apporte une plus-value pour la communauté concernée et pour la communauté suisse;\ng. démontrer qu’il remplit les conditions prévues par l’OFCOM en fonction des qualités attendues du nom de domaine ou du projet souhaité;\nh. proposer un projet de mandat de nommage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 4 ODI",
+        "content": "Le registre publie les candidatures. D’autres requérants peuvent déposer une demande pour ce même nom de domaine durant les 20 jours qui suivent la publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 5 ODI",
+        "content": "En cas de candidature plurielle, le registre attribue le nom de domaine au candidat dont le projet apporte une plus-value clairement supérieure à celle des autres projets pour la communauté concernée et pour la communauté suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 6 ODI",
+        "content": "Si aucun projet ne satisfait à l’exigence fixée à l’al. 5 et que les candidats ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre soumet l’attribution à un tirage au sort ou à des enchères. Le produit des enchères est versé à la caisse fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 7 ODI",
+        "content": "Un nom de domaine sous mandat de nommage est attribué pour une durée déterminée. Il doit être utilisé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 8 ODI",
+        "content": "Pour le surplus, les règles applicables à la surveillance des délégataires de la fonction de registre d’un domaine géré par la Confédération (art. 40 à 43) s’appliquent par analogie aux mandats de nommage, en particulier à leur révocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 8bis ODI",
+        "content": "La résiliation d’un mandat de nommage (art. 41) est en particulier admissible lorsque:\na. le titulaire ne remplit plus les conditions d’attribution ou ne respecte pas les dispositions du mandat, ou\nb. le titulaire ne s’est pas acquitté des émoluments dus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Mandat de nommage",
+        "citation": "Art. 56 al. 9 ODI",
+        "content": "Le registre fournit les mandats de nommage aux tiers qui en font la demande; il peut aussi les rendre accessibles par procédure d’appel ou les publier d’une autre manière. Les clauses et annexes contenant des secrets d’affaires ne sont pas communiquées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_56"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Processus d’attribution",
+        "citation": "Art. 57 al. 1 ODI",
+        "content": "Le registre publie toute demande d’enregistrement d’un nom de domaine après examen préalable, à moins que la demande ne remplisse manifestement pas les conditions générales et particulières d’attribution. D’autres requérants peuvent déposer une demande d’enregistrement pour ce même nom de domaine durant les 20 jours qui suivent la publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Processus d’attribution",
+        "citation": "Art. 57 al. 2 ODI",
+        "content": "En cas de demande plurielle, le registre attribue le nom de domaine concerné dans l’ordre de priorité suivant:\na. par principe à la collectivité publique ou à l’organisation de droit public requérante lorsque celle-ci est en concurrence avec des requérants privés et que la désignation requise est en tant que telle d’intérêt public;\nb. à celle parmi les collectivités publiques ou organisations de droit public requérantes qui prévoit une utilisation du nom de domaine concerné apportant une plus-value clairement supérieure pour la communauté suisse à celle d’autres collectivités ou organisations de ce type; si aucun projet ne satisfait à cette exigence et que les collectivités ou organisations ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre renonce à attribuer le nom de domaine;\nc. par principe au requérant qui dispose d’un droit attaché à un signe distinctif correspondant au nom de domaine concerné lorsqu’il est en concurrence avec des requérants ne bénéficiant pas d’un tel droit;\nd. au plus offrant lors d’enchères lorsque les requérants disposent de droits attachés à des signes distinctifs concurrents sur le nom de domaine concerné, à moins que la tenue d’enchères n’apparaisse inappropriée au vu de l’ensemble des circonstances ou des requérants concernés; le produit des enchères est versé à la caisse fédérale;\ndbis. à une personne morale lorsque celle-ci est en concurrence avec des personnes physiques;\ne. à celui parmi les requérants qui a demandé en premier le nom de domaine concerné lorsque tous les requérants prévoient d’utiliser ce nom de domaine à des fins non commerciales;\nf. au requérant qui prévoit une utilisation apportant une plus-value clairement supérieure pour la communauté suisse à celle des autres requérants; si aucun projet ne satisfait à cette exigence et que les requérants ne peuvent se mettre d’accord sur une candidature unique ou commune, le registre soumet l’attribution à un tirage au sort ou à des enchères; le produit des enchères est versé à la caisse fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 3, Attribution, Processus d’attribution",
+        "citation": "Art. 57 al. 3 ODI",
+        "content": "Sous réserve de l’examen préalable selon l’art. 53, al. 2, let. b, le registre ne vérifie pas le bien-fondé des droits d’utiliser les dénominations alphanumériques des noms de domaine. Les litiges relatifs aux droits attachés à des signes distinctifs en relation avec des noms de domaine sont régis par le droit civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_57"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 5, Domaine «.swiss», Section 4, Révocation",
+        "citation": "Art. 58 ODI",
+        "content": "Le registre peut révoquer, de son propre fait ou sur demande du registraire concerné, l’attribution d’un nom de domaine:\na. lorsqu’il apparaît qu’une dénomination générique attribuée en tant que nom de domaine devrait l’être sous mandat de nommage; le bénéficiaire du mandat de nommage verse à l’ancien titulaire un dédommagement qui comprend l’ensemble des frais d’enregistrement et de gestion du nom de domaine révoqué;\nb. lorsqu’il est manifeste, sur la base d’un examen succinct, que la dénomination attribuée en tant que nom de domaine viole un droit attaché à un signe distinctif;\nc. lorsque le nom de domaine contient une dénomination géographique qui présente un intérêt particulier pour tout ou partie de la communauté suisse et est requis par une collectivité publique ou une autre organisation de droit public; celle-ci verse à l’ancien titulaire un dédommagement qui comprend l’ensemble des frais d’enregistrement et de gestion du nom de domaine révoqué;\nd. lorsque des motifs laissent raisonnablement supposer que le titulaire a demandé l’attribution uniquement dans le but de nuire à la réputation du titulaire d’un intérêt légitime sur ce nom ou sur un nom apparenté, ou à celle d’un produit ou service assimilé à ce nom dans l’esprit du public;\ne. lorsque des motifs laissent raisonnablement supposer que le titulaire a demandé l’attribution dans le but de profiter de la renommée du titulaire d’un intérêt légitime sur ce nom ou sur un nom apparenté, ou de celle d’un produit ou service assimilé à ce nom dans l’esprit du public;\nf. lorsque les caractéristiques ou les valeurs qui sous-tendent le domaine l’exigent;\ng. lorsque le titulaire est une personne physique qui n’a pas la nationalité suisse et part pour l’étranger; l’attribution du nom de domaine peut être révoquée dans les circonstances suivantes:\n1. si le titulaire ne s’identifie pas correctement ou n’indique pas une adresse de correspondance valable en Suisse dans les 30 jours lorsque le registre, l’OFCOM ou une autorité suisse intervenant dans le cadre de l’exécution de ses tâches le requiert,\n2. s’il utilise le nom de domaine pour offrir des produits ou fournir des services, ou pour faire de la publicité en leur faveur,\n3. si des raisons fondées permettent de supposer qu’il utilise le nom de domaine à une fin ou d’une manière illicite au regard du droit suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_58"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 6, Domaines gérés par d’autres collectivités publiques suisses",
+        "citation": "Art. 59 al. 1 ODI",
+        "content": "Les collectivités publiques suisses peuvent se porter candidates pour l’obtention des domaines génériques de premier niveau de leur choix auprès de l’ICANN.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 6, Domaines gérés par d’autres collectivités publiques suisses",
+        "citation": "Art. 59 al. 2 ODI",
+        "content": "Elles respectent les principes suivants:\na. elles veillent à ce que le droit suisse et les intérêts de la Suisse soient respectés lors de la gestion et de l’utilisation des domaines et des noms de domaine qui leur sont subordonnés;\nb. elles préservent la sécurité et la disponibilité de l’infrastructure et des services nécessaires au fonctionnement du DNS;\nc. elles prennent des mesures afin d’empêcher une utilisation abusive des données mises à la disposition du public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 6, Domaines gérés par d’autres collectivités publiques suisses",
+        "citation": "Art. 59 al. 3 ODI",
+        "content": "L’OFCOM surveille le respect par les collectivités publiques concernées des principes de gestion prévus à l’al. 2. Il précise si besoin est les mesures ou exigences relatives à la sécurité et à la disponibilité de l’infrastructure et des services nécessaires au fonctionnement du DNS et à l’utilisation abusive des données mises à la disposition du public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_59"
+    },
+    {
+        "book": "VID",
+        "title": "ODI, Chapitre 6, Domaines gérés par d’autres collectivités publiques suisses",
+        "citation": "Art. 59 al. 4 ODI",
+        "content": "Si une collectivité publique qui a obtenu un domaine générique n’a pas édicté les règles nécessaires, elle gère ce domaine conformément aux dispositions de la présente ordonnance qui régissent le domaine «.ch».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2014/701/fr#art_59"
+    }
+]

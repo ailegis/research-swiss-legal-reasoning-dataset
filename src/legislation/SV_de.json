@@ -1,0 +1,765 @@
+[
+    {
+        "book": "SV",
+        "title": "SV, 1. Kapitel: Gegenstand und Geltungsbereich",
+        "citation": "Art. 1 Abs. 1 SV",
+        "content": "Diese Verordnung regelt für das Schlachtvieh und Fleisch die Einstufung der Qualität, die öffentlichen Märkte, die Marktentlastungsmassnahmen, die Einfuhr im Rahmen der Zollkontingente und die Übertragung von Aufgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_1"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 1. Kapitel: Gegenstand und Geltungsbereich",
+        "citation": "Art. 1 Abs. 2 SV",
+        "content": "Sie gilt für Schlachttiere der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung, deren Fleisch, Geflügelfleisch und Schlachtnebenprodukte der in Anhang 1 Ziffer 3 der Agrareinfuhrverordnung vom 26. Oktober 2011 aufgeführten Zolltarifnummern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_1"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Qualitätseinstufung",
+        "citation": "Art. 2 Abs. 1 SV",
+        "content": "Für alle lebenden Tiere der Rindvieh- und Schafgattung auf überwachten öffentlichen Märkten und für alle geschlachteten Tiere der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung muss eine Qualitätseinstufung anhand der Kriterien nach Artikel 4 durchgeführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_2"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Qualitätseinstufung",
+        "citation": "Art. 2 Abs. 2 SV",
+        "content": "Ausgenommen von Absatz 1 sind:\na. Hausschlachtungen;\nb. Schlachtungen für den privaten Eigenkonsum;\nc. geschlachtete Tiere der Schweinegattung in Schlachtbetrieben mit weniger als 1200 Schlachteinheiten pro Jahr; und\nd. geschlachtete Tiere der Rindvieh-, Pferde-, Schaf- und Ziegengattung in Schlachtbetrieben mit weniger als 1200 Schlachteinheiten pro Jahr, bei denen der Lieferant auf eine Qualitätseinstufung verzichtet;\ne. Schlachtungen im Auftrag von Produzenten zur Direktvermarktung.\nf. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_2"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 1 SV",
+        "content": "In folgenden Schlachtbetrieben muss für geschlachtete Tiere eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden:\na. für geschlachtete Tiere der Rindvieh-, Schweine-, Schaf-, Ziegen- und Pferdegattung in Schlachtbetrieben, die jährlich mehr als 1200 Schlachteinheiten schlachten;\nb. für geschlachtete Tiere der Rindvieh-, Schweine-, Schaf-, Ziegen- und Pferdegattung in Schlachtbetrieben, die:\n1. jährlich zwischen 800 und 1200 Schlachteinheiten schlachten, und\n2. einziger Schlachtbetrieb mit einer neutralen Qualitätseinstufung in einem Kanton oder einer grösseren Region sind;\nc. für geschlachtete Gitzi in Schlachtbetrieben, die:\n1. jährlich mehr als 100 Gitzi schlachten, und\n2. für eine zeitlich befristete Dauer mit grossem Inlandangebot eine neutrale Qualitätseinstufung durch die beauftrage Organisation verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 2 SV",
+        "content": "Als Schlachteinheit gelten 1 Kuh, 1 Rind, 2 Kälber, 1 Pferd, 1 Fohlen, 5 Schweine, 10 Schafe, 10 Ziegen, 20 Ferkel, 20 Lämmer und 20 Gitzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 3 SV",
+        "content": "Die Schlachtbetriebe halten das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren schriftlich auf dem Waagdokument fest und übermitteln die Ergebnisse an die Identitas AG. Nicht übermittelt werden müssen Ergebnisse der Qualitätseinstufung von Tieren der Pferdegattung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 4 SV",
+        "content": "Der Lieferant und der Abnehmer können das Ergebnis der neutralen Qualitätseinstufung von geschlachteten Tieren bei der beauftragten Organisation beanstanden. Die Beanstandung hat spätestens bis um 24.00 Uhr des Schlachttags zu erfolgen. Die von einer Beanstandung betroffenen Schlachtkörper müssen so lange im Schlachtbetrieb unzerlegt blockiert werden, bis die zweite neutrale Qualitätseinstufung erfolgt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 4bis SV",
+        "content": "Führt eine Beanstandung nicht zu einer Korrektur des Ergebnisses der ersten neutralen Qualitätseinstufung, so kann die beauftragte Organisation beim Lieferanten oder Abnehmer, der das Ergebnis beanstandet hat, zur Deckung der administrativen Zusatzkosten Gebühren erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Neutrale Qualitätseinstufung",
+        "citation": "Art. 3 Abs. 5 SV",
+        "content": "Auf überwachten öffentlichen Märkten muss für lebende Tiere der Rindvieh- und Schafgattung eine neutrale Qualitätseinstufung durch die beauftragte Organisation nach Artikel 26 Absatz 1 Buchstabe a vorgenommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_3"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Kriterien zur Qualitätseinstufung",
+        "citation": "Art. 4 Abs. 1 SV",
+        "content": "Kriterien für die Qualitätseinstufung von Tieren der Rindvieh-, Pferde-, Schaf- und Ziegengattung bilden das Alter, die Fleischigkeit und das Fettgewebe. Es können auch wissenschaftlich anerkannte Kriterien der Fett- und Fleischqualität herangezogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_4"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Kriterien zur Qualitätseinstufung",
+        "citation": "Art. 4 Abs. 2 SV",
+        "content": "Kriterium für die Qualitätseinstufung von geschlachteten Tieren der Schweinegattung bildet die Fleischigkeit. Es können auch wissenschaftlich anerkannte Kriterien der Fett- und Fleischqualität herangezogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_4"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Einschätzungs- und Klassifizierungssysteme",
+        "citation": "Art. 5 Abs. 1 SV",
+        "content": "Das Bundesamt für Landwirtschaft (BLW) legt anhand der Kriterien nach Artikel 4 Einschätzungs- und Klassifizierungssysteme fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_5"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Einschätzungs- und Klassifizierungssysteme",
+        "citation": "Art. 5 Abs. 2 SV",
+        "content": "Es kann festlegen, welche technischen Geräte für die Einstufung der Qualität von geschlachteten Tieren eingesetzt werden dürfen, und die Anwendung und Überwachung der Geräte regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_5"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2. Kapitel: Einstufung der Qualität, Einschätzungs- und Klassifizierungssysteme",
+        "citation": "Art. 5 Abs. 3 SV",
+        "content": "Die Investitions- und Betriebskosten der technischen Geräte werden durch die Schlachtbetriebe getragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_5"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2a. Kapitel: Ermittlung des Schlachtgewichts",
+        "citation": "Art. 5a Abs. 1 SV",
+        "content": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) regelt die Ermittlung des Schlachtgewichts von Tieren der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_5_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 2a. Kapitel: Ermittlung des Schlachtgewichts",
+        "citation": "Art. 5a Abs. 2 SV",
+        "content": "Es kann Ausnahmen von der Pflicht zur Ermittlung des Schlachtgewichts vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_5_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Bezeichnung",
+        "citation": "Art. 6 Abs. 1 SV",
+        "content": "Die mit der Aufgabe nach Artikel 26 Absatz 1 Buchstabe b beauftragte Organisation bezeichnet jeweils für ein Kalenderjahr öffentliche Märkte für Tiere der Rindviehgattung ab einem Alter von 161 Tagen und für Tiere der Schafgattung. Die Bezeichnung erfolgt im Einvernehmen mit den Kantonen und den bäuerlichen Organisationen und bedarf der Zustimmung durch das BLW.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_6"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Bezeichnung",
+        "citation": "Art. 6 Abs. 2 SV",
+        "content": "Als öffentliche Märkte können nur Märkte bezeichnet werden, auf denen vom 1. Juli bis zum 30. Juni vor dem entsprechenden Kalenderjahr durchschnittlich mindestens 50 Tiere pro Markt aufgeführt und gemäss Artikel 7 Absatz 2 versteigert wurden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_6"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Bezeichnung",
+        "citation": "Art. 6 Abs. 3 SV",
+        "content": "Zwei Märkte, die zusammen die Mindestgrösse nach Absatz 2 erreichen, können ebenfalls bezeichnet werden, wenn sie in derselben Region und am gleichen Halbtag stattgefunden haben und von denselben Angestellten der beauftragten Organisation überwacht wurden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_6"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Bezeichnung",
+        "citation": "Art. 6 Abs. 4 SV",
+        "content": "Die Anforderungen nach Absatz 2 gelten für neu veranstaltete Märkte erst ab dem dritten Kalenderjahr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_6"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Bezeichnung",
+        "citation": "Art. 6 Abs. 5 SV",
+        "content": "Die beauftragte Organisation erstellt vor Beginn des Kalenderjahres ein Jahresmarktprogramm mit den bezeichneten öffentlichen Märkten. Darin werden insbesondere die Marktplätze, das Datum der einzelnen Märkte und die zur Auffuhr berechtigten Tierkategorien angegeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_6"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Durchführung und Überwachung",
+        "citation": "Art. 7 Abs. 1 SV",
+        "content": "Die beauftragte Organisation informiert die interessierten Kreise über die angemeldeten, aufgeführten, versteigerten und die im Rahmen der Marktabräumung zugeteilten Tiere. Sie erfasst zudem die Zahl der versteigerten und zugeteilten Tiere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_7"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Durchführung und Überwachung",
+        "citation": "Art. 7 Abs. 2 SV",
+        "content": "Auf den öffentlichen Märkten müssen die aufgeführten Tiere mit öffentlichem Aufruf versteigert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_7"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Infrastrukturbeiträge im Berggebiet",
+        "citation": "Art. 8 Abs. 1 SV",
+        "content": "Für die Geräte und Ausrüstungen von öffentlichen Märkten im Berggebiet werden im Rahmen der bewilligten Kredite Beiträge ausgerichtet, soweit es sich um gemeinschaftliche Massnahmen handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_8"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Infrastrukturbeiträge im Berggebiet",
+        "citation": "Art. 8 Abs. 2 SV",
+        "content": "Als Berggebiet im Zusammenhang mit öffentlichen Märkten gelten die Bergzonen I–IV nach der Verordnung vom 7. Dezember 1998 über den landwirtschaftlichen Produktionskataster und die Ausscheidung von Zonen. Massgebend für die Zonenzuteilung ist der Standort des Marktplatzes. Befindet sich der Standort des Marktplatzes ausserhalb des Berggebietes, werden Infrastrukturbeiträge ausgerichtet, wenn mehr als zwei Drittel der darauf vermarkteten Tiere im vorangehenden Kalenderjahr direkt aus dem Berggebiet stammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_8"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Infrastrukturbeiträge im Berggebiet",
+        "citation": "Art. 8 Abs. 3 SV",
+        "content": "Der Beitrag beträgt 50 Prozent der anrechenbaren Kosten, jedoch maximal 50 000 Franken je Projekt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_8"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Infrastrukturbeiträge im Berggebiet",
+        "citation": "Art. 8 Abs. 4 SV",
+        "content": "Anrechenbar sind die folgenden Kosten:\na. Anschaffungs- und Installationskosten, inklusive Eigenleistungen und eigene Materiallieferungen;\nb. Kosten der Projektierung und Bauleitung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_8"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Infrastrukturbeiträge im Berggebiet",
+        "citation": "Art. 8 Abs. 5 SV",
+        "content": "Nicht anrechenbare Kosten sind insbesondere:\na. Verwaltungskosten, Sitzungsgelder, Zinsen, Versicherungsprämien und Gebühren;\nb. Betriebs- und Unterhaltskosten;\nc. Kosten für einen allfälligen Landerwerb.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_8"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Gesuche um Infrastrukturbeiträge",
+        "citation": "Art. 9 Abs. 1 SV",
+        "content": "Gesuche um Infrastrukturbeiträge sind beim Kanton einzureichen. Dem Gesuch ist insbesondere eine Kostenabschätzung beizulegen. Bei Projekten, für die eine Baubewilligung erforderlich ist, sind zusätzlich einzureichen:\na. die Baupläne;\nb. die rechtskräftige Baubewilligung; und\nc. der Nachweis der Publikation im kantonalen Amtsblatt nach den Artikeln 12 und 12a des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_9"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Gesuche um Infrastrukturbeiträge",
+        "citation": "Art. 9 Abs. 2 SV",
+        "content": "Der Kanton prüft das Gesuch und leitet es mit seinem Antrag zum Entscheid an das BLW weiter. Dem Antrag sind allfällige Bedingungen und Auflagen des Kantons beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_9"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Gesuche um Infrastrukturbeiträge",
+        "citation": "Art. 9 Abs. 3 SV",
+        "content": "Das BLW entscheidet über das Gesuch und sichert den Gesuchstellerinnen und Gesuchstellern den Beitrag mittels Verfügung zu. Es zahlt 50 Prozent des Beitrages nach Beginn der Ausführung der Arbeiten basierend auf der Kostenabschätzung aus und den restlichen Betrag gestützt auf die definitive Abrechnung nach Abschluss des Projektes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_9"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 3. Kapitel: Öffentliche Märkte, Gesuche um Infrastrukturbeiträge",
+        "citation": "Art. 9 Abs. 4 SV",
+        "content": "Die Anschaffungen dürfen erst getätigt werden, wenn die Beiträge rechtskräftig verfügt sind. Das BLW kann eine vorzeitige Anschaffung bewilligen, wenn das Abwarten der Rechtskraft der Verfügung mit schwerwiegenden Nachteilen verbunden wäre. Solche Bewilligungen geben jedoch keinen Anspruch auf Beiträge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_9"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Durchführung von Marktentlastungsmassnahmen",
+        "citation": "Art. 10 Abs. 1 SV",
+        "content": "Die mit den Aufgaben nach Artikel 26 Absatz 1 Buchstabe b und c beauftragte Organisation kann bei übermässigem saisonalen Angebot oder anderen vorübergehenden Überschüssen:\na. Marktabräumung ab überwachten öffentlichen Märkten beschliessen und durchführen;\nb. Einlagerungs- und Verbilligungsaktionen beschliessen und organisieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_10"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Durchführung von Marktentlastungsmassnahmen",
+        "citation": "Art. 10 Abs. 2 SV",
+        "content": "Sie bestimmt nach Anhörung der interessierten Kreise Zeitpunkt, Art und Umfang der Marktentlastungsmassnahmen sowie im Rahmen der bewilligten Kredite die Höhe der Beiträge für Einlagerungs- und Verbilligungsaktionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_10"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Durchführung von Marktentlastungsmassnahmen",
+        "citation": "Art. 10 Abs. 3 SV",
+        "content": "Saisonale Marktentlastungsmassnahmen dürfen für jede Tierkategorie während maximal 6 Monaten pro Jahr durchgeführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_10"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Marktabräumung",
+        "citation": "Art. 11 Abs. 1 SV",
+        "content": "Kontingentsanteilsinhaberinnen nach Artikel 21 sind gemäss ihrem Anteil an den 10 Prozent für nicht ersteigerte Tiere auf überwachten öffentlichen Märkten übernahmepflichtig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_11"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Marktabräumung",
+        "citation": "Art. 11 Abs. 2 SV",
+        "content": "Die Marktabräumungsanteile werden den Übernahmepflichtigen gleichzeitig mit der Zuteilung der Kontingentsanteile nach Artikel 21 Absatz 2 in Prozenten verfügt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_11"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Marktabräumung",
+        "citation": "Art. 11 Abs. 3 SV",
+        "content": "Die zu übernehmenden Tiere werden den Übernahmepflichtigen von der beauftragten Organisation zu den von ihr festgestellten marktüblichen Preisen zugeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_11"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Sicherstellung der Marktabräumung",
+        "citation": "Art. 12 Abs. 1 SV",
+        "content": "Kontingentsanteilsinhaberinnen können durch die beauftragte Organisation zu einer Sicherstellung für die Marktabräumung verpflichtet werden, wenn Zweifel an ihrer Zahlungsfähigkeit bestehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_12"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Sicherstellung der Marktabräumung",
+        "citation": "Art. 12 Abs. 2 SV",
+        "content": "Die Höhe der Sicherstellung richtet sich nach dem Umfang der entsprechenden Kontingentsanteile und darf maximal 300 000 Franken betragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_12"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 1 SV",
+        "content": "Bei Einlagerungsaktionen wird das freiwillige Einfrieren von Fleisch von Tieren der Rindvieh-, und Schweinegattung mit Beiträgen finanziert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 2 SV",
+        "content": "Die Einlagerungsbeiträge richten sich nach dem Qualitäts- und Gewichtsverlust sowie den Lagerkosten und dürfen einen Drittel des Marktwertes, den das Fleisch im Zeitpunkt der Einlagerung darstellt, nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 3 SV",
+        "content": "Bei Verbilligungsaktionen werden Stotzen von grossem Schlachtvieh für die Trockenfleischproduktion, Schweineschinken für die Rohschinkenproduktion und Bankfleisch für die Verarbeitung mit Beiträgen verbilligt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 4 SV",
+        "content": "Die Verbilligungsbeiträge dürfen einen Drittel des Marktwertes, den das Fleisch im Zeitpunkt der Verbilligung darstellt, nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 5 SV",
+        "content": "Die beauftrage Organisation erstellt die Abrechnungsbelege des BLW und übermittelt sie ihm.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 4. Kapitel: Marktentlastungsmassnahmen, Einlagerungs- und Verbilligungsaktionen",
+        "citation": "Art. 13 Abs. 6 SV",
+        "content": "Das BLW zahlt die Beiträge aus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_13"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Zollkontingent Nr. 5 «rotes Fleisch»",
+        "citation": "Art. 14 Abs. 1 SV",
+        "content": "Das Zollkontingent Nr. 5 «rotes Fleisch» (vorwiegend auf Raufutterbasis produziert) wird in folgende Teilzollkontingente (T-K) aufgeteilt:\na. T-K Nr. 5.1: luftgetrocknetes Trockenfleisch;\nb. T-K Nr. 5.2: Rindfleischzubereitungen;\nc. T-K Nr. 5.3: Koscherfleisch von Tieren der Rindviehgattung;\nd. T-K Nr. 5.4: Koscherfleisch von Tieren der Schafgattung;\ne. T-K Nr. 5.5: Halalfleisch von Tieren der Rindviehgattung;\nf. T-K Nr. 5.6: Halalfleisch von Tieren der Schafgattung;\ng. T-K Nr. 5.7: Übriges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_14"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Zollkontingent Nr. 5 «rotes Fleisch»",
+        "citation": "Art. 14 Abs. 1bis SV",
+        "content": "Das Teilzollkontingent «Rindfleischzubereitungen» enthält folgende Fleisch- und Fleischwarenkategorien (F-K):\na. F-K Nr. 5.21: zugeschnittene Rindsbinden, gesalzen und gewürzt;\nb. F-K Nr. 5.22: Rindfleischkonserven.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_14"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Zollkontingent Nr. 5 «rotes Fleisch»",
+        "citation": "Art. 14 Abs. 2 SV",
+        "content": "Das Teilzollkontingent «Übriges» enthält folgende F-K:\na. F-K Nr. 5.71: Fleisch und Schlachtnebenprodukte von Tieren der Rindviehgattung ohne zugeschnittene Rindsbinden;\nb. F-K Nr. 5.72: zugeschnittene Rindsbinden; als zugeschnittene Rindsbinden gelten zugeschnittene Eckstücke, Unterspälten und runder Mocken (Fische);\nc. F-K Nr. 5.73: Fleisch und Schlachtnebenprodukte von Tieren der Pferdegattung;\nd. F-K Nr. 5.74: Fleisch und Schlachtnebenprodukte von Tieren der Schafgattung;\ne. F-K Nr. 5.75: Fleisch und Schlachtnebenprodukte von Tieren der Ziegengattung;\nf. F-K Nr. 5.76: Schlachtnebenprodukte von Tieren der Schweinegattung;\ng. F-K Nr. 5.77: Pâté, Terrinen, Fleischgranulat und genusstaugliche Schlachtnebenprodukte von Tieren der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung für die Tiernahrungskonservenindustrie und für die Herstellung von Gelatine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_14"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Zollkontingent Nr. 6 «weisses Fleisch»",
+        "citation": "Art. 15 Abs. 1 SV",
+        "content": "Das Zollkontingent Nr. 6 «weisses Fleisch» (vorwiegend auf Kraftfutterbasis produziert) wird in folgende Teilzollkontingente (T-K) aufgeteilt:\na. T-K Nr. 6.1: luftgetrockneter Rohschinken;\nb. T-K Nr. 6.2: Dosen- und Kochschinken;\nc. T-K Nr. 6.3: Wurstwaren;\nd. T-K Nr. 6.4: Übriges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_15"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Zollkontingent Nr. 6 «weisses Fleisch»",
+        "citation": "Art. 15 Abs. 2 SV",
+        "content": "Das Teilzollkontingent «Übriges» enthält folgende Fleisch- und Fleischwarenkategorien (F-K):\na. F-K Nr. 6.41: Schweinefleisch in Hälften;\nb. F-K Nr. 6.42: Geflügelfleisch, inkl. Geflügelkonserven und Schlachtnebenprodukte von Geflügel;\nc. F-K Nr. 6.43: Pâté und Fleischgranulat zur Suppen- und Saucenherstellung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_15"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Aufteilung der Fleisch- und Fleischwarenkategorien sowie Festlegung der Einfuhrmengen",
+        "citation": "Art. 16 Abs. 1 SV",
+        "content": "Das BLW legt höchstens einmal für jede Einfuhrperiode unter Berücksichtigung der Marktlage mittels Verfügung die Menge der Fleisch- und Fleischwarenkategorien oder der darin enthaltenen Fleischstücke fest, die in der jeweiligen Einfuhrperiode eingeführt werden kann; es hört vorgängig die interessierten Kreise, die in der Regel durch die mit den Aufgaben nach Artikel 26 beauftragten Organisationen vertreten werden, an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Aufteilung der Fleisch- und Fleischwarenkategorien sowie Festlegung der Einfuhrmengen",
+        "citation": "Art. 16 Abs. 1bis SV",
+        "content": "Bei der Festlegung der Menge nach Absatz 1 gelten als Nierstücke:\na. nicht ausgebeinte Nierstücke, bestehend aus Huft, Filet und Roastbeef; \nb. ausgebeinte Nierstücke, in die einzelnen Fleischteile Huft, Filet und Roastbeef zerlegt, wenn die einzelnen Fleischteile in je gleicher Anzahl gleichzeitig zur Zollveranlagung angemeldet werden; nicht als Nierstücke gelten zerkleinerte Hufte, Filets und Roastbeefs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Aufteilung der Fleisch- und Fleischwarenkategorien sowie Festlegung der Einfuhrmengen",
+        "citation": "Art. 16 Abs. 2 SV",
+        "content": "Ausgenommen von Absatz 1 sind die Fleisch- und Fleischwarenkategorien 5.77 und 6.43.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Aufteilung der Fleisch- und Fleischwarenkategorien sowie Festlegung der Einfuhrmengen",
+        "citation": "Art. 16 Abs. 3 SV",
+        "content": "Als Einfuhrperiode gilt:\na. für Fleisch von Tieren der Rindviehgattung, Schweinefleisch in Hälften sowie für zugeschnittene Rindsbinden, gesalzen und gewürzt: vier Wochen;\nb. für Fleisch von Tieren der Schaf-, Ziegen- und Pferdegattung, Geflügelfleisch inkl. Geflügelkonserven und Schlachtnebenprodukte von Geflügel sowie für Schlachtnebenprodukte von Tieren der Rindvieh-, Schweine-, Pferde-, Schaf- und Ziegengattung: das Jahresquartal;\nc. für alle anderen Fleisch- und Fleischwarenkategorien: das Kalenderjahr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Aufteilung der Fleisch- und Fleischwarenkategorien sowie Festlegung der Einfuhrmengen",
+        "citation": "Art. 16 Abs. 4bis SV",
+        "content": "Die Einfuhrperioden dürfen sich weder überschneiden noch über das Kalenderjahr hinausgehen.\n5 und 6 ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen",
+        "citation": "Art. 16a Abs. 1 SV",
+        "content": "Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrperiode verkürzt oder verlängert. Der Antrag ist vor Beginn der betreffenden Einfuhrperiode nach Artikel 16 Absatz 3 einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen",
+        "citation": "Art. 16a Abs. 2 SV",
+        "content": "Die interessierten Kreise können beim BLW beantragen, dass dieses die Einfuhrmengen für Fleisch, Konserven und Schlachtnebenprodukte nach Artikel 16 Absatz 3 Buchstabe b erhöht. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen",
+        "citation": "Art. 16a Abs. 3 SV",
+        "content": "Führt höhere Gewalt zu logistischen Schwierigkeiten, so können die interessierten Kreise beim BLW beantragen, dass dieses Einfuhrperioden für bereits zugeteilte und bezahlte Kontingentsanteile verlängert. Der Antrag ist nach Beginn der Einfuhrperiode, jedoch vor deren Ablauf einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen",
+        "citation": "Art. 16a Abs. 4 SV",
+        "content": "Das BLW gibt einem Antrag statt, wenn dieser von den interessierten Kreisen mit je einer Zweidrittelmehrheit der Vertreterinnen und Vertreter auf der Stufe Produktion und der Vertreterinnen und Vertreter auf der Stufe Verarbeitung und Handel unterstützt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Verkürzung und Verlängerung von Einfuhrperioden sowie Erhöhung von Einfuhrmengen",
+        "citation": "Art. 16a Abs. 5 SV",
+        "content": "Es darf eine Einfuhrperiode nur so weit verlängern, dass sie sich weder mit der nachfolgenden Einfuhrperiode überschneidet, noch über das Kalenderjahr hinausgeht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 1. Abschnitt: Aufteilung der Zollkontingente, Übertragung nicht ausgenützter Kontingentsanteile",
+        "citation": "Art. 16b SV",
+        "content": "Kommt es bei der Einfuhr aufgrund höherer Gewalt zu unverschuldeten logistischen Schwierigkeiten, so kann das BLW auf begründetes schriftliches Gesuch hin nicht ausgenützte Mengen von ersteigerten und bezahlten Kontingentsanteilen auf die nächste Einfuhrperiode im selben Kalenderjahr übertragen, wenn:\na. die Menge mindestens 500 kg sowie höchstens 5 Prozent der Kontingentsanteile beträgt, die der gesuchstellenden Person insgesamt aufgrund der Versteigerung zugeteilt und zur Ausnützung übertragen worden sind; und \nb. das Gesuch vor Ablauf der Einfuhrperiode beim BLW eintrifft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_16_b"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Versteigerung",
+        "citation": "Art. 17 Abs. 1 SV",
+        "content": "Die Teilzollkontingente 5.1–5.6, 6.1–6.3 sowie die vom BLW nach Artikel 16 festgelegten Einfuhrmengen der Fleisch- und Fleischwarenkategorien 5.76, 6.41 und 6.42 werden zu 100 Prozent versteigert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_17"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Versteigerung",
+        "citation": "Art. 17 Abs. 2 SV",
+        "content": "Die folgenden vom BLW nach Artikel 16 festgelegten Einfuhrmengen werden wie folgt versteigert:\na. Einfuhrmengen der Fleisch- und Fleischwarenkategorien 5.72, 5.73 und 5.75: zu 60 Prozent;\nb. Einfuhrmengen der Fleisch- und Fleischwarenkategorien 5.71 und 5.74: zu 50 Prozent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_17"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Versteigerung",
+        "citation": "Art. 17 Abs. 3 SV",
+        "content": "Das BLW kann die zur Versteigerung ausgeschriebene Menge der Fleisch- und Fleischwarenkategorien 5.71–5.76, 6.41 und 6.42 bei der Zuteilung aufgrund der eingegangenen Gebote um maximal 25 Prozent erhöhen oder verkleinern. Die weiteren Bestimmungen werden in der Ausschreibungsbekanntmachung publiziert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_17"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 1 SV",
+        "content": "Kontingentsanteile für die Teilzollkontingente 5.3 und 5.4 werden Angehörigen der jüdischen Gemeinschaft sowie der ihnen zugehörigen juristischen Personen und Personengemeinschaften zugeteilt, die:\na. sich verpflichten, das einzuführende Fleisch ausschliesslich an Betreiberinnen und Betreiber von anerkannten Verkaufsstellen für Koscherfleisch zu liefern; oder\nb. sich verpflichten, das einzuführende Fleisch ausschliesslich über eine eigene anerkannte Verkaufsstelle von Koscherfleisch selbst zu vermarkten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 2 SV",
+        "content": "Das BLW anerkennt als Verkaufsstellen Verkaufsläden, Verkaufsstände und Vertriebsplattformen im Internet, wenn sie der Öffentlichkeit zugänglich sind und die Betreiberinnen und Betreiber dafür sorgen, dass:\na. das Fleisch und die Fleischerzeugnisse, die gewerbsmässig verkauft werden, ausschliesslich Koscherfleisch und Erzeugnisse aus Koscherfleisch sind; \nb. das Koscherfleisch und die daraus hergestellten Fleischerzeugnisse nicht über einen Zwischenhandel weitervermarket werden; \nc. gewährleistet ist, dass der Hinweis «Koscher» oder «Koscherfleisch» in mindestens einer Amtssprache des Bundes in leicht lesbarer und unverwischbarer Schrift angebracht ist:\n1. im Verkaufsladen, beim Verkaufsstand oder auf der Vertriebsplattform im Internet: an gut sichtbarer Stelle, und\n2. im Falle von vorverpackten Erzeugnissen: auf jeder Verpackung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 2bis SV",
+        "content": "Werden das Koscherfleisch und die daraus hergestellten Fleischerzeugnisse über eine Vertriebsplattform im Internet verkauft, so muss die Betreiberin oder der Betreiber zusätzlich dafür sorgen, dass das Fleisch und die Fleischerzeugnisse in der Schweiz gelagert werden, bevor sie der Kundin oder dem Kunden zugestellt werden. Das Fleisch und die Fleischerzeugnisse müssen mit dem Hinweis nach Absatz 2 Buchstabe c versehen sein und so gelagert werden, dass gut erkennbar ist, dass es sich dabei um Koscherfleisch und Erzeugnisse aus Koscherfleisch handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 3 SV",
+        "content": "Die Kontingentsperiode wird in vier Einfuhrperioden, die den Jahresquartalen entsprechen, aufgeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 4 SV",
+        "content": "Je Versteigerung können einer Kontingentsanteilsberechtigten maximal 40 Prozent der ausgeschriebenen Teilzollkontingentsmenge zugeteilt werden, wenn:\na. mehr als eine Kontingentsanteilsberechtigte an der Versteigerung teilnimmt; und\nb. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Koscherfleisch",
+        "citation": "Art. 18 Abs. 5 SV",
+        "content": "Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 1 SV",
+        "content": "Kontingentsanteile für die Teilzollkontingente 5.5 und 5.6 werden Angehörigen der islamischen Gemeinschaft sowie der ihnen zugehörigen juristischen Personen und Personengemeinschaften zugeteilt, die:\na. sich verpflichten, das einzuführende Fleisch ausschliesslich an Betreiberinnen und Betreiber von anerkannten Verkaufsstellen für Halalfleisch zu liefern; oder\nb. sich verpflichten, das einzuführende Fleisch ausschliesslich über eine eigene anerkannte Verkaufsstelle von Halalfleisch selbst zu vermarkten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 2 SV",
+        "content": "Das BLW anerkennt als Verkaufsstellen Verkaufsläden, Verkaufsstände und Vertriebsplattformen im Internet, wenn sie der Öffentlichkeit zugänglich sind und die Betreiberinnen und Betreiber dafür sorgen, dass:\na. das Fleisch und die Fleischerzeugnisse, die gewerbsmässig verkauft werden, ausschliesslich Halalfleisch und Erzeugnisse aus Halalfleisch sind; \nb. das Halalfleisch und die daraus hergestellten Fleischerzeugnisse nicht über einen Zwischenhandel weitervermarket werden; \nc. gewährleistet ist, dass der Hinweis «Halal» oder «Halalfleisch» in mindestens einer Amtssprache des Bundes in leicht lesbarer und unverwischbarer Schrift angebracht ist:\n1. im Verkaufsladen, beim Verkaufsstand oder auf der Vertriebsplattform im Internet: an gut sichtbarer Stelle, und\n2. im Falle von vorverpackten Erzeugnissen: auf jeder Verpackung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 2bis SV",
+        "content": "Werden das Halalfleisch und die daraus hergestellten Fleischerzeugnisse über eine Vertriebsplattform im Internet verkauft, so muss die Betreiberin oder der Betreiber zusätzlich dafür sorgen, dass das Fleisch und die Fleischerzeugnisse in der Schweiz gelagert werden, bevor sie der Kundin oder dem Kunden zugestellt werden. Das Fleisch und die Fleischerzeugnisse müssen mit dem Hinweis nach Absatz 2 Buchstabe c versehen sein und so gelagert werden, dass gut erkennbar ist, dass es sich dabei um Halalfleisch und Erzeugnisse aus Halalfleisch handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 3 SV",
+        "content": "Die Kontingentsperiode wird in vier Einfuhrperioden, die den Jahresquartalen entsprechen, aufgeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 4 SV",
+        "content": "Je Versteigerung können einer zollkontingentanteilsberechtigten Person maximal 40 Prozent der ausgeschriebenen Teilzollkontingentsmenge zugeteilt werden, wenn:\na. mehr als eine zollkontingentanteilsberechtigte Person an der Versteigerung teilnimmt; und\nb. die berücksichtigbare Gebotsmenge grösser als die ausgeschriebene Teilzollkontingentsmenge ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Besondere Voraussetzungen und Bestimmungen für die Zuteilung der Kontingentsanteile bei Halalfleisch",
+        "citation": "Art. 18a Abs. 5 SV",
+        "content": "Wird durch die Anwendung von Absatz 4 die ausgeschriebene Zollkontingentsmenge nicht vollständig zugeteilt, wird die Restmenge unmittelbar nochmals allgemein ausgeschrieben und der maximale Kontingentsanteil nicht mehr angewendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_18_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Zahlungsfrist",
+        "citation": "Art. 19 Abs. 1 SV",
+        "content": "Bei Kontingentsanteilen, die für die Dauer einer Kontingentsperiode zugeteilt werden, und bei Kontingentsanteilen der Zollkontingente 101 und 102 nach Anhang 3 der Freihandelsverordnung 1 vom 18. Juni 2008 beträgt die Zahlungsfrist für das erste Drittel des Zuschlagspreises 90 Tage, für das zweite Drittel 120 Tage und für das dritte Drittel 150 Tage ab dem Ausstelldatum der Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_19"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 2. Abschnitt: Zuteilung der Kontingentsanteile aufgrund einer Versteigerung, Zahlungsfrist",
+        "citation": "Art. 19 Abs. 2 SV",
+        "content": "Bei den übrigen Kontingentsanteilen beträgt die Zahlungsfrist 30 Tage ab dem Ausstelldatum der Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_19"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Zuteilung nach der Zahl der ersteigerten Tiere",
+        "citation": "Art. 21 Abs. 1 SV",
+        "content": "Die Kontingentsanteile an den vom BLW nach Artikel 16 festgelegten Einfuhrmengen der Fleisch- und Fleischwarenkategorien 5.71 und 5.74 werden zu 10 Prozent nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere zugeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_21"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Zuteilung nach der Zahl der ersteigerten Tiere",
+        "citation": "Art. 21 Abs. 2 SV",
+        "content": "Das BLW teilt die Kontingentsanteile nach dem Anteil an der Zahl aller rechtmässig geltend gemachten ersteigerten Tiere zu. Die Anteile werden in Prozenten zugeteilt. Für die Zuteilung ist eine Generaleinfuhrbewilligung (GEB) nach Artikel 1 der Agrareinfuhrverordnung vom 26. Oktober 2011 erforderlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_21"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Zuteilung nach der Zahl der ersteigerten Tiere",
+        "citation": "Art. 21 Abs. 3 SV",
+        "content": "Als Bemessungsperiode gilt der Zeitraum zwischen dem 18. (1. Juli) und 7. Monat (30. Juni) vor der betreffenden Kontingentsperiode.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_21"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Anrechenbarkeit der ersteigerten Tiere",
+        "citation": "Art. 22 Abs. 1 SV",
+        "content": "Anrechenbar sind:\na. für die Fleisch- und Fleischwarenkategorie 5.71: die ab überwachten öffentlichen Märkten ersteigerten Tiere der Rindviehgattung ab einem Alter von 161 Tagen;\nb. für die Fleisch- und Fleischwarenkategorie 5.74: die ab überwachten öffentlichen Märkten ersteigerten Tiere der Schafgattung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_22"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Anrechenbarkeit der ersteigerten Tiere",
+        "citation": "Art. 22 Abs. 2 SV",
+        "content": "Ein Tier kann nur einmal als ersteigert geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_22"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere",
+        "citation": "Art. 23 Abs. 1 SV",
+        "content": "Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere sind über die vom BLW bereitgestellte Internetanwendung einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_23"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3. Abschnitt:, Zuteilung der Kontingentsanteile nach der Zahl der auf überwachten öffentlichen Märkten ersteigerten Tiere, Gesuche um Kontingentsanteile nach der Zahl der ersteigerten Tiere",
+        "citation": "Art. 23 Abs. 2 SV",
+        "content": "Sie sind vor Beginn der Kontingentsperiode bis spätestens am Werktag, der auf den 15. August folgt, einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_23"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 1 SV",
+        "content": "Die Kontingentsanteile an den Einfuhrmengen der vom BLW nach Artikel 16 festgelegten Fleisch- und Fleischwarenkategorien 5.71–5.75 werden zu 40 Prozent nach der Zahl der geschlachteten Tiere nach Artikel 24a zugeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 2 SV",
+        "content": "Kontingentanteilsberechtigt ist der Schlachtbetrieb nach Artikel 6 Buchstabe o Ziffer 3 der Tierseuchenverordnung vom 27. Juni 1995.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 3 SV",
+        "content": "Der Schlachtbetrieb kann seine Berechtigung an Tierhalter und Tierhalterinnen nach Artikel 11a der Landwirtschaftlichen Begriffsverordnung vom 7. Dezember 1998, Viehhandelsunternehmen sowie Fleischverarbeitungs- und Fleischhandelsbetriebe abtreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 4 SV",
+        "content": "Für die Zuteilung der Kontingentsanteile werden geschlachtete Tiere nur dann angerechnet, wenn der Schlachtbetrieb bei der Meldung der Schlachtung in der Tierverkehrsdatenbank seine eigene oder die TVD-Nummer des Abtretungsempfängers oder der Abtretungsempfängerin angegeben hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 5 SV",
+        "content": "Das BLW teilt die Kontingentsanteile nach dem Anteil an der Zahl aller rechtmässig geltend gemachten geschlachteten Tiere zu. Die Anteile werden in Prozenten zugeteilt. Für die Zuteilung ist eine GEB erforderlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 6 SV",
+        "content": "Als Bemessungsperiode gilt der Zeitraum zwischen dem 18. (1. Juli) und 7. Monat (30. Juni) vor der betreffenden Kontingentsperiode.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24 Abs. 7 SV",
+        "content": "Für die Berechnung der Kontingentsanteile sind die am 31. August vor Beginn der Kontingentsperiode vorhandenen Angaben in der Tierverkehrsdatenbank und die an diesem Datum eingetragenen TVD-Nummern massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Zuteilung zum Teilzollkontingent Nr. 5.7",
+        "citation": "Art. 24a SV",
+        "content": "Für die Zuteilung der Anteile am Teilzollkontingent Nr. 5.7 sind die folgenden Zahlen massgebend:\na. für die Fleisch- und Fleischwarenkategorien 5.71 und 5.72: die Zahl der geschlachteten Tiere der Rindviehgattung;\nb. für die Fleisch- und Fleischwarenkategorie 5.73: die Zahl der geschlachteten Tiere der Pferdegattung;\nc. für die Fleisch- und Fleischwarenkategorie 5.74: die Zahl der geschlachteten Tiere der Schafgattung;\nd. für die Fleisch- und Fleischwarenkategorie 5.75: die Zahl der geschlachteten Tiere der Ziegengattung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24b Abs. 1 SV",
+        "content": "Im Gesuch um Kontingentsanteile nach der Zahl der geschlachteten Tiere sind die GEB-Nummer und die TVD-Nummer der Gesuchstellerin nach Artikel 15 Absatz 1 der Verordnung vom 3. November 2021 über die Identitas AG und die Tierverkehrsdatenbank anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24_b"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24b Abs. 2 SV",
+        "content": "Die Gesuche sind bis zum 31. August vor Beginn der Kontingentsperiode über das Internetportal Agate einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24_b"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 3a. Abschnitt: Zuteilung der Kontingentsanteile nach der Zahl der geschlachteten Tiere, Gesuche um Kontingentsanteile nach der Zahl der geschlachteten Tiere",
+        "citation": "Art. 24b Abs. 3 SV",
+        "content": "Für die Zuteilung der Kontingentsanteile sind die am 31. August vor Beginn der Kontingentsperiode eingetragenen GEB-Nummern massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_24_b"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 4. Abschnitt: Verzicht auf die Verteilung",
+        "citation": "Art. 25 Abs. 1 SV",
+        "content": "Bei folgenden Produkten der Zollkontingente Nr. 05 und 06 wird auf eine Regelung zur Verteilung von Kontingentsanteilen verzichtet:\na. Pâté und Terrinen der Tarifnummern 1602.2071, 1602.4910, 1602.5091, 1602.9011;\nb. Fleischgranulat, Mehl, Pulver und dergleichen der Tarifnummern 0210.1991, 0210.2010, 0210.9911, 0210.9912, 0210.9961, 0210.9971, 0210.9981, 1602.2071, 1602.3110, 1602.3210, 1602.3910, 1602.4191, 1602.4210, 1602.4910, 1602.5091, 1602.9011.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 4. Abschnitt: Verzicht auf die Verteilung",
+        "citation": "Art. 25 Abs. 2 SV",
+        "content": "Bei genusstauglichen Schlachtnebenprodukten für die Tiernahrungskonservenindustrie und für die Herstellung von Gelatine (ex 0206.3091, ex 0206.4191 und ex 0206.4991) des T-K Nr. 5.7 wird auf eine Regelung zur Verteilung verzichtet. Die Einfuhren unterliegen den Bestimmungen von Artikel 14 des Zollgesetzes vom 18. März 2005.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 5. Abschnitt: Rindfleisch hoher Qualität",
+        "citation": "Art. 25a Abs. 1 SV",
+        "content": "Rindfleisch hoher Qualität (High Quality Beef) kann in den Teilzollkontingenten Nr. 5.711 und Nr. 5.712 eingeführt werden, wenn die anmeldepflichtige Person nach Artikel 26 des Zollgesetzes vom 18. März 2005 der Zollstelle beim Zollveranlagungsverfahren eine Bescheinigung vorweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 5. Abschnitt: Rindfleisch hoher Qualität",
+        "citation": "Art. 25a Abs. 2 SV",
+        "content": "Die Bescheinigung muss:\na. bestätigen, dass es sich um High Quality Beef nach den Kriterien in Ziffer 5 der Verpflichtung der Schweiz vom 12. April 1979 betreffend den Marktzutritt für Rindfleisch handelt;\nb. auf dem vom BLW auf seiner Website bereitgestellten Formular ausgestellt werden;\nc. in deutscher, französischer, italienischer oder englischer Sprache abgefasst sein; und\nd. von der zuständigen Behörde des Lieferlandes unterzeichnet und mit einem amtlichen Stempel versehen sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 5. Abschnitt: Rindfleisch hoher Qualität",
+        "citation": "Art. 25a Abs. 2bis SV",
+        "content": "Das BLW kann Bescheinigungen in anderer Form als jener nach Absatz 2 Buchstabe b zulassen, insbesondere um die elektronische Übermittlung der für die Bescheinigung erforderlichen Angaben zu ermöglichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 5. Kapitel: Einfuhr, 5. Abschnitt: Rindfleisch hoher Qualität",
+        "citation": "Art. 25a Abs. 3 SV",
+        "content": "Die Zollstelle kontrolliert die Bescheinigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_25_a"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 6. Kapitel: Übertragung von Aufgaben, Ausschreibung",
+        "citation": "Art. 26 Abs. 1 SV",
+        "content": "Das BLW überträgt folgende Aufgaben an eine oder mehrere private Organisationen:\na. die Qualitätseinstufung von geschlachteten Tieren der Rindvieh-, Schweine-, Pferde-, Schaf-, und Ziegengattung sowie von lebenden Tieren der Rindvieh- und Schafgattung auf überwachten öffentlichen Märkten;\nabis. die Kontrolle der Ermittlung des Schlachtgewichts;\nb. die Bezeichnung und Überwachung von öffentlichen Märkten für lebende Tiere der Rindvieh- und Schafgattung sowie die Durchführung der Marktabräumung ab überwachten öffentlichen Märkten; und\nc. die Organisation von Einlagerungs- und Verbilligungsaktionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_26"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 6. Kapitel: Übertragung von Aufgaben, Ausschreibung",
+        "citation": "Art. 26 Abs. 2 SV",
+        "content": "Die Übertragung der Aufgaben erfolgt nach dem Bundesgesetz vom 16. Dezember 1994 über das öffentliche Beschaffungswesen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_26"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 6. Kapitel: Übertragung von Aufgaben, Leistungsvereinbarungen",
+        "citation": "Art. 27 Abs. 1 SV",
+        "content": "Das BLW überträgt die Aufgaben mittels einer oder mehrerer Leistungsvereinbarungen. Umfang, Verfahren, Bedingungen und Vergütung der verlangten Leistungen sind im Vertrag geregelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_27"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 6. Kapitel: Übertragung von Aufgaben, Leistungsvereinbarungen",
+        "citation": "Art. 27 Abs. 3 SV",
+        "content": "Die Leistungserbringerinnen müssen rechtlich, organisatorisch und finanziell unabhängig von den einzelnen Organisationen und Unternehmungen der Fleischwirtschaft sein. Sie müssen eine Betriebsbuchhaltung mit einer Kostenstellen- und Kostenträgerrechnung führen, die eine Zuteilung der Aufwände und Erträge auf die Leistungsvereinbarungen zulässt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_27"
+    },
+    {
+        "book": "SV",
+        "title": "SV, 6. Kapitel: Übertragung von Aufgaben, Leistungsvereinbarungen",
+        "citation": "Art. 27 Abs. 4 SV",
+        "content": "Die Leistungserbringerinnen unterstehen der Aufsicht des BLW.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2003/791/de#art_27"
+    }
+]

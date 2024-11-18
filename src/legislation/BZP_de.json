@@ -1,0 +1,1346 @@
+[
+    {
+        "book": "BZP",
+        "title": "BZP, Erster Titel: Anwendungsbereich des Gesetzes und Zuständigkeit, Anwendungsbereich",
+        "citation": "Art. 1 Abs. 1 BZP",
+        "content": "Dieses Gesetz regelt das Verfahren in den vom Bundesgericht als einziger Instanz auf Klage zu beurteilenden Streitsachen, die in Artikel 120 des Bundesgerichtsgesetzes vom 17. Juni 2005 (BGG) angeführt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_1"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Erster Titel: Anwendungsbereich des Gesetzes und Zuständigkeit, Anwendungsbereich",
+        "citation": "Art. 1 Abs. 2 BZP",
+        "content": "Es wird ergänzt durch die Vorschriften des ersten, zweiten und sechsten Kapitels des BGG, soweit die folgenden Bestimmungen nicht Abweichendes enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_1"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Erster Titel: Anwendungsbereich des Gesetzes und Zuständigkeit, Zuständigkeit",
+        "citation": "Art. 2 Abs. 1 BZP",
+        "content": "Die Klage beim Bundesgericht setzt voraus, dass nach eidgenössischem oder kantonalem Recht ein Gerichtsstand in der Schweiz begründet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_2"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Erster Titel: Anwendungsbereich des Gesetzes und Zuständigkeit, Zuständigkeit",
+        "citation": "Art. 2 Abs. 2 BZP",
+        "content": "Die Vereinbarung eines Gerichtsstandes in der Schweiz bindet das Bundesgericht nicht; es kann die Klage von Amtes wegen zurückweisen. Hat jedoch eine Partei ihren Wohnsitz, ihren gewöhnlichen Aufenthalt oder eine Niederlassung in der Schweiz oder ist nach dem Bundesgesetz vom 18. Dezember 1987 über das Internationale Privatrecht auf den Streitgegenstand schweizerisches Recht anzuwenden, so ist das Bundesgericht zur Annahme der Klage verpflichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_2"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Richterpflicht",
+        "citation": "Art. 3 Abs. 1 BZP",
+        "content": "Der Richter prüft von Amtes wegen die Zulässigkeit der Klage und aller weiteren Prozesshandlungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_3"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Richterpflicht",
+        "citation": "Art. 3 Abs. 2 BZP",
+        "content": "Der Richter darf über die Rechtsbegehren der Parteien nicht hinausgehen und sein Urteil nur auf Tatsachen gründen, die im Verfahren geltend gemacht worden sind. Er soll jedoch die Parteien auf unzulängliche Rechtsbegehren aufmerksam machen und darauf hinwirken, dass sie Tatsachen und Beweismittel, die für die Feststellung des wahren Tatbestandes notwendig erscheinen, vollständig angeben. Zu diesem Instruktionszwecke kann er jederzeit die Parteien persönlich einvernehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_3"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Sprache der Verhandlungen",
+        "citation": "Art. 4 Abs. 1 BZP",
+        "content": "Der Richter und die Parteien haben sich einer Amtssprache des Bundes zu bedienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_4"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Sprache der Verhandlungen",
+        "citation": "Art. 4 Abs. 2 BZP",
+        "content": "Nötigenfalls ordnet der Richter Übersetzung an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_4"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Instruktionsrichter",
+        "citation": "Art. 5 Abs. 1 BZP",
+        "content": "Ein Instruktionsrichter leitet den Schriftenwechsel und bereitet den Rechtsstreit für die Hauptverhandlung vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_5"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Instruktionsrichter",
+        "citation": "Art. 5 Abs. 2 BZP",
+        "content": "Er bestimmt die von den Parteien für Gerichtskosten und Entschädigungen zu leistenden Sicherstellungen und Vorschüsse nach den Artikeln 62 und 63 BGG. Er entscheidet über die Gerichtskosten bei Streitbeendigung vor der Hauptverhandlung durch gerichtlichen Vergleich oder Abstand und bestimmt bei Abstand die Höhe der Parteientschädigung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_5"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Instruktionsrichter",
+        "citation": "Art. 5 Abs. 3 BZP",
+        "content": "Zu Zeugeneinvernahmen, Augenschein und Parteiverhör ist ein zweiter Richter beizuziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_5"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Aussetzen und Ruhen des Verfahrens",
+        "citation": "Art. 6 Abs. 1 BZP",
+        "content": "Der Richter kann aus Gründen der Zweckmässigkeit das Verfahren aussetzen, insbesondere wenn das Urteil von der Entscheidung in einem anderen Rechtsstreit beeinflusst werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_6"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Aussetzen und Ruhen des Verfahrens",
+        "citation": "Art. 6 Abs. 2 BZP",
+        "content": "Von Gesetzes wegen ruht das Verfahren in den besonders bestimmten Fällen und bei Tod einer Partei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_6"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Aussetzen und Ruhen des Verfahrens",
+        "citation": "Art. 6 Abs. 3 BZP",
+        "content": "Im letzteren Falle ist die Fortsetzung zu verfügen, sobald die Erbschaft nicht mehr ausgeschlagen werden kann oder die amtliche Liquidation angeordnet ist. Vorbehalten bleibt die vorherige Fortsetzung dringlicher Prozesse durch Erbschaftsvertreter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_6"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Aussetzen und Ruhen des Verfahrens",
+        "citation": "Art. 6 Abs. 4 BZP",
+        "content": "Sind die für die Verfügung der Fortsetzung erforderlichen Angaben über die Rechtsnachfolge weder von der Erbengemeinschaft noch von der Gegenseite erhältlich, so wird der Prozess abgeschrieben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_6"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Protokoll",
+        "citation": "Art. 7 Abs. 1 BZP",
+        "content": "Das Protokoll ist während der Verhandlungen niederzuschreiben. Aufzunehmen sind die Anträge der Parteien und die Verfügungen des Richters. Dem wesentlichen Inhalte nach sind zu protokollieren die in den Schriftsätzen der Parteien nicht enthaltenen Ausführungen tatsächlicher Natur, die Ergebnisse des Augenscheins und des Parteiverhörs sowie die Aussagen der Zeugen und Sachverständigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_7"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Protokoll",
+        "citation": "Art. 7 Abs. 2 BZP",
+        "content": "Den Parteien, Zeugen und Sachverständigen sind ihre Aussagen vom Gerichtsschreiber vorzulesen oder zu lesen zu geben; sie sind von ihnen zu unterzeichnen. Das übrige Protokoll liest er zur allfälligen Berichtigung den Parteien auf Verlangen am Schlusse der Verhandlung vor und merkt dies an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_7"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Protokoll",
+        "citation": "Art. 7 Abs. 3 BZP",
+        "content": "Stenographischen Protokollen sind vom Gerichtsschreiber beglaubigte Übertragungen beizufügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_7"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Rückgabe und Aufbewahrung von Akten",
+        "citation": "Art. 8 Abs. 1 BZP",
+        "content": "Nach Beendigung des Rechtsstreites sind die Beweisurkunden den Personen, die sie vorgelegt haben, gegen Empfangschein zurückzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_8"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zweiter Titel: Allgemeine Grundsätze des Verfahrens, Rückgabe und Aufbewahrung von Akten",
+        "citation": "Art. 8 Abs. 2 BZP",
+        "content": "Das gerichtliche Aktenheft mit den Schriftsätzen der Parteien, den Vollmachten ihrer Vertreter, den richterlichen Verfügungen und Mitteilungen, den Protokollen und der Urteilsausfertigung ist zu archivieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_8"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Fristen und Vorladungen",
+        "citation": "Art. 9 BZP",
+        "content": "Der Richter bestimmt die Fristen, soweit nicht das Gesetz sie festlegt, und erlässt die Vorladungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_9"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Form der Zustellung",
+        "citation": "Art. 10 Abs. 1 BZP",
+        "content": "Gerichtliche Mitteilungen werden der Partei zugestellt; hat die Partei einen bevollmächtigten Vertreter, so erfolgt die Zustellung an diesen. Wird das persönliche Erscheinen einer Partei verlangt, so ist dies in die Vorladung aufzunehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_10"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Form der Zustellung",
+        "citation": "Art. 10 Abs. 2 BZP",
+        "content": "Verfügungen und Urteile werden in der Regel durch die Post auf dem für die Übermittlung gerichtlicher Urkunden vorgesehenen Wege zugestellt; sie können in anderer Weise gegen Empfangsbescheinigung zugestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_10"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Form der Zustellung",
+        "citation": "Art. 10 Abs. 3 BZP",
+        "content": "Im Ausland vorzunehmende Zustellungen sind nach den zwischenstaatlichen Vereinbarungen oder, wo solche fehlen, durch Vermittlung des Eidgenössischen Justiz- und Polizeidepartements vorzunehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_10"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Öffentliche  Zustellung",
+        "citation": "Art. 11 Abs. 1 BZP",
+        "content": "Ist die Adresse des Empfängers unbekannt, so erfolgt die Zustellung durch öffentliche Bekanntmachung. Die Zustellung der Klage durch öffentliche Bekanntmachung setzt voraus, dass der Kläger die ihm zumutbaren Nachforschungen nach der Adresse des Beklagten gemacht hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_11"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Öffentliche  Zustellung",
+        "citation": "Art. 11 Abs. 2 BZP",
+        "content": "Die öffentliche Bekanntmachung ist auch zulässig, wenn eine im Auslande notwendige Zustellung voraussichtlich unausführbar ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_11"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Öffentliche  Zustellung",
+        "citation": "Art. 11 Abs. 3 BZP",
+        "content": "Die öffentliche Bekanntmachung geschieht durch Auskündung im Bundesblatt und, nach Ermessen des Richters, in weitern Blättern. Der Erscheinungstag des Bundesblattes gilt als Tag der Zustellung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_11"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Säumnisfolgen",
+        "citation": "Art. 12 Abs. 1 BZP",
+        "content": "Sofern das Gesetz nichts anderes vorsieht, hat die Versäumung einer Prozesshandlung nur zur Folge, dass das Verfahren ohne diese weitergeht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_12"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Säumnisfolgen",
+        "citation": "Art. 12 Abs. 2 BZP",
+        "content": "Bleibt eine Partei von einem Rechtstag aus, so wird dieser gleichwohl durchgeführt. Bisheriges Anbringen der ausgebliebenen Partei wird berücksichtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_12"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Säumnisfolgen",
+        "citation": "Art. 12 Abs. 3 BZP",
+        "content": "Sind infolge Versäumung einer Prozessschrift oder Ausbleibens einer Partei vom Rechtstage tatsächliche Behauptungen der Gegenpartei unbestritten geblieben, so ist darüber Beweis zu erheben, wenn Gründe vorliegen, an ihrer Richtigkeit zu zweifeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_12"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Säumnisfolgen",
+        "citation": "Art. 12 Abs. 4 BZP",
+        "content": "Der ausgebliebenen Partei wird eine Abschrift des Protokolls der Verhandlung zugestellt. Die Zustellung unterbleibt, wenn sie nach Artikel 11 durch öffentliche Bekanntmachung zu geschehen hätte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_12"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Säumnisfolgen",
+        "citation": "Art. 12 Abs. 5 BZP",
+        "content": "Bleiben beide Parteien von einem Rechtstag aus, so fordert sie der Richter zur Rechtfertigung auf. Erweist sich, dass das Ausbleiben nicht gerechtfertigt war, so kann er den Rechtsstreit abschreiben und den Parteien die Kosten zu gleichen Teilen auferlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_12"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Wiederherstellung",
+        "citation": "Art. 13 Abs. 1 BZP",
+        "content": "Gegen die Folgen der Versäumung einer Frist oder eines Rechtstages wird Wiederherstellung gewährt, wenn der Säumige oder sein Vertreter durch ein unverschuldetes Hindernis abgehalten war. Dabei muss er innert zehn Tagen nach Wegfall des Hindernisses die Wiederherstellung verlangt und, im Falle der Fristversäumnis, die versäumte Prozesshandlung nachgeholt haben. Das Hindernis ist glaubhaft zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_13"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Wiederherstellung",
+        "citation": "Art. 13 Abs. 2 BZP",
+        "content": "Die Wiederherstellung ist zu versagen, wenn sie für den Prozessausgang offenbar unerheblich wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_13"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Dritter Titel: Zeitbestimmung, Zustellung, Säumnis und Wiederherstellung, Wiederherstellung",
+        "citation": "Art. 13 Abs. 3 BZP",
+        "content": "Über das Gesuch entscheidet der Instruktionsrichter, wenn er die versäumte Prozesshandlung verfügt hat, sonst das Gericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_13"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Prozessfähigkeit",
+        "citation": "Art. 14 BZP",
+        "content": "Die Partei kann insoweit selbständig Prozess führen als sie handlungsfähig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_14"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Intervention",
+        "citation": "Art. 15 Abs. 1 BZP",
+        "content": "Wer ein eigenes rechtliches Interesse glaubhaft zu machen vermag, dass in einem zwischen andern Personen hängigen Rechtsstreite die eine Partei obsiege, kann ihr als Gehilfe beitreten. Über die Zulassung entscheidet der Instruktionsrichter, im Falle des Beitritts in der Hauptverhandlung das Gericht. Den Entscheid des Instruktionsrichters können die Beteiligten innert zehn Tagen an das Gericht weiterziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_15"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Intervention",
+        "citation": "Art. 15 Abs. 2 BZP",
+        "content": "Der Intervenient ist berechtigt, entsprechend der Lage des Verfahrens bei seinem Beitritt Angriffs- und Verteidigungsmittel geltend zu machen und alle übrigen Prozesshandlungen vorzunehmen, soweit sie nicht im Widerspruch zu Prozesshandlungen der unterstützten Partei stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_15"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Intervention",
+        "citation": "Art. 15 Abs. 3 BZP",
+        "content": "Wird jedoch das Urteil kraft materiellen Rechts unmittelbar auch für die Rechtsbeziehungen des Intervenienten zur gegnerischen Partei wirksam sein, so ist dieser in seinen Prozesshandlungen von der unterstützten Partei unabhängig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_15"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Intervention",
+        "citation": "Art. 15 Abs. 4 BZP",
+        "content": "Der Richter soll von seinen Verfügungen dem Intervenienten ebenfalls Kenntnis geben. Dem unabhängigen Intervenienten sind alle Zustellungen zu machen wie der unterstützten Partei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_15"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Streitverkündung",
+        "citation": "Art. 16 Abs. 1 BZP",
+        "content": "Wenn eine Partei einem Dritten, gegen den sie im Falle des Unterliegens im Rechtsstreite einen Anspruch auf Gewährleistung oder Schadloshaltung zu haben oder dem sie für den Ausgang desselben haftbar zu sein glaubt, Anzeige vom Rechtsstreit macht, kann der Dritte der anzeigenden Partei als Intervenient beitreten, ohne sein Interesse glaubhaft machen zu müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_16"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Streitverkündung",
+        "citation": "Art. 16 Abs. 2 BZP",
+        "content": "Das gleiche Recht steht weitern Dritten zu, denen der Empfänger der Streitverkündung unter den gleichen Voraussetzungen seinerseits Anzeige macht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_16"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Streitverkündung",
+        "citation": "Art. 16 Abs. 3 BZP",
+        "content": "Wird die Anzeige durch den Richter zugestellt, so hat sie die Gründe der Benachrichtigung und die Lage des Verfahrens anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_16"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Parteiwechsel",
+        "citation": "Art. 17 Abs. 1 BZP",
+        "content": "Wechsel der Partei ist nur mit Zustimmung der Gegenpartei gestattet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_17"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Parteiwechsel",
+        "citation": "Art. 17 Abs. 2 BZP",
+        "content": "Die ausscheidende Partei haftet für die bisher entstandenen Gerichtskosten solidarisch mit der eintretenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_17"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Parteiwechsel",
+        "citation": "Art. 17 Abs. 3 BZP",
+        "content": "Die Rechtsnachfolge auf Grund von Gesamtnachfolge sowie kraft besonderer gesetzlicher Bestimmungen gilt nicht als Parteiwechsel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_17"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Vertretung der Parteien",
+        "citation": "Art. 18 Abs. 1 BZP",
+        "content": "Unter Vorbehalt von Artikel 41 BGG kann die Partei ihren Prozess selbst oder durch einen Vertreter nach Artikel 40 BGG führen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_18"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Vertretung der Parteien",
+        "citation": "Art. 18 Abs. 2 BZP",
+        "content": "Die Vorschriften des Obligationenrechts über Umfang und Erlöschen der Ermächtigung gelten auch für die Vollmacht dem Gerichte gegenüber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_18"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Vierter Titel: Parteien und am Rechtsstreite beteiligte Dritte, Vertretung der Parteien",
+        "citation": "Art. 18 Abs. 3 BZP",
+        "content": "Prozesshandlungen, die von einem nicht bevollmächtigten Vertreter vorgenommen wurden und vom Vertretenen nicht genehmigt werden, sind von Amtes wegen nichtig zu erklären. Die Kosten des Verfahrens sind dem Vertreter aufzuerlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_18"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Vorbringen der Angriffs-und Verteidigungsmittel",
+        "citation": "Art. 19 Abs. 1 BZP",
+        "content": "Die Parteien sollen sämtliche Angriffs- oder Verteidigungsmittel auf einmal vorbringen. Vorbehalten bleibt Artikel 30 Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_19"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Vorbringen der Angriffs-und Verteidigungsmittel",
+        "citation": "Art. 19 Abs. 2 BZP",
+        "content": "Tatsachen und Beweismittel können zur Ergänzung noch im allfälligen weiteren Schriftenwechsel und mündlich in der Vorbereitungsverhandlung bis zum Beginn der Beweisführung vorgebracht werden; später nur, wenn die Verspätung entschuldbar ist sowie wenn das Vorbringen im Sinne von Artikel 3 Absatz 2 Satz 2 von Amtes wegen berücksichtigt werden kann. Die gleiche Beschränkung gilt, wenn eine Partei die Frist zur Einreichung einer Rechtsschrift versäumt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_19"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Vorbringen der Angriffs-und Verteidigungsmittel",
+        "citation": "Art. 19 Abs. 3 BZP",
+        "content": "Die durch nachträgliche Ergänzung entstehenden Mehrkosten des Verfahrens sind von der Partei zu tragen, sofern sie zu rechtzeitigem Vorbringen in der Lage war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_19"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rechtshängigkeit",
+        "citation": "Art. 21 Abs. 1 BZP",
+        "content": "Die Klage wird angehoben durch Einreichung der Klageschrift beim Bundesgericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_21"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rechtshängigkeit",
+        "citation": "Art. 21 Abs. 2 BZP",
+        "content": "Die Zuständigkeit des Gerichts wird durch nachherige Änderung der sie begründenden Tatsachen nicht berührt. Die Veräusserung der im Streite liegenden Sache oder die Abtretung des streitigen Anspruchs während der Rechtshängigkeit bleibt ohne Einfluss auf die Legitimation zur Sache.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_21"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rechtshängigkeit",
+        "citation": "Art. 21 Abs. 3 BZP",
+        "content": "Im Übrigen bewirkt die Rechtshängigkeit nicht die Festlegung des Sachverhalts auf den Zeitpunkt der Klageeinreichung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_21"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Unzulässigkeitsgrund",
+        "citation": "Art. 22 BZP",
+        "content": "Die Klage ist unzulässig, wenn der Anspruch bereits rechtshängig oder rechtskräftig beurteilt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_22"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klageschrift",
+        "citation": "Art. 23 BZP",
+        "content": "Die Klageschrift hat zu enthalten:\na. den Namen, den Wohnort und die genaue Bezeichnung der Parteien;\nb. das Rechtsbegehren des Klägers;\nc. die Angaben, die für die Zuständigkeit des Bundesgerichts erheblich sind;\nd. die klar gefasste Darstellung der Tatsachen, die das Rechtsbegehren begründen (Art. 19);\ne. die genaue Angabe der Beweismittel für jede Tatsache, unter Beifügung der Verzeichnisnummern der Beilagen (Buchst. f);\nf. das nummerierte Verzeichnis der Beilagen;\ng. das Datum und die Unterschrift des Verfassers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_23"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klagenhäufung 1. objektive 2. subjektive (Streitgenossen)",
+        "citation": "Art. 24 Abs. 1 BZP",
+        "content": "Mehrere Ansprüche des Klägers gegen denselben Beklagten können in der gleichen Klage geltend gemacht werden, wenn das Bundesgericht für jeden einzelnen Anspruch zuständig ist. Dieses Erfordernis gilt nicht für Nebenansprüche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_24"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klagenhäufung 1. objektive 2. subjektive (Streitgenossen)",
+        "citation": "Art. 24 Abs. 2 BZP",
+        "content": "Mehrere Personen können in der gleichen Klage als Kläger auftreten oder als Beklagte belangt werden:\na. wenn sie mit Rücksicht auf den Streitgegenstand in Rechtsgemeinschaft stehen oder aus dem gleichen tatsächlichen und rechtlichen Grunde berechtigt oder verpflichtet sind. Der Richter kann einen Dritten, der in der Rechtsgemeinschaft steht, zum Streite beiladen. Der Beigeladene wird Partei.\nb. wenn gleichartige, auf einem im Wesentlichen gleichartigen tatsächlichen und rechtlichen Grunde beruhende Ansprüche den Streitgegenstand bilden und die Zuständigkeit des Bundesgerichts für jeden einzelnen Anspruch begründet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_24"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klagenhäufung 1. objektive 2. subjektive (Streitgenossen)",
+        "citation": "Art. 24 Abs. 3 BZP",
+        "content": "Der Richter kann jederzeit verbundene Klagen trennen, wenn er es für zweckmässig hält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_24"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Feststellungsklage",
+        "citation": "Art. 25 BZP",
+        "content": "Auf Feststellung des Bestehens oder Nichtbestehens eines Rechtsverhältnisses kann geklagt werden, wenn der Kläger ein rechtliches Interesse an sofortiger Feststellung hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_25"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klageänderung",
+        "citation": "Art. 26 Abs. 1 BZP",
+        "content": "Das Rechtsbegehren kann in der Weise geändert werden, dass ein anderer oder weiterer Anspruch erhoben wird, der mit dem bisher geltendgemachten im Zusammenhang steht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_26"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klageänderung",
+        "citation": "Art. 26 Abs. 2 BZP",
+        "content": "Neues tatsächliches Vorbringen zur Begründung der geänderten Klage unterliegt den Beschränkungen des Artikels 19 Absätze 2 und 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_26"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rücknahme der Klage",
+        "citation": "Art. 27 Abs. 1 BZP",
+        "content": "Der Kläger kann die Klage vor Zustellung an den Beklagten zurücknehmen. Der Instruktionsrichter macht ihn darauf aufmerksam, wenn sich die Klage infolge Prozessmangels als unzulässig erweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_27"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rücknahme der Klage",
+        "citation": "Art. 27 Abs. 2 BZP",
+        "content": "Wird sie innert 20 Tagen unter Hebung des Prozessmangels wieder eingereicht, so wird die Rechtshängigkeit auf die erste Einreichung zurückbezogen. Dasselbe gilt, wenn die Klage wegen eines Prozessmangels vom Gericht zurückgewiesen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_27"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Rücknahme der Klage",
+        "citation": "Art. 27 Abs. 3 BZP",
+        "content": "Nach der Zustellung bedarf die Rücknahme der Klage der Zustimmung des Beklagten; ohne diese ist sie als Abstand auszulegen. Vorbehalten bleibt Artikel 73 Absatz 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_27"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Zustellung der Klage",
+        "citation": "Art. 28 Abs. 1 BZP",
+        "content": "Die Klage wird dem Beklagten unter Ansetzung einer Frist zur Beantwortung zugestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_28"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Zustellung der Klage",
+        "citation": "Art. 28 Abs. 2 BZP",
+        "content": "Stellt der Beklagte das Begehren um Sicherstellung der Parteikosten nach Artikel 62 Absatz 2 BGG, so wird der Lauf der Antwortfrist unterbrochen. Wird das Begehren abgewiesen oder die Sicherheit geleistet, so setzt der Richter eine neue Antwortfrist an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_28"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Klageantwort",
+        "citation": "Art. 29 BZP",
+        "content": "Die Klageantwort hat zu enthalten:\na. alle Einwendungen gegen die prozessuale Zulässigkeit der Klage mit Begründung;\nb. die Anträge in der Sache;\nc. die Widerklage, wenn der Beklagte eine solche erheben will (Art. 31);\nd. die Antwort auf das Klageanbringen und die tatsächliche Begründung der Anträge in klar gefasster Darstellung (Art. 19). Die Begründung der Widerklage kann mit der Antwort verbunden oder gesondert angeschlossen werden;\ne. die genaue Angabe der Beweis- und Gegenbeweismittel für jede Tatsache unter Beifügung der Verzeichnisnummern der Beilagen (Buchst. f), sowie die Einwendungen gegen die vom Kläger angerufenen Beweismittel;\nf. das nummerierte Verzeichnis der Beilagen;\ng. das Datum und die Unterschrift des Verfassers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_29"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Beschränkung der Antwort",
+        "citation": "Art. 30 Abs. 1 BZP",
+        "content": "Der Instruktionsrichter kann verfügen, dass die Antwort sich auf Einwendungen gegen die prozessuale Zulässigkeit der Klage beschränke, wenn erhebliche Zweifel gegen diese bestehen oder der Beklagte ohne Verzug nach Zustellung der Klage ernsthafte Gründe dagegen vorbringt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_30"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Beschränkung der Antwort",
+        "citation": "Art. 30 Abs. 2 BZP",
+        "content": "Erweist sich nachträglich die Voraussetzung der Beschränkung als unbegründet, so ist der Schriftenwechsel zu vervollständigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_30"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Widerklage",
+        "citation": "Art. 31 Abs. 1 BZP",
+        "content": "Widerklage ist zulässig für Ansprüche, die vom Bundesgericht als einziger Instanz auf Klage zu beurteilen sind. Der Gegenanspruch muss mit dem Klageanspruch in rechtlichem Zusammenhang stehen oder beide Ansprüche müssen verrechenbar sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_31"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Widerklage",
+        "citation": "Art. 31 Abs. 2 BZP",
+        "content": "Die Widerklage bleibt bestehen, auch wenn die Klage dahinfällt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_31"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Weiterer Schriftenwechsel",
+        "citation": "Art. 32 Abs. 1 BZP",
+        "content": "Die Antwort wird dem Kläger zugestellt unter Ansetzung einer Frist zur Beantwortung der Widerklage, wenn eine solche erhoben worden ist. Die Artikel 28 und 29 Buchstaben a, b, d-g sind entsprechend anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_32"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Weiterer Schriftenwechsel",
+        "citation": "Art. 32 Abs. 2 BZP",
+        "content": "Eine schriftliche Replik ist einzuholen, wenn sie zur Erklärung des Klägers über das Vorbringen der Antwort geboten erscheint. Unter entsprechender Voraussetzung kann dem Beklagten Frist zur Duplik angesetzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_32"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Urkundenbeilage, Bezeichnung der Beweismittel",
+        "citation": "Art. 33 Abs. 1 BZP",
+        "content": "Die Partei hat die Urkunden, auf die sie sich zum Beweise beruft, und bei Berufung auf öffentliche Register beglaubigte Auszüge daraus geheftet und nummeriert der Rechtsschrift beizulegen. Vorbehalten bleibt Erlass der Vorlage gemäss Artikel 53. In umfangreichen Beilagen sind die angerufenen Stellen kenntlich zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_33"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Fünfter Titel: Schriftenwechsel, Urkundenbeilage, Bezeichnung der Beweismittel",
+        "citation": "Art. 33 Abs. 2 BZP",
+        "content": "Befinden sich die Urkunden nicht in Händen der Partei, so sind die Inhaber mit Namen und Adresse zu bezeichnen. In gleicher Weise sind die angerufenen Zeugen zu bezeichnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_33"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Anwendung",
+        "citation": "Art. 34 Abs. 1 BZP",
+        "content": "Nach Abschluss des Schriftenwechsels führt der Instruktionsrichter das Vorbereitungsverfahren durch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_34"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Anwendung",
+        "citation": "Art. 34 Abs. 2 BZP",
+        "content": "Das Vorbereitungsverfahren ist entsprechend zu beschränken, wenn eine Beschränkung der Antwort gemäss Artikel 30 stattgefunden hat oder eine solche Anordnung nunmehr zweckmässig erscheint. Es kann auch auf eine einzelne materielle Frage beschränkt werden, durch deren Beurteilung der Rechtsstreit voraussichtlich seinen Abschluss finden wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_34"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Mündliche Verhandlung",
+        "citation": "Art. 35 Abs. 1 BZP",
+        "content": "In mündlicher Vorbereitungsverhandlung erörtert der Instruktionsrichter mit den Parteien den Streitfall und veranlasst sie nötigenfalls ihre Ausführungen zu verdeutlichen, zu berichtigen, zu vereinfachen oder zu ergänzen. Die Parteien sind dazu in der Regel persönlich vorzuladen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_35"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Mündliche Verhandlung",
+        "citation": "Art. 35 Abs. 2 BZP",
+        "content": "Der Instruktionsrichter führt darauf das Beweisverfahren durch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_35"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Mündliche Verhandlung",
+        "citation": "Art. 35 Abs. 3 BZP",
+        "content": "Die Beweisführung wird auf die Hauptverhandlung verschoben, wenn die unmittelbare Wahrnehmung durch das Gericht aus besondern Gründen geboten ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_35"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Sechster Titel: Vorbereitungsverfahren, Mündliche Verhandlung",
+        "citation": "Art. 35 Abs. 4 BZP",
+        "content": "Im Einverständnis mit den Parteien kann die mündliche Vorbereitungsverhandlung unterbleiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_35"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweisbedürftige Tatsachen; Geständnis",
+        "citation": "Art. 36 Abs. 1 BZP",
+        "content": "Beweis wird nur über erhebliche und soweit nicht der Sachverhalt von Amtes wegen zu erforschen ist oder ein Fall nach Artikel 12 Absatz 3 vorliegt, nur über bestrittene Tatsachen geführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_36"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweisbedürftige Tatsachen; Geständnis",
+        "citation": "Art. 36 Abs. 2 BZP",
+        "content": "Ob mangels eines ausdrücklichen Geständnisses eine Tatsache als bestritten anzusehen sei, hat der Richter unter Berücksichtigung des gesamten Inhalts des Vorbringens und des Verhaltens der Partei im Prozesse zu beurteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_36"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweisbedürftige Tatsachen; Geständnis",
+        "citation": "Art. 36 Abs. 3 BZP",
+        "content": "Inwiefern das Geständnis durch beigefügte Zusätze und Einschränkungen oder durch Widerruf unwirksam wird, beurteilt der Richter nach freiem Ermessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_36"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweisbedürftige Tatsachen; Geständnis",
+        "citation": "Art. 36 Abs. 4 BZP",
+        "content": "In gleicher Weise beurteilt er, inwiefern infolge eines aussergerichtlichen Geständnisses der Beweis unnötig wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_36"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Bestimmung der Beweismittel durch denRichter",
+        "citation": "Art. 37 BZP",
+        "content": "Der Richter ist an die von den Parteien angebotenen Beweismittel nicht gebunden; er berücksichtigt nur die notwendigen. Er kann auch von den Parteien nicht angebotene Beweismittel beiziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_37"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweiserhebung in Anwesenheit der Parteien und Urkundeneinsicht",
+        "citation": "Art. 38 BZP",
+        "content": "Die Parteien sind berechtigt, der Beweiserhebung beizuwohnen und in die vorgelegten Urkunden Einsicht zu nehmen. Wo es zur Wahrung von Geschäftsgeheimnissen einer Partei oder eines Dritten nötig ist, hat der Richter von einem Beweismittel unter Ausschluss der Gegenpartei oder der Parteien Kenntnis zu nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_38"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweismassnahmen im Ausland",
+        "citation": "Art. 39 BZP",
+        "content": "Im Ausland notwendige Beweisaufnahmen sind im Wege der Rechtshilfe herbeizuführen. Kann der Beweis durch einen schweizerischen diplomatischen oder konsularischen Vertreter aufgenommen werden, so ist das Ersuchen an diesen zu richten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_39"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Freie Beweiswürdigung",
+        "citation": "Art. 40 BZP",
+        "content": "Der Richter würdigt die Beweise nach freier Überzeugung. Er wägt mit das Verhalten der Parteien im Prozesse, wie das Nichtbefolgen einer persönlichen Vorladung, das Verweigern der Beantwortung richterlicher Fragen und das Vorenthalten angeforderter Beweismittel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_40"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 1. Allgemeine Bestimmungen, Beweissicherung",
+        "citation": "Art. 41 BZP",
+        "content": "Zur Sicherung gefährdeter Beweise trifft der Instruktionsrichter die geeigneten Vorkehren. Beweissicherung vor Einreichung der Klage ist Sache der kantonalen Gerichtsbarkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_41"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Zeugnisverweigerungsrecht",
+        "citation": "Art. 42 Abs. 1 BZP",
+        "content": "Das Zeugnis kann verweigert werden:\na. von folgenden Personen, wenn die Beantwortung der Frage sie der Gefahr der strafgerichtlichen Verfolgung oder einer schweren Benachteiligung der Ehre aussetzen kann oder ihnen einen unmittelbaren vermögensrechtlichen Schaden verursachen würde:\n1. dem Zeugen, seinem Ehegatten, seiner eingetragenen Partnerin, seinem eingetragenen Partner oder einer Person, mit der er eine faktische Lebensgemeinschaft führt,\n2. Verwandten oder Verschwägerten des Zeugen in gerader Linie und im zweiten Grad der Seitenlinie;\nabis. von Personen, gegen die nach Artikel 28a des Strafgesetzbuchs für die Verweigerung des Zeugnisses keine Strafen oder prozessualen Massnahmen verhängt werden dürfen;\nb. von den in Artikel 321 Ziffer 1 des Strafgesetzbuches genannten Personen über Tatsachen, die nach dieser Vorschrift unter das Berufsgeheimnis fallen, sofern der Berechtigte nicht in die Offenbarung des Geheimnisses eingewilligt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_42"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Zeugnisverweigerungsrecht",
+        "citation": "Art. 42 Abs. 2 BZP",
+        "content": "Die Offenbarung anderer Berufsgeheimnisse sowie eines Geschäftsgeheimnisses kann der Richter dem Zeugen erlassen, wenn dessen Interesse an der Geheimhaltung auch bei Berücksichtigung der Sicherungsmassnahmen gemäss Artikel 38 das Interesse des Beweisführers an der Preisgabe überwiegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_42"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Zeugnisverweigerungsrecht",
+        "citation": "Art. 42 Abs. 3 BZP",
+        "content": "Für die Zeugnispflicht von Beamten und deren Hilfspersonen über Wahrnehmungen in Ausübung ihres Amtes oder ihrer Hilfstätigkeit sind die einschränkenden Vorschriften des Verwaltungsrechtes des Bundes und der Kantone massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_42"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Zeugenvorladung",
+        "citation": "Art. 43 BZP",
+        "content": "In der Zeugenvorladung ist der Gegenstand der Einvernahme summarisch zu bezeichnen. Auf den Entschädigungsanspruch des Zeugen und die Folgen unentschuldigten Ausbleibens ist hinzuweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_43"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Ausbleiben des Zeugen",
+        "citation": "Art. 44 Abs. 1 BZP",
+        "content": "Beruft sich der Zeuge auf das Recht der Zeugnisverweigerung, so hat er gleichwohl der Vorladung zu folgen, sofern diese nicht ausdrücklich widerrufen worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_44"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Ausbleiben des Zeugen",
+        "citation": "Art. 44 Abs. 2 BZP",
+        "content": "Der ohne genügende Entschuldigung ausbleibende Zeuge ist zu den durch sein Ausbleiben entstehenden Kosten zu verurteilen. Er kann zwangsweise vorgeführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_44"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Ausbleiben des Zeugen",
+        "citation": "Art. 44 Abs. 3 BZP",
+        "content": "Bleibt der Zeuge wiederholt ohne genügende Entschuldigung aus oder verweigert er trotz Hinweises auf die Straffolgen unbefugt seine Aussage, so ist er mit Busse bis zu 1000 Franken zu bestrafen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_44"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Ausbleiben des Zeugen",
+        "citation": "Art. 44 Abs. 4 BZP",
+        "content": "Über das Recht zur Verweigerung des Zeugnisses und die Ungehorsamsstrafe befindet der Instruktionsrichter, in der Hauptverhandlung das Gericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_44"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Einvernahme",
+        "citation": "Art. 45 Abs. 1 BZP",
+        "content": "Jeder Zeuge wird in Abwesenheit der später abzuhörenden einvernommen. Bei Widerspruch der Aussagen kann er andern Zeugen gegenübergestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_45"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Einvernahme",
+        "citation": "Art. 45 Abs. 2 BZP",
+        "content": "Der Zeuge soll gegebenenfalls auf das Recht der Zeugnisverweigerung aufmerksam gemacht werden; er soll zur wahrheitsgemässen Aussage ermahnt und auf die strafrechtlichen Folgen des falschen Zeugnisses gemäss Artikel 307 des Strafgesetzbuches hingewiesen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_45"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Fragerecht",
+        "citation": "Art. 46 BZP",
+        "content": "Der Zeuge wird durch den Richter einvernommen. Die Parteien erhalten Gelegenheit, Erläuterungs- und Ergänzungsfragen zu beantragen, über deren Zulässigkeit der Richter entscheidet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_46"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Rogatorische Einvernahme",
+        "citation": "Art. 47 BZP",
+        "content": "Zur Vermeidung unverhältnismässig hoher Kosten kann die Einvernahme des Zeugen dem Richter des Wohnortes übertragen werden. Er führt sie in den Formen des kantonalen Prozessrechts durch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_47"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Zeugengeld",
+        "citation": "Art. 48 BZP",
+        "content": "Der Zeuge hat Anspruch auf Ersatz der notwendigen Reiseauslagen. Erleidet er durch die Zeitversäumnis eine Einbusse an seinem Arbeitserwerb, so ist er auch hierfür zu entschädigen, und zwar vollständig, wenn er darauf angewiesen ist, sonst nach billigem Ermessen des Richters.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_48"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, a. Zeugen, Schriftliche Auskunft",
+        "citation": "Art. 49 BZP",
+        "content": "Der Richter kann von Amtsstellen und ausnahmsweise auch von Privatpersonen schriftliche Auskunft einziehen. Er befindet nach freiem Ermessen, ob sie zum Beweise tauglich ist oder der Bekräftigung durch gerichtliches Zeugnis bedarf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_49"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht der Partei",
+        "citation": "Art. 50 Abs. 1 BZP",
+        "content": "Die Partei ist verpflichtet, die in ihren Händen befindlichen Urkunden dem Richter vorzulegen. Bestreitet sie den Besitz einer Urkunde, so kann sie gemäss Artikel 64 über ihren Verbleib zur Aussage unter Straffolge verhalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_50"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht der Partei",
+        "citation": "Art. 50 Abs. 2 BZP",
+        "content": "Weigert sich die Partei, die Urkunde vorzulegen oder über deren Verbleib Auskunft zu geben, oder hat sie die Urkunde absichtlich beseitigt oder untauglich gemacht, so würdigt der Richter dieses Verhalten nach Artikel 40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_50"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht Dritter",
+        "citation": "Art. 51 Abs. 1 BZP",
+        "content": "Dritte sind verpflichtet, die in ihren Händen befindlichen Urkunden dem Richter vorzulegen. Sie sind dieser Verpflichtung enthoben, wenn die Urkunden sich auf Tatsachen beziehen, über die sie als Zeugen gemäss Artikel 42 die Aussage verweigern könnten. Ist die Verweigerung nur in Bezug auf einzelne Teile einer Urkunde begründet, die durch Versiegelung oder auf andere Weise der Einsicht entzogen werden können, so besteht die Verpflichtung zur Vorlegung unter dieser Sicherung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_51"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht Dritter",
+        "citation": "Art. 51 Abs. 2 BZP",
+        "content": "Bestreitet der Dritte den Besitz der Urkunde, so kann er über ihren Verbleib als Zeuge einvernommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_51"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht Dritter",
+        "citation": "Art. 51 Abs. 3 BZP",
+        "content": "Bei Nichtbefolgen der Aufforderung zur Vorlegung und bei Verweigerung der Vorlegung findet Artikel 44 Absätze 3 und 4 entsprechende Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_51"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Editionspflicht Dritter",
+        "citation": "Art. 51 Abs. 4 BZP",
+        "content": "Für die Vorlegung der Urkunden öffentlicher Verwaltungen des Bundes und der Kantone bleiben deren besondere Vorschriften vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_51"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Anwaltliche Korrespondenz",
+        "citation": "Art. 51a BZP",
+        "content": "Die Editionspflicht erstreckt sich nicht auf die Herausgabe von Unterlagen aus dem Verkehr der Partei oder einer Drittperson mit ihrem Anwalt, wenn dieser nach dem Anwaltsgesetz vom 23. Juni 2000 zur Vertretung vor schweizerischen Gerichten berechtigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_51_a"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Art und Weise der Edition",
+        "citation": "Art. 52 Abs. 1 BZP",
+        "content": "Die Urkunde ist im Original, in beglaubigter Abschrift, in Fotokopie oder elektronischer Kopie vorzulegen. Der Richter kann das Original verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_52"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Art und Weise der Edition",
+        "citation": "Art. 52 Abs. 2 BZP",
+        "content": "Die Teile, die nicht dem Beweise dienen, können mit Ermächtigung des Richters durch Versiegeln oder auf andere Weise der Einsicht des Richters und der Parteien entzogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_52"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Besichtigung an Ort undStelle",
+        "citation": "Art. 53 BZP",
+        "content": "In Urkunden, deren Vorlegung bei Gericht infolge ihrer Beschaffenheit nicht tunlich ist oder deren Herausgabe berechtigte Interessen verletzen würde, kann an Ort und Stelle Einsicht genommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_53"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Bestreitung der Echtheit",
+        "citation": "Art. 54 Abs. 1 BZP",
+        "content": "Ist die Echtheit einer Urkunde bestritten und sind Zweifel daran begründet, so ist darüber Beweis anzuordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_54"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, b. Urkunden, Bestreitung der Echtheit",
+        "citation": "Art. 54 Abs. 2 BZP",
+        "content": "Ist die Fälschung einer Urkunde Gegenstand eines Strafverfahrens, so kann der Richter bis zu dessen Erledigung den Rechtsstreit einstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_54"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Verpflichtung zur Duldung",
+        "citation": "Art. 55 Abs. 1 BZP",
+        "content": "Die Partei ist verpflichtet, an ihrer Person und an den in ihrem Gewahrsam stehenden Sachen den Augenschein zu dulden. Ihre Weigerung würdigt der Richter nach Artikel 40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_55"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Verpflichtung zur Duldung",
+        "citation": "Art. 55 Abs. 2 BZP",
+        "content": "Dritte sind verpflichtet, an den in ihrem Gewahrsam stehenden Sachen den Augenschein zu dulden, soweit sie nicht in sinngemässer Anwendung von Artikel 42 zur Weigerung berechtigt sind. Unbefugte Weigerung zieht Bestrafung gemäss Artikel 44 Absätze 3 und 4 nach sich. Der Einlass in Liegenschaften zur Besichtigung kann überdies polizeilich erzwungen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_55"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Verpflichtung zur Duldung",
+        "citation": "Art. 55 Abs. 3 BZP",
+        "content": "Kann die zu besichtigende Sache vor Gericht gebracht werden, so ist sie wie eine Urkunde vorzulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_55"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Durchführung",
+        "citation": "Art. 56 Abs. 1 BZP",
+        "content": "Der Richter zieht nach Bedürfnis die Zeugen und Sachverständigen zum Augenschein bei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_56"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Durchführung",
+        "citation": "Art. 56 Abs. 2 BZP",
+        "content": "Ist die eigene Wahrnehmung des Richters unnötig oder unangemessen, so kann er anordnen, dass der Sachverständige den Augenschein ohne seine Anwesenheit vornehme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_56"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, c. Augenschein, Durchführung",
+        "citation": "Art. 56 Abs. 3 BZP",
+        "content": "Die Parteien sind von der Teilnahme ausgeschlossen, wenn die Geheimniswahrung gemäss Artikel 38 Satz 2 oder die Natur der Besichtigung es verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_56"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Aufgabe",
+        "citation": "Art. 57 Abs. 1 BZP",
+        "content": "Sind zur Aufklärung des Sachverhaltes Fachkenntnisse erforderlich, so zieht der Richter einen oder mehrere Sachverständige als Gehilfen bei. Sie beteiligen sich nach seiner Anordnung an der Instruktion des Prozesses und begutachten die ihnen vom Richter vorgelegten Fragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_57"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Aufgabe",
+        "citation": "Art. 57 Abs. 2 BZP",
+        "content": "Der Richter gibt den Parteien Gelegenheit, sich zu den Fragen an die Sachverständigen zu äussern und Abänderungs- und Ergänzungsanträge zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_57"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Ernennung",
+        "citation": "Art. 58 Abs. 1 BZP",
+        "content": "Für Sachverständige gelten die Ausstandsgründe nach Artikel 34 BGG sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_58"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Ernennung",
+        "citation": "Art. 58 Abs. 2 BZP",
+        "content": "Die Parteien erhalten Gelegenheit, vor der Ernennung von Sachverständigen Einwendungen gegen die in Aussicht Genommenen vorzubringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_58"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Pflichten",
+        "citation": "Art. 59 Abs. 1 BZP",
+        "content": "Der Sachverständige hat nach bestem Wissen und Gewissen zu amten und sich der strengsten Unparteilichkeit zu befleissen. Auf diese Pflicht ist er bei der Ernennung aufmerksam zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_59"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Pflichten",
+        "citation": "Art. 59 Abs. 2 BZP",
+        "content": "Ungehörige Erfüllung des angenommenen Auftrages zieht Ordnungsbusse gemäss Artikel 33 Absatz 1 BGG nach sich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_59"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Gutachten",
+        "citation": "Art. 60 Abs. 1 BZP",
+        "content": "Der Sachverständige erstattet sein Gutachten mit Begründung entweder schriftlich innert zu bestimmender Frist oder in mündlicher Verhandlung zu Protokoll. Mehrere Sachverständige verfassen das schriftliche Gutachten gemeinsam, wenn ihre Ansichten übereinstimmen, sonst gesondert. Entspricht das Gutachten den Anforderungen, so ist den Parteien eine Abschrift zuzustellen. Sie erhalten Gelegenheit, Erläuterung und Ergänzung oder eine neue Begutachtung zu beantragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_60"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Gutachten",
+        "citation": "Art. 60 Abs. 2 BZP",
+        "content": "Der Richter stellt die ihm notwendig erscheinenden Erläuterungs- und Ergänzungsfragen in mündlicher Verhandlung oder zu schriftlicher Beantwortung. Er kann andere Sachverständige beiziehen, wenn er das Gutachten für ungenügend hält. Artikel 58 ist anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_60"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, d. Sachverständige, Entschädigung",
+        "citation": "Art. 61 BZP",
+        "content": "Der Sachverständige hat Anspruch auf Vergütung seiner Auslagen sowie auf ein Honorar nach freiem Ermessen des Richters.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_61"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Durchführung",
+        "citation": "Art. 62 Abs. 1 BZP",
+        "content": "Die Partei kann zum Beweise einer Tatsache dem Verhör unterzogen werden. Kommt eine Wahrnehmung beider Parteien in Betracht, so sollen beide verhört werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_62"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Durchführung",
+        "citation": "Art. 62 Abs. 2 BZP",
+        "content": "Die Parteien sind vor dem Verhör zur Wahrheit zu ermahnen und darauf aufmerksam zu machen, dass sie zur Beweisaussage unter Straffolge angehalten werden können. Artikel 46 ist entsprechend anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_62"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Parteistellung im Verhör",
+        "citation": "Art. 63 Abs. 1 BZP",
+        "content": "Führt die Partei den Prozess durch ihren gesetzlichen Vertreter, so ist sie selbst zu verhören, wenn sie urteilsfähig ist und eigene Wahrnehmungen gemacht hat, sonst der Vertreter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_63"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Parteistellung im Verhör",
+        "citation": "Art. 63 Abs. 2 BZP",
+        "content": "Ist die Partei eine juristische Person, so bestimmt der Richter, welches von den Mitgliedern mit Organeigenschaft, und ist sie eine Kollektiv- oder Kommanditgesellschaft, welcher von den Gesellschaftern zu verhören ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_63"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Parteistellung im Verhör",
+        "citation": "Art. 63 Abs. 3 BZP",
+        "content": "Im Prozess der Konkursmasse kann sowohl der Konkursverwalter als auch der Gemeinschuldner als Partei verhört werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_63"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Beweisaussage unter Straffolge",
+        "citation": "Art. 64 Abs. 1 BZP",
+        "content": "Der Richter kann eine Partei zur Beweisaussage unter Straffolge über bestimmte Tatsachen verhalten, wenn er es nach dem Ergebnis des einfachen Parteiverhörs für geboten erachtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_64"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Beweisaussage unter Straffolge",
+        "citation": "Art. 64 Abs. 2 BZP",
+        "content": "Vor dem nochmaligen Verhör ist die Partei neuerdings zur Wahrheit zu ermahnen. Die Straffolgen der falschen Aussage gemäss Artikel 306 des Strafgesetzbuches sind ihr bekanntzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_64"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Würdigung",
+        "citation": "Art. 65 Abs. 1 BZP",
+        "content": "Der Richter würdigt den Beweiswert der Parteiaussage nach freiem Ermessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_65"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Siebenter Titel: Beweis, 2. Beweismittel, e. Parteiverhör, Würdigung",
+        "citation": "Art. 65 Abs. 2 BZP",
+        "content": "Bleibt eine Partei ohne genügende Entschuldigung aus, obschon sie persönlich vorgeladen war, oder verweigert sie die Antwort, so würdigt der Richter dieses Verhalten nach Artikel 40.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_65"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Ansetzung",
+        "citation": "Art. 66 Abs. 1 BZP",
+        "content": "Der Abschluss des Vorbereitungsverfahrens wird den Parteien mitgeteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_66"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Ansetzung",
+        "citation": "Art. 66 Abs. 2 BZP",
+        "content": "Der Abteilungspräsident erlässt die Vorladungen zur Hauptverhandlung vor dem Gericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_66"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Ansetzung",
+        "citation": "Art. 66 Abs. 3 BZP",
+        "content": "Artikel 34 Absatz 2 ist entsprechend anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_66"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Beweismass-nahmen",
+        "citation": "Art. 67 Abs. 1 BZP",
+        "content": "Das Gericht erhebt gemäss Artikel 35 Absatz 3 auf die Hauptverhandlung verschobene Beweise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_67"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Beweismass-nahmen",
+        "citation": "Art. 67 Abs. 2 BZP",
+        "content": "Beweiserhebungen des Instruktionsrichters kann das Gericht auf Antrag, der innert zehn Tagen seit dem Abschluss des Vorbereitungsverfahrens zu stellen ist, oder von Amtes wegen bis zum Schluss der Hauptverhandlung ergänzen. Es kann auch vom Instruktionsrichter erhobene Beweise wiederholen, wenn besondere Gründe hierfür sprechen, insbesondere wenn ihm die unmittelbare Wahrnehmung geboten erscheint.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_67"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Beweismass-nahmen",
+        "citation": "Art. 67 Abs. 3 BZP",
+        "content": "Das Gericht kann auf Antrag oder von Amtes wegen die Sache zur Ergänzung der Instruktion an den Instruktionsrichter zurückweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_67"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Parteivorträge, Urteilsfällung",
+        "citation": "Art. 68 Abs. 1 BZP",
+        "content": "Hält das Gericht die Beweiserhebungen für vollständig, so erhalten die Parteien das Wort zur Begründung ihrer Anträge, zu Replik und Duplik.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_68"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Parteivorträge, Urteilsfällung",
+        "citation": "Art. 68 Abs. 2 BZP",
+        "content": "Werden nachträglich noch Beweise aufgenommen, so kann das Gericht einen weiteren Vortrag gestatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_68"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Parteivorträge, Urteilsfällung",
+        "citation": "Art. 68 Abs. 3 BZP",
+        "content": "Soweit tunlich, finden Beratung und Abstimmung anschliessend an die mündliche Verhandlung statt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_68"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Prozesskosten",
+        "citation": "Art. 69 Abs. 1 BZP",
+        "content": "Über die Prozesskosten entscheidet das Gericht von Amtes wegen nach den Artikeln 65, 66 und 68 BGG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_69"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Prozesskosten",
+        "citation": "Art. 69 Abs. 2 BZP",
+        "content": "Es bestimmt nach seinem Ermessen, ob mehrere Kläger oder Beklagte solidarisch und in welchem Verhältnis unter sich oder ob sie nach Kopfteilen oder entsprechend ihrer Beteiligung am Rechtsstreit kostenpflichtig oder ersatzberechtigt sind. Ebenso bestimmt es, inwieweit der Intervenient am die Gerichtskosten und die Entschädigung des Gegners der unterstützten Partei beitragspflichtig oder diesem gegenüber ersatzberechtigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_69"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Prozesskosten",
+        "citation": "Art. 69 Abs. 3 BZP",
+        "content": "Die Parteien sollen vor dem Urteil ein spezifiziertes Verzeichnis ihrer Kostenforderung einreichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_69"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Urteilseröffnung",
+        "citation": "Art. 70 Abs. 1 BZP",
+        "content": "Das Urteil wird sogleich mündlich eröffnet. Mit Einwilligung der Parteien kann es schriftlich eröffnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_70"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Urteilseröffnung",
+        "citation": "Art. 70 Abs. 2 BZP",
+        "content": "Jeder Partei wird eine Ausfertigung mit den vollständigen Entscheidungsgründen zugestellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_70"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Urteilseröffnung",
+        "citation": "Art. 70 Abs. 3 BZP",
+        "content": "Der abwesenden Partei ist das Dispositiv des Urteils sogleich schriftlich mitzuteilen. Die Zustellung der vollständigen Urteilsausfertigung an sie unterbleibt, wenn sie nach Artikel 11 durch öffentliche Bekanntmachung zu geschehen hätte. An ihre Stelle tritt die Aufnahme in das gerichtliche Aktenheft; das Datum ist anzumerken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_70"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Rechtskraft des Urteils",
+        "citation": "Art. 71 Abs. 1 BZP",
+        "content": "Das Urteil wird mit der Ausfällung rechtskräftig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_71"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Achter Titel: Hauptverhandlung, Rechtskraft des Urteils",
+        "citation": "Art. 71 Abs. 2 BZP",
+        "content": "Die Rechtskraft erstreckt sich auf die Entscheidung über das Bestehen oder Nichtbestehen der einredeweise geltend gemachten Gegenforderung bis zur Höhe des Betrages, mit dem verrechnet werden soll.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_71"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Neunter Titel: Erledigung des Rechtsstreites ohne Urteil, Gegenstandslos gewordener Rechtsstreit",
+        "citation": "Art. 72 BZP",
+        "content": "Wird ein Rechtsstreit gegenstandslos oder fällt er mangels rechtlichen Interesses dahin, so erklärt ihn das Gericht nach Vernehmlassung der Parteien ohne weitere Parteiverhandlung als erledigt und entscheidet mit summarischer Begründung über die Prozesskosten auf Grund der Sachlage vor Eintritt des Erledigungsgrundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_72"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Neunter Titel: Erledigung des Rechtsstreites ohne Urteil, Gerichtlicher Vergleich und Abstand",
+        "citation": "Art. 73 Abs. 1 BZP",
+        "content": "Der vor dem Richter erklärte oder dem Richter zur Verurkundung im Protokoll eingereichte Vergleich der Parteien und der Abstand einer Partei beenden den Rechtsstreit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_73"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Neunter Titel: Erledigung des Rechtsstreites ohne Urteil, Gerichtlicher Vergleich und Abstand",
+        "citation": "Art. 73 Abs. 2 BZP",
+        "content": "In den gerichtlichen Vergleich können ausserhalb des Prozesses liegende Streitfragen zwischen den Parteien und einer Partei mit Dritten einbezogen werden, sofern es der Beilegung des Prozesses dient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_73"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Neunter Titel: Erledigung des Rechtsstreites ohne Urteil, Gerichtlicher Vergleich und Abstand",
+        "citation": "Art. 73 Abs. 3 BZP",
+        "content": "Ist die Einrede erhoben worden, der Anspruch sei nicht fällig oder er sei von einer Bedingung abhängig, oder ist ein Prozessmangel gerügt worden, so kann der Kläger die Klage unter dem Vorbehalt zurücknehmen, sie nach Eintritt der Fälligkeit oder der Bedingung oder nach Behebung des Prozessmangels wieder einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_73"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Neunter Titel: Erledigung des Rechtsstreites ohne Urteil, Gerichtlicher Vergleich und Abstand",
+        "citation": "Art. 73 Abs. 4 BZP",
+        "content": "Gerichtlicher Vergleich und Abstand sind wie das Urteil vollstreckbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_73"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Vollstreckbarkeit",
+        "citation": "Art. 74 Abs. 1 BZP",
+        "content": "Das Urteil ist sofort vollstreckbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_74"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Vollstreckbarkeit",
+        "citation": "Art. 74 Abs. 2 BZP",
+        "content": "Macht das Urteil die einer Partei auferlegte Leistung von einer Bedingung oder Gegenleistung abhängig, so ist es vollstreckbar, sobald das Bundesgericht festgestellt hat, dass die Bedingung eingetreten oder die Gegenleistung erbracht ist. Die Feststellung erfolgt auf Antrag des Berechtigten nach Anhörung des Pflichtigen und amtlicher Erhebung des Sachverhalts ohne Parteiverhandlung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_74"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Urteile auf Geldzahlung",
+        "citation": "Art. 75 BZP",
+        "content": "Urteile, die zur Zahlung einer Geldsumme oder zur Sicherheitsleistung in Geld verpflichten, werden nach dem Bundesgesetz vom 11. April 1889 über Schuldbetreibung- und Konkurs vollstreckt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_75"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Urteile auf Tun und Unterlassen",
+        "citation": "Art. 76 Abs. 1 BZP",
+        "content": "In Urteilen, die Private zur Vornahme einer Handlung verpflichten, sind für den Fall der Nichtvornahme innert zu bestimmender Frist und in Urteilen, die sie zum Unterlassen einer Handlung verpflichten, für jede Widerhandlung die Ungehorsamsstrafen des Artikel 292 des Strafgesetzbuches von Amtes wegen anzudrohen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_76"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Urteile auf Tun und Unterlassen",
+        "citation": "Art. 76 Abs. 2 BZP",
+        "content": "Die Strafverfolgung findet auf Antrag der berechtigten Partei gemäss den Artikeln 30–33 des Strafgesetzbuchs statt. Sie schliesst den Anspruch auf Vollstreckung des Urteils nicht aus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_76"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Urteile auf Tun und Unterlassen",
+        "citation": "Art. 76 Abs. 3 BZP",
+        "content": "Der berechtigten Partei bleibt vorbehalten, statt der zwangsweisen Durchführung oder Fortführung der Vollstreckung oder nach erfolgloser Vollstreckung Schadenersatz wegen Nichterfüllung zu verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_76"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Realvollstreckung",
+        "citation": "Art. 77 Abs. 1 BZP",
+        "content": "Die Vollstreckung des Urteils liegt dem Bundesrat ob.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_77"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Realvollstreckung",
+        "citation": "Art. 77 Abs. 2 BZP",
+        "content": "Auf Gesuch der berechtigten Partei trifft er durch Vermittlung der kantonalen Behörde oder unmittelbar alle hierzu erforderlichen Massnahmen, wie polizeiliche Wegnahme der herauszugebenden Sache, Vornahme anderer, nicht notwendig persönlich auszuführender Handlungen und Beseitigung des der Unterlassungspflicht widersprechenden Zustandes durch einen Dritten, nötigenfalls unter polizeilichem Schutz, sowie Beiordnung solchen Schutzes gegen den zur Duldung Verpflichteten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_77"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Realvollstreckung",
+        "citation": "Art. 77 Abs. 3 BZP",
+        "content": "Die berechtigte Partei hat die Kosten dieser Massnahmen vorzuschiessen; nach deren Durchführung ist der Pflichtige durch den Bundesrat zum Ersatz dieser Kosten zu verurteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_77"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Abgabe einer Willenserklärung",
+        "citation": "Art. 78 Abs. 1 BZP",
+        "content": "Ist der Beklagte zur Abgabe einer Willenserklärung verurteilt, so wird die Erklärung durch das Urteil ersetzt. Ist sie von einer Bedingung oder Gegenleistung abhängig, so tritt diese Wirkung mit der Feststellung gemäss Artikel 74 Absatz 2 ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_78"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Zehnter Titel: Vollstreckung, Abgabe einer Willenserklärung",
+        "citation": "Art. 78 Abs. 2 BZP",
+        "content": "Betrifft die Willenserklärung ein im Grundbuch einzutragendes Recht, so erteilt der Richter im Urteil die Ermächtigung zur Eintragung im Sinne der Artikel 18 und 19 der Verordnung vom 22. Februar 1910 betreffend das Grundbuch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_78"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Fälle",
+        "citation": "Art. 79 Abs. 1 BZP",
+        "content": "Vorsorgliche Verfügungen können getroffen werden:\na. zum Schutze des Besitzes gegen verbotene Eigenmacht und widerrechtliche Vorenthaltung;\nb. zur Abwehr eines drohenden, nicht leicht wieder gutzumachenden Nachteils, insbesondere durch Veränderung des bestehenden Zustandes vor oder während der Rechtshängigkeit des Anspruchs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_79"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Fälle",
+        "citation": "Art. 79 Abs. 2 BZP",
+        "content": "Ausgeschlossen ist die vorsorgliche Verfügung zur Sicherung von Forderungen, die dem Bundesgesetz vom 11. April 1889 über Schuldbetreibung- und Konkurs unterliegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_79"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Zuständigkeit",
+        "citation": "Art. 80 Abs. 1 BZP",
+        "content": "Zuständig zur vorsorglichen Verfügung vor rechtshängiger Klage ist der Abteilungspräsident, nachher der Instruktionsrichter, in der Hauptverhandlung das Gericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_80"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Zuständigkeit",
+        "citation": "Art. 80 Abs. 2 BZP",
+        "content": "Der Entscheid kann innert zehn Tagen an das Gericht weitergezogen werden. Die Beschwerde hat keine aufschiebende Wirkung, soweit diese nicht ausdrücklich erteilt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_80"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Gesuch",
+        "citation": "Art. 81 Abs. 1 BZP",
+        "content": "Das Gesuch um vorsorgliche Verfügung ist schriftlich einzureichen. In der Vorbereitungs- und in der Hauptverhandlung kann es mündlich gestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_81"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Gesuch",
+        "citation": "Art. 81 Abs. 2 BZP",
+        "content": "Die begründenden Tatsachen sind glaubhaft zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_81"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Gesuch",
+        "citation": "Art. 81 Abs. 3 BZP",
+        "content": "Der Gesuchsgegner erhält Gelegenheit zur Vernehmlassung. In Fällen dringender Gefahr können vorläufige Massnahmen schon auf Einreichung des Gesuches hin getroffen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_81"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Klagefrist und Sicherheitsleistung",
+        "citation": "Art. 82 Abs. 1 BZP",
+        "content": "Wird die vorsorgliche Verfügung vor rechtshängiger Klage getroffen, so kann dem Gesuchsteller Frist zur Einreichung der Klage gesetzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_82"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Klagefrist und Sicherheitsleistung",
+        "citation": "Art. 82 Abs. 2 BZP",
+        "content": "Die vorsorgliche Verfügung wie die vorläufigen Massnahmen sind von Sicherheitsleistung abhängig zu machen, wenn dem Gesuchsgegner durch sie Schaden entstehen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_82"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Vollstreckung, Abänderung, Aufhebung",
+        "citation": "Art. 83 Abs. 1 BZP",
+        "content": "Vorsorgliche Verfügungen und vorläufige Massnahmen werden wie Urteile vollstreckt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_83"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Vollstreckung, Abänderung, Aufhebung",
+        "citation": "Art. 83 Abs. 2 BZP",
+        "content": "Der Richter kann von sich aus oder auf Antrag der Parteien auf seinen Entscheid zurückkommen, wenn die Umstände sich geändert haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_83"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Vollstreckung, Abänderung, Aufhebung",
+        "citation": "Art. 83 Abs. 3 BZP",
+        "content": "Er hebt die vorsorgliche Verfügung auf, wenn sie sich nachträglich als ungerechtfertigt erweist oder wenn die zur Einreichung der Klage gesetzte Frist unbenützt verstrichen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_83"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Vollstreckung, Abänderung, Aufhebung",
+        "citation": "Art. 83 Abs. 4 BZP",
+        "content": "Bei einem Entscheid über Abänderung oder Aufhebung einer Verfügung ist Artikel 80 Absatz 2 entsprechend anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_83"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Schadenersatz",
+        "citation": "Art. 84 Abs. 1 BZP",
+        "content": "Der durch vorsorgliche Verfügung oder durch vorläufige Massnahmen entstandene Schaden ist zu ersetzen, wenn der Anspruch, für den sie bewilligt wurden, nicht zu Recht bestand oder nicht fällig war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_84"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Schadenersatz",
+        "citation": "Art. 84 Abs. 2 BZP",
+        "content": "Zuständig für die Schadenersatzklage ist das Bundesgericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_84"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Schadenersatz",
+        "citation": "Art. 84 Abs. 3 BZP",
+        "content": "Eine bestellte Sicherheit ist erst freizugeben, wenn feststeht, dass eine Schadenersatzklage nicht erhoben wird. Bei Ungewissheit kann der Richter Frist zur Klage setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_84"
+    },
+    {
+        "book": "BZP",
+        "title": "BZP, Elfter Titel: Vorsorgliche Verfügungen, Vorbehalt besonderer Vorschriften",
+        "citation": "Art. 85 BZP",
+        "content": "Die besondern Vorschriften anderer Bundesgesetze über vorsorgliche Verfügungen bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1948/485_473_421/de#art_85"
+    }
+]

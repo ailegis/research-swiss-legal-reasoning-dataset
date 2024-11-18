@@ -1,0 +1,926 @@
+[
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 1: Scopo",
+        "citation": "Art. 1 LC",
+        "content": "Scopo della presente legge è di:\na. disciplinare il collocamento privato e la fornitura di personale a prestito;\nb. assicurare un servizio pubblico di collocamento, che contribuisca a creare e a mantenere un mercato del lavoro equilibrato;\nc. proteggere i lavoratori che ricorrono al collocamento privato o pubblico o alla fornitura di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_1"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 2 cpv. 1 LC",
+        "content": "Chiunque, regolarmente e contro rimunerazione, esercita in Svizzera un’attività di collocamento, istituendo contatti tra datori di lavoro e persone in cerca d’impiego affinché concludano contratti di lavoro (collocatore), deve chiedere un’autorizzazione d’esercizio all’ufficio cantonale del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 2 cpv. 2 LC",
+        "content": "Deve chiedere l’autorizzazione anche chiunque provvede al collocamento di persone per rappresentazioni artistiche o manifestazioni analoghe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 2 cpv. 3 LC",
+        "content": "Chiunque si occupa regolarmente del collocamento all’estero o dall’estero (collocamento in relazione con l’estero) deve chiedere, oltre all’autorizzazione cantonale, un’autorizzazione della Segreteria di Stato dell’economia (SECO).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 2 cpv. 4 LC",
+        "content": "È considerato collocamento dall’estero anche il collocamento di uno straniero dimorante in Svizzera, ma non ancora autorizzato ad esercitare un’attività lucrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 2 cpv. 5 LC",
+        "content": "Per le succursali che hanno la sede in un Cantone diverso da quello della sede principale, dev’essere chiesta un’autorizzazione d’esercizio; se hanno la sede nello stesso Cantone, devono essere annunciate all’ufficio cantonale del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 3 cpv. 1 LC",
+        "content": "L’autorizzazione è rilasciata se l’impresa:\na. è iscritta nel Registro svizzero di commercio;\nb. dispone di un locale d’affari adeguato; \nc. non esercita altra attività lucrativa che possa nuocere agli interessi delle persone in cerca d’impiego o dei datori di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 3 cpv. 2 LC",
+        "content": "Le persone responsabili della gestione devono:\na. avere la nazionalità svizzera o, se stranieri, il permesso di domicilio;\nb. assicurare il servizio di collocamento conformemente alle regole della professione;\nc. godere di buona reputazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 3 cpv. 3 LC",
+        "content": "Per l’autorizzazione di esercitare un’attività di collocamento in relazione con l’estero è inoltre necessario che le persone responsabili della gestione assicurino che l’azienda dispone di conoscenze sufficienti sulle condizioni negli Stati interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 3 cpv. 4 LC",
+        "content": "L’autorizzazione per uffici di collocamento di istituzioni professionali e di utilità pubblica è rilasciata se sono adempiuti i presupposti di cui ai capoversi 1 lettera c, 2 e 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 3 cpv. 5 LC",
+        "content": "Il Consiglio federale disciplina i particolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 4 cpv. 1 LC",
+        "content": "L’autorizzazione è di durata illimitata e conferisce il diritto di esercitare o un’attività di collocamento in tutta la Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 4 cpv. 2 LC",
+        "content": "L’autorizzazione di esercitare un’attività di collocamento in relazione con l’estero è limitata a determinati Paesi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 4 cpv. 3 LC",
+        "content": "Le persone responsabili della gestione sono indicate nominativamente nell’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 4 cpv. 4 LC",
+        "content": "Il Consiglio federale stabilisce gli emolumenti per il rilascio dell’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Revoca",
+        "citation": "Art. 5 cpv. 1 LC",
+        "content": "L’autorizzazione è revocata se il collocatore:\na. l’ha ottenuta fornendo indicazioni inesatte o fallaci oppure dissimulando fatti essenziali;\nb. viola ripetutamente o gravemente la presente legge o prescrizioni esecutive, in particolare le prescrizioni federali o cantonali sull’ammissione di stranieri;\nc. non ne adempie più i presupposti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_5"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Revoca",
+        "citation": "Art. 5 cpv. 2 LC",
+        "content": "Se il collocatore non adempie più singoli presupposti dell’autorizzazione, l’autorità di rilascio, prima di revocargli l’autorizzazione, gli assegna un termine per porsi in consonanza alla legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_5"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 1: Autorizzazione, Obbligo d’informare",
+        "citation": "Art. 6 LC",
+        "content": "Il collocatore è tenuto, su domanda dell’autorità di rilascio, a fornire le informazioni richieste e a presentare i documenti necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_6"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Obblighi specifici del collocatore",
+        "citation": "Art. 7 cpv. 1 LC",
+        "content": "Il collocatore, nella pubblicazione delle offerte e delle domande d’impiego, deve indicare il suo nome e il suo indirizzo esatto. Gli annunci devono corrispondere alle condizioni effettive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Obblighi specifici del collocatore",
+        "citation": "Art. 7 cpv. 2 LC",
+        "content": "Al fine di seguire l’andamento del mercato del lavoro, l’autorità di rilascio può obbligare il collocatore a fornirle dati statistici impersonali sulla sua attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Obblighi specifici del collocatore",
+        "citation": "Art. 7 cpv. 3 LC",
+        "content": "Il collocatore può elaborare i dati concernenti le persone in cerca d’impiego e i posti vacanti soltanto nella misura in cui e fintanto che siano necessari per il collocamento. È tenuto a mantenerli segreti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Contratto di collocamento",
+        "citation": "Art. 8 cpv. 1 LC",
+        "content": "Nel caso di collocamento a titolo oneroso, il collocatore deve concludere un contratto scritto con la persona in cerca d’impiego. Nel contratto deve indicare le sue prestazioni e il suo compenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_8"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Contratto di collocamento",
+        "citation": "Art. 8 cpv. 2 LC",
+        "content": "Sono nulli gli accordi che:\na. impediscono alla persona in cerca d’impiego di rivolgersi a un altro collocatore;\nb. obbligano la persona in cerca d’impiego a pagare nuovamente l’emolumento se conclude altri contratti con lo stesso datore di lavoro, senza l’aiuto del collocatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_8"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Tassa d’iscrizione e provvigione di collocamento",
+        "citation": "Art. 9 cpv. 1 LC",
+        "content": "Il collocatore può esigere dalla persona in cerca d’impiego una tassa d’iscrizione e una provvigione di collocamento. Per prestazioni di servizio oggetto di un accordo speciale, il collocatore può esigere un’indennità supplementare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Tassa d’iscrizione e provvigione di collocamento",
+        "citation": "Art. 9 cpv. 2 LC",
+        "content": "La provvigione è dovuta soltanto nel caso in cui il collocamento sfocia nella conclusione di un contratto di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Tassa d’iscrizione e provvigione di collocamento",
+        "citation": "Art. 9 cpv. 3 LC",
+        "content": "Nel caso di collocamento in relazione con l’estero, la provvigione è dovuta soltanto quando il lavoratore ha ottenuto dalle autorità del Paese in cui è collocato il permesso di esercitare un’attività lucrativa. Il collocatore può però esigere, già dopo la firma del contratto di lavoro, un congruo indennizzo per le spese e gli oneri effettivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 2: Attività di collocamento, Tassa d’iscrizione e provvigione di collocamento",
+        "citation": "Art. 9 cpv. 4 LC",
+        "content": "Il Consiglio federale stabilisce le tasse d’iscrizione e le provvigioni di collocamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 4: Contributi finanziari in favore del collocamento privato",
+        "citation": "Art. 11 cpv. 1 LC",
+        "content": "La Confederazione può, eccezionalmente, accordare contributi finanziari:\na. agli uffici paritetici di collocamento delle associazioni dei datori di lavoro e dei lavoratori, la cui attività si estende all’intero Paese, se esercitano il collocamento su mandato della SECO;\nb. agli uffici di collocamento di associazioni svizzere all’estero che, secondo il diritto straniero, devono operare gratuitamente;\nc. alle istituzioni collaboranti all’applicazione di accordi interstatali, segnatamente in materia di scambio di praticanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 4: Contributi finanziari in favore del collocamento privato",
+        "citation": "Art. 11 cpv. 2 LC",
+        "content": "I contributi finanziari ammontano di regola al 30 per cento al massimo delle spese d’esercizio computabili; non possono superare l’importo del disavanzo d’esercizio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 2: Collocamento privato, Sezione 4: Contributi finanziari in favore del collocamento privato",
+        "citation": "Art. 11 cpv. 3 LC",
+        "content": "Il Consiglio federale disciplina i particolari; stabilisce segnatamente le spese d’esercizio computabili e designa le istituzioni che hanno diritto ai contributi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 12 cpv. 1 LC",
+        "content": "I datori di lavoro (prestatori) che cedono per mestiere lavoratori a terzi (imprese acquisitrici) devono chiedere un’autorizzazione d’esercizio all’ufficio cantonale del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 12 cpv. 2 LC",
+        "content": "Per la fornitura all’estero di personale a prestito, oltre all’autorizzazione cantonale è necessaria un’autorizzazione d’esercizio della SECO. La fornitura di personale a prestito dall’estero in Svizzera non è permessa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’autorizzazione",
+        "citation": "Art. 12 cpv. 3 LC",
+        "content": "Per le succursali che hanno la sede in un Cantone diverso da quello della sede principale, dev’essere chiesta un’autorizzazione d’esercizio; se hanno la sede nello stesso Cantone, devono essere annunciate all’ufficio cantonale del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 13 cpv. 1 LC",
+        "content": "L’autorizzazione è rilasciata se l’impresa:\na. è iscritta nel Registro svizzero di commercio;\nb. dispone di un locale d’affari adeguato;\nc. non esercita altra attività lucrativa che possa nuocere agli interessi dei lavoratori o dei datori di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 13 cpv. 2 LC",
+        "content": "Le persone responsabili della gestione devono:\na. avere la nazionalità svizzera o, se stranieri, il permesso di domicilio;\nb. assicurare la fornitura di personale a prestito conformemente alle regole della professione;\nc. godere di buona reputazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 13 cpv. 3 LC",
+        "content": "Per l’autorizzazione di fornire personale a prestito all’estero è inoltre necessario che le persone responsabili della gestione assicurino che l’azienda dispone di conoscenze sufficienti sulle condizioni negli Stati interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Presupposti",
+        "citation": "Art. 13 cpv. 4 LC",
+        "content": "Il Consiglio federale disciplina i particolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Cauzione",
+        "citation": "Art. 14 cpv. 1 LC",
+        "content": "Il prestatore deve costituire una cauzione a garanzia delle pretese salariali risultanti dalla fornitura di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_14"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Cauzione",
+        "citation": "Art. 14 cpv. 2 LC",
+        "content": "L’importo della cauzione è determinato secondo il volume d’affari. Il Consiglio federale stabilisce l’importo minimo e massimo della cauzione e disciplina i particolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_14"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 15 cpv. 1 LC",
+        "content": "L’autorizzazione è di durata indeterminata e conferisce il diritto di esercitare la fornitura di personale a prestito in tutta la Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 15 cpv. 2 LC",
+        "content": "L’autorizzazione di fornire personale a prestito all’estero è limitata a determinati Paesi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 15 cpv. 3 LC",
+        "content": "Le persone responsabili della gestione sono indicate nominativamente nell’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Durata e portata dell’autorizzazione",
+        "citation": "Art. 15 cpv. 4 LC",
+        "content": "Il Consiglio federale stabilisce gli emolumenti di rilascio dell’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Revoca",
+        "citation": "Art. 16 cpv. 1 LC",
+        "content": "L’autorizzazione è revocata se il prestatore:\na. l’ha ottenuta fornendo indicazioni inesatte o fallaci oppure dissimulando fatti essenziali;\nb. viola ripetutamente o gravemente prescrizioni imperative in materia di protezione dei lavoratori, la presente legge o prescrizioni esecutive, in particolare le prescrizioni federali o cantonali sull’ammissione di stranieri;\nc. non ne adempie più i presupposti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_16"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Revoca",
+        "citation": "Art. 16 cpv. 2 LC",
+        "content": "Se il prestatore non adempie più singoli presupposti dell’autorizzazione, l’autorità di rilascio, prima di revocargli l’autorizzazione, gli assegna un termine per porsi in consonanza alla legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_16"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’informare",
+        "citation": "Art. 17 cpv. 1 LC",
+        "content": "Il prestatore è tenuto, su domanda dell’autorità di rilascio, a fornire le informazioni richieste e a presentare i documenti necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’informare",
+        "citation": "Art. 17 cpv. 2 LC",
+        "content": "Nel caso di sospetto giustificato che alcuno presti per mestiere, senza autorizzazione, lavoratori a terzi, l’autorità di rilascio può esigere informazioni da tutti gli interessati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 1: Autorizzazione, Obbligo d’informare",
+        "citation": "Art. 17 cpv. 3 LC",
+        "content": "Nei settori con un contratto collettivo di lavoro di obbligatorietà generale il prestatore è tenuto a presentare all’organo paritetico competente tutti i documenti necessari per controllare se le condizioni di lavoro locali usuali sono osservate. Nei settori senza contratto collettivo di lavoro di obbligatorietà generale, l’obbligo d’informare va adempiuto nei riguardi della competente commissione cantonale tripartita.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Obblighi specifici del prestatore",
+        "citation": "Art. 18 cpv. 1 LC",
+        "content": "Il prestatore, nella pubblicazione delle offerte d’impiego, deve indicare il suo nome e il suo indirizzo esatto. Negli annunci deve menzionare chiaramente che i lavoratori sono assunti per la fornitura di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Obblighi specifici del prestatore",
+        "citation": "Art. 18 cpv. 2 LC",
+        "content": "Al fine di seguire l’andamento del mercato del lavoro, l’autorità di rilascio può obbligare il prestatore a fornirle dati statistici impersonali sulla sua attività.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Obblighi specifici del prestatore",
+        "citation": "Art. 18 cpv. 3 LC",
+        "content": "Il prestatore può elaborare i dati concernenti i lavoratori e trasmetterli ad imprese acquisitrici soltanto nella misura in cui e fintanto che siano necessari per la fornitura di personale. Ogni ulteriore elaborazione o trasmissione necessita del consenso espresso del lavoratore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 1 LC",
+        "content": "Di regola, il prestatore deve concludere per scritto il contratto col lavoratore. Il Consiglio federale regola le eccezioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 2 LC",
+        "content": "Il contratto regola i punti seguenti:\na. il genere del lavoro da fornire;\nb. il luogo di lavoro e l’inizio dell’impiego;\nc. la durata dell’impiego o il termine di disdetta;\nd. l’orario di lavoro;\ne. il salario, le spese e gli assegni eventuali e le deduzioni per le assicurazioni sociali;\nf. le prestazioni in caso di lavoro supplementare, di malattia, di maternità, d’infortunio, di servizio militare e di vacanze;\ng. le date di pagamento del salario, degli assegni e delle altre prestazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 3 LC",
+        "content": "Se i requisiti di forma o contenuto non sono adempiti, si applicano le usuali condizioni di lavoro locali e professionali o le disposizioni legali, eccetto che siano state pattuite oralmente condizioni di lavoro più favorevoli per il lavoratore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 4 LC",
+        "content": "Durante i primi sei mesi di servizio, ove l’impiego sia di durata indeterminata, il rapporto di lavoro può essere disdetto da entrambe le parti con preavviso di:\na. almeno due giorni, durante i primi tre mesi d’impiego ininterrotto;\nb. almeno sette giorni, dal quarto al sesto mese compreso di impiego ininterrotto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 5 LC",
+        "content": "Sono nulli gli accordi che:\na. esigono dal lavoratore emolumenti, prestazioni finanziarie anticipate o trattenute sul salario;\nb. impediscono o intralciano il trasferimento del lavoratore all’impresa acquisitrice al termine del contratto di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di lavoro",
+        "citation": "Art. 19 cpv. 6 LC",
+        "content": "Se il prestatore è privo dell’autorizzazione necessaria, il contratto di lavoro con il lavoratore è nullo. In questo caso, è applicabile l’articolo 320 capoverso 3 del Codice delle obbligazioni sulle conseguenze di un contratto di lavoro nullo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratti collettivi di lavoro di obbligatorietà generale",
+        "citation": "Art. 20 cpv. 1 LC",
+        "content": "Se un’impresa acquisitrice è sottoposta a un contratto collettivo di lavoro di obbligatorietà generale, il prestatore deve rispettare, riguardo al lavoratore, le disposizioni del contratto collettivo concernenti il salario e la durata del lavoro. Se un contratto di lavoro di obbligatorietà generale prevede un contributo obbligatorio a spese di formazione continua e d’esecuzione, le pertinenti disposizioni si applicano anche al prestatore, nel qual caso i contributi devono essere versati in funzione della durata dell’impiego. Il Consiglio federale disciplina i particolari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratti collettivi di lavoro di obbligatorietà generale",
+        "citation": "Art. 20 cpv. 2 LC",
+        "content": "L’organo paritetico di controllo previsto nel contratto collettivo di obbligatorietà generale ha il diritto di controllare il prestatore. Se accerta infrazioni che non siano di lieve entità, deve darne comunicazione all’ufficio cantonale del lavoro e può:\na. infliggere al prestatore una pena convenzionale secondo quanto disposto dal contratto collettivo;\nb. addossare interamente o parzialmente al prestatore le spese dei controlli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratti collettivi di lavoro di obbligatorietà generale",
+        "citation": "Art. 20 cpv. 3 LC",
+        "content": "Se un’impresa acquisitrice è sottoposta a un contratto collettivo di lavoro di obbligatorietà generale che disciplina il pensionamento flessibile, il prestatore deve pure rispettare, riguardo al lavoratore, le pertinenti disposizioni del contratto collettivo. Il Consiglio federale può fissare la durata minima d’impiego a partire dalla quale il lavoratore fruisce di una siffatta disciplina.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Lavoratori stranieri in Svizzera",
+        "citation": "Art. 21 cpv. 1 LC",
+        "content": "Il prestatore può assumere in Svizzera soltanto stranieri che vi sono ammessi per esercitare un’attività lucrativa e autorizzati a cambiare impiego.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_21"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Lavoratori stranieri in Svizzera",
+        "citation": "Art. 21 cpv. 2 LC",
+        "content": "Sono possibili deroghe se motivi economici speciali lo giustificano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_21"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di fornitura di personale a prestito",
+        "citation": "Art. 22 cpv. 1 LC",
+        "content": "Il prestatore deve concludere con l’impresa acquisitrice un contratto scritto. Deve indicarvi:\na. il proprio indirizzo e quello dell’autorità che rilascia l’autorizzazione;\nb. le qualifiche professionali del lavoratore e il genere di lavoro;\nc. il luogo di lavoro e l’inizio dell’impiego;\nd. la durata dell’impiego o i termini di disdetta;\ne. l’orario di lavoro valevole per il lavoratore;\nf. il costo della fornitura di personale a prestito, comprese le prestazioni sociali, gli assegni, le spese e le prestazioni accessorie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di fornitura di personale a prestito",
+        "citation": "Art. 22 cpv. 2 LC",
+        "content": "Sono nulli gli accordi che intralciano o impediscono l’impresa acquisitrice di concludere con il lavoratore un contratto di lavoro al termine dell’impiego.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di fornitura di personale a prestito",
+        "citation": "Art. 22 cpv. 3 LC",
+        "content": "Sono nondimeno ammessi gli accordi secondo i quali il prestatore può esigere un’indennità dall’impresa acquisitrice qualora l’impiego sia durato meno di tre mesi e il lavoratore, entro un periodo inferiore a tre mesi dalla fine dell’impiego, passi a questa impresa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di fornitura di personale a prestito",
+        "citation": "Art. 22 cpv. 4 LC",
+        "content": "L’indennità non può superare l’importo che l’impresa acquisitrice avrebbe dovuto pagare al prestatore, per un impiego di tre mesi, a compensazione delle spese amministrative e dell’utile. Il prestatore deve computare tale indennità nell’importo già pagato per le spese amministrative e per l’utile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 3: Personale a prestito, Sezione 2: Attività di fornitura di personale a prestito, Contratto di fornitura di personale a prestito",
+        "citation": "Art. 22 cpv. 5 LC",
+        "content": "Se il prestatore è privo dell’autorizzazione necessaria, il contratto di fornitura di personale a prestito è nullo. In questo caso, sono applicabili le disposizioni del Codice delle obbligazioni sugli atti illeciti e sull’indebito arricchimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Compiti",
+        "citation": "Art. 24 cpv. 1 LC",
+        "content": "Gli uffici del lavoro nei Cantoni registrano le persone in cerca d’impiego che si notificano ed i posti vacanti annunciati. Consigliano le persone in cerca d’impiego e i datori di lavoro nella scelta o nell’occupazione di un posto di lavoro e si adoperano per procurare posti di lavoro e manodopera adeguati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_24"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Compiti",
+        "citation": "Art. 24 cpv. 2 LC",
+        "content": "Per il collocamento, tengono conto dei desideri individuali, delle qualità e delle capacità professionali delle persone in cerca d’impiego, come pure dei bisogni e della situazione aziendale del datore di lavoro nonché della situazione generale del mercato del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_24"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Collocamento in relazione con l’estero",
+        "citation": "Art. 25 cpv. 1 LC",
+        "content": "La Direzione consolare del Dipartimento federale degli affari esteri (DFAE) gestisce un servizio di consulenza che fornisce, senza garanzia di esattezza, informazioni sulle prescrizioni d’entrata, le possibilità di lavoro e le condizioni di vita nei Paesi esteri e le trasmette a persone che desiderano esercitare un’attività lucrativa all’estero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Collocamento in relazione con l’estero",
+        "citation": "Art. 25 cpv. 2 LC",
+        "content": "L’ufficio di compensazione dell’assicurazione contro la disoccupazione sostiene nella ricerca di un posto di lavoro i cittadini svizzeri che desiderano rimpatriare e coordina gli sforzi degli uffici del lavoro per il loro collocamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Collocamento in relazione con l’estero",
+        "citation": "Art. 25 cpv. 2bis LC",
+        "content": "La Confederazione può sostenere la ricerca di posti di lavoro all’estero con altri provvedimenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Obbligo di collocare e imparzialità",
+        "citation": "Art. 26 cpv. 1 LC",
+        "content": "Gli uffici del lavoro mettono imparzialmente i loro servizi a disposizione di tutti gli svizzeri che cercano lavoro e dei datori di lavoro domiciliati in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Obbligo di collocare e imparzialità",
+        "citation": "Art. 26 cpv. 2 LC",
+        "content": "Essi collocano e consigliano gli stranieri in cerca di lavoro che dimorano in Svizzera e vi sono autorizzati ad esercitare un’attività lucrativa e a cambiare impiego e professione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Obbligo di collocare e imparzialità",
+        "citation": "Art. 26 cpv. 3 LC",
+        "content": "Gli uffici del lavoro non possono cooperare al collocamento se il datore di lavoro:\na. offre condizioni di salario e di lavoro considerevolmente inferiori a quelle usuali nel luogo e nella professione;\nb. ha ripetutamente o gravemente violato le disposizioni concernenti la protezione dei lavoratori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Gratuità",
+        "citation": "Art. 27 LC",
+        "content": "Il servizio pubblico di collocamento è gratuito. Agli utenti possono essere addossate soltanto le spese causate da pratiche speciali svolte con il loro consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_27"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Provvedimenti particolari per lottare contro la disoccupazione",
+        "citation": "Art. 28 cpv. 1 LC",
+        "content": "Gli uffici del lavoro aiutano le persone in cerca d’impiego il cui collocamento è impossibile o molto difficile nella scelta di una riqualificazione o di una formazione continua adeguate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Provvedimenti particolari per lottare contro la disoccupazione",
+        "citation": "Art. 28 cpv. 2 LC",
+        "content": "I Cantoni possono organizzare, per i disoccupati il cui collocamento è impossibile o molto difficile, corsi di riqualificazione, formazione continua e reintegrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Provvedimenti particolari per lottare contro la disoccupazione",
+        "citation": "Art. 28 cpv. 3 LC",
+        "content": "Essi possono organizzare programmi destinati a procurare lavoro nei limiti dell’articolo 72 della legge del 25 giugno 1982 sull’assicurazione contro la disoccupazione per provvedere all’occupazione temporanea di disoccupati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Provvedimenti particolari per lottare contro la disoccupazione",
+        "citation": "Art. 28 cpv. 4 LC",
+        "content": "Gli uffici del lavoro proseguono adeguatamente i loro sforzi per collocare il disoccupato, anche se egli segue un corso o lavora temporaneamente nell’ambito dei provvedimenti di cui agli articoli 59–72 della legge 25 giugno 1982 sull’assicurazione contro la disoccupazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Obbligo dei datori di lavoro di annunciare i licenziamenti e le chiusure d’impresa",
+        "citation": "Art. 29 cpv. 1 LC",
+        "content": "Il datore di lavoro è tenuto ad annunciare al più presto all’ufficio del lavoro competente, ma al più tardi al momento in cui notifica le disdette, qualsiasi licenziamento di un numero importante di lavoratori e qualsiasi chiusura d’impresa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_29"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 4: Servizio pubblico di collocamento, Obbligo dei datori di lavoro di annunciare i licenziamenti e le chiusure d’impresa",
+        "citation": "Art. 29 cpv. 2 LC",
+        "content": "Il Consiglio federale determina le eccezioni all’obbligo di annunciare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_29"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 5: Propaganda in favore dell’emigrazione di lavoratori",
+        "citation": "Art. 30 LC",
+        "content": "Sono vietati annunci pubblici, manifestazioni o altri procedimenti destinati o atti a indurre in errore, sulle condizioni di lavoro e di vita nei Paesi stranieri, i lavoratori che desiderano emigrare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_30"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Autorità federale preposta al mercato del lavoro",
+        "citation": "Art. 31 cpv. 1 LC",
+        "content": "La SECO è l’autorità federale preposta al mercato del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Autorità federale preposta al mercato del lavoro",
+        "citation": "Art. 31 cpv. 2 LC",
+        "content": "Sorveglia l’esecuzione della presente legge da parte dei Cantoni e promuove la coordinazione intercantonale del servizio pubblico di collocamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Autorità federale preposta al mercato del lavoro",
+        "citation": "Art. 31 cpv. 3 LC",
+        "content": "Sorveglia il collocamento privato in relazione con l’estero e la fornitura all’estero di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Autorità federale preposta al mercato del lavoro",
+        "citation": "Art. 31 cpv. 4 LC",
+        "content": "Può organizzare, in collaborazione con i Cantoni, corsi di formazione e di formazione continua per il personale delle autorità preposte al mercato del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Cantoni",
+        "citation": "Art. 32 cpv. 1 LC",
+        "content": "I Cantoni disciplinano la sorveglianza del servizio pubblico di collocamento, del collocamento privato e della fornitura di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_32"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Cantoni",
+        "citation": "Art. 32 cpv. 2 LC",
+        "content": "Gestiscono almeno un ufficio cantonale del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_32"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione",
+        "citation": "Art. 33 cpv. 1 LC",
+        "content": "Le autorità federali e cantonali preposte al mercato del lavoro collaborano per equilibrarlo a livello nazionale. Nelle singole regioni economiche, le autorità dei Cantoni interessati collaborano direttamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione",
+        "citation": "Art. 33 cpv. 2 LC",
+        "content": "Gli uffici del lavoro si adoperano affinché le associazioni dei datori di lavoro e dei lavoratori, come anche le altre organizzazioni attive nel settore del collocamento cooperino efficacemente all’esecuzione dei provvedimenti in questo campo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione",
+        "citation": "Art. 33 cpv. 3 LC",
+        "content": "Il Consiglio federale disciplina la competenza delle autorità preposte al mercato del lavoro e quella delle istituzioni dell’assicurazione invalidità in materia di collocamento degli invalidi e degli andicappati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Trattamento di dati personali",
+        "citation": "Art. 33a cpv. 1 LC",
+        "content": "Gli organi incaricati di applicare la presente legge oppure di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare i dati personali di cui necessitano per adempiere i compiti conferiti loro dalla presente legge, segnatamente per:\na. registrare, consigliare e collocare le persone in cerca di lavoro;\nb. registrare, comunicare e assegnare i posti vacanti;\nc. registrare i licenziamenti e le chiusure d’impresa;\nd. applicare provvedimenti relativi al mercato del lavoro;\ne. sorvegliare l’esecuzione della presente legge;\nf. allestire statistiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Trattamento di dati personali",
+        "citation": "Art. 33a cpv. 2 LC",
+        "content": "Dati personali degni di particolare protezione possono essere trattati alle condizioni seguenti:\na. per i dati concernenti la salute e l’appartenenza religiosa della persona in cerca di lavoro: se sono necessari per il collocamento;\nb. per i dati concernenti i provvedimenti decisi o previsti nell’ambito dell’esecuzione della presente legge e della legge federale del 25 giugno 1982 sull’assicurazione contro la disoccupazione: se si ripercuotono direttamente sulle prestazioni dell’assicurazione contro la disoccupazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Trattamento di dati personali",
+        "citation": "Art. 33a cpv. 3 LC",
+        "content": "Inoltre, gli organi incaricati di applicare la presente legge oppure di controllarne o sorvegliarne l’esecuzione possono trattare o far trattare i dati personali che permettono di valutare la situazione personale ed economica dei beneficiari di prestazioni di consulenza ai sensi della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Obbligo del segreto",
+        "citation": "Art. 34 LC",
+        "content": "Le persone incaricate di svolgere, controllare o sorvegliare l’attività del servizio pubblico di collocamento devono mantenere il segreto nei confronti di terzi riguardo ai dati relativi alle persone in cerca di lavoro, ai datori di lavoro e ai posti vacanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 1 LC",
+        "content": "Purché nessun interesse privato preponderante vi si opponga, in singoli casi e su richiesta scritta e motivata i dati possono essere comunicati:\na. agli organi dell’assicurazione per l’invalidità, qualora un obbligo in tal senso sia sancito dalla legge federale del 19 giugno 1959 sull’assicurazione per l’invalidità;\nb. alle autorità d’assistenza sociale, qualora ne necessitino per determinare o modificare prestazioni, chiederne la restituzione o prevenire pagamenti indebiti;\nc. ai tribunali civili, qualora ne necessitino per decidere di una controversia relativa al diritto di famiglia o successorio;\nd. ai tribunali penali e alle autorità istruttorie penali, qualora ne necessitino per accertare un crimine o un delitto;\ne. alle autorità di protezione dei minori e degli adulti, conformemente all’articolo 448 capoverso 4 del Codice civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 2 LC",
+        "content": "Purché nessun interesse privato preponderante vi si opponga, i dati possono essere comunicati:\na. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere gli obblighi conferiti loro dalla presente legge;\nb. agli organi di altre assicurazioni sociali, qualora l’obbligo di comunicazione sia sancito da una legge federale;\nc. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992 sulla statistica federale;\nd. alle autorità istruttorie penali, qualora sia necessario per denunciare o impedire un crimine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 3 LC",
+        "content": "I dati d’interesse generale in relazione all’applicazione della presente legge possono essere pubblicati. L’anonimato delle persone in cerca di lavoro e dei datori di lavoro è garantito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 4 LC",
+        "content": "Negli altri casi i dati possono essere comunicati a terzi alle condizioni seguenti:\na. per i dati non personali: se la comunicazione è giustificata da un interesse preponderante;\nb. per i dati personali: se, nel caso specifico, la persona interessata ha dato il suo consenso scritto o, qualora non sia possibile ottenerlo, le circostanze permettono di presumere che la comunicazione dei dati sia nell’interesse della persona in cerca di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 5 LC",
+        "content": "Possono essere comunicati solo i dati necessari per l’obiettivo perseguito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 6 LC",
+        "content": "Il Consiglio federale disciplina le modalità di comunicazione e d’informazione della persona interessata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Comunicazione di dati",
+        "citation": "Art. 34a cpv. 7 LC",
+        "content": "I dati sono di norma comunicati per scritto e gratuitamente. Il Consiglio federale può prevedere la riscossione di un emolumento qualora sia necessario un particolare dispendio di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Consultazione degli atti",
+        "citation": "Art. 34b cpv. 1 LC",
+        "content": "Purché rimangano tutelati interessi preponderanti, possono consultare gli atti:\na. le persone in cerca di lavoro e i datori di lavoro, per i dati che li concernono;\nb. le persone che hanno un diritto o un obbligo conformemente alla presente legge, per i dati necessari all’esercizio di tale diritto o all’adempimento di tale obbligo;\nc. le persone e le istituzioni che possono impugnare decisioni prese in virtù della presente legge, per i dati necessari all’esercizio di tale diritto;\nd. le autorità competenti in caso di ricorso contro decisioni prese in virtù della presente legge, per i dati necessari all’adempimento di tale compito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_b"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Consultazione degli atti",
+        "citation": "Art. 34b cpv. 2 LC",
+        "content": "Nel caso di dati relativi alla salute, la cui comunicazione potrebbe ripercuotersi negativamente sulla salute della persona autorizzata a consultare gli atti, questa può essere tenuta a designare un medico che glieli comunichi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_34_b"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 1 LC",
+        "content": "L’ufficio di compensazione dell’assicurazione contro la disoccupazione (art. 83 cpv. 3 della legge del 25 giugno 1982 sull’assicurazione contro la disoccupazione [LADI]) gestisce sistemi d’informazione che servono:\na. al collocamento pubblico (art. 83 cpv. 1bis lett. b LADI), per:\n1. facilitare il collocamento,\n2. rendere esecutiva la LADI,\n3. osservare il mercato del lavoro,\n4. agevolare la collaborazione fra gli organi del servizio pubblico di collocamento, dell’assicurazione contro la disoccupazione e dell’assicurazione per l’invalidità,\n5. agevolare la collaborazione fra gli organi dell’assicurazione contro la disoccupazione, il servizio pubblico di collocamento, i collocatori privati e i datori di lavoro;\nb. alla gestione della piattaforma del servizio pubblico di collocamento (art. 83 cpv. 1bis lett. e LADI), per:\n1. consultare i posti vacanti,\n2. consultare i posti vacanti soggetti all’obbligo di annuncio,\n3. annunciare i posti vacanti,\n4. contattare le persone in cerca d’impiego,\n5. gestire i posti vacanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 2 LC",
+        "content": "Il sistema d’informazione di cui al capoverso 1 lettera a può trattare dati personali, compresi quelli degni di particolare protezione conformemente all’articolo 33a capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 3 LC",
+        "content": "I seguenti uffici e organi hanno accesso al sistema del servizio pubblico di collocamento e possono trattare dati:\na. e b. ...\nc. gli uffici cantonali del lavoro (art. 32 cpv. 2), per adempiere i compiti loro assegnati dalla legge (art. 85 LADI);\nd. i servizi logistici per l’approntamento di provvedimenti inerenti al mercato del lavoro, per adempiere i compiti loro assegnati dalla legge (art. 85c LADI);\ne. gli uffici regionali di collocamento (URC), per adempiere i compiti loro assegnati dalla legge (art. 85b LADI);\nf. ...\ng. gli organi dell’assicurazione per l’invalidità, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35a;\nh. e i....\nj. ...\njbis.gli organi dell’assistenza sociale, ai fini della reintegrazione professionale delle persone nel quadro della collaborazione interistituzionale di cui all’articolo 35a;\nk....",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 3bis LC",
+        "content": "Se necessario all’esecuzione della presente legge e della LADI, lo scambio di dati personali, compresi quelli degni di particolare protezione, tra i sistemi d’informazione del servizio pubblico di collocamento e dell’assicurazione contro la disoccupazione è autorizzato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 3ter LC",
+        "content": "Le seguenti persone e i seguenti uffici hanno un accesso protetto alla piattaforma del servizio pubblico di collocamento:\na. le persone in cerca d’impiego registrate all’URC, per accedere alle informazioni sui posti vacanti annunciati;\nb. i datori di lavoro, per annunciare i posti vacanti e contattare le persone in cerca d’impiego;\nc. i collocatori privati che dispongono di un’autorizzazione di collocamento, per consultare in forma non anonimizzata i profili delle persone in cerca d’impiego;\nd. gli URC, per gestire gli annunci di posti vacanti;\ne. la Direzione consolare del DFAE, per adempiere i compiti di cui all’articolo 25 capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 4 LC",
+        "content": "La Confederazione partecipa alle spese, nella misura in cui siano dovute all’adempimento di compiti federali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Sistemi d’informazione",
+        "citation": "Art. 35 cpv. 5 LC",
+        "content": "Il Consiglio federale disciplina:\na. la responsabilità per la protezione dei dati;\nb. i dati da raccogliere;\nc. il termine di conservazione dei dati;\nd. la portata dei diritti di accesso e di trattamento dei dati personali, compresi i dati personali degni di particolare protezione, accordati alle persone, agli uffici e agli organi di cui ai capoversi 3 e 3ter;\ne. l’organizzazione e la gestione del sistema d’informazione;\nf. la collaborazione fra le autorità interessate;\ng. la sicurezza dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione interistituzionale e collaborazione con collocatori privati",
+        "citation": "Art. 35a cpv. 1 LC",
+        "content": "Ai fini della collaborazione interistituzionale prevista nell’articolo 85f della legge del 25 giugno 1982 sull’assicurazione contro la disoccupazione, gli uffici di orientamento professionale, i servizi sociali dei Cantoni e dei Comuni, gli organi di esecuzione delle leggi cantonali di aiuto ai disoccupati, dell’assicurazione invalidità, dell’assicurazione contro le malattie e della legislazione sull’asilo, le autorità cantonali incaricate della formazione professionale, l’Istituto nazionale svizzero di assicurazione contro gli infortuni, nonché altre istituzioni private o pubbliche importanti per la reintegrazione degli assicurati possono essere autorizzati nel caso specifico a consultare i dati utili del sistema d’informazione se:\na. la persona interessata riceve prestazioni da uno di questi organi e dà il suo consenso; e\nb. gli organi menzionati accordano la reciprocità agli organi di esecuzione dell’assicurazione contro la disoccupazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione interistituzionale e collaborazione con collocatori privati",
+        "citation": "Art. 35a cpv. 1bis LC",
+        "content": "Gli organi di esecuzione dell’assicurazione contro la disoccupazione e gli uffici dell’assicurazione invalidità sono reciprocamente esonerati dall’obbligo del segreto nell’ambito della collaborazione interistituzionale nella misura in cui:\na. non vi si opponga alcun interesse privato preponderante; e\nb. le informazioni e i documenti sono utilizzati nei casi in cui non è ancora stabilito in modo chiaro qual è l’organo che assicura il finanziamento:\n1. per decidere qual è il provvedimento di reintegrazione adeguato per l’interessato, e\n2. per stabilire le pretese dell’interessato nei confronti dell’assicurazione contro la disoccupazione e dell’assicurazione invalidità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione interistituzionale e collaborazione con collocatori privati",
+        "citation": "Art. 35a cpv. 1ter LC",
+        "content": "Lo scambio di dati ai sensi del capoverso 1bis può aver luogo anche senza il consenso dell’interessato e, in casi specifici, anche oralmente. Occorre in seguito informare l’interessato sullo scambio di dati e sul suo contenuto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Collaborazione interistituzionale e collaborazione con collocatori privati",
+        "citation": "Art. 35a cpv. 2 LC",
+        "content": "I collocatori privati che dispongono di un’autorizzazione di collocamento possono accedere ai dati del sistema d’informazione mediante un’adeguata procedura di richiamo. A tal fine i dati devono essere resi anonimi. L’obbligo d’anonimato viene meno soltanto se la persona in cerca di lavoro dà il proprio consenso scritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Elenco delle imprese private di collocamento e di fornitura di personale a prestito autorizzate",
+        "citation": "Art. 35b cpv. 1 LC",
+        "content": "Con la collaborazione delle competenti autorità cantonali, la SECO tiene, mediante un adeguato sistema d’informazione, un elenco delle imprese private di collocamento e di fornitura di personale a prestito autorizzate e dei rispettivi responsabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_b"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Elenco delle imprese private di collocamento e di fornitura di personale a prestito autorizzate",
+        "citation": "Art. 35b cpv. 2 LC",
+        "content": "Tale elenco può contenere dati personali degni di particolare protezione relativi alla revoca, alla soppressione o al mancato rilascio di un’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_35_b"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Osservazione del mercato del lavoro",
+        "citation": "Art. 36 cpv. 1 LC",
+        "content": "Il Consiglio federale ordina le rilevazioni necessarie per l’osservazione del mercato del lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Osservazione del mercato del lavoro",
+        "citation": "Art. 36 cpv. 2 LC",
+        "content": "Gli uffici del lavoro osservano la situazione e l’evoluzione del mercato del lavoro nel loro Cantone. Presentano rapporto alla SECO sulla situazione del mercato del lavoro, come anche sul collocamento pubblico e privato e sulla fornitura di personale a prestito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Osservazione del mercato del lavoro",
+        "citation": "Art. 36 cpv. 3 LC",
+        "content": "I risultati sono pubblicati in modo tale da escludere qualsiasi riferimento alle persone interessate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Osservazione del mercato del lavoro",
+        "citation": "Art. 36 cpv. 4 LC",
+        "content": "I dati raccolti per l’osservazione del mercato del lavoro possono essere utilizzati soltanto a scopi statistici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 6: Autorità, Commissione per la politica economica",
+        "citation": "Art. 37 LC",
+        "content": "Il Consiglio federale istituisce una Commissione per la politica economica. Nella commissione sono rappresentati la Confederazione, i Cantoni, le cerchie scientifiche, i datori di lavoro e i lavoratori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_37"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 7: Protezione giuridica",
+        "citation": "Art. 38 cpv. 1 LC",
+        "content": "Contro le decisioni prese in virtù della presente legge è ammissibile il ricorso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 7: Protezione giuridica",
+        "citation": "Art. 38 cpv. 2 LC",
+        "content": "Sono autorità di ricorso:\na. almeno un’autorità cantonale, per le decisioni degli uffici del lavoro;\nb. il Tribunale amministrativo federale per le decisioni di prima istanza delle autorità federali;\nc. il Tribunale federale conformemente alla legge del 17 giugno 2005 sul Tribunale federale.\nd. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 7: Protezione giuridica",
+        "citation": "Art. 38 cpv. 3 LC",
+        "content": "Il procedimento dinanzi alle autorità cantonali è retto dal diritto procedurale cantonale, sempreché il diritto federale non disponga altrimenti. La procedura davanti alle autorità federali è retta dalle disposizioni generali sull’amministrazione della giustizia federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 1 LC",
+        "content": "È punito con la multa sino a 100000 franchi chiunque, intenzionalmente:\na. procura lavoro o fornisce personale a prestito senza possedere l’autorizzazione richiesta;\nb. in qualità di collocatore o prestatore, colloca stranieri o li assume come lavoratori in violazione delle prescrizioni legali in materia di manodopera straniera. Rimane salva una pena suppletiva secondo l’articolo 23 della legge federale del 26 marzo 1931 sulla dimora e il domicilio degli stranieri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 2 LC",
+        "content": "È punito con la multa sino a 40000 franchi chiunque, intenzionalmente:\na. ricorre, in qualità di datore di lavoro, a un collocatore o a un prestatore sapendolo privo dell’autorizzazione necessaria;\nb. viola l’obbligo di annunciare e di informare (art. 6, 7, 17, 18 e 29);\nc. in qualità di prestatore, non comunica per scritto o non comunica integralmente il tenore essenziale del contratto, oppure conclude accordi illeciti (art. 19 e 22);\nd. in qualità di collocatore, contravviene alle disposizioni concernenti la provvigione di collocamento (art. 9) oppure, in qualità di prestatore, esige dal lavoratore emolumenti o prestazioni finanziarie anticipate (art. 19 cpv. 5);\ne. svolge una propaganda fallace in materia d’emigrazione di lavoratori (art. 30);\nf. viola l’obbligo del segreto (art. 7, 18 e 34).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 3 LC",
+        "content": "Chiunque commette, per negligenza, un’infrazione di cui ai capoversi 1 o 2 lettere b–f è punito con la multa sino a 20000 franchi. Nei casi poco gravi si può prescindere da ogni pena.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 4 LC",
+        "content": "Chiunque ottiene un’autorizzazione fornendo indicazioni inesatte o fallaci o dissimulando fatti essenziali è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 5 LC",
+        "content": "Alle infrazioni commesse nell’azienda sono applicabili gli articoli 6 e 7 della legge del 22 marzo 1974 sul diritto penale amministrativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "LC, Capitolo 8: Disposizioni penali",
+        "citation": "Art. 39 cpv. 6 LC",
+        "content": "Il perseguimento penale incombe ai Cantoni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/it#art_39"
+    }
+]

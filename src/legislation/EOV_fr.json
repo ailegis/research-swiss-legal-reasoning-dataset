@@ -1,0 +1,905 @@
+[
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 1, Droit à l’allocation, Personnes exerçant une activité lucrative",
+        "citation": "Art. 1 al. 1 OAPG",
+        "content": "Sont réputées exercer une activité lucrative les personnes qui ont exercé une telle activité pendant au moins quatre semaines au cours des douze mois précédant l’entrée en service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_1"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 1, Droit à l’allocation, Personnes exerçant une activité lucrative",
+        "citation": "Art. 1 al. 2 OAPG",
+        "content": "Sont assimilés aux personnes exerçant une activité lucrative:\na. les chômeurs;\nb. les personnes qui rendent vraisemblable qu’elles auraient entrepris une activité lucrative de longue durée si elles n’avaient pas dû entrer en service;\nc. les personnes qui ont terminé leur formation professionnelle immédiatement avant d’entrer en service ou qui l’auraient terminée pendant le service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_1"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 1, Droit à l’allocation, Personnes sans activité lucrative",
+        "citation": "Art. 2 OAPG",
+        "content": "Les personnes qui ne remplissent pas l’une des conditions énoncées à l’art. 1 sont réputées sans activité lucrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_2"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 1, Droit à l’allocation, Personnes participant aux cours de formation des cadres de Jeunesse et Sport (J+S)",
+        "citation": "Art. 3 OAPG",
+        "content": "L’Office fédéral du sport désigne les cours qui, conformément à l’art. 1a, al. 4, LAPG, donnent droit à l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_3"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 4 al. 1 OAPG",
+        "content": "L’allocation des salariés est calculée sur la base du dernier salaire déterminant acquis avant l’entrée en service et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels une personne n’a pas perçu de salaire ou dont le salaire a été diminué en raison:\na. d’une maladie;\nb. d’un accident;\nc. d’une période de chômage;\nd. d’une période de service au sens de l’art. 1a LAPG;\ne. d’un congé de maternité au sens de l’art. 329f du code des obligations (CO) ou d’un congé de l’autre parent au sens de l’art. 329g ou 329gbis CO;\nf. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art.16o LAPG;\ng. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;\nh. d’autres motifs n’impliquant aucune faute de sa part.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 4 al. 2 OAPG",
+        "content": "Pour les personnes qui rendent vraisemblable que, durant le service, elles auraient entrepris une activité salariée de longue durée ou gagné sensiblement plus qu’avant d’entrer en service, l’allocation est calculée d’après le revenu qu’elles ont perdu. Pour les personnes qui ont achevé leur formation professionnelle immédiatement avant d’entrer en service et pour celles qui l’auraient achevée pendant la période où elles effectuent leur service, l’allocation est calculée sur la base du salaire initial versé selon l’usage local dans la profession concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 4 al. 3 OAPG",
+        "content": "Pour les membres de la famille qui travaillent avec l’exploitant sans recevoir de salaire en espèces et qui accomplissent un service avant le 1er janvier de l’année suivant celle au cours de laquelle ils ont atteint l’âge de 20 ans, l’allocation est calculée d’après le salaire global déterminé selon l’art. 14, al. 3, du règlement du 31 octobre 1947 sur l’assurance-vieillesse et survivants (RAVS).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_4"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu régulier",
+        "citation": "Art. 5 al. 1 OAPG",
+        "content": "Sont considérées comme salariés ayant un revenu régulier les personnes:\na. qui ont un rapport de travail conclu pour une durée indéterminée ou pour une année au moins et dont le revenu n’est pas soumis à de fortes fluctuations;\nb. qui ont interrompu leur activité en raison d’un des motifs énumérés à l’art. 4, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu régulier",
+        "citation": "Art. 5 al. 2 OAPG",
+        "content": "Le gain journalier moyen acquis avant le service est déterminé de la façon suivante:\na. pour les salariés payés à l’heure, le dernier salaire horaire perçu avant le service est multiplié par le nombre d’heures de travail effectuées durant la dernière semaine de travail normal précédant le service et ce produit est divisé par sept;\nb. pour les salariés payés au mois, le dernier salaire mensuel perçu avant le service est divisé par 30;\nc. pour les salariés rémunérés d’une autre façon, le salaire perçu durant les quatre dernières semaines précédant le service est divisé par 28.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu régulier",
+        "citation": "Art. 5 al. 3 OAPG",
+        "content": "Si le gain journalier moyen acquis avant le service ne peut être déterminé selon l’al. 2 parce que le dernier emploi a débuté peu avant l’entrée en service, la rémunération convenue entre les parties est déterminante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu régulier",
+        "citation": "Art. 5 al. 4 OAPG",
+        "content": "Les éléments de salaire versés régulièrement une fois par année ou à des intervalles de plusieurs mois sont convertis en gain journalier moyen et ajoutés au revenu déterminé selon l’al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_5"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu irrégulier",
+        "citation": "Art. 6 al. 1 OAPG",
+        "content": "Pour les personnes salariées n’ayant pas de revenu régulier au sens de l’art. 5, le revenu journalier moyen acquis avant le service est établi d’après le gain obtenu pendant les trois mois précédant l’entrée en service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_6"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Détermination du gain journalier moyen acquis avant le service pour les salariés ayant un revenu irrégulier",
+        "citation": "Art. 6 al. 2 OAPG",
+        "content": "Le gain d’une période plus longue est pris en considération si le revenu moyen ainsi déterminé n’est pas approprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_6"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 7 al. 1 OAPG",
+        "content": "L’allocation des personnes exerçant une activité indépendante est calculée d’après le revenu, converti en revenu moyen, qui a servi de base à la dernière décision de cotisations à l’AVS rendue avant l’entrée en service. Ne sont pas prises en compte dans la détermination du gain les périodes pour lesquelles une personne n’a pas perçu de revenu ou dont le revenu a été diminué en raison:\na. d’une maladie;\nb. d’un accident;\nc. d’une période de service au sens de l’art. 1a LAPG;\nd. d’un congé de maternité au sens de l’art. 329f CO ou d’un congé de l’autre parent au sens de l’art. 329gbis CO;\ne. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16o LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 7 al. 1bis OAPG",
+        "content": "L’allocation est ajustée sur demande si, par la suite, une nouvelle décision de cotisation est prise pour l’année pendant laquelle le service a été accompli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 7 al. 2 OAPG",
+        "content": "Pour les personnes qui rendent vraisemblable qu’elles auraient entrepris une activité indépendante de longue durée pendant la période du service, l’allocation est calculée d’après le revenu qu’elles auraient pu obtenir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 7 al. 3 OAPG",
+        "content": "Si une personne exerçant une activité indépendante n’est pas astreinte à payer des cotisations en vertu de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS),son allocation est calculée d’après le revenu acquis au cours de l’année précédant celle de l’entrée en service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_7"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes exerçant à la fois une activité salariée et indépendante",
+        "citation": "Art. 8 OAPG",
+        "content": "Pour les personnes exerçant à la fois une activité salariée et indépendante, l’allocation est calculée d’après la somme des revenus provenant des deux activités et déterminés conformément aux art. 4 à 7.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_8"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation des personnes ayant perçu des indemnités journalières avant le service",
+        "citation": "Art. 9 OAPG",
+        "content": "Pour les personnes qui ont bénéficié d’une indemnité journalière de l’assurance-invalidité ou de l’assurance-accidents obligatoire jusqu’à leur entrée en service, le montant total de l’allocation correspond au moins à celui de l’indemnité journalière préalablement versée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_9"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Allocation pendant la formation de base dans la protection civile",
+        "citation": "Art. 10 OAPG",
+        "content": "Pour les personnes qui ont accompli au moins 40 jours de service au sens de l’art. 1a, al. 1 et 2bis, LAPG, l’allocation journalière de base durant la formation de base dans la protection civile correspond à 80 % du revenu moyen acquis avant le service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_10"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 2, Calcul de l’allocation, Durée du service civil équivalant à une école de recrue",
+        "citation": "Art. 11 OAPG",
+        "content": "Sont considérés comme durée équivalant à une école de recrue:\na. les 124 premiers jours de service civil, si la personne qui fait son service civil n’a pas été incorporée dans une arme;\nb. la durée de l’école de recrues qui correspond à l’arme respective, si la personne a été incorporée dans une arme avant son affectation au service civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_11"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 3, Allocation pour frais de garde, Coûts supplémentaires pour la garde des enfants",
+        "citation": "Art. 12 OAPG",
+        "content": "Sont notamment indemnisés à titre de coûts supplémentaires pour la garde des enfants:\na. les frais correspondant aux repas que les enfants prennent hors du domicile;\nb. les frais d’hébergement et de déplacement pour les enfants accueillis par des tiers;\nc. la rétribution d’aides familiales ou ménagères;\nd. les frais pour des crèches et des garderies;\ne. les frais de déplacement de tiers qui, pour garder les enfants, se rendent au domicile de la personne faisant du service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_12"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 3, Allocation pour frais de garde, Montant de l’allocation",
+        "citation": "Art. 13 al. 1 OAPG",
+        "content": "Seuls les frais effectifs sont remboursés, mais au maximum jusqu’à concurrence d’une somme égale à 27 % du montant maximal de l’allocation totale, multipliée par le nombre de jours de service effectués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_13"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 3, Allocation pour frais de garde, Montant de l’allocation",
+        "citation": "Art. 13 al. 2 OAPG",
+        "content": "Les dépenses inférieures à 20 francs ne sont pas remboursées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_13"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 4 Allocation d’exploitation versée aux membres de la famille travaillant dans l’exploitation agricole",
+        "citation": "Art. 14 OAPG",
+        "content": "Les personnes qui exercent leur activité principale dans une exploitation agricole comme membres de la famille de l’exploitant ont droit à l’allocation d’exploitation si:\na. elles ont qualité de travailleurs agricoles au sens de l’art. 1a, al. 2 let. a et b, de la loi fédérale du 20 juin 1952 sur les allocations familiales dans l’agriculture (LFA) ou de conjoint de l’exploitant;\nb. elles accomplissent une période de service ininterrompue de douze jours au minimum; et\nc. elles sont remplacées pendant dix jours au moins par un auxiliaire auquel est versé un salaire journalier moyen en espèces égal ou supérieur au montant de l’allocation d’exploitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_14"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Demande d’allocation",
+        "citation": "Art. 15 al. 1 OAPG",
+        "content": "La demande d’allocation doit être faite au moyen d’un formulaire officiel, accompagné des justificatifs requis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Demande d’allocation",
+        "citation": "Art. 15 al. 2 OAPG",
+        "content": "L’Office fédéral des assurances sociales remet le formulaire de demande et les formulaires spécifiques des différentes allocations:\na. aux états-majors et aux unités;\nb. aux autorités de protection civile chargées des convocations;\nc. à l’organe fédéral chargé de l’exécution du service civil et à leurs chargés d’exécution;\nd. à l’Office fédéral du sport.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Demande d’allocation",
+        "citation": "Art. 15 al. 3 OAPG",
+        "content": "Le formulaire de demande d’allocation est remis à la fin du service. Si le service dure plus de 30 jours, un formulaire est remis après dix jours, puis à la fin de chaque mois civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Demande d’allocation",
+        "citation": "Art. 15 al. 4 OAPG",
+        "content": "Si une personne a besoin de recevoir l’allocation à intervalles plus courts pour assurer son entretien ou celui de sa famille, les formulaires de demande sont remis tous les dix jours, et ce, pendant toute la période du service.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_15"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation du nombre de jours de service",
+        "citation": "Art. 16 al. 1 OAPG",
+        "content": "Le comptable de l’état-major, de l’unité ou de l’autorité de la protection civile chargé des convocations atteste le nombre de jours soldés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation du nombre de jours de service",
+        "citation": "Art. 16 al. 2 OAPG",
+        "content": "L’organe fédéral chargé de l’exécution du service civil et les chargés d’exécution attestent le nombre de jours donnant droit à l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation du nombre de jours de service",
+        "citation": "Art. 16 al. 3 OAPG",
+        "content": "L’organisateur des cours fédéraux et cantonaux pour formation des cadres de Jeunesse et Sport (J+S) et des cours pour moniteurs de tirs de jeunes tireurs atteste le nombre de jours donnant droit à l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation du nombre de jours de service",
+        "citation": "Art. 16 al. 4 OAPG",
+        "content": "Les jours donnant droit à l’allocation ne doivent être attestés qu’une seule fois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation du nombre de jours de service",
+        "citation": "Art. 16 al. 5 OAPG",
+        "content": "Si une personne a remis un formulaire de demande erroné ou que le formulaire a été égaré, la caisse de compensation compétente établit un duplicata. Elle y atteste le nombre de jours donnant droit à l’allocation en se fondant sur le livret de service, sur l’attestation de cours ou sur un extrait du système d’information du service civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_16"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Attestation de salaire établie par l’employeur",
+        "citation": "Art. 17 OAPG",
+        "content": "Lorsque la personne astreinte au service a droit à une allocation en tant que salariée, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant l’allocation, le montant du salaire versé durant le service et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_17"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Exercice du droit à l’allocation par des tiers",
+        "citation": "Art. 18 al. 1 OAPG",
+        "content": "Les proches ou l’employeur de la personne astreinte au service qui ont qualité pour agir selon l’art. 17, al. 1, LAPG font valoir le droit à l’allocation auprès de la caisse de compensation compétente; au besoin, ils sollicitent personnellement la production de l’attestation du nombre de jours de service donnant droit à l’allocation et de l’attestation de salaire. Les art. 15 à 17 s’appliquent par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_18"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Exercice du droit à l’allocation par des tiers",
+        "citation": "Art. 18 al. 2 OAPG",
+        "content": "Lorsqu’un membre de sa famille a droit à une allocation d’exploitation selon l’art. 14, l’art. 17, al. 1, let. b, LAPG s’applique également par analogie à l’exploitant agricole.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_18"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 19 al. 1 OAPG",
+        "content": "La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement des allocations est:\na. pour les personnes astreintes au paiement de cotisations AVS, la caisse qui a perçu les cotisations avant l’entrée en service;\nb. pour les personnes résidant en Suisse qui sont exemptées de l’obligation de payer des cotisations, la caisse cantonale de compensation de leur lieu de domicile;\nc. pour les personnes résidant à l’étranger qui ne sont pas obligatoirement assurées à l’AVS, la caisse suisse de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 19 al. 2 OAPG",
+        "content": "Si plusieurs caisses sont compétentes, l’ayant droit choisit l’une d’entre elles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 5, Exercice du droit à l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 19 al. 3 OAPG",
+        "content": "Pour le dépôt de la demande, les personnes salariées doivent agir par l’intermédiaire de leur employeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_19"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Fixation de l’allocation",
+        "citation": "Art. 20 al. 1 OAPG",
+        "content": "La caisse de compensation peut déléguer à l’employeur la fixation de l’allocation de base et des allocations pour enfants, mais uniquement si l’ayant droit n’a pas plusieurs employeurs et qu’il n’exerce pas simultanément une activité salariée et une activité indépendante. La caisse de compensation vérifie le calcul de l’employeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_20"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Fixation de l’allocation",
+        "citation": "Art. 20 al. 2 OAPG",
+        "content": "À la demande de l’ayant droit, la caisse de compensation ou l’employeur, si celui-ci a fixé l’allocation, doivent lui indiquer comment l’allocation a été calculée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_20"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 21 al. 1 OAPG",
+        "content": "À la réception de chaque formulaire de demande, la caisse de compensation ou l’employeur versent le montant correspondant ou procèdent s’il y a lieu à la compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 21 al. 2 OAPG",
+        "content": "L’art. 19, al. 2, LPGA s’applique également si la période de service se déroule partiellement ou entièrement en dehors des heures de travail de la personne salariée ou si son employeur a son siège à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 21 al. 3 OAPG",
+        "content": "L’allocation est versée sur un compte bancaire ou postal. Sur demande, elle peut être payée comptant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 21 al. 4 OAPG",
+        "content": "Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_21"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Allocation pour des personnes à l’étranger",
+        "citation": "Art. 22 al. 1 OAPG",
+        "content": "L’allocation revenant à une personne à l’étranger est fixée en francs suisses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_22"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 1, Allocation en cas de service, Section 6, Fixation et paiement de l’allocation, Allocation pour des personnes à l’étranger",
+        "citation": "Art. 22 al. 2 OAPG",
+        "content": "L’allocation est payée dans la monnaie de l’État de résidence de l’ayant droit. L’art. 20, al. 2, de l’ordonnance du 26 mai 1961 concernant l’assurance-vieillesse, survivants et invalidité facultative s’applique par analogie à la conversion de l’allocation en monnaie étrangère.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_22"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Naissance du droit",
+        "citation": "Art. 23 al. 1 OAPG",
+        "content": "Le droit à l’allocation naît lorsque la mère accouche d’un enfant viable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_23"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Naissance du droit",
+        "citation": "Art. 23 al. 2 OAPG",
+        "content": "Le droit de la mère à l’allocation naît également lorsque la grossesse a duré au moins 23 semaines.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_23"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Durée du versement de l’allocation de maternité en cas d’hospitalisation prolongée du nouveau-né ",
+        "citation": "Art. 24 OAPG",
+        "content": "La preuve que le nouveau-né doit rester en milieu hospitalier de manière ininterrompue durant deux semaines au moins suivant immédiatement la naissance doit être fournie au moyen d’un certificat médical.Art. 25 Extinction du droit de la mère (art. 16d, al. 3, première partie de la phrase, LAPG)Le droit de la mère à l’allocation s’éteint le jour où celle-ci reprend une activité lucrative, quel que soit son taux d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_24"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 2, Durée minimale de l’affiliation, Prise en compte des périodes de cotisation à l’étranger",
+        "citation": "Art. 26 OAPG",
+        "content": "Pour la détermination de la période minimale fixée à l’art. 16b, al. 1, let. a, ou 16i, al. 1, let. b, LAPG, sont aussi prises en compte les périodes pendant lesquelles la mère ou l’autre parent bénéficiait d’une assurance obligatoire et qu’elle ou il passe:\na. dans un des États parties à l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes, son annexe II et les règlements nos 1408/71 et 574/72 dans leur version modifiée;\nb. dans les pays membres de l’Association européenne de libre échange.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_26"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 2, Durée minimale de l’affiliation, Réduction de la durée minimale d’assurance en cas de naissance avant terme",
+        "citation": "Art. 27 OAPG",
+        "content": "En cas de naissance avant terme, la période d’assurance fixée à l’art. 16b, al. 1, let. a, ou 16i, al. 1, let. b, LAPG est réduite comme suit:\na. à 8 mois si l’accouchement intervient entre le 8e mois de la grossesse et le terme;\nb. à 7 mois si l’accouchement intervient entre le 7e et le 8e mois de la grossesse;\nc. à 6 mois si l’accouchement intervient avant le 7e mois de la grossesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_27"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Prise en compte de l’activité lucrative exercée à l’étranger",
+        "citation": "Art. 28 OAPG",
+        "content": "Pour la détermination de la durée minimale fixée à l’art. 16b, al. 1, let. b, ou 16i, al. 1, let. c, LAPG, sont aussi prises en compte les périodes d’activité lucrative accomplies:\na. dans un des États parties à l’accord du 21 juin 1999 entre la Confédération suisse d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes, son annexe II et les règlements nos 1408/71 et 574/72 dans leur version modifiée;\nb. dans les pays membres de l’Association européenne de libre échange.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_28"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Prise en compte des périodes de service ",
+        "citation": "Art. 28a OAPG",
+        "content": "Pour la détermination de la durée minimale fixée à l’art. 16b, al.1, let. b, ou 16i, al. 1, let. c, LAPG, sont aussi prises en compte les périodes pendant lesquelles la personne ayant droit à l’allocation effectuait un service au sens de l’art. 1a LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_28_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Mère et autre parent au chômage",
+        "citation": "Art. 29 al. 1 OAPG",
+        "content": "La mère qui est au chômage au moment de l’accouchement ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16b, al. 1, let. b, LAPG a droit à l’allocation:\na. si elle a perçu des indemnités de l’assurance-chômage jusqu’à l’accouchement, ou\nb. si elle remplissait la condition de la période de cotisation nécessaire prévue par la loi fédérale du 25 juin 1982 sur l’assurance-chômage pour percevoir des indemnités au moment de l’accouchement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Mère et autre parent au chômage",
+        "citation": "Art. 29 al. 1bis OAPG",
+        "content": "La mère selon l’al. 1, let. a, a droit à une prolongation du versement de l’allocation de maternité (art. 16c, al. 3 LAPG):\na. si elle n’a pas perçu la totalité des indemnités journalières de l’assurance-chômage avant l’accouchement et que le délai-cadre d’indemnisation court encore le jour suivant la fin du congé de maternité, et\nb. si elle présente un certificat médical selon l’art. 24.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Mère et autre parent au chômage",
+        "citation": "Art. 29 al. 2 OAPG",
+        "content": "L’autre parent qui est au chômage au moment de la naissance de l’enfant ou qui, en raison d’une période de chômage, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16i, al. 1, let. c, LAPG a droit à l’allocation:\na. s’il a perçu des indemnités de l’assurance-chômage jusqu’à la naissance de l’enfant, ou\nb.  si, le jour de la naissance de l’enfant, il effectuait un service au sens de l’art. 1a LAPG et remplissait la condition de la période de cotisation nécessaire prévue par la loi sur l’assurance-chômage pour percevoir des indemnités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Mère et autre parent au chômage",
+        "citation": "Art. 29 al. 3 OAPG",
+        "content": "L’autre parent au sens de l’al. 2, let. a, a droit à des indemnités journalières supplémentaires en cas de décès de la mère (art. 16kbis, al. 2, LAPG):\na. s’il n’a pas perçu la totalité des indemnités journalières de l’assurance-chômage avant la naissance de l’enfant et que le délai-cadre d’indemnisation court encore le jour suivant la fin du congé de l’autre parent en cas de décès de la mère, et\nb. s’il présente un certificat médical conformément à l’art. 24.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_29"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 3, Durée minimale de l’activité lucrative, Mère et autre parent en incapacité de travail",
+        "citation": "Art. 30 OAPG",
+        "content": "La mère ou l’autre parent qui est en incapacité de travail au moment de la naissance de l’enfant ou qui, en raison d’une période d’incapacité de travail, ne remplit pas la condition de la durée d’activité lucrative minimale prévue par l’art. 16b, al. 1, let. b, ou 16i, al. 1, let. c, LAPG a droit à l’allocation si elle ou il:\na.  a perçu jusqu’à la naissance de l’enfant des indemnités pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou des indemnités journalières de l’assurance-invalidité, ou\nb. bénéficiait d’un rapport de travail encore valable au moment de la naissance de l’enfant et avait précédemment épuisé son droit au salaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_30"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 4, Calcul de l’allocation, Allocation de la mère ou de l’autre parent exerçant une activité salariée",
+        "citation": "Art. 31 al. 1 OAPG",
+        "content": "L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la naissance de l’enfant et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination de ce gain les jours pour lesquels la mère ou l’autre parent n’a pas perçu de salaire ou dont le salaire a été diminué en raison:\na. d’une maladie;\nb. d’un accident;\nc. d’une période de chômage;\nd. d’une période de service au sens de l’art. 1a LAPG;\ne. d’un congé de maternité au sens de l’art. 329f CO ou d’un congé de l’autre parent au sens de l’art. 329g ou 329gbis CO;\nf. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16o LAPG;\ng. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;\nh. d’autres motifs n’impliquant aucune faute de sa part.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 4, Calcul de l’allocation, Allocation de la mère ou de l’autre parent exerçant une activité salariée",
+        "citation": "Art. 31 al. 2 OAPG",
+        "content": "Les allocations respectives de la mère et de l’autre parent sont calculées séparément.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 4, Calcul de l’allocation, Allocation de la mère ou de l’autre parent exerçant une activité salariée",
+        "citation": "Art. 31 al. 3 OAPG",
+        "content": "Au surplus, les art. 5 et 6 s’appliquent par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_31"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 4, Calcul de l’allocation, Allocation de la mère ou de l’autre parent exerçant une activité indépendante",
+        "citation": "Art. 32 OAPG",
+        "content": "L’art. 7, al. 1 et 1bis, s’applique au calcul de l’allocation revenant à la mère ou à l’autre parent qui exerce une activité indépendante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_32"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 4, Calcul de l’allocation, Allocation de la mère ou de l’autre parent exerçant à la fois une activité salariée et une activité indépendante",
+        "citation": "Art. 33 OAPG",
+        "content": "L’allocation revenant à la mère ou à l’autre parent qui exerce simultanément une activité salariée et une activité indépendante est calculée sur les gains journaliers moyens des deux activités, déterminés selon les art. 7, al. 1 et 1bis, et 31.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_33"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 34 al. 1 OAPG",
+        "content": "La caisse de compensation compétente pour le dépôt de la demande et pour la fixation et le paiement des allocations est:\na. pour les mères astreintes au paiement de cotisations AVS, la caisse qui a perçu les cotisations au moment de l’accouchement;\nb. pour les autres parents astreints au paiement de cotisations AVS, la caisse qui a perçu les cotisations lorsque l’autre parent a pris son dernier jour de congé de l’autre parent;\nc. pour les mères et les autres parents résidant à l’étranger qui ne sont plus obligatoirement assurés à l’AVS, la caisse suisse de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 34 al. 2 OAPG",
+        "content": "L’art. 19, al. 2 et 3, s’applique par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 34a al. 1 OAPG",
+        "content": "Pour les mères et les autres parents qui exerçaient une activité salariée au moment de la naissance de l’enfant, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 34a al. 2 OAPG",
+        "content": "Pour les mères et les autres parents qui sont au chômage ou en incapacité de travail au moment de la naissance de l’enfant, le dernier employeur atteste sur le formulaire de demande le montant du salaire déterminant pour le calcul de l’allocation et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 34a al. 3 OAPG",
+        "content": "L’employeur auprès duquel l’autre parent est engagé durant son congé ou la caisse de chômage de l’autre parent atteste que les jours de congé ont été pris.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 34a al. 4 OAPG",
+        "content": "L’organe compétent délivre à la mère qui participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal, une attestation confirmant qu’aucune suppléance n’est prévue pour ces séances. La mère remet cette attestation à la caisse de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_34_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Fixation et paiement de l’allocation",
+        "citation": "Art. 35 al. 1 OAPG",
+        "content": "Les art. 20 et 22 s’appliquent par analogie à la fixation de l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Fixation et paiement de l’allocation",
+        "citation": "Art. 35 al. 2 OAPG",
+        "content": "L’allocation de maternité est payée mensuellement à terme échu. Si elle est inférieure à 200 francs par mois, elle est payée à l’extinction du droit. Le même principe s’applique aux indemnités journalières supplémentaires à l’autre parent en cas de décès de la mère, visées à l’art. 16kbis LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Fixation et paiement de l’allocation",
+        "citation": "Art. 35 al. 3 OAPG",
+        "content": "L’allocation à l’autre parent est versée en une seule fois, lorsque le droit à l’allocation a pris fin conformément à l’art. 16j, al. 3, LAPG. Il en va de même de l’allocation de maternité supplémentaire en cas de décès de l’autre parent selon l’art. 16cbis LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Fixation et paiement de l’allocation",
+        "citation": "Art. 35 al. 4 OAPG",
+        "content": "La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Section 1, Début et extinction du droit à l’allocation, Section 5, Exercice du droit, fixation et paiement de l’allocation, Fixation et paiement de l’allocation",
+        "citation": "Art. 35 al. 5 OAPG",
+        "content": "L’art. 21, al. 3 et 4, s’applique par analogie au versement de l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail, Parents nourriciers",
+        "citation": "Art. 35a al. 1 OAPG",
+        "content": "Les parents nourriciers qui ont recueilli l’enfant de manière durable à des fins d’entretien et d’éducation ont droit à l’allocation selon l’art. 16n, al. 1 et 2, LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail, Parents nourriciers",
+        "citation": "Art. 35a al. 2 OAPG",
+        "content": "Le droit des parents nourriciers s’éteint si l’enfant retourne chez l’un de ses parents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_a"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail, Beaux-parents",
+        "citation": "Art. 35b OAPG",
+        "content": "La belle-mère ou le beau-père a droit à l’allocation selon l’art. 16n, al. 1 et 2, LAPG:\na. si elle ou il fait ménage commun avec l’autre parent, qui a l’autorité parentale et la garde de l’enfant, et contribue de façon appropriée à l’entretien et à l’éducation de l’enfant, et\nb. si un des parents renonce complètement à son droit, pour autant qu’un lien de filiation existe envers les deux parents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_b"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail, Mère ou autre parent au chômage",
+        "citation": "Art. 35c OAPG",
+        "content": "Le droit à l’allocation de la mère ou de l’autre parent au chômage est régi par l’art. 16n, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et qu’elle ou il a perçu une indemnité journalière de l’assurance-chômage jusqu’au début de son droit à l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_c"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 1 Droit des parents nourriciers, des beaux-parents et de la mère ou de l’autre parent au chômage ou en incapacité de travail, Mère ou autre parent en incapacité de travail",
+        "citation": "Art. 35d OAPG",
+        "content": "Le droit à l’allocation de la mère ou de l’autre parent en incapacité de travail est régi par l’art. 16n, al. 1 et 2, LAPG lorsque la prise en charge de l’enfant requiert sa présence et:\na. qu’elle ou il a perçu, jusqu’au début du droit à l’allocation, des indemnités journalières de l’assurance-invalidité ou une allocation pour perte de gain en cas de maladie ou d’accident d’une assurance sociale ou privée, ou\nb. qu’au début du droit à l’allocation, elle ou il était partie à un rapport de travail encore valable et avait précédemment épuisé son droit au salaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_d"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Répartition entre les parents",
+        "citation": "Art. 35e OAPG",
+        "content": "Si le congé de prise en charge est réparti entre les parents, les allocations sont calculées séparément pour chaque parent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_e"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 35f al. 1 OAPG",
+        "content": "L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la perception des jours de congé correspondants et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:\na. d’une maladie;\nb. d’un accident;\nc. d’une période de chômage;\nd. d’une période de service au sens de l’art. 1a LAPG;\ne. d’un congé de maternité au sens de l’art. 329f CO ou d’un congé de l’autre parent au sens de l’art. 329g ou 329gbis CO;\nf. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16o LAPG;\ng. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;\nh. d’autres motifs n’impliquant aucune faute de sa part.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 35f al. 2 OAPG",
+        "content": "L’indemnité journalière est recalcuée s’il y a un changement du salaire déterminant durant les jours de congé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 35f al. 3 OAPG",
+        "content": "Les art. 5 et 6 s’appliquent par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_f"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 35g OAPG",
+        "content": "L’art. 7, al. 1 et 1bis, s’appliquent par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_g"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 2, Calcul de l’allocation, Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante",
+        "citation": "Art. 35h OAPG",
+        "content": "L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35f, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_h"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente ",
+        "citation": "Art. 35i al. 1 OAPG",
+        "content": "La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement des allocations est celle qui perçoit les cotisations au début du droit à l’allocation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente ",
+        "citation": "Art. 35i al. 2 OAPG",
+        "content": "Si le congé de prise en charge est réparti entre les parents, la caisse de compensation compétente au début du droit à l’allocation le demeure pendant toute la durée du délai-cadre pour les deux parents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente ",
+        "citation": "Art. 35i al. 3 OAPG",
+        "content": "Pour le dépôt de la demande, les salariés doivent agir par l’intermédiaire de leur employeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_i"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35j al. 1 OAPG",
+        "content": "Pour les ayants droit qui exercent une activité salariée au moment de la naissance du droit à l’allocation, l’employeur atteste le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35j al. 2 OAPG",
+        "content": "Pour les ayants droit selon les art. 35c ou 35d qui exerçaient une activité avant la période de chômage ou d’incapacité de travail, le dernier employeur atteste le montant du salaire déterminant pour le calcul de l’allocation et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35j al. 3 OAPG",
+        "content": "L’employeur ou l’organe d’exécution de l’assurance-chômage atteste à la fin de chaque mois les jours de congé de prise en charge qui ont été pris.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_j"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35k al. 1 OAPG",
+        "content": "L’allocation est payée mensuellement à terme échu. La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35k al. 2 OAPG",
+        "content": "L’allocation est versée sur un compte bancaire ou postal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35k al. 3 OAPG",
+        "content": "Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2a, Allocation pour la prise en charge d’un enfant gravement atteint dans sa santé en raison d’une maladie ou d’un accident, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35k al. 4 OAPG",
+        "content": "L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_k"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 1 Durées minimales d’assurance et d’exercice d’une activité lucrative, Prise en compte des périodes de cotisation et de l’activité lucrative exercée à l’étranger",
+        "citation": "Art. 35l OAPG",
+        "content": "Les art. 26 et 28 sont applicables par analogie à la détermination des périodes minimales de cotisation et de l’activité lucrative fixées à l’art. 16t, al. 1, let. b, LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_l"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 1 Durées minimales d’assurance et d’exercice d’une activité lucrative, Prise en compte des périodes avec perception d’indemnités journalières",
+        "citation": "Art. 35m OAPG",
+        "content": "Pour la détermination de la durée minimale fixée à l’art. 16t, al.1, let. b, LAPG, sont aussi prises en compte les périodes pendant lesquelles la personne ayant droit à l’allocation:\na. effectuait un service au sens de l’art. 1a LAPG, ou\nb. a perçu des indemnités journalières de l’assurance-chômage, de l’assurance-invalidité ou d’une assurance sociale ou privée pour la perte de gain en cas de maladie ou d’accident.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_m"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 35n al. 1 OAPG",
+        "content": "L’allocation est calculée sur la base du dernier salaire déterminant acquis avant la date de l’accueil de l’enfant en vue de son adoption et converti en gain journalier moyen. Ne sont pas pris en compte dans la détermination du gain les jours pour lesquels l’ayant droit n’a pas perçu de salaire ou dont le salaire a été diminué en raison:\na. d’une maladie;\nb. d’un accident;\nc. d’une période de chômage;\nd. d’une période de service au sens de l’art. 1a LAPG;\ne. d’un congé de maternité au sens de l’art. 329f CO ou d’un congé de l’autre parent au sens de lart. 329g ou 329gbis CO;\nf. de la prise en charge d’un enfant gravement atteint dans sa santé selon l’art. 16o LAPG;\ng. de l’accueil d’un enfant de moins de 4 ans en vue de son adoption;\nh. d’autres motifs n’impliquant aucune faute de sa part.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_n"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 2, Calcul de l’allocation, Allocation des salariés",
+        "citation": "Art. 35n al. 2 OAPG",
+        "content": "Les art. 5 et 6 s’appliquent par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_n"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 2, Calcul de l’allocation, Allocation des personnes exerçant une activité indépendante",
+        "citation": "Art. 35o OAPG",
+        "content": "L’art. 7, al. 1 et 1bis, s’appliquent par analogie au calcul de l’allocation revenant à la personne qui exerce une activité indépendante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_o"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 2, Calcul de l’allocation, Allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante",
+        "citation": "Art. 35p OAPG",
+        "content": "L’allocation des ayants droit exerçant à la fois une activité salariée et une activité indépendante est calculée d’après la somme des revenus provenant de l’activité salariée, déterminés selon l’art. 35n, et de l’activité indépendante, déterminés selon l’art. 7, al. 1 et 1bis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_p"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 35q al. 1 OAPG",
+        "content": "La caisse de compensation compétente pour le dépôt de la demande, pour la fixation et le paiement de l’allocation est la Caisse fédérale de compensation (CFC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_q"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Caisse de compensation compétente",
+        "citation": "Art. 35q al. 2 OAPG",
+        "content": "Pour le dépôt de la demande, les personnes salariées doivent agir par l’intermédiaire de leur employeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_q"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35r al. 1 OAPG",
+        "content": "Pour les ayants droit qui exercent une activité salariée au moment de la naissance du droit à l’allocation, l’employeur atteste sur le formulaire de demande le montant du salaire déterminant pour le calcul de l’allocation, le montant du salaire versé durant la période d’indemnisation et la durée d’occupation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35r al. 2 OAPG",
+        "content": "L’employeur auprès duquel l’ayant droit est engagé durant le congé d’adoption atteste que les jours de congé ont été pris.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Attestations",
+        "citation": "Art. 35r al. 3 OAPG",
+        "content": "Les personnes exerçant une activité indépendante remettent la taxation fiscale à la CFC dès sa réception.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_r"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35s al. 1 OAPG",
+        "content": "L’allocation est versée en une seule fois, lorsque le droit à l’allocation a pris fin conformément à l’art. 16u, al. 3, LAPG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35s al. 2 OAPG",
+        "content": "La compensation au sens de l’art. 19, al. 2, LPGA ou de l’art. 20, al. 2, LAVS est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35s al. 3 OAPG",
+        "content": "L’allocation est versée sur un compte bancaire ou postal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35s al. 4 OAPG",
+        "content": "Constituent des preuves du paiement les justificatifs internes des caisses, l’attestation d’exécution de Postfinance ou l’avis de débit de la banque.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 2b, Allocation d’adoption, Section 3, Exercice du droit, fixation et paiement de l’allocation, Paiement de l’allocation",
+        "citation": "Art. 35s al. 5 OAPG",
+        "content": "L’art. 22 s’applique par analogie à la fixation et au paiement de l’allocation des personnes à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_35_s"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Taux des cotisations",
+        "citation": "Art. 36 al. 1 OAPG",
+        "content": "La cotisation sur le revenu d’une activité lucrative s’élève à 0,5 %. Dans les limites du barème dégressif mentionné à l’art. 21 RAVS, les cotisations sont calculées comme suit:Revenu annuel provenant d’une activité lucrativeTaux de la cotisation en pour-cent du revenud’au moins fr.mais inférieur à fr.  9 80017 5000,26917 50021 3000,27521 30023 8000,28123 80026 3000,28726 30028 8000,29328 80031 3000,29931 30033 8000,31233 80036 3000,32436 30038 8000,33638 80041 3000,34941 30043 8000,36143 80046 3000,37346 30048 8000,39248 80051 3000,41051 30053 8000,42953 80056 3000,44856 30058 8000,466",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_36"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Taux des cotisations",
+        "citation": "Art. 36 al. 2 OAPG",
+        "content": "Les personnes sans activité lucrative acquittent une cotisation de 24 à 1200 francs par an. Les art. 28 à 30 RAVS s’appliquent par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_36"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 1 OAPG",
+        "content": "S’il verse l’allocation à l’ayant droit ou compense celle-ci par le salaire, l’employeur doit l’inclure dans le décompte destiné à la caisse de compensation compétente, comme s’il s’agissait d’un élément du salaire déterminant au sens de l’AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 2 OAPG",
+        "content": "La caisse de compensation lui bonifie, en même temps que l’allocation, les cotisations patronales afférentes à celle-ci dues à l’AVS, à l’assurance-invalidité, au régime des allocations pour perte de gain (APG) et à l’assurance-chômage ou porte ces cotisations à son crédit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 3 OAPG",
+        "content": "Elle bonifie en outre à l’employeur, en même temps que l’allocation, la contribution patronale afférente à celle-ci, due selon l’art. 18, al. 1, LFA, pour les salariés agricoles ou porte cette contribution au crédit de celui-ci. Elle inscrit le montant correspondant au débit du compte des contributions perçues au titre de la LFA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 4 OAPG",
+        "content": "Elle déduit des allocations directement versées par elle à une personne salariée ou à un employeur non tenu de payer des cotisations les cotisations dues à l’AVS, à l’assurance-invalidité, au régime des APG et à l’assurance-chômage. Elle inscrit au compte individuel de la personne assurée le montant de l’allocation soumis à cotisation comme revenu de l’activité lucrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 5 OAPG",
+        "content": "L’allocation pour frais de garde est exempte des déductions dues par les personnes salariées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes salariées",
+        "citation": "Art. 37 al. 6 OAPG",
+        "content": "L’art. 6quater RAVS sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS et l’art. 34d RAVS sur le salaire de minime importance ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_37"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes exerçant une activité indépendante et pour les personnes n’exerçant aucune activité lucrative",
+        "citation": "Art. 38 al. 1 OAPG",
+        "content": "La caisse de compensation déduit des allocations les cotisations dues à l’AVS, à l’assurance-invalidité et au régime des APG au même taux que pour une personne salariée. Elle inscrit au compte individuel de la personne assurée le montant de l’allocation soumis à cotisation comme revenu de l’activité lucrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes exerçant une activité indépendante et pour les personnes n’exerçant aucune activité lucrative",
+        "citation": "Art. 38 al. 2 OAPG",
+        "content": "Aucune cotisation n’est déduite de l’allocation pour frais de garde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Décompte des cotisations pour les personnes exerçant une activité indépendante et pour les personnes n’exerçant aucune activité lucrative",
+        "citation": "Art. 38 al. 3 OAPG",
+        "content": "L’art. 6quater RAVS sur les cotisations dues par les assurés actifs après avoir atteint l’âge de référence fixé à l’art. 21, al. 1, LAVS et l’art. 19 RAVS sur les revenus de minime importance provenant d’une activité indépendante exercée à titre accessoire ne sont pas applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_38"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Règlement des paiements",
+        "citation": "Art. 39 OAPG",
+        "content": "L’employeur inclut les allocations qu’il a versées dans le décompte destiné à la caisse de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_39"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Créances en restitution irrécouvrables",
+        "citation": "Art. 40 OAPG",
+        "content": "L’art. 79bis RAVS s’applique aux créances en restitution irrécouvrables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_40"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Couverture des frais d’administration",
+        "citation": "Art. 41 al. 1 OAPG",
+        "content": "Le taux des contributions aux frais d’administration dus par les employeurs, les personnes exerçant une activité indépendante et les personnes sans activité lucrative est le même que celui prévu par l’assurance-vieillesse et survivants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_41"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Couverture des frais d’administration",
+        "citation": "Art. 41 al. 2 OAPG",
+        "content": "Le Département fédéral de l’intérieur détermine les subsides éventuels prélevés sur le fonds de compensation du régime des allocations pour perte de gain pour couvrir les frais d’administration des caisses de compensation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_41"
+    },
+    {
+        "book": "EOV",
+        "title": "OAPG, Chapitre 3, Dispositions communes, Dispositions applicables",
+        "citation": "Art. 42 OAPG",
+        "content": "Les chap. IV et VI et les art. 34 à 43 et 205 à 212bis RAVS s’appliquent par analogie, sous réserve des dispositions contraires de la LAPG et du présent règlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2005/187/fr#art_42"
+    }
+]

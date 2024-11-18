@@ -1,0 +1,793 @@
+[
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 1, Principe",
+        "citation": "Art. 1 al. 1 LBFA",
+        "content": "La présente loi s’applique au bail:\na. des immeubles affectés à l’agriculture;\nb. des entreprises agricoles au sens des art. 5 et 7, al. 1, 2, 3 et 5 de la loi fédérale du 4 octobre 1991 sur le droit foncier rural (LDFR);\nc. des entreprises accessoires non agricoles mais formant une unité économique avec une entreprise agricole.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 1, Principe",
+        "citation": "Art. 1 al. 2 LBFA",
+        "content": "Elle s’applique également aux actes juridiques qui visent le même but que le bail à ferme agricole et qui rendraient vaine la protection voulue par la loi s’ils n’étaient soumis à celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 1, Principe",
+        "citation": "Art. 1 al. 3 LBFA",
+        "content": "Les dispositions relatives au bail des immeubles agricoles s’appliquent également au bail des allmends, alpages et pâturages, ainsi que des droits de jouissance et de participation à ceux-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 1, Principe",
+        "citation": "Art. 1 al. 4 LBFA",
+        "content": "Lorsque la présente loi n’est pas applicable ou qu’elle ne contient aucune disposition pertinente, le code des obligations est applicable, à l’exception des dispositions relatives aux baux à ferme portant sur des habitations ou des locaux commerciaux et de celles relatives à la consignation du loyer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_1"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Immeubles de peu d’étendue",
+        "citation": "Art. 2 al. 1 LBFA",
+        "content": "La présente loi ne s’applique pas au bail:\na. de vignes de moins de 15 ares;\nb. d’autres immeubles agricoles non bâtis de moins de 25 ares.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Immeubles de peu d’étendue",
+        "citation": "Art. 2 al. 2 LBFA",
+        "content": "Les cantons peuvent toutefois soumettre à la loi le bail de ces immeubles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Immeubles de peu d’étendue",
+        "citation": "Art. 2 al. 3 LBFA",
+        "content": "Si plusieurs immeubles sont affermés par le même bailleur au même fermier, leurs surfaces s’additionnent. Il en est de même lorsqu’un propriétaire divise un immeuble entre plusieurs fermiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_2"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Immeubles situés dans une zone à bâtir",
+        "citation": "Art. 2a al. 1 LBFA",
+        "content": "La présente loi ne s’applique pas au bail à ferme des immeubles affectés à l’agriculture lorsque la chose affermée est située entièrement dans une zone à bâtir au sens de l’art. 15 de la loi du 22 juin 1979 sur l’aménagement du territoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_2_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Immeubles situés dans une zone à bâtir",
+        "citation": "Art. 2a al. 2 LBFA",
+        "content": "Les contrats de bail à ferme agricole dont la chose affermée est entièrement incorporée en cours de bail à une zone à bâtir au sens de l’art. 15 de la loi du 22 juin 1979 sur l’aménagement du territoire restent soumis à la présente loi pendant la durée de bail légale ou, si elle est plus longue, la durée contractuelle ou prolongée judiciairement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_2_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 1, Champ d’application, Section 2, Exceptions, Alpages et pâturages",
+        "citation": "Art. 3 LBFA",
+        "content": "Les cantons peuvent déroger aux règles de la présente loi pour l’affermage des alpages, des pâturages, ainsi que des droits de jouissance et de participation à ceux-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_3"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 1, Définition",
+        "citation": "Art. 4 al. 1 LBFA",
+        "content": "Le bail à ferme agricole est un contrat par lequel le bailleur s’oblige à remettre au fermier, moyennant un fermage, l’usage d’une entreprise ou d’un immeuble à des fins agricoles et à lui en laisser percevoir les fruits ou les produits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_4"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 2, Droit de préaffermage, Droit de préaffermage des descendants du bailleur",
+        "citation": "Art. 5 al. 1 LBFA",
+        "content": "Les cantons peuvent instituer un droit de préaffermage sur les entreprises agricoles pour les descendants du bailleur qui entendent les exploiter eux-mêmes et en sont capables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 2, Droit de préaffermage, Droit de préaffermage des descendants du bailleur",
+        "citation": "Art. 5 al. 2 LBFA",
+        "content": "Le descendant ne pourra toutefois opposer le droit de préaffermage à un tiers que si ce droit est mentionné au registre foncier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 2, Droit de préaffermage, Droit de préaffermage des descendants du bailleur",
+        "citation": "Art. 5 al. 3 LBFA",
+        "content": "Pour le surplus, les cantons règlent les détails et la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_5"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 2, Droit de préaffermage, Droit de préaffermage en cas d’affermage d’alpages",
+        "citation": "Art. 6 LBFA",
+        "content": "Les cantons peuvent instituer un droit de préaffermage sur les pâturages de montagne voisins en faveur des paysans de ces régions. Ils règlent les détails et la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_6"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Durée initiale",
+        "citation": "Art. 7 al. 1 LBFA",
+        "content": "La durée initiale d’un bail à ferme est de neuf ans au moins pour les entreprises agricoles et de six ans au moins pour les immeubles agricoles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Durée initiale",
+        "citation": "Art. 7 al. 2 LBFA",
+        "content": "L’accord prévoyant une durée plus courte n’est valable que s’il est approuvé par l’autorité cantonale. L’approbation doit être demandée dans les trois mois à compter de l’entrée en jouissance de la chose affermée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Durée initiale",
+        "citation": "Art. 7 al. 3 LBFA",
+        "content": "L’accord est approuvé si la situation personnelle ou économique d’une partie ou d’autres motifs objectifs le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Durée initiale",
+        "citation": "Art. 7 al. 4 LBFA",
+        "content": "Si l’approbation est refusée ou si la demande est présentée trop tard, le bail est réputé conclu pour la durée légale minimum.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_7"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Reconduction du bail",
+        "citation": "Art. 8 al. 1 LBFA",
+        "content": "Le bail est réputé reconduit sans changement pour les six années suivantes:\na. s’il a été conclu pour une durée indéterminée et s’il n’a pas été résilié valablement;\nb. s’il a été conclu pour une durée déterminée et s’il a été reconduit tacitement à l’échéance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Reconduction du bail",
+        "citation": "Art. 8 al. 2 LBFA",
+        "content": "L’accord prévoyant la reconduction pour une durée plus courte n’est valable que s’il est approuvé par l’autorité cantonale. L’approbation doit être demandée dans les trois mois à compter du début de la reconduction du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Reconduction du bail",
+        "citation": "Art. 8 al. 3 LBFA",
+        "content": "Les dispositions sur la réduction de la durée initiale du bail sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_8"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 3, Durée du bail, Cultures spéciales",
+        "citation": "Art. 9 LBFA",
+        "content": "Les cantons peuvent fixer une autre durée pour les baux à ferme portant sur des cultures spéciales, telles que les vignes et les cultures fruitières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_9"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 4, Adaptation du bail aux nouvelles circonstances, Adaptation du fermage en général",
+        "citation": "Art. 10 LBFA",
+        "content": "Chaque partie peut demander l’adaptation du fermage au plus tôt pour le début de l’année de bail suivante, lorsque le Conseil fédéral modifie les bases retenues pour le calcul du fermage licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_10"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 4, Adaptation du bail aux nouvelles circonstances, Adaptation du fermage en cas de modification de la valeur de rendement",
+        "citation": "Art. 11 LBFA",
+        "content": "Chaque partie peut demander la révision de la valeur de rendement et l’adaptation du fermage pour le début de l’année de bail suivante, lorsque la valeur de l’entreprise ou de l’immeuble est modifiée durablement par suite d’événement naturel, d’amélioration foncière, d’augmentation ou de diminution de la surface, de construction nouvelle, de transformation, de démolition, de fermeture d’un bâtiment ou pour toutes autres causes. La révision de la valeur de rendement et l’adaptation du fermage peuvent également être demandées lors de la modification des éléments de base retenus pour l’estimation de la valeur de rendement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_11"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 4, Adaptation du bail aux nouvelles circonstances, Adaptation d’autres clauses du contrat",
+        "citation": "Art. 12 LBFA",
+        "content": "Chaque partie peut demander que d’autres clauses du contrat soient adaptées aux nouvelles circonstances, lorsque le maintien du contrat ne saurait raisonnablement lui être imposé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_12"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 4, Adaptation du bail aux nouvelles circonstances, Remise du fermage",
+        "citation": "Art. 13 LBFA",
+        "content": "Si, temporairement, le rendement habituel est notablement diminué par suite d’accident ou d’événement naturel extraordinaire, le fermier peut exiger une remise appropriée du fermage pour une période déterminée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_13"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, La vente ne rompt pas le bail",
+        "citation": "Art. 14 LBFA",
+        "content": "Si le bailleur aliène la chose affermée ou si elle lui est enlevée en raison de poursuites ou de faillite, l’acquéreur succède au bailleur dans le contrat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_14"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, Exceptions",
+        "citation": "Art. 15 al. 1 LBFA",
+        "content": "Lorsque la chose affermée est aliénée en vue d’une construction immédiate ou à des fins publiques ou pour être exploitée par le nouveau propriétaire, le bail à ferme peut être résilié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, Exceptions",
+        "citation": "Art. 15 al. 2 LBFA",
+        "content": "Lorsque l’acquéreur entend résilier le bail, il doit, dans les trois mois à compter de la conclusion de l’acte d’aliénation, signifier par écrit au fermier la résiliation du bail pour le prochain terme de printemps ou d’automne admis par l’usage local, en observant un délai d’une année au moins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, Exceptions",
+        "citation": "Art. 15 al. 3 LBFA",
+        "content": "Si le bail est résilié, le fermier peut, dans les trente jours à compter de la réception de la résiliation, ouvrir action en prolongation du bail. Le juge prolonge le bail de six mois au moins et de deux ans au plus, lorsque la résiliation a des conséquences pénibles pour le fermier ou sa famille sans que cela soit justifié par les intérêts du nouveau propriétaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, Exceptions",
+        "citation": "Art. 15 al. 4 LBFA",
+        "content": "Le bailleur répond du dommage causé au fermier par la résiliation anticipée du bail. Le fermier ne devra quitter la chose affermée qu’au moment où il aura été dédommagé ou que des garanties suffisantes lui auront été fournies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 5, Aliénation de la chose affermée, Exceptions",
+        "citation": "Art. 15 al. 5 LBFA",
+        "content": "La résiliation anticipée du bail à ferme peut être réglée dans l’acte d’aliénation, avec l’accord écrit du fermier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_15"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation",
+        "citation": "Art. 16 al. 1 LBFA",
+        "content": "La résiliation d’un bail à ferme ne vaut qu’en la forme écrite. L’intéressé peut demander que le congé soit motivé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation",
+        "citation": "Art. 16 al. 2 LBFA",
+        "content": "Le délai de congé est d’une année pour autant que la loi n’en dispose pas autrement; les parties peuvent convenir d’un délai plus long.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation",
+        "citation": "Art. 16 al. 3 LBFA",
+        "content": "À défaut de convention contraire, le congé ne peut être donné que pour le terme de printemps ou d’automne admis par l’usage local.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation",
+        "citation": "Art. 16 al. 4 LBFA",
+        "content": "Si l’objet affermé est situé en partie dans une zone à bâtir au sens de l’art. 15 de la loi du 22 juin 1979 sur l’aménagement du territoire, le congé peut être donné pour les immeubles qui ne sont pas compris dans le champ d’application de la LDFR ainsi que pour la partie non agricole des immeubles au sens de l’art. 2, al. 2, LDFR et le contrat peut être poursuivi sans ces immeubles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_16"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation anticipée",
+        "citation": "Art. 17 al. 1 LBFA",
+        "content": "Si, du fait de circonstances graves, l’exécution du bail devient intolérable à l’une des parties, celle-ci peut résilier le bail par écrit, dans un délai de six mois, pour le terme de printemps ou d’automne suivant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_17"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Résiliation anticipée",
+        "citation": "Art. 17 al. 2 LBFA",
+        "content": "Le juge statue sur les conséquences patrimoniales de la résiliation en tenant compte de tous les éléments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_17"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Décès du fermier",
+        "citation": "Art. 18 al. 1 LBFA",
+        "content": "En cas de décès du fermier, ses héritiers et le bailleur ont le droit de donner congé par écrit, dans un délai de six mois, pour le terme de printemps ou d’automne suivant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Décès du fermier",
+        "citation": "Art. 18 al. 2 LBFA",
+        "content": "Si la résiliation est le fait du bailleur, un descendant du fermier ou le conjoint ou le partenaire enregistré de celui-ci peut, dans les 30 jours, déclarer vouloir reprendre le bail. En cas de concours de prétendants, le bailleur peut désigner celui qui reprendra le bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Décès du fermier",
+        "citation": "Art. 18 al. 3 LBFA",
+        "content": "Si le prétendant n’offre pas de garanties suffisantes quant à une exploitation normale de la chose affermée ou si d’autres motifs rendent la continuation du bail intolérable au bailleur, celui-ci peut, dans les 30 jours à compter de la réception de la déclaration, ouvrir action en résiliation du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_18"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Reprise de baux en cas de remise d’exploitation",
+        "citation": "Art. 19 al. 1 LBFA",
+        "content": "Lorsque l’exploitant d’une entreprise agricole, constituée en partie de terres en propriété et en partie de terres affermées, en remet l’exploitation à une autre personne, celle-ci peut déclarer par écrit au bailleur qu’elle entend reprendre le bail d’une parcelle déterminée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_19"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Reprise de baux en cas de remise d’exploitation",
+        "citation": "Art. 19 al. 2 LBFA",
+        "content": "Si le bailleur ne refuse pas, dans les trois mois à compter de la réception de la déclaration, la transmission du bail au reprenant ou qu’il ne demande pas, dans le même délai, la conclusion d’un nouveau contrat avec le reprenant, celui-ci reprend le bail en cours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_19"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Réunion parcellaire",
+        "citation": "Art. 20 al. 1 LBFA",
+        "content": "Si des immeubles affermés sont compris dans une réunion parcellaire, un remaniement parcellaire de terres agricoles ou un regroupement de terres affermées et que le mode d’exploitation subisse de ce fait une modification notable, chacune des parties a le droit de résilier le bail par écrit avant l’entrée en vigueur des nouvelles conditions d’exploitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_20"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Réunion parcellaire",
+        "citation": "Art. 20 al. 2 LBFA",
+        "content": "Dans ce cas, la résiliation anticipée du bail ne donne pas droit à une indemnité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_20"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Demeure du fermier",
+        "citation": "Art. 21 al. 1 LBFA",
+        "content": "Si, durant le bail, le fermier est en demeure pour le paiement du fermage, le bailleur peut lui signifier par écrit qu’à défaut de paiement dans les six mois, le bail sera résilié à ce terme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_21"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 6, Extinction du bail, Demeure du fermier",
+        "citation": "Art. 21 al. 2 LBFA",
+        "content": "Si le bail est résilié, le fermier est tenu de réparer le dommage à moins qu’il ne puisse établir l’absence de toute faute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_21"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Obligation d’exploiter",
+        "citation": "Art. 21a al. 1 LBFA",
+        "content": "Le fermier doit exploiter la chose affermée avec soin et notamment maintenir durablement la productivité du sol.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_21_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Obligation d’exploiter",
+        "citation": "Art. 21a al. 2 LBFA",
+        "content": "L’obligation d’exploiter incombe au fermier en personne. Celui-ci peut toutefois, sous sa responsabilité, confier l’exploitation de la chose affermée à des membres de sa famille, à des employés ou à des membres d’une communauté formée en vue de l’exploitation et dont il fait partie, ainsi qu’à des tiers lorsqu’il s’agit de travaux ponctuels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_21_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Entretien, réparations",
+        "citation": "Art. 22 al. 1 LBFA",
+        "content": "Le bailleur est tenu d’exécuter à ses frais les grosses réparations nécessaires pendant la durée du bail, dès que le fermier lui en a signalé la nécessité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Entretien, réparations",
+        "citation": "Art. 22 al. 2 LBFA",
+        "content": "Le fermier a le droit d’exécuter lui-même les grosses réparations nécessaires, lorsque le bailleur, dûment avisé, ne les a pas entreprises dans un délai convenable et qu’il n’a pas contesté son obligation à cet égard. Le fermier peut en demander l’indemnisation au plus tard à la fin du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Entretien, réparations",
+        "citation": "Art. 22 al. 3 LBFA",
+        "content": "Le fermier est tenu de pourvoir à ses frais au bon entretien de la chose affermée. Il est tenu de procéder, conformément à l’usage local, aux menues réparations et, en particulier, à l’entretien ordinaire des chemins, passerelles, fossés, digues, haies et clôtures, toitures, aqueducs, etc.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Entretien, réparations",
+        "citation": "Art. 22 al. 4 LBFA",
+        "content": "Les parties peuvent convenir que le fermier est tenu d’exécuter des travaux d’entretien plus importants, ainsi que les grosses réparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Rénovation et modification par le fermier",
+        "citation": "Art. 22a al. 1 LBFA",
+        "content": "Le fermier ne peut entreprendre des travaux de rénovation ou de modification de la chose affermée allant au-delà de l’entretien ordinaire, ni apporter au mode d’exploitation de la chose un changement essentiel dont les effets s’étendraient au‐delà de la durée du bail sans le consentement écrit du bailleur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Rénovation et modification par le fermier",
+        "citation": "Art. 22a al. 2 LBFA",
+        "content": "Lorsque le bailleur a donné son consentement, il ne peut exiger la remise en l’état de la chose que s’il en a été convenu ainsi par écrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Manquement du fermier à ses obligations",
+        "citation": "Art. 22b LBFA",
+        "content": "Le bailleur peut résilier le bail par écrit, avec un délai de six mois, pour le terme de printemps ou d’automne suivant si, malgré la protestation ou la sommation écrites du bailleur, le fermier:\na. continue à ne pas respecter l’obligation d’exploitation visée à l’art. 21a;\nb. continue à ne pas respecter l’obligation d’entretien visée à l’art. 22, al. 3;\nc. ne remet pas la chose affermée en l’état antérieur dans un délai raisonnable, s’il a procédé à une rénovation ou à une modification selon l’art. 22a sans le consentement écrit du bailleur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_22_b"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Restitution. Améliorations et dégradations",
+        "citation": "Art. 23 al. 1 LBFA",
+        "content": "La chose affermée doit être rendue dans l’état où elle se trouve à la fin du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Restitution. Améliorations et dégradations",
+        "citation": "Art. 23 al. 2 LBFA",
+        "content": "Sauf convention contraire, le fermier peut demander, à la fin du bail, une indemnité équitable pour les améliorations qu’il a apportées à la chose affermée avec l’accord du bailleur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Restitution. Améliorations et dégradations",
+        "citation": "Art. 23 al. 3 LBFA",
+        "content": "Il n’a droit à aucune indemnité pour les améliorations qui sont uniquement le résultat des soins qu’il devait à la chose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Restitution. Améliorations et dégradations",
+        "citation": "Art. 23 al. 4 LBFA",
+        "content": "Il doit indemniser le bailleur des dégradations qu’il aurait pu prévenir par une administration diligente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_23"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Fruits",
+        "citation": "Art. 24 al. 1 LBFA",
+        "content": "Le fermier n’a pas droit aux fruits encore pendants à la fin du bail, à moins que le contrat de bail ou l’usage local ne prévoie un régime différent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_24"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Fruits",
+        "citation": "Art. 24 al. 2 LBFA",
+        "content": "En revanche, il peut demander une indemnité équitable pour ses frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_24"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Provisions",
+        "citation": "Art. 25 al. 1 LBFA",
+        "content": "Le fermier sortant doit laisser sur place, le fourrage, la litière et les engrais de la dernière année, dans la mesure exigée par une exploitation normale, à moins que le contrat de bail ou l’usage local ne prévoie un régime différent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_25"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7, Obligations du fermier et du bailleur, Provisions",
+        "citation": "Art. 25 al. 2 LBFA",
+        "content": "S’il en a reçu moins lors de son entrée en jouissance, il a droit à une indemnité pour l’excédent; s’il en a reçu davantage, il doit remplacer ce qui manque ou compenser la moins-value.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_25"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 7bis, Droit de rétention du bailleur",
+        "citation": "Art. 25b LBFA",
+        "content": "Le bailleur a, pour la garantie du fermage de l’année écoulée et de l’année courante, le même droit de rétention qu’en matière de bail à loyer portant sur des locaux commerciaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_25_b"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Action",
+        "citation": "Art. 26 al. 1 LBFA",
+        "content": "Lorsqu’une partie au bail donne congé à l’autre, celle-ci peut intenter action en prolongation du bail dans les trois mois qui suivent la réception du congé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_26"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Action",
+        "citation": "Art. 26 al. 2 LBFA",
+        "content": "Si le contrat conclu pour une durée déterminée arrive à échéance et si aucun nouveau contrat n’est conclu, chacune des parties peut intenter action en prolongation du bail au plus tard neuf mois avant l’échéance de celui-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_26"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Jugement",
+        "citation": "Art. 27 al. 1 LBFA",
+        "content": "Lorsque la continuation du bail peut raisonnablement être imposée au défendeur, le juge prolonge le bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Jugement",
+        "citation": "Art. 27 al. 2 LBFA",
+        "content": "Si la résiliation est le fait du bailleur, celui-ci doit établir que la prolongation du bail ne peut raisonnablement lui être imposée, ou que, pour d’autres motifs, elle n’est pas justifiée. La prolongation du bail est notamment intolérable ou injustifiée, lorsque:\na. le fermier a gravement négligé ses devoirs légaux ou conventionnels;\nb. le fermier est insolvable;\nc.  le bailleur lui-même, son conjoint, son partenaire enregistré ou un proche parent ou allié entend exploiter personnellement la chose affermée;\nd. le maintien de l’entreprise ne se justifie pas;\ne. l’objet affermé est situé en partie dans une zone à bâtir au sens de l’art. 15 de la loi du 22 juin 1979 sur l’aménagement du territoire pour les immeubles qui ne sont pas compris dans le champ d’application de la LDFR ainsi que pour la partie non agricole des immeubles au sens de l’art. 2, al. 2, LDFR.\n3 La décision de l’autorité fixant le fermage ne doit jamais faire obstacle à la continuation du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Jugement",
+        "citation": "Art. 27 al. 4 LBFA",
+        "content": "Le juge prolonge le bail de trois à six ans. Il apprécie les situations personnelles et tient compte notamment de la nature de la chose affermée et d’une éventuelle réduction de la durée du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_27"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 8, Prolongation judiciaire du bail à ferme, Adaptation des clauses du contrat",
+        "citation": "Art. 28 LBFA",
+        "content": "En prolongeant le bail, le juge peut, à la demande d’une des parties, adapter les clauses du contrat aux circonstances nouvelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_28"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 2, Le contrat de bail à ferme agricole, Section 9, Dispositions impératives",
+        "citation": "Art. 29 LBFA",
+        "content": "Sauf disposition contraire de la loi, le fermier ne peut pas renoncer par avance aux droits conférés à lui ou à ses héritiers par les dispositions du présent chapitre. Toute convention dérogatoire est nulle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_29"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Régime de l’autorisation",
+        "citation": "Art. 30 al. 1 LBFA",
+        "content": "Nul ne peut, sans autorisation, distraire d’une entreprise agricole des immeubles ou des parties d’immeubles en vue de leur affermage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_30"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Régime de l’autorisation",
+        "citation": "Art. 30 al. 2 LBFA",
+        "content": "L’autorisation n’est pas nécessaire lorsque la surface totale affermée n’atteint pas 10 pour cent de la surface initiale utile et que la chose affermée ne comprend aucun bâtiment.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_30"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Motifs d’autorisation",
+        "citation": "Art. 31 al. 1 LBFA",
+        "content": "Avant que le fermier n’entre en jouissance de la chose affermée, le bailleur doit demander l’autorisation à l’autorité cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Motifs d’autorisation",
+        "citation": "Art. 31 al. 2 LBFA",
+        "content": "L’autorisation n’est accordée que si l’une des conditions suivantes est remplie:\na. ...\nb. ...\nc. le maintien de l’entreprise agricole ne se justifie plus;\nd. l’entreprise agricole est située, en tout ou en majeure partie, dans une zone à bâtir au sens de l’art. 15 de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire;\ne. l’entreprise n’est affermée par parcelles que temporairement et sera, plus tard, reconstituée comme unité économique;\nf. le bailleur n’est plus en mesure d’exploiter lui-même tout le domaine pour des raisons telles que maladie grave ou âge avancé;\ng. au lieu d’immeubles ou partie d’immeubles affermés par parcelles, d’autres objets, mieux situés pour l’exploitation ou mieux adaptés à celle-ci, sont affermés à titre complémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Motifs d’autorisation",
+        "citation": "Art. 31 al. 2bis LBFA",
+        "content": "L’autorité permet en outre l’affermage par parcelles d’une entreprise agricole si les conditions suivantes sont remplies:\na. ...\nb. l’affermage par parcelles sert principalement à améliorer les structures d’autres entreprises agricoles;\nc. aucun parent titulaire d’un droit de préemption ou d’un droit à l’attribution n’entend reprendre l’entreprise pour l’exploiter à titre personnel et aucune autre personne qui pourrait demander l’attribution dans le partage successoral (art. 11, al. 2, de la LF du 4 oct. 1991 sur le droit foncier rural) ne veut reprendre l’entreprise en entier pour l’affermer;\nd. le conjoint ou le partenaire enregistré qui a exploité l’entreprise avec le propriétaire approuve l’affermage par parcelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_31"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Effets du refus de l’autorisation",
+        "citation": "Art. 32 al. 1 LBFA",
+        "content": "Si elle refuse l’autorisation, l’autorité cantonale résilie le bail à ferme pour le prochain terme raisonnable de printemps ou d’automne et ordonne l’évacuation de l’immeuble.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_32"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 3, Affermage par parcelles, Effets du refus de l’autorisation",
+        "citation": "Art. 32 al. 2 LBFA",
+        "content": "Les parties ne peuvent prétendre aucune réparation pour le dommage qu’elles subiraient du fait de la résiliation du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_32"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Réglementations contractuelles",
+        "citation": "Art. 35a al. 1 LBFA",
+        "content": "Le fermage peut consister soit en argent, soit en une quote-part des fruits (métayage), soit en une autre prestation en nature. Les droits du bailleur aux fruits dans le métayage sont réglés par l’usage local, s’il n’en est pas convenu autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_35_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Réglementations contractuelles",
+        "citation": "Art. 35a al. 2 LBFA",
+        "content": "Le fermier doit s’acquitter des frais accessoires, sauf s’il en a été convenu autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_35_a"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Restrictions de droit public",
+        "citation": "Art. 36 al. 1 LBFA",
+        "content": "Le fermage est soumis au contrôle de l’autorité; il ne peut dépasser la mesure licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Restrictions de droit public",
+        "citation": "Art. 36 al. 2 LBFA",
+        "content": "Le Conseil fédéral détermine le pourcentage de la valeur de rendement, l’indemnisation des charges du bailleur ainsi que le supplément pour les avantages généraux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Restrictions de droit public",
+        "citation": "Art. 36 al. 3 LBFA",
+        "content": "Les prestations en nature et autres prestations convenues sont imputées sur le fermage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 1, Principes, Restrictions de droit public",
+        "citation": "Art. 36 al. 4 LBFA",
+        "content": "Pour fixer le fermage, il est tenu compte des loyers que le fermier verse au bailleur pour une chose louée ou une chose affermée non agricole qui est liée à un bail à ferme à caractère agricole prédominant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_36"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Fermage d’une entreprise agricole",
+        "citation": "Art. 37 LBFA",
+        "content": "Le fermage d’une entreprise agricole comprend:\na. un pourcentage approprié de la valeur de rendement au sens de l’art. 10 de la LDFR;\nb. l’indemnisation de la moyenne des dépenses du bailleur pour les aménagements et les installations (charges du bailleur).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_37"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Fermage d’un immeuble agricole",
+        "citation": "Art. 38 al. 1 LBFA",
+        "content": "Le fermage d’un immeuble agricole comprend:\na. un pourcentage approprié de la valeur de rendement au sens de l’art. 6 de la loi fédérale du 12 décembre 1940 sur le désendettement de domaines agricoles;\nb. l’indemnisation de la moyenne des dépenses du bailleur pour les aménagements et les installations (charges du bailleur);\nc. un supplément pour les avantages généraux que procure au fermier l’affermage complémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Fermage d’un immeuble agricole",
+        "citation": "Art. 38 al. 2 LBFA",
+        "content": "L’autorité cantonale peut, dans le cas d’espèce, accorder des suppléments de 15 % au maximum en raison du rapport de l’immeuble avec l’exploitation elle-même, lorsque l’immeuble:\na. permet un meilleur regroupement des terres;\nb. est bien situé pour l’exploitation de l’entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Fermage d’un immeuble agricole",
+        "citation": "Art. 38 al. 3 LBFA",
+        "content": "Aucun supplément au sens des al. 1, let. c, et 2 n’est accordé pour les bâtiments agricoles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_38"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Loyers de choses louées et de choses affermées non agricoles",
+        "citation": "Art. 39 LBFA",
+        "content": "Les dispositions instituant des mesures contre les abus dans le secteur locatif s’appliquent au calcul des loyers de choses louées et de choses affermées non agricoles qui sont liées à un bail à ferme à caractère agricole prédominant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_39"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Pourcentage. Charges du bailleur",
+        "citation": "Art. 40 al. 1 LBFA",
+        "content": "Le Conseil fédéral fixe le pourcentage de la valeur de rendement en fonction du taux moyen des hypothèques de premier rang établi sur une moyenne de plusieurs années et l’adapte aux variations durables de ce taux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_40"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Pourcentage. Charges du bailleur",
+        "citation": "Art. 40 al. 3 LBFA",
+        "content": "Le Conseil fédéral fixe le montant des charges du bailleur pris en considération d’après les charges moyennes de la période de référence retenue pour l’estimation de la valeur de rendement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_40"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 2, Calcul, Supplément pour le bail de plus longue durée",
+        "citation": "Art. 41 LBFA",
+        "content": "Lorsque les parties conviennent de prolonger la durée du bail de trois ans au moins au-delà de la durée de prolongation légale, un supplément de fermage de 15 % est autorisé pour toute la durée de la prolongation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_41"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Approbation du fermage d’une entreprise",
+        "citation": "Art. 42 al. 1 LBFA",
+        "content": "Le fermage d’une entreprise doit être soumis à l’approbation de l’autorité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Approbation du fermage d’une entreprise",
+        "citation": "Art. 42 al. 2 LBFA",
+        "content": "Le bailleur doit demander l’approbation du fermage dans les trois mois à compter de l’entrée en jouissance de la chose affermée ou à compter de l’accord modifiant le fermage conclu avec le fermier. L’adaptation du fermage dans les limites de la modification des éléments de calcul fixés par le Conseil fédéral n’est pas soumise à approbation. À la requête d’une partie, l’autorité cantonale constate dans quelle mesure le fermage peut être adapté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Approbation du fermage d’une entreprise",
+        "citation": "Art. 42 al. 3 LBFA",
+        "content": "Si l’autorité cantonale apprend qu’un fermage n’a pas été approuvé, elle ouvre la procédure d’approbation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_42"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Opposition contre le fermage d’un immeuble",
+        "citation": "Art. 43 al. 1 LBFA",
+        "content": "L’autorité cantonale peut former opposition contre le fermage convenu pour un immeuble.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_43"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Opposition contre le fermage d’un immeuble",
+        "citation": "Art. 43 al. 2 LBFA",
+        "content": "L’opposition doit être formée dans les trois mois à compter du jour où l’autorité a eu connaissance de la conclusion du bail ou de l’adaptation du fermage, mais au plus tard deux ans après l’entrée en jouissance de la chose affermée ou après l’adaptation du fermage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_43"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Décision de l’autorité cantonale",
+        "citation": "Art. 44 al. 1 LBFA",
+        "content": "L’autorité cantonale décide si le fermage convenu pour l’entreprise ou pour l’immeuble est licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Décision de l’autorité cantonale",
+        "citation": "Art. 44 al. 2 LBFA",
+        "content": "Elle ramène le fermage trop élevé au montant licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Décision de l’autorité cantonale",
+        "citation": "Art. 44 al. 3 LBFA",
+        "content": "Elle notifie sa décision aux parties et la communique à l’autorité qui a qualité pour former opposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_44"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Effets de droit civil",
+        "citation": "Art. 45 al. 1 LBFA",
+        "content": "La convention relative au fermage est nulle dans la mesure où celui-ci dépasse le montant licite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Effets de droit civil",
+        "citation": "Art. 45 al. 2 LBFA",
+        "content": "Les fermages versés en vertu d’une convention nulle peuvent être répétés dans un délai d’une année à compter de la fixation définitive du fermage, mais au plus tard dans le délai de cinq ans à compter du versement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Effets de droit civil",
+        "citation": "Art. 45 al. 3 LBFA",
+        "content": "La nullité de la convention relative au fermage n’affecte pas la validité du bail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_45"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 4, Fermage, Section 3, Contrôle du fermage, Conventions nulles",
+        "citation": "Art. 46 LBFA",
+        "content": "Les parties ne peuvent pas renoncer par avance aux droits que leur confère la présente section.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_46"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Procédure",
+        "citation": "Art. 47 LBFA",
+        "content": "Les cantons règlent la procédure administrative dans la mesure où la présente loi n’en dispose pas autrement; le code de procédure civile du 19 décembre 2008 s’applique aux prétentions civiles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_47"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Décision en constatation rendue par l’autorité administrative",
+        "citation": "Art. 49 al. 1 LBFA",
+        "content": "À la demande d’une partie qui y a un intérêt légitime, l’autorité administrative compétente sur le fond constate par une décision si la réduction de la durée du bail, l’affermage par parcelles, l’affermage complémentaire ou le montant du fermage peuvent être approuvés ou autorisés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_49"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Décision en constatation rendue par l’autorité administrative",
+        "citation": "Art. 49 al. 2 LBFA",
+        "content": "La partie peut demander une décision en constatation avant que le bail soit conclu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_49"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Recours devant l’autorité cantonale",
+        "citation": "Art. 50 al. 1 LBFA",
+        "content": "Les décisions de l’autorité administrative de première instance peuvent être déférées dans les 30 jours à l’autorité cantonale de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_50"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Recours devant l’autorité cantonale",
+        "citation": "Art. 50 al. 2 LBFA",
+        "content": "L’autorité de recours notifie sa décision aux parties au contrat et à l’opposant; elle la communique en outre à l’autorité inférieure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_50"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 1, Procédure et moyens de droit, Obligation de fournir des renseignements",
+        "citation": "Art. 52 LBFA",
+        "content": "Les parties doivent fournir à l’autorité administrative compétente qui le demande les renseignements requis et lui permettre de prendre connaissance des documents et de procéder à des visions locales pour autant que cela soit nécessaire pour accorder une autorisation ou rendre une décision sur opposition, sur recours ou en constatation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_52"
+    },
+    {
+        "book": "LPG",
+        "title": "LBFA, Chapitre 5, Procédure et autorités, Section 2, Autorités cantonales",
+        "citation": "Art. 53 LBFA",
+        "content": "Les cantons désignent:\na. les autorités compétentes pour accorder les approbations et les autorisations;\nb. l’autorité qui a qualité pour former opposition;\nc. l’autorité de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1986/926_926_926/fr#art_53"
+    }
+]

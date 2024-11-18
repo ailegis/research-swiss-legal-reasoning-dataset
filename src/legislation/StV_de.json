@@ -1,0 +1,618 @@
+[
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Eidgenössische Steuerverwaltung",
+        "citation": "Art. 1 Abs. 1 StV",
+        "content": "Die Eidgenössische Steuerverwaltung (ESTV) erlässt die allgemeinen Weisungen und trifft die Einzelverfügungen, die für die Erhebung der Stempelabgaben erforderlich sind; sie bestimmt Form und Inhalt der Formulare für die Anmeldung als abgabepflichtige Person sowie für die Steuerabrechnungen, Steuererklärungen, Register und Fragebogen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_1"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Eidgenössische Steuerverwaltung",
+        "citation": "Art. 1 Abs. 2 StV",
+        "content": "Sie ist zur Beschwerde an das Bundesgericht berechtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_1"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchführung des Abgabepflichtigen",
+        "citation": "Art. 2 Abs. 1 StV",
+        "content": "Der Abgabepflichtige hat seine Bücher so einzurichten und zu führen, dass sich aus ihnen die für die Abgabepflicht und Abgabebemessung massgebenden Tatsachen ohne besonderen Aufwand zuverlässig ermitteln und nachweisen lassen. Die abgabepflichtigen Effektenhändler, die gemäss Obligationenrecht nicht buchführungspflichtig sind, haben bei der Führung ihrer Umsatzregister die Bestimmungen der Geschäftsbücherverordnung vom 24. April 2002 sinngemäss anzuwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_2"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchführung des Abgabepflichtigen",
+        "citation": "Art. 2 Abs. 2 StV",
+        "content": "Werden die Bücher elektronisch oder auf vergleichbare Weise geführt und aufbewahrt, müssen alle steuerlich wesentlichen Geschäftsvorfälle und Zahlen vom Urbeleg bis zur Jahresrechnung und Steuerabrechnung sichergestellt sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_2"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchführung des Abgabepflichtigen",
+        "citation": "Art. 2 Abs. 3 StV",
+        "content": "Die Bücher sind sorgfältig, geordnet und vor schädlichen Einwirkungen geschützt aufzubewahren. Sie müssen von der ESTV innert angemessener Frist eingesehen und geprüft werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_2"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchführung des Abgabepflichtigen",
+        "citation": "Art. 2 Abs. 4 StV",
+        "content": "Soweit für die Buchprüfung erforderlich, sind das entsprechende Personal sowie die Geräte oder Hilfsmittel für die ESTV unentgeltlich verfügbar zu halten. Dabei muss die Möglichkeit bestehen, die Geschäftsunterlagen oder Teile davon der ESTV auf deren Begehren auf Papier ausgedruckt zur Verfügung zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_2"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Auskünfte; Gutachten von Sachverständigen; Einvernahme",
+        "citation": "Art. 3 Abs. 1 StV",
+        "content": "Die ESTV kann Auskünfte schriftlich oder mündlich einholen, Sachverständige beiziehen und die abgabepflichtige Person zur Einvernahme laden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_3"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Auskünfte; Gutachten von Sachverständigen; Einvernahme",
+        "citation": "Art. 3 Abs. 2 StV",
+        "content": "Wo es angezeigt erscheint, sind die Auskünfte in Gegenwart der einvernommenen Person zu protokollieren; das Protokoll ist von dieser und der einvernehmenden Person sowie allenfalls von der beigezogenen protokollführenden Person zu unterzeichnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_3"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Auskünfte; Gutachten von Sachverständigen; Einvernahme",
+        "citation": "Art. 3 Abs. 3 StV",
+        "content": "Vor jeder Einvernahme ist die einzuvernehmende Person zur Wahrheit zu ermahnen und auf die Folgen unrichtiger Auskünfte (Art. 46 Abs. 1 Bst. c StG) hinzuweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_3"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchprüfung",
+        "citation": "Art. 4 Abs. 1 StV",
+        "content": "Der Abgabepflichtige ist berechtigt und auf Verlangen verpflichtet, der Buchprüfung (Art. 37 Abs. 2 StG) beizuwohnen und die erforderlichen Aufschlüsse zu erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_4"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Buchprüfung",
+        "citation": "Art. 4 Abs. 2 StV",
+        "content": "Die ESTV ist nicht verpflichtet, die Buchprüfung zum Voraus anzuzeigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_4"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Zwangsvollstreckung",
+        "citation": "Art. 5 Abs. 1 StV",
+        "content": "Die ESTV ist zuständig, für die Forderungen des Bundes an Stempelabgaben, Zinsen, Kosten und Bussen die Betreibung anzuheben, sie in einem Konkurs einzugeben, die Aufhebung des Rechtsvorschlages zu verlangen und alle weiteren zur Sicherung oder Eintreibung der Forderung notwendigen Vorkehren zu treffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_5"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Zwangsvollstreckung",
+        "citation": "Art. 5 Abs. 2 StV",
+        "content": "Vorbehalten bleibt die Zuständigkeit der Eidgenössischen Finanzverwaltung zur Verwahrung von Verlustscheinen und zur Geltendmachung der in einem Verlustschein verurkundeten Forderung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_5"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Sicherheitsleistung",
+        "citation": "Art. 6 Abs. 1 StV",
+        "content": "Die nach Artikel 43 StG verfügte Sicherstellung ist gemäss Artikel 49 der Finanzhaushaltverordnung vom 5. April 2006 zu leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_6"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Sicherheitsleistung",
+        "citation": "Art. 6 Abs. 2 StV",
+        "content": "Eine geleistete Sicherheit ist freizugeben, sobald die sichergestellten Abgaben, Zinsen und Kosten bezahlt sind oder der Grund der Sicherstellung dahingefallen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_6"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Löschung im Handelsregister",
+        "citation": "Art. 7 Abs. 1 StV",
+        "content": "Eine Aktiengesellschaft, Kommanditaktiengesellschaft, Gesellschaft mit beschränkter Haftung oder Genossenschaft darf im Handelsregister erst dann gelöscht werden, wenn die ESTV dem kantonalen Handelsregisteramt angezeigt hat, dass die geschuldeten Stempelabgaben bezahlt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_7"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Löschung im Handelsregister",
+        "citation": "Art. 7 Abs. 2 StV",
+        "content": "Auf die Löschung einer anderen Rechtseinheit im Sinne von Artikel 2 Buchstabe a der Handelsregisterverordnung vom 17. Oktober 2007 findet Absatz 1 Anwendung, wenn die ESTV dem kantonalen Handelsregisteramt mitgeteilt hat, dass die Rechtseinheit aufgrund des StG steuerpflichtig geworden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_7"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Rückvergütung nicht geschuldeter Abgaben",
+        "citation": "Art. 8 Abs. 1 StV",
+        "content": "Bezahlte Abgaben und Zinsen, die nicht durch Entscheid der ESTV festgesetzt worden sind, werden zurückvergütet, sobald feststeht, dass sie nicht geschuldet waren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_8"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Rückvergütung nicht geschuldeter Abgaben",
+        "citation": "Art. 8 Abs. 2 StV",
+        "content": "Ist eine nicht geschuldete Abgabe überwälzt worden, so wird die Rückvergütung nur gewährt, wenn feststeht, dass die von der Überwälzung betroffene Person in den Genuss der Rückvergütung gebracht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_8"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Rückvergütung nicht geschuldeter Abgaben",
+        "citation": "Art. 8 Abs. 3 StV",
+        "content": "Die Rückvergütung ist insoweit ausgeschlossen, als nach dem Sachverhalt, den die rückfordernde Person geltend macht, eine andere, wenn auch inzwischen verjährte Bundessteuer geschuldet war.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_8"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Rückvergütung nicht geschuldeter Abgaben",
+        "citation": "Art. 8 Abs. 4 StV",
+        "content": "Der Rückvergütungsanspruch verjährt fünf Jahre nach Ablauf des Kalenderjahres, in dem die Zahlung geleistet worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_8"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 1, Allgemeine Bestimmungen, Rückvergütung nicht geschuldeter Abgaben",
+        "citation": "Art. 8 Abs. 5 StV",
+        "content": "Die Vorschriften des StG und dieser Verordnung über die Abgabeerhebung finden sinngemässe Anwendung; kommt die gesuchstellende Person ihren Auskunftspflichten nicht nach und kann der Anspruch ohne die von der ESTV verlangten Auskünfte nicht abgeklärt werden, so wird das Gesuch abgewiesen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_8"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Begründung und Erhöhung des Nennwertes von Beteiligungsrechten",
+        "citation": "Art. 9 Abs. 1 StV",
+        "content": "Wird für eine inländische Aktiengesellschaft, Kommanditaktiengesellschaft oder Gesellschaft mit beschränkter Haftung beim kantonalen Handelsregisteramt die entgeltliche oder unentgeltliche Begründung oder Erhöhung des Nennwertes von Aktien, Partizipationsscheinen oder Stammanteilen angemeldet, so hat die Gesellschaft die Abgabe aufgrund der Abrechnung nach amtlichem Formular innert 30 Tagen nach Ablauf des Vierteljahres, in welchem die Beteiligungsrechte ausgegeben wurden, der ESTV unaufgefordert zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_9"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Begründung und Erhöhung des Nennwertes von Beteiligungsrechten",
+        "citation": "Art. 9 Abs. 2 StV",
+        "content": "Der Abrechnung sind die öffentliche Urkunde über die Gründung oder die Kapitalerhöhung, ein unterzeichnetes Exemplar der Statuten oder des Protokolls der Generalversammlung über die Statutenänderung, der Beschluss des Verwaltungsrates über die genehmigte Kapitalerhöhung, der Emissionsprospekt sowie bei Sacheinlagen der Sacheinlagevertrag, die Eingangsbilanz und eine Erklärung nach amtlichem Formular über den Verkehrswert der Sacheinlagen samt der Prüfungsbestätigung des Revisors beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_9"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Begründung und Erhöhung des Nennwertes von Beteiligungsrechten",
+        "citation": "Art. 9 Abs. 4 StV",
+        "content": "Jede inländische Aktiengesellschaft, Kommanditaktiengesellschaft oder Gesellschaft mit beschränkter Haftung hat unaufgefordert der ESTV innert 30 Tagen nach Genehmigung der Jahresrechnung den Geschäftsbericht oder eine unterzeichnete Abschrift der Jahresrechnung (Bilanz und Erfolgsrechnung) einzureichen, sofern die Bilanzsumme mehr als fünf Millionen Franken beträgt. In den übrigen Fällen sind die Unterlagen auf Verlangen der ESTV einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_9"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Zuschüsse; Handwechsel der Mehrheit von Beteiligungsrechten",
+        "citation": "Art. 10 Abs. 1 StV",
+        "content": "Jede inländische Aktiengesellschaft, Kommanditaktiengesellschaft oder Gesellschaft mit beschränkter Haftung muss die Abgabe aufgrund der Abrechnung innert 30 Tagen unaufgefordert der ESTV entrichten, wenn:\na. sie von ihren Gesellschaftern Zuschüsse im Sinne von Artikel 5 Absatz 2 Buchstabe a StG erhält;\nb. ihre Beteiligungsrechte unter den in Artikel 5 Absatz 2 Buchstabe b StG genannten Umständen zur Mehrheit die Hand gewechselt haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_10"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Zuschüsse; Handwechsel der Mehrheit von Beteiligungsrechten",
+        "citation": "Art. 10 Abs. 1bis StV",
+        "content": "Die 30-Tage-Frist beginnt mit dem Ablauf des Vierteljahres:\na. in dem der Zuschuss geleistet wurde: für die Fälle nach Absatz 1 Buchstabe a;\nb. in dem der Handwechsel erfolgte: für die Fälle nach Absatz 1 Buchstabe b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_10"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 21, Abgabe auf Aktien, Partizipationsscheinen und Stammanteilen von Gesellschaften mit beschränkter Haftung, Zuschüsse; Handwechsel der Mehrheit von Beteiligungsrechten",
+        "citation": "Art. 10 Abs. 2 StV",
+        "content": "Der Abrechnung sind ein unterzeichnetes Exemplar der Beschlüsse und eine Erklärung nach amtlichem Formular über den Verkehrswert der Sacheinlagen beizulegen; beim Handwechsel der Mehrheit der Beteiligungsrechte ist überdies die dem Handwechsel zugrunde liegende Bilanz beizufügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_10"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 22, Abgabe auf Genussscheinen von Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung",
+        "citation": "Art. 11 Abs. 1 StV",
+        "content": "Jede inländische Aktiengesellschaft, Kommanditaktiengesellschaft oder Gesellschaft mit beschränkter Haftung, die beschliesst, dass Genussscheine begründet werden können, hat unaufgefordert der ESTV innert 30 Tagen ein unterzeichnetes Exemplar der Beschlüsse einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_11"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 22, Abgabe auf Genussscheinen von Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung",
+        "citation": "Art. 11 Abs. 2 StV",
+        "content": "Die Abgabe auf den Genussscheinen ist der ESTV aufgrund der Abrechnung nach amtlichem Formular unaufgefordert zu entrichten, und zwar innert 30 Tagen nach Ablauf jedes Vierteljahres für die in diesem Zeitraum ausgegebenen Genussscheine.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_11"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 22, Abgabe auf Genussscheinen von Aktiengesellschaften, Kommanditaktiengesellschaften und Gesellschaften mit beschränkter Haftung",
+        "citation": "Art. 11 Abs. 3 StV",
+        "content": "Der Abrechnung sind die Beschlüsse über die Ausgabe von Genussscheinen sowie der Emissionsprospekt beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_11"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 23, Abgabe auf Genossenschaftsanteilen und Genussscheinen von Genossenschaften sowie auf Beteiligungsscheinen von Genossenschaftsbanken",
+        "citation": "Art. 12 Abs. 1 StV",
+        "content": "Jede inländische Genossenschaft, deren Statuten Geldleistungen der Genossenschafter oder die Schaffung eines Genossenschaftskapitals durch Genossenschaftsanteile oder von Genussscheinen vorsehen, hat sich unverzüglich nach ihrer Eintragung im Handelsregister oder nach Aufnahme solcher Bestimmungen in ihre Statuten unaufgefordert bei der ESTV anzumelden; der Anmeldung ist ein unterzeichnetes Exemplar der geltenden Statuten beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_12"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 23, Abgabe auf Genossenschaftsanteilen und Genussscheinen von Genossenschaften sowie auf Beteiligungsscheinen von Genossenschaftsbanken",
+        "citation": "Art. 12 Abs. 1bis StV",
+        "content": "Die Genossenschaft hat die Abgabe aufgrund der Abrechnung nach amtlichem Formular innert 30 Tagen nach Geschäftsabschluss unaufgefordert der ESTV zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_12"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 23, Abgabe auf Genossenschaftsanteilen und Genussscheinen von Genossenschaften sowie auf Beteiligungsscheinen von Genossenschaftsbanken",
+        "citation": "Art. 12 Abs. 2 StV",
+        "content": "Die Genossenschaft hat unaufgefordert der ESTV innert 30 Tagen nach Genehmigung der Jahresrechnung den Geschäftsbericht oder eine unterzeichnete Abschrift der Jahresrechnung (Bilanz und Erfolgsrechnung) einzureichen, sofern die Bilanzsumme mehr als fünf Millionen Franken beträgt. In den übrigen Fällen sind die Unterlagen auf Verlangen der ESTV einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_12"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 23, Abgabe auf Genossenschaftsanteilen und Genussscheinen von Genossenschaften sowie auf Beteiligungsscheinen von Genossenschaftsbanken",
+        "citation": "Art. 12 Abs. 2bis StV",
+        "content": "Die Genossenschaftsbanken, deren Statuten die Aufnahme von Beteiligungskapital vorsehen, haben der ESTV die Abgabe auf Beteiligungsscheinen aufgrund der Abrechnung nach amtlichem Formular unaufgefordert zu entrichten, und zwar innert 30 Tagen nach Ablauf des Vierteljahres, in dem die Begründung oder Erhöhung von Beteiligungskapital im Handelsregister eingetragen wurde. Im Übrigen sind die Absätze 1 und 2 anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_12"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 25, Abgabebefreiung; Guthaben im Konzern; Stundung und Erlass der Abgabeforderung, Abgabebefreiung",
+        "citation": "Art. 16 Abs. 1 StV",
+        "content": "Das Gesuch um Abgabebefreiung nach Artikel 6 Absatz 1 Buchstabe a, c, d, g, j oder l StG ist der ESTV einzureichen. Es hat eine Begründung mit Angabe der Beweismittel zu enthalten; die als Beweismittel angerufenen Urkunden sind beizulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_16"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 25, Abgabebefreiung; Guthaben im Konzern; Stundung und Erlass der Abgabeforderung, Abgabebefreiung",
+        "citation": "Art. 16 Abs. 2 StV",
+        "content": "Die ESTV kann vom Gesuchsteller über alle Tatsachen, die für die Befreiung von Bedeutung sein können, die erforderlichen Auskünfte und Belege verlangen; erfüllt der Gesuchsteller die Auflage nicht, so wird das Gesuch abgewiesen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_16"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 25, Abgabebefreiung; Guthaben im Konzern; Stundung und Erlass der Abgabeforderung, Stundung und Erlass der Abgabeforderung",
+        "citation": "Art. 17 Abs. 1 StV",
+        "content": "Das Gesuch um Stundung oder Erlass von Emissionsabgaben, die bei der offenen oder stillen Sanierung entstanden sind (Art. 12 StG), ist bei der ESTV einzureichen. Das Gesuch hat die Ursachen der Verluste und die zu ihrer Beseitigung getroffenen und vorgesehenen Massnahmen darzustellen; Unterlagen über die Sanierung, wie Rundschreiben, Rechenschaftsberichte, Generalversammlungsprotokolle sowie die Geschäftsberichte oder Jahresrechnungen der letzten Jahre und eine Aufstellung der Sanierungsbuchungen sind beizulegen. Mit besonderem amtlichem Formular sind die von den Gesellschaftern oder Genossenschaftern bei der Sanierung erlittenen Einbussen und ihre in Beteiligungsrechte umgewandelten Forderungen zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_17"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 25, Abgabebefreiung; Guthaben im Konzern; Stundung und Erlass der Abgabeforderung, Stundung und Erlass der Abgabeforderung",
+        "citation": "Art. 17 Abs. 2 StV",
+        "content": "Die ESTV kann vom Gesuchsteller über alle Tatsachen, die für die Stundung oder den Erlass von Bedeutung sein können, die erforderlichen Auskünfte und Belege verlangen; erfüllt der Gesuchsteller die Auflage nicht, so wird das Gesuch abgewiesen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_17"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 2, Emissionsabgabe, 25, Abgabebefreiung; Guthaben im Konzern; Stundung und Erlass der Abgabeforderung, Stundung und Erlass der Abgabeforderung",
+        "citation": "Art. 17 Abs. 3 StV",
+        "content": "Die Einspracheentscheide der ESTV über Stundung und Erlass von Abgaben unterliegen der Beschwerde nach den allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_17"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Beginn der Abgabepflicht",
+        "citation": "Art. 18 Abs. 1 StV",
+        "content": "Die Abgabepflicht des Effektenhändlers beginnt mit der Aufnahme der Geschäftstätigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_18"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Beginn der Abgabepflicht",
+        "citation": "Art. 18 Abs. 2 StV",
+        "content": "Gesellschaften, Genossenschaften, Einrichtungen der beruflichen und gebundenen Vorsorge sowie die öffentliche Hand nach Artikel 13 Absatz 3 Buchstaben d und f StG werden sechs Monate nach Ablauf des Geschäftsjahres, in dem die dort genannten Voraussetzungen eingetreten sind, abgabepflichtig. Nachweisbar treuhänderisch verwaltete Urkunden sind nicht Aktiven im Sinne jener Bestimmung, sofern sie in der ESTV einzureichenden Bilanz gesondert ausgewiesen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_18"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 19 Abs. 1 StV",
+        "content": "Der Effektenhändler hat sich vor Beginn der Abgabepflicht (Art. 18) unaufgefordert bei der ESTV anzumelden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_19"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 19 Abs. 2 StV",
+        "content": "In der Anmeldung sind anzugeben: der Name (die Firma) und der Sitz des Unternehmens sowie aller inländischen Zweigniederlassungen, auf welche die Voraussetzungen der Abgabepflicht zutreffen, oder, wenn es sich um eine juristische Person oder um eine Handelsgesellschaft ohne juristische Persönlichkeit mit statutarischem Sitz im Ausland handelt, die Firma und der Sitz der Hauptniederlassung und die Adresse der inländischen Zweigniederlassungen; das Rechnungsjahr; das Datum des Beginns der Abgabepflicht. Mit der Anmeldung sind die für die Überprüfung der Abgabepflicht erforderlichen Belege (Statuten, Bilanzen, Beschlüsse über Kapitalerhöhungen u. dgl.) einzureichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_19"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 19 Abs. 3 StV",
+        "content": "Nach Beginn der Abgabepflicht eintretende Änderungen an den gemäss Absatz 2 zu meldenden Tatsachen und einzureichenden Belegen, insbesondere die Errichtung neuer Zweigniederlassungen, sind unaufgefordert der ESTV zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_19"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Registrierung der Effektenhändler",
+        "citation": "Art. 20 StV",
+        "content": "Die ESTV registriert die Effektenhändler und gibt jedem die ihm zugeteilte Effektenhändler-Nummer bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_20"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 1 StV",
+        "content": "Der Effektenhändler hat für seinen Hauptsitz und für jede abgabepflichtige Zweigniederlassung je ein Umsatzregister zu führen. Wenn er seine Bücher so einrichtet, dass sich aus ihnen die für die Abgabebemessung massgebenden Tatsachen ohne besonderen Aufwand zuverlässig ermitteln und nachweisen lassen, kann ihn die ESTV von der Führung eines besonderen Umsatzregisters entbinden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 2 StV",
+        "content": "Das Register ist wie folgt der Reihe nach in Spalten zu gliedern:\n1. Datum des Geschäftsabschlusses;\n2. Art des Geschäftes;\n3. Anzahl oder Nennwert der Titel;\n4. Bezeichnung der Titel;\n5. Titelkurs, Währung sowie Umrechnungskurs bei Fremdwährungen;\n6. Name, Domizil, Ansässigkeitsstaat und Effektenhändler-Nummer des Verkäufers und des Käufers;\n7. Entgelt in Schweizer Währung\na. abgabebelastete Umsätze\naa. inländische Titel\nbb. ausländische Titel,\nb. nicht abgabebelastete Umsätze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 3 StV",
+        "content": "Jedes Geschäft ist innert drei Tagen nach seinem Abschluss oder nach Eingang der Abrechnung im Register einzutragen, sofern es nicht gemäss Artikel 14 Absatz 1 Buchstaben a, b oder d–g StG von der Abgabe ausgenommen ist. Der Zugriff auf die Daten der nicht einzutragenden Geschäfte ist für Kontrollzwecke der ESTV auf deren Begehren zu gewährleisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 4 StV",
+        "content": "In der Spalte «Art des Geschäftes» ist das Geschäft, sofern es sich nicht um einen einfachen Kauf oder Verkauf handelt, nach seiner Art zu bezeichnen (z. B. Umwandlung, Unterbeteiligung, Report, Tausch). In der Spalte «Name, Domizil, Ansässigkeitsstaat und Effektenhändler-Nummer des Käufers und des Verkäufers» ist der Ansässigkeitsstaat aufzuführen (mindestens die Angabe Schweiz/Liechtenstein oder Ausland); das Domizil ist nur anzugeben, wenn keine Abgabe geschuldet ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 5 StV",
+        "content": "Um unverhältnismässige Umtriebe zu vermeiden, kann die ESTV eine von Absatz 2 abweichende Art der Eintragung gestatten. Der Antrag des Abgabepflichtigen ist unter Vorlage von Mustern zu begründen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 6 StV",
+        "content": "Das Entgelt für die abgabebelasteten Umsätze ist Seite für Seite oder Tag für Tag und auf Ende jedes Quartals zusammenzuzählen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 7 StV",
+        "content": "Die Registerseiten sind fortlaufend zu nummerieren und geheftet oder in Büchern zusammengefasst während fünf Jahren nach Ablauf des Kalenderjahres, in dem die letzte Eintragung erfolgt ist, aufzubewahren. Die Aufbewahrung kann elektronisch erfolgen, sofern die in Artikel 2 erwähnten Voraussetzungen erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Führung des Umsatzregisters",
+        "citation": "Art. 21 Abs. 8 StV",
+        "content": "Effektenhändler nach Artikel 13 Absatz 3 Buchstaben b Ziffer 2 sowie d und f StG müssen die mit inländischen Banken im Sinne des Bankengesetzes wie auch die mit inländischen Händlern nach Artikel 13 Absatz 3 Buchstabe b Ziffer 1 StG getätigten Geschäfte nicht im Register eintragen, wenn sie sich beim Abschluss dieser Geschäfte nicht als Effektenhändler ausgewiesen haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_21"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Eintragung des Entgelts",
+        "citation": "Art. 22 Abs. 1 StV",
+        "content": "Als Entgelt (Art. 16 Abs. 1 StG) darf im Register eingetragen werden:\na. entweder der in der Abrechnung enthaltene Kurswert der gehandelten Urkunden, einschliesslich der Vergütung für laufende Zinsen oder für noch nicht abgetrennte Coupons;\nb. oder der Endbetrag der Abrechnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_22"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Eintragung des Entgelts",
+        "citation": "Art. 22 Abs. 2 StV",
+        "content": "Die Art des Eintrages darf nur auf Beginn eines Geschäftsjahres gewechselt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_22"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Eintragung des Entgelts",
+        "citation": "Art. 22 Abs. 3 StV",
+        "content": "Ein Entgelt in ausländischer Währung ist in Schweizerfranken umzurechnen (Art. 28 StG) und einzutragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_22"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Eintragung des Entgelts",
+        "citation": "Art. 22 Abs. 4 StV",
+        "content": "Sind inländische und ausländische Urkunden in der Weise miteinander verbunden, dass sie nur als Einheit gehandelt werden können, so ist das ganze Entgelt in der Spalte «inländische Titel» einzutragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_22"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abrechnung unter Effektenhändlern",
+        "citation": "Art. 23 Abs. 1 StV",
+        "content": "Die Banken im Sinne des Bankengesetzes vom 8. November 1934, die Schweizerische Nationalbank, die zentralen Gegenparteien im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 und die Pfandbriefzentralen gelten ohne besonderen Ausweis als registrierte Effektenhändler.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_23"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abrechnung unter Effektenhändlern",
+        "citation": "Art. 23 Abs. 2 StV",
+        "content": "Alle sonstigen Effektenhändler haben sich gegenüber ihren Vertragsparteien mit einer Erklärung nach amtlichem Formular (Karte) als registrierte Effektenhändler auszuweisen. Die abgegebenen Karten sind zu nummerieren, über sie ist ein besonderes Verzeichnis anzulegen (mit Name und Adresse des Empfängers, Datum der Ausstellung, fortlaufende Nummer) und diese zur Verfügung der ESTV zu halten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_23"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abrechnung unter Effektenhändlern",
+        "citation": "Art. 23 Abs. 3 StV",
+        "content": "Die Effektenhändler nach Artikel 13 Absatz 3 Buchstaben b Ziffer 2 sowie d und f StG können im geschäftlichen Verkehr mit inländischen Banken sowie mit inländischen Händlern nach Artikel 13 Absatz 3 Buchstabe b Ziffer 1 StG davon absehen, sich als Effektenhändler auszuweisen (Art. 21 Abs. 8).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_23"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abrechnung unter Effektenhändlern",
+        "citation": "Art. 23 Abs. 4 StV",
+        "content": "Der Abgabepflichtige hat die ihm abgegebenen Karten geordnet nach den Effektenhändler-Nummern zur Verfügung der ESTV zu halten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_23"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abgabeabrechnung",
+        "citation": "Art. 24 Abs. 1 StV",
+        "content": "Der Abgabepflichtige hat die Abgabe auf Grund der Abrechnung nach amtlichem Formular innert 30 Tagen nach Ablauf des Geschäftsvierteljahres für die in diesem Zeitraum abgeschlossenen oder erfüllten Geschäfte (Art. 15 Abs. 1 und 2 StG) unaufgefordert der ESTV zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_24"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Abgabeabrechnung",
+        "citation": "Art. 24 Abs. 2 StV",
+        "content": "Um unverhältnismässige Umtriebe zu vermeiden, kann die ESTV ein von Absatz 1 abweichendes Abrechnungsverfahren gestatten oder anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_24"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Entlassung aus der Abgabepflicht",
+        "citation": "Art. 25 Abs. 1 StV",
+        "content": "Wer seine Geschäftstätigkeit aufgeben will oder die gesetzlichen Eigenschaften als Effektenhändler nicht mehr als erfüllt erachtet, hat das unverzüglich der ESTV anzuzeigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Entlassung aus der Abgabepflicht",
+        "citation": "Art. 25 Abs. 2 StV",
+        "content": "Die ESTV entscheidet auf Grund der Anzeige oder von Amtes wegen, ob und auf welchen Zeitpunkt die Abgabepflicht aufhört und die Streichung als registrierter Effektenhändler in Kraft tritt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Entlassung aus der Abgabepflicht",
+        "citation": "Art. 25 Abs. 3 StV",
+        "content": "Macht eine Gesellschaft, Genossenschaft, Einrichtung der beruflichen und gebundenen Vorsorge sowie die öffentliche Hand glaubhaft, dass sie die in Artikel 13 Absatz 3 Buchstaben d und f StG umschriebenen Voraussetzungen bald wieder erfüllen werde, so kann sie auf ihr Ersuchen freiwillig als Effektenhändler registriert bleiben, jedoch längstens während zweier Jahre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Entlassung aus der Abgabepflicht",
+        "citation": "Art. 25 Abs. 4 StV",
+        "content": "Der Betroffene hat auf das Datum seiner Streichung als registrierter Effektenhändler hin alle von ihm abgegebenen Erklärungen mit amtlichem Formular zu widerrufen und diesen Widerruf der ESTV unter Beilage des in Artikel 23 Absatz 2 erwähnten Verzeichnisses zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Entlassung aus der Abgabepflicht",
+        "citation": "Art. 25 Abs. 5 StV",
+        "content": "Innert 30 Tagen nach der Streichung als registrierter Effektenhändler sind der ESTV die Schlussabrechnung einzureichen und die geschuldeten Abgaben zu überweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Handelsbestand der gewerbsmässigen Händler",
+        "citation": "Art. 25a Abs. 1 StV",
+        "content": "Die Banken und die bankähnlichen Finanzgesellschaften im Sinne des Bankengesetzes vom 8. November 1934, die Schweizerische Nationalbank und die zentralen Gegenparteien im Sinne des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 sind gewerbsmässige Händler im Sinne von Artikel 14 Absatz 3 StG.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Handelsbestand der gewerbsmässigen Händler",
+        "citation": "Art. 25a Abs. 2 StV",
+        "content": "Effektenhändler nach Artikel 13 Absatz 3 Buchstabe b Ziffer 1 StG können die Befreiung des Handelsbestandes erst beanspruchen, wenn sie der ESTV den Nachweis erbracht haben, dass sie den Handel mit steuerbaren Urkunden gewerbsmässig betreiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Handelsbestand der gewerbsmässigen Händler",
+        "citation": "Art. 25a Abs. 3 StV",
+        "content": "Handelsbestand im Sinne von Artikel 14 Absatz 3 StG ist die Gesamtheit der liberierten Titel, welche der gewerbsmässige Effektenhändler mit der Absicht der Weiterveräusserung für eigene Rechnung erworben hat. Die von der Schweizerischen Nationalbank zur Durchführung ihrer Geld- und Währungspolitik erworbenen Urkunden gelten als Handelsbestand der Nationalbank.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Handelsbestand der gewerbsmässigen Händler",
+        "citation": "Art. 25a Abs. 4 StV",
+        "content": "Nicht zum Handelsbestand gehören steuerbare Urkunden, die:\na. vom Effektenhändler zu den Anschaffungskosten in die Bilanz eingestellt werden;\nb. zu den dauernden Beteiligungen im Sinne der auf Artikel 42 der Bankenverordnung vom 30. April 2014 gestützten Ausführungsbestimmungen der FINMA gehören;\nc. nicht jederzeit und frei handelbar sind, insbesondere weil sie:\n1. als Garantie oder als Pfanddeckung dienen, insbesondere beim Lombard,\n2. vom Effektenhändler für fremde Rechnung gehalten werden,\n3. einen kommerziellen Kredit verkörpern;\nd. vom Effektenhändler bei einer Emission fest übernommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 3, Umsatzabgabe, Handelsbestand der gewerbsmässigen Händler",
+        "citation": "Art. 25a Abs. 5 StV",
+        "content": "Der gewerbsmässige Händler hat für sich eine halbe Umsatzabgabe zu entrichten für die Überführung von:\na. steuerfrei erworbenen Titeln aus dem Handelsbestand in einen anderen Bestand;\nb. Titeln aus einem anderen Bestand in den Handelsbestand.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_25_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 26 Abs. 1 StV",
+        "content": "Die der Aufsicht des Bundes unterstellten sowie die inländischen öffentlich-rechtlichen Versicherer haben sich, bevor sie Versicherungen übernehmen, unaufgefordert bei der ESTV anzumelden. Nicht verpflichtet zur Anmeldung sind Versicherer, die ausschliesslich Versicherungen übernehmen, deren Prämien von der Abgabe ausgenommen sind (Art. 22 StG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 26 Abs. 2 StV",
+        "content": "In der Anmeldung sind anzugeben: der Name (die Firma) und der Sitz des Unternehmens sowie aller inländischen Zweigniederlassungen, auf welche die Voraussetzungen der Abgabepflicht (Art. 21 f. StG) zutreffen, das Rechnungsjahr, das Datum der Aufnahme der Geschäftstätigkeit und die zu betreibenden Versicherungszweige.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 26 Abs. 3 StV",
+        "content": "Nach Beginn der Abgabepflicht eintretende Änderungen an den gemäss Absatz 2 zu meldenden Tatsachen sind unaufgefordert der ESTV zu melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Anmeldung als Abgabepflichtiger",
+        "citation": "Art. 26 Abs. 4 StV",
+        "content": "Der inländische Versicherungsnehmer, der mit einem nicht der Bundesaufsicht unterstellten ausländischen Versicherer Verträge abschliesst, deren Prämien der Abgabe unterliegen, hat sich nach Vertragsabschluss unaufgefordert bei der ESTV anzumelden. In der Anmeldung sind der Name und die Adresse des Versicherungsnehmers, der Versicherungszweig, der ausländische Versicherer und das Fälligkeitsdatum der Prämie anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Rückkaufsfähige Lebensversicherung",
+        "citation": "Art. 26a Abs. 1 StV",
+        "content": "Als rückkaufsfähige Lebensversicherungen im Sinne von Artikel 22 Buchstabe a StG gelten Lebensversicherungen, bei denen der Eintritt des versicherten Ereignisses gewiss ist. Darunter fallen insbesondere die gemischte Versicherung, die lebenslängliche Todesfallversicherung und die Rentenversicherung mit Prämienrückgewähr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Rückkaufsfähige Lebensversicherung",
+        "citation": "Art. 26a Abs. 2 StV",
+        "content": "Werden eine rückkaufsfähige und eine nicht rückkaufsfähige Versicherung in einem Vertrag miteinander kombiniert, so unterliegt nur die für die rückkaufsfähige Versicherung gesondert ausgewiesene Prämie der Abgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26_a"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Periodische Prämienzahlung",
+        "citation": "Art. 26b Abs. 1 StV",
+        "content": "Als rückkaufsfähige Lebensversicherungen mit periodischer Prämienzahlung im Sinne von Artikel 22 Buchstabe a StG gelten Versicherungen, die mit im wesentlichen gleich hohen, über die gesamte Vertragslaufzeit verteilten Jahresprämien finanziert werden. Darunter fallen auch:\na. Versicherungen mit regelmässig steigenden Prämien;\nb. Versicherungen mit indexierten Prämien;\nc. Versicherungen, bei denen die höchste der für die ersten fünf Jahre der Vertragslaufzeit vereinbarten Jahresprämien die tiefste um nicht mehr als 20 Prozent übersteigt;\nd. lebenslängliche Todesfallversicherungen mit abgekürzter Prämienzahlung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26_b"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Periodische Prämienzahlung",
+        "citation": "Art. 26b Abs. 2 StV",
+        "content": "Keine periodische Prämienzahlung im Sinne von Artikel 22 Buchstabe a StG liegt insbesondere vor, wenn:\na. die Vertragslaufzeit weniger als fünf Jahre beträgt; oder\nb. trotz vertraglich vereinbarter periodischer Prämienzahlung in den ersten fünf Jahren der Vertragslaufzeit nicht fünf Jahresprämien bezahlt werden, es sei denn, dass:\n1. die Prämienzahlungspflicht wegen Tod oder Invalidität der versicherten Person erlischt, oder\n2. der Abfindungswert (Rückkaufswert einschliesslich sämtlicher Überschussbeteiligungen) tiefer als die bezahlten Prämien ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_26_b"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Fahrzeugkaskoversicherung",
+        "citation": "Art. 27 Abs. 1 StV",
+        "content": "Als Fahrzeugkaskoversicherung im Sinne von Artikel 22 Buchstabe k StG gilt jede Versicherung gegen die Gefahr irgendeiner Beschädigung oder eines Diebstahls des Fahrzeuges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_27"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Fahrzeugkaskoversicherung",
+        "citation": "Art. 27 Abs. 2 StV",
+        "content": "Die Prämie der Kaskoversicherung für ein Luftfahrzeug gemäss Artikel 22 Buchstabe k StG ist von der Abgabe ausgenommen, wenn sein Abfluggewicht 5700 kg übersteigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_27"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Abgabeabrechnung",
+        "citation": "Art. 28 Abs. 1 StV",
+        "content": "Der Versicherer hat die Abgabe aufgrund der Abrechnung nach amtlichem Formular innert 30 Tagen nach Ablauf des Geschäftsvierteljahres für die in diesem Zeitraum vereinnahmten Prämien (Art. 23 StG), gesondert nach Versicherungszweigen, unaufgefordert der ESTV zu entrichten. Die Aufteilung auf Versicherungszweige erstreckt sich auch auf kombinierte Versicherungen, sofern die Prämienanteile verschiedenen Abgabesätzen unterliegen. Enthält die Prämienrechnung aufgrund gesetzlicher Bestimmungen eines Kantons oder des Bundes Forderungen, die nicht als Prämienzahlung für eine Versicherung qualifizieren, so sind diese eindeutig zu bezeichnen und gesondert aufzuführen; andernfalls ist die Abgabe auf dem Gesamtbetrag geschuldet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_28"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Abgabeabrechnung",
+        "citation": "Art. 28 Abs. 2 StV",
+        "content": "Wird eine Versicherung von mehreren Versicherern gemeinschaftlich übernommen (Mitversicherung), so hat jeder Versicherer die Abgabe nach Absatz 1 für den auf ihn entfallenden Prämienanteil zu entrichten. Sind an einem Mitversicherungsvertrag jedoch ausschliesslich der Aufsicht des Bundes unterstellte oder inländische öffentlich-rechtliche Versicherer beteiligt, so hat der federführende Versicherer die gesamte Abgabe zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_28"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Abgabeabrechnung",
+        "citation": "Art. 28 Abs. 3 StV",
+        "content": "Der abgabepflichtige inländische Versicherungsnehmer (Art. 25 Satz 2 StG) hat die Abgabe innert 30 Tagen nach Ablauf jedes Quartals für die in diesem Zeitraum bezahlten Prämien mit amtlichem Formular unaufgefordert der ESTV zu entrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_28"
+    },
+    {
+        "book": "StV",
+        "title": "StV, 4, Abgabe auf Versicherungsprämien, Abgabeabrechnung",
+        "citation": "Art. 28 Abs. 4 StV",
+        "content": "Um unverhältnismässige Umtriebe zu vermeiden, kann die ESTV ein von den Absätzen 1 und 3 abweichendes Abgabeabrechnungsverfahren gestatten oder anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1974/33_33_33/de#art_28"
+    }
+]

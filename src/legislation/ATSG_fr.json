@@ -1,0 +1,1507 @@
+[
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 1, Champ d’application, But et objet",
+        "citation": "Art. 1 LPGA",
+        "content": "La présente loi coordonne le droit fédéral des assurances sociales:\na. en définissant les principes, les notions et les institutions du droit des assurances sociales;\nb. en fixant les normes d’une procédure uniforme et en réglant l’organisation judiciaire dans le domaine des assurances sociales;\nc. en harmonisant les prestations des assurances sociales;\nd. en réglant le droit de recours des assurances sociales envers les tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_1"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 1, Champ d’application, Champ d’application et rapports avec les lois spéciales sur les assurances sociales",
+        "citation": "Art. 2 LPGA",
+        "content": "Les dispositions de la présente loi sont applicables aux assurances sociales régies par la législation fédérale, si et dans la mesure où les lois spéciales sur les assurances sociales le prévoient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_2"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Maladie",
+        "citation": "Art. 3 al. 1 LPGA",
+        "content": "Est réputée maladie toute atteinte à la santé physique, mentale ou psychique qui n’est pas due à un accident et qui exige un examen ou un traitement médical ou provoque une incapacité de travail.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_3"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Maladie",
+        "citation": "Art. 3 al. 2 LPGA",
+        "content": "Est réputée infirmité congénitale toute maladie présente à la naissance accomplie de l’enfant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_3"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Accident",
+        "citation": "Art. 4 LPGA",
+        "content": "Est réputée accident toute atteinte dommageable, soudaine et involontaire, portée au corps humain par une cause extérieure extraordinaire qui compromet la santé physique, mentale ou psychique ou qui entraîne la mort.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_4"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Maternité",
+        "citation": "Art. 5 LPGA",
+        "content": "La maternité comprend la grossesse et l’accouchement ainsi que la convalescence qui suit ce dernier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_5"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Incapacité de travail",
+        "citation": "Art. 6 LPGA",
+        "content": "Est réputée incapacité de travail toute perte, totale ou partielle, de l’aptitude de l’assuré à accomplir dans sa profession ou son domaine d’activité le travail qui peut raisonnablement être exigé de lui, si cette perte résulte d’une atteinte à sa santé physique, mentale ou psychique. En cas d’incapacité de travail de longue durée, l’activité qui peut être exigée de lui peut aussi relever d’une autre profession ou d’un autre domaine d’activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_6"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Incapacité de gain",
+        "citation": "Art. 7 al. 1 LPGA",
+        "content": "Est réputée incapacité de gain toute diminution de l’ensemble ou d’une partie des possibilités de gain de l’assuré sur le marché du travail équilibré qui entre en considération, si cette diminution résulte d’une atteinte à sa santé physique, mentale ou psychique et qu’elle persiste après les traitements et les mesures de réadaptation exigibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_7"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Incapacité de gain",
+        "citation": "Art. 7 al. 2 LPGA",
+        "content": "Seules les conséquences de l’atteinte à la santé sont prises en compte pour juger de la présence d’une incapacité de gain. De plus, il n’y a incapacité de gain que si celle-ci n’est pas objectivement surmontable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_7"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Invalidité",
+        "citation": "Art. 8 al. 1 LPGA",
+        "content": "Est réputée invalidité l’incapacité de gain totale ou partielle qui est présumée permanente ou de longue durée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_8"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Invalidité",
+        "citation": "Art. 8 al. 2 LPGA",
+        "content": "Les assurés mineurs sans activité lucrative sont réputés invalides s’ils présentent une atteinte à leur santé physique, mentale ou psychique qui provoquera probablement une incapacité de gain totale ou partielle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_8"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Invalidité",
+        "citation": "Art. 8 al. 3 LPGA",
+        "content": "Les assurés majeurs qui n’exerçaient pas d’activité lucrative avant d’être atteints dans leur santé physique, mentale ou psychique et dont il ne peut être exigé qu’ils en exercent une sont réputés invalides si l’atteinte les empêche d’accomplir leurs travaux habituels. L’art. 7, al. 2, est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_8"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Impotence",
+        "citation": "Art. 9 LPGA",
+        "content": "Est réputée impotente toute personne qui, en raison d’une atteinte à sa santé, a besoin de façon permanente de l’aide d’autrui ou d’une surveillance personnelle pour accomplir des actes élémentaires de la vie quotidienne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_9"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Salarié",
+        "citation": "Art. 10 LPGA",
+        "content": "Est réputé salarié celui qui fournit un travail dépendant et qui reçoit pour ce travail un salaire déterminant au sens des lois spéciales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_10"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Employeur",
+        "citation": "Art. 11 LPGA",
+        "content": "Est réputé employeur celui qui emploie des salariés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_11"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Personnes exerçant une activité lucrative indépendante",
+        "citation": "Art. 12 al. 1 LPGA",
+        "content": "Est considéré comme exerçant une activité lucrative indépendante celui dont le revenu ne provient pas de l’exercice d’une activité en tant que salarié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_12"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Personnes exerçant une activité lucrative indépendante",
+        "citation": "Art. 12 al. 2 LPGA",
+        "content": "Une personne exerçant une activité lucrative indépendante peut simultanément avoir la qualité de salarié si elle reçoit un salaire correspondant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_12"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Domicile et résidence habituelle",
+        "citation": "Art. 13 al. 1 LPGA",
+        "content": "Le domicile d’une personne est déterminé selon les art. 23 à 26 du code civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_13"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Domicile et résidence habituelle",
+        "citation": "Art. 13 al. 2 LPGA",
+        "content": "Une personne est réputée avoir sa résidence habituelle au lieu où elle séjourne un certain temps même si la durée de ce séjour est d’emblée limitée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_13"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Partenariat enregistré",
+        "citation": "Art. 13a al. 1 LPGA",
+        "content": "Pendant toute sa durée, le partenariat enregistré est assimilé au mariage dans le droit des assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_13_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Partenariat enregistré",
+        "citation": "Art. 13a al. 2 LPGA",
+        "content": "Le partenaire enregistré survivant est assimilé à un veuf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_13_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 2, Définitions de notions générales, Partenariat enregistré",
+        "citation": "Art. 13a al. 3 LPGA",
+        "content": "La dissolution judiciaire du partenariat enregistré est assimilée au divorce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_13_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 1, Prestations en nature",
+        "citation": "Art. 14 LPGA",
+        "content": "Constituent des prestations en nature notamment les traitements ou les soins, les moyens auxiliaires, les mesures individuelles de prévention et de réadaptation, les frais de transport et les prestations analogues qui sont fournis ou remboursés par les différentes assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_14"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Généralités",
+        "citation": "Art. 15 LPGA",
+        "content": "Les prestations en espèces comprennent, en particulier, les indemnités journalières, les rentes, les prestations complémentaires annuelles, les allocations pour impotents et leurs compléments; elles n’englobent pas le remplacement d’une prestation en nature à la charge d’une assurance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_15"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Taux d’invalidité",
+        "citation": "Art. 16 LPGA",
+        "content": "Pour évaluer le taux d’invalidité, le revenu que l’assuré aurait pu obtenir s’il n’était pas invalide est comparé avec celui qu’il pourrait obtenir en exerçant l’activité qui peut raisonnablement être exigée de lui après les traitements et les mesures de réadaptation, sur un marché du travail équilibré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_16"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Révision de la rente d’invalidité et d’autres prestations durables",
+        "citation": "Art. 17 al. 1 LPGA",
+        "content": "La rente d’invalidité est, d’office ou sur demande, révisée pour l’avenir, à savoir augmentée, réduite ou supprimée, lorsque le taux d’invalidité de l’assuré:\na. subit une modification d’au moins 5 points de pourcentage, ou\nb. atteint 100 %.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_17"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Révision de la rente d’invalidité et d’autres prestations durables",
+        "citation": "Art. 17 al. 2 LPGA",
+        "content": "De même, toute prestation durable accordée en vertu d’une décision entrée en force est, d’office ou sur demande, augmentée ou réduite en conséquence, ou encore supprimée si les circonstances dont dépendait son octroi changent notablement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_17"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Montant maximum du gain assuré",
+        "citation": "Art. 18 LPGA",
+        "content": "Pour les assurances sociales qui allouent des prestations en espèces fixées en pour-cent du gain, le Conseil fédéral fixe le montant maximum du gain assuré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_18"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Versement de prestations en espèces",
+        "citation": "Art. 19 al. 1 LPGA",
+        "content": "En règle générale, les prestations périodiques en espèces sont payées mensuellement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_19"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Versement de prestations en espèces",
+        "citation": "Art. 19 al. 2 LPGA",
+        "content": "Les indemnités journalières et les prestations analogues sont versées à l’employeur dans la mesure où il continue à verser un salaire à l’assuré malgré son droit à des indemnités journalières.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_19"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Versement de prestations en espèces",
+        "citation": "Art. 19 al. 3 LPGA",
+        "content": "Les rentes et allocations pour impotents sont toujours payées d’avance pour le mois civil entier. Une prestation qui en remplace une autre est versée seulement pour le mois suivant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_19"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Versement de prestations en espèces",
+        "citation": "Art. 19 al. 4 LPGA",
+        "content": "Si le droit à des prestations semble avéré et que leur versement est retardé, des avances peuvent être versées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_19"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Garantie de l’utilisation conforme au but",
+        "citation": "Art. 20 al. 1 LPGA",
+        "content": "L’assureur peut verser tout ou partie des prestations en espèces à un tiers qualifié ou à une autorité ayant une obligation légale ou morale d’entretien à l’égard du bénéficiaire, ou qui l’assiste en permanence lorsque:\na. le bénéficiaire n’utilise pas ces prestations pour son entretien ou celui des personnes dont il a la charge, ou s’il est établi qu’il n’est pas en mesure de les utiliser à cet effet, et que\nb. lui-même ou les personnes dont il a la charge dépendent de ce fait de l’assistance publique ou privée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_20"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 2, Prestations en espèces, Garantie de l’utilisation conforme au but",
+        "citation": "Art. 20 al. 2 LPGA",
+        "content": "Les prestations versées à un tiers ou à une autorité ne peuvent pas être compensées par ce tiers ou cette autorité avec des créances contre l’ayant droit. Fait exception la compensation en cas de versement rétroactif de prestations au sens de l’art. 22, al. 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_20"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 3, Réduction et refus de prestations",
+        "citation": "Art. 21 al. 1 LPGA",
+        "content": "Si l’assuré a aggravé le risque assuré ou en a provoqué la réalisation intentionnellement ou en commettant intentionnellement un crime ou un délit, les prestations en espèces peuvent être temporairement ou définitivement réduites ou, dans les cas particulièrement graves, refusées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_21"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 3, Réduction et refus de prestations",
+        "citation": "Art. 21 al. 2 LPGA",
+        "content": "Les prestations en espèces dues aux proches ou aux survivants de l’assuré ne sont réduites ou refusées que si ceux-ci ont provoqué la réalisation du risque intentionnellement ou en commettant intentionnellement un crime ou un délit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_21"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 3, Réduction et refus de prestations",
+        "citation": "Art. 21 al. 3 LPGA",
+        "content": "Dans la mesure où des assurances sociales ayant le caractère d’assurance de perte de gain ne prévoient aucune prestation en espèces pour les proches, les prestations en espèces ne peuvent être réduites en vertu de l’al. 1 que de moitié. Pour l’autre moitié, la réduction prévue à l’al. 2 est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_21"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 3, Réduction et refus de prestations",
+        "citation": "Art. 21 al. 4 LPGA",
+        "content": "Les prestations peuvent être réduites ou refusées temporairement ou définitivement si l’assuré se soustrait ou s’oppose, ou encore ne participe pas spontanément, dans les limites de ce qui peut être exigé de lui, à un traitement ou à une mesure de réinsertion professionnelle raisonnablement exigible et susceptible d’améliorer notablement sa capacité de travail ou d’offrir une nouvelle possibilité de gain. Une mise en demeure écrite l’avertissant des conséquences juridiques et lui impartissant un délai de réflexion convenable doit lui avoir été adressée. Les traitements et les mesures de réadaptation qui présentent un danger pour la vie ou pour la santé ne peuvent être exigés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_21"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 3, Réduction et refus de prestations",
+        "citation": "Art. 21 al. 5 LPGA",
+        "content": "Si l’assuré exécute une peine ou une mesure, le paiement des prestations pour perte de gain peut être partiellement ou totalement suspendu durant la durée de la peine. S’il se soustrait à l’exécution d’une peine ou d’une mesure, le paiement des prestations pour perte de gain est suspendu à partir du moment où la peine ou la mesure aurait dû être exécutée. Les prestations destinées à l’entretien des proches visées à l’al. 3 sont exceptées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_21"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Garantie des prestations",
+        "citation": "Art. 22 al. 1 LPGA",
+        "content": "Le droit aux prestations est incessible; il ne peut être donné en gage. Toute cession ou mise en gage est nulle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_22"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Garantie des prestations",
+        "citation": "Art. 22 al. 2 LPGA",
+        "content": "Les prestations accordées rétroactivement par l’assureur social peuvent en revanche être cédées:\na. à l’employeur ou à une institution d’aide sociale publique ou privée dans la mesure où ceux-ci ont consenti des avances;\nb. à l’assureur qui a pris provisoirement à sa charge des prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_22"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Renonciation à des prestations",
+        "citation": "Art. 23 al. 1 LPGA",
+        "content": "L’ayant droit peut renoncer à des prestations qui lui sont dues. La renonciation peut être en tout temps révoquée pour l’avenir. La renonciation et la révocation font l’objet d’une déclaration écrite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_23"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Renonciation à des prestations",
+        "citation": "Art. 23 al. 2 LPGA",
+        "content": "La renonciation et la révocation sont nulles lorsqu’elles sont préjudiciables aux intérêts d’autres personnes, d’institutions d’assurance ou d’assistance ou lorsqu’elles tendent à éluder des dispositions légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_23"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Renonciation à des prestations",
+        "citation": "Art. 23 al. 3 LPGA",
+        "content": "L’assureur confirme par écrit à l’ayant droit la renonciation et la révocation. L’objet, l’étendue et les suites de la renonciation et de la révocation doivent être mentionnés dans la confirmation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_23"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Extinction du droit",
+        "citation": "Art. 24 al. 1 LPGA",
+        "content": "Le droit à des prestations ou à des cotisations arriérées s’éteint cinq ans après la fin du mois pour lequel la prestation était due et cinq ans après la fin de l’année civile pour laquelle la cotisation devait être payée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_24"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Extinction du droit",
+        "citation": "Art. 24 al. 2 LPGA",
+        "content": "Si le cotisant s’est soustrait à l’obligation de cotiser par un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, c’est celui-ci qui détermine le moment où s’éteint la créance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_24"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Restitution",
+        "citation": "Art. 25 al. 1 LPGA",
+        "content": "Les prestations indûment touchées doivent être restituées. La restitution ne peut être exigée lorsque l’intéressé était de bonne foi et qu’elle le mettrait dans une situation difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_25"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Restitution",
+        "citation": "Art. 25 al. 2 LPGA",
+        "content": "Le droit de demander la restitution s’éteint trois ans après le moment où l’institution d’assurance a eu connaissance du fait, mais au plus tard cinq ans après le versement de la prestation. Si la créance naît d’un acte punissable pour lequel le droit pénal prévoit un délai de prescription plus long, celui-ci est déterminant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_25"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Restitution",
+        "citation": "Art. 25 al. 3 LPGA",
+        "content": "Le remboursement de cotisations payées en trop peut être demandé. Le droit s’éteint une année après que le cotisant a eu connaissance de ses paiements trop élevés, mais au plus tard cinq ans après la fin de l’année civile au cours de laquelle les cotisations ont été payées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_25"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Intérêts moratoires et intérêts rémunératoires",
+        "citation": "Art. 26 al. 1 LPGA",
+        "content": "Les créances de cotisations échues sont soumises à la perception d’intérêts moratoires et les créances échues en restitution de cotisations indûment versées sont soumises au versement d’intérêts rémunératoires. Le Conseil fédéral peut prévoir des exceptions pour les créances modestes ou échues depuis peu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_26"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Intérêts moratoires et intérêts rémunératoires",
+        "citation": "Art. 26 al. 2 LPGA",
+        "content": "Des intérêts moratoires sont dus pour toute créance de prestations d’assurances sociales à l’échéance d’un délai de 24 mois à compter de la naissance du droit, mais au plus tôt douze mois à partir du moment où l’assuré fait valoir ce droit, pour autant qu’il se soit entièrement conformé à l’obligation de collaborer qui lui incombe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_26"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Intérêts moratoires et intérêts rémunératoires",
+        "citation": "Art. 26 al. 3 LPGA",
+        "content": "Aucun intérêt moratoire n’est dû lorsque des assureurs étrangers sont à l’origine des retards.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_26"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 3, Dispositions générales concernant les prestations et les cotisations, Section 4, Dispositions particulières, Intérêts moratoires et intérêts rémunératoires",
+        "citation": "Art. 26 al. 4 LPGA",
+        "content": "N’ont pas droit à des intérêts moratoires:\na. la personne ayant droit aux prestations ou ses héritiers, lorsque les prestations sont versées rétroactivement à des tiers;\nb. les tiers qui ont consenti des avances ou provisoirement pris en charge des prestations au sens de l’art. 22, al. 2, et auxquels les prestations accordées rétroactivement ont été cédées;\nc. les autres assurances sociales qui ont provisoirement pris en charge des prestations au sens de l’art. 70.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_26"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Renseignements et conseils",
+        "citation": "Art. 27 al. 1 LPGA",
+        "content": "Dans les limites de leur domaine de compétence, les assureurs et les organes d’exécution des diverses assurances sociales sont tenus de renseigner les personnes intéressées sur leurs droits et obligations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_27"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Renseignements et conseils",
+        "citation": "Art. 27 al. 2 LPGA",
+        "content": "Chacun a le droit d’être conseillé, en principe gratuitement, sur ses droits et obligations. Sont compétents pour cela les assureurs à l’égard desquels les intéressés doivent faire valoir leurs droits ou remplir leurs obligations. Le Conseil fédéral peut prévoir la perception d’émoluments et en fixer le tarif pour les consultations qui nécessitent des recherches coûteuses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_27"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Renseignements et conseils",
+        "citation": "Art. 27 al. 3 LPGA",
+        "content": "Si un assureur constate qu’un assuré ou ses proches ont droit à des prestations d’autres assurances sociales, il les en informe sans retard.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_27"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Collaboration lors de la mise en œuvre",
+        "citation": "Art. 28 al. 1 LPGA",
+        "content": "Les assurés et les employeurs doivent collaborer gratuitement à l’exécution des différentes lois sur les assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_28"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Collaboration lors de la mise en œuvre",
+        "citation": "Art. 28 al. 2 LPGA",
+        "content": "Quiconque fait valoir son droit à des prestations doit fournir gratuitement tous les renseignements nécessaires pour établir ce droit, fixer les prestations dues et faire valoir les prétentions récursoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_28"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Collaboration lors de la mise en œuvre",
+        "citation": "Art. 28 al. 3 LPGA",
+        "content": "Le requérant est tenu d’autoriser dans le cas d’espèce les personnes et institutions concernées, notamment les employeurs, les médecins, les assurances et les organes officiels, à fournir les renseignements nécessaires pour établir le droit aux prestations et faire valoir les prétentions récursoires. Ces personnes et institutions sont tenues de donner les renseignements requis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_28"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Exercice du droit aux prestations",
+        "citation": "Art. 29 al. 1 LPGA",
+        "content": "Celui qui fait valoir son droit à des prestations doit s’annoncer à l’assureur compétent, dans la forme prescrite pour l’assurance sociale concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_29"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Exercice du droit aux prestations",
+        "citation": "Art. 29 al. 2 LPGA",
+        "content": "Les assureurs sociaux remettent gratuitement les formules destinées à faire valoir et à établir le droit aux prestations; ces formules doivent être transmises à l’assureur compétent, remplies de façon complète et exacte par le requérant ou son employeur et, le cas échéant, par le médecin traitant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_29"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Exercice du droit aux prestations",
+        "citation": "Art. 29 al. 3 LPGA",
+        "content": "Si une demande ne respecte pas les exigences de forme ou si elle est remise à un organe incompétent, la date à laquelle elle a été remise à la poste ou déposée auprès de cet organe est déterminante quant à l’observation des délais et aux effets juridiques de la demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_29"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Transmission obligatoire",
+        "citation": "Art. 30 LPGA",
+        "content": "Tous les organes de mise en œuvre des assurances sociales ont l’obligation d’accepter les demandes, requêtes ou autres documents qui leur parviennent par erreur. Ils en enregistrent la date de réception et les transmettent à l’organe compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_30"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Avis obligatoire en cas de modification des circonstances",
+        "citation": "Art. 31 al. 1 LPGA",
+        "content": "L’ayant droit, ses proches ou les tiers auxquels une prestation est versée sont tenus de communiquer à l’assureur ou, selon le cas, à l’organe compétent toute modification importante des circonstances déterminantes pour l’octroi d’une prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_31"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Avis obligatoire en cas de modification des circonstances",
+        "citation": "Art. 31 al. 2 LPGA",
+        "content": "Toute personne ou institution participant à la mise en œuvre des assurances sociales a l’obligation d’informer l’assureur si elle apprend que les circonstances déterminantes pour l’octroi de prestations se sont modifiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_31"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Assistance administrative",
+        "citation": "Art. 32 al. 1 LPGA",
+        "content": "Les autorités administratives et judiciaires de la Confédération, des cantons, des districts, des circonscriptions et des communes fournissent gratuitement aux organes des assurances sociales, dans des cas particuliers et sur demande écrite et motivée, les données qui leur sont nécessaires pour:\na. fixer ou modifier des prestations, ou encore en réclamer la restitution;\nb. prévenir des versements indus;\nc. fixer et percevoir les cotisations;\nd. faire valoir une prétention récursoire contre le tiers responsable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_32"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Assistance administrative",
+        "citation": "Art. 32 al. 2 LPGA",
+        "content": "Les organes des assurances sociales se prêtent mutuellement assistance aux mêmes conditions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_32"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Assistance administrative",
+        "citation": "Art. 32 al. 2bis LPGA",
+        "content": "Si les organes d’une assurance sociale ou les autorités administratives et judiciaires de la Confédération, des cantons, des districts, des arrondissements ou des communes apprennent dans l’exercice de leurs fonctions qu’un assuré perçoit des prestations indues, ils peuvent en informer les organes des assurances sociales concernées ainsi que ceux des institutions de prévoyance touchées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_32"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Assistance administrative",
+        "citation": "Art. 32 al. 3 LPGA",
+        "content": "Les organismes visés à l’art. 75a se communiquent les données nécessaires pour accomplir les tâches qui leur sont assignées en vertu de l’annexe II de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes) et d’autres conventions internationales en matière de sécurité sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_32"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 1, Information, assistance administrative, obligation de garder le secret, Obligation de garder le secret",
+        "citation": "Art. 33 LPGA",
+        "content": "Les personnes qui participent à l’application des lois sur les assurances sociales ainsi qu’à son contrôle ou à sa surveillance sont tenues de garder le secret à l’égard des tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_33"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Parties",
+        "citation": "Art. 34 LPGA",
+        "content": "Ont qualité de parties les personnes dont les droits ou obligations résultent des assurances sociales, ainsi que les personnes, organisations ou autorités qui disposent d’un moyen de droit contre la décision d’un assureur ou d’un organe d’exécution de même niveau.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_34"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Compétence",
+        "citation": "Art. 35 al. 1 LPGA",
+        "content": "L’assureur examine d’office s’il est compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_35"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Compétence",
+        "citation": "Art. 35 al. 2 LPGA",
+        "content": "L’assureur qui se tient pour compétent le constate dans une décision si une partie conteste sa compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_35"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Compétence",
+        "citation": "Art. 35 al. 3 LPGA",
+        "content": "L’assureur qui se tient pour incompétent rend une décision d’irrecevabilité si une partie prétend qu’il est compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_35"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Récusation",
+        "citation": "Art. 36 al. 1 LPGA",
+        "content": "Les personnes appelées à rendre ou à préparer des décisions sur des droits ou des obligations doivent se récuser si elles ont un intérêt personnel dans l’affaire ou si, pour d’autres raisons, elles semblent prévenues.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_36"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Récusation",
+        "citation": "Art. 36 al. 2 LPGA",
+        "content": "Si la récusation est contestée, la décision est rendue par l’autorité de surveillance. S’il s’agit de la récusation d’un membre d’un collège, la décision est rendue par le collège en l’absence de ce membre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_36"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Représentation et assistance",
+        "citation": "Art. 37 al. 1 LPGA",
+        "content": "Une partie peut, en tout temps, se faire représenter, à moins qu’elle ne doive agir personnellement, ou se faire assister, pour autant que l’urgence d’une enquête ne l’exclue pas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_37"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Représentation et assistance",
+        "citation": "Art. 37 al. 2 LPGA",
+        "content": "L’assureur peut exiger du mandataire qu’il justifie ses pouvoirs par une procuration écrite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_37"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Représentation et assistance",
+        "citation": "Art. 37 al. 3 LPGA",
+        "content": "Tant que la partie ne révoque pas la procuration, l’assureur adresse ses communications au mandataire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_37"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Représentation et assistance",
+        "citation": "Art. 37 al. 4 LPGA",
+        "content": "Lorsque les circonstances l’exigent, l’assistance gratuite d’un conseil juridique est accordée au demandeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_37"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Calcul et suspension des délais",
+        "citation": "Art. 38 al. 1 LPGA",
+        "content": "Si le délai, compté par jours ou par mois, doit être communiqué aux parties, il commence à courir le lendemain de la communication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_38"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Calcul et suspension des délais",
+        "citation": "Art. 38 al. 2 LPGA",
+        "content": "S’il ne doit pas être communiqué aux parties, il commence à courir le lendemain de l’événement qui le déclenche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_38"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Calcul et suspension des délais",
+        "citation": "Art. 38 al. 2bis LPGA",
+        "content": "Une communication qui n’est remise que contre la signature du destinataire ou d’un tiers habilité est réputée reçue au plus tard sept jours après la première tentative infructueuse de distribution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_38"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Calcul et suspension des délais",
+        "citation": "Art. 38 al. 3 LPGA",
+        "content": "Lorsque le délai échoit un samedi, un dimanche ou un jour férié selon le droit fédéral ou cantonal, son terme est reporté au premier jour ouvrable qui suit. Le droit cantonal déterminant est celui du canton où la partie ou son mandataire a son domicile ou son siège.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_38"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Calcul et suspension des délais",
+        "citation": "Art. 38 al. 4 LPGA",
+        "content": "Les délais en jours ou en mois fixés par la loi ou par l’autorité ne courent pas:\na. du 7e jour avant Pâques au 7e jour après Pâques inclusivement;\nb. du 15 juillet au 15 août inclusivement;\nc. du 18 décembre au 2 janvier inclusivement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_38"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation des délais",
+        "citation": "Art. 39 al. 1 LPGA",
+        "content": "Les écrits doivent être remis au plus tard le dernier jour du délai à l’assureur ou, à son adresse, à La Poste suisse ou à une représentation diplomatique ou consulaire suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_39"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation des délais",
+        "citation": "Art. 39 al. 2 LPGA",
+        "content": "Lorsqu’une partie s’adresse en temps utile à un assureur incompétent, le délai est réputé observé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_39"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Prolongation des délais et retard",
+        "citation": "Art. 40 al. 1 LPGA",
+        "content": "Le délai légal ne peut pas être prolongé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_40"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Prolongation des délais et retard",
+        "citation": "Art. 40 al. 2 LPGA",
+        "content": "Si l’assureur fixe un délai pour une action déterminée, il indique en même temps les conséquences d’un retard. Celui-ci ne peut avoir d’autres conséquences que celles mentionnées dans l’avertissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_40"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Prolongation des délais et retard",
+        "citation": "Art. 40 al. 3 LPGA",
+        "content": "Le délai fixé par l’assureur peut être prolongé pour des motifs pertinents si la partie en fait la demande avant son expiration.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_40"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Restitution du délai",
+        "citation": "Art. 41 LPGA",
+        "content": "Si le requérant ou son mandataire a été empêché, sans sa faute, d’agir dans le délai fixé, celui-ci est restitué pour autant que, dans les 30 jours à compter de celui où l’empêchement a cessé, le requérant ou son mandataire ait déposé une demande motivée de restitution et ait accompli l’acte omis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_41"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Droit d’être entendu",
+        "citation": "Art. 42 LPGA",
+        "content": "Les parties ont le droit d’être entendues. Il n’est pas nécessaire de les entendre avant une décision sujette à opposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_42"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Instruction de la demande",
+        "citation": "Art. 43 al. 1 LPGA",
+        "content": "L’assureur examine les demandes, prend d’office les mesures d’instruction nécessaires et recueille les renseignements dont il a besoin. Les renseignements donnés oralement doivent être consignés par écrit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Instruction de la demande",
+        "citation": "Art. 43 al. 1bis LPGA",
+        "content": "L’assureur détermine la nature et l’étendue de l’instruction nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Instruction de la demande",
+        "citation": "Art. 43 al. 2 LPGA",
+        "content": "L’assuré doit se soumettre à des examens médicaux ou techniques si ceux-ci sont nécessaires à l’appréciation du cas et qu’ils peuvent être raisonnablement exigés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Instruction de la demande",
+        "citation": "Art. 43 al. 3 LPGA",
+        "content": "Si l’assuré ou d’autres requérants refusent de manière inexcusable de se conformer à leur obligation de renseigner ou de collaborer à l’instruction, l’assureur peut se prononcer en l’état du dossier ou clore l’instruction et décider de ne pas entrer en matière. Il doit leur avoir adressé une mise en demeure écrite les avertissant des conséquences juridiques et leur impartissant un délai de réflexion convenable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 1 LPGA",
+        "content": "L’assureur peut observer secrètement un assuré et, à cette fin, effectuer des enregistrements visuels et sonores ou utiliser des instruments techniques visant à le localiser aux conditions suivantes:\na. il dispose d’indices concrets laissant présumer qu’un assuré perçoit ou tente de percevoir indûment des prestations;\nb. sans mesure d’observation, les mesures d’instruction n’auraient aucune chance d’aboutir ou seraient excessivement difficiles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 2 LPGA",
+        "content": "Une personne assumant une fonction de direction, dans le domaine dont relève le cas à traiter ou dans le domaine des prestations de l’assureur, a la compétence d’ordonner l’observation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 3 LPGA",
+        "content": "Le recours à des instruments techniques visant à localiser un assuré est soumis à autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 4 LPGA",
+        "content": "L’assuré ne peut être observé que dans les cas suivants:\na. il se trouve dans un lieu accessible au public, ou\nb. il se trouve dans un lieu qui est librement visible depuis un lieu accessible au public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 5 LPGA",
+        "content": "Une observation peut avoir lieu sur 30 jours au maximum au cours d’une période de six mois à compter du premier jour d’observation. Cette période peut être prolongée de six mois au maximum si des motifs suffisants le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 6 LPGA",
+        "content": "L’assureur peut confier l’observation à des spécialistes externes. Ces derniers sont soumis au devoir de garder le secret conformément à l’art. 33 et ont l’interdiction d’utiliser à d’autres fins les informations recueillies dans le cadre de leur mandat. L’assureur peut exploiter le matériel recueilli lors d’une observation réalisée par un autre assureur au sens de la présente loi ou d’un assureur au sens de la loi du 17 décembre 2004 sur la surveillance des assurances ou réalisée sur mandat de ceux-ci, pour autant que cette observation ait respecté les conditions prévues aux al. 1 à 5.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 7 LPGA",
+        "content": "L’assureur informe la personne concernée du motif, de la nature et de la durée de l’observation, au plus tard avant de rendre la décision qui porte sur la prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 8 LPGA",
+        "content": "Si l’observation n’a pas permis de confirmer les indices visés à l’al. 1, let. a, l’assureur: \na. rend une décision concernant le motif, la nature et la durée de l’observation effectuée; \nb. détruit le matériel recueilli lors de l’observation après l’entrée en force de la décision si l’assuré n’a pas expressément demandé que celui-ci soit conservé dans le dossier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation",
+        "citation": "Art. 43a al. 9 LPGA",
+        "content": "Le Conseil fédéral règle:\na. la procédure selon laquelle l’assuré peut consulter le matériel complet recueilli lors de l’observation;\nb. la conservation et la destruction du matériel recueilli;\nc. les exigences à l’endroit des spécialistes chargés de l’observation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation: Autorisation du recours à des instruments techniques de localisation",
+        "citation": "Art. 43b al. 1 LPGA",
+        "content": "Lorsque l’assureur envisage d’ordonner une mesure d’observation avec des instruments techniques visant à localiser l’assuré, il adresse au tribunal compétent une demande contenant les éléments suivants: \na. l’indication du but spécifique de la mesure d’observation;\nb. les données relatives aux personnes concernées par la mesure d’observation;\nc. les modalités prévues de la mesure d’observation;\nd. la justification de la nécessité du recours aux instruments techniques visant à localiser l’assuré ainsi que les raisons pour lesquelles, sans le recours à ces instruments, les mesures d’instruction sont restées vaines, n’auraient aucune chance d’aboutir ou seraient excessivement difficiles;\ne. l’indication du début et de la fin de la mesure d’observation et le délai dans lequel elle doit être mise en œuvre;\nf. les pièces essentielles au traitement de la demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation: Autorisation du recours à des instruments techniques de localisation",
+        "citation": "Art. 43b al. 2 LPGA",
+        "content": "Le président de la cour compétente du tribunal compétent statue en tant que juge unique dans les cinq jours ouvrables à compter de la réception de la demande de l’assureur en indiquant brièvement les motifs; il peut confier cette tâche à un autre juge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation: Autorisation du recours à des instruments techniques de localisation",
+        "citation": "Art. 43b al. 3 LPGA",
+        "content": "Il peut autoriser l’observation à titre provisoire, assortir l’autorisation de conditions ou encore demander que le dossier soit complété ou que d’autres éclaircissements soient apportés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Observation: Autorisation du recours à des instruments techniques de localisation",
+        "citation": "Art. 43b al. 4 LPGA",
+        "content": "Le tribunal compétent est: \na. le tribunal cantonal des assurances du canton de domicile de l’assuré; \nb. le Tribunal administratif fédéral pour les assurés domiciliés à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_43_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 1 LPGA",
+        "content": "Si l’assureur juge une expertise nécessaire dans le cadre de mesures d’instruction médicale, il en fixe le type selon les exigences requises; trois types sont possibles:\na. expertise monodisciplinaire;\nb. expertise bidisciplinaire;\nc. expertise pluridisciplinaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 2 LPGA",
+        "content": "Si l’assureur doit recourir aux services d’un ou de plusieurs experts indépendants pour élucider les faits dans le cadre d’une expertise, il communique leur nom aux parties. Les parties peuvent récuser les experts pour les motifs indiqués à l’art. 36, al. 1, et présenter des contre-propositions dans un délai de dix jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 3 LPGA",
+        "content": "Lorsqu’il communique le nom des experts, l’assureur soumet aussi aux parties les questions qu’il entend poser aux experts et leur signale qu’elles ont la possibilité de remettre par écrit des questions supplémentaires dans le même délai. L’assureur décide en dernier ressort des questions qui sont posées aux experts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 4 LPGA",
+        "content": "Si, malgré la demande de récusation, l’assureur maintient son choix du ou des experts pressentis, il en avise les parties par une décision incidente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 5 LPGA",
+        "content": "Les disciplines médicales sont déterminées à titre définitif par l’assureur pour les expertises visées à l’al. 1, let. a et b, et par le centre d’expertises pour les expertises visées à l’al. 1, let. c.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 6 LPGA",
+        "content": "Sauf avis contraire de l’assuré, les entretiens entre l’assuré et l’expert font l’objet d’enregistrements sonores, lesquels sont conservés dans le dossier de l’assureur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Expertise",
+        "citation": "Art. 44 al. 7 LPGA",
+        "content": "Le Conseil fédéral:\na. peut régler la nature de l’attribution du mandat à un centre d’expertises, pour les expertises visées à l’al. 1;\nb. édicte des critères pour l’admission des experts médicaux et des experts en neuropsychologie, pour les expertises visées à l’al. 1;\nc. crée une commission réunissant des représentants des différentes assurances sociales, des centres d’expertises, des médecins, des neuropsychologues, des milieux scientifiques, ainsi que des organisations d’aide aux patients et aux personnes en situation de handicap qui veille au contrôle de l’accréditation, du processus, et du résultat des expertises médicales. Elle émet des recommandations publiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_44"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Frais de l’instruction",
+        "citation": "Art. 45 al. 1 LPGA",
+        "content": "Les frais de l’instruction sont pris en charge par l’assureur qui a ordonné les mesures. À défaut, l’assureur rembourse les frais occasionnés par les mesures indispensables à l’appréciation du cas ou comprises dans les prestations accordées ultérieurement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_45"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Frais de l’instruction",
+        "citation": "Art. 45 al. 2 LPGA",
+        "content": "L’assureur indemnise les parties ainsi que les personnes tenues de fournir des renseignements si elles subissent une perte de gain ou encourent des frais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_45"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Frais de l’instruction",
+        "citation": "Art. 45 al. 3 LPGA",
+        "content": "Les frais peuvent être mis à la charge de la partie qui empêche ou entrave l’instruction de manière inexcusable après sommation et indication des conséquences.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_45"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Frais de l’instruction",
+        "citation": "Art. 45 al. 4 LPGA",
+        "content": "Si l’assuré a obtenu ou a tenté d’obtenir une prestation en fournissant sciemment des indications fausses ou d’une autre manière illicite, l’assureur peut mettre à la charge de l’assuré les frais supplémentaires que lui a occasionnés le recours à des spécialistes chargés d’effectuer des observations pour lutter contre la perception indue de prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_45"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Gestion des documents",
+        "citation": "Art. 46 LPGA",
+        "content": "Lors de chaque procédure relevant des assurances sociales, l’assureur enregistre de manière systématique tous les documents qui peuvent être déterminants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_46"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Consultation du dossier",
+        "citation": "Art. 47 al. 1 LPGA",
+        "content": "Ont le droit de consulter le dossier, dans la mesure où les intérêts privés prépondérants sont sauvegardés:\na. l’assuré, pour les données qui le concernent;\nb. les parties, s’agissant des données qui leur sont nécessaires pour exercer un droit ou remplir une obligation qui découle d’une loi sur les assurances sociales ou pour faire valoir un moyen de droit contre une décision fondée sur cette même loi;\nc. les autorités habilitées à statuer sur les recours contre des décisions fondées sur une loi sur les assurances sociales, pour les données nécessaires à l’accomplissement de cette tâche;\nd. le tiers responsable et son assureur, pour les données qui leur sont nécessaires pour se déterminer sur une prétention récursoire de l’assurance sociale concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_47"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Consultation du dossier",
+        "citation": "Art. 47 al. 2 LPGA",
+        "content": "S’il s’agit de données sur la santé dont la communication pourrait entraîner une atteinte à la santé de la personne autorisée à consulter le dossier, celle-ci peut être tenue de désigner un médecin qui les lui communiquera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_47"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Prise en considération de pièces tenues secrètes",
+        "citation": "Art. 48 LPGA",
+        "content": "Une pièce dont la consultation a été refusée à une partie ne peut être utilisée à son désavantage que si l’assureur lui en a communiqué, oralement ou par écrit, le contenu essentiel se rapportant à l’affaire et lui a donné en outre l’occasion de s’exprimer et de fournir des contre-preuves.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_48"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Décision",
+        "citation": "Art. 49 al. 1 LPGA",
+        "content": "L’assureur doit rendre par écrit les décisions qui portent sur des prestations, créances ou injonctions importantes ou avec lesquelles l’intéressé n’est pas d’accord.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_49"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Décision",
+        "citation": "Art. 49 al. 2 LPGA",
+        "content": "Si le requérant rend vraisemblable un intérêt digne d’être protégé, l’assureur rend une décision en constatation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_49"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Décision",
+        "citation": "Art. 49 al. 3 LPGA",
+        "content": "Les décisions indiquent les voies de droit. Elles doivent être motivées si elles ne font pas entièrement droit aux demandes des parties. La notification irrégulière d’une décision ne doit entraîner aucun préjudice pour l’intéressé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_49"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Décision",
+        "citation": "Art. 49 al. 4 LPGA",
+        "content": "L’assureur qui rend une décision touchant l’obligation d’un autre assureur d’allouer des prestations est tenu de lui en communiquer un exemplaire. Cet autre assureur dispose des mêmes voies de droit que l’assuré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_49"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Décision",
+        "citation": "Art. 49 al. 5 LPGA",
+        "content": "Dans sa décision, l’assureur peut priver toute opposition ou tout recours de l’effet suspensif, même si cette décision porte sur une prestation en espèces. Les décisions ordonnant la restitution de prestations versées indûment sont exceptées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_49"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Transaction",
+        "citation": "Art. 50 al. 1 LPGA",
+        "content": "Les litiges portant sur des prestations des assurances sociales peuvent être réglés par transaction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_50"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Transaction",
+        "citation": "Art. 50 al. 2 LPGA",
+        "content": "L’assureur est tenu de notifier la transaction sous la forme d’une décision sujette à recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_50"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Transaction",
+        "citation": "Art. 50 al. 3 LPGA",
+        "content": "Les al. 1 et 2 s’appliquent par analogie à la procédure d’opposition ainsi qu’à la procédure de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_50"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Procédure simplifiée",
+        "citation": "Art. 51 al. 1 LPGA",
+        "content": "Les prestations, créances et injonctions qui ne sont pas visées à l’art. 49, al. 1, peuvent être traitées selon une procédure simplifiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_51"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Procédure simplifiée",
+        "citation": "Art. 51 al. 2 LPGA",
+        "content": "L’intéressé peut exiger qu’une décision soit rendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_51"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Opposition",
+        "citation": "Art. 52 al. 1 LPGA",
+        "content": "Les décisions peuvent être attaquées dans les trente jours par voie d’opposition auprès de l’assureur qui les a rendues, à l’exception des décisions d’ordonnancement de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_52"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Opposition",
+        "citation": "Art. 52 al. 2 LPGA",
+        "content": "Les décisions sur opposition doivent être rendues dans un délai approprié. Elles sont motivées et indiquent les voies de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_52"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Opposition",
+        "citation": "Art. 52 al. 3 LPGA",
+        "content": "La procédure d’opposition est gratuite. En règle générale, il ne peut être alloué de dépens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_52"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Opposition",
+        "citation": "Art. 52 al. 4 LPGA",
+        "content": "Dans sa décision sur opposition, l’assureur peut priver tout recours de l’effet suspensif, même si cette décision porte sur une prestation en espèces. Les décisions sur opposition ordonnant la restitution de prestations versées indûment sont exceptées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_52"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Suspension à titre provisionnel des prestations ",
+        "citation": "Art. 52a LPGA",
+        "content": "L’assureur peut suspendre à titre provisionnel le versement de prestations si l’assuré a manqué à son obligation de l’aviser dans les cas visés à l’art. 31, al. 1, s’il n’a pas présenté dans les délais le certificat de vie ou d’état civil demandé, ou si l’assureur a de sérieuses raisons de penser que l’assuré perçoit une prestation à laquelle il n’a pas droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_52_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Révision et reconsidération",
+        "citation": "Art. 53 al. 1 LPGA",
+        "content": "Les décisions et les décisions sur opposition formellement passées en force sont soumises à révision si l’assuré ou l’assureur découvre subséquemment des faits nouveaux importants ou trouve des nouveaux moyens de preuve qui ne pouvaient être produits auparavant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_53"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Révision et reconsidération",
+        "citation": "Art. 53 al. 2 LPGA",
+        "content": "L’assureur peut revenir sur les décisions ou les décisions sur opposition formellement passées en force lorsqu’elles sont manifestement erronées et que leur rectification revêt une importance notable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_53"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Révision et reconsidération",
+        "citation": "Art. 53 al. 3 LPGA",
+        "content": "Jusqu’à l’envoi de son préavis à l’autorité de recours, l’assureur peut reconsidérer une décision ou une décision sur opposition contre laquelle un recours a été formé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_53"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Exécution",
+        "citation": "Art. 54 al. 1 LPGA",
+        "content": "Les décisions et les décisions sur opposition sont exécutoires lorsque:\na. elles ne peuvent plus être attaquées par une opposition ou un recours;\nb. l’opposition ou le recours n’a pas d’effet suspensif;\nc. l’effet suspensif attribué à une opposition ou à un recours a été retiré.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_54"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Exécution",
+        "citation": "Art. 54 al. 2 LPGA",
+        "content": "Les décisions et les décisions sur opposition exécutoires qui portent condamnation à payer une somme d’argent ou à fournir des sûretés sont assimilées aux jugements exécutoires au sens de l’art. 80 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_54"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Règles particulières de procédure",
+        "citation": "Art. 55 al. 1 LPGA",
+        "content": "Les points de procédure qui ne sont pas réglés de manière exhaustive aux art. 27 à 54 de la présente loi ou par les dispositions des lois spéciales sont régis par la loi fédérale du 20 décembre 1968 sur la procédure administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_55"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Règles particulières de procédure",
+        "citation": "Art. 55 al. 1bis LPGA",
+        "content": "Le Conseil fédéral peut déclarer applicables aux procédures régies par la présente loi les dispositions de la loi fédérale du 20 décembre 1968 sur la procédure administrative relatives à la communication électronique avec les autorités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_55"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 2, Procédure en matière d’assurances sociales, Règles particulières de procédure",
+        "citation": "Art. 55 al. 2 LPGA",
+        "content": "La procédure devant une autorité fédérale est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative, sauf lorsqu’il s’agit de prestations, créances et injonctions relevant du droit des assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_55"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Droit de recours",
+        "citation": "Art. 56 al. 1 LPGA",
+        "content": "Les décisions sur opposition et celles contre lesquelles la voie de l’opposition n’est pas ouverte sont sujettes à recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_56"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Droit de recours",
+        "citation": "Art. 56 al. 2 LPGA",
+        "content": "Le recours peut aussi être formé lorsque l’assureur, malgré la demande de l’intéressé, ne rend pas de décision ou de décision sur opposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_56"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Tribunal cantonal des assurances",
+        "citation": "Art. 57 LPGA",
+        "content": "Chaque canton institue un tribunal des assurances, qui statue en instance unique sur les recours dans le domaine des assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_57"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Compétence",
+        "citation": "Art. 58 al. 1 LPGA",
+        "content": "Le tribunal des assurances compétent est celui du canton de domicile de l’assuré ou d’une autre partie au moment du dépôt du recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_58"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Compétence",
+        "citation": "Art. 58 al. 2 LPGA",
+        "content": "Si l’assuré ou une autre partie sont domiciliés à l’étranger, le tribunal des assurances compétent est celui du canton de leur dernier domicile en Suisse ou celui du canton de domicile de leur dernier employeur suisse; si aucun de ces domiciles ne peut être déterminé, le tribunal des assurances compétent est celui du canton où l’organe d’exécution a son siège.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_58"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Compétence",
+        "citation": "Art. 58 al. 3 LPGA",
+        "content": "Le tribunal qui décline sa compétence transmet sans délai le recours au tribunal compétent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_58"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Qualité pour recourir",
+        "citation": "Art. 59 LPGA",
+        "content": "Quiconque est touché par la décision ou la décision sur opposition et a un intérêt digne d’être protégé à ce qu’elle soit annulée ou modifiée a qualité pour recourir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_59"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Délai de recours",
+        "citation": "Art. 60 al. 1 LPGA",
+        "content": "Le recours doit être déposé dans les trente jours suivant la notification de la décision sujette à recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_60"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Délai de recours",
+        "citation": "Art. 60 al. 2 LPGA",
+        "content": "Les art. 38 à 41 sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_60"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Procédure",
+        "citation": "Art. 61 LPGA",
+        "content": "Sous réserve de l’art. 1, al. 3, de la loi fédérale du 20 décembre 1968 sur la procédure administrative, la procédure devant le tribunal cantonal des assurances est réglée par le droit cantonal. Elle doit satisfaire aux exigences suivantes:\na. elle doit être simple, rapide et en règle générale publique;\nb. l’acte de recours doit contenir un exposé succinct des faits et des motifs invoqués, ainsi que les conclusions; si l’acte n’est pas conforme à ces règles, le tribunal impartit un délai convenable au recourant pour combler les lacunes, en l’avertissant qu’en cas d’inobservation le recours sera écarté;\nc. le tribunal établit avec la collaboration des parties les faits déterminants pour la solution du litige; il administre les preuves nécessaires et les apprécie librement;\nd. le tribunal n’est pas lié par les conclusions des parties; il peut réformer, au détriment du recourant, la décision attaquée ou accorder plus que le recourant n’avait demandé; il doit cependant donner aux parties l’occasion de se prononcer ou de retirer le recours;\ne. si les circonstances le justifient, les parties peuvent être convoquées aux débats;\nf. le droit de se faire assister par un conseil doit être garanti; lorsque les circonstances le justifient, l’assistance judiciaire gratuite est accordée au recourant;\nfbis. pour les litiges en matière de prestations, la procédure est soumise à des frais judiciaires si la loi spéciale le prévoit; si la loi spéciale ne prévoit pas de frais judiciaires pour de tels litiges, le tribunal peut en mettre à la charge de la partie qui agit de manière téméraire ou fait preuve de légèreté;\ng. le recourant qui obtient gain de cause a droit au remboursement de ses frais et dépens dans la mesure fixée par le tribunal; leur montant est déterminé sans égard à la valeur litigieuse d’après l’importance et la complexité du litige;\nh. les jugements contiennent les motifs retenus, l’indication des voies de recours ainsi que les noms des membres du tribunal et sont notifiés par écrit;\ni. les jugements sont soumis à révision si des faits ou des moyens de preuve nouveaux sont découverts ou si un crime ou un délit a influencé le jugement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_61"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Tribunal fédéral",
+        "citation": "Art. 62 al. 1 LPGA",
+        "content": "Les jugements rendus par les tribunaux cantonaux des assurances peuvent faire l’objet d’un recours devant le Tribunal fédéral, conformément à la loi du 17 juin 2005 sur le Tribunal fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_62"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Tribunal fédéral",
+        "citation": "Art. 62 al. 1bis LPGA",
+        "content": "Le Conseil fédéral règle la qualité pour recourir devant le Tribunal fédéral des organes d’exécution des assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_62"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 4, Dispositions générales de procédure, Section 3, Contentieux, Tribunal fédéral",
+        "citation": "Art. 62 al. 2 LPGA",
+        "content": "L’art. 54 s’applique par analogie à l’exécution des jugements rendus par les autorités de recours précédant le Tribunal fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_62"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Généralités",
+        "citation": "Art. 63 al. 1 LPGA",
+        "content": "Les règles de coordination prévues dans la présente section s’appliquent aux prestations allouées par plusieurs assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_63"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Généralités",
+        "citation": "Art. 63 al. 2 LPGA",
+        "content": "L’AVS et l’AI sont considérées comme une seule assurance sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_63"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Généralités",
+        "citation": "Art. 63 al. 3 LPGA",
+        "content": "La coordination des prestations d’une même assurance sociale est régie par la loi spéciale concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_63"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement",
+        "citation": "Art. 64 al. 1 LPGA",
+        "content": "Le traitement est à la charge exclusive d’une seule assurance sociale dans la mesure où il s’agit de prestations prescrites par la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_64"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement",
+        "citation": "Art. 64 al. 2 LPGA",
+        "content": "Si les conditions de la loi spéciale concernée sont remplies, le traitement, dans les limites légales, est dans l’ordre suivant à la charge de:\na. l’assurance militaire;\nb. l’assurance-accidents;\nc. l’AI;\nd. l’assurance-maladie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_64"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement",
+        "citation": "Art. 64 al. 3 LPGA",
+        "content": "L’assureur social tenu de verser des prestations prend en charge seul et de manière illimitée les frais du traitement hospitalier, même si l’atteinte à la santé n’est pas entièrement due à l’événement qu’il est tenu de couvrir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_64"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement",
+        "citation": "Art. 64 al. 4 LPGA",
+        "content": "Par ailleurs, l’assureur social tenu de verser des prestations prend en charge le traitement des atteintes à la santé dont il n’a pas à répondre lorsque ces atteintes surviennent au cours d’un traitement hospitalier et ne peuvent être traitées séparément.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_64"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Autres prestations en nature",
+        "citation": "Art. 65 LPGA",
+        "content": "Les autres prestations en nature telles que les moyens auxiliaires ou les mesures de réadaptation sont, dans les limites de la loi spéciale concernée et dans l’ordre ci-après, prises en charge par:\na. l’assurance militaire ou l’assurance-accidents;\nb. l’AVS ou l’AI;\nc. l’assurance-maladie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_65"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Rentes et allocations pour impotents",
+        "citation": "Art. 66 al. 1 LPGA",
+        "content": "Sous réserve de surindemnisation, les rentes et les indemnités en capital des différentes assurances sociales sont cumulées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_66"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Rentes et allocations pour impotents",
+        "citation": "Art. 66 al. 2 LPGA",
+        "content": "Les rentes et indemnités en capital sont, selon les dispositions de la loi spéciale concernée et dans l’ordre suivant, versées par:\na. l’AVS ou l’AI;\nb. l’assurance militaire ou l’assurance-accidents;\nc. la prévoyance professionnelle vieillesse, survivants et invalidité au sens de la loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieillesse, survivants et invalidité (LPP).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_66"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Rentes et allocations pour impotents",
+        "citation": "Art. 66 al. 3 LPGA",
+        "content": "Les allocations pour impotents sont, selon les dispositions de la loi spéciale concernée et dans l’ordre suivant, versées exclusivement par:\na. l’assurance militaire ou l’assurance-accidents;\nb. l’AVS ou l’AI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_66"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement et prestations en espèces",
+        "citation": "Art. 67 al. 1 LPGA",
+        "content": "Lorsque le bénéficiaire d’indemnités journalières ou d’une rente séjourne aux frais de l’assurance sociale dans un établissement hospitalier, l’assureur social tenu de prendre en charge le traitement peut, compte tenu des charges familiales de l’assuré, déduire un montant fixe pour les frais de pension dans l’établissement hospitalier. Cette déduction peut être opérée sur l’indemnité journalière ou sur la rente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_67"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Traitement et prestations en espèces",
+        "citation": "Art. 67 al. 2 LPGA",
+        "content": "Si le bénéficiaire d’une allocation pour impotent séjourne dans un établissement hospitalier aux frais de l’assurance sociale, le droit à l’allocation est supprimé pour chaque mois civil entier passé dans l’établissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_67"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Indemnités journalières et rentes",
+        "citation": "Art. 68 LPGA",
+        "content": "Sous réserve de surindemnisation, les indemnités journalières et les rentes de différentes assurances sociales sont cumulées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_68"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Surindemnisation",
+        "citation": "Art. 69 al. 1 LPGA",
+        "content": "Le concours de prestations des différentes assurances sociales ne doit pas conduire à une surindemnisation de l’ayant droit. Ne sont prises en compte dans le calcul de la surindemnisation que des prestations de nature et de but identiques qui sont accordées à l’assuré en raison de l’événement dommageable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_69"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Surindemnisation",
+        "citation": "Art. 69 al. 2 LPGA",
+        "content": "Il y a surindemnisation dans la mesure où les prestations sociales légalement dues dépassent, du fait de la réalisation du risque, à la fois le gain dont l’assuré est présumé avoir été privé, les frais supplémentaires et les éventuelles diminutions de revenu subies par les proches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_69"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Surindemnisation",
+        "citation": "Art. 69 al. 3 LPGA",
+        "content": "Les prestations en espèces sont réduites du montant de la surindemnisation. Sont exceptées de toute réduction les rentes de l’AVS et de l’AI, de même que les allocations pour impotents et les indemnités pour atteinte à l’intégrité. Pour les prestations en capital, la valeur de la rente correspondante est prise en compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_69"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Prise en charge provisoire des prestations",
+        "citation": "Art. 70 al. 1 LPGA",
+        "content": "L’ayant droit peut demander la prise en charge provisoire de son cas lorsqu’un événement assuré lui donne droit à des prestations d’une assurance sociale mais qu’il y a doute sur le débiteur de ces prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_70"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Prise en charge provisoire des prestations",
+        "citation": "Art. 70 al. 2 LPGA",
+        "content": "Sont tenues de prendre provisoirement le cas à leur charge:\na. l’assurance-maladie, pour les prestations en nature et les indemnités journalières dont la prise en charge par l’assurance-maladie, l’assurance-accidents, l’assurance militaire ou l’AI est contestée;\nb. l’assurance-chômage, pour les prestations dont la prise en charge par l’assurance-chômage, l’assurance-maladie, l’assurance-accidents, l’assurance militaire ou l’AI est contestée;\nc. l’assurance-accidents, pour les prestations dont la prise en charge par l’assurance-accidents ou l’assurance militaire est contestée;\nd. la prévoyance professionnelle vieillesse, survivants et invalidité au sens de la LPP, pour les rentes dont la prise en charge par l’assurance-accidents ou l’assurance militaire ou par la prévoyance professionnelle vieillesse, survivants et invalidité au sens de la LPP est contestée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_70"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Prise en charge provisoire des prestations",
+        "citation": "Art. 70 al. 3 LPGA",
+        "content": "L’ayant droit adresse sa demande aux institutions d’assurances sociales entrant en ligne de compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_70"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 1, Coordination des prestations, Remboursement",
+        "citation": "Art. 71 LPGA",
+        "content": "L’assureur tenu de prendre provisoirement le cas à sa charge alloue les prestations selon les dispositions régissant son activité. Lorsque le cas est pris en charge par un autre assureur, celui-ci lui rembourse ses avances dans la mesure où elles correspondent aux prestations qu’il aurait dû lui-même allouer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_71"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Principe",
+        "citation": "Art. 72 al. 1 LPGA",
+        "content": "Dès la survenance de l’événement dommageable, l’assureur est subrogé, jusqu’à concurrence des prestations légales, aux droits de l’assuré et de ses survivants contre tout tiers responsable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_72"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Principe",
+        "citation": "Art. 72 al. 2 LPGA",
+        "content": "Lorsqu’il y a plusieurs responsables, ceux-ci répondent solidairement à l’égard de l’assureur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_72"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Principe",
+        "citation": "Art. 72 al. 3 LPGA",
+        "content": "Les délais de prescription applicables aux droits de la personne lésée sont également applicables aux droits qui ont passé à l’assureur. Pour les prétentions récursoires de l’assureur, les délais relatifs ne commencent toutefois pas à courir avant que celui-ci ait eu connaissance des prestations qu’il doit allouer ainsi que du responsable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_72"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Principe",
+        "citation": "Art. 72 al. 4 LPGA",
+        "content": "Lorsque la personne lésée dispose d’un droit direct contre l’assureur en responsabilité civile, ce droit passe également à l’assureur subrogé. Les exceptions fondées sur le contrat d’assurance qui ne peuvent pas être opposées à la personne lésée ne peuvent non plus l’être aux prétentions récursoires de l’assureur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_72"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Principe",
+        "citation": "Art. 72 al. 5 LPGA",
+        "content": "Le Conseil fédéral édicte des dispositions sur l’exercice du droit de recours. Il peut notamment ordonner qu’en cas de recours contre un responsable qui n’est pas assuré en responsabilité civile, plusieurs assureurs participant au recours fassent valoir leurs prétentions récursoires par l’intermédiaire d’un seul assureur. Le Conseil fédéral règle la représentation à l’égard des tiers si les assureurs intéressés ne parviennent pas à s’entendre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_72"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Étendue de la subrogation",
+        "citation": "Art. 73 al. 1 LPGA",
+        "content": "L’assureur n’est subrogé aux droits de l’assuré et de ses survivants que dans la mesure où les prestations qu’il alloue, jointes à la réparation due pour la même période par le tiers responsable, excèdent le dommage causé par celui-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_73"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Étendue de la subrogation",
+        "citation": "Art. 73 al. 2 LPGA",
+        "content": "Toutefois, si l’assureur a réduit ses prestations au sens de l’art. 21, al. 1, 2 ou 4, les droits de l’assuré ou de ses survivants passent à l’assureur dans la mesure où les prestations non réduites, jointes à la réparation due pour la même période par le tiers, excèdent le montant du dommage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_73"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Étendue de la subrogation",
+        "citation": "Art. 73 al. 3 LPGA",
+        "content": "Les droits qui ne passent pas à l’assureur restent acquis à l’assuré ou à ses survivants. Si seule une partie de l’indemnité due par le tiers responsable peut être récupérée, l’assuré ou ses survivants ont un droit préférentiel sur cette partie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_73"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Classification des droits",
+        "citation": "Art. 74 al. 1 LPGA",
+        "content": "Les droits passent à l’assureur pour les prestations de même nature.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_74"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Classification des droits",
+        "citation": "Art. 74 al. 2 LPGA",
+        "content": "Sont notamment des prestations de même nature:\na. le remboursement des frais de traitement et de réadaptation par l’assureur et par le tiers responsable;\nb. l’indemnité journalière et l’indemnisation pour l’incapacité de travail;\nc. les rentes d’invalidité ou les rentes de vieillesse allouées à leur place, l’indemnisation pour incapacité de gain et l’indemnisation pour dommage de rente;\nd. les prestations pour impotence, la contribution d’assistance et le remboursement des frais liés aux soins et des autres frais dus à l’impotence;\ne. l’indemnité pour atteinte à l’intégrité et l’indemnité à titre de réparation morale;\nf. les rentes de survivants et les indemnités pour perte de soutien;\ng. les frais funéraires et les autres frais liés au décès;\nh. les frais engagés pour l’instruction et l’évaluation du dommage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_74"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Limitation du droit de recours",
+        "citation": "Art. 75 al. 1 LPGA",
+        "content": "L’assureur n’a un droit de recours contre le conjoint de l’assuré, ses parents en ligne ascendante et descendante ou les personnes qui font ménage commun avec lui que s’ils ont provoqué l’événement assuré intentionnellement ou par négligence grave.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Limitation du droit de recours",
+        "citation": "Art. 75 al. 2 LPGA",
+        "content": "Si les prétentions récursoires découlent d’un accident professionnel, la même limitation est applicable à l’employeur de l’assuré, aux membres de sa famille et aux travailleurs de son entreprise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5, Règles de coordination, Section 2, Subrogation, Limitation du droit de recours",
+        "citation": "Art. 75 al. 3 LPGA",
+        "content": "Il n’y a pas de limitation du droit de recours de l’assureur dans la mesure où la personne contre laquelle le recours est formé est couverte par une assurance responsabilité civile obligatoire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5a Exécution de traités internationaux en matière de sécurité sociale, Organismes responsables",
+        "citation": "Art. 75a LPGA",
+        "content": "Le Conseil fédéral désigne les organismes chargés d’accomplir les tâches assignées aux diverses assurances sociales, notamment en qualité d’autorité compétente, d’organisme de liaison ou d’institution compétente, en vertu des actes pertinents dans la version qui lie la Suisse de l’annexe II de l’accord sur la libre circulation des personnes et en vertu d’autres conventions internationales en matière de sécurité sociale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5a Exécution de traités internationaux en matière de sécurité sociale, Infrastructure pour l’exécution",
+        "citation": "Art. 75b al. 1 LPGA",
+        "content": "Le Conseil fédéral désigne les services de la Confédération responsables de la mise sur pied et de l’exploitation de l’infrastructure destinée à l’échange électronique de données avec l’étranger, notamment des points d’accès électroniques requis et des interfaces entre le système national et le système international d’échange de données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5a Exécution de traités internationaux en matière de sécurité sociale, Infrastructure pour l’exécution",
+        "citation": "Art. 75b al. 2 LPGA",
+        "content": "Les services de la Confédération visés à l’al. 1 peuvent accorder aux organismes visés à l’art. 75a un accès en ligne aux données relevant de leur domaine de compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75_b"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5a Exécution de traités internationaux en matière de sécurité sociale, Financement de l’infrastructure",
+        "citation": "Art. 75c al. 1 LPGA",
+        "content": "Les services de la Confédération visés à l’art. 75b perçoivent auprès des institutions compétentes visées à l’art. 75a des émoluments pour le raccordement à l’infrastructure destinée à l’échange électronique des données avec l’étranger et l’utilisation de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75_c"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 5a Exécution de traités internationaux en matière de sécurité sociale, Financement de l’infrastructure",
+        "citation": "Art. 75c al. 2 LPGA",
+        "content": "Le Conseil fédéral fixe les émoluments conformément à l’art. 46a de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration. Il consulte au préalable les organismes concernés. Il tient compte de l’étendue de l’utilisation de l’infrastructure lors du calcul des émoluments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_75_c"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Autorité de surveillance",
+        "citation": "Art. 76 al. 1 LPGA",
+        "content": "Le Conseil fédéral surveille la mise en œuvre des assurances sociales et en rend régulièrement compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_76"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Autorité de surveillance",
+        "citation": "Art. 76 al. 1bis LPGA",
+        "content": "Le rapport rédigé à cet effet contient une présentation des risques systémiques des différentes assurances sociales et expose le pilotage stratégique des assurances sociales par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_76"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Autorité de surveillance",
+        "citation": "Art. 76 al. 2 LPGA",
+        "content": "En cas de violation grave et répétée des dispositions légales par un assureur, le Conseil fédéral ou l’autorité de surveillance qu’il a désignée ordonne les mesures nécessaires au rétablissement d’une gestion de l’assurance conforme à la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_76"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Échange électronique de données",
+        "citation": "Art. 76a al. 1 LPGA",
+        "content": "Le Conseil fédéral règle l’échange électronique de données de sécurité sociale entre les assureurs suisses et entre ceux-ci et les autorités fédérales. Les dispositions relatives à la communication des données dans les différentes lois sur les assurances sociales sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_76_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Échange électronique de données",
+        "citation": "Art. 76a al. 2 LPGA",
+        "content": "Le Conseil fédéral peut déléguer aux autorités de surveillance la compétence de régler l’échange électronique de données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_76_a"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Rapports et statistiques",
+        "citation": "Art. 77 LPGA",
+        "content": "Les assureurs sociaux sont tenus de fournir aux autorités de surveillance tous les renseignements dont celles-ci ont besoin pour contrôler leur activité et pour établir des statistiques significatives. Ils ont l’obligation de leur remettre un rapport et des comptes annuels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_77"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Responsabilité",
+        "citation": "Art. 78 al. 1 LPGA",
+        "content": "Les corporations de droit public, les organisations fondatrices privées et les assureurs répondent, en leur qualité de garants de l’activité des organes d’exécution des assurances sociales, des dommages causés illicitement à un assuré ou à des tiers par leurs organes d’exécution ou par leur personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_78"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Responsabilité",
+        "citation": "Art. 78 al. 2 LPGA",
+        "content": "L’autorité compétente rend une décision sur les demandes en réparation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_78"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Responsabilité",
+        "citation": "Art. 78 al. 3 LPGA",
+        "content": "La responsabilité subsidiaire de la Confédération pour les institutions indépendantes de l’administration ordinaire de la Confédération est régie par l’art. 19 de la loi du 14 mars 1958 sur la responsabilité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_78"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Responsabilité",
+        "citation": "Art. 78 al. 4 LPGA",
+        "content": "Les dispositions de la présente loi s’appliquent à la procédure prévue aux al. 1 et 3. Il n’y a pas de procédure d’opposition. Les art. 3 à 9, 11, 12, 20, al. 1, 21 et 23 de la loi du 14 mars 1958 sur la responsabilité sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_78"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Responsabilité",
+        "citation": "Art. 78 al. 5 LPGA",
+        "content": "Les personnes agissant en tant qu’organes ou agents d’un assureur, d’un organe de révision ou de contrôle ou auxquelles sont confiées des tâches dans le cadre des lois spéciales, sont soumises à la même responsabilité pénale que les membres des autorités et les fonctionnaires, selon les dispositions du code pénal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_78"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Dispositions pénales",
+        "citation": "Art. 79 al. 1 LPGA",
+        "content": "La partie générale du CP ainsi que l’art. 6 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif sont applicables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_79"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Dispositions pénales",
+        "citation": "Art. 79 al. 2 LPGA",
+        "content": "La poursuite pénale incombe aux cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_79"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Dispositions pénales",
+        "citation": "Art. 79 al. 3 LPGA",
+        "content": "En cas de procédure pénale pour violation de l’art. 148a CP ou de l’art. 87 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants, l’assureur peut exercer les droits d’une partie plaignante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_79"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Exonération fiscale des assureurs",
+        "citation": "Art. 80 al. 1 LPGA",
+        "content": "Les assureurs et les organes d’exécution sont exonérés des impôts directs fédéraux, cantonaux et communaux ainsi que des impôts cantonaux et communaux sur les successions et donations dans la mesure où leur revenu et leur fortune servent exclusivement à mettre en œuvre les assurances sociales, ou à allouer ou à garantir des prestations d’assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_80"
+    },
+    {
+        "book": "ATSG",
+        "title": "LPGA, Chapitre 6, Dispositions diverses, Exonération fiscale des assureurs",
+        "citation": "Art. 80 al. 2 LPGA",
+        "content": "Les documents employés dans la mise en œuvre des assurances sociales pour correspondre avec les assurés ou des tiers et d’autres organisations sont exempts de taxes et d’émoluments publics. La perception des cotisations légalement dues n’est pas soumise au droit fédéral de timbre sur les quittances de primes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2002/510/fr#art_80"
+    }
+]

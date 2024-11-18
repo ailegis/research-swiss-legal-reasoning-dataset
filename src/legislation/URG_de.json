@@ -1,0 +1,1822 @@
+[
+    {
+        "book": "URG",
+        "title": "URG, 1. Titel: Gegenstand",
+        "citation": "Art. 1 Abs. 1 URG",
+        "content": "Dieses Gesetz regelt:\na. den Schutz der Urheber und Urheberinnen von Werken der Literatur und Kunst;\nb. den Schutz der ausübenden Künstler und Künstlerinnen, der Hersteller und Herstellerinnen von Ton- und Tonbildträgern sowie der Sendeunternehmen;\nc. die Bundesaufsicht über die Verwertungsgesellschaften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_1"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 1. Titel: Gegenstand",
+        "citation": "Art. 1 Abs. 2 URG",
+        "content": "Völkerrechtliche Verträge bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_1"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werkbegriff",
+        "citation": "Art. 2 Abs. 1 URG",
+        "content": "Werke sind, unabhängig von ihrem Wert oder Zweck, geistige Schöpfungen der Literatur und Kunst, die individuellen Charakter haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_2"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werkbegriff",
+        "citation": "Art. 2 Abs. 2 URG",
+        "content": "Dazu gehören insbesondere:\na. literarische, wissenschaftliche und andere Sprachwerke;\nb. Werke der Musik und andere akustische Werke;\nc. Werke der bildenden Kunst, insbesondere der Malerei, der Bildhauerei und der Graphik;\nd. Werke mit wissenschaftlichem oder technischem Inhalt wie Zeichnungen, Pläne, Karten oder plastische Darstellungen;\ne. Werke der Baukunst;\nf. Werke der angewandten Kunst;\ng. fotografische, filmische und andere visuelle oder audiovisuelle Werke;\nh. choreographische Werke und Pantomimen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_2"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werkbegriff",
+        "citation": "Art. 2 Abs. 3 URG",
+        "content": "Als Werke gelten auch Computerprogramme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_2"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werkbegriff",
+        "citation": "Art. 2 Abs. 3bis URG",
+        "content": "Fotografische Wiedergaben und mit einem der Fotografie ähnlichen Verfahren hergestellte Wiedergaben dreidimensionaler Objekte gelten als Werke, auch wenn sie keinen individuellen Charakter haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_2"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werkbegriff",
+        "citation": "Art. 2 Abs. 4 URG",
+        "content": "Ebenfalls geschützt sind Entwürfe, Titel und Teile von Werken, sofern es sich um geistige Schöpfungen mit individuellem Charakter handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_2"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werke zweiter Hand",
+        "citation": "Art. 3 Abs. 1 URG",
+        "content": "Geistige Schöpfungen mit individuellem Charakter, die unter Verwendung bestehender Werke so geschaffen werden, dass die verwendeten Werke in ihrem individuellen Charakter erkennbar bleiben, sind Werke zweiter Hand.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_3"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werke zweiter Hand",
+        "citation": "Art. 3 Abs. 2 URG",
+        "content": "Solche Werke sind insbesondere Übersetzungen sowie audiovisuelle und andere Bearbeitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_3"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werke zweiter Hand",
+        "citation": "Art. 3 Abs. 3 URG",
+        "content": "Werke zweiter Hand sind selbständig geschützt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_3"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Werke zweiter Hand",
+        "citation": "Art. 3 Abs. 4 URG",
+        "content": "Der Schutz der verwendeten Werke bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_3"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Sammelwerke",
+        "citation": "Art. 4 Abs. 1 URG",
+        "content": "Sammlungen sind selbständig geschützt, sofern es sich bezüglich Auswahl oder Anordnung um geistige Schöpfungen mit individuellem Charakter handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_4"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Sammelwerke",
+        "citation": "Art. 4 Abs. 2 URG",
+        "content": "Der Schutz von in das Sammelwerk aufgenommenen Werken bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_4"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Nicht geschützte Werke",
+        "citation": "Art. 5 Abs. 1 URG",
+        "content": "Durch das Urheberrecht nicht geschützt sind:\na. Gesetze, Verordnungen, völkerrechtliche Verträge und andere amtliche Erlasse;\nb. Zahlungsmittel;\nc. Entscheidungen, Protokolle und Berichte von Behörden und öffentlichen Verwaltungen;\nd. Patentschriften und veröffentlichte Patentgesuche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_5"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 1. Kapitel: Das Werk, Nicht geschützte Werke",
+        "citation": "Art. 5 Abs. 2 URG",
+        "content": "Ebenfalls nicht geschützt sind amtliche oder gesetzlich geforderte Sammlungen und Übersetzungen der Werke nach Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_5"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Begriff",
+        "citation": "Art. 6 URG",
+        "content": "Urheber oder Urheberin ist die natürliche Person, die das Werk geschaffen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_6"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Miturheberschaft",
+        "citation": "Art. 7 Abs. 1 URG",
+        "content": "Haben mehrere Personen als Urheber oder Urheberinnen an der Schaffung eines Werks mitgewirkt, so steht ihnen das Urheberrecht gemeinschaftlich zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_7"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Miturheberschaft",
+        "citation": "Art. 7 Abs. 2 URG",
+        "content": "Haben sie nichts anderes vereinbart, so können sie das Werk nur mit Zustimmung aller verwenden; die Zustimmung darf nicht wider Treu und Glauben verweigert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_7"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Miturheberschaft",
+        "citation": "Art. 7 Abs. 3 URG",
+        "content": "Jeder Miturheber und jede Miturheberin kann Rechtsverletzungen selbständig verfolgen, jedoch nur Leistung an alle fordern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_7"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Miturheberschaft",
+        "citation": "Art. 7 Abs. 4 URG",
+        "content": "Lassen sich die einzelnen Beiträge trennen und ist nichts anderes vereinbart, so darf jeder Miturheber und jede Miturheberin den eigenen Beitrag selbständig verwenden, wenn dadurch die Verwertung des gemeinsamen Werkes nicht beeinträchtigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_7"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Vermutung der Urheberschaft",
+        "citation": "Art. 8 Abs. 1 URG",
+        "content": "Solange nichts anderes nachgewiesen ist, gilt als Urheber oder als Urheberin, wer auf den Werkexemplaren oder bei der Veröffentlichung des Werks mit dem eigenen Namen, einem Pseudonym oder einem Kennzeichen genannt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_8"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 2. Kapitel: Urheber und Urheberin, Vermutung der Urheberschaft",
+        "citation": "Art. 8 Abs. 2 URG",
+        "content": "Solange die Urheberschaft ungenannt oder bei einem Pseudonym oder einem Kennzeichen unbekannt bleibt, kann diejenige Person das Urheberrecht ausüben, die das Werk herausgibt. Wird auch diese Person nicht genannt, so kann das Urheberrecht ausüben, wer das Werk veröffentlicht hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_8"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Anerkennung der Urheberschaft",
+        "citation": "Art. 9 Abs. 1 URG",
+        "content": "Der Urheber oder die Urheberin hat das ausschliessliche Recht am eigenen Werk und das Recht auf Anerkennung der Urheberschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_9"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Anerkennung der Urheberschaft",
+        "citation": "Art. 9 Abs. 2 URG",
+        "content": "Der Urheber oder die Urheberin hat das ausschliessliche Recht zu bestimmen, ob, wann, wie und unter welcher Urheberbezeichnung das eigene Werk erstmals veröffentlicht werden soll.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_9"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Anerkennung der Urheberschaft",
+        "citation": "Art. 9 Abs. 3 URG",
+        "content": "Ein Werk ist veröffentlicht, wenn der Urheber oder die Urheberin es selber erstmals ausserhalb eines privaten Kreises im Sinne von Artikel 19 Absatz 1 Buchstabe a einer grösseren Anzahl Personen zugänglich gemacht oder einer solchen Veröffentlichung zugestimmt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_9"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Verwendung des Werks",
+        "citation": "Art. 10 Abs. 1 URG",
+        "content": "Der Urheber oder die Urheberin hat das ausschliessliche Recht zu bestimmen, ob, wann und wie das Werk verwendet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_10"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Verwendung des Werks",
+        "citation": "Art. 10 Abs. 2 URG",
+        "content": "Der Urheber oder die Urheberin hat insbesondere das Recht:\na. Werkexemplare wie Druckerzeugnisse, Ton‐, Tonbild- oder Datenträger herzustellen;\nb. Werkexemplare anzubieten, zu veräussern oder sonst wie zu verbreiten;\nc. das Werk direkt oder mit irgendwelchen Mitteln vorzutragen, aufzuführen, vorzuführen, anderswo wahrnehmbar oder so zugänglich zu machen, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben;\nd. das Werk durch Radio, Fernsehen oder ähnliche Einrichtungen, auch über Leitungen, zu senden;\ne. gesendete Werke mit Hilfe von technischen Einrichtungen, deren Träger nicht das ursprüngliche Sendeunternehmen ist, insbesondere auch über Leitungen, weiterzusenden;\nf. zugänglich gemachte, gesendete und weitergesendete Werke wahrnehmbar zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_10"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Verwendung des Werks",
+        "citation": "Art. 10 Abs. 3 URG",
+        "content": "Der Urheber oder die Urheberin eines Computerprogrammes hat zudem das ausschliessliche Recht, dieses zu vermieten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_10"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Werkintegrität",
+        "citation": "Art. 11 Abs. 1 URG",
+        "content": "Der Urheber oder die Urheberin hat das ausschliessliche Recht zu bestimmen;\na. ob, wann und wie das Werk geändert werden darf;\nb. ob, wann und wie das Werk zur Schaffung eines Werks zweiter Hand verwendet oder in ein Sammelwerk aufgenommen werden darf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_11"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Werkintegrität",
+        "citation": "Art. 11 Abs. 2 URG",
+        "content": "Selbst wenn eine Drittperson vertraglich oder gesetzlich befugt ist, das Werk zu ändern oder es zur Schaffung eines Werkes zweiter Hand zu verwenden, kann sich der Urheber oder die Urheberin jeder Entstellung des Werks widersetzen, die ihn oder sie in der Persönlichkeit verletzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_11"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 1. Abschnitt: Verhältnis des Urhebers oder der Urheberin zum Werk, Werkintegrität",
+        "citation": "Art. 11 Abs. 3 URG",
+        "content": "Zulässig ist die Verwendung bestehender Werke zur Schaffung von Parodien oder mit ihnen vergleichbaren Abwandlungen des Werks.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_11"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Erschöpfungsgrundsatz",
+        "citation": "Art. 12 Abs. 1 URG",
+        "content": "Hat ein Urheber oder eine Urheberin ein Werkexemplar veräussert oder der Veräusserung zugestimmt, so darf dieses weiterveräussert oder sonst wie verbreitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_12"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Erschöpfungsgrundsatz",
+        "citation": "Art. 12 Abs. 1bis URG",
+        "content": "Exemplare von audiovisuellen Werken dürfen so lange nicht weiterveräussert oder vermietet werden, als der Urheber oder die Urheberin dadurch in der Ausübung des Aufführungsrechts (Art. 10 Abs. 2 Bst. c) beeinträchtigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_12"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Erschöpfungsgrundsatz",
+        "citation": "Art. 12 Abs. 2 URG",
+        "content": "Hat ein Urheber oder eine Urheberin ein Computerprogramm veräussert oder der Veräusserung zugestimmt, so darf dieses gebraucht oder weiterveräussert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_12"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Erschöpfungsgrundsatz",
+        "citation": "Art. 12 Abs. 3 URG",
+        "content": "Ausgeführte Werke der Baukunst dürfen vom Eigentümer oder von der Eigentümerin geändert werden; vorbehalten bleibt Artikel 11 Absatz 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_12"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Vermieten von Werkexemplaren",
+        "citation": "Art. 13 Abs. 1 URG",
+        "content": "Wer Werkexemplare der Literatur und Kunst vermietet oder sonst wie gegen Entgelt zur Verfügung stellt, schuldet dem Urheber oder der Urheberin hiefür eine Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Vermieten von Werkexemplaren",
+        "citation": "Art. 13 Abs. 2 URG",
+        "content": "Keine Vergütungspflicht besteht bei:\na. Werken der Baukunst;\nb. Werkexemplaren der angewandten Kunst;\nc. Werkexemplaren, die für eine vertraglich vereinbarte Nutzung von Urheberrechten vermietet oder ausgeliehen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Vermieten von Werkexemplaren",
+        "citation": "Art. 13 Abs. 3 URG",
+        "content": "Die Vergütungsansprüche können nur von zugelassenen Verwertungsgesellschaften (Art. 40 ff.) geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Vermieten von Werkexemplaren",
+        "citation": "Art. 13 Abs. 4 URG",
+        "content": "Dieser Artikel findet keine Anwendung auf Computerprogramme. Das ausschliessliche Recht nach Artikel 10 Absatz 3 bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zugänglichmachen von audiovisuellen Werken",
+        "citation": "Art. 13a Abs. 1 URG",
+        "content": "Wer ein audiovisuelles Werk erlaubterweise so zugänglich macht, dass Personen von Orten und Zeiten ihrer Wahl Zugang dazu haben, schuldet den Urhebern und Urheberinnen, die das audiovisuelle Werk geschaffen haben, hierfür eine Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zugänglichmachen von audiovisuellen Werken",
+        "citation": "Art. 13a Abs. 2 URG",
+        "content": "Keine Vergütung ist geschuldet, wenn:\na. der Urheber oder die Urheberin oder deren Erben das ausschliessliche Recht auf Zugänglichmachen persönlich verwerten; oder\nb. es sich bei dem audiovisuellen Werk um Folgendes handelt:\n1. Firmenportraits, Industriefilme, Werbe- oder Promotionsfilme, Computerspiele, Dienst- oder Auftragswerke von Sendeunternehmen oder andere journalistische Dienst- und Auftragswerke,\n2. Archivwerke von Sendeunternehmen (Art. 22a),\n3. verwaiste Werke (Art. 22b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zugänglichmachen von audiovisuellen Werken",
+        "citation": "Art. 13a Abs. 3 URG",
+        "content": "Der Vergütungsanspruch ist unübertragbar und unverzichtbar und steht nur den Urhebern und Urheberinnen zu; er tritt an die Stelle einer Vergütung für die vertraglich vereinbarte Verwendung des audiovisuellen Werks. Er kann nur von zugelassenen Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zugänglichmachen von audiovisuellen Werken",
+        "citation": "Art. 13a Abs. 4 URG",
+        "content": "Urhebern und Urheberinnen eines audiovisuellen Werks, das nicht von einer Person mit Wohnsitz oder Sitz in der Schweiz produziert wurde, steht ein Anspruch auf Vergütung nur zu, wenn das Land, in dem das audiovisuelle Werk produziert wurde, für dessen Zugänglichmachung ebenfalls einen kollektiv wahrzunehmenden Vergütungsanspruch für Urheber und Urheberinnen vorsieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zugänglichmachen von audiovisuellen Werken",
+        "citation": "Art. 13a Abs. 5 URG",
+        "content": "Dieser Artikel ist nicht anwendbar auf in audiovisuellen Werken enthaltene Musik. Die Urheber und Urheberinnen von Werken der Musik haben Anspruch auf einen angemessenen Anteil aus dem Erlös ihrer kollektiv verwerteten ausschliesslichen Rechte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_13_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zutritts- und Ausstellungsrecht des Urhebers oder der Urheberin",
+        "citation": "Art. 14 Abs. 1 URG",
+        "content": "Wer ein Werkexemplar zu Eigentum hat oder besitzt, muss es dem Urheber oder der Urheberin so weit zugänglich machen, als dies zur Ausübung des Urheberrechts erforderlich ist und kein berechtigtes eigenes Interesse entgegensteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_14"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zutritts- und Ausstellungsrecht des Urhebers oder der Urheberin",
+        "citation": "Art. 14 Abs. 2 URG",
+        "content": "Der Urheber oder die Urheberin kann die Überlassung eines Werkexemplars zur Ausstellung im Inland verlangen, sofern ein überwiegendes Interesse nachgewiesen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_14"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Zutritts- und Ausstellungsrecht des Urhebers oder der Urheberin",
+        "citation": "Art. 14 Abs. 3 URG",
+        "content": "Die Herausgabe kann von der Leistung einer Sicherheit für die unversehrte Rückgabe des Werkexemplars abhängig gemacht werden. Kann das Werkexemplar nicht unversehrt zurückgegeben werden, so haftet der Urheber oder die Urheberin auch ohne Verschulden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_14"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Schutz vor Zerstörung",
+        "citation": "Art. 15 Abs. 1 URG",
+        "content": "Müssen Eigentümer und Eigentümerinnen von Originalwerken, zu denen keine weiteren Werkexemplare bestehen, ein berechtigtes Interesse des Urhebers oder der Urheberin an der Werkerhaltung annehmen, so dürfen sie solche Werke nicht zerstören, ohne dem Urheber oder der Urheberin vorher die Rücknahme anzubieten. Sie dürfen dafür nicht mehr als den Materialwert verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_15"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Schutz vor Zerstörung",
+        "citation": "Art. 15 Abs. 2 URG",
+        "content": "Sie müssen dem Urheber oder der Urheberin die Nachbildung des Originalexemplars in angemessener Weise ermöglichen, wenn die Rücknahme nicht möglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_15"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 3. Kapitel: Inhalt des Urheberrechts, 2. Abschnitt:, Verhältnis der Urheberschaft zum Eigentum am Werkexemplar, Schutz vor Zerstörung",
+        "citation": "Art. 15 Abs. 3 URG",
+        "content": "Bei Werken der Baukunst hat der Urheber oder die Urheberin nur das Recht, das Werk zu fotografieren und auf eigene Kosten Kopien der Pläne herauszuverlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_15"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 4. Kapitel: Rechtsübergang; Zwangsvollstreckung, Rechtsübergang",
+        "citation": "Art. 16 Abs. 1 URG",
+        "content": "Das Urheberrecht ist übertragbar und vererblich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_16"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 4. Kapitel: Rechtsübergang; Zwangsvollstreckung, Rechtsübergang",
+        "citation": "Art. 16 Abs. 2 URG",
+        "content": "Die Übertragung eines im Urheberrecht enthaltenen Rechtes schliesst die Übertragung anderer Teilrechte nur mit ein, wenn dies vereinbart ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_16"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 4. Kapitel: Rechtsübergang; Zwangsvollstreckung, Rechtsübergang",
+        "citation": "Art. 16 Abs. 3 URG",
+        "content": "Die Übertragung des Eigentums am Werkexemplar schliesst urheberrechtliche Verwendungsbefugnisse selbst dann nicht ein, wenn es sich um das Originalwerk handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_16"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 4. Kapitel: Rechtsübergang; Zwangsvollstreckung, Rechte an Programmen",
+        "citation": "Art. 17 URG",
+        "content": "Wird in einem Arbeitsverhältnis bei Ausübung dienstlicher Tätigkeiten sowie in Erfüllung vertraglicher Pflichten ein Computerprogramm geschaffen, so ist der Arbeitgeber oder die Arbeitgeberin allein zur Ausübung der ausschliesslichen Verwendungsbefugnisse berechtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_17"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 4. Kapitel: Rechtsübergang; Zwangsvollstreckung, Zwangsvollstreckung",
+        "citation": "Art. 18 URG",
+        "content": "Der Zwangsvollstreckung unterliegen die in Artikel 10 Absätze 2 und 3 sowie in Artikel 11 genannten Rechte, soweit der Urheber oder die Urheberin sie bereits ausgeübt hat und das Werk mit der Zustimmung des Urhebers oder der Urheberin bereits veröffentlicht worden ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_18"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung zum Eigengebrauch",
+        "citation": "Art. 19 Abs. 1 URG",
+        "content": "Veröffentlichte Werke dürfen zum Eigengebrauch verwendet werden. Als Eigengebrauch gilt:\na. jede Werkverwendung im persönlichen Bereich und im Kreis von Personen, die unter sich eng verbunden sind, wie Verwandte oder Freunde;\nb. jede Werkverwendung der Lehrperson für den Unterricht in der Klasse;\nc. das Vervielfältigen von Werkexemplaren in Betrieben, öffentlichen Verwaltungen, Instituten, Kommissionen und ähnlichen Einrichtungen für die interne Information oder Dokumentation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_19"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung zum Eigengebrauch",
+        "citation": "Art. 19 Abs. 2 URG",
+        "content": "Wer zum Eigengebrauch berechtigt ist, darf unter Vorbehalt von Absatz 3 die dazu erforderlichen Vervielfältigungen auch durch Dritte herstellen lassen; als Dritte im Sinne dieses Absatzes gelten auch Bibliotheken, andere öffentliche Institutionen und Geschäftsbetriebe, die ihren Benützern und Benützerinnen Kopiergeräte zur Verfügung stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_19"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung zum Eigengebrauch",
+        "citation": "Art. 19 Abs. 3 URG",
+        "content": "Ausserhalb des privaten Kreises nach Absatz 1 Buchstabe a sind nicht zulässig:\na. die vollständige oder weitgehend vollständige Vervielfältigung im Handel erhältlicher Werkexemplare;\nb. die Vervielfältigung von Werken der bildenden Kunst;\nc. die Vervielfältigung von graphischen Aufzeichnungen von Werken der Musik;\nd. die Aufnahme von Vorträgen, Aufführungen oder Vorführungen eines Werkes auf Ton‐, Tonbild- oder Datenträger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_19"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung zum Eigengebrauch",
+        "citation": "Art. 19 Abs. 3bis URG",
+        "content": "Vervielfältigungen, die beim Abrufen von erlaubterweise zugänglich gemachten Werken hergestellt werden, sind von den in diesem Artikel enthaltenen Einschränkungen des Eigengebrauchs sowie von den Vergütungsansprüchen nach Artikel 20 ausgenommen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_19"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung zum Eigengebrauch",
+        "citation": "Art. 19 Abs. 4 URG",
+        "content": "Dieser Artikel findet keine Anwendung auf Computerprogramme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_19"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vergütung für den Eigengebrauch",
+        "citation": "Art. 20 Abs. 1 URG",
+        "content": "Die Werkverwendung im privaten Kreis gemäss Artikel 19 Absatz 1 Buchstabe a ist unter Vorbehalt von Absatz 3 vergütungsfrei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_20"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vergütung für den Eigengebrauch",
+        "citation": "Art. 20 Abs. 2 URG",
+        "content": "Wer zum Eigengebrauch nach Artikel 19 Absatz 1 Buchstabe b oder Buchstabe c oder wer als Drittperson nach Artikel 19 Absatz 2 Werke auf irgendwelche Art vervielfältigt, schuldet dem Urheber oder der Urheberin hiefür eine Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_20"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vergütung für den Eigengebrauch",
+        "citation": "Art. 20 Abs. 3 URG",
+        "content": "Wer Leerkassetten und andere zur Aufnahme von Werken geeignete Ton- und Tonbildträger herstellt oder importiert, schuldet dem Urheber oder der Urheberin für die Werkverwendungen nach Artikel 19 eine Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_20"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vergütung für den Eigengebrauch",
+        "citation": "Art. 20 Abs. 4 URG",
+        "content": "Die Vergütungsansprüche können nur von zugelassenen Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_20"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Entschlüsselung von Computerprogrammen",
+        "citation": "Art. 21 Abs. 1 URG",
+        "content": "Wer das Recht hat, ein Computerprogramm zu gebrauchen, darf sich die erforderlichen Informationen über Schnittstellen zu unabhängig entwickelten Programmen durch Entschlüsselung des Programmcodes beschaffen oder durch Drittpersonen beschaffen lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_21"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Entschlüsselung von Computerprogrammen",
+        "citation": "Art. 21 Abs. 2 URG",
+        "content": "Die durch Entschlüsselung des Programmcodes gewonnenen Schnittstelleninformationen dürfen nur zur Entwicklung, Wartung sowie zum Gebrauch von interoperablen Computerprogrammen verwendet werden, soweit dadurch weder die normale Auswertung des Programms noch die rechtmässigen Interessen der Rechtsinhaber und -inhaberinnen unzumutbar beeinträchtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_21"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verbreitung gesendeter Werke",
+        "citation": "Art. 22 Abs. 1 URG",
+        "content": "Die Rechte, gesendete Werke zeitgleich und unverändert wahrnehmbar zu machen oder im Rahmen der Weiterleitung eines Sendeprogrammes weiterzusenden, können nur über zugelassene Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verbreitung gesendeter Werke",
+        "citation": "Art. 22 Abs. 2 URG",
+        "content": "Die Weitersendung von Werken über technische Einrichtungen, die von vorneherein auf eine kleine Empfängerzahl beschränkt sind, wie Anlagen eines Mehrfamilienhauses oder einer geschlossenen Überbauung, ist erlaubt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verbreitung gesendeter Werke",
+        "citation": "Art. 22 Abs. 3 URG",
+        "content": "Dieser Artikel ist nicht anwendbar auf die Weiterleitung von Programmen des Abonnementsfernsehens und von Programmen, die nirgends in der Schweiz empfangbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Nutzung von Archivwerken der Sendeunternehmen",
+        "citation": "Art. 22a Abs. 1 URG",
+        "content": "Die folgenden Rechte an Archivwerken von Sendeunternehmen nach dem Bundesgesetz vom 24. März 2006 über Radio und Fernsehen können unter Vorbehalt von Absatz 3 nur über zugelassene Verwertungsgesellschaften geltend gemacht werden:\na. das Recht, das Archivwerk unverändert ganz oder als Ausschnitt zu senden;\nb. das Recht, das Archivwerk unverändert ganz oder als Ausschnitt so zugänglich zu machen, dass Personen an Orten oder zu Zeiten ihrer Wahl dazu Zugang haben;\nc. die für die Nutzung nach den Buchstaben a und b notwendigen Vervielfältigungsrechte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Nutzung von Archivwerken der Sendeunternehmen",
+        "citation": "Art. 22a Abs. 2 URG",
+        "content": "Als Archivwerk eines Sendeunternehmens gilt ein auf Ton- oder Tonbildträger festgelegtes Werk, das vom Sendeunternehmen selbst, unter eigener redaktioneller Verantwortung und mit eigenen Mitteln oder aber in dessen alleinigem Auftrag und auf dessen Kosten von Dritten hergestellt wurde und dessen erste Sendung mindestens zehn Jahre zurückliegt. Sind in ein Archivwerk andere Werke oder Werkteile integriert, so gilt Absatz 1 auch für die Geltendmachung der Rechte an diesen Werken oder Werkteilen, sofern diese nicht in erheblichem Mass die Eigenart des Archivwerks bestimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Nutzung von Archivwerken der Sendeunternehmen",
+        "citation": "Art. 22a Abs. 3 URG",
+        "content": "Wurde über die Rechte nach Absatz 1 und deren Abgeltung vor der ersten Sendung oder innerhalb von zehn Jahren nach dieser eine vertragliche Vereinbarung geschlossen, so gelten ausschliesslich deren Bestimmungen. Auf die Rechte der Sendeunternehmen nach Artikel 37 findet Absatz 1 keine Anwendung. Die Sendeunternehmen und die Drittberechtigten sind gegenüber der Verwertungsgesellschaft auf Verlangen zur Auskunft über die vertraglichen Vereinbarungen verpflichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 1 URG",
+        "content": "Ein Werk gilt als verwaist, wenn die Inhaber und Inhaberinnen der Rechte an dem Werk nach einer mit verhältnismässigem Aufwand durchgeführten Recherche unbekannt oder unauffindbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 2 URG",
+        "content": "Die Rechte nach Artikel 10 am verwaisten Werk können nur über zugelassene Verwertungsgesellschaften geltend gemacht werden, wenn das Werk auf der Grundlage eines Werkexemplars verwendet wird, das:\na. sich in Beständen öffentlicher oder öffentlich zugänglicher Bibliotheken, Bildungseinrichtungen, Museen, Sammlungen und Archive oder in Beständen von Archiven der Sendeunternehmen befindet; und\nb. in der Schweiz hergestellt, vervielfältigt, zugänglich gemacht oder einer Institution im Sinne von Buchstabe a übergeben wurde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 3 URG",
+        "content": "Verwaiste Werke gelten als veröffentlicht. Sind in einem verwaisten Werk andere Werke oder Werkteile integriert, so gilt Absatz 2 auch für die Geltendmachung der Rechte an diesen Werken oder Werkteilen, sofern diese nicht in erheblichem Mass die Eigenart des Exemplars bestimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 4 URG",
+        "content": "Für die Verwendung des Werks haben die Rechtsinhaber und -inhaberinnen Anspruch auf Vergütung. Diese darf die im Verteilungsreglement der entsprechenden Verwertungsgesellschaft für die Verwendung des Werks vorgesehene Vergütung nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 5 URG",
+        "content": "Für die Verwendung einer grösseren Anzahl von Werken auf der Grundlage von Werkexemplaren aus Beständen nach Absatz 2 Buchstabe a findet Artikel 43a Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von verwaisten Werken",
+        "citation": "Art. 22b Abs. 6 URG",
+        "content": "Melden sich innert 10 Jahren keine Rechtsinhaber und -inhaberinnen, so wird der Erlös aus der Verwertung in Abweichung von Artikel 48 Absatz 2 gesamthaft zum Zweck der Sozialvorsorge und der angemessenen Kulturförderung verwendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zugänglichmachen gesendeter musikalischer Werke",
+        "citation": "Art. 22c Abs. 1 URG",
+        "content": "Das Recht, in Radio- und Fernsehsendungen enthaltene nichttheatralische Werke der Musik in Verbindung mit ihrer Sendung zugänglich zu machen, kann nur über zugelassene Verwertungsgesellschaften geltend gemacht werden, wenn:\na. die Sendung überwiegend vom Sendeunternehmen selber oder in seinem Auftrag hergestellt wurde;\nb. die Sendung einem nichtmusikalischen Thema gewidmet war, das gegenüber der Musik im Vordergrund stand und vor der Sendung in der üblichen Art angekündigt wurde; und\nc. durch das Zugänglichmachen der Absatz von Musik auf Tonträgern oder durch Online-Angebote Dritter nicht beeinträchtigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zugänglichmachen gesendeter musikalischer Werke",
+        "citation": "Art. 22c Abs. 2 URG",
+        "content": "Unter den Voraussetzungen nach Absatz 1 kann auch das Recht auf Vervielfältigung zum Zwecke des Zugänglichmachens nur von zugelassenen Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_22_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zwangslizenz zur Herstellung von Tonträgern",
+        "citation": "Art. 23 Abs. 1 URG",
+        "content": "Ist ein Werk der Musik mit oder ohne Text im In- oder Ausland auf Tonträger aufgenommen und in dieser Form mit der Zustimmung des Urhebers oder Urheberin angeboten, veräussert oder sonst wie verbreitet worden, so können alle Hersteller und Herstellerinnen von Tonträgern mit einer gewerblichen Niederlassung im Inland vom Inhaber oder von der Inhaberin des Urheberrechts gegen Entgelt die gleiche Erlaubnis für die Schweiz ebenfalls beanspruchen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_23"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zwangslizenz zur Herstellung von Tonträgern",
+        "citation": "Art. 23 Abs. 2 URG",
+        "content": "Der Bundesrat kann die Bedingung der gewerblichen Niederlassung im Inland gegenüber den Angehörigen von Ländern, die Gegenrecht gewähren, ausser Kraft setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_23"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Archivierungs- und Sicherungsexemplare",
+        "citation": "Art. 24 Abs. 1 URG",
+        "content": "Um die Erhaltung des Werks sicherzustellen, darf davon eine Kopie angefertigt werden. Ein Exemplar muss in einem der Allgemeinheit nicht zugänglichen Archiv aufbewahrt und als Archivexemplar gekennzeichnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Archivierungs- und Sicherungsexemplare",
+        "citation": "Art. 24 Abs. 1bis URG",
+        "content": "Öffentliche sowie öffentlich zugängliche Bibliotheken, Bildungseinrichtungen, Museen, Sammlungen und Archive dürfen die zur Sicherung und Erhaltung ihrer Bestände notwendigen Werkexemplare herstellen, sofern mit diesen Vervielfältigungen kein wirtschaftlicher oder kommerzieller Zweck verfolgt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Archivierungs- und Sicherungsexemplare",
+        "citation": "Art. 24 Abs. 2 URG",
+        "content": "Wer das Recht hat, ein Computerprogramm zu gebrauchen, darf davon eine Sicherungskopie herstellen; diese Befugnis kann nicht vertraglich wegbedungen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vorübergehende Vervielfältigungen",
+        "citation": "Art. 24a URG",
+        "content": "Die vorübergehende Vervielfältigung eines Werks ist zulässig, wenn sie:\na. flüchtig oder begleitend ist;\nb. einen integralen und wesentlichen Teil eines technischen Verfahrens darstellt;\nc. ausschliesslich der Übertragung in einem Netz zwischen Dritten durch einen Vermittler oder einer rechtmässigen Nutzung dient; und\nd. keine eigenständige wirtschaftliche Bedeutung hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vervielfältigungen zu Sendezwecken",
+        "citation": "Art. 24b Abs. 1 URG",
+        "content": "Gegenüber den Sendeunternehmen, die dem Bundesgesetz vom 24. März 2006 über Radio und Fernsehen unterstehen, kann das Vervielfältigungsrecht an nichttheatralischen Werken der Musik bei der Verwendung von im Handel erhältlichen Ton- und Tonbildträgern zum Zweck der Sendung nur über eine zugelassene Verwertungsgesellschaft geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Vervielfältigungen zu Sendezwecken",
+        "citation": "Art. 24b Abs. 2 URG",
+        "content": "Nach Absatz 1 hergestellte Vervielfältigungen dürfen weder veräussert noch sonst wie verbreitet werden; sie müssen vom Sendeunternehmen mit eigenen Mitteln hergestellt werden. Sie sind wieder zu löschen, wenn sie ihren Zweck erfüllt haben. Artikel 11 bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken durch Menschen mit Behinderungen",
+        "citation": "Art. 24c Abs. 1 URG",
+        "content": "Ein Werk darf in einer für Menschen mit Behinderungen zugänglichen Form vervielfältigt, verbreitet und zugänglich gemacht werden, soweit diese das Werk in seiner bereits veröffentlichten Form nicht oder nur unter erschwerenden Bedingungen wahrnehmen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken durch Menschen mit Behinderungen",
+        "citation": "Art. 24c Abs. 2 URG",
+        "content": "Vervielfältigungen nach Absatz 1 dürfen nur für den Gebrauch durch Menschen mit Behinderungen und ohne Gewinnzweck hergestellt, verbreitet und zugänglich gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken durch Menschen mit Behinderungen",
+        "citation": "Art. 24c Abs. 3 URG",
+        "content": "Vervielfältigungen nach Absatz 1 und Vervielfältigungen, die gemäss einer entsprechenden gesetzlichen Schranke eines anderen Landes hergestellt wurden, dürfen ein- und ausgeführt werden, wenn sie:\na. ausschliesslich von Menschen mit Behinderungen verwendet werden; und\nb. von einer nicht gewinnorientierten Organisation erlangt wurden, die als eine ihrer Haupttätigkeiten Menschen mit Behinderungen Dienstleistungen in den Bereichen der Bildung, der pädagogischen Ausbildung, des angepassten Lesens oder des Zugangs zu Informationen bereitstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken durch Menschen mit Behinderungen",
+        "citation": "Art. 24c Abs. 4 URG",
+        "content": "Für die Vervielfältigung, die Verbreitung und das Zugänglichmachen eines Werks in einer für Menschen mit Behinderungen zugänglichen Form hat der Urheber oder die Urheberin Anspruch auf Vergütung, sofern es sich nicht nur um die Herstellung einzelner Werkexemplare handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken durch Menschen mit Behinderungen",
+        "citation": "Art. 24c Abs. 5 URG",
+        "content": "Der Vergütungsanspruch kann nur von einer zugelassenen Verwertungsgesellschaft geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken zum Zweck der wissenschaftlichen Forschung",
+        "citation": "Art. 24d Abs. 1 URG",
+        "content": "Zum Zweck der wissenschaftlichen Forschung ist es zulässig, ein Werk zu vervielfältigen, wenn die Vervielfältigung durch die Anwendung eines technischen Verfahrens bedingt ist und zu den zu vervielfältigenden Werken ein rechtmässiger Zugang besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken zum Zweck der wissenschaftlichen Forschung",
+        "citation": "Art. 24d Abs. 2 URG",
+        "content": "Die im Rahmen dieses Artikels angefertigten Vervielfältigungen dürfen nach Abschluss der wissenschaftlichen Forschung zu Archivierungs- und Sicherungszwecken aufbewahrt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Verwendung von Werken zum Zweck der wissenschaftlichen Forschung",
+        "citation": "Art. 24d Abs. 3 URG",
+        "content": "Dieser Artikel gilt nicht für die Vervielfältigung von Computerprogrammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Bestandesverzeichnisse",
+        "citation": "Art. 24e Abs. 1 URG",
+        "content": "Öffentliche sowie öffentlich zugängliche Bibliotheken, Bildungseinrichtungen, Museen, Sammlungen und Archive dürfen in den Verzeichnissen, die der Erschliessung und Vermittlung ihrer Bestände dienen, kurze Auszüge aus den sich in ihren Beständen befindlichen Werken oder Werkexemplaren wiedergeben, sofern dadurch die normale Verwertung der Werke nicht beeinträchtigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_e"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Bestandesverzeichnisse",
+        "citation": "Art. 24e Abs. 2 URG",
+        "content": "Als kurzer Auszug gelten insbesondere folgende Werkteile:\na. bei literarischen, wissenschaftlichen und anderen Sprachwerken:\n1. Cover als kleinformatiges Bild mit geringer Auflösung,\n2. Titel,\n3. Frontispiz,\n4. Inhalts- und Literaturverzeichnis,\n5. Umschlagseiten,\n6. Zusammenfassungen wissenschaftlicher Werke;\nb. bei Werken der Musik und anderen akustischen Werken sowie bei filmischen und anderen audiovisuellen Werken:\n1. Cover als kleinformatiges Bild mit geringer Auflösung,\n2. ein von den Rechtsinhabern und -inhaberinnen öffentlich zugänglich gemachter Ausschnitt,\n3. ein kurzer Ausschnitt in reduzierter Auflösung oder reduziertem Format;\nc. bei Werken der bildenden Kunst, insbesondere der Malerei, der Bildhauerei und der Grafik, sowie bei fotografischen und anderen visuellen Werken: die Gesamtansicht der Werke als kleinformatiges Bild mit geringer Auflösung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_24_e"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zitate",
+        "citation": "Art. 25 Abs. 1 URG",
+        "content": "Veröffentlichte Werke dürfen zitiert werden, wenn das Zitat zur Erläuterung, als Hinweis oder zur Veranschaulichung dient und der Umfang des Zitats durch diesen Zweck gerechtfertigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_25"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Zitate",
+        "citation": "Art. 25 Abs. 2 URG",
+        "content": "Das Zitat als solches und die Quelle müssen bezeichnet werden. Wird in der Quelle auf die Urheberschaft hingewiesen, so ist diese ebenfalls anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_25"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Museums‐, Messe- und Auktionskataloge",
+        "citation": "Art. 26 URG",
+        "content": "Ein Werk, das sich in einer öffentlich zugänglichen Sammlung befindet, darf in einem von der Verwaltung der Sammlung herausgegebenen Katalog abgebildet werden; die gleiche Regelung gilt für die Herausgabe von Messe- und Auktionskatalogen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_26"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Werke auf allgemein zugänglichem Grund",
+        "citation": "Art. 27 Abs. 1 URG",
+        "content": "Ein Werk, das sich bleibend an oder auf allgemein zugänglichem Grund befindet, darf abgebildet werden; die Abbildung darf angeboten, veräussert, gesendet oder sonst wie verbreitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_27"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Werke auf allgemein zugänglichem Grund",
+        "citation": "Art. 27 Abs. 2 URG",
+        "content": "Die Abbildung darf nicht dreidimensional und auch nicht zum gleichen Zweck wie das Original verwendbar sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_27"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Berichterstattung über aktuelle Ereignisse",
+        "citation": "Art. 28 Abs. 1 URG",
+        "content": "Soweit es für die Berichterstattung über aktuelle Ereignisse erforderlich ist, dürfen die dabei wahrgenommenen Werke aufgezeichnet, vervielfältigt, vorgeführt, gesendet, verbreitet oder sonst wie wahrnehmbar gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_28"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 5. Kapitel: Schranken des Urheberrechts, Berichterstattung über aktuelle Ereignisse",
+        "citation": "Art. 28 Abs. 2 URG",
+        "content": "Zum Zweck der Information über aktuelle Fragen dürfen kurze Ausschnitte aus Presseartikeln sowie aus Radio- und Fernsehberichten vervielfältigt, verbreitet und gesendet oder weitergesendet werden; der Ausschnitt und die Quelle müssen bezeichnet werden. Wird in der Quelle auf die Urheberschaft hingewiesen, so ist diese ebenfalls anzugeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_28"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Im Allgemeinen",
+        "citation": "Art. 29 Abs. 1 URG",
+        "content": "Ein Werk ist urheberrechtlich geschützt, sobald es geschaffen ist, unabhängig davon, ob es auf einem Träger festgehalten ist oder nicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_29"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Im Allgemeinen",
+        "citation": "Art. 29 Abs. 2 URG",
+        "content": "Der Schutz erlischt:\na. 50 Jahre nach dem Tod des Urhebers oder der Urheberin für Computerprogramme;\nabis. 50 Jahre nach der Herstellung für fotografische Wiedergaben und mit einem der Fotografie ähnlichen Verfahren hergestellte Wiedergaben dreidimensionaler Objekte, wenn die Wiedergaben keinen individuellen Charakter haben;\nb. 70 Jahre nach dem Tod des Urhebers oder der Urheberin für alle anderen Werke.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_29"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Im Allgemeinen",
+        "citation": "Art. 29 Abs. 3 URG",
+        "content": "Muss angenommen werden, der Urheber oder die Urheberin sei seit mehr als 50 beziehungsweise 70 Jahren tot, so besteht kein Schutz mehr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_29"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Im Allgemeinen",
+        "citation": "Art. 29 Abs. 4 URG",
+        "content": "Auf fotografische Wiedergaben und mit einem der Fotografie ähnlichen Verfahren hergestellte Wiedergaben dreidimensionaler Objekte sind die Artikel 30 und 31 nicht anwendbar, wenn die Wiedergaben keinen individuellen Charakter haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_29"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Miturheberschaft",
+        "citation": "Art. 30 Abs. 1 URG",
+        "content": "Haben mehrere Personen an der Schaffung eines Werks mitgewirkt (Art. 7), so erlischt der Schutz:\na. 50 Jahre nach dem Tod der zuletzt verstorbenen Person für Computerprogramme;\nb. 70 Jahre nach dem Tod der zuletzt verstorbenen Person für alle anderen Werke.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_30"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Miturheberschaft",
+        "citation": "Art. 30 Abs. 2 URG",
+        "content": "Lassen sich die einzelnen Beiträge trennen, so erlischt der Schutz der selbständig verwendbaren Beiträge 50 beziehungsweise 70 Jahre nach dem Tod des jeweiligen Urhebers oder der jeweiligen Urheberin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_30"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Miturheberschaft",
+        "citation": "Art. 30 Abs. 3 URG",
+        "content": "Bei Filmen und anderen audiovisuellen Werken fällt für die Berechnung der Schutzdauer nur der Regisseur oder die Regisseurin in Betracht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_30"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Unbekannte Urheberschaft",
+        "citation": "Art. 31 Abs. 1 URG",
+        "content": "Ist der Urheber oder die Urheberin eines Werks unbekannt, so erlischt dessen Schutz 70 Jahre nach der Veröffentlichung oder, wenn das Werk in Lieferungen veröffentlicht wurde, 70 Jahre nach der letzten Lieferung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_31"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Unbekannte Urheberschaft",
+        "citation": "Art. 31 Abs. 2 URG",
+        "content": "Wird vor Ablauf dieser Schutzfrist allgemein bekannt, welche Person das Werk geschaffen hat, so erlischt der Schutz:\na. 50 Jahre nach ihrem Tod für Computerprogramme;\nb. 70 Jahre nach ihrem Tod für alle anderen Werke.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_31"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 2. Titel: Urheberrecht, 6. Kapitel: Schutzdauer, Berechnung",
+        "citation": "Art. 32 URG",
+        "content": "Die Schutzdauer wird vom 31. Dezember desjenigen Jahres an berechnet, in dem das für die Berechnung massgebende Ereignis eingetreten ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_32"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Rechte der ausübenden Künstler und Künstlerinnen",
+        "citation": "Art. 33 Abs. 1 URG",
+        "content": "Ausübende Künstler und Künstlerinnen sind natürliche Personen, die ein Werk oder eine Ausdrucksform der Volkskunst darbieten oder an einer solchen Darbietung künstlerisch mitwirken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_33"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Rechte der ausübenden Künstler und Künstlerinnen",
+        "citation": "Art. 33 Abs. 2 URG",
+        "content": "Die ausübenden Künstler und Künstlerinnen haben das ausschliessliche Recht, ihre Darbietung oder deren Festlegung:\na. direkt oder mit irgendwelchen Mitteln anderswo wahrnehmbar oder so zugänglich zu machen, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben;\nb. durch Radio, Fernsehen oder ähnliche Verfahren, auch über Leitungen, zu senden, sowie die gesendete Darbietung mit Hilfe von technischen Einrichtungen, deren Träger nicht das ursprüngliche Sendeunternehmen ist, weiterzusenden;\nc. auf Ton‐, Tonbild- oder Datenträger aufzunehmen und solche Aufnahmen zu vervielfältigen;\nd. als Vervielfältigungsexemplare anzubieten, zu veräussern oder sonst wie zu verbreiten;\ne. wahrnehmbar zu machen, wenn sie gesendet, weitergesendet oder zugänglich gemacht wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_33"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Persönlichkeitsrechte der ausübenden Künstler und Künstlerinnen",
+        "citation": "Art. 33a Abs. 1 URG",
+        "content": "Die ausübenden Künstler und Künstlerinnen haben das Recht auf Anerkennung der Interpreteneigenschaft an ihren Darbietungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_33_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Persönlichkeitsrechte der ausübenden Künstler und Künstlerinnen",
+        "citation": "Art. 33a Abs. 2 URG",
+        "content": "Der Schutz der ausübenden Künstler und Künstlerinnen vor Beeinträchtigungen ihrer Darbietungen richtet sich nach den Artikeln 28–28l des Zivilgesetzbuches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_33_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Mehrere ausübende Künstler und Künstlerinnen",
+        "citation": "Art. 34 Abs. 1 URG",
+        "content": "Haben mehrere Personen an einer Darbietung künstlerisch mitgewirkt, so stehen ihnen die verwandten Schutzrechte nach den Regeln von Artikel 7 gemeinschaftlich zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_34"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Mehrere ausübende Künstler und Künstlerinnen",
+        "citation": "Art. 34 Abs. 2 URG",
+        "content": "Treten ausübende Künstler und Künstlerinnen als Gruppe unter einem gemeinsamen Namen auf, so ist die von der Künstlergruppe bezeichnete Vertretung befugt, die Rechte der Mitglieder geltend zu machen. Solange die Gruppe keine Vertretung bezeichnet hat, ist zur Geltendmachung der Rechte befugt, wer die Darbietung veranstaltet, sie auf Ton-, Tonbild- oder Datenträger aufgenommen oder sie gesendet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_34"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Mehrere ausübende Künstler und Künstlerinnen",
+        "citation": "Art. 34 Abs. 3 URG",
+        "content": "Bei einer Chor-, Orchester- oder Bühnenaufführung ist für eine Verwendung der Darbietung nach Artikel 33 die Zustimmung folgender Personen erforderlich:\na. der Solisten und Solistinnen;\nb. des Dirigenten oder der Dirigentin;\nc. des Regisseurs oder der Regisseurin;\nd. der Vertretung der Künstlergruppe nach Absatz 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_34"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Mehrere ausübende Künstler und Künstlerinnen",
+        "citation": "Art. 34 Abs. 4 URG",
+        "content": "Wer das Recht hat, eine Darbietung auf Tonbildträgern zu verwerten, gilt als befugt, Dritten zu erlauben, die aufgenommene Darbietung so zugänglich zu machen, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_34"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Mehrere ausübende Künstler und Künstlerinnen",
+        "citation": "Art. 34 Abs. 5 URG",
+        "content": "Fehlen entsprechende statutarische oder vertragliche Bestimmungen, so finden auf das Verhältnis zwischen den nach den Absätzen 2 und 4 befugten Personen und den von ihnen vertretenen Künstlern und Künstlerinnen die Regeln über die Geschäftsführung ohne Auftrag Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_34"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Vergütungsanspruch für die Verwendung von Ton- und Tonbildträgern",
+        "citation": "Art. 35 Abs. 1 URG",
+        "content": "Werden im Handel erhältliche Ton- oder Tonbildträger zum Zweck der Sendung, der Weitersendung, des öffentlichen Empfangs (Art. 33 Abs. 2 Bst. e) oder der Aufführung verwendet, so haben ausübende Künstler und Künstlerinnen Anspruch auf Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Vergütungsanspruch für die Verwendung von Ton- und Tonbildträgern",
+        "citation": "Art. 35 Abs. 2 URG",
+        "content": "Der Hersteller oder die Herstellerin des benutzten Trägers ist an der Vergütung für die ausübenden Künstler und Künstlerinnen angemessen zu beteiligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Vergütungsanspruch für die Verwendung von Ton- und Tonbildträgern",
+        "citation": "Art. 35 Abs. 3 URG",
+        "content": "Die Vergütungsansprüche können nur von zugelassenen Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Vergütungsanspruch für die Verwendung von Ton- und Tonbildträgern",
+        "citation": "Art. 35 Abs. 4 URG",
+        "content": "Ausländischen ausübenden Künstlern und Künstlerinnen, die ihren gewöhnlichen Aufenthalt nicht in der Schweiz haben, steht ein Anspruch auf Vergütung nur zu, wenn der Staat, dem sie angehören, den schweizerischen Staatsangehörigen ein entsprechendes Recht gewährt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Zugänglichmachen von Darbietungen in audiovisuellen Werken",
+        "citation": "Art. 35a Abs. 1 URG",
+        "content": "Wer ein audiovisuelles Werk erlaubterweise so zugänglich macht, dass Personen von Orten und Zeiten ihrer Wahl Zugang dazu haben, schuldet den ausübenden Künstlern und Künstlerinnen, die an einer darin enthaltenen Darbietung mitgewirkt haben, hierfür eine Vergütung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Zugänglichmachen von Darbietungen in audiovisuellen Werken",
+        "citation": "Art. 35a Abs. 2 URG",
+        "content": "Keine Vergütung ist geschuldet, wenn:\na. die ausübenden Künstler und Künstlerinnen oder deren Erben das ausschliessliche Recht persönlich verwerten; oder\nb. es sich bei dem audiovisuellen Werk um Folgendes handelt:\n1. Firmenportraits, Industriefilme, Werbe- oder Promotionsfilme, Computerspiele, Musikvideos, Konzertaufnahmen, Dienst- oder Auftragswerke von Sendeunternehmen oder andere journalistische Dienst- und Auftragswerke,\n2. Archivwerke von Sendeunternehmen (Art. 22a),\n3. verwaiste Werke (Art. 22b).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Zugänglichmachen von Darbietungen in audiovisuellen Werken",
+        "citation": "Art. 35a Abs. 3 URG",
+        "content": "Der Vergütungsanspruch ist unübertragbar und unverzichtbar und steht nur den ausübenden Künstlern und Künstlerinnen zu; er tritt an die Stelle einer Vergütung für die vertraglich vereinbarte Verwendung der Darbietung. Er kann nur von zugelassenen Verwertungsgesellschaften geltend gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Zugänglichmachen von Darbietungen in audiovisuellen Werken",
+        "citation": "Art. 35a Abs. 4 URG",
+        "content": "Ausübenden Künstlern und Künstlerinnen steht für ihre Darbietungen in einem audiovisuellen Werk, das nicht von einer Person mit Wohnsitz oder Sitz in der Schweiz produziert wurde, ein Anspruch auf Vergütung nur zu, wenn das Land, in dem das audiovisuelle Werk produziert wurde, für dessen Zugänglichmachung ebenfalls einen kollektiv wahrzunehmenden Vergütungsanspruch für ausübende Künstler und Künstlerinnen vorsieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_35_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Rechte des Herstellers oder der Herstellerin von Ton- oder Tonbildträgern",
+        "citation": "Art. 36 URG",
+        "content": "Der Hersteller oder die Herstellerin von Ton- oder Tonbildträgern hat das ausschliessliche Recht, die Aufnahmen:\na. zu vervielfältigen und die Vervielfältigungsexemplare anzubieten, zu veräussern oder sonst wie zu verbreiten;\nb. mit irgendwelchen Mitteln so zugänglich zu machen, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_36"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Rechte der Sendeunternehmen",
+        "citation": "Art. 37 URG",
+        "content": "Das Sendeunternehmen hat das ausschliessliche Recht:\na. seine Sendung weiterzusenden;\nb. seine Sendung wahrnehmbar zu machen;\nc. seine Sendung auf Ton‐, Tonbild- oder Datenträger aufzunehmen und solche Aufnahmen zu vervielfältigen;\nd. die Vervielfältigungsexemplare seiner Sendung anzubieten, zu veräussern oder sonst wie zu verbreiten;\ne. seine Sendung mit irgendwelchen Mitteln so zugänglich zu machen, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_37"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Rechtsübergang, Zwangsvollstreckung und Schranken des Schutzes",
+        "citation": "Art. 38 URG",
+        "content": "Die Bestimmungen der Artikel 12 Absatz 1 und Artikel 13 sowie das 4. und 5. Kapitel des zweiten Titels dieses Gesetzes finden sinngemäss Anwendung auf die Rechte, die den ausübenden Künstlern und Künstlerinnen sowie den Herstellern und Herstellerinnen von Ton- oder Tonbildträgern und dem Sendeunternehmen zustehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_38"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Schutzdauer",
+        "citation": "Art. 39 Abs. 1 URG",
+        "content": "Der Schutz beginnt mit der Darbietung des Werks oder der Ausdrucksform der Volkskunst durch die ausübenden Künstler und Künstlerinnen, mit der Veröffentlichung des Ton- oder Tonbildträgers oder mit seiner Herstellung, wenn keine Veröffentlichung erfolgt; er erlischt nach 70 Jahren. Der Schutz einer Sendung beginnt mit deren Ausstrahlung; er erlischt nach 50 Jahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Schutzdauer",
+        "citation": "Art. 39 Abs. 1bis URG",
+        "content": "Das Recht auf Anerkennung der Interpreteneigenschaft nach Artikel 33a Absatz 1 erlischt mit dem Tod des ausübenden Künstlers oder der ausübenden Künstlerin, jedoch nicht vor dem Ablauf der Schutzfrist nach Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3. Titel: Verwandte Schutzrechte, Schutzdauer",
+        "citation": "Art. 39 Abs. 2 URG",
+        "content": "Die Schutzdauer wird vom 31. Dezember desjenigen Jahres an berechnet, in dem das für die Berechnung massgebende Ereignis eingetreten ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz technischer Massnahmen",
+        "citation": "Art. 39a Abs. 1 URG",
+        "content": "Wirksame technische Massnahmen zum Schutz von Werken und anderen Schutzobjekten dürfen nicht umgangen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz technischer Massnahmen",
+        "citation": "Art. 39a Abs. 2 URG",
+        "content": "Als wirksame technische Massnahmen im Sinne von Absatz 1 gelten Technologien und Vorrichtungen wie Zugangs- und Kopierkontrollen, Verschlüsselungs-, Verzerrungs- und andere Umwandlungsmechanismen, die dazu bestimmt und geeignet sind, unerlaubte Verwendungen von Werken und anderen Schutzobjekten zu verhindern oder einzuschränken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz technischer Massnahmen",
+        "citation": "Art. 39a Abs. 3 URG",
+        "content": "Verboten sind das Herstellen, Einführen, Anbieten, Veräussern oder das sonstige Verbreiten, Vermieten, Überlassen zum Gebrauch, die Werbung für und der Besitz zu Erwerbszwecken von Vorrichtungen, Erzeugnissen oder Bestandteilen sowie das Erbringen von Dienstleistungen, die:\na. Gegenstand einer Verkaufsförderung, Werbung oder Vermarktung mit dem Ziel der Umgehung wirksamer technischer Massnahmen sind;\nb. abgesehen von der Umgehung wirksamer technischer Massnahmen nur einen begrenzten wirtschaftlichen Zweck oder Nutzen haben; oder\nc. hauptsächlich entworfen, hergestellt, angepasst oder erbracht werden, um die Umgehung wirksamer technischer Massnahmen zu ermöglichen oder zu erleichtern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz technischer Massnahmen",
+        "citation": "Art. 39a Abs. 4 URG",
+        "content": "Das Umgehungsverbot kann gegenüber denjenigen Personen nicht geltend gemacht werden, welche die Umgehung ausschliesslich zum Zweck einer gesetzlich erlaubten Verwendung vornehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Beobachtungsstelle für technische Massnahmen",
+        "citation": "Art. 39b Abs. 1 URG",
+        "content": "Der Bundesrat setzt eine Fachstelle ein, die:\na. die Auswirkungen der technischen Massnahmen nach Artikel 39a Absatz 2 auf die in den Artikeln 19–28 geregelten Schranken des Urheberrechts beobachtet und darüber Bericht erstattet;\nb. als Verbindungsstelle zwischen den Nutzer- und Konsumentenkreisen und den Anwendern und Anwenderinnen technischer Massnahmen dient und partnerschaftliche Lösungen fördert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Beobachtungsstelle für technische Massnahmen",
+        "citation": "Art. 39b Abs. 2 URG",
+        "content": "Der Bundesrat regelt die Aufgaben und die Organisation der Fachstelle im Einzelnen. Wenn das durch die Schranken des Urheberrechts geschützte öffentliche Interesse es erfordert, kann er vorsehen, dass die Fachstelle Massnahmen verfügen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 39c Abs. 1 URG",
+        "content": "Informationen für die Wahrnehmung von Urheber- und verwandten Schutzrechten dürfen nicht entfernt oder geändert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 39c Abs. 2 URG",
+        "content": "Geschützt sind elektronische Informationen zur Identifizierung von Werken und anderen Schutzobjekten oder über Modalitäten und Bedingungen zu deren Verwendung sowie Zahlen oder Codes, die derartige Informationen darstellen, wenn ein solches Informationselement:\na. an einem Ton-, Tonbild- oder Datenträger angebracht ist; oder\nb. im Zusammenhang mit einer unkörperlichen Wiedergabe eines Werkes oder eines anderen Schutzobjekts erscheint.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3a. Titel:, Schutz von technischen Massnahmen und von Informationen, für die Wahrnehmung von Rechten, Schutz von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 39c Abs. 3 URG",
+        "content": "Werke oder andere Schutzobjekte, an denen Informationen für die Wahrnehmung von Urheber- und verwandten Schutzrechten entfernt oder geändert wurden, dürfen in dieser Form weder vervielfältigt, eingeführt, angeboten, veräussert oder sonstwie verbreitet noch gesendet, wahrnehmbar oder zugänglich gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3b. Titel:, Pflicht der Betreiber von Internet-Hosting-Diensten, die von Benützern und Benützerinnen eingegebene Informationen speichern",
+        "citation": "Art. 39d Abs. 1 URG",
+        "content": "Der Betreiber eines Internet-Hosting-Dienstes, der von Benützern und Benützerinnen eingegebene Informationen speichert, ist verpflichtet zu verhindern, dass ein Werk oder ein anderes Schutzobjekt Dritten mithilfe seines Dienstes erneut widerrechtlich zugänglich gemacht wird, wenn die folgenden Voraussetzungen erfüllt sind:\na. Das Werk oder das andere Schutzobjekt wurde bereits über denselben Internet-Hosting-Dienst Dritten widerrechtlich zugänglich gemacht.\nb. Der Betreiber wurde auf die Rechtsverletzung hingewiesen.\nc. Der Internet-Hosting-Dienst hat eine besondere Gefahr solcher Rechtsverletzungen geschaffen, namentlich durch eine technische Funktionsweise oder eine wirtschaftliche Ausrichtung, die Rechtsverletzungen begünstigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 3b. Titel:, Pflicht der Betreiber von Internet-Hosting-Diensten, die von Benützern und Benützerinnen eingegebene Informationen speichern",
+        "citation": "Art. 39d Abs. 2 URG",
+        "content": "Der Betreiber muss diejenigen Massnahmen ergreifen, die ihm unter Berücksichtigung der Gefahr solcher Rechtsverletzungen technisch und wirtschaftlich zuzumuten sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_39_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 1. Kapitel: Der Bundesaufsicht unterstellte Verwertungsbereiche",
+        "citation": "Art. 40 Abs. 1 URG",
+        "content": "Der Bundesaufsicht sind unterstellt:\na. die Verwertung der ausschliesslichen Rechte zur Aufführung und Sendung nichttheatralischer Werke der Musik und zur Herstellung von Tonträgern oder Tonbildträgern solcher Werke;\nabis. das Geltendmachen von ausschliesslichen Rechten nach den Artikeln 22, 22a−22c und 24b;\nb. das Geltendmachen der Vergütungsansprüche nach den Artikeln 13, 13a, 20, 24c, 35 und 35a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_40"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 1. Kapitel: Der Bundesaufsicht unterstellte Verwertungsbereiche",
+        "citation": "Art. 40 Abs. 2 URG",
+        "content": "Der Bundesrat kann weitere Verwertungsbereiche der Bundesaufsicht unterstellen, wenn es das öffentliche Interesse erfordert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_40"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 1. Kapitel: Der Bundesaufsicht unterstellte Verwertungsbereiche",
+        "citation": "Art. 40 Abs. 3 URG",
+        "content": "Die persönliche Verwertung der ausschliesslichen Rechte nach Absatz 1 Buchstabe a durch den Urheber oder die Urheberin oder deren Erben ist nicht der Bundesaufsicht unterstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_40"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2. Kapitel: Bewilligung, Grundsatz",
+        "citation": "Art. 41 URG",
+        "content": "Wer Rechte verwertet, die der Bundesaufsicht unterstellt sind, braucht eine Bewilligung des Instituts für geistiges Eigentum (IGE).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_41"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2. Kapitel: Bewilligung, Voraussetzungen",
+        "citation": "Art. 42 Abs. 1 URG",
+        "content": "Bewilligungen erhalten nur Verwertungsgesellschaften, die:\na. nach schweizerischem Recht gegründet wurden, ihren Sitz in der Schweiz haben und ihre Geschäfte von der Schweiz aus führen;\nb. die Verwertung von Urheberrechten oder verwandten Schutzrechten zum Hauptzweck haben;\nc. allen Rechtsinhabern und -inhaberinnen offen stehen;\nd. den Urhebern und Urheberinnen und den ausübenden Künstlern und Künstlerinnen ein angemessenes Mitbestimmungsrecht einräumen;\ne. für die Einhaltung der gesetzlichen Vorschriften, insbesondere aufgrund ihrer Statuten, Gewähr bieten;\nf. eine wirksame und wirtschaftliche Verwertung erwarten lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_42"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2. Kapitel: Bewilligung, Voraussetzungen",
+        "citation": "Art. 42 Abs. 2 URG",
+        "content": "In der Regel wird pro Werkkategorie und für die verwandten Schutzrechte je nur einer Gesellschaft eine Bewilligung erteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_42"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2. Kapitel: Bewilligung, Dauer; Veröffentlichung",
+        "citation": "Art. 43 Abs. 1 URG",
+        "content": "Die Bewilligung wird für fünf Jahre erteilt; sie kann jeweils für weitere fünf Jahre erneuert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2. Kapitel: Bewilligung, Dauer; Veröffentlichung",
+        "citation": "Art. 43 Abs. 2 URG",
+        "content": "Erteilung, Erneuerung, Änderung, Entzug und Nichterneuerung der Bewilligung werden veröffentlicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2a. Kapitel: Erweiterte Kollektivlizenzen",
+        "citation": "Art. 43a Abs. 1 URG",
+        "content": "Eine Verwertungsgesellschaft kann für die Verwendung einer grösseren Anzahl veröffentlichter Werke und geschützter Leistungen die ausschliesslichen Rechte, für deren Verwertung sie nicht der Bewilligungspflicht von Artikel 41 untersteht, auch für Rechtsinhaber und -inhaberinnen wahrnehmen, die nicht von ihr vertreten werden, sofern die folgenden Voraussetzungen erfüllt sind:\na. Die lizenzierte Verwendung beeinträchtigt nicht die normale Verwertung von geschützten Werken und geschützten Leistungen.\nb. Die Verwertungsgesellschaft vertritt im Anwendungsbereich der Lizenz eine massgebende Anzahl von Rechtsinhabern und -inhaberinnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2a. Kapitel: Erweiterte Kollektivlizenzen",
+        "citation": "Art. 43a Abs. 2 URG",
+        "content": "Werke, die sich in Beständen öffentlicher oder öffentlich zugänglicher Bibliotheken, Archive oder anderer Gedächtnisinstitutionen befinden, gelten als veröffentlicht im Sinne von Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2a. Kapitel: Erweiterte Kollektivlizenzen",
+        "citation": "Art. 43a Abs. 3 URG",
+        "content": "Die Verwertungsgesellschaften machen die erweiterten Kollektivlizenzen vor deren Inkrafttreten in geeigneter Weise, insbesondere durch Veröffentlichung an leicht zugänglicher und auffindbarer Stelle, bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2a. Kapitel: Erweiterte Kollektivlizenzen",
+        "citation": "Art. 43a Abs. 4 URG",
+        "content": "Rechtsinhaber und -inhaberinnen und Inhaber und Inhaberinnen einer ausschliesslichen Lizenz können von der Verwertungsgesellschaft, die eine erweiterte Kollektivlizenz erteilt, verlangen, dass ihre Rechte von einer bestimmten Kollektivlizenz ausgenommen werden; die Anwendbarkeit dieser Kollektivlizenz auf die betreffenden geschützten Werke oder die betreffenden geschützten Leistungen endet mit dem Zugang der Ausnahmeerklärung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 2a. Kapitel: Erweiterte Kollektivlizenzen",
+        "citation": "Art. 43a Abs. 5 URG",
+        "content": "Auf erweiterte Kollektivlizenzen finden weder die Vorschriften über die Tarife (Art. 46 und 47) noch die Vorschriften über die Aufsicht über die Tarife (Art. 55–60) Anwendung; hingegen sind Erlöse aus diesen Verwertungen nach den Grundsätzen von Artikel 49 zu verteilen. Die Verwertung aufgrund des vorliegenden Artikels untersteht der Auskunfts- und Rechenschaftspflicht (Art. 50) und der Aufsicht über die Geschäftsführung (Art. 52–54).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_43_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Verwertungspflicht",
+        "citation": "Art. 44 URG",
+        "content": "Die Verwertungsgesellschaften sind gegenüber den Rechtsinhabern und -inhaberinnen verpflichtet, die zu ihrem Tätigkeitsgebiet gehörenden Rechte wahrzunehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_44"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundsätze der Geschäftsführung",
+        "citation": "Art. 45 Abs. 1 URG",
+        "content": "Die Verwertungsgesellschaften müssen ihre Geschäfte nach den Grundsätzen einer geordneten und wirtschaftlichen Verwaltung führen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_45"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundsätze der Geschäftsführung",
+        "citation": "Art. 45 Abs. 2 URG",
+        "content": "Sie müssen die Verwertung nach festen Regeln und nach dem Gebot der Gleichbehandlung besorgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_45"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundsätze der Geschäftsführung",
+        "citation": "Art. 45 Abs. 3 URG",
+        "content": "Sie dürfen keinen eigenen Gewinn anstreben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_45"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundsätze der Geschäftsführung",
+        "citation": "Art. 45 Abs. 4 URG",
+        "content": "Sie schliessen nach Möglichkeit mit ausländischen Verwertungsgesellschaften Gegenseitigkeitsverträge ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_45"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Tarifpflicht",
+        "citation": "Art. 46 Abs. 1 URG",
+        "content": "Die Verwertungsgesellschaften stellen für die von ihnen geforderten Vergütungen Tarife auf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_46"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Tarifpflicht",
+        "citation": "Art. 46 Abs. 2 URG",
+        "content": "Sie verhandeln über die Gestaltung der einzelnen Tarife mit den massgebenden Nutzerverbänden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_46"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Tarifpflicht",
+        "citation": "Art. 46 Abs. 3 URG",
+        "content": "Sie legen die Tarife der Schiedskommission (Art. 55) zur Genehmigung vor und veröffentlichen die genehmigten Tarife.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_46"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Gemeinsamer Tarif",
+        "citation": "Art. 47 Abs. 1 URG",
+        "content": "Sind mehrere Verwertungsgesellschaften im gleichen Nutzungsbereich tätig, so stellen sie für die gleiche Verwendung von Werken oder Darbietungen einen gemeinsamen Tarif nach einheitlichen Grundsätzen auf und bezeichnen eine unter ihnen als gemeinsame Zahlstelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_47"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Gemeinsamer Tarif",
+        "citation": "Art. 47 Abs. 2 URG",
+        "content": "Der Bundesrat kann weitere Vorschriften über ihre Zusammenarbeit erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_47"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundlagen der Verteilung",
+        "citation": "Art. 48 Abs. 1 URG",
+        "content": "Die Verwertungsgesellschaften sind verpflichtet, ein Verteilungsreglement aufzustellen und es dem IGE zur Genehmigung zu unterbreiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_48"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Grundlagen der Verteilung",
+        "citation": "Art. 48 Abs. 2 URG",
+        "content": "Mit Zustimmung des obersten Organs der Gesellschaft können Teile des Verwertungserlöses zum Zweck der Sozialvorsorge und einer angemessenen Kulturförderung verwendet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_48"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Verteilung des Verwertungserlöses",
+        "citation": "Art. 49 Abs. 1 URG",
+        "content": "Die Verwertungsgesellschaften müssen den Verwertungserlös nach Massgabe des Ertrags der einzelnen Werke und Darbietungen verteilen. Sie haben zur Feststellung der Berechtigten alle ihnen zumutbaren Anstrengungen zu unternehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_49"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Verteilung des Verwertungserlöses",
+        "citation": "Art. 49 Abs. 2 URG",
+        "content": "Ist diese Verteilung mit einem unzumutbaren Aufwand verbunden, so dürfen die Verwertungsgesellschaften das Ausmass des Ertrags schätzen; die Schätzungen müssen auf überprüfbaren und sachgerechten Gesichtspunkten beruhen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_49"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Verteilung des Verwertungserlöses",
+        "citation": "Art. 49 Abs. 3 URG",
+        "content": "Der Erlös soll zwischen den ursprünglichen Rechtsinhabern und -inhaberinnen und andern Berechtigten so aufgeteilt werden, dass den Urhebern und Urheberinnen und den ausübenden Künstlern und Künstlerinnen in der Regel ein angemessener Anteil verbleibt. Eine andere Verteilung ist zulässig, wenn der Aufwand unzumutbar wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_49"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Verteilung des Verwertungserlöses",
+        "citation": "Art. 49 Abs. 4 URG",
+        "content": "Das Verteilungsreglement hebt vertragliche Abmachungen der ursprünglichen Rechtsinhaber und -inhaberinnen mit Dritten nicht auf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_49"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 3. Kapitel: Pflichten der Verwertungsgesellschaften, Auskunfts- und Rechenschaftspflicht",
+        "citation": "Art. 50 URG",
+        "content": "Die Verwertungsgesellschaften müssen dem IGE alle Auskünfte erteilen und alle Unterlagen zur Verfügung stellen, die für die Durchführung der Aufsicht erforderlich sind, sowie jährlich in einem Geschäftsbericht Rechenschaft über ihre Tätigkeit ablegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_50"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 4. Kapitel: Auskunftspflicht gegenüber den Verwertungsgesellschaften",
+        "citation": "Art. 51 Abs. 1 URG",
+        "content": "Soweit es ihnen zuzumuten ist, müssen die Werknutzer und -nutzerinnen den Verwertungsgesellschaften alle Auskünfte, welche diese für die Gestaltung und die Anwendung der Tarife sowie für die Verteilung des Erlöses benötigen, in einer Form erteilen, die dem Stand der Technik entspricht und eine automatische Datenverarbeitung zulässt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_51"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 4. Kapitel: Auskunftspflicht gegenüber den Verwertungsgesellschaften",
+        "citation": "Art. 51 Abs. 1bis URG",
+        "content": "Verwertungsgesellschaften sind berechtigt, die nach diesem Artikel erhaltenen Auskünfte untereinander auszutauschen, soweit dies zur Ausübung ihrer Tätigkeit erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_51"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 4. Kapitel: Auskunftspflicht gegenüber den Verwertungsgesellschaften",
+        "citation": "Art. 51 Abs. 2 URG",
+        "content": "Die Verwertungsgesellschaften sind verpflichtet, Geschäftsgeheimnisse zu wahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_51"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Aufsichtsbehörde",
+        "citation": "Art. 52 URG",
+        "content": "Das IGE beaufsichtigt die Verwertungsgesellschaften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_52"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Umfang der Aufsicht",
+        "citation": "Art. 53 Abs. 1 URG",
+        "content": "Das IGE überwacht die Geschäftsführung der Verwertungsgesellschaften und sorgt dafür, dass sie ihren Pflichten nachkommen. Es prüft und genehmigt den Geschäftsbericht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_53"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Umfang der Aufsicht",
+        "citation": "Art. 53 Abs. 2 URG",
+        "content": "Es kann über die Auskunftspflicht (Art. 50) Weisungen erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_53"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Umfang der Aufsicht",
+        "citation": "Art. 53 Abs. 3 URG",
+        "content": "Zur Ausübung seiner Befugnisse kann es auch nicht zur Bundesverwaltung gehörende Beauftragte beiziehen; diese unterstehen der Schweigepflicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_53"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Massnahmen bei Pflichtverletzungen",
+        "citation": "Art. 54 Abs. 1 URG",
+        "content": "Kommt eine Verwertungsgesellschaft ihren Pflichten nicht nach, so setzt das IGE eine angemessene Frist zur Herstellung des rechtmässigen Zustandes; wird die Frist nicht eingehalten, so ergreift es die notwendigen Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_54"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Massnahmen bei Pflichtverletzungen",
+        "citation": "Art. 54 Abs. 2 URG",
+        "content": "Bei Ungehorsam gegen Verfügungen kann das IGE nach entsprechender Androhung die Bewilligung einschränken oder entziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_54"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 1. Abschnitt: Aufsicht über die Geschäftsführung, Massnahmen bei Pflichtverletzungen",
+        "citation": "Art. 54 Abs. 3 URG",
+        "content": "Das IGE kann rechtskräftige Verfügungen auf Kosten der Verwertungsgesellschaft veröffentlichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_54"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+        "citation": "Art. 55 Abs. 1 URG",
+        "content": "Die Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten (Schiedskommission) ist zuständig für die Genehmigung der Tarife der Verwertungsgesellschaften (Art. 46).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_55"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+        "citation": "Art. 55 Abs. 2 URG",
+        "content": "Der Bundesrat wählt die Mitglieder. Er regelt Organisation und Verfahren der Schiedskommission im Rahmen des Verwaltungsverfahrensgesetzes vom 20. Dezember 1968.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_55"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Eidgenössische Schiedskommission für die Verwertung von Urheberrechten und verwandten Schutzrechten",
+        "citation": "Art. 55 Abs. 3 URG",
+        "content": "Die Schiedskommission nimmt für ihre Entscheidungen keine Weisungen entgegen; das Personal des Kommissionssekretariates untersteht für diese Tätigkeit dem Kommissionspräsidenten beziehungsweise der Kommissionspräsidentin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_55"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Zusammensetzung der Schiedskommission",
+        "citation": "Art. 56 Abs. 1 URG",
+        "content": "Die Schiedskommission besteht aus dem Präsidenten beziehungsweise der Präsidentin, zwei beisitzenden Mitgliedern, zwei Ersatzleuten sowie weiteren Mitgliedern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_56"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Zusammensetzung der Schiedskommission",
+        "citation": "Art. 56 Abs. 2 URG",
+        "content": "Die weiteren Mitglieder werden von den Verwertungsgesellschaften und den massgebenden Nutzerverbänden von Werken und Darbietungen vorgeschlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_56"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Besetzung für den Entscheid",
+        "citation": "Art. 57 Abs. 1 URG",
+        "content": "Die Schiedskommission entscheidet mit fünf Mitgliedern: dem Präsidenten beziehungsweise der Präsidentin, zwei beisitzenden Mitgliedern und zwei weiteren Mitgliedern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_57"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Besetzung für den Entscheid",
+        "citation": "Art. 57 Abs. 2 URG",
+        "content": "Der Präsident beziehungsweise die Präsidentin bezeichnet für jedes Geschäft die zwei weiteren Mitglieder, die sachkundig sein müssen. Dabei ist jeweils ein auf Vorschlag der Verwertungsgesellschaften und ein auf Vorschlag der Nutzerverbände gewähltes Mitglied zu berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_57"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Besetzung für den Entscheid",
+        "citation": "Art. 57 Abs. 3 URG",
+        "content": "Die Zugehörigkeit eines der sachkundigen Mitglieder zu einer Verwertungsgesellschaft oder einem Nutzerverband ist für sich allein kein Ausstandsgrund.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_57"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Administrative Aufsicht",
+        "citation": "Art. 58 Abs. 1 URG",
+        "content": "Das Eidgenössische Justiz- und Polizeidepartement ist administrative Aufsichtsbehörde der Schiedskommission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_58"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Administrative Aufsicht",
+        "citation": "Art. 58 Abs. 2 URG",
+        "content": "Die Schiedskommission erstattet dem Departement alljährlich Bericht über ihre Geschäftsführung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_58"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Tarifgenehmigung",
+        "citation": "Art. 59 Abs. 1 URG",
+        "content": "Die Schiedskommission genehmigt einen ihr vorgelegten Tarif, wenn er in seinem Aufbau und in den einzelnen Bestimmungen angemessen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_59"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Tarifgenehmigung",
+        "citation": "Art. 59 Abs. 2 URG",
+        "content": "Sie kann nach Anhörung der am Verfahren beteiligten Verwertungsgesellschaft und der Nutzerverbände (Art. 46 Abs. 2) Änderungen vornehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_59"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Tarifgenehmigung",
+        "citation": "Art. 59 Abs. 3 URG",
+        "content": "Rechtskräftig genehmigte Tarife sind für die Gerichte verbindlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_59"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Grundsatz der Angemessenheit",
+        "citation": "Art. 60 Abs. 1 URG",
+        "content": "Bei der Festlegung der Entschädigung sind zu berücksichtigen:\na. der aus der Nutzung des Werks, der Darbietung, des Ton- oder Tonbildträgers oder der Sendung erzielte Ertrag oder hilfsweise der mit der Nutzung verbundene Aufwand;\nb. die Art und Anzahl der benutzten Werke, Darbietungen, Ton- oder Tonbildträger oder Sendungen;\nc. das Verhältnis geschützter zu ungeschützten Werken, Darbietungen, Ton-oder Tonbildträger oder Sendungen sowie zu anderen Leistungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_60"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Grundsatz der Angemessenheit",
+        "citation": "Art. 60 Abs. 2 URG",
+        "content": "Die Entschädigung beträgt in der Regel höchstens zehn Prozent des Nutzungsertrags oder -aufwands für die Urheberrechte und höchstens drei Prozent für die verwandten Schutzrechte; sie ist jedoch so festzusetzen, dass die Berechtigten bei einer wirtschaftlichen Verwaltung ein angemessenes Entgelt erhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_60"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Grundsatz der Angemessenheit",
+        "citation": "Art. 60 Abs. 3 URG",
+        "content": "Die Werkverwendungen nach Artikel 19 Absatz 1 Buchstabe b sind tariflich zu begünstigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_60"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 4. Titel: Verwertungsgesellschaften, 5. Kapitel: Aufsicht über die Verwertungsgesellschaften, 2. Abschnitt: Aufsicht über die Tarife, Grundsatz der Angemessenheit",
+        "citation": "Art. 60 Abs. 4 URG",
+        "content": "Das Vermieten von Werkexemplaren nach Artikel 13 durch öffentliche oder öffentlich zugängliche Bibliotheken ist zur Wahrung des Vermittlungsauftrags dieser Institution tariflich zu begünstigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_60"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Feststellungsklage",
+        "citation": "Art. 61 URG",
+        "content": "Wer ein rechtliches Interesse nachweist, kann gerichtlich feststellen lassen, ob ein Recht oder Rechtsverhältnis nach diesem Gesetz vorhanden ist oder fehlt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_61"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Leistungsklagen",
+        "citation": "Art. 62 Abs. 1 URG",
+        "content": "Wer in seinem Urheber- oder verwandten Schutzrecht verletzt oder gefährdet wird, kann vom Gericht verlangen:\na. eine drohende Verletzung zu verbieten;\nb. eine bestehende Verletzung zu beseitigen;\nc. die beklagte Partei zu verpflichten, Herkunft und Menge der in ihrem Besitz befindlichen Gegenstände, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_62"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Leistungsklagen",
+        "citation": "Art. 62 Abs. 1bis URG",
+        "content": "Eine Gefährdung von Urheber- oder verwandten Schutzrechten liegt insbesondere vor bei Handlungen nach den Artikeln 39a Absätze 1 und 3, 39c Absätze 1 und 3 sowie bei Verletzung der Pflichten nach Artikel 39d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_62"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Leistungsklagen",
+        "citation": "Art. 62 Abs. 2 URG",
+        "content": "Vorbehalten bleiben die Klagen nach dem Obligationenrecht auf Schadenersatz, auf Genugtuung sowie auf Herausgabe eines Gewinns entsprechend den Bestimmungen über die Geschäftsführung ohne Auftrag.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_62"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Leistungsklagen",
+        "citation": "Art. 62 Abs. 3 URG",
+        "content": "Wer über eine ausschliessliche Lizenz verfügt, ist selbständig zur Klage berechtigt, sofern dies im Lizenzvertrag nicht ausdrücklich ausgeschlossen worden ist. Alle Lizenznehmer und Lizenznehmerinnen können einer Verletzungsklage beitreten, um ihren eigenen Schaden geltend zu machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_62"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Einziehung im Zivilverfahren",
+        "citation": "Art. 63 Abs. 1 URG",
+        "content": "Das Gericht kann die Einziehung und Verwertung oder Vernichtung der widerrechtlich hergestellten Gegenstände oder der vorwiegend zu ihrer Herstellung dienenden Einrichtungen, Geräte und sonstigen Mittel anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_63"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Einziehung im Zivilverfahren",
+        "citation": "Art. 63 Abs. 2 URG",
+        "content": "Ausgenommen sind ausgeführte Werke der Baukunst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_63"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Vorsorgliche Massnahmen",
+        "citation": "Art. 65 URG",
+        "content": "Ersucht eine Person um die Anordnung vorsorglicher Massnahmen, so kann sie insbesondere verlangen, dass das Gericht Massnahmen anordnet:\na. zur Beweissicherung;\nb. zur Ermittlung der Herkunft widerrechtlich hergestellter oder in Verkehr gebrachter Gegenstände;\nc. zur Wahrung des bestehenden Zustandes; oder \nd. zur vorläufigen Vollstreckung von Unterlassungs- und Beseitigungsansprüchen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_65"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Veröffentlichung des Urteils",
+        "citation": "Art. 66 URG",
+        "content": "Das Gericht kann auf Antrag der obsiegenden Partei anordnen, dass das Urteil auf Kosten der anderen Partei veröffentlicht wird. Es bestimmt Art und Umfang der Veröffentlichung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_66"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 1. Kapitel: Zivilrechtlicher Schutz, Mitteilung von Urteilen",
+        "citation": "Art. 66a URG",
+        "content": "Die Gerichte stellen rechtskräftige Urteile dem IGE in vollständiger Ausfertigung unentgeltlich zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_66_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Urheberrechtsverletzung",
+        "citation": "Art. 67 Abs. 1 URG",
+        "content": "Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft, wer vorsätzlich und unrechtmässig:\na. ein Werk unter einer falschen oder einer andern als der vom Urheber oder von der Urheberin bestimmten Bezeichnung verwendet;\nb. ein Werk veröffentlicht;\nc. ein Werk ändert;\nd. ein Werk zur Schaffung eines Werks zweiter Hand verwendet;\ne. auf irgendeine Weise Werkexemplare herstellt;\nf. Werkexemplare anbietet, veräussert oder sonst wie verbreitet;\ng. ein Werk direkt oder mit Hilfe irgendwelcher Mittel vorträgt, aufführt, vorführt oder anderswo wahrnehmbar macht;\ngbis. ein Werk mit irgendwelchen Mitteln so zugänglich macht, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben;\nh. ein Werk durch Radio, Fernsehen oder ähnliche Verfahren, auch über Leitungen, sendet oder ein gesendetes Werk mittels technischer Einrichtungen, deren Träger nicht das ursprüngliche Sendeunternehmen ist, weitersendet;\ni. ein zugänglich gemachtes, gesendetes oder weitergesendetes Werk wahrnehmbar macht;\nk. sich weigert, der zuständigen Behörde Herkunft und Menge der in seinem Besitz befindlichen Gegenstände, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen;\nl. ein Computerprogramm vermietet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_67"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Urheberrechtsverletzung",
+        "citation": "Art. 67 Abs. 2 URG",
+        "content": "Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_67"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Unterlassung der Quellenangabe",
+        "citation": "Art. 68 URG",
+        "content": "Wer es vorsätzlich unterlässt, in den gesetzlich vorgesehenen Fällen (Art. 25 und 28) die benützte Quelle und, falls er in ihr genannt ist, den Urheber anzugeben, wird auf Antrag der in ihren Rechten verletzten Person mit Busse bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_68"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Verletzung von verwandten Schutzrechten",
+        "citation": "Art. 69 Abs. 1 URG",
+        "content": "Auf Antrag der in ihren Rechten verletzten Person wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft, wer vorsätzlich und unrechtmässig:\na. eine Werkdarbietung durch Radio, Fernsehen oder ähnliche Verfahren, auch über Leitungen, sendet;\nb. eine Werkdarbietung auf Ton‐, Tonbild- oder Datenträger aufnimmt;\nc. Vervielfältigungsexemplare einer Werkdarbietung anbietet, veräussert oder sonst wie verbreitet;\nd. eine gesendete Werkdarbietung mittels technischer Einrichtungen, deren Träger nicht das ursprüngliche Sendeunternehmen ist, weitersendet;\ne. eine zugänglich gemachte, gesendete oder weitergesendete Werkdarbietung wahrnehmbar macht;\nebis. eine Werkdarbietung unter einem falschen oder einem anderen als dem vom ausübenden Künstler oder von der ausübenden Künstlerin bestimmten Künstlernamen verwendet;\neter. eine Werkdarbietung, einen Ton- oder Tonbildträger oder eine Sendung mit irgendwelchen Mitteln so zugänglich macht, dass Personen von Orten und zu Zeiten ihrer Wahl dazu Zugang haben;\nf. einen Ton- oder Tonbildträger vervielfältigt, die Vervielfältigungsexemplare anbietet, veräussert oder sonst wie verbreitet;\ng. eine Sendung weitersendet;\nh. eine Sendung auf Ton‐, Tonbild- oder Datenträger aufnimmt;\ni. eine auf Ton‐, Tonbild- oder Datenträger festgelegte Sendung vervielfältigt oder solche Vervielfältigungsexemplare verbreitet;\nk. sich weigert, der zuständigen Behörde Herkunft und Menge der in seinem Besitz befindlichen Träger einer nach Artikel 33, 36 oder 37 geschützten Leistung, die widerrechtlich hergestellt oder in Verkehr gebracht worden sind, anzugeben und Adressaten sowie Ausmass einer Weitergabe an gewerbliche Abnehmer und Abnehmerinnen zu nennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_69"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Verletzung von verwandten Schutzrechten",
+        "citation": "Art. 69 Abs. 2 URG",
+        "content": "Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_69"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Verletzung des Schutzes von technischen Massnahmen und von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 69a Abs. 1 URG",
+        "content": "Auf Antrag der in ihrem Schutz verletzten Person wird mit Busse bestraft, wer vorsätzlich und unrechtmässig:\na. wirksame technische Massnahmen nach Artikel 39a Absatz 2 mit der Absicht umgeht, eine gesetzlich unerlaubte Verwendung von Werken oder anderen Schutzobjekten vorzunehmen;\nb. Vorrichtungen, Erzeugnisse oder Bestandteile herstellt, einführt, anbietet, veräussert oder sonst wie verbreitet, vermietet, zum Gebrauch überlässt, dafür wirbt oder zu Erwerbszwecken besitzt oder Dienstleistungen erbringt, die:\n1. Gegenstand einer Verkaufsförderung, Werbung oder Vermarktung mit dem Ziel der Umgehung wirksamer technischer Massnahmen sind,\n2. abgesehen von der Umgehung wirksamer technischer Massnahmen nur einen begrenzten wirtschaftlichen Zweck oder Nutzen haben, oder\n3. hauptsächlich entworfen, hergestellt, angepasst oder erbracht werden, um die Umgehung wirksamer technischer Massnahmen zu ermöglichen oder zu erleichtern;\nc. elektronische Informationen zur Wahrnehmung der Urheber- und verwandten Schutzrechte nach Artikel 39c Absatz 2 entfernt oder ändert;\nd. Werke oder andere Schutzobjekte, an denen Informationen über die Wahrnehmung von Rechten nach Artikel 39c Absatz 2 entfernt oder geändert wurden, vervielfältigt, einführt, anbietet, veräussert oder sonstwie verbreitet, sendet, wahrnehmbar oder zugänglich macht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_69_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Verletzung des Schutzes von technischen Massnahmen und von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 69a Abs. 2 URG",
+        "content": "Wer eine Tat nach Absatz 1 gewerbsmässig begangen hat, wird von Amtes wegen verfolgt. Die Strafe ist Freiheitsstrafe bis zu einem Jahr oder Geldstrafe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_69_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Verletzung des Schutzes von technischen Massnahmen und von Informationen für die Wahrnehmung von Rechten",
+        "citation": "Art. 69a Abs. 3 URG",
+        "content": "Handlungen nach Absatz 1 Buchstaben c und d sind nur strafbar, wenn sie von einer Person vorgenommen werden, der bekannt ist oder den Umständen nach bekannt sein muss, dass sie damit die Verletzung eines Urheber- oder verwandten Schutzrechts veranlasst, ermöglicht, erleichtert oder verschleiert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_69_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Unerlaubte Geltendmachung von Rechten",
+        "citation": "Art. 70 URG",
+        "content": "Wer ohne erforderliche Bewilligung (Art. 41) Urheber- oder verwandte Schutzrechte geltend macht, deren Verwertung der Bundesaufsicht unterstellt ist (Art. 40), wird mit Busse bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_70"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Widerhandlungen in Geschäftsbetrieben",
+        "citation": "Art. 71 URG",
+        "content": "Für Widerhandlungen in Geschäftsbetrieben, durch Beauftragte und dergleichen sind die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974 anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_71"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Einziehung im Strafverfahren",
+        "citation": "Art. 72 URG",
+        "content": "Ausgeführte Werke der Baukunst können nicht nach Artikel 69 des Strafgesetzbuches eingezogen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_72"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 73 Abs. 1 URG",
+        "content": "Die Strafverfolgung ist Sache der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_73"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 2. Kapitel: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 73 Abs. 2 URG",
+        "content": "Widerhandlungen nach Artikel 70 werden vom IGE nach dem Verwaltungsstrafrechtsgesetz vom 22. März 1974 verfolgt und beurteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_73"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 3. Kapitel: Beschwerde an das Bundesverwaltungsgericht",
+        "citation": "Art. 74 Abs. 1 URG",
+        "content": "Gegen Verfügungen des IGE und der Schiedskommission kann beim Bundesverwaltungsgericht Beschwerde geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_74"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 3. Kapitel: Beschwerde an das Bundesverwaltungsgericht",
+        "citation": "Art. 74 Abs. 2 URG",
+        "content": "Das Beschwerdeverfahren vor dem Bundesverwaltungsgericht richtet sich nach dem Verwaltungsgerichtsgesetz vom 17. Juni 2005 und dem Verwaltungsverfahrensgesetz vom 20. Dezember 1968 (VwVG). Vorbehalten bleiben folgende Ausnahmen:\na. Beschwerden gegen Verfügungen der Schiedskommission haben keine aufschiebende Wirkung; eine Erteilung der aufschiebenden Wirkung im Einzelfall ist ausgeschlossen.\nb. Artikel 53 VwVG ist nicht anwendbar.\nc. Zur Einreichung einer Vernehmlassung setzt das Bundesverwaltungsgericht eine Frist von höchstens 30 Tagen; diese kann nicht erstreckt werden.\nd. Ein weiterer Schriftenwechsel nach Artikel 57 Absatz 2 VwVG findet in der Regel nicht statt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_74"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Anzeige verdächtiger Waren",
+        "citation": "Art. 75 Abs. 1 URG",
+        "content": "Das Bundesamt für Zoll und Grenzsicherheit (BAZG) ist ermächtigt, die Inhaber und Inhaberinnen der Urheber- oder der verwandten Schutzrechte sowie die zugelassenen Verwertungsgesellschaften zu benachrichtigen, wenn der Verdacht besteht, dass die Ein-, Aus- oder Durchfuhr von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_75"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Anzeige verdächtiger Waren",
+        "citation": "Art. 75 Abs. 2 URG",
+        "content": "In diesem Fall ist das BAZG ermächtigt, die Waren während drei Werktagen zurückzubehalten, damit die antragsberechtigten Personen einen Antrag nach Artikel 76 Absatz 1 stellen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_75"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 76 Abs. 1 URG",
+        "content": "Haben Inhaber oder Inhaberinnen beziehungsweise klageberechtigte Lizenznehmer oder Lizenznehmerinnen von Urheber- oder von verwandten Schutzrechten oder eine zugelassene Verwertungsgesellschaft konkrete Anhaltspunkte dafür, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren bevorsteht, deren Verbreitung gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so können sie beim BAZG schriftlich beantragen, die Freigabe der Waren zu verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_76"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 76 Abs. 2 URG",
+        "content": "Die Antragsteller haben alle ihnen greifbaren zweckdienlichen Angaben zu machen, welche das BAZG benötigt, um über den Antrag entscheiden zu können. Sie übergeben ihm namentlich eine genaue Beschreibung der Waren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_76"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Hilfeleistung",
+        "citation": "Art. 76 Abs. 3 URG",
+        "content": "Das BAZG entscheidet endgültig über den Antrag. Es kann eine Gebühr zur Deckung der Verwaltungskosten erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_76"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehalten von Waren",
+        "citation": "Art. 77 Abs. 1 URG",
+        "content": "Hat das BAZG aufgrund eines Antrags nach Artikel 76 Absatz 1 den begründeten Verdacht, dass das Verbringen ins schweizerische Zollgebiet oder aus dem schweizerischen Zollgebiet von Waren gegen die in der Schweiz geltende Gesetzgebung über das Urheberrecht oder die verwandten Schutzrechte verstösst, so teilt es dies einerseits dem Antragsteller oder der Antragstellerin und andererseits dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehalten von Waren",
+        "citation": "Art. 77 Abs. 2 URG",
+        "content": "Das BAZG behält die Ware bis höchstens zehn Werktage vom Zeitpunkt der Mitteilung nach Absatz 1 an zurück, damit der Antragsteller oder die Antragstellerin vorsorgliche Massnahmen erwirken kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zurückbehalten von Waren",
+        "citation": "Art. 77 Abs. 3 URG",
+        "content": "In begründeten Fällen kann es die Ware während höchstens zehn weiteren Werktagen zurückbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 77a Abs. 1 URG",
+        "content": "Während des Zurückbehaltens der Ware ist das BAZG ermächtigt, dem Antragsteller oder der Antragstellerin auf Antrag Proben oder Muster zur Prüfung zu übergeben oder zuzusenden oder ihm oder ihr die Besichtigung der zurückbehaltenen Ware zu gestatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 77a Abs. 2 URG",
+        "content": "Die Proben oder Muster werden auf Kosten des Antragstellers oder der Antragstellerin entnommen und versandt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Proben oder Muster",
+        "citation": "Art. 77a Abs. 3 URG",
+        "content": "Sie müssen nach erfolgter Prüfung, soweit sinnvoll, zurückgegeben werden. Verbleiben Proben oder Muster beim Antragsteller oder bei der Antragstellerin, so unterliegen sie den Bestimmungen der Zollgesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_a"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 77b Abs. 1 URG",
+        "content": "Gleichzeitig mit der Benachrichtigung nach Artikel 77 Absatz 1 informiert das BAZG den Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Ware über die mögliche Übergabe von Proben oder Mustern beziehungsweise die Besichtigungsmöglichkeit nach Artikel 77a Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 77b Abs. 2 URG",
+        "content": "Der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin kann verlangen, zur Wahrung seiner beziehungsweise ihrer Fabrikations- oder Geschäftsgeheimnisse bei der Besichtigung anwesend zu sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Wahrung von Fabrikations- und Geschäftsgeheimnissen",
+        "citation": "Art. 77b Abs. 3 URG",
+        "content": "Das BAZG kann auf begründeten Antrag des Anmelders, Besitzers oder Eigentümers beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin die Übergabe von Proben oder Mustern verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_b"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Ware",
+        "citation": "Art. 77c Abs. 1 URG",
+        "content": "Zusammen mit dem Antrag nach Artikel 76 Absatz 1 kann der Antragsteller oder die Antragstellerin beim BAZG schriftlich beantragen, die Ware zu vernichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Ware",
+        "citation": "Art. 77c Abs. 2 URG",
+        "content": "Wird ein Antrag auf Vernichtung gestellt, so teilt das BAZG dies dem Anmelder, Besitzer oder Eigentümer beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin der Ware im Rahmen der Mitteilung nach Artikel 77 Absatz 1 mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Antrag auf Vernichtung der Ware",
+        "citation": "Art. 77c Abs. 3 URG",
+        "content": "Der Antrag auf Vernichtung führt nicht dazu, dass die Fristen nach Artikel 77 Absätze 2 und 3 zur Erwirkung vorsorglicher Massnahmen verlängert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_c"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zustimmung",
+        "citation": "Art. 77d Abs. 1 URG",
+        "content": "Für die Vernichtung der Ware ist die Zustimmung des Anmelders, Besitzers oder Eigentümers beziehungsweise der Anmelderin, Besitzerin oder Eigentümerin erforderlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Zustimmung",
+        "citation": "Art. 77d Abs. 2 URG",
+        "content": "Die Zustimmung gilt als erteilt, wenn der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin die Vernichtung nicht innerhalb der Fristen nach Artikel 77 Absätze 2 und 3 ausdrücklich ablehnt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_d"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Beweismittel",
+        "citation": "Art. 77e URG",
+        "content": "Vor der Vernichtung der Ware entnimmt das BAZG Proben oder Muster und bewahrt sie als Beweismittel auf für allfällige Klagen auf Schadenersatz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_e"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Schadenersatz",
+        "citation": "Art. 77f Abs. 1 URG",
+        "content": "Erweist sich die Vernichtung der Ware als unbegründet, so haftet ausschliesslich der Antragsteller oder die Antragstellerin für den entstandenen Schaden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_f"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Schadenersatz",
+        "citation": "Art. 77f Abs. 2 URG",
+        "content": "Hat der Anmelder, Besitzer oder Eigentümer beziehungsweise die Anmelderin, Besitzerin oder Eigentümerin der Vernichtung schriftlich zugestimmt, so entstehen gegenüber dem Antragsteller oder der Antragstellerin auch dann keine Ansprüche auf Schadenersatz, wenn sich die Vernichtung später als unbegründet erweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_f"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Kosten",
+        "citation": "Art. 77g Abs. 1 URG",
+        "content": "Die Vernichtung der Ware erfolgt auf Kosten des Antragstellers oder der Antragstellerin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_g"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Kosten",
+        "citation": "Art. 77g Abs. 2 URG",
+        "content": "Über die Kosten für die Entnahme und Aufbewahrung von Proben oder Mustern nach Artikel 77e entscheidet das Gericht im Zusammenhang mit der Beurteilung der Schadenersatzansprüche nach Artikel 77f Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_g"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Haftungserklärung und Schadenersatz",
+        "citation": "Art. 77h Abs. 1 URG",
+        "content": "Ist durch das Zurückbehalten der Ware ein Schaden zu befürchten, so kann das BAZG das Zurückbehalten davon abhängig machen, dass der Antragsteller oder die Antragstellerin ihm eine Haftungserklärung abgibt. An deren Stelle kann das BAZG vom Antragsteller oder von der Antragstellerin in begründeten Fällen eine angemessene Sicherheitsleistung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_h"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5. Titel: Rechtsschutz, 4. Kapitel: Hilfeleistung des Bundesamtes für Zoll und Grenzsicherheit, Haftungserklärung und Schadenersatz",
+        "citation": "Art. 77h Abs. 2 URG",
+        "content": "Der Antragsteller oder die Antragstellerin muss den Schaden, der durch das Zurückbehalten der Ware und die Entnahme von Proben oder Mustern entstanden ist, ersetzen, wenn vorsorgliche Massnahmen nicht angeordnet werden oder sich als unbegründet erweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_h"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5a. Titel: Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung",
+        "citation": "Art. 77i Abs. 1 URG",
+        "content": "Die Rechtsinhaber und -inhaberinnen, die in ihren Urheberrechten oder in ihren verwandten Schutzrechten verletzt werden, dürfen Personendaten bearbeiten, soweit dies zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung notwendig ist und sie rechtmässig darauf zugreifen können. Sie dürfen diese Daten auch für die adhäsionsweise Geltendmachung von zivilrechtlichen Ansprüchen oder für deren Geltendmachung nach abgeschlossenem Strafverfahren verwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_i"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5a. Titel: Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung",
+        "citation": "Art. 77i Abs. 2 URG",
+        "content": "Sie haben den Zweck der Datenbearbeitung, die Art der bearbeiteten Daten und den Umfang der Datenbearbeitung offenzulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_i"
+    },
+    {
+        "book": "URG",
+        "title": "URG, 5a. Titel: Bearbeitung von Personendaten zum Zweck der Strafantragsstellung oder der Strafanzeigeerstattung",
+        "citation": "Art. 77i Abs. 3 URG",
+        "content": "Sie dürfen die Personendaten nach Absatz 1 nicht mit Daten verknüpfen, die zu anderen Zwecken gesammelt wurden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1993/1798_1798_1798/de#art_77_i"
+    }
+]

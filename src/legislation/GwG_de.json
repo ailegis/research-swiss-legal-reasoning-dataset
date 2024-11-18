@@ -1,0 +1,1059 @@
+[
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Gegenstand",
+        "citation": "Art. 1 GwG",
+        "content": "Dieses Gesetz regelt die Bekämpfung der Geldwäscherei im Sinne von Artikel 305bis des Strafgesetzbuches (StGB), die Bekämpfung der Terrorismusfinanzierung im Sinne von Artikel 260quinquies Absatz 1 StGB und die Sicherstellung der Sorgfalt bei Finanzgeschäften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_1"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 1 GwG",
+        "content": "Dieses Gesetz gilt:\na. für Finanzintermediäre;\nb. für natürliche und juristische Personen, die gewerblich mit Gütern handeln und dabei Bargeld entgegennehmen (Händlerinnen und Händler).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 2 GwG",
+        "content": "Finanzintermediäre sind:\na. die Banken nach Artikel 1a des Bankengesetzes vom 8. November 1934 (BankG) und die Personen nach Artikel 1b BankG;\nabis. die Vermögensverwalter und die Trustees nach Artikel 2 Absatz 1 Buchstaben a und b des Finanzinstitutsgesetzes vom 15. Juni 2018 (FINIG);\nb. die Fondsleitungen nach Artikel 2 Absatz 1 Buchstabe d FINIG;\nbbis. die Bewilligungsträger nach Artikel 13 Absatz 2 Buchstaben b–d des Kollektivanlagengesetzes vom 23. Juni 2006 (KAG) und die Verwalter von Kollektivvermögen nach Artikel 2 Absatz 1 Buchstabe c FINIG; \nc. die Versicherungseinrichtungen nach dem Versicherungsaufsichtsgesetz vom 17. Dezember 2004, welche die direkte Lebensversicherung betreiben oder Anteile einer kollektiven Kapitalanlage anbieten oder vertreiben;\nd. die Wertpapierhäuser nach Artikel 2 Absatz 1 Buchstabe e FINIG;\ndbis. die zentralen Gegenparteien und die Zentralverwahrer nach dem Finanzmarktinfrastrukturgesetz vom 19. Juni 2015 (FinfraG);\ndter. die Zahlungssysteme, sofern sie nach Artikel 4 Absatz 2 des FinfraG eine Bewilligung der Eidgenössischen Finanzmarktaufsicht (FINMA) benötigen;\ndquater. die Handelssysteme für DLT-Effekten nach Artikel 73a des FinfraG (DLT-Handelssysteme);\ne. die Spielbanken nach dem Geldspielgesetz vom 29. September 2017 (BGS);\nf. die Veranstalterinnen von Grossspielen nach dem BGS;\ng. die Handelsprüfer und Gruppengesellschaften nach Artikel 42bis des Edelmetallkontrollgesetzes vom 20. Juni 1933 (EMKG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 3 GwG",
+        "content": "Finanzintermediäre sind auch Personen, die berufsmässig fremde Vermögenswerte annehmen oder aufbewahren oder helfen, sie anzulegen oder zu übertragen; insbesondere Personen, die:\na. das Kreditgeschäft (namentlich durch Konsum- oder Hypothekarkredite, Factoring, Handelsfinanzierungen oder Finanzierungsleasing) betreiben;\nb. Dienstleistungen für den Zahlungsverkehr erbringen, namentlich für Dritte elektronische Überweisungen vornehmen oder Zahlungsmittel wie Kreditkarten und Reiseschecks ausgeben oder verwalten;\nc. für eigene oder fremde Rechnung mit Banknoten und Münzen, Geldmarktinstrumenten, Devisen, Edelmetallen, Rohwaren und Effekten (Wertpapiere und Wertrechte) sowie deren Derivaten handeln;\nd. ...\ne. ...\nf. als Anlageberater Anlagen tätigen;\ng. Effekten aufbewahren oder verwalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Geltungsbereich",
+        "citation": "Art. 2 Abs. 4 GwG",
+        "content": "Vom Geltungsbereich dieses Gesetzes ausgenommen sind:\na. die Schweizerische Nationalbank;\nb. steuerbefreite Einrichtungen der beruflichen Vorsorge;\nc. Personen, die ihre Dienstleistungen ausschliesslich gegenüber steuerbefreiten Einrichtungen der beruflichen Vorsorge erbringen;\nd. Finanzintermediäre nach Absatz 3, die ihre Dienstleistungen ausschliesslich gegenüber Finanzintermediären nach Absatz 2 erbringen oder gegenüber ausländischen Finanzintermediären, die einer gleichwertigen Aufsicht unterstellt sind wie diese;\ne. Limited Qualified Investor Funds (L-QIF) in der Rechtsform der Investmentgesellschaft mit variablem Kapital (SICAV) oder der Kommanditgesellschaft für kollektive Kapitalanlagen (KmGK), wenn das nach Artikel 118h Absatz 1, 2 oder 4 KAG für die Geschäftsführung zuständige Institut die Erfüllung der in diesem Gesetz enthaltenen Pflichten übernimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2a Abs. 1 GwG",
+        "content": "Als politisch exponierte Person im Sinne dieses Gesetzes gelten:\na. Personen, die im Ausland mit führenden öffentlichen Funktionen betraut sind oder waren, insbesondere Staats- und Regierungschefinnen und ‐chefs, hohe Politikerinnen und Politiker auf nationaler Ebene, hohe Funktionärinnen und Funktionäre in Verwaltung, Justiz, Militär und Parteien auf nationaler Ebene, die obersten Organe staatlicher Unternehmen von nationaler Bedeutung (ausländische politisch exponierte Personen);\nb. Personen, die in der Schweiz auf nationaler Ebene mit führenden öffentlichen Funktionen in Politik, Verwaltung, Militär und Justiz betraut sind oder waren sowie Mitglieder des Verwaltungsrates oder der Geschäftsleitung staatlicher Unternehmen von nationaler Bedeutung (inländische politisch exponierte Personen);\nc. Personen, die in zwischenstaatlichen Organisationen und in internationalen Sportverbänden mit führender Funktion betraut sind oder waren, insbesondere Generalsekretärinnen und Generalsekretäre, Direktorinnen und Direktoren, Vizedirektorinnen und Vizedirektoren, Mitglieder der Verwaltungsorgane sowie Personen mit gleichwertigen Funktionen (politisch exponierte Personen bei internationalen Organisationen).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2a Abs. 2 GwG",
+        "content": "Als politisch exponierten Personen nahestehend gelten natürliche Personen, die Personen nach Absatz 1 aus familiären, persönlichen oder geschäftlichen Gründen erkennbar nahestehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2a Abs. 3 GwG",
+        "content": "Als wirtschaftlich berechtigte Personen einer operativ tätigen juristischen Person gelten die natürlichen Personen, welche die juristische Person letztendlich dadurch kontrollieren, dass sie direkt oder indirekt, allein oder in gemeinsamer Absprache mit Dritten, mit mindestens 25 Prozent des Kapitals oder des Stimmenanteils an dieser beteiligt sind oder sie auf andere Weise kontrollieren. Können diese nicht festgestellt werden, so ist die Identität des obersten Mitglieds des leitenden Organs festzustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2a Abs. 4 GwG",
+        "content": "Inländische politisch exponierte Personen gelten 18 Monate nach Aufgabe der Funktion nicht mehr als politisch exponiert im Sinne dieses Gesetzes. Die allgemeinen Sorgfaltspflichten der Finanzintermediäre bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 1. Kapitel: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2a Abs. 5 GwG",
+        "content": "Als internationale Sportverbände im Sinne von Absatz 1 Buchstabe c gelten das Internationale Olympische Komitee sowie die von ihm anerkannten nichtstaatlichen Organisationen, die auf globaler Ebene eine oder mehrere offizielle Sportarten regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_2_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Identifizierung der Vertragspartei",
+        "citation": "Art. 3 Abs. 1 GwG",
+        "content": "Der Finanzintermediär muss bei der Aufnahme von Geschäftsbeziehungen die Vertragspartei aufgrund eines beweiskräftigen Dokumentes identifizieren. Handelt es sich bei der Vertragspartei um eine juristische Person, so muss der Finanzintermediär die Bevollmächtigungsbestimmungen der Vertragspartei zur Kenntnis nehmen und die Identität der Personen überprüfen, die im Namen der juristischen Person die Geschäftsbeziehung aufnehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Identifizierung der Vertragspartei",
+        "citation": "Art. 3 Abs. 2 GwG",
+        "content": "Bei Kassageschäften mit einer nicht bereits identifizierten Vertragspartei besteht die Pflicht zur Identifizierung nur, wenn eine oder mehrere Transaktionen, die miteinander verbunden erscheinen, einen erheblichen Wert erreichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Identifizierung der Vertragspartei",
+        "citation": "Art. 3 Abs. 3 GwG",
+        "content": "Versicherungseinrichtungen müssen die Vertragspartei dann identifizieren, wenn die Beträge einer einmaligen Prämie, der periodischen oder des gesamten Prämienvolumens einen erheblichen Wert erreichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Identifizierung der Vertragspartei",
+        "citation": "Art. 3 Abs. 4 GwG",
+        "content": "Liegen in Fällen nach den Absätzen 2 und 3 Verdachtsmomente für mögliche Geldwäscherei oder Terrorismusfinanzierung vor, so ist die Identifizierung auch dann vorzunehmen, wenn die massgeblichen Beträge nicht erreicht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Identifizierung der Vertragspartei",
+        "citation": "Art. 3 Abs. 5 GwG",
+        "content": "Die FINMA, die Eidgenössische Spielbankenkommission (ESBK), das Eidgenössische Justiz- und Polizeidepartement (EJPD), das Bundesamt für Zoll und Grenzsicherheit (BAZG) und die Selbstregulierungsorganisationen legen für ihren Bereich die erheblichen Werte nach den Absätzen 2 und 3 fest und passen sie bei Bedarf an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_3"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Feststellung der wirtschaftlich berechtigten Person",
+        "citation": "Art. 4 Abs. 1 GwG",
+        "content": "Der Finanzintermediär muss mit der nach den Umständen gebotenen Sorgfalt die wirtschaftlich berechtigte Person feststellen und deren Identität überprüfen, um sich zu vergewissern, wer die wirtschaftlich berechtigte Person ist. Ist die Vertragspartei eine börsenkotierte Gesellschaft oder eine von einer solchen Gesellschaft mehrheitlich kontrollierte Tochtergesellschaft, so kann auf die Feststellung der wirtschaftlich berechtigten Person verzichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Feststellung der wirtschaftlich berechtigten Person",
+        "citation": "Art. 4 Abs. 2 GwG",
+        "content": "Der Finanzintermediär muss von der Vertragspartei eine schriftliche Erklärung darüber einholen, wer die wirtschaftlich berechtigte natürliche Person ist, wenn:\na. die Vertragspartei nicht mit der wirtschaftlich berechtigten Person identisch ist oder daran Zweifel bestehen;\nb. die Vertragspartei eine Sitzgesellschaft oder eine operativ tätige juristische Person ist; oder\nc. ein Kassageschäft von erheblichem Wert nach Artikel 3 Absatz 2 getätigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Feststellung der wirtschaftlich berechtigten Person",
+        "citation": "Art. 4 Abs. 3 GwG",
+        "content": "Er muss von Vertragsparteien, die bei ihm Sammelkonten oder Sammeldepots halten, verlangen, dass sie eine vollständige Liste der wirtschaftlich berechtigten Personen beibringen und jede Änderung unverzüglich melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_4"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "citation": "Art. 5 Abs. 1 GwG",
+        "content": "Entstehen im Laufe der Geschäftsbeziehung Zweifel über die Identität der Vertragspartei oder über die wirtschaftliche Berechtigung, so muss die Identifizierung oder die Feststellung nach den Artikeln 3 und 4 wiederholt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_5"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Erneute Identifizierung oder Feststellung der wirtschaftlich berechtigten Person",
+        "citation": "Art. 5 Abs. 2 GwG",
+        "content": "Im Falle einer rückkaufsfähigen Versicherung müssen die Versicherungseinrichtungen die wirtschaftlich berechtigte Person zudem erneut feststellen, wenn im Versicherungsfall oder bei Rückkauf die anspruchsberechtigte Person nicht identisch ist mit derjenigen im Zeitpunkt des Vertragsabschlusses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_5"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Besondere Sorgfaltspflichten",
+        "citation": "Art. 6 Abs. 1 GwG",
+        "content": "Der Finanzintermediär ist verpflichtet, Art und Zweck der von der Vertragspartei gewünschten Geschäftsbeziehung zu identifizieren. Der Umfang der einzuholenden Informationen, die Hierarchiestufe, auf der der Entscheid, eine Geschäftsbeziehung einzugehen oder weiterzuführen, getroffen werden muss, sowie die Periodizität von Kontrollen richten sich nach dem Risiko, das die Vertragspartei darstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Besondere Sorgfaltspflichten",
+        "citation": "Art. 6 Abs. 2 GwG",
+        "content": "Der Finanzintermediär muss die Hintergründe und den Zweck einer Transaktion oder einer Geschäftsbeziehung abklären, wenn:\na. die Transaktion oder die Geschäftsbeziehung ungewöhnlich erscheinen, es sei denn, ihre Rechtmässigkeit ist erkennbar;\nb. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260ter StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen;\nc. die Transaktion oder die Geschäftsbeziehung mit einem erhöhten Risiko behaftet ist;\nd. die Daten einer Vertragspartei, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion mit den Daten übereinstimmen, die dem Finanzintermediär aufgrund von Artikel 22a Absatz 2 oder 3 weitergeleitet wurden, oder diesen Daten sehr ähnlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Besondere Sorgfaltspflichten",
+        "citation": "Art. 6 Abs. 3 GwG",
+        "content": "Geschäftsbeziehungen zu ausländischen politisch exponierten Personen sowie zu ihnen nahestehenden Personen im Sinne von Artikel 2a Absatz 2 gelten in jedem Fall als Geschäftsbeziehung mit erhöhtem Risiko.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Besondere Sorgfaltspflichten",
+        "citation": "Art. 6 Abs. 4 GwG",
+        "content": "Geschäftsbeziehungen zu inländischen politisch exponierten Personen und politisch exponierten Personen bei internationalen Organisationen sowie zu ihnen nahestehenden Personen im Sinne von Artikel 2a Absatz 2 gelten im Zusammenhang mit einem oder mehreren weiteren Risikokriterien als Geschäftsbeziehungen mit erhöhtem Risiko.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_6"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Dokumentationspflicht",
+        "citation": "Art. 7 Abs. 1 GwG",
+        "content": "Der Finanzintermediär muss über die getätigten Transaktionen und über die nach diesem Gesetz erforderlichen Abklärungen Belege so erstellen, dass fachkundige Dritte sich ein zuverlässiges Urteil über die Transaktionen und Geschäftsbeziehungen sowie über die Einhaltung der Bestimmungen dieses Gesetzes bilden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Dokumentationspflicht",
+        "citation": "Art. 7 Abs. 1bis GwG",
+        "content": "Er überprüft die erforderlichen Belege periodisch auf ihre Aktualität und aktualisiert sie bei Bedarf. Die Periodizität, der Umfang und die Art der Überprüfung und der Aktualisierung richten sich nach dem Risiko, das die Vertragspartei darstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Dokumentationspflicht",
+        "citation": "Art. 7 Abs. 2 GwG",
+        "content": "Er bewahrt die Belege so auf, dass er allfälligen Auskunfts- und Beschlagnahmebegehren der Strafverfolgungsbehörden innert angemessener Frist nachkommen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Dokumentationspflicht",
+        "citation": "Art. 7 Abs. 3 GwG",
+        "content": "Nach Beendigung der Geschäftsbeziehung oder nach Abschluss der Transaktion bewahrt er die Belege mindestens während zehn Jahren auf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_7"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Vermögenswerte von geringem Wert",
+        "citation": "Art. 7a GwG",
+        "content": "Der Finanzintermediär kann auf die Einhaltung der Sorgfaltspflichten (Art. 3–7) verzichten, wenn die Geschäftsbeziehung nur Vermögenswerte von geringem Wert betrifft und keine Verdachtsmomente für mögliche Geldwäscherei oder Terrorismusfinanzierung vorliegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_7_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1. Abschnitt: Sorgfaltspflichten der Finanzintermediäre, Organisatorische Massnahmen",
+        "citation": "Art. 8 GwG",
+        "content": "Die Finanzintermediäre treffen in ihrem Bereich die Massnahmen, die zur Verhinderung der Geldwäscherei und der Terrorismusfinanzierung notwendig sind. Sie sorgen namentlich für genügende Ausbildung des Personals und für Kontrollen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1a. Abschnitt:, Sorgfaltspflichten der Händlerinnen und Händler",
+        "citation": "Art. 8a Abs. 1 GwG",
+        "content": "Händlerinnen und Händler nach Artikel 2 Absatz 1 Buchstabe b müssen folgende Pflichten erfüllen, wenn sie im Rahmen eines Handelsgeschäfts mehr als 100 000 Franken in bar entgegennehmen:\na. Identifizierung der Vertragspartei (Art. 3 Abs. 1);\nb. Feststellung der wirtschaftlich berechtigten Person (Art. 4 Abs. 1 und 2 Bst. a und b);\nc. Dokumentationspflicht (Art. 7).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1a. Abschnitt:, Sorgfaltspflichten der Händlerinnen und Händler",
+        "citation": "Art. 8a Abs. 2 GwG",
+        "content": "Sie müssen die Hintergründe und den Zweck eines Geschäfts abklären, wenn:\na. es ungewöhnlich erscheint, es sei denn, seine Rechtmässigkeit ist erkennbar;\nb. Anhaltspunkte vorliegen, dass Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren, der Verfügungsmacht einer kriminellen oder terroristischen Organisation (Art. 260ter StGB) unterliegen oder der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1a. Abschnitt:, Sorgfaltspflichten der Händlerinnen und Händler",
+        "citation": "Art. 8a Abs. 3 GwG",
+        "content": "Sie unterstehen den Pflichten nach den Absätzen 1 und 2 auch dann, wenn die Barzahlung in mehreren Tranchen erfolgt und die einzelnen Tranchen unter 100 000 Franken liegen, zusammengezählt diesen Betrag jedoch überschreiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1a. Abschnitt:, Sorgfaltspflichten der Händlerinnen und Händler",
+        "citation": "Art. 8a Abs. 4 GwG",
+        "content": "Sie unterstehen den Pflichten nicht, wenn die Zahlungen, die 100 000 Franken übersteigen, über einen Finanzintermediär abgewickelt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 1a. Abschnitt:, Sorgfaltspflichten der Händlerinnen und Händler",
+        "citation": "Art. 8a Abs. 5 GwG",
+        "content": "Der Bundesrat konkretisiert die Pflichten nach den Absätzen 1 und 2 und legt fest, wie diese zu erfüllen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_8_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Meldepflicht",
+        "citation": "Art. 9 Abs. 1 GwG",
+        "content": "Ein Finanzintermediär muss der Meldestelle für Geldwäscherei nach Artikel 23 (Meldestelle) unverzüglich Meldung erstatten, wenn er:\na. weiss oder den begründeten Verdacht hat, dass die in die Geschäftsbeziehung involvierten Vermögenswerte: \n1. 1. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260ter oder 305bis StGB stehen,\n2. aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren,\n3. der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen, oder\n4. der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen;\nb. Verhandlungen zur Aufnahme einer Geschäftsbeziehung wegen eines begründeten Verdachts nach Buchstabe a abbricht;\nc.  aufgrund der nach Artikel 6 Absatz 2 Buchstabe d durchgeführten Abklärungen weiss oder Grund zur Annahme hat, dass die aufgrund von Artikel 22a Absatz 2 oder 3 weitergeleiteten Daten einer Person oder Organisation den Daten eines Vertragspartners, einer wirtschaftlich berechtigten oder einer zeichnungsberechtigten Person einer Geschäftsbeziehung oder einer Transaktion entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Meldepflicht",
+        "citation": "Art. 9 Abs. 1bis GwG",
+        "content": "Eine Händlerin oder ein Händler muss der Meldestelle unverzüglich Meldung erstatten, wenn sie oder er weiss oder den begründeten Verdacht hat, dass die Barzahlungsmittel bei einem Handelsgeschäft:\na. im Zusammenhang mit einer strafbaren Handlung nach Artikel 260ter oder 305bis StGB stehen;\nb. aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren;\nc. der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder\nd. der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Meldepflicht",
+        "citation": "Art. 9 Abs. 1ter GwG",
+        "content": "Aus den Meldungen gemäss den Absätzen 1 und 1bis muss der Name des Finanzintermediärs oder der Händlerin oder des Händlers ersichtlich sein. Das mit dem Fall befasste Personal des Finanzintermediärs oder der Händlerin oder des Händlers kann in der Meldung anonymisiert werden, sofern die Möglichkeit der Meldestelle und der zuständigen Strafverfolgungsbehörde zur unverzüglichen Kontaktaufnahme gewährleistet bleibt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Meldepflicht",
+        "citation": "Art. 9 Abs. 1quater GwG",
+        "content": "In den Fällen nach Absatz 1 liegt ein begründeter Verdacht vor, wenn der Finanzintermediär einen konkreten Hinweis oder mehrere Anhaltspunkte hat, dass für die in die Geschäftsbeziehung involvierten Vermögenswerte Absatz 1 Buchstabe a erfüllt sein könnte, und dieser Verdacht aufgrund zusätzlicher Abklärungen gemäss Artikel 6 nicht ausgeräumt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Meldepflicht",
+        "citation": "Art. 9 Abs. 2 GwG",
+        "content": "Der Meldepflicht nicht unterworfen sind Anwältinnen, Anwälte, Notarinnen und Notare, soweit ihre Tätigkeit dem Berufsgeheimnis nach Artikel 321 StGB untersteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Kundenaufträge betreffend die gemeldeten Vermögenswerte",
+        "citation": "Art. 9a Abs. 1 GwG",
+        "content": "Während der durch die Meldestelle durchgeführten Analyse nach Artikel 23 Absatz 2 führt der Finanzintermediär Kundenaufträge, die nach Artikel 9 Absatz 1 Buchstabe a dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB gemeldete Vermögenswerte betreffen, aus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Kundenaufträge betreffend die gemeldeten Vermögenswerte",
+        "citation": "Art. 9a Abs. 2 GwG",
+        "content": "Er führt Kundenaufträge, die bedeutende Vermögenswerte betreffen, nur in einer Form aus, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Abbruch der Geschäftsbeziehung",
+        "citation": "Art. 9b Abs. 1 GwG",
+        "content": "Teilt die Meldestelle nach einer Meldung nach Artikel 9 Absatz 1 Buchstabe a dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB dem Finanzintermediär nicht innert 40 Arbeitstagen mit, dass sie die gemeldeten Informationen einer Strafverfolgungsbehörde übermittelt, so kann der Finanzintermediär die Geschäftsbeziehung abbrechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Abbruch der Geschäftsbeziehung",
+        "citation": "Art. 9b Abs. 2 GwG",
+        "content": "Der Finanzintermediär, der die Geschäftsbeziehung abbrechen will, darf den Rückzug bedeutender Vermögenswerte nur in einer Form gestatten, die es den Strafverfolgungsbehörden erlaubt, deren Spur weiterzuverfolgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Abbruch der Geschäftsbeziehung",
+        "citation": "Art. 9b Abs. 3 GwG",
+        "content": "Der Abbruch der Geschäftsbeziehung und das Datum des Abbruchs sind der Meldestelle unverzüglich mitzuteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Abbruch der Geschäftsbeziehung",
+        "citation": "Art. 9b Abs. 4 GwG",
+        "content": "Nach dem Abbruch der Geschäftsbeziehung ist das Informationsverbot nach Artikel 10a Absatz 1 weiterhin einzuhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_9_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Vermögenssperre",
+        "citation": "Art. 10 Abs. 1 GwG",
+        "content": "Der Finanzintermediär sperrt die ihm anvertrauten Vermögenswerte, die mit der Meldung nach Artikel 9 Absatz 1 Buchstabe a dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB im Zusammenhang stehen, sobald ihm die Meldestelle mitteilt, dass sie die gemeldeten Informationen einer Strafverfolgungsbehörde übermittelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Vermögenssperre",
+        "citation": "Art. 10 Abs. 1bis GwG",
+        "content": "Er sperrt unverzüglich die ihm anvertrauten Vermögenswerte, die mit der Meldung nach Artikel 9 Absatz 1 Buchstabe c im Zusammenhang stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Vermögenssperre",
+        "citation": "Art. 10 Abs. 2 GwG",
+        "content": "Er erhält die Vermögenssperre aufrecht, bis eine Verfügung der zuständigen Strafverfolgungsbehörde bei ihm eintrifft, längstens aber fünf Werktage ab dem Zeitpunkt, in dem ihm die Meldestelle im Falle von Absatz 1 die Übermittlung der gemeldeten Informationen mitgeteilt hat oder er im Falle von Absatz 1bis der Meldestelle Meldung erstattet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 1 GwG",
+        "content": "Der Finanzintermediär darf weder Betroffene noch Dritte darüber informieren, dass er eine Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB erstattet hat. Nicht als Dritte gelten die Behörden und Organisationen, die für die Aufsicht nach Artikel 12 dieses Gesetzes oder nach Artikel 43a des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007 (FINMAG) zuständig sind, sowie die Personen, die im Rahmen der Aufsicht Prüfungen durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 2 GwG",
+        "content": "Wenn der Finanzintermediär selber keine Vermögenssperre verhängen kann, darf er den Finanzintermediär, der dazu in der Lage und diesem Gesetz unterstellt ist, informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 3 GwG",
+        "content": "Der Finanzintermediär darf einen anderen diesem Gesetz unterstellten Finanzintermediär ebenfalls darüber informieren, dass er eine Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB erstattet hat, soweit dies zur Einhaltung der Pflichten gemäss diesem Gesetz erforderlich ist und sofern beide Finanzintermediäre:\na. für einen Kunden aufgrund einer vertraglich vereinbarten Zusammenarbeit gemeinsame Dienste im Zusammenhang mit dessen Vermögensverwaltung erbringen; oder\nb. dem gleichen Konzern angehören.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 3bis GwG",
+        "content": "Er darf ebenfalls seine Muttergesellschaft im Ausland unter den in Artikel 4quinquies BankG festgelegten Bedingungen darüber informieren, dass er eine Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB erstattet hat, sofern diese sich zur Einhaltung des Informationsverbots verpflichtet. Nicht als Dritte gilt die Aufsichtsbehörde der Muttergesellschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 4 GwG",
+        "content": "Der Finanzintermediär, der gestützt auf Absatz 2 oder 3 informiert worden ist, untersteht dem Informationsverbot nach Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 5 GwG",
+        "content": "Die Händlerin oder der Händler darf weder Betroffene noch Dritte darüber informieren, dass sie oder er eine Meldung nach Artikel 9 erstattet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Informationsverbot",
+        "citation": "Art. 10a Abs. 6 GwG",
+        "content": "Ausgenommen vom Informationsverbot nach den Absätzen 1 und 5 bleibt die Wahrung eigener Interessen im Rahmen eines Zivilprozesses oder eines Straf- oder Verwaltungsverfahrens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_10_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Straf- und Haftungsausschluss",
+        "citation": "Art. 11 Abs. 1 GwG",
+        "content": "Wer guten Glaubens Meldung nach Artikel 9 erstattet oder eine Vermögenssperre nach Artikel 10 vornimmt, kann nicht wegen Verletzung des Amts-, Berufs- oder Geschäftsgeheimnisses belangt oder wegen Vertragsverletzung haftbar gemacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 2. Abschnitt: Pflichten bei Geldwäschereiverdacht, Straf- und Haftungsausschluss",
+        "citation": "Art. 11 Abs. 2 GwG",
+        "content": "Dieser Straf- und Haftungsausschluss gilt auch für: \na. Finanzintermediäre, die Meldung nach Artikel 305ter Absatz 2 StGB erstatten; \nb. Revisionsunternehmen, die Meldung nach Artikel 15 Absatz 5 erstatten;\nc. Aufsichtsorganisationen nach Artikel 43a FINMAG, die Meldung nach Artikel 16 Absatz 1 erstatten;\nd. Selbstregulierungsorganisationen, die Meldung nach Artikel 27 Absatz 4 erstatten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 1 GwG",
+        "content": "Benötigt die Meldestelle zusätzliche Informationen für die Analyse einer bei ihr nach Artikel 9 dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB eingegangenen Meldung, so muss ihr der meldende Finanzintermediär diese auf Aufforderung hin herausgeben, soweit sie bei ihm vorhanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 2 GwG",
+        "content": "Wird aufgrund dieser Analyse erkennbar, dass neben dem meldenden Finanzintermediär weitere Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 2bis GwG",
+        "content": "Wird aufgrund der Analyse von Informationen, die von einer ausländischen Meldestelle stammen, erkennbar, dass diesem Gesetz unterstellte Finanzintermediäre an einer Transaktion oder Geschäftsbeziehung im Zusammenhang mit diesen Informationen beteiligt sind oder waren, so müssen die beteiligten Finanzintermediäre der Meldestelle auf Aufforderung hin alle damit zusammenhängenden Informationen herausgeben, soweit sie bei ihnen vorhanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 3 GwG",
+        "content": "Die Meldestelle setzt den nach den Absätzen 1–2bis betroffenen Finanzintermediären eine Frist für die Herausgabe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 4 GwG",
+        "content": "Die Finanzintermediäre unterstehen dem Informationsverbot nach Artikel 10a Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 2. Kapitel: Pflichten, 3. Abschnitt:, Herausgabe von Informationen",
+        "citation": "Art. 11a Abs. 5 GwG",
+        "content": "Der Straf- und Haftungsausschluss nach Artikel 11 gilt sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_11_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Zuständigkeit",
+        "citation": "Art. 12 GwG",
+        "content": "Die Aufsicht über die Einhaltung der Pflichten nach dem 2. Kapitel liegt für Finanzintermediäre:\na. nach Artikel 2 Absatz 2 Buchstaben a‒dquater: bei der FINMA;\nb. nach Artikel 2 Absatz 2 Buchstabe e: bei der ESBK;\nbbis. nach Artikel 2 Absatz 2 Buchstabe f: bei der interkantonalen Aufsichts- und Vollzugsbehörde nach Artikel 105 BGS (interkantonale Behörde);\nbter. nach Artikel 2 Absatz 2 Buchstabe g: beim Zentralamt für Edelmetallkontrolle (Zentralamt);\nc. nach Artikel 2 Absatz 3 bei den anerkannten Selbstregulierungsorganisationen (Art. 24).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_12"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Anschluss an eine Selbstregulierungsorganisation",
+        "citation": "Art. 14 Abs. 1 GwG",
+        "content": "Finanzintermediäre nach Artikel 2 Absatz 3 müssen sich einer Selbstregulierungsorganisation anschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Anschluss an eine Selbstregulierungsorganisation",
+        "citation": "Art. 14 Abs. 2 GwG",
+        "content": "Ein Finanzintermediär nach Artikel 2 Absatz 3 hat Anspruch auf Anschluss an eine Selbstregulierungsorganisation, wenn:\na. er durch seine internen Vorschriften und seine Betriebsorganisation die Erfüllung der Pflichten nach diesem Gesetz sicherstellt;\nb. er einen guten Ruf geniesst und Gewähr für die Erfüllung der Pflichten nach diesem Gesetz bietet;\nc. die mit seiner Verwaltung und Geschäftsführung betrauten Personen die Voraussetzungen nach Buchstabe b auch erfüllen; und\nd. die an ihm qualifiziert Beteiligten einen guten Ruf geniessen und gewährleisten, dass sich ihr Einfluss nicht zum Schaden einer umsichtigen und soliden Geschäftstätigkeit auswirkt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Anschluss an eine Selbstregulierungsorganisation",
+        "citation": "Art. 14 Abs. 3 GwG",
+        "content": "Die Selbstregulierungsorganisationen können den Anschluss von der Tätigkeit in bestimmten Bereichen abhängig machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_14"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Prüfpflicht für Händlerinnen und Händler",
+        "citation": "Art. 15 Abs. 1 GwG",
+        "content": "Händlerinnen und Händler mit den Sorgfaltspflichten nach Artikel 8a müssen ein Revisionsunternehmen beauftragen, zu prüfen, ob sie ihre Pflichten nach dem 2. Kapitel einhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Prüfpflicht für Händlerinnen und Händler",
+        "citation": "Art. 15 Abs. 2 GwG",
+        "content": "Als Revisionsunternehmen beauftragt werden können Revisionsunternehmen nach Artikel 6 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005, die das nötige Fachwissen und die nötige Erfahrung aufweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Prüfpflicht für Händlerinnen und Händler",
+        "citation": "Art. 15 Abs. 3 GwG",
+        "content": "Die Händlerinnen und Händler müssen dem Revisionsunternehmen alle für die Prüfung erforderlichen Auskünfte erteilen und ihm die nötigen Unterlagen herausgeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Prüfpflicht für Händlerinnen und Händler",
+        "citation": "Art. 15 Abs. 4 GwG",
+        "content": "Das Revisionsunternehmen prüft die Einhaltung der Pflichten nach diesem Gesetz und verfasst darüber einen Bericht zuhanden des verantwortlichen Organs der geprüften Händlerin oder des geprüften Händlers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 1. Abschnitt: Allgemeine Bestimmungen, Prüfpflicht für Händlerinnen und Händler",
+        "citation": "Art. 15 Abs. 5 GwG",
+        "content": "Kommt eine Händlerin oder ein Händler der Meldepflicht nicht nach, so erstattet das Revisionsunternehmen der Meldestelle unverzüglich Meldung, wenn es den begründeten Verdacht hat, dass:\na. eine strafbare Handlung nach Artikel 260ter oder 305bis StGB vorliegt;\nb.  Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren;\nc.  Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder\nd. Vermögenswerte der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_15"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 2. Abschnitt:, Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisationen",
+        "citation": "Art. 16 Abs. 1 GwG",
+        "content": "Die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt und die Aufsichtsorganisationen erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten Verdacht haben, dass:\na. eine strafbare Handlung nach Artikel 260ter, 305bis oder 305ter Absatz 1 StGB vorliegt;\nb. Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren;\nc. Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder\nd. Vermögenswerte der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 2. Abschnitt:, Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisationen",
+        "citation": "Art. 16 Abs. 2 GwG",
+        "content": "Diese Pflicht besteht nur, soweit nicht bereits der Finanzintermediär oder die Selbstregulierungsorganisation Meldung erstattet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 2. Abschnitt:, Meldepflicht der Aufsichtsbehörden und der Aufsichtsorganisationen",
+        "citation": "Art. 16 Abs. 3 GwG",
+        "content": "Die Aufsichtsorganisation stellt gleichzeitig der FINMA eine Kopie der Meldung zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_16"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3. Abschnitt:, Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 2",
+        "citation": "Art. 17 Abs. 1 GwG",
+        "content": "Die Sorgfaltspflichten nach dem 2. Kapitel und nach der Geldspielgesetzgebung werden auf dem Verordnungsweg konkretisiert durch:\na. die FINMA für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a–dquater;\nb. die ESBK für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe e;\nc. das EJPD für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe f;\nd. das BAZG für die Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe g.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_17"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3. Abschnitt:, Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 2",
+        "citation": "Art. 17 Abs. 2 GwG",
+        "content": "Diese Behörden legen fest, wie die Sorgfaltspflichten zu erfüllen sind. Sie können eine entsprechende Selbstregulierung anerkennen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_17"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Aufgaben der FINMA",
+        "citation": "Art. 18 Abs. 1 GwG",
+        "content": "Die FINMA hat im Rahmen der Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3 folgende Aufgaben:\na. Sie anerkennt die Selbstregulierungsorganisationen oder entzieht ihnen die Anerkennung.\nb. Sie beaufsichtigt die Selbstregulierungsorganisationen.\nc. Sie genehmigt die von den Selbstregulierungsorganisationen erlassenen Reglemente nach Artikel 25 sowie deren Änderungen.\nd. Sie sorgt dafür, dass die Selbstregulierungsorganisationen ihre Reglemente durchsetzen.\ne. und f. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Aufgaben der FINMA",
+        "citation": "Art. 18 Abs. 3 GwG",
+        "content": "Selbstregulierungsorganisationen müssen zur Wahrung des Berufsgeheimnisses die Kontrollen des vorliegenden Gesetzes (GwG-Kontrollen) bei Anwältinnen und Anwälten sowie Notarinnen und Notaren durch Anwältinnen und Anwälte beziehungsweise Notarinnen und Notare durchführen lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Aufgaben der FINMA",
+        "citation": "Art. 18 Abs. 4 GwG",
+        "content": "Die mit der GwG-Kontrolle beauftragten Anwältinnen und Anwälte sowie Notarinnen und Notare haben zwingend folgende Voraussetzungen mitzubringen:\na. Anwalts- oder Notariatspatent;\nb.  Gewähr für eine einwandfreie Prüftätigkeit;\nc.  Nachweis einschlägiger GwG-Kenntnisse, entsprechender Praxis und Weiterbildung;\nd.  Unabhängigkeit vom zu prüfenden Mitglied.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_18"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Öffentliches Verzeichnis",
+        "citation": "Art. 18a Abs. 1 GwG",
+        "content": "Die FINMA führt ein Verzeichnis der Finanzintermediäre nach Artikel 2 Absatz 3, die einer Selbstregulierungsorganisation angeschlossen sind. Dieses Verzeichnis ist in elektronischer Form öffentlich zugänglich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_18_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Öffentliches Verzeichnis",
+        "citation": "Art. 18a Abs. 2 GwG",
+        "content": "Sie macht die Daten durch ein Abrufverfahren zugänglich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_18_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation",
+        "citation": "Art. 20 Abs. 1 GwG",
+        "content": "Die FINMA kann gegen Finanzintermediäre, welche die Pflicht zum Anschluss an eine anerkannte Selbstregulierungsorganisation nach Artikel 14 Absatz 1 verletzen, die Aufsichtsinstrumente nach den Artikeln 29–37 FINMAG ergreifen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_20"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3a. Abschnitt: Aufsicht über die Finanzintermediäre nach Artikel 2 Absatz 3, Tätigkeit ohne Anschluss an eine Selbstregulierungsorganisation",
+        "citation": "Art. 20 Abs. 2 GwG",
+        "content": "Sie kann für juristische Personen sowie Kollektiv- und Kommanditgesellschaften deren Auflösung und für Einzelfirmen deren Löschung im Handelsregister anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_20"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3b. Abschnitt:, Weiterleitung von Daten über terroristische Aktivitäten",
+        "citation": "Art. 22a Abs. 1 GwG",
+        "content": "Das Eidgenössische Finanzdepartement (EFD) leitet der FINMA, der ESBK, der interkantonalen Behörde und dem Zentralamt Daten weiter, die es von einem anderen Staat erhalten hat und die von diesem Staat veröffentlicht wurden, zu Personen und Organisationen, die im betreffenden Staat gestützt auf die Resolution 1373 (2001) des UNO-Sicherheitsrates wegen terroristischer Aktivitäten oder deren Unterstützung auf eine Liste gesetzt worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3b. Abschnitt:, Weiterleitung von Daten über terroristische Aktivitäten",
+        "citation": "Art. 22a Abs. 2 GwG",
+        "content": "Die FINMA leitet die vom EFD erhaltenen Daten weiter an:\na. die ihr unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben a und b–dquater;\nb. die Aufsichtsorganisationen zuhanden der Finanzintermediäre nach Artikel 2 Absatz 2 Buchstabe abis, die ihrer laufenden Aufsicht unterstehen;\nc. die Selbstregulierungsorganisationen zuhanden der diesen angeschlossenen Finanzintermediäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3b. Abschnitt:, Weiterleitung von Daten über terroristische Aktivitäten",
+        "citation": "Art. 22a Abs. 3 GwG",
+        "content": "Die ESBK, die interkantonale Behörde und das Zentralamt leiten die vom EFD erhaltenen Daten an die ihnen unterstellten Finanzintermediäre nach Artikel 2 Absatz 2 Buchstaben e–g weiter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 3b. Abschnitt:, Weiterleitung von Daten über terroristische Aktivitäten",
+        "citation": "Art. 22a Abs. 4 GwG",
+        "content": "Das EFD leitet der FINMA, der ESBK, der interkantonalen Behörde und dem Zentralamt keine Daten weiter, wenn es nach Anhörung des Eidgenössischen Departements für auswärtige Angelegenheiten, des EJPD, des Eidgenössischen Departements für Verteidigung, Bevölkerungsschutz und Sport und des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung annehmen muss, dass die Menschenrechte oder Grundsätze der Rechtstaatlichkeit verletzt würden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_22_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 4. Abschnitt: Meldestelle für Geldwäscherei",
+        "citation": "Art. 23 Abs. 1 GwG",
+        "content": "Das Bundesamt für Polizei führt die Meldestelle für Geldwäscherei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 4. Abschnitt: Meldestelle für Geldwäscherei",
+        "citation": "Art. 23 Abs. 2 GwG",
+        "content": "Die Meldestelle prüft und analysiert die eingegangenen Meldungen. Soweit nötig holt sie nach Artikel 11a zusätzliche Informationen ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 4. Abschnitt: Meldestelle für Geldwäscherei",
+        "citation": "Art. 23 Abs. 3 GwG",
+        "content": "Sie unterhält ein eigenes Informationssystem zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität und der Terrorismusfinanzierung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 4. Abschnitt: Meldestelle für Geldwäscherei",
+        "citation": "Art. 23 Abs. 4 GwG",
+        "content": "Sie erstattet der zuständigen Strafverfolgungsbehörde unverzüglich Anzeige, wenn sie begründeten Verdacht schöpft, dass:\na. eine strafbare Handlung nach Artikel 260ter, 305bis oder 305ter Absatz 1 StGB vorliegt;\nb. Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren;\nc. Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder\nd. Vermögenswerte der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 4. Abschnitt: Meldestelle für Geldwäscherei",
+        "citation": "Art. 23 Abs. 5 GwG",
+        "content": "Übermittelt sie die von einem Finanzintermediär nach Artikel 9 Absatz 1 Buchstabe a dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB gemeldeten Informationen einer Strafverfolgungsbehörde, so informiert sie den Finanzintermediär darüber, solange dieser die Geschäftsbeziehung nicht nach Artikel 9b abgebrochen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_23"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Anerkennung",
+        "citation": "Art. 24 Abs. 1 GwG",
+        "content": "Als Selbstregulierungsorganisationen werden Organisationen anerkannt, die:\na. über ein Reglement nach Artikel 25 verfügen;\nb. darüber wachen, dass die angeschlossenen Finanzintermediäre ihre Pflichten nach dem zweiten Kapitel einhalten; und\nc. Gewähr für eine einwandfreie Geschäftstätigkeit bieten und sicherstellen, dass die von ihnen mit der Kontrolle betrauten Personen und Prüfgesellschaften:\n1. die erforderlichen Fachkenntnisse aufweisen,\n2. Gewähr für eine einwandfreie Prüfungstätigkeit bieten, und\n3. von der Geschäftsleitung und der Verwaltung der zu kontrollierenden Finanzintermediäre unabhängig sind;\nd. sicherstellen, dass die von ihnen mit der Kontrolle betrauten Prüfgesellschaften sowie leitende Prüferinnen und Prüfer die Voraussetzungen nach Artikel 24a erfüllen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Anerkennung",
+        "citation": "Art. 24 Abs. 2 GwG",
+        "content": "Die Selbstregulierungsorganisationen der konzessionierten Transportunternehmen nach dem Personenbeförderungsgesetz vom 20. März 2009 müssen von der Geschäftsleitung unabhängig sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+        "citation": "Art. 24a Abs. 1 GwG",
+        "content": "Die Selbstregulierungsorganisation erteilt den Prüfgesellschaften sowie den leitenden Prüferinnen und Prüfern die erforderliche Zulassung und beaufsichtigt deren Tätigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+        "citation": "Art. 24a Abs. 2 GwG",
+        "content": "Die Prüfgesellschaft wird zugelassen, wenn sie:\na. von der Eidgenössischen Revisionsaufsichtsbehörde als Revisorin nach Artikel 6 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005 zugelassen ist;\nb. für diese Prüfung ausreichend organisiert ist; und\nc. keine andere nach den Finanzmarktgesetzen nach Artikel 1 Absatz 1 FINMAG bewilligungspflichtige Tätigkeit ausübt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+        "citation": "Art. 24a Abs. 3 GwG",
+        "content": "Die leitende Prüferin oder der leitende Prüfer wird zur Leitung von Prüfungen nach Absatz 1 zugelassen, wenn sie oder er:\na. von der Eidgenössischen Revisionsaufsichtsbehörde als Revisorin oder Revisor nach Artikel 5 des Revisionsaufsichtsgesetzes zugelassen ist;\nb. das nötige Fachwissen und die nötige Praxiserfahrung für die Prüfung nach Absatz 1 aufweist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+        "citation": "Art. 24a Abs. 4 GwG",
+        "content": "Artikel 17 des Revisionsaufsichtsgesetzes gilt sinngemäss für den Entzug der Zulassung und die Erteilung eines Verweises durch die Selbstregulierungsorganisation",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Zulassung der Prüfgesellschaften und leitenden Prüferinnen und Prüfer",
+        "citation": "Art. 24a Abs. 5 GwG",
+        "content": "Die Selbstregulierungsorganisationen können weitere Zulassungskriterien für Prüfgesellschaften und leitende Prüferinnen und Prüfer vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_24_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Reglement",
+        "citation": "Art. 25 Abs. 1 GwG",
+        "content": "Die Selbstregulierungsorganisationen erlassen ein Reglement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Reglement",
+        "citation": "Art. 25 Abs. 2 GwG",
+        "content": "Das Reglement konkretisiert für die angeschlossenen Finanzintermediäre deren Sorgfaltspflichten nach dem zweiten Kapitel und legt fest, wie diese zu erfüllen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Reglement",
+        "citation": "Art. 25 Abs. 3 GwG",
+        "content": "Es legt zudem fest:\na. die Voraussetzungen für Anschluss und Ausschluss von Finanzintermediären;\nb. wie die Einhaltung der Pflichten nach dem zweiten Kapitel kontrolliert wird;\nc. angemessene Sanktionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_25"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Listen",
+        "citation": "Art. 26 Abs. 1 GwG",
+        "content": "Die Selbstregulierungsorganisationen führen Listen über die ihnen angeschlossenen Finanzintermediäre und über die Personen, denen sie den Anschluss verweigern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_26"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Listen",
+        "citation": "Art. 26 Abs. 2 GwG",
+        "content": "Sie geben der FINMA diese Listen sowie jede Änderung davon bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_26"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Inländische Gruppengesellschaften",
+        "citation": "Art. 26a Abs. 1 GwG",
+        "content": "Für Finanzintermediäre nach Artikel 2 Absatz 3, die eine inländische Gruppengesellschaft eines Finanzintermediärs nach Artikel 2 Absatz 2 Buchstaben a–dquater sind, kann die FINMA vorsehen, dass die Einhaltung der Pflichten nach dem 2. Kapitel im Prüfbericht der Gruppe nachgewiesen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_26_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Inländische Gruppengesellschaften",
+        "citation": "Art. 26a Abs. 2 GwG",
+        "content": "Die FINMA veröffentlicht eine Liste der Gruppengesellschaften nach Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_26_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Informationsaustausch und Meldepflicht",
+        "citation": "Art. 27 Abs. 1 GwG",
+        "content": "Die Selbstregulierungsorganisationen und die FINMA können untereinander alle Auskünfte und Unterlagen austauschen, die sie zur Erfüllung ihrer Aufgabe benötigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Informationsaustausch und Meldepflicht",
+        "citation": "Art. 27 Abs. 2 GwG",
+        "content": "Die Selbstregulierungsorganisationen melden der FINMA unverzüglich:\na. Kündigungen von Mitgliedschaften;\nb. Entscheide über die Verweigerung eines Anschlusses;\nc. Ausschlussentscheide sowie deren Begründung;\nd. die Eröffnung von Sanktionsverfahren, die mit dem Ausschluss enden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Informationsaustausch und Meldepflicht",
+        "citation": "Art. 27 Abs. 3 GwG",
+        "content": "Sie erstatten der FINMA mindestens einmal jährlich Bericht über ihre Tätigkeit im Rahmen dieses Gesetzes und übermitteln ihr eine Aufstellung über die in der Berichtsperiode ergangenen Sanktionsentscheide.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Informationsaustausch und Meldepflicht",
+        "citation": "Art. 27 Abs. 4 GwG",
+        "content": "Sie erstatten der Meldestelle unverzüglich Meldung, wenn sie den begründeten Verdacht haben, dass:\na. eine strafbare Handlung nach Artikel 260ter oder 305bis StGB vorliegt;\nb. Vermögenswerte aus einem Verbrechen oder aus einem qualifizierten Steuervergehen nach Artikel 305bis Ziffer 1bis StGB herrühren;\nc. Vermögenswerte der Verfügungsmacht einer kriminellen oder terroristischen Organisation unterliegen; oder\nd. Vermögenswerte der Terrorismusfinanzierung (Art. 260quinquies Abs. 1 StGB) dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Informationsaustausch und Meldepflicht",
+        "citation": "Art. 27 Abs. 5 GwG",
+        "content": "Die Pflicht nach Absatz 4 entfällt, wenn bereits ein der Selbstregulierungsorganisation angeschlossener Finanzintermediär eine Meldung erstattet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_27"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Entzug der Anerkennung",
+        "citation": "Art. 28 Abs. 1 GwG",
+        "content": "Die FINMA entzieht einer Selbstregulierungsorganisation auf Grund von Artikel 37 FINMAG die Anerkennung nicht ohne vorgängige Androhung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_28"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 3. Kapitel: Aufsicht, 5. Abschnitt: Selbstregulierungsorganisationen, Entzug der Anerkennung",
+        "citation": "Art. 28 Abs. 2 GwG",
+        "content": "Wird einer Selbstregulierungsorganisation die Anerkennung entzogen, so müssen die ihr angeschlossenen Finanzintermediäre innerhalb von zwei Monaten ein Gesuch um Anschluss an eine andere Selbstregulierungsorganisation einreichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_28"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Informationsaustausch unter Behörden",
+        "citation": "Art. 29 Abs. 1 GwG",
+        "content": "Die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt und die Meldestelle können einander alle Auskünfte erteilen, die sie für die Anwendung dieses Gesetzes benötigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Informationsaustausch unter Behörden",
+        "citation": "Art. 29 Abs. 2 GwG",
+        "content": "Die Behörden des Bundes, der Kantone und der Gemeinden übermitteln der Meldestelle oder den kriminalpolizeilichen Zentralstellen des Bundes auf Ersuchen hin alle erforderlichen Daten, die sie für die Analysen zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung benötigen. Dazu gehören namentlich Finanzinformationen sowie andere, in Straf-, Verwaltungsstraf- und Verwaltungsverfahren beschaffte besonders schützenswerte Personendaten, einschliesslich solcher aus hängigen Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Informationsaustausch unter Behörden",
+        "citation": "Art. 29 Abs. 2bis GwG",
+        "content": "Die Meldestelle kann den Behörden gemäss Absatz 2 im Einzelfall Auskunft erteilen, sofern diese die Informationen ausschliesslich zur Bekämpfung der Geldwäscherei, von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung verwenden. Artikel 30 Absätze 2–5 gilt sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Informationsaustausch unter Behörden",
+        "citation": "Art. 29 Abs. 2ter GwG",
+        "content": "Informationen ausländischer Meldestellen darf die Meldestelle nur mit deren ausdrücklicher Zustimmung an die Behörden nach den Absätzen 1 und 2 zu den in Absatz 2bis genannten Zwecken weitergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Informationsaustausch unter Behörden",
+        "citation": "Art. 29 Abs. 3 GwG",
+        "content": "Die Meldestelle orientiert die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt über die Entscheide der kantonalen Strafverfolgungsbehörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Strafbehörden",
+        "citation": "Art. 29a Abs. 1 GwG",
+        "content": "Die Strafbehörden melden der Meldestelle umgehend sämtliche hängigen Verfahren im Zusammenhang mit den Artikeln 260ter, 260quinquies Absatz 1, 305bis und 305ter Absatz 1 StGB. Sie stellen ihr rasch Urteile und Einstellungsverfügungen inklusive Begründung zu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Strafbehörden",
+        "citation": "Art. 29a Abs. 2 GwG",
+        "content": "Sie melden der Meldestelle zudem unverzüglich Verfügungen, die sie aufgrund einer Anzeige der Meldestelle erlassen haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Strafbehörden",
+        "citation": "Art. 29a Abs. 2bis GwG",
+        "content": "Sie verwenden die von der Meldestelle weitergeleiteten Informationen nach den von dieser im Einzelfall in Übereinstimmung mit Artikel 29 Absatz 2ter festgelegten Bedingungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Strafbehörden",
+        "citation": "Art. 29a Abs. 3 GwG",
+        "content": "Sie können der FINMA, der ESBK, der interkantonalen Behörde und dem Zentralamt alle Informationen erteilen und Unterlagen übermitteln, die diese im Rahmen der Erfüllung ihrer Aufgabe verlangen, sofern das Strafverfahren nicht beeinträchtigt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1. Abschnitt: Zusammenarbeit inländischer Behörden, Strafbehörden",
+        "citation": "Art. 29a Abs. 4 GwG",
+        "content": "Die FINMA, die ESBK, die interkantonale Behörde und das Zentralamt koordinieren allfällige Interventionen bei einem Finanzintermediär mit den zuständigen Strafverfolgungsbehörden. Sie nehmen vor einer allfälligen Weiterleitung der erhaltenen Informationen und Unterlagen Rücksprache mit den zuständigen Strafverfolgungsbehörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1a. Abschnitt:, Zusammenarbeit mit den Aufsichtsorganisationen und den Selbstregulierungsorganisationen ",
+        "citation": "Art. 29b Abs. 1 GwG",
+        "content": "Die Meldestelle kann mit den Aufsichtsorganisationen und den Selbstregulierungsorganisationen alle Auskünfte austauschen, die für die Anwendung dieses Gesetzes notwendig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1a. Abschnitt:, Zusammenarbeit mit den Aufsichtsorganisationen und den Selbstregulierungsorganisationen ",
+        "citation": "Art. 29b Abs. 2 GwG",
+        "content": "Sie darf Informationen von Strafverfolgungsbehörden nur mit deren ausdrücklicher Zustimmung an Aufsichtsorganisationen und Selbstregulierungsorganisationen weitergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 1a. Abschnitt:, Zusammenarbeit mit den Aufsichtsorganisationen und den Selbstregulierungsorganisationen ",
+        "citation": "Art. 29b Abs. 3 GwG",
+        "content": "Sie darf Informationen ausländischer Meldestellen nur mit deren ausdrücklicher Zustimmung an Aufsichtsorganisationen und Selbstregulierungsorganisationen und ausschliesslich zu den in Artikel 29 Absatz 2bis genannten Zwecken weitergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_29_b"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 1 GwG",
+        "content": "Die Meldestelle kann die Personendaten und übrigen Informationen, die bei ihr vorhanden sind oder von ihr nach diesem Gesetz beschafft werden können, an eine ausländische Meldestelle weitergeben, wenn diese:\na. gewährleistet, dass sie die Informationen ausschliesslich zu Analysezwecken im Rahmen der Bekämpfung der Geldwäscherei und von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung verwendet;\nb. gewährleistet, dass sie einem gleichartigen schweizerischen Ersuchen entspricht; \nc. gewährleistet, dass das Amts- oder Berufsgeheimnis gewahrt wird;\nd. gewährleistet, dass sie die erhaltenen Informationen nicht ohne ausdrückliche Zustimmung der Meldestelle an Dritte weitergibt; und\ne. die Auflagen und Verwendungsbeschränkungen der Meldestelle beachtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 2 GwG",
+        "content": "Sie darf namentlich folgende Informationen weitergeben:\na. den Namen des Finanzintermediärs oder der Händlerin oder des Händlers, soweit dadurch die Anonymität der Person gewahrt bleibt, die eine Meldung erstattet hat oder einer Informationspflicht nach vorliegendem Gesetz nachgekommen ist;\nb. Kontoinhaber, Kontonummern und Kontosaldi;\nc. die wirtschaftlich berechtigte Person; \nd. Angaben zu Transaktionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 3 GwG",
+        "content": "Die Weitergabe erfolgt in Berichtsform.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 4 GwG",
+        "content": "Die Meldestelle kann einer Weiterleitung durch die ausländische Meldestelle an eine Drittbehörde zustimmen, wenn letztere Gewähr dafür bietet, dass:\na. sie die Informationen ausschliesslich verwendet:\n1. zu Analysezwecken im Rahmen der Bekämpfung der Geldwäscherei und von deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung, oder \n2. für die Einleitung eines Strafverfahrens wegen Geldwäscherei und deren Vortaten, der organisierten Kriminalität oder der Terrorismusfinanzierung oder zur Substantiierung eines Rechtshilfegesuches im Rahmen eines solchen Strafverfahrens;\nb. sie die Informationen nicht zur Verfolgung von Straftaten verwendet, die nach schweizerischem Recht keine Vortaten zur Geldwäscherei darstellen;\nc. sie die Informationen nicht als Beweismittel verwendet; und \nd. das Amts- oder Berufsgeheimnis gewahrt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 5 GwG",
+        "content": "Betrifft das Ersuchen um Weiterleitung an eine ausländische Drittbehörde einen Sachverhalt, der in der Schweiz Gegenstand eines Strafverfahrens ist, so holt die Meldestelle vorgängig die Genehmigung der für das Verfahren zuständigen Staatsanwaltschaft ein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Meldestellen",
+        "citation": "Art. 30 Abs. 6 GwG",
+        "content": "Die Meldestelle ist befugt, mit ausländischen Meldestellen die Modalitäten der Zusammenarbeit näher zu regeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_30"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Auskunftsverweigerung",
+        "citation": "Art. 31 GwG",
+        "content": "Dem Ersuchen einer ausländischen Meldestelle wird nicht entsprochen, wenn:\na. das Ersuchen keinen Bezug zur Schweiz aufweist;\nb. das Ersuchen die Anwendung prozessualen Zwangs oder sonstige Massnahmen und Handlungen erfordert, für die das schweizerische Recht den Rechtshilfeweg oder ein anderes spezialgesetzlich oder staatsvertraglich geregeltes Verfahren vorschreibt;\nc. die nationalen Interessen oder die öffentliche Sicherheit und Ordnung beeinträchtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_31"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Anwendbare Bestimmungen des Bundesgesetzes vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes",
+        "citation": "Art. 31a GwG",
+        "content": "Soweit dieses Gesetz bezüglich Datenbearbeitung und Amtshilfe durch die Meldestelle keine Bestimmungen enthält, werden der erste und der vierte Abschnitt des Bundesgesetzes vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes sinngemäss angewendet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_31_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Strafverfolgungsbehörden",
+        "citation": "Art. 32 Abs. 1 GwG",
+        "content": "Für die Meldestelle richtet sich die Zusammenarbeit mit ausländischen Strafverfolgungsbehörden nach Artikel 13 Absatz 2 des Bundesgesetzes vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_32"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 4. Kapitel: Amtshilfe, 2. Abschnitt: Zusammenarbeit mit ausländischen Behörden, Zusammenarbeit mit ausländischen Strafverfolgungsbehörden",
+        "citation": "Art. 32 Abs. 3 GwG",
+        "content": "Der Name der Person, die die Meldung des Finanzintermediärs oder der Händlerin oder des Händlers erstattet hat oder die der Informationspflicht nach Artikel 11a nachgekommen ist, darf von der Meldestelle nicht an ausländische Strafverfolgungsbehörden weitergegeben werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_32"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Grundsatz",
+        "citation": "Art. 33 GwG",
+        "content": "Die Bearbeitung von Personendaten richtet sich nach dem Datenschutzgesetz vom 25. September 2020.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_33"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen",
+        "citation": "Art. 34 Abs. 1 GwG",
+        "content": "Die Finanzintermediäre führen separate Datenbanken und Akten mit allen Unterlagen, die im Zusammenhang mit der Meldung nach Artikel 9 dieses Gesetzes oder nach Artikel 305ter Absatz 2 StGB sowie mit Anfragen der Meldestelle nach Artikel 11a stehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen",
+        "citation": "Art. 34 Abs. 2 GwG",
+        "content": "Sie dürfen Daten aus diesen Datenbanken und Akten nur an die FINMA, die ESBK, die interkantonale Behörde, das Zentralamt, die Aufsichtsorganisationen, Selbstregulierungsorganisationen, die Meldestelle und Strafverfolgungsbehörden weitergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen",
+        "citation": "Art. 34 Abs. 3 GwG",
+        "content": "Das Auskunftsrecht betroffener Personen nach Artikel 25 des Datenschutzgesetzes vom 25. September 2020 ist gegenüber der Meldestelle geltend zu machen (Art. 35).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Datenbanken und Akten im Zusammenhang mit den Meldungen und den an die Meldestelle herausgegebenen Informationen",
+        "citation": "Art. 34 Abs. 4 GwG",
+        "content": "Fünf Jahre nach erfolgter Meldung sind die Daten zu vernichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_34"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Bearbeitung durch die Meldestelle",
+        "citation": "Art. 35 Abs. 1 GwG",
+        "content": "Die Bearbeitung von Personendaten durch die Meldestelle richtet sich nach dem Bundesgesetz vom 7. Oktober 1994 über kriminalpolizeiliche Zentralstellen des Bundes. Das Recht auf Auskunft der Privatpersonen richtet sich nach Artikel 8 des Bundesgesetzes vom 13. Juni 2008 über polizeiliche Informationssysteme des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_35"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Bearbeitung durch die Meldestelle",
+        "citation": "Art. 35 Abs. 2 GwG",
+        "content": "Die Meldestelle kann Informationen mit der FINMA, der ESBK, der interkantonalen Behörde, dem Zentralamt und den Strafverfolgungsbehörden über ein Abrufverfahren austauschen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_35"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Überprüfung",
+        "citation": "Art. 35a Abs. 1 GwG",
+        "content": "Zur Erfüllung ihrer Aufgaben kann die Meldestelle mittels Abrufverfahren überprüfen, ob die ihr gemeldete oder bei ihr angezeigte Person in einer der folgenden Datenbanken verzeichnet ist:\na. nationaler Polizeiindex;\nb. zentrales Migrationsinformationssystem;\nc. Strafregister-Informationssystem VOSTRA;\nd. Staatsschutz-Informations-System;\ne. Personen-, Akten- und Geschäftsverwaltungssystem im Bereich der Rechtshilfe für Strafsachen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_35_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 5. Kapitel: Bearbeitung von Personendaten, Überprüfung",
+        "citation": "Art. 35a Abs. 2 GwG",
+        "content": "Das Zugriffsrecht auf weitere Informationen richtet sich nach den für das jeweilige Informationssystem geltenden Bestimmungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_35_a"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 6. Kapitel: Strafbestimmungen und Rechtspflege, Verletzung der Meldepflicht",
+        "citation": "Art. 37 Abs. 1 GwG",
+        "content": "Mit Busse bis zu 500 000 Franken wird bestraft, wer vorsätzlich die Meldepflicht nach Artikel 9 verletzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_37"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 6. Kapitel: Strafbestimmungen und Rechtspflege, Verletzung der Meldepflicht",
+        "citation": "Art. 37 Abs. 2 GwG",
+        "content": "Wer fahrlässig handelt, wird mit Busse bis zu 150 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_37"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 6. Kapitel: Strafbestimmungen und Rechtspflege, Verletzung der Prüfpflicht",
+        "citation": "Art. 38 Abs. 1 GwG",
+        "content": "Eine Händlerin oder ein Händler, die oder der vorsätzlich die Pflicht nach Artikel 15 verletzt, ein Revisionsunternehmen zu beauftragen, wird mit Busse bis zu 100 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_38"
+    },
+    {
+        "book": "GwG",
+        "title": "GwG, 6. Kapitel: Strafbestimmungen und Rechtspflege, Verletzung der Prüfpflicht",
+        "citation": "Art. 38 Abs. 2 GwG",
+        "content": "Handelt sie oder er fahrlässig, so wird sie oder er mit Busse bis zu 10 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1998/892_892_892/de#art_38"
+    }
+]

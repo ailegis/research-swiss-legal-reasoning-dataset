@@ -1,0 +1,1745 @@
+[
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 1 LTC",
+        "content": "La presente legge ha lo scopo di offrire alla popolazione e all’economia una vasta gamma di servizi di telecomunicazione di qualità, competitivi su scala nazionale e internazionale, a prezzi convenienti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_1"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 1: Disposizioni generali, Scopo",
+        "citation": "Art. 1 cpv. 2 LTC",
+        "content": "La presente legge intende in particolare:\na. garantire a tutte le cerchie della popolazione in tutte le parti del Paese un servizio universale di telecomunicazione affidabile e a prezzi accessibili;\nb. assicurare un traffico delle telecomunicazioni esente da interferenze e rispettoso dei diritti della personalità e della proprietà immateriale;\nc. rendere possibile una concorrenza efficace nella fornitura dei servizi di telecomunicazione;\nd. proteggere gli utenti di servizi di telecomunicazione dalla pubblicità sleale e dall’abuso di servizi a valore aggiunto;\ne. proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_1"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 1: Disposizioni generali, Oggetto",
+        "citation": "Art. 2 LTC",
+        "content": "La presente legge disciplina la trasmissione di informazioni mediante telecomunicazione, inclusa la trasmissione di programmi radiotelevisivi per quanto la legge federale del 24 marzo 2006 sulla radiotelevisione (LRTV) non disponga altrimenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_2"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 3 LTC",
+        "content": "Nella presente legge s’intende per:\na. informazioni: segni, segnali, caratteri, immagini, suoni e rappresentazioni di qualunque altro genere destinati all’uomo, ad altri esseri viventi o a macchine;\nb. servizio di telecomunicazione: trasmissione mediante telecomunicazione di informazioni per terzi;\nc. trasmissione mediante telecomunicazione: emissione o ricezione elettrica, magnetica, ottica oppure elettromagnetica di altro tipo, di informazioni su linea o via radioonde;\ncbis. servizio telefonico pubblico: servizio di telecomunicazione che permette la trasmissione della voce in tempo reale mediante uno o più elementi di indirizzo previsti a tale scopo nel quadro di un piano di numerazione nazionale o internazionale; \ncter. servizio a valore aggiunto: prestazione fornita mediante un servizio di telecomunicazione e fatturata agli utenti dal loro fornitore di servizi di telecomunicazione in aggiunta ai servizi di telecomunicazione;\nd. impianti di telecomunicazione: apparecchi, linee o altri dispositivi previsti o impiegati per la trasmissione di informazioni mediante telecomunicazione;\ndbis. e dter. ...\ne. interconnessione: accesso mediante la connessione di impianti e servizi di due fornitori di servizi di telecomunicazione che ne permette l’integrazione funzionale mediante sistemi logici e tecniche di telecomunicazione e che rende possibile l’accesso a servizi di terzi;\nebis. linee affittate: fornitura di capacità di trasmissione trasparenti tra collegamenti punto-punto;\neter. canalizzazioni di cavi: condotte sotterranee in cui sono inserite le linee per la trasmissione di informazioni mediante telecomunicazione, inclusi i pozzi d’accesso;\nf. f. elemento di indirizzo: sequenza di cifre, lettere o segni, oppure altre informazioni che permettono di identificare le persone, i processi informatici, le macchine, gli apparecchi o gli impianti di telecomunicazione che partecipano a un processo di comunicazione mediante telecomunicazione;\ng. dati elenco: indicazioni che identificano o caratterizzano un cliente in relazione a un elemento di indirizzo attribuitogli individualmente e che sono destinate alla pubblicazione di un elenco o sono necessarie alla fornitura di un servizio di telecomunicazione;\nh. programmi radiotelevisivi: una serie di trasmissioni ai sensi dell’articolo 2 LRTV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_3"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Rapporto di valutazione",
+        "citation": "Art. 3a cpv. 1 LTC",
+        "content": "Ogni tre anni il Consiglio federale riferisce all’Assemblea federale in merito:\na. all’evoluzione e capillarità degli investimenti su scala nazionale;\nb. all’evoluzione del servizio universale;\nc. alla qualità e ai prezzi dei servizi di telecomunicazione offerti;\nd. all’evoluzione della concorrenza in materia di reti;\ne. ai costi e alla garanzia dell’accesso ai collegamenti d’utente, a prescindere dalla tecnologia su cui si basano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_3_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Rapporto di valutazione",
+        "citation": "Art. 3a cpv. 2 LTC",
+        "content": "Se del caso, il Consiglio federale presenta all’Assemblea federale proposte tese a promuovere una concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_3_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Registrazione dei fornitori di servizi di telecomunicazione",
+        "citation": "Art. 4 cpv. 1 LTC",
+        "content": "L’Ufficio federale delle comunicazioni (UFCOM) registra i fornitori di servizi di telecomunicazione che utilizzano una delle risorse seguenti per la fornitura di tali servizi:\na. radiofrequenze la cui utilizzazione è sottoposta a concessione;\nb. elementi di indirizzo gestiti a livello nazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_4"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Registrazione dei fornitori di servizi di telecomunicazione",
+        "citation": "Art. 4 cpv. 2 LTC",
+        "content": "I fornitori registrati possono consentire l’utilizzazione delle risorse di cui al capoverso 1 soltanto ad altri fornitori di servizi di telecomunicazione che si siano precedentemente registrati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_4"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Registrazione dei fornitori di servizi di telecomunicazione",
+        "citation": "Art. 4 cpv. 3 LTC",
+        "content": "L’UFCOM stila e pubblica una lista dei fornitori registrati e dei servizi di telecomunicazione da loro offerti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_4"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Registrazione dei fornitori di servizi di telecomunicazione",
+        "citation": "Art. 4 cpv. 4 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli relativi alla registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_4"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Fornitori di servizi di telecomunicazione organizzati secondo una legislazione estera ",
+        "citation": "Art. 5 LTC",
+        "content": "L’autorità competente può vietare ai fornitori di servizi di telecomunicazione organizzati secondo una legislazione estera di utilizzare le radiofrequenze o gli elementi di indirizzo di cui all’articolo 4 capoverso 1, se non è concessa la reciprocità. Sono fatti salvi gli impegni internazionali che vi si oppongono.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_5"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Fornitori di servizi di telecomunicazione con sede o una stabile organizzazione in Svizzera",
+        "citation": "Art. 6 LTC",
+        "content": "I fornitori di servizi di telecomunicazione che hanno la loro sede o una stabile organizzazione in Svizzera devono:\na. osservare le prescrizioni attinenti al diritto del lavoro e garantire le condizioni di lavoro abituali nel settore;\nb. offrire un adeguato numero di posti di formazione professionale di base.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_6"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Blocco dell’accesso ai servizi di telecomunicazione",
+        "citation": "Art. 6a LTC",
+        "content": "I fornitori di servizi di telecomunicazione bloccano l’accesso alla telefonia e a Internet delle persone la cui relazione commerciale non ha avuto inizio mediante la sottoscrizione di un abbonamento, se all’inizio della relazione commerciale esse:\na. hanno utilizzato un’identità inesistente o l’identità di una persona che non aveva precedentemente acconsentito a questa relazione; o\nb. non hanno presentato un documento conforme alle esigenze definite dal Consiglio federale in virtù dell’articolo 23 capoverso 1 della legge federale del 18 marzo 2016 sulla sorveglianza della corrispondenza postale e del traffico delle telecomunicazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_6_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Concessione dell’accesso da parte dei fornitori che detengono una posizione dominante sul mercato",
+        "citation": "Art. 11 cpv. 1 LTC",
+        "content": "I fornitori di servizi di telecomunicazione che detengono una posizione dominante sul mercato devono concedere agli altri fornitori, in modo trasparente e non discriminatorio e a prezzi orientati ai costi, le seguenti prestazioni d’accesso ai loro dispositivi e servizi:\na. accesso completamente disaggregato al collegamento d’utente per utilizzare tutto lo spettro di frequenze disponibile sulla coppia elicoidale metallica;\nb. e c.  ...\nd. interconnessione;\ne. linee affittate;\nf. accesso alle canalizzazioni di cavi, se queste dispongono di capacità sufficienti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Concessione dell’accesso da parte dei fornitori che detengono una posizione dominante sul mercato",
+        "citation": "Art. 11 cpv. 2 LTC",
+        "content": "Essi sono tenuti a presentare separatamente le condizioni e i prezzi delle singole prestazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Concessione dell’accesso da parte dei fornitori che detengono una posizione dominante sul mercato",
+        "citation": "Art. 11 cpv. 3 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Concessione dell’accesso da parte dei fornitori che detengono una posizione dominante sul mercato",
+        "citation": "Art. 11 cpv. 4 LTC",
+        "content": "I fornitori di servizi di telecomunicazione consegnano all’UFCOM una copia dei loro accordi relativi all’accesso. Per quanto non vi si oppongano interessi preponderanti pubblici o privati, l’UFCOM consente la consultazione di questi accordi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Concessione dell’accesso da parte dei fornitori che detengono una posizione dominante sul mercato",
+        "citation": "Art. 11 cpv. 5 LTC",
+        "content": "Per la diffusione di programmi radiotelevisivi non sussiste alcun obbligo d’accesso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Controversie relative all’accesso",
+        "citation": "Art. 11a cpv. 1 LTC",
+        "content": "Se i fornitori di servizi di telecomunicazione non giungono a un’intesa entro tre mesi, la Commissione federale delle comunicazioni (ComCom), su richiesta di una delle parti, stabilisce le condizioni d’accesso su proposta dell’UFCOM. A tale scopo considera segnatamente le condizioni che promuovono una concorrenza efficace, nonché le conseguenze della sua decisione su enti concorrenti. Essa può concedere la protezione giuridica a titolo provvisorio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Controversie relative all’accesso",
+        "citation": "Art. 11a cpv. 2 LTC",
+        "content": "Per stabilire se un fornitore detiene una posizione dominante sul mercato, l’Ufficio federale consulta la Commissione della concorrenza. Quest’ultima può pubblicare il proprio parere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Controversie relative all’accesso",
+        "citation": "Art. 11a cpv. 3 LTC",
+        "content": "La ComCom decide entro sette mesi dal ricevimento della richiesta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Controversie relative all’accesso",
+        "citation": "Art. 11a cpv. 4 LTC",
+        "content": "La ComCom disciplina il genere e la forma delle informazioni contabili e finanziarie che i fornitori di servizi di telecomunicazione che detengono una posizione dominante sul mercato devono presentare nell’ambito della procedura di cui al capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Controversie risultanti da accordi e decisioni relativi all’accesso",
+        "citation": "Art. 11b LTC",
+        "content": "Le controversie risultanti da accordi e decisioni relativi all’accesso sottostanno alla giurisdizione dei tribunali civili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_11_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Aggregazione di servizi",
+        "citation": "Art. 12 cpv. 1 LTC",
+        "content": "Il fornitore di servizi di telecomunicazione che detiene una posizione dominante sul mercato può aggregare i propri servizi purché li offra anche separatamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Aggregazione di servizi",
+        "citation": "Art. 12 cpv. 2 LTC",
+        "content": "Non devono essere offerti separatamente i servizi che, per motivi tecnici o economici o per considerazioni relative alla qualità o alla sicurezza, possono essere offerti soltanto aggregati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Aggregazione di servizi",
+        "citation": "Art. 12 cpv. 3 LTC",
+        "content": "I capoversi 1 e 2 sono applicabili anche quando un fornitore di servizi di telecomunicazione aggrega i propri servizi con quelli di un’impresa terza di cui detiene il controllo o al cui controllo soggiace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Obblighi di trasparenza e d’informazione",
+        "citation": "Art. 12a cpv. 1 LTC",
+        "content": "I fornitori di servizi di telecomunicazione garantiscono ai clienti prezzi trasparenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Obblighi di trasparenza e d’informazione",
+        "citation": "Art. 12a cpv. 2 LTC",
+        "content": "Essi informano il pubblico sulla qualità dei servizi offerti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Obblighi di trasparenza e d’informazione",
+        "citation": "Art. 12a cpv. 3 LTC",
+        "content": "Il Consiglio federale stabilisce le indicazioni che i fornitori devono pubblicare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Obblighi di trasparenza e d’informazione",
+        "citation": "Art. 12a cpv. 4 LTC",
+        "content": "L’UFCOM può informare il pubblico sui diversi servizi di telecomunicazione offerti dai fornitori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Roaming internazionale",
+        "citation": "Art. 12abis cpv. 1 LTC",
+        "content": "Nell’ambito dell’utilizzo di reti di telefonia mobile estere (roaming internazionale), il Consiglio federale può emanare norme che impediscono l’applicazione di prezzi al dettaglio eccessivi e adottare misure volte a promuovere la concorrenza. In particolare, può: \na. emanare prescrizioni sulle modalità di fatturazione;\nb. obbligare i fornitori di servizi di telecomunicazione mobile a permettere ai loro clienti di usufruire all’estero di servizi di roaming di fornitori terzi;\nc. fissare massimali di prezzo sulla base di accordi internazionali;\nd. obbligare i fornitori di servizi di telecomunicazione mobile a proporre offerte comprendenti prestazioni di roaming e opzioni che permettono di usufruire di prestazioni di roaming a prezzo fisso o a prezzo ridotto rispetto alla normale tariffa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a_bis"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Roaming internazionale",
+        "citation": "Art. 12abis cpv. 2 LTC",
+        "content": "L’UFCOM osserva il mercato e analizza l’evoluzione tecnologica e dei prezzi. A tale scopo si basa in particolare sulle informazioni raccolte presso i fornitori in virtù dell’articolo 59 capoverso 1 e collabora con il Sorvegliante dei prezzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_a_bis"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Servizi a valore aggiunto",
+        "citation": "Art. 12b LTC",
+        "content": "Per impedire gli abusi, il Consiglio federale disciplina i servizi a valore aggiunto, in particolare:\na. fissando massimali di prezzo;\nb. emanando prescrizioni sull’identificazione dei servizi a valore aggiunto;\nc. stabilendo importi oltre i quali ulteriori spese possono essere fatturate soltanto previo esplicito consenso degli utenti;\nd. prescrivendo, nel rispetto degli impegni internazionali, che i fornitori di servizi a valore aggiunto abbiano la loro sede o una stabile organizzazione in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Motivi per bloccare il collegamento",
+        "citation": "Art. 12bbis LTC",
+        "content": "Se un cliente contesta una fattura del suo fornitore di servizi di telecomunicazione per prestazioni diverse da quelle di telecomunicazione, il fornitore non può, per tale motivo, né bloccare l’accesso ai servizi di telecomunicazione né disdire il contratto prima che la controversia sia stata composta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_b_bis"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Conciliazione",
+        "citation": "Art. 12c cpv. 1 LTC",
+        "content": "L’UFCOM istituisce un organo di conciliazione o ne incarica terzi. In caso di controversie tra clienti e fornitori di servizi di telecomunicazione o di servizi a valore aggiunto, ogni parte può adire l’organo di conciliazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Conciliazione",
+        "citation": "Art. 12c cpv. 2 LTC",
+        "content": "Chi adisce l’organo di conciliazione paga un emolumento per l’esame del caso. Il fornitore di servizi di telecomunicazione o di servizi a valore aggiunto si assume le spese procedurali dedotto questo emolumento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Conciliazione",
+        "citation": "Art. 12c cpv. 3 LTC",
+        "content": "Le parti non sono vincolate alla decisione dell’organo di conciliazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Conciliazione",
+        "citation": "Art. 12c cpv. 4 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Elenchi pubblici",
+        "citation": "Art. 12d cpv. 1 LTC",
+        "content": "I clienti dei fornitori di servizi di telecomunicazione scelgono liberamente se figurare negli elenchi pubblici. Nei limiti previsti dal capoverso 2, possono stabilire quali dati personali siano pubblicati nell’elenco.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Elenchi pubblici",
+        "citation": "Art. 12d cpv. 2 LTC",
+        "content": "Il Consiglio federale può definire il contenuto minimo di un’iscrizione in un elenco. Può disciplinare i dettagli relativi alla pubblicazione e all’utilizzo dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Internet aperto",
+        "citation": "Art. 12e cpv. 1 LTC",
+        "content": "I fornitori di accesso a Internet trasmettono informazioni senza fare distinzioni di natura tecnica o economica tra emittenti, destinatari, contenuti, servizi, classi di servizi, protocolli, applicazioni, programmi o terminali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Internet aperto",
+        "citation": "Art. 12e cpv. 2 LTC",
+        "content": "Possono trasmettere informazioni in modo differenziato se necessario per: \na. rispettare una prescrizione legale o la decisione di un’autorità giudiziaria;\nb. garantire l’integrità o la sicurezza della rete, dei servizi forniti tramite la stessa o dei terminali ad essa collegati;\nc. ottemperare a un’esplicita richiesta del cliente; o \nd. far fronte a congestioni temporanee e straordinarie della rete; se identici, i flussi di dati vanno trattati allo stesso modo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Internet aperto",
+        "citation": "Art. 12e cpv. 3 LTC",
+        "content": "Attraverso lo stesso collegamento i fornitori possono offrire, oltre all’accesso a Internet, altri servizi che, per determinati contenuti, applicazioni o servizi, devono essere ottimizzati in modo da soddisfare le esigenze di qualità dei clienti. Gli altri servizi non possono essere utilizzati o offerti in sostituzione di servizi di accesso a Internet e non devono deteriorare la qualità dei servizi di accesso a Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Internet aperto",
+        "citation": "Art. 12e cpv. 4 LTC",
+        "content": "I fornitori di accesso a Internet devono informare il pubblico e i clienti se, al momento della trasmissione, trattano le informazioni in modo differenziato sotto il profilo tecnico o economico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_12_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Informazione da parte dell’UFCOM",
+        "citation": "Art. 13 cpv. 1 LTC",
+        "content": "Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’UFCOM fornisce su richiesta informazioni sul nome e sull’indirizzo del fornitore di servizi di telecomunicazione o di servizi a valore aggiunto, sui servizi da esso forniti e sui perseguimenti e sulle sanzioni di natura amministrativa o penale di cui è oggetto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Informazione da parte dell’UFCOM",
+        "citation": "Art. 13 cpv. 2 LTC",
+        "content": "L’UFCOM può pubblicare tali informazioni e renderle accessibili mediante una procedura di richiamo se ne sussiste un interesse pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Informazione da parte dell’UFCOM",
+        "citation": "Art. 13 cpv. 3 LTC",
+        "content": "Sui perseguimenti di natura amministrativa o penale in corso l’UFCOM può dare informazioni, pubblicarle o renderle accessibili mediante procedura di richiamo soltanto se ne sussiste un interesse pubblico o privato preponderante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Elaborazione dei dati",
+        "citation": "Art. 13a cpv. 1 LTC",
+        "content": "La Commissione e l’Ufficio federale possono elaborare dati personali, inclusi i dati su perseguimenti e sanzioni di natura amministrativa e penale, ove sia indispensabile per adempiere i compiti conferiti loro dalla legislazione sulle telecomunicazioni. A tal fine, possono avvalersi di un sistema d’informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Elaborazione dei dati",
+        "citation": "Art. 13a cpv. 2 LTC",
+        "content": "La ComCom e l’UFCOM prendono i provvedimenti tecnici e organizzativi necessari per garantire la protezione e la sicurezza dei dati al momento dell’elaborazione, in particolare al momento della loro trasmissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Elaborazione dei dati",
+        "citation": "Art. 13a cpv. 3 LTC",
+        "content": "Il Consiglio federale può emanare disposizioni completive, in particolare sull’organizzazione e la gestione del sistema d’informazioni, sulle categorie di dati da elaborare, sull’autorizzazione d’accesso e di elaborazione, sulla durata di conservazione, nonché sull’archiviazione e la distruzione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Assistenza amministrativa",
+        "citation": "Art. 13b cpv. 1 LTC",
+        "content": "La ComCom e l’UFCOM trasmettono ad altre autorità svizzere i dati di cui queste necessitano per l’adempimento dei loro compiti legali. Fanno parte di tali dati anche i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o penali amministrativi. I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Assistenza amministrativa",
+        "citation": "Art. 13b cpv. 2 LTC",
+        "content": "Salvo diversa disposizione di accordi internazionali, la Commissione e l’Ufficio federale possono trasmettere dati ad autorità di vigilanza estere incaricate di compiti nel settore delle telecomunicazioni, inclusi i dati personali degni di particolare protezione raccolti nell’ambito di procedimenti amministrativi o penali amministrativi, soltanto se queste autorità:\na. utilizzano tali dati unicamente per esercitare la vigilanza sui fornitori di servizi di telecomunicazione e osservare il mercato;\nb. sono vincolate al segreto d’ufficio o al segreto professionale; e\nc. trasmettono tali dati ad autorità competenti e a organi incaricati di compiti di vigilanza nell’interesse pubblico, solo previa approvazione della ComCom o dell’UFCOM o conformemente a un’autorizzazione generale prevista da un trattato internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Assistenza amministrativa",
+        "citation": "Art. 13b cpv. 3 LTC",
+        "content": "La ComCom e l’UFCOM non sono autorizzati a trasmettere dati ad autorità penali estere se l’assistenza giudiziaria in materia penale è esclusa. La ComCom o l’UFCOM decide d’intesa con l’Ufficio federale di giustizia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 1: Disposizioni comuni, Assistenza amministrativa",
+        "citation": "Art. 13b cpv. 4 LTC",
+        "content": "Le autorità svizzere trasmettono gratuitamente alla Commissione e all’Ufficio federale i dati che potrebbero essere importanti per l’esecuzione della legislazione sulle telecomunicazioni, inclusi i dati personali degni di particolare protezione. I dati sono resi accessibili singolarmente, mediante liste o su supporti elettronici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_13_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Concessione",
+        "citation": "Art. 14 cpv. 1 LTC",
+        "content": "La ComCom vigila affinché il servizio universale sia garantito a tutte le cerchie della popolazione in tutte le regioni del Paese. A tale scopo rilascia periodicamente una o più concessioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_14"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Concessione",
+        "citation": "Art. 14 cpv. 2 LTC",
+        "content": "La concessione è vincolata all’onere di fornire integralmente o in parte le prestazioni del servizio universale (art. 16) a tutte le cerchie della popolazione della zona interessata dalla concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_14"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Concessione",
+        "citation": "Art. 14 cpv. 3 LTC",
+        "content": "Per il rilascio della concessione è bandita una pubblica gara. La procedura è conforme ai principi di obiettività, non discriminazione e trasparenza. Il Consiglio federale disciplina i dettagli. Non si applica il diritto in materia di appalti pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_14"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Concessione",
+        "citation": "Art. 14 cpv. 4 LTC",
+        "content": "Se è evidente a priori che la pubblica gara non può svolgersi in condizioni di concorrenza o se non pervengono candidature adeguate, la ComCom può fare capo a uno o più fornitori di servizi di telecomunicazione per garantire il servizio universale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_14"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Concessione",
+        "citation": "Art. 14 cpv. 5 LTC",
+        "content": "Di regola, le concessioni scadono alla stessa data.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_14"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Condizioni per il rilascio della concessione",
+        "citation": "Art. 15 LTC",
+        "content": "Chiunque vuole ottenere una concessione per il servizio universale deve:\na. disporre delle necessarie capacità tecniche;\nb. rendere verosimile di essere in grado di assicurare l’offerta di prestazioni, in particolare dal profilo finanziario, e l’esercizio per tutta la durata della concessione e indicare l’indennità finanziaria secondo l’articolo 19 che intende ottenere;\nc. garantire di rispettare il diritto applicabile, segnatamente la presente legge, le sue disposizioni d’esecuzione nonché la concessione;\nd. garantire di osservare le prescrizioni attinenti al diritto del lavoro e le condizioni di lavoro abituali nel settore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_15"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Portata del servizio universale",
+        "citation": "Art. 16 cpv. 1 LTC",
+        "content": "I concessionari del servizio universale forniscono nella loro zona di concessione, tenendo conto dello stato attuale della tecnica e della domanda, una o più delle seguenti prestazioni:\na. il servizio telefonico pubblico, ossia la trasmissione della voce in tempo reale mediante telecomunicazione, compresa la trasmissione di dati a velocità compatibili con le vie di trasmissione della voce, nonché il collegamento e i servizi supplementari;\nb. l’accesso ai servizi d’emergenza;\nc. un numero sufficiente di telefoni pubblici a pagamento;\nd. l’accesso agli elenchi svizzeri degli abbonati al servizio telefonico pubblico; il Consiglio federale può prevedere che il concessionario del servizio universale tenga un elenco di tutti i clienti di prestazioni del servizio universale (elenco universale);\ne.  ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_16"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Portata del servizio universale",
+        "citation": "Art. 16 cpv. 1bis LTC",
+        "content": "Le prestazioni attinenti al servizio universale devono essere proposte in modo da poter essere fruite dai disabili a condizioni che dal profilo qualitativo, quantitativo ed economico siano comparabili a quelle offerte ai non disabili. A tal fine il concessionario del servizio universale provvede segnatamente a:\na. conformare i telefoni pubblici alle esigenze dei disabili sensoriali e di quelli con mobilità ridotta;\nb. mettere a disposizione degli audiolesi un servizio di trasmissione e di commutazione dei messaggi;\nc. mettere a disposizione degli ipovedenti un servizio d’informazione e di trasmissione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_16"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Portata del servizio universale",
+        "citation": "Art. 16 cpv. 2 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli. Può prevedere speciali disposizioni per i collegamenti fuori delle località. Può delegare queste mansioni al Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_16"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Portata del servizio universale",
+        "citation": "Art. 16 cpv. 3 LTC",
+        "content": "Il Consiglio federale adegua periodicamente le prestazioni del servizio universale alle esigenze sociali ed economiche e allo stato della tecnica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_16"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Qualità e prezzi",
+        "citation": "Art. 17 cpv. 1 LTC",
+        "content": "Le prestazioni del servizio universale devono essere disponibili in tutto il Paese a un determinato livello di qualità. Il Consiglio federale stabilisce i criteri qualitativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_17"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Qualità e prezzi",
+        "citation": "Art. 17 cpv. 2 LTC",
+        "content": "Il Consiglio federale fa in modo che le tariffe siano stabilite indipendentemente dalle distanze. Esso fissa periodicamente, per le prestazioni rilevanti del servizio universale, il limite massimo dei prezzi. Questo limite è uniformato per tutta la zona ed è fissato in base all’evoluzione del mercato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_17"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Indennità finanziaria",
+        "citation": "Art. 19 cpv. 1 LTC",
+        "content": "Qualora prima del rilascio della concessione risulti che i costi per la fornitura del servizio universale in una determinata zona non possono essere coperti nonostante una gestione efficace, il concessionario ha diritto a un’indennità finanziaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Indennità finanziaria",
+        "citation": "Art. 19 cpv. 2 LTC",
+        "content": "Il concessionario che riceve un’indennità finanziaria deve comunicare ogni anno all’UFCOM tutte le informazioni necessarie ai fini della valutazione e del controllo dei costi, in particolare le informazioni finanziarie e contabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Indennità finanziaria",
+        "citation": "Art. 19 cpv. 3 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Trasferimento e modifica della concessione",
+        "citation": "Art. 19a cpv. 1 LTC",
+        "content": "La concessione può essere trasferita integralmente o parzialmente a terzi soltanto con il consenso della ComCom.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Trasferimento e modifica della concessione",
+        "citation": "Art. 19a cpv. 2 LTC",
+        "content": "L’articolo 24e si applica alla modifica della concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 2: Concessione per il servizio universale, Pubblicazione da parte dell’UFCOM",
+        "citation": "Art. 19b LTC",
+        "content": "Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’UFCOM pubblica il nome e l’indirizzo del concessionario, l’oggetto della concessione, nonché i diritti e gli obblighi derivanti dalla concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_19_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Servizio d’emergenza",
+        "citation": "Art. 20 cpv. 1 LTC",
+        "content": "I fornitori del servizio telefonico pubblico devono offrire un servizio che permetta agli utenti di contattare la centrale d’allarme competente in situazioni di pericolo per l’integrità fisica, la vita, la salute o la proprietà (servizio d’emergenza).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_20"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Servizio d’emergenza",
+        "citation": "Art. 20 cpv. 2 LTC",
+        "content": "Essi devono garantire l’istradamento e la localizzazione delle chiamate d’emergenza. Tenendo conto degli interessi della popolazione e dei fornitori nonché dell’evoluzione tecnica e dell’armonizzazione internazionale, il Consiglio federale può definire eccezioni e prevedere l’utilizzazione di funzioni di localizzazione di apparecchi terminali anche se l’utente non vi ha espressamente acconsentito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_20"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Servizio d’emergenza",
+        "citation": "Art. 20 cpv. 3 LTC",
+        "content": "Il Consiglio federale può estendere l’obbligo di fornire il servizio d’emergenza ad altri servizi di telecomunicazione accessibili al pubblico e ampiamente utilizzati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_20"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 1 LTC",
+        "content": "I fornitori del servizio telefonico pubblico raccolgono e aggiornano i dati elenco dei loro clienti. Essi:\na. non sono tenuti a verificare l’esattezza dei dati;\nb. garantiscono che i dati siano conformi alle indicazioni fornite dal cliente;\nc. possono rifiutare di inserire nei dati elenco le indicazioni palesemente inesatte o impiegate a scopi illeciti; tali indicazioni possono essere cancellate dai dati elenco.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 2 LTC",
+        "content": "I fornitori del servizio telefonico pubblico permettono ai fornitori di servizi basati sui dati elenco di accedere ai contenuti minimi dei dati elenco dei propri clienti e di ottenerli in formato elettronico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 3 LTC",
+        "content": "Garantiscono l’accesso in modo trasparente, non discriminatorio e a prezzi orientati ai costi risultanti dalla messa a disposizione dei dati elenco. Tengono conto delle norme tecniche internazionali. Alla composizione delle controversie si applicano per analogia gli articoli 11a e 11b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 4 LTC",
+        "content": "I fornitori di servizi basati sui dati elenco rispettano l’integrità dei dati. Possono modificarli solo previo accordo del fornitore del servizio telefonico pubblico responsabile della raccolta dei dati. Aggiornano o cancellano i dati conformemente alle modifiche comunicate dai fornitori del servizio telefonico pubblico. Il Consiglio federale può emanare prescrizioni sul trattamento dei dati elenco.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 5 LTC",
+        "content": "I fornitori del servizio telefonico pubblico possono far capo a terzi per adempiere i propri obblighi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Raccolta e messa a disposizione dei dati elenco",
+        "citation": "Art. 21 cpv. 6 LTC",
+        "content": "Il Consiglio federale può estendere l’applicazione delle disposizioni del presente articolo ad altri servizi di telecomunicazione accessibili al pubblico e ampiamente utilizzati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Interoperabilità",
+        "citation": "Art. 21a cpv. 1 LTC",
+        "content": "I fornitori del servizio telefonico pubblico garantiscono la capacità di comunicazione fra tutti gli utenti di questo servizio (interoperabilità).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Interoperabilità",
+        "citation": "Art. 21a cpv. 2 LTC",
+        "content": "Il Consiglio federale può estendere l’obbligo di cui al capoverso 1 ad altri servizi di telecomunicazione accessibili al pubblico e ampiamente utilizzati. Può prescrivere interfacce per garantire un accesso alle prestazioni conforme alle norme internazionali. L’UFCOM emana le necessarie prescrizioni tecniche e amministrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 2: Servizi di telecomunicazione, Sezione 3: Obblighi derivanti dalla fornitura di servizi specifici, Interoperabilità",
+        "citation": "Art. 21a cpv. 3 LTC",
+        "content": "I fornitori tenuti a garantire l’interoperabilità devono offrire l’interconnessione anche se non detengono una posizione dominante sul mercato. Alle controversie relative alle condizioni d’interconnessione si applicano per analogia gli articoli 11a capoversi 1 e 3 nonché 11b. Il Consiglio federale può imporre altri obblighi ai fornitori tenuti a garantire l’interoperabilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_21_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Utilizzazione dello spettro delle radiofrequenze",
+        "citation": "Art. 22 cpv. 1 LTC",
+        "content": "Lo spettro delle radiofrequenze può essere utilizzato liberamente nel rispetto delle prescrizioni di utilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Utilizzazione dello spettro delle radiofrequenze",
+        "citation": "Art. 22 cpv. 2 LTC",
+        "content": "Il Consiglio federale può prevedere che l’utilizzazione di determinate frequenze sia ammessa soltanto:\na. con una concessione dell’UFCOM o, nei casi di cui all’articolo 22a, della ComCom;\nb. dopo una notifica all’UFCOM;\nc. con un certificato di capacità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Utilizzazione dello spettro delle radiofrequenze",
+        "citation": "Art. 22 cpv. 3 LTC",
+        "content": "Il Consiglio federale prevede limitazioni di cui al capoverso 2 soltanto:\na. per evitare interferenze radioelettriche;\nb. per garantire la qualità tecnica dei servizi di telecomunicazione e di altre applicazioni di radiocomunicazione;\nc. per assicurare un’utilizzazione efficiente dello spettro delle radiofrequenze; o\nd. nel caso in cui un altro atto normativo o una convenzione internazionale preveda che lo spettro delle radiofrequenze possa essere utilizzato soltanto previa autorizzazione dell’autorità competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Utilizzazione dello spettro delle radiofrequenze",
+        "citation": "Art. 22 cpv. 4 LTC",
+        "content": "Il Consiglio federale non prevede limitazioni di cui al capoverso 2 per le frequenze la cui attribuzione è di competenza dell’esercito o della protezione civile secondo il piano nazionale di attribuzione delle frequenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Utilizzazione dello spettro delle radiofrequenze",
+        "citation": "Art. 22 cpv. 5 LTC",
+        "content": "Stabilisce le prescrizioni in materia di utilizzazione e le condizioni per il rilascio dei certificati di capacità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Concessioni di radiocomunicazione per la fornitura di servizi di telecomunicazione",
+        "citation": "Art. 22a cpv. 1 LTC",
+        "content": "La ComCom rilascia le concessioni per l’utilizzazione dello spettro delle radiofrequenze destinato alla fornitura di servizi di telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Concessioni di radiocomunicazione per la fornitura di servizi di telecomunicazione",
+        "citation": "Art. 22a cpv. 2 LTC",
+        "content": "Se si prevede che le frequenze disponibili non siano sufficienti, indìce generalmente una pubblica gara.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Concessioni di radiocomunicazione per la fornitura di servizi di telecomunicazione",
+        "citation": "Art. 22a cpv. 3 LTC",
+        "content": "Se non si constata né si prevede una penuria di frequenze secondo il capoverso 2, la ComCom può delegare all’UFCOM, in casi particolari o in maniera generale per intere bande di frequenze, la competenza di rilasciare le concessioni di radiocomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Concessioni di radiocomunicazione per la fornitura di servizi di telecomunicazione",
+        "citation": "Art. 22a cpv. 4 LTC",
+        "content": "Il Consiglio federale disciplina i principi per il rilascio delle concessioni di radiocomunicazione destinate totalmente o in parte alla diffusione di programmi radiotelevisivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_22_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Condizioni per il rilascio della concessione",
+        "citation": "Art. 23 cpv. 1 LTC",
+        "content": "Chiunque vuole ottenere una concessione deve:\na. disporre delle necessarie capacità tecniche e, se prescritto per l’utilizzazione di determinate frequenze (art. 22 cpv. 2 lett. c), di un certificato di capacità corrispondente;\nb. offrire garanzia di rispettare il diritto applicabile, segnatamente la presente legge, la LRTV e le relative disposizioni d’esecuzione nonché la concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_23"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Condizioni per il rilascio della concessione",
+        "citation": "Art. 23 cpv. 2 LTC",
+        "content": "In quanto non vi si oppongano obblighi internazionali, l’autorità concedente può rifiutarsi di rilasciare una concessione a imprese organizzate secondo la legislazione di un altro Paese se non è garantita la reciprocità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_23"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Condizioni per il rilascio della concessione",
+        "citation": "Art. 23 cpv. 3 LTC",
+        "content": "Una concessione di radiocomunicazione è rilasciata soltanto se, in base al piano nazionale di attribuzione delle frequenze, le frequenze disponibili sono sufficienti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_23"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Condizioni per il rilascio della concessione",
+        "citation": "Art. 23 cpv. 4 LTC",
+        "content": "Il rilascio di una concessione di radiocomunicazione non deve né sopprimere né pregiudicare considerevolmente una concorrenza efficace, tranne nel caso in cui ragioni di efficienza economica giustifichino un’eccezione. L’autorità concedente consulta la ComCom nei casi in cui è necessario determinare se il rilascio di una concessione riduca notevolmente la concorrenza o impedisca una concorrenza efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_23"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Procedura di rilascio della concessione",
+        "citation": "Art. 24 cpv. 1 LTC",
+        "content": "Il Consiglio federale disciplina la procedura per il rilascio della concessione di radiocomunicazione. La procedura è conforme ai principi di obiettività, non discriminazione e trasparenza. I dati forniti dai richiedenti sono trattati in modo confidenziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Procedura di rilascio della concessione",
+        "citation": "Art. 24 cpv. 2 LTC",
+        "content": "Non si applica il diritto in materia di appalti pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Procedura di rilascio della concessione",
+        "citation": "Art. 24 cpv. 3 LTC",
+        "content": "Per la procedura di prima istanza concernente la pubblica gara e per la procedura di ricorso, in particolare per valutare le richieste e per tutelare segreti d’affari, il Consiglio federale può derogare alle seguenti disposizioni della legge federale del 20 dicembre 1968 sulla procedura amministrativa (PA) concernenti:\na. l’accertamento dei fatti (art. 12 PA);\nb. la cooperazione delle parti (art. 13 PA);\nc. l’esame degli atti (art. 26–28 PA);\nd. il diritto di essere sentiti (art. 30 e 31 PA);\ne. la notifica e la motivazione delle decisioni (art. 34 e 35 PA).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Procedura di rilascio della concessione",
+        "citation": "Art. 24 cpv. 4 LTC",
+        "content": "Le decisioni incidentali pronunciate in un procedimento concernente la pubblica gara non sono impugnabili separatamente dal merito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Prescrizioni particolari per la concessione",
+        "citation": "Art. 24b LTC",
+        "content": "Se per una determinata fattispecie soggetta all’obbligo della concessione non esistono prescrizioni, l’autorità concedente le fissa di caso in caso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Durata della concessione",
+        "citation": "Art. 24c LTC",
+        "content": "La concessione è rilasciata per un periodo determinato. L’autorità concedente stabilisce la durata in funzione del genere e dell’importanza della concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Trasferimento della concessione e cooperazione tra concessionari",
+        "citation": "Art. 24d cpv. 1 LTC",
+        "content": "La concessione può essere trasferita integralmente o parzialmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Trasferimento della concessione e cooperazione tra concessionari",
+        "citation": "Art. 24d cpv. 2 LTC",
+        "content": "Il trasferimento presuppone il consenso dell’autorità concedente. Il consenso può essere rifiutato soltanto se:\na. non sono rispettate le condizioni per il rilascio della concessione secondo l’articolo 23; o\nb. non è garantita un’utilizzazione delle frequenze efficiente e priva di interferenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Trasferimento della concessione e cooperazione tra concessionari",
+        "citation": "Art. 24d cpv. 3 LTC",
+        "content": "L’autorità concedente può, per alcune bande di frequenze, prevedere eccezioni al requisito del consenso se si può presumere che continui a essere garantita un’utilizzazione efficiente ed esente da interferenze e che la concorrenza efficace non venga né soppressa né pregiudicata considerevolmente. I trasferimenti che non necessitano di un consenso vanno previamente notificati all’autorità concedente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Trasferimento della concessione e cooperazione tra concessionari",
+        "citation": "Art. 24d cpv. 4 LTC",
+        "content": "Se la concessione è stata rilasciata dalla ComCom, il capoverso 2 si applica per analogia al trasferimento economico della concessione. Vi è trasferimento economico quando un’impresa acquisisce il controllo sul concessionario secondo le disposizioni della legislazione sui cartelli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Trasferimento della concessione e cooperazione tra concessionari",
+        "citation": "Art. 24d cpv. 5 LTC",
+        "content": "L’utilizzazione comune di elementi delle reti di radiocomunicazione da parte dei titolari di concessioni rilasciate dalla ComCom deve essere previamente notificata alla ComCom. L’utilizzazione comune delle frequenze necessita del consenso di cui al capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Modifica e revoca della concessione",
+        "citation": "Art. 24e cpv. 1 LTC",
+        "content": "L’autorità concedente può modificare o revocare la concessione se le condizioni di fatto o di diritto sono mutate e se la modifica o la revoca è necessaria per salvaguardare importanti interessi pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Modifica e revoca della concessione",
+        "citation": "Art. 24e cpv. 2 LTC",
+        "content": "Il concessionario è indennizzato in modo adeguato se i diritti trasferiti sono revocati o ridotti in modo sostanziale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Informazione da parte dell’UFCOM",
+        "citation": "Art. 24f cpv. 1 LTC",
+        "content": "Per quanto non vi si oppongano interessi pubblici o privati preponderanti, l’UFCOM fornisce informazioni riguardanti il nome e l’indirizzo del concessionario, l’oggetto della concessione, i diritti e gli obblighi derivanti dalla concessione, le attribuzioni delle frequenze, nonché le stazioni emittenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_f"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Informazione da parte dell’UFCOM",
+        "citation": "Art. 24f cpv. 2 LTC",
+        "content": "L’UFCOM può pubblicare tali informazioni e renderle accessibili mediante procedura di richiamo se ne sussiste un interesse pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_24_f"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Gestione delle frequenze",
+        "citation": "Art. 25 cpv. 1 LTC",
+        "content": "L’UFCOM gestisce nel rispetto degli accordi internazionali lo spettro delle frequenze nonché i diritti d’utilizzazione e le posizioni orbitali dei satelliti assegnati alla Svizzera. Adotta le misure atte a garantire un’utilizzazione efficiente ed esente da interferenza nonché ad assicurare un accesso equo a questi beni sulla base del piano nazionale d’attribuzione delle frequenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_25"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Gestione delle frequenze",
+        "citation": "Art. 25 cpv. 1bis LTC",
+        "content": "Stabilisce il piano nazionale di attribuzione delle frequenze. Tiene debitamente conto delle frequenze necessarie per i compiti dell’esercito e della protezione civile; collabora con il servizio competente dell’esercito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_25"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Gestione delle frequenze",
+        "citation": "Art. 25 cpv. 2 LTC",
+        "content": "Il Consiglio federale approva il piano nazionale d’attribuzione delle frequenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_25"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Gestione delle frequenze",
+        "citation": "Art. 25 cpv. 3 LTC",
+        "content": "In caso di chiamata in servizio di truppe, il Consiglio federale può attribuire all’esercito, per la durata dell’impiego, frequenze supplementari, libere o attribuite tramite concessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_25"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Controllo tecnico",
+        "citation": "Art. 26 cpv. 1 LTC",
+        "content": "L’UFCOM controlla lo spettro delle frequenze ai fini della pianificazione e nell’ambito della vigilanza sull’utilizzazione delle frequenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_26"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Controllo tecnico",
+        "citation": "Art. 26 cpv. 2 LTC",
+        "content": "Esegue tali controlli da solo oppure in collaborazione con altre autorità. Il Consiglio federale disciplina la collaborazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_26"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Controllo tecnico",
+        "citation": "Art. 26 cpv. 3 LTC",
+        "content": "L’UFCOM è autorizzato ad ascoltare o a registrare il traffico delle radiocomunicazioni, nella misura necessaria per garantire una radiodiffusione e una telecomunicazione esente da interferenze, sempreché altri provvedimenti si siano rivelati inefficaci o comportino un dispendio sproporzionato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_26"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Controllo tecnico",
+        "citation": "Art. 26 cpv. 4 LTC",
+        "content": "Le informazioni registrate possono essere utilizzate solamente per determinare le interferenze e le fonti di interferenze.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_26"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Controllo tecnico",
+        "citation": "Art. 26 cpv. 5 LTC",
+        "content": "In caso di sospetto fondato di reato secondo la presente legge, le registrazioni che possono fungere da prova sono trasmesse all’autorità competente. Ogni altra registrazione deve essere immediatamente distrutta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_26"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 3: Radiocomunicazioni, Elaborazione dei dati e assistenza amministrativa",
+        "citation": "Art. 27 LTC",
+        "content": "Sono applicabili gli articoli 13a e 13b sull’elaborazione dei dati e sull’assistenza amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_27"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 1 LTC",
+        "content": "L’UFCOM gestisce gli elementi di indirizzo che devono essere gestiti a livello nazionale. Provvede affinché vi sia un numero sufficiente di elementi di indirizzo, tenendo conto dell’evoluzione tecnica e dell’armonizzazione internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 2 LTC",
+        "content": "Il Consiglio federale stabilisce gli elementi di indirizzo che devono essere gestiti dall’UFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 3 LTC",
+        "content": "Il Consiglio federale può prescrivere una procedura alternativa obbligatoria per la composizione delle controversie che oppongono i titolari di elementi di indirizzo a terzi. Disciplina la procedura, i suoi effetti e le sue conseguenze sulla procedura civile, in particolare in materia di sospensione della prescrizione e di onere della prova. Sono fatte salve le azioni civili dei titolari di elementi di indirizzo e di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 4 LTC",
+        "content": "Nessuno ha diritto a un elemento di indirizzo determinato. Il Consiglio federale può prevedere eccezioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 5 LTC",
+        "content": "I fornitori di servizi di telecomunicazione assicurano la portabilità dei numeri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione degli elementi di indirizzo",
+        "citation": "Art. 28 cpv. 6 LTC",
+        "content": "Il Consiglio federale emana prescrizioni sulla gestione degli elementi di indirizzo, in particolare su:\na. la loro attribuzione, la loro utilizzazione, il loro blocco, il loro trasferimento e la loro revoca;\nb. l’allestimento dei piani di numerazione;\nc. la delega della loro gestione a terzi, la fine dell’attività delegata e la vigilanza su quest’ultima;\nd. la loro subattribuzione;\ne. la portabilità dei numeri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Delega a terzi della gestione di elementi di indirizzo",
+        "citation": "Art. 28a cpv. 1 LTC",
+        "content": "In casi particolari l’UFCOM può delegare a terzi la gestione di determinati elementi di indirizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Delega a terzi della gestione di elementi di indirizzo",
+        "citation": "Art. 28a cpv. 2 LTC",
+        "content": "Sceglie i terzi sulla base di una pubblica gara o di una procedura mediante invito. Li designa direttamente se motivi importanti lo giustificano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Delega a terzi della gestione di elementi di indirizzo",
+        "citation": "Art. 28a cpv. 3 LTC",
+        "content": "Qualora dalla pubblica gara o dalla procedura mediante invito non risulti alcun candidato adeguato o se il delegato non può più adempiere i suoi obblighi, l’UFCOM può obbligare terzi ad assumere questo compito. Per la loro attività, questi possono esigere prezzi che coprono i costi pertinenti e permettono loro di realizzare un utile adeguato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Delega a terzi della gestione di elementi di indirizzo",
+        "citation": "Art. 28a cpv. 4 LTC",
+        "content": "L’articolo 24 si applica per analogia alla procedura di selezione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Domini Internet",
+        "citation": "Art. 28b LTC",
+        "content": "La presente legge si applica ai seguenti domini Internet:\na. il dominio con codice del Paese «.ch» e qualsiasi altro dominio Internet la cui gestione è di competenza della Confederazione e la cui indicazione alfanumerica o la cui trasposizione in altri alfabeti o sistemi grafici faccia riferimento alla Svizzera;\nb. i domini generici la cui gestione è di competenza degli enti svizzeri di diritto pubblico;\nc. i domini generici la cui gestione è di competenza di privati con domicilio o sede in Svizzera;\nd. i domini generici che, in virtù della loro denominazione, rivestono un’importanza particolare per la Svizzera sotto il profilo politico, culturale, geografico o religioso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione dei domini Internet: competenza",
+        "citation": "Art. 28c cpv. 1 LTC",
+        "content": "L’UFCOM gestisce i domini Internet che rientrano nella competenza della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione dei domini Internet: competenza",
+        "citation": "Art. 28c cpv. 2 LTC",
+        "content": "Può fornire prestazioni commerciali a favore di terzi a condizione che ciò sia necessario per la gestione dei nomi di dominio e che siano adempiute le condizioni di cui all’articolo 41a capoversi 2 e 3 della legge del 7 ottobre 2005 sulle finanze della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione dei domini Internet: principi",
+        "citation": "Art. 28d LTC",
+        "content": "La gestione dei domini Internet e dei nomi di dominio a essi subordinati si basa sui seguenti principi: \na. sono garantite la sicurezza e la disponibilità dell’infrastruttura e dei servizi necessari al funzionamento del sistema dei nomi di dominio;\nb. la gestione avviene in modo trasparente e non discriminatorio, se rientra nell’ambito di competenza degli enti di diritto pubblico;\nc. i titolari e richiedenti di nomi di dominio sono protetti contro l’utilizzo abusivo dei loro dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_d"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Gestione dei domini Internet: modalità",
+        "citation": "Art. 28e LTC",
+        "content": "Il Consiglio federale disciplina le modalità di gestione dei domini Internet e dei nomi di dominio ad essi subordinati; tiene conto delle regole che si applicano a livello internazionale. Può in particolare:\na. stabilire le condizioni per l’attribuzione, l’utilizzazione, il blocco, il trasferimento e la revoca di nomi di dominio subordinati ai domini la cui gestione compete alla Confederazione;\nb. disciplinare il trattamento dei dati personali inerenti ai domini regolamentati dalla presente legge, compresa la messa a disposizione del pubblico di una banca dati che garantisca a chiunque l’accesso a informazioni relative ai titolari di nomi di dominio;\nc. prevedere misure contro l’uso di nomi di dominio che sia illecito o contrario all’ordine pubblico, e disciplinare la collaborazione con i servizi privati o pubblici specializzati nel settore;\nd. stabilire l’organizzazione istituzionale, funzionale e operativa dei domini la cui gestione è di competenza alla Confederazione;\ne. disciplinare la gestione dei domini di competenza di enti di diritto pubblico diversi dalla Confederazione o di privati residenti in Svizzera;\nf. emanare disposizioni applicabili ai domini generici che rivestono un’importanza particolare sotto il profilo politico, culturale, geografico o religioso nella misura in cui è necessario per la salvaguardia degli interessi della Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_28_e"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Obbligo d’informazione",
+        "citation": "Art. 29 LTC",
+        "content": "Il titolare di elementi di indirizzo è tenuto a fornire all’autorità competente le informazioni necessarie per la gestione degli elementi di indirizzo attribuiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_29"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Nessun diritto all’indennizzo ",
+        "citation": "Art. 30 LTC",
+        "content": "La modifica da parte delle autorità dei piani di numerazione o delle prescrizioni sulla gestione degli elementi di indirizzo non dà diritto ad alcun indennizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_30"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 4: Elementi di indirizzo, Elaborazione dei dati e assistenza amministrativa",
+        "citation": "Art. 30a LTC",
+        "content": "Si applicano gli articoli 13a e 13b sull’elaborazione dei dati e sull’assistenza amministrativa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_30_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 1 LTC",
+        "content": "Il Consiglio federale può stabilire prescrizioni tecniche sull’importazione, sull’offerta, sulla messa a disposizione sul mercato e sulla messa in servizio d’impianti di telecomunicazione, in particolare per quanto riguarda le esigenze fondamentali di tecnica delle telecomunicazioni, nonché la valutazione della conformità, il certificato e la dichiarazione di conformità, il contrassegno, la registrazione e l’obbligo di certificazione (art. 3 della legge federale del 6 ottobre 1995 sugli ostacoli tecnici al commercio).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 2 LTC",
+        "content": "Se il Consiglio federale ha stabilito esigenze fondamentali di tecnica delle telecomunicazioni secondo il capoverso 1, l’UFCOM, di regola, le concretizza:\na. definendo norme tecniche dal cui rispetto si presume che siano adempite anche le esigenze fondamentali; oppure\nb. dichiarando vincolanti norme tecniche, atti dell’Unione europea o altri regolamenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 3 LTC",
+        "content": "Nell’ambito dell’attuazione del capoverso 2, l’UFCOM tiene conto delle norme internazionali; le deroghe richiedono l’approvazione della Segreteria di Stato dell’economia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 3bis LTC",
+        "content": "L’UFCOM può elaborare e pubblicare norme tecniche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 4 LTC",
+        "content": "Se il Consiglio federale non ha stabilito esigenze fondamentali di tecnica delle telecomunicazioni secondo il capoverso 1 o se l’UFCOM non le ha concretizzate conformemente al capoverso 2, la persona che offre, mette a disposizione sul mercato o mette in servizio un impianto di telecomunicazione deve provvedere affinché quest’ultimo corrisponda alle regole riconosciute della tecnica delle telecomunicazioni. Regole di questo tipo sono, in primo luogo, le norme tecniche armonizzate sul piano internazionale. In mancanza di tali norme, devono essere rispettate le specifiche tecniche dell’UFCOM e, se anche queste mancano, le norme nazionali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Importazione, offerta, messa a disposizione sul mercato e messa in servizio",
+        "citation": "Art. 31 cpv. 5 LTC",
+        "content": "Per motivi di sicurezza di tecnica delle telecomunicazioni, l’UFCOM può prescrivere che gli impianti di telecomunicazione possono essere ceduti solamente a persone particolarmente qualificate. Esso può definire i dettagli di tale cessione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_31"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Installazione ed esercizio",
+        "citation": "Art. 32 LTC",
+        "content": "Un impianto di telecomunicazione può essere installato ed esercitato solamente se, al momento della sua prima messa a disposizione sul mercato, messa in servizio o installazione, corrispondeva alle prescrizioni vigenti e tale è stato mantenuto. Il Consiglio federale può prevedere eccezioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_32"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Impianti di telecomunicazione destinati a garantire la sicurezza pubblica",
+        "citation": "Art. 32a LTC",
+        "content": "Il Consiglio federale disciplina l’importazione, l’offerta, la messa a disposizione sul mercato, la messa in servizio, l’installazione e l’esercizio di impianti di telecomunicazione che le autorità devono impiegare per garantire la sicurezza pubblica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_32_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Divieto di impianti e dispositivi che provocano interferenze",
+        "citation": "Art. 32b cpv. 1 LTC",
+        "content": "Sono vietati la fabbricazione, l’importazione, l’offerta, la messa a disposizione sul mercato, il possesso, la messa in servizio, l’installazione nonché l’esercizio di impianti di telecomunicazione o di altri dispositivi destinati a interferire nel traffico delle telecomunicazioni o nella radiodiffusione oppure a impedirli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_32_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Divieto di impianti e dispositivi che provocano interferenze",
+        "citation": "Art. 32b cpv. 2 LTC",
+        "content": "È fatto salvo l’articolo 32a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_32_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 1 LTC",
+        "content": "Al fine di controllare se le prescrizioni sull’importazione, sull’offerta, sulla messa a disposizione sul mercato, sulla messa in servizio, sull’installazione e sull’esercizio di impianti di telecomunicazione sono rispettate, l’UFCOM può accedere ai locali degli impianti durante il normale orario di lavoro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 2 LTC",
+        "content": "Il Consiglio federale disciplina il diritto d’accesso agli impianti di telecomunicazione che soggiacciono alle prescrizioni militari sull’obbligo del segreto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 3 LTC",
+        "content": "Se un impianto di telecomunicazione non è conforme alle prescrizioni, l’UFCOM adotta le misure necessarie. Può in particolare limitarne o proibirne l’installazione e l’esercizio nonché l’importazione, l’offerta e la messa a disposizione sul mercato, ordinare il ripristino di uno stato conforme alle prescrizioni o il ritiro oppure sequestrare l’impianto senza indennizzo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 4 LTC",
+        "content": "L’UFCOM può pubblicare le informazioni concernenti le misure di cui al capoverso 3 e renderle accessibili mediante procedura di richiamo se ne sussiste un interesse pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 5 LTC",
+        "content": "Sui perseguimenti di natura amministrativa o penale in corso può dare informazioni, pubblicarle o renderle accessibili mediante procedura di richiamo soltanto se ne sussiste un interesse pubblico o privato preponderante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Controllo",
+        "citation": "Art. 33 cpv. 6 LTC",
+        "content": "Può contribuire all’allestimento di banche dati internazionali finalizzate allo scambio di informazioni tra autorità di sorveglianza del mercato. È autorizzato a inserire soltanto dati che può trasmettere ad autorità estere conformemente all’articolo 13b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_33"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Interferenze",
+        "citation": "Art. 34 cpv. 1 LTC",
+        "content": "Se un impianto di telecomunicazione interferisce con il traffico delle telecomunicazioni o la radiodiffusione, l’UFCOM può obbligare l’esercente a modificarlo a proprie spese o a sospenderne l’esercizio, anche se l’impianto è conforme alle disposizioni relative all’importazione, all’offerta, alla messa a disposizione sul mercato, alla messa in servizio, all’installazione e all’esercizio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Interferenze",
+        "citation": "Art. 34 cpv. 1bis LTC",
+        "content": "L’UFCOM può limitare o vietare l’offerta e la messa a disposizione sul mercato di impianti di radiocomunicazione che interferiscono o possono interferire con le utilizzazioni dello spettro delle frequenze che necessitano di una protezione particolare. Questa disposizione è applicabile anche se gli impianti sono conformi alle disposizioni relative all’offerta e alla messa a disposizione sul mercato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Interferenze",
+        "citation": "Art. 34 cpv. 1ter LTC",
+        "content": "Il Consiglio federale stabilisce le condizioni alle quali le seguenti autorità possono installare, mettere in servizio o esercitare un impianto di telecomunicazione che provoca interferenze, per gli scopi qui indicati:\na. le autorità di polizia, di perseguimento penale e di esecuzione delle pene, per garantire la sicurezza pubblica e l’amministrazione della giustizia penale;\nb. il Servizio delle attività informative della Confederazione, per garantire la protezione e la sicurezza dei propri collaboratori, delle proprie informazioni e dei propri impianti;\nc. l’esercito, per garantire la difesa del Paese;\nd. le autorità competenti, per le ricerche d’emergenza o le ricerche di persone condannate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Interferenze",
+        "citation": "Art. 34 cpv. 1quater LTC",
+        "content": "Se interferenze lecite ledono eccessivamente altri interessi pubblici o interessi di terzi è applicabile il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Interferenze",
+        "citation": "Art. 34 cpv. 2 LTC",
+        "content": "Per determinare la fonte delle interferenze con il traffico delle telecomunicazioni e con la radiodiffusione, l’UFCOM ha accesso a tutti gli impianti di telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Elaborazione dei dati e assistenza amministrativa",
+        "citation": "Art. 34a LTC",
+        "content": "Gli articoli 13a e 13b sull’elaborazione dei dati e sull’assistenza amministrativa sono applicabili agli articoli 31–34.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_34_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Utilizzazione di aree d’uso comune",
+        "citation": "Art. 35 cpv. 1 LTC",
+        "content": "Il proprietario di un’area d’uso comune (quali strade, sentieri, piazze pubbliche, fiumi, laghi e rive) è tenuto ad autorizzare i fornitori di servizi di telecomunicazione a utilizzare tale area per la costruzione e l’esercizio di linee e di telefoni pubblici, per quanto tali installazioni non pregiudichino l’uso comune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Utilizzazione di aree d’uso comune",
+        "citation": "Art. 35 cpv. 2 LTC",
+        "content": "I fornitori di servizi di telecomunicazione prendono in considerazione la destinazione e l’utilizzazione del fondo interessato e sopportano le spese per il ripristino dello stato originario. Sono tenuti a spostare le loro linee se il proprietario del fondo intende utilizzarlo in un modo incompatibile con la presenza delle stesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Utilizzazione di aree d’uso comune",
+        "citation": "Art. 35 cpv. 3 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli, in particolare l’obbligo di coordinazione dei fornitori, nonché le condizioni per lo spostamento delle linee e dei telefoni pubblici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Utilizzazione di aree d’uso comune",
+        "citation": "Art. 35 cpv. 4 LTC",
+        "content": "L’autorizzazione va concessa con procedura semplice e rapida. Oltre alle tasse a copertura delle spese, non è possibile chiedere un indennizzo per l’utilizzazione di un’area d’uso comune, a meno che tale uso ne sia pregiudicato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Altri collegamenti",
+        "citation": "Art. 35a cpv. 1 LTC",
+        "content": "Nella misura in cui è ragionevolmente esigibile, oltre al collegamento scelto, il proprietario dell’immobile deve tollerare altri collegamenti fino all’abitazione o al locale commerciale se un fornitore di servizi di telecomunicazione lo richiede e se ne assume i costi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Altri collegamenti",
+        "citation": "Art. 35a cpv. 2 LTC",
+        "content": "È fatto salvo il collegamento di immobili in esecuzione di specifici disposti cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Altri collegamenti",
+        "citation": "Art. 35a cpv. 3 LTC",
+        "content": "Non può essere riscosso alcun compenso per l’utilizzo quando:\na. il locatario o l’affittuario rinuncia fin dall’inizio a utilizzare un nuovo collegamento;\nb. il collegamento è disdetto; il fornitore di servizi di telecomunicazione o se del caso il locatore prevede un termine di disdetta confacente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Altri collegamenti",
+        "citation": "Art. 35a cpv. 4 LTC",
+        "content": "Il fornitore di servizi di telecomunicazione o il locatore può sigillare i collegamenti inutilizzati e verificare i sigilli. Non può essere fatturato alcun costo per l’apposizione dei sigilli o per la riattivazione dei collegamenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Accesso al punto d’entrata nell’edificio e coutenza di impianti domestici",
+        "citation": "Art. 35b cpv. 1 LTC",
+        "content": "Nella misura in cui è tecnicamente possibile e in assenza di altri motivi importanti che giustifichino il rifiuto, ogni fornitore di servizi di telecomunicazione ha il diritto di accedere al punto d’entrata nell’edificio e di utilizzare in comune gli impianti domestici atti alla trasmissione d’informazioni mediante telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Accesso al punto d’entrata nell’edificio e coutenza di impianti domestici",
+        "citation": "Art. 35b cpv. 2 LTC",
+        "content": "Il proprietario dell’immobile e i fornitori di servizi di telecomunicazione sono tenuti a permettere la coutenza degli impianti domestici in modo trasparente e non discriminatorio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Accesso al punto d’entrata nell’edificio e coutenza di impianti domestici",
+        "citation": "Art. 35b cpv. 3 LTC",
+        "content": "Il proprietario dell’immobile deve dare ai fornitori che ne fanno domanda le informazioni necessarie relative agli impianti domestici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Accesso al punto d’entrata nell’edificio e coutenza di impianti domestici",
+        "citation": "Art. 35b cpv. 4 LTC",
+        "content": "I fornitori che hanno finanziato gli impianti devono essere indennizzati in modo adeguato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Accesso al punto d’entrata nell’edificio e coutenza di impianti domestici",
+        "citation": "Art. 35b cpv. 5 LTC",
+        "content": "Su richiesta, la ComCom decide in merito a controversie tra fornitori di servizi di telecomunicazione riguardanti l’accesso al punto d’entrata nell’edificio o le condizioni di coutenza. L’articolo 11b si applica per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_35_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Diritto d’espropriazione e diritto di coutenza",
+        "citation": "Art. 36 cpv. 1 LTC",
+        "content": "Qualora l’allestimento di un impianto di telecomunicazione sia di pubblico interesse, il DATEC conferisce il diritto d’espropriazione. La procedura si svolge conformemente alla legge federale del 20 giugno 1930 sull’espropriazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_36"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Diritto d’espropriazione e diritto di coutenza",
+        "citation": "Art. 36 cpv. 2 LTC",
+        "content": "Per ragioni di pubblico interesse, segnatamente per tener conto degli imperativi della pianificazione del territorio, della protezione del paesaggio, del patrimonio storico e artistico, dell’ambiente, della natura e degli animali o di difficoltà tecniche, l’UFCOM può, su richiesta, obbligare i fornitori di servizi di telecomunicazione a consentire a terzi, dietro adeguata retribuzione, la coutenza dei loro impianti di telecomunicazione e di altri impianti, come canalizzazioni di cavi e stazioni emittenti, a condizione che gli impianti dispongano di capacità sufficienti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_36"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Diritto d’espropriazione e diritto di coutenza",
+        "citation": "Art. 36 cpv. 3 LTC",
+        "content": "Alle stesse condizioni, l’UFCOM può obbligare i fornitori di servizi di telecomunicazione a installare e a utilizzare congiuntamente impianti di telecomunicazione e altri impianti, come canalizzazioni di cavi e stazioni emittenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_36"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Protezione delle linee esistenti",
+        "citation": "Art. 36a LTC",
+        "content": "Le linee di proprietà dei fornitori di servizi di telecomunicazione che alla data dell’entrata in vigore della modifica del 22 marzo 2019 si trovano in canalizzazioni realizzate ai fini dell’urbanizzazione ai sensi del diritto in materia di pianificazione del territorio possono essere rimosse soltanto per motivi importanti. Se possibile, ai fornitori di servizi di telecomunicazione vanno proposte canalizzazioni alternative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_36_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Proprietà di linee",
+        "citation": "Art. 37 cpv. 1 LTC",
+        "content": "Le linee per la trasmissione di informazioni mediante telecomunicazione e le canalizzazioni di cavi sono di proprietà dei fornitori di servizi di telecomunicazione che le hanno installate o acquisite da terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_37"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Proprietà di linee",
+        "citation": "Art. 37 cpv. 2 LTC",
+        "content": "Il proprietario che sul proprio fondo danneggia la linea o la canalizzazione dei cavi di un fornitore di servizi di telecomunicazione è responsabile del danno se causato intenzionalmente o per negligenza grave.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_37"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Radiocomunicazione dei radioamatori",
+        "citation": "Art. 37a cpv. 1 LTC",
+        "content": "Per le antenne semplici a filo o ad asta nonché per le antenne collocate su aste leggere simili a un pennone per bandiera le autorità possono prevedere una procedura di autorizzazione semplificata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_37_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 5: Impianti di telecomunicazione, Radiocomunicazione dei radioamatori",
+        "citation": "Art. 37a cpv. 2 LTC",
+        "content": "La manutenzione di un’antenna o la sua sostituzione con un’antenna di dimensioni comparabili non sottostà ad autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_37_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tassa destinata a finanziare il servizio universale",
+        "citation": "Art. 38 cpv. 1 LTC",
+        "content": "L’UFCOM riscuote dai fornitori di servizi di telecomunicazione una tassa il cui provento è utilizzato esclusivamente per finanziare i costi non coperti del servizio universale secondo l’articolo 16 e i costi per la gestione del meccanismo di finanziamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_38"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tassa destinata a finanziare il servizio universale",
+        "citation": "Art. 38 cpv. 2 LTC",
+        "content": "La tassa deve coprire complessivamente i costi menzionati nel capoverso 1 ed è stabilita proporzionalmente alle cifre d’affari realizzate con i servizi di telecomunicazione offerti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_38"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tassa destinata a finanziare il servizio universale",
+        "citation": "Art. 38 cpv. 3 LTC",
+        "content": "Il Consiglio federale può esentare i fornitori di servizi di telecomunicazione dal pagamento della tassa se la cifra d’affari che realizzano con questi servizi è inferiore a un importo determinato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_38"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tassa destinata a finanziare il servizio universale",
+        "citation": "Art. 38 cpv. 4 LTC",
+        "content": "Esso disciplina i dettagli della fornitura delle informazioni necessarie per la ripartizione e il controllo dei costi menzionati nel capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_38"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 1 LTC",
+        "content": "L’autorità concedente riscuote una tassa per le concessioni di radiocomunicazione. Non è riscossa nessuna tassa per le concessioni di radiocomunicazione destinate alla diffusione di programmi radiotelevisivi titolari di una concessione secondo la LRTV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 2 LTC",
+        "content": "L’importo della tassa per le concessioni di radiocomunicazione si calcola secondo:\na. la gamma di frequenze attribuita, la classe di frequenze e il valore delle frequenze;\nb. la larghezza di banda attribuita;\nc. la copertura territoriale; e\nd. la durata di utilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 3 LTC",
+        "content": "Se, oltre che per diffondere programmi radiotelevisivi titolari di una concessione, una frequenza può essere utilizzata anche per trasmettere altri programmi radiotelevisivi e informazioni, è riscossa una tassa di concessione proporzionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 3bis LTC",
+        "content": "Per favorire l’introduzione di nuove tecnologie di diffusione conformemente all’articolo 58 LRTV o per garantire la pluralità dell’offerta nelle regioni dove la copertura terrestre senza filo è insufficiente, il Consiglio federale può ridurre l’importo della tassa di concessione per la diffusione di programmi radiofonici e televisivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 4 LTC",
+        "content": "Se le concessioni di radiocomunicazione sono aggiudicate all’asta, la tassa di concessione corrisponde all’importo offerto dedotta la tassa amministrativa per la pubblica gara e il rilascio della concessione di radiocomunicazione. L’autorità concedente può stabilire un’offerta minima.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse della concessione di radiocomunicazione",
+        "citation": "Art. 39 cpv. 5 LTC",
+        "content": "A condizione che non siano forniti servizi di telecomunicazione e nell’ambito di un’utilizzazione razionale delle frequenze, il Consiglio federale può esentare dalla tassa per le concessioni di radiocomunicazione:\na. le autorità nonché gli enti di diritto pubblico e gli stabilimenti della Confederazione, dei Cantoni e dei Comuni qualora utilizzino lo spettro delle frequenze solo per le mansioni che sono gli unici ad adempiere;\nb. le imprese pubbliche di trasporto;\nc. i beneficiari istituzionali di privilegi, immunità e facilitazioni di cui all’articolo 2 capoverso 1 lettere a, b nonché d–l della legge del 22 giugno 2007 sullo Stato ospite;\nd. le persone giuridiche di diritto privato, purché assumano compiti pubblici della Confederazione, di un Cantone o di un Comune",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Finanziamento di misure collaterali",
+        "citation": "Art. 39a LTC",
+        "content": "Il Consiglio federale può assegnare una parte dei proventi delle tasse di concessione di cui all’articolo 39 per misure collaterali quali la ricerca o studi inerenti alle tecnologie di radiocomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_39_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse amministrative",
+        "citation": "Art. 40 cpv. 1 LTC",
+        "content": "L’autorità competente riscuote tasse amministrative a copertura dei costi delle sue decisioni e prestazioni, in particolare per:\na. la vigilanza sui fornitori di servizi di telecomunicazione;\nb. le decisioni in materia di accesso, messa a disposizione dei dati elenco, interoperabilità e coutenza di impianti;\nc. la composizione di controversie tra clienti e fornitori di servizi di telecomunicazione o di servizi a valore aggiunto;\nd.  il rilascio, la modifica e l’annullamento di concessioni per il servizio universale e di concessioni di radiocomunicazione, la vigilanza in materia nonché la registrazione dell’utilizzazione delle frequenze;\ne. l’amministrazione e il controllo tecnico dello spettro delle frequenze e delle posizioni orbitali dei satelliti;\nf. l’amministrazione, l’attribuzione e la revoca di elementi d’indirizzo;\ng. la registrazione e il controllo degli impianti di telecomunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_40"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse amministrative",
+        "citation": "Art. 40 cpv. 1bis LTC",
+        "content": "Non sono riscosse tasse amministrative secondo il capoverso 1 lettere d ed e per le concessioni di radiocomunicazione rilasciate all’esercito, alla protezione civile, al Corpo delle guardie di confine, alla polizia, ai pompieri, ai servizi di protezione e di salvataggio che operano esclusivamente nell’interesse pubblico, nonché agli stati maggiori di comando civili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_40"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse amministrative",
+        "citation": "Art. 40 cpv. 2 LTC",
+        "content": "Se un’attività ai sensi del capoverso 1 riguarda servizi di telecomunicazione o concessioni di radiocomunicazione che servono interamente o parzialmente alla diffusione di programmi radiotelevisivi, l’autorità può tener conto della limitata capacità finanziaria dell’emittente titolare di un diritto d’accesso che viene direttamente o indirettamente gravata dalla tassa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_40"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse amministrative",
+        "citation": "Art. 40 cpv. 3 LTC",
+        "content": "Se le attività enumerate nel capoverso 1 sono trasferite a terzi, questi possono essere obbligati a sottoporre i prezzi dei loro servizi all’UFCOM per approvazione, in particolare se per questi servizi non vi è concorrenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_40"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Tasse amministrative",
+        "citation": "Art. 40 cpv. 4 LTC",
+        "content": "Il DATEC può fissare limiti massimi di prezzo, segnatamente se il livello dei prezzi su un determinato mercato fa supporre che vi saranno abusi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_40"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Determinazione e riscossione delle tasse",
+        "citation": "Art. 41 LTC",
+        "content": "Il Consiglio federale disciplina la riscossione delle tasse; fissa le modalità di finanziamento del servizio universale, nonché l’importo delle tasse per le concessioni di radiocomunicazione e delle tasse amministrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_41"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 6: Tasse, Garanzia",
+        "citation": "Art. 42 LTC",
+        "content": "L’autorità competente per la riscossione delle tasse può esigere un’adeguata garanzia dalla persona assoggettata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_42"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Obbligo del segreto",
+        "citation": "Art. 43 LTC",
+        "content": "Le persone che sono o erano incaricate di svolgere compiti di servizio nell’ambito delle telecomunicazioni non possono fornire a terzi indicazioni sul traffico delle telecomunicazioni di utenti e non devono offrire a nessuno l’occasione di fornire indicazioni di questo genere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_43"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Informazioni",
+        "citation": "Art. 45 cpv. 1 LTC",
+        "content": "L’utente può richiedere al fornitore di servizi di telecomunicazione informazioni sui dati impiegati per l’allestimento della fattura, in particolare sugli elementi di indirizzo, sull’ora della comunicazione e sulla retribuzione dovuta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Informazioni",
+        "citation": "Art. 45 cpv. 2 LTC",
+        "content": "Chiunque abbisogni di questi dati per l’identificazione di comunicazioni stabilite abusivamente o di pubblicità di massa effettuata in modo sleale può richiedere al fornitore del servizio di telecomunicazione di fornirgli informazioni sul nome e l’indirizzo degli utenti mediante il cui collegamento sono state stabilite le comunicazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione dei fanciulli e degli adolescenti",
+        "citation": "Art. 45a cpv. 1 LTC",
+        "content": "Il Consiglio federale può emanare disposizioni volte a proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione. Può segnatamente obbligare i fornitori di servizi d’accesso a Internet a consigliare i loro clienti sulle possibili misure in materia di protezione dei fanciulli e degli adolescenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione dei fanciulli e degli adolescenti",
+        "citation": "Art. 45a cpv. 2 LTC",
+        "content": "Il Consiglio federale può determinare le misure di lotta appropriate e necessarie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Dati relativi all’ubicazione",
+        "citation": "Art. 45b LTC",
+        "content": "I fornitori di servizi di telecomunicazione possono elaborare dati relativi all’ubicazione dei loro clienti soltanto per fornire e fatturare servizi di telecomunicazione; possono farlo anche per servizi d’altro genere se i clienti hanno dato previamente il loro consenso oppure se i dati sono previamente resi anonimi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45_b"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Dati memorizzati su apparecchi di terzi",
+        "citation": "Art. 45c LTC",
+        "content": "L’elaborazione, attraverso la trasmissione mediante telecomunicazione, di dati memorizzati su apparecchi di terzi è autorizzata unicamente:\na. per fornire e fatturare servizi di telecomunicazione; oppure\nb. se gli utenti sono informati dell’elaborazione medesima e del suo scopo ed è data loro la possibilità di rifiutarla.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_45_c"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione della personalità",
+        "citation": "Art. 46 LTC",
+        "content": "Il Consiglio federale disciplina in particolare l’identificazione del collegamento che ha stabilito la chiamata, la deviazione della stessa, l’impiego di dati relativi al traffico delle telecomunicazioni nonché la sicurezza dei servizi di telecomunicazione contro le intercettazioni e le ingerenze non autorizzate. In tale contesto, tiene conto della protezione della personalità degli utenti e degli interessi pubblici preponderanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_46"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione dei fanciulli e degli adolescenti",
+        "citation": "Art. 46a cpv. 1 LTC",
+        "content": "Il Consiglio federale può emanare disposizioni volte a proteggere i fanciulli e gli adolescenti dai pericoli derivanti dall’utilizzazione dei servizi di telecomunicazione. Può segnatamente obbligare i fornitori di servizi d’accesso a Internet a consigliare i loro clienti sulle possibili misure in materia di protezione dei fanciulli e degli adolescenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_46_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione dei fanciulli e degli adolescenti",
+        "citation": "Art. 46a cpv. 2 LTC",
+        "content": "Allo scopo di cancellare tempestivamente e su scala internazionale informazioni dai contenuti pornografici ai sensi dell’articolo 197 capoversi 4 e 5 del Codice penale, l’UFCOM, l’Ufficio federale di polizia e i servizi cantonali competenti coordinano misure adeguate. Possono sostenere e far capo a servizi di segnalazione gestiti da terzi nonché ad autorità all’estero. Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_46_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 7:, Segreto delle telecomunicazioni, protezione dei dati e protezione dei fanciulli e degli adolescenti, Protezione dei fanciulli e degli adolescenti",
+        "citation": "Art. 46a cpv. 3 LTC",
+        "content": "I fornitori di servizi di telecomunicazione dissimulano le informazioni dai contenuti pornografici ai sensi dell’articolo 197 capoversi 4 e 5 del Codice penale segnalate loro dall’Ufficio federale di polizia. I fornitori di servizi di telecomunicazione segnalano all’Ufficio federale di polizia casi sospetti di informazioni dai contenuti pornografici ai sensi dell’articolo 197 capoversi 4 e 5 del Codice penale scoperti casualmente nel quadro della loro attività o segnalati loro per scritto da terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_46_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Comunicazione a garanzia della sicurezza",
+        "citation": "Art. 47 cpv. 1 LTC",
+        "content": "Il Consiglio federale determina i servizi di telecomunicazione che i fornitori di servizi di telecomunicazione devono assicurare affinché l’esercito, la protezione civile, il Corpo delle guardie di confine, la polizia, i pompieri, i servizi di protezione e di salvataggio nonché gli stati maggiori di comando civili possano adempiere i propri compiti in tutte le situazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_47"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Comunicazione a garanzia della sicurezza",
+        "citation": "Art. 47 cpv. 2 LTC",
+        "content": "In vista e in caso di situazioni particolari e straordinarie può obbligare i fornitori a mettere a disposizione locali e impianti e a tollerare lo svolgimento di esercitazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_47"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Comunicazione a garanzia della sicurezza",
+        "citation": "Art. 47 cpv. 3 LTC",
+        "content": "Disciplina l’indennizzo per tali prestazioni tenendo in debito conto gli interessi del fornitore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_47"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Comunicazione a garanzia della sicurezza",
+        "citation": "Art. 47 cpv. 4 LTC",
+        "content": "Può obbligare il personale necessario a prestare servizio se una situazione straordinaria lo richiede.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_47"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Comunicazione a garanzia della sicurezza",
+        "citation": "Art. 47 cpv. 5 LTC",
+        "content": "Sono fatte salve le disposizioni della legge militare del 3 febbraio 1995 riguardanti la requisizione e la facoltà del generale di disporre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_47"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Limitazione del traffico delle telecomunicazioni",
+        "citation": "Art. 48 cpv. 1 LTC",
+        "content": "Il Consiglio federale può ordinare la sorveglianza, la restrizione o l’interruzione del traffico delle telecomunicazioni qualora una situazione straordinaria o altri importanti interessi nazionali lo esigano. Disciplina l’indennizzo per l’attuazione di tali misure tenendo in debito conto gli interessi delle persone incaricate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_48"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Limitazione del traffico delle telecomunicazioni",
+        "citation": "Art. 48 cpv. 2 LTC",
+        "content": "Le misure di cui al capoverso 1 non danno diritto né al risarcimento dei danni né al rimborso di tasse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_48"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Sicurezza",
+        "citation": "Art. 48a cpv. 1 LTC",
+        "content": "I fornitori di servizi di telecomunicazione lottano contro le manipolazioni non autorizzate degli impianti di telecomunicazione commesse con trasmissioni mediante telecomunicazione. Al fine di proteggere gli impianti, sono autorizzati a deviare o a impedire le comunicazioni e a dissimulare informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_48_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 8: Interessi nazionali importanti, Sicurezza",
+        "citation": "Art. 48a cpv. 2 LTC",
+        "content": "Al fine di proteggere dai pericoli, prevenire i danni e ridurre i rischi, il Consiglio federale può emanare disposizioni sulla sicurezza delle informazioni, delle infrastrutture e dei servizi di telecomunicazione, in particolare per quanto concerne:\na. la disponibilità;\nb. l’esercizio;\nc. la garanzia di infrastrutture ridondanti;\nd. la segnalazione delle interferenze;\ne. la tracciabilità degli incidenti;\nf. la deviazione o l’impedimento delle comunicazioni e la dissimulazione delle informazioni secondo il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_48_a"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Contraffazione o dissimulazione di informazioni",
+        "citation": "Art. 49 cpv. 1 LTC",
+        "content": "È punito con una pena detentiva sino a tre anni o con una pena pecuniaria chiunque, incaricato di compiti di servizio nell’ambito delle telecomunicazioni:\na. contraffà o dissimula informazioni;\nb. dà occasione ad altri di contraffare o dissimulare informazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_49"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Contraffazione o dissimulazione di informazioni",
+        "citation": "Art. 49 cpv. 2 LTC",
+        "content": "Chiunque, per dolo, induce una persona incaricata di compiti di servizio nell’ambito delle telecomunicazioni a contraffare o a dissimulare informazioni, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_49"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Utilizzazione non autorizzata di informazioni",
+        "citation": "Art. 50 LTC",
+        "content": "Chiunque riceve, mediante un impianto di telecomunicazione, informazioni non pubbliche che non gli sono destinate e le utilizza abusivamente o le comunica a terzi, è punito con una pena detentiva sino a un anno o con una pena pecuniaria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_50"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Contravvenzioni",
+        "citation": "Art. 52 cpv. 1 LTC",
+        "content": "È punito con una multa sino a 100 000 franchi chiunque:\na. ...\nb. utilizza lo spettro delle frequenze:\n1. senza la necessaria concessione,\n2. senza previa notifica, se richiesta,\n3. senza essere titolare del certificato di capacità necessario, o\n4. violando le disposizioni d’utilizzo o la concessione;\nc. mette in servizio elementi di indirizzo gestiti a livello nazionale senza esserne autorizzato;\nd. importa, offre, mette a disposizione sul mercato o mette in servizio impianti di telecomunicazione non conformi alle prescrizioni;\ne. installa o esercita impianti di telecomunicazione non conformi alle prescrizioni;\nf. cede impianti di telecomunicazione a persone non autorizzate;\ng. fabbrica, importa, offre, mette a disposizione sul mercato, possiede, mette in servizio, installa o esercita impianti di telecomunicazione o altri dispositivi destinati a interferire nel traffico delle telecomunicazioni o nella radiodiffusione oppure a impedirli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_52"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Contravvenzioni",
+        "citation": "Art. 52 cpv. 2 LTC",
+        "content": "Se l’atto avviene per negligenza, la multa può ammontare fino a 50 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_52"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Inosservanza di prescrizioni d’ordine",
+        "citation": "Art. 53 LTC",
+        "content": "È punito con la multa fino a 5000 franchi chiunque viola, intenzionalmente o per negligenza, un’altra disposizione del diritto delle telecomunicazioni, un trattato o un accordo internazionale in materia di telecomunicazioni oppure una decisione presa sulla scorta di una di queste disposizioni e provvista della comminatoria della pena prevista nel presente articolo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_53"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Altre disposizioni penali",
+        "citation": "Art. 54 LTC",
+        "content": "Sono applicabili gli articoli 14–18 della legge federale del 22 marzo 1974 sul diritto penale amministrativo©RS_313.0_b®.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_54"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Competenza",
+        "citation": "Art. 55 cpv. 1 LTC",
+        "content": "Le infrazioni di cui agli articoli 52–54 sono perseguite e giudicate dal DATEC secondo le prescrizioni della legge federale del 22 marzo 1974 sul diritto penale amministrativo©RS_313.0_b®.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_55"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 9: Disposizioni penali, Competenza",
+        "citation": "Art. 55 cpv. 2 LTC",
+        "content": "Il DATEC può delegare all’UFCOM il perseguimento e il giudizio delle infrazioni come pure l’esecuzione della decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_55"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, ComCom",
+        "citation": "Art. 56 cpv. 1 LTC",
+        "content": "Il Consiglio federale nomina una ComCom composta di cinque a sette membri; ne designa il presidente e il vicepresidente. I membri devono essere esperti indipendenti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_56"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, ComCom",
+        "citation": "Art. 56 cpv. 2 LTC",
+        "content": "Nelle sue decisioni, la ComCom non è sottoposta alle istruzioni del Consiglio federale e del DATEC. Essa è indipendente dalle autorità amministrative. Dispone di un suo segretariato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_56"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, ComCom",
+        "citation": "Art. 56 cpv. 3 LTC",
+        "content": "La ComCom adotta un regolamento sulla propria organizzazione e gestione, che deve essere approvato dal Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_56"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, ComCom",
+        "citation": "Art. 56 cpv. 4 LTC",
+        "content": "Le spese della ComCom sono coperte con tasse amministrative. Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_56"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, Compiti della ComCom",
+        "citation": "Art. 57 cpv. 1 LTC",
+        "content": "La ComCom prende ed emana le decisioni che le competono secondo la presente legge e le sue disposizioni d’esecuzione. Informa il pubblico sulle proprie attività e presenta un rapporto annuale d’attività al Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_57"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 10: ComCom, Compiti della ComCom",
+        "citation": "Art. 57 cpv. 2 LTC",
+        "content": "Per quanto concerne l’esecuzione del diritto delle telecomunicazioni, la ComCom può interpellare l’UFCOM e impartirgli istruzioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_57"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Vigilanza",
+        "citation": "Art. 58 cpv. 1 LTC",
+        "content": "L’UFCOM vigila affinché il diritto internazionale delle telecomunicazioni, la presente legge, le prescrizioni d’esecuzione e le concessioni siano rispettati. Può delegare singoli compiti di vigilanza a organizzazioni di diritto privato e collaborare con esse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_58"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Vigilanza",
+        "citation": "Art. 58 cpv. 2 LTC",
+        "content": "Se accerta una violazione del diritto, l’UFCOM può:\na. esigere che la persona fisica o giuridica responsabile della violazione vi ponga rimedio o prenda i provvedimenti necessari per evitare ch’essa abbia a ripetersi; questa persona deve comunicare all’UFCOM le disposizioni prese;\nb. esigere che la persona fisica o giuridica responsabile della violazione versi alla Confederazione i proventi così conseguiti;\nc. completare la concessione con oneri;\nd. limitare, sospendere, revocare o ritirare la concessione oppure limitare, sospendere o vietare completamente l’attività della persona fisica o giuridica responsabile della violazione;\ne. ritirare il certificato di capacità o imporre oneri al suo titolare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_58"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Vigilanza",
+        "citation": "Art. 58 cpv. 3 LTC",
+        "content": "L’UFCOM ritira la concessione se le condizioni essenziali per il suo rilascio non sono più adempiute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_58"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Vigilanza",
+        "citation": "Art. 58 cpv. 4 LTC",
+        "content": "Se la concessione è stata rilasciata dalla ComCom, quest’ultima prende i provvedimenti corrispondenti su richiesta dell’UFCOM.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_58"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Vigilanza",
+        "citation": "Art. 58 cpv. 5 LTC",
+        "content": "L’autorità competente può disporre provvedimenti cautelari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_58"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Obbligo d’informazione",
+        "citation": "Art. 59 cpv. 1 LTC",
+        "content": "Le persone sottostanti alla presente legge devono fornire all’autorità competente le informazioni necessarie alla sua esecuzione e alla sua valutazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_59"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Obbligo d’informazione",
+        "citation": "Art. 59 cpv. 2 LTC",
+        "content": "Sono tenute a presentare regolarmente all’UFCOM i dati necessari all’allestimento di una statistica ufficiale sulle telecomunicazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_59"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Obbligo d’informazione",
+        "citation": "Art. 59 cpv. 2bis LTC",
+        "content": "I dati raccolti o comunicati a scopi statistici possono essere utilizzati per altri scopi unicamente se:\na. una legge federale lo permette espressamente;\nb. la persona interessata vi acconsente per scritto;\nc. essi servono per valutare la legislazione sulle telecomunicazioni; o\nd. essi servono quale base per l’adozione delle necessarie decisioni regolatrici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_59"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Obbligo d’informazione",
+        "citation": "Art. 59 cpv. 2ter LTC",
+        "content": "L’UFCOM può pubblicare le quote di mercato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_59"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Obbligo d’informazione",
+        "citation": "Art. 59 cpv. 3 LTC",
+        "content": "Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_59"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Sanzioni amministrative",
+        "citation": "Art. 60 cpv. 1 LTC",
+        "content": "L’impresa che viola il diritto applicabile, la concessione o una decisione passata in giudicato può essere tenuta a pagare un importo che può raggiungere il 10 per cento della cifra d’affari media realizzata in Svizzera nel corso degli ultimi tre esercizi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_60"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Sanzioni amministrative",
+        "citation": "Art. 60 cpv. 2 LTC",
+        "content": "L’UFCOM accerta le infrazioni. Esso giudica i casi che esulano dal settore di competenza della ComCom secondo l’articolo 58 capoverso 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_60"
+    },
+    {
+        "book": "FMG",
+        "title": "LTC, Capitolo 11: Vigilanza e rimedi giuridici, Sanzioni amministrative",
+        "citation": "Art. 60 cpv. 3 LTC",
+        "content": "Per valutare l’importo della sanzione, l’autorità competente tiene conto in particolare della gravità della violazione e delle condizioni finanziarie dell’impresa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1997/2187_2187_2187/it#art_60"
+    }
+]

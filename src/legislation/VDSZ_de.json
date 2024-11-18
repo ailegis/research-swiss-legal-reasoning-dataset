@@ -1,0 +1,212 @@
+[
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Anforderungen",
+        "citation": "Art. 1 Abs. 1 VDSZ",
+        "content": "Stellen, die Datenschutzzertifizierungen nach Artikel 13 DSG durchführen (Zertifizierungsstellen), müssen akkreditiert sein. Die Akkreditierung richtet sich nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996 (AkkBV), soweit die vorliegende Verordnung keine abweichenden Vorschriften enthält.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Anforderungen",
+        "citation": "Art. 1 Abs. 2 VDSZ",
+        "content": "Je eine separate Akkreditierung ist erforderlich für die Zertifizierung:\na. der Organisation und der Verfahren (Managementsysteme) im Zusammenhang mit Datenbearbeitungen;\nb. von Produkten, namentlich Datenbearbeitungssystemen oder -programmen und Hardware, sowie von Dienstleistungen und Prozessen im Zusammenhang mit Datenbearbeitungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Anforderungen",
+        "citation": "Art. 1 Abs. 3 VDSZ",
+        "content": "Die Zertifizierungsstellen müssen über eine festgelegte Organisation sowie ein festgelegtes Zertifizierungsverfahren (Zertifizierungsprogramm) verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Anforderungen",
+        "citation": "Art. 1 Abs. 4 VDSZ",
+        "content": "Die Mindestanforderungen an die Qualifikation des Personals, das Zertifizierungen durchführt, richten sich nach dem Anhang. Die Zertifizierungsstellen müssen nachweisen, dass sie über entsprechend diesen Kriterien qualifiziertes Personal verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_1"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Akkreditierungsverfahren",
+        "citation": "Art. 2 VDSZ",
+        "content": "Die Schweizerische Akkreditierungsstelle (SAS) zieht für das Akkreditierungsverfahren und die Nachkontrolle sowie für die Sistierung oder den Entzug einer Akkreditierung den Eidgenössischen Datenschutz- und Öffentlichkeitsbeauftragten (EDÖB) bei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_2"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Ausländische Zertifizierungsstellen",
+        "citation": "Art. 3 Abs. 1 VDSZ",
+        "content": "Ausländische Zertifizierungsstellen, die auf schweizerischem Territorium tätig sein wollen, müssen nachweisen, dass sie über eine gleichwertige Qualifikation verfügen und die Anforderungen nach Artikel 1 Absätze 3 und 4 erfüllen sowie dass ihnen die schweizerische Datenschutzgesetzgebung hinreichend bekannt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Ausländische Zertifizierungsstellen",
+        "citation": "Art. 3 Abs. 2 VDSZ",
+        "content": "Der EDÖB anerkennt eine ausländische Zertifizierungsstelle nach Rücksprache mit der SAS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Ausländische Zertifizierungsstellen",
+        "citation": "Art. 3 Abs. 3 VDSZ",
+        "content": "Er kann die Anerkennung befristen und mit Auflagen verbinden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 1. Abschnitt: Zertifizierungsstellen, Ausländische Zertifizierungsstellen",
+        "citation": "Art. 3 Abs. 4 VDSZ",
+        "content": "Er entzieht die Anerkennung, wenn die Bedingungen und Auflagen nicht mehr erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_3"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Gegenstand der Zertifizierung ",
+        "citation": "Art. 4 Abs. 1 VDSZ",
+        "content": "Zertifizierbar sind:\na. Managementsysteme;\nb. Produkte, Dienstleistungen und Prozesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Gegenstand der Zertifizierung ",
+        "citation": "Art. 4 Abs. 2 VDSZ",
+        "content": "Die Zertifizierung von Managementsystemen kann die Gesamtheit des Systems, einzelne Teile der Organisation oder einzelne, abgrenzbare Verfahren umfassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Gegenstand der Zertifizierung ",
+        "citation": "Art. 4 Abs. 3 VDSZ",
+        "content": "Die Zertifizierung von Produkten, Dienstleistungen und Prozessen kann Folgendes umfassen:\na. Produkte, die hauptsächlich der Bearbeitung von Personendaten dienen oder bei deren Benutzung Personendaten erzeugt werden;\nb. Dienstleistungen oder Prozesse, die hauptsächlich der Bearbeitung von Personendaten dienen oder die Personendaten erzeugen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_4"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an das Zertifizierungsprogramm",
+        "citation": "Art. 5 Abs. 1 VDSZ",
+        "content": "Im Zertifizierungsprogramm müssen mindestens geregelt sein:\na. die Prüfkriterien und die sich daraus ergebenden Anforderungen an die zu zertifizierenden Gegenstände; \nb. der Ablauf des Verfahrens, insbesondere das Vorgehen, wenn Unregelmässigkeiten festgestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an das Zertifizierungsprogramm",
+        "citation": "Art. 5 Abs. 2 VDSZ",
+        "content": "Bei der Festlegung des Zertifizierungsprogramms muss Folgendes berücksichtigt werden:\na. die zu bearbeitenden Personendaten;\nb. die für die Bearbeitung der Personendaten verwendete elektronische Infrastruktur;\nc. die organisatorischen Massnahmen im Zusammenhang mit der Bearbeitung von Personendaten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an das Zertifizierungsprogramm",
+        "citation": "Art. 5 Abs. 3 VDSZ",
+        "content": "Die Prüfkriterien müssen mit allen Grundsätzen nach Artikel 6 DSG übereinstimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an das Zertifizierungsprogramm",
+        "citation": "Art. 5 Abs. 4 VDSZ",
+        "content": "Das Zertifizierungsprogramm muss den gemäss Anhang 2 AkkBV anwendbaren Normen sowie weiteren anwendbaren technischen Normen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_5"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an die Zertifizierung von Managementsystemen",
+        "citation": "Art. 6 Abs. 1 VDSZ",
+        "content": "Gegenstand der Prüfung von Managementsystemen sind insbesondere:\na.  die Datenschutzpolitik;\nb. die Dokumentation von Zielen, Risiken und Massnahmen zur Gewährleistung des Datenschutzes und der Datensicherheit;\nc. die organisatorischen und technischen Vorkehrungen zur Umsetzung der festgelegten Ziele und Massnahmen, insbesondere zur Behebung von Mängeln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an die Zertifizierung von Managementsystemen",
+        "citation": "Art. 6 Abs. 2 VDSZ",
+        "content": "Der EDÖB erlässt Richtlinien über die Mindestanforderungen an das Managementsystem. Er berücksichtigt dabei die internationalen Anforderungen an die Errichtung, den Betrieb, die Überwachung und die Verbesserung solcher Managementsysteme und insbesondere die folgenden technischen Normen:\na. SN EN ISO 9001, Qualitätsmanagementsysteme, Anforderungen;\nb. SN EN ISO/IEC 27001, Informationstechnik, IT-Sicherheitsverfahren, Informationssicherheits-Managementsysteme, Anforderungen;\nc. SN EN ISO/IEC 27701, IT-Sicherheitsverfahren, Erweiterung zu ISO/IEC 27001 und ISO/IEC 27002 für das Management von Informationen zum Schutz der Privatsphäre, Anforderungen und Richtlinien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_6"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an die Zertifizierung von Produkten, Dienstleistungen und Prozessen",
+        "citation": "Art. 7 Abs. 1 VDSZ",
+        "content": "Gegenstand der Prüfung von Produkten, Dienstleistungen und Prozessen ist insbesondere die Gewährleistung:\na. der Vertraulichkeit, Integrität, Verfügbarkeit und Nachvollziehbarkeit der bearbeiteten Personendaten;\nb. der Vermeidung der Bearbeitung von Personendaten, die im Hinblick auf den Verwendungszweck des Produkts, der Dienstleistung oder des Prozesses nicht erforderlich sind;\nc. der Transparenz der Bearbeitung von Personendaten; \nd. von technischen Massnahmen zur Unterstützung der Anwenderin oder des Anwenders bei der Einhaltung weiterer Datenschutzgrundsätze und datenschutzrechtlicher Pflichten, insbesondere der Rechte der betroffenen Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anforderungen an die Zertifizierung von Produkten, Dienstleistungen und Prozessen",
+        "citation": "Art. 7 Abs. 2 VDSZ",
+        "content": "Der EDÖB erlässt Richtlinien darüber, nach welchen weiteren datenschutzrechtlichen Kriterien die Prüfung erfolgen muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_7"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Erteilung und Gültigkeit der Datenschutzzertifizierung",
+        "citation": "Art. 8 Abs. 1 VDSZ",
+        "content": "Die Zertifizierungsstelle zertifiziert das Managementsystem, das Produkt, die Dienstleistung oder den Prozess, wenn die datenschutzrechtlichen Anforderungen und die Voraussetzungen nach dieser Verordnung, nach den vom EDÖB erlassenen Richtlinien oder nach anderen gleichwertigen Normen erfüllt sind. Die Zertifizierung kann mit Auflagen verbunden werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Erteilung und Gültigkeit der Datenschutzzertifizierung",
+        "citation": "Art. 8 Abs. 2 VDSZ",
+        "content": "Die Zertifizierung ist drei Jahre gültig. Die Zertifizierungsstelle muss jährlich prüfen, ob die Voraussetzungen weiterhin erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_8"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Anerkennung ausländischer Datenschutzzertifizierungen",
+        "citation": "Art. 9 VDSZ",
+        "content": "Der EDÖB anerkennt nach Rücksprache mit der SAS ausländische Zertifizierungen, wenn gewährleistet ist, dass die Anforderungen der schweizerischen Gesetzgebung erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_9"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 2. Abschnitt: Gegenstand und Verfahren, Ausnahme von der Pflicht zur Erstellung einer Datenschutz-Folgenabschätzung ",
+        "citation": "Art. 10 VDSZ",
+        "content": "Der private Verantwortliche kann von der Erstellung einer Datenschutz-Folgenabschätzung gemäss Artikel 22 Absatz 5 DSG nur absehen, wenn die Zertifizierung die Bearbeitung, die im Rahmen der Datenschutz-Folgenabschätzung zu prüfen wäre, einschliesst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_10"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Sistierung und Entzug der Zertifizierung",
+        "citation": "Art. 11 Abs. 1 VDSZ",
+        "content": "Die Zertifizierungsstelle kann eine Zertifizierung sistieren oder entziehen, insbesondere wenn sie im Rahmen der Überprüfung schwere Mängel feststellt. Ein schwerer Mangel liegt insbesondere vor, wenn:\na. wesentliche Voraussetzungen der Datenschutzzertifizierung nicht mehr erfüllt sind; oder\nb. eine Zertifizierung irreführend oder missbräuchlich verwendet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Sistierung und Entzug der Zertifizierung",
+        "citation": "Art. 11 Abs. 2 VDSZ",
+        "content": "Bei Streitigkeiten über die Sistierung oder den Entzug richten sich die Beurteilung und das Verfahren nach den zivilrechtlichen Bestimmungen, die auf das Vertragsverhältnis zwischen der Zertifizierungsstelle und dem Hersteller von Datenbearbeitungssystemen oder -programmen, dem Verantwortlichen oder dem Auftragsbearbeiter, der die Zertifizierung erhalten hat, anwendbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_11"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Verfahren bei Aufsichtsmassnahmen des EDÖB",
+        "citation": "Art. 12 Abs. 1 VDSZ",
+        "content": "Stellt der EDÖB bei einem Hersteller von Datenbearbeitungssystemen oder -programmen, einem Verantwortlichen oder einem Auftragsbearbeiter, der über eine Zertifizierung verfügt, schwere Mängel fest, so informiert er die Zertifizierungsstelle darüber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Verfahren bei Aufsichtsmassnahmen des EDÖB",
+        "citation": "Art. 12 Abs. 2 VDSZ",
+        "content": "Die Zertifizierungsstelle fordert den Hersteller von Datenbearbeitungssystemen oder -programmen, den Verantwortlichen oder den Auftragsbearbeiter unverzüglich auf, den Mangel innerhalb von 30 Tagen, nachdem sie vom EDÖB informiert wurde, zu beheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Verfahren bei Aufsichtsmassnahmen des EDÖB",
+        "citation": "Art. 12 Abs. 3 VDSZ",
+        "content": "Wird der Mangel nicht innerhalb von 30 Tagen behoben, so sistiert die Zertifizierungsstelle die Zertifizierung. Besteht keine Aussicht darauf, dass innerhalb eines angemessenen Zeitraums ein rechtskonformer Zustand geschaffen oder wiederhergestellt wird, so wird die Zertifizierung entzogen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_12"
+    },
+    {
+        "book": "VDSZ",
+        "title": "VDSZ, 3. Abschnitt: Sanktionen, Verfahren bei Aufsichtsmassnahmen des EDÖB",
+        "citation": "Art. 12 Abs. 4 VDSZ",
+        "content": "Wird der Mangel nicht innerhalb der Frist nach Absatz 2 behoben und hat die Zertifizierungsstelle die Zertifizierung nicht sistiert oder entzogen, so trifft der EDÖB eine Massnahme nach Artikel 51 Absatz 1 DSG. Er kann namentlich anordnen, die Zertifizierung zu sistieren oder zu entziehen. Richtet er die Verfügung an die Zertifizierungsstelle, so informiert er die SAS darüber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2022/569/de#art_12"
+    }
+]

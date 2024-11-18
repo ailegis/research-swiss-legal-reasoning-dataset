@@ -1,0 +1,380 @@
+[
+    {
+        "book": "ZertES",
+        "title": "ZertES, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand und Zweck",
+        "citation": "Art. 1 Abs. 1 ZertES",
+        "content": "Dieses Gesetz regelt:\na. die Anforderungen an die Qualität bestimmter digitaler Zertifikate und an ihre Verwendung;\nb. die Voraussetzungen, unter denen sich Anbieterinnen von Zertifizierungsdiensten im Bereich der elektronischen Signatur und anderer Anwendungen digitaler Zertifikate (Zertifizierungsdienste) anerkennen lassen können;\nc. die Rechte und Pflichten der anerkannten Anbieterinnen von Zertifizierungsdiensten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand und Zweck",
+        "citation": "Art. 1 Abs. 2 ZertES",
+        "content": "Es regelt mit Ausnahme der Haftung nach den Artikeln 17 und 18 nicht die Rechtswirkungen der Verwendung digitaler Zertifikate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 1. Abschnitt: Allgemeine Bestimmungen, Gegenstand und Zweck",
+        "citation": "Art. 1 Abs. 3 ZertES",
+        "content": "Es hat zum Zweck:\na. ein breites Angebot an sicheren Zertifizierungsdiensten zu fördern;\nb. die Verwendung digitaler Zertifikate, elektronischer Signaturen und elektronischer Siegel zu begünstigen;\nc. die internationale Anerkennung der Anbieterinnen von Zertifizierungsdiensten und ihrer Leistungen zu ermöglichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 1. Abschnitt: Allgemeine Bestimmungen, Begriffe",
+        "citation": "Art. 2 ZertES",
+        "content": "In diesem Gesetz bedeuten:\na. elektronische Signatur: Daten in elektronischer Form, die anderen elektronischen Daten beigefügt oder die logisch mit ihnen verknüpft sind und zu deren Authentifizierung dienen;\nb. fortgeschrittene elektronische Signatur: eine elektronische Signatur, die folgende Anforderungen erfüllt:\n1. sie ist ausschliesslich der Inhaberin oder dem Inhaber zugeordnet,\n2. sie ermöglicht die Identifizierung der Inhaberin oder des Inhabers,\n3. sie wird mit Mitteln erzeugt, welche die Inhaberin oder der Inhaber unter ihrer oder seiner alleinigen Kontrolle halten kann,\n4. sie ist mit den Daten, auf die sie sich bezieht, so verknüpft, dass eine nachträgliche Veränderung der Daten erkannt werden kann;\nc. geregelte elektronische Signatur: eine fortgeschrittene elektronische Signatur, die unter Verwendung einer sicheren Signaturerstellungseinheit nach Artikel 6 erstellt wurde und auf einem geregelten, auf eine natürliche Person ausgestellten und zum Zeitpunkt der Erzeugung der elektronischen Signatur gültigen Zertifikat beruht;\nd. geregeltes elektronisches Siegel: eine fortgeschrittene elektronische Signatur, die unter Verwendung einer sicheren Siegelerstellungseinheit nach Artikel 6 erstellt wurde und auf einem geregelten, auf eine UID-Einheit nach Artikel 3 Absatz 1 Buchstabe c des Bundesgesetzes vom 18. Juni 2010 über die Unternehmens-Identifikationsnummer (UIDG) ausgestellten und zum Zeitpunkt der Erzeugung des elektronischen Siegels gültigen Zertifikat beruht;\ne. qualifizierte elektronische Signatur: eine geregelte elektronische Signatur, die auf einem qualifizierten Zertifikat beruht;\nf. digitales Zertifikat: eine digitale Bescheinigung, die den öffentlichen Schlüssel eines asymmetrischen kryptografischen Schlüsselpaars seinem Inhaber oder seiner Inhaberin zuordnet;\ng. geregeltes Zertifikat: ein digitales Zertifikat, das die Anforderungen nach Artikel 7 erfüllt und von einer nach diesem Gesetz anerkannten Anbieterin von Zertifizierungsdiensten ausgestellt wurde;\nh. qualifiziertes Zertifikat: ein geregeltes Zertifikat, das die Anforderungen nach Artikel 8 erfüllt;\ni. elektronischer Zeitstempel: Bestätigung, wonach bestimmte digitale Daten zu einem bestimmten Zeitpunkt vorliegen;\nj. qualifizierter elektronischer Zeitstempel: elektronischer Zeitstempel, der von einer nach diesem Gesetz anerkannten Anbieterin von Zertifizierungsdiensten ausgestellt und mit einem geregelten elektronischen Siegel versehen wurde;\nk. Anbieterin von Zertifizierungsdiensten: Stelle, die im Rahmen einer elektronischen Umgebung Daten bestätigt und zu diesem Zweck digitale Zertifikate ausstellt;\nl. Anerkennungsstelle: Stelle, die nach der Bundesgesetzgebung über die technischen Handelshemmnisse für die Anerkennung und die Überwachung der Anbieterinnen von Zertifizierungsdiensten akkreditiert ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_2"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Anerkennungsvoraussetzungen",
+        "citation": "Art. 3 Abs. 1 ZertES",
+        "content": "Als Anbieterinnen von Zertifizierungsdiensten anerkannt werden können natürliche oder juristische Personen, die:\na. im Handelsregister eingetragen sind;\nb. in der Lage sind, qualifizierte Zertifikate gemäss den Anforderungen dieses Gesetzes auszustellen und zu verwalten;\nc. Personal mit den erforderlichen Fachkenntnissen, Erfahrungen und Qualifikationen beschäftigen;\nd. Informatiksysteme und ‐produkte, insbesondere Signatur- und Siegelerstellungseinheiten verwenden, die verlässlich und vertrauenswürdig sind;\ne. über ausreichende Finanzmittel oder -garantien verfügen;\nf. die notwendigen Versicherungen zur Deckung von Haftungsansprüchen aus Artikel 17 und der Kosten, welche aus den in Artikel 14 Absätze 2 und 3 vorgesehenen Massnahmen erwachsen könnten, abschliessen;\ng. die Einhaltung des anwendbaren Rechts, namentlich dieses Gesetzes und seiner Ausführungsbestimmungen, gewährleisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Anerkennungsvoraussetzungen",
+        "citation": "Art. 3 Abs. 2 ZertES",
+        "content": "Die Voraussetzungen nach Absatz 1 gelten auch für ausländische Anbieterinnen von Zertifizierungsdiensten. Ist eine ausländische Anbieterin bereits von einer ausländischen Anerkennungsstelle anerkannt worden, so kann die schweizerische Anerkennungsstelle sie anerkennen, wenn erwiesen ist, dass:\na. sie die Anerkennung nach ausländischem Recht erworben hat;\nb. die für die Anerkennung massgebenden Vorschriften des ausländischen Rechts den schweizerischen Vorschriften gleichwertig sind;\nc. die ausländische Anerkennungsstelle über Qualifikationen verfügt, die denen, die von schweizerischen Anerkennungsstellen gefordert werden, gleichwertig sind;\nd. die ausländische Anerkennungsstelle die Zusammenarbeit mit der schweizerischen Anerkennungsstelle zur Überwachung der Anbieterin in der Schweiz gewährleistet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Anerkennungsvoraussetzungen",
+        "citation": "Art. 3 Abs. 3 ZertES",
+        "content": "Verwaltungseinheiten von Bund, Kantonen und Gemeinden dürfen als Anbieterinnen von Zertifizierungsdiensten anerkannt werden, ohne im Handelsregister eingetragen zu sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Bezeichnung der Akkreditierungsstelle",
+        "citation": "Art. 4 Abs. 1 ZertES",
+        "content": "Der Bundesrat bezeichnet die für die Akkreditierung der Anerkennungsstellen zuständige Stelle (Akkreditierungsstelle).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Bezeichnung der Akkreditierungsstelle",
+        "citation": "Art. 4 Abs. 2 ZertES",
+        "content": "Ist keine Stelle für die Anerkennung akkreditiert, so bezeichnet der Bundesrat die Akkreditierungsstelle oder eine andere geeignete Stelle als Anerkennungsstelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Liste der anerkannten Anbieterinnen von Zertifizierungsdiensten",
+        "citation": "Art. 5 Abs. 1 ZertES",
+        "content": "Die Anerkennungsstellen melden der Akkreditierungsstelle die von ihnen anerkannten Anbieterinnen von Zertifizierungsdiensten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 2. Abschnitt:, Anerkennung der Anbieterinnen von Zertifizierungsdiensten, Liste der anerkannten Anbieterinnen von Zertifizierungsdiensten",
+        "citation": "Art. 5 Abs. 2 ZertES",
+        "content": "Die Akkreditierungsstelle stellt der Öffentlichkeit die Liste der anerkannten Anbieterinnen von Zertifizierungsdiensten zur Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 3. Abschnitt:, Generierung, Speicherung und Verwendung kryptografischer Schlüssel",
+        "citation": "Art. 6 Abs. 1 ZertES",
+        "content": "Der Bundesrat regelt die Generierung, Speicherung und Verwendung kryptografischer Schlüssel, für die geregelte Zertifikate im Sinne dieses Gesetzes ausgestellt werden können; er sorgt dabei für ein der technischen Entwicklung entsprechendes hohes Sicherheitsniveau.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 3. Abschnitt:, Generierung, Speicherung und Verwendung kryptografischer Schlüssel",
+        "citation": "Art. 6 Abs. 2 ZertES",
+        "content": "Bei Systemen zur Generierung, Speicherung und Verwendung privater kryptografischer Schlüssel, insbesondere bei Signatur- und Siegelerstellungseinheiten, muss zumindest gewährleistet werden, dass diese Schlüssel:\na. praktisch nur einmal auftreten können und ihre Geheimhaltung hinreichend gewährleistet ist;\nb. mit hinreichender Sicherheit nicht abgeleitet werden können und ihre Verwendung bei Einsatz der jeweils verfügbaren Technologie vor Fälschungen geschützt ist;\nc. von der rechtmässigen Inhaberin oder vom rechtmässigen Inhaber vor der missbräuchlichen Verwendung durch andere verlässlich geschützt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Anforderungen an alle geregelten Zertifikate",
+        "citation": "Art. 7 Abs. 1 ZertES",
+        "content": "Ein geregeltes Zertifikat kann auf natürliche Personen und UID-Einheiten ausgestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Anforderungen an alle geregelten Zertifikate",
+        "citation": "Art. 7 Abs. 2 ZertES",
+        "content": "Es muss folgende Angaben enthalten:\na. die Seriennummer;\nb. den Hinweis, dass es sich um ein geregeltes Zertifikat handelt;\nc. den Namen oder die Bezeichnung der Inhaberin oder des Inhabers des zugehörigen privaten kryptografischen Schlüssels; besteht eine Verwechslungsmöglichkeit, so ist der Name oder die Bezeichnung mit einem unterscheidenden Zusatz zu versehen;\nd. bei natürlichen Personen gegebenenfalls das als solches gekennzeichnete Pseudonym anstelle des Namens;\ne. bei UID-Einheiten die Unternehmens-Identifikationsnummer nach dem UIDG;\nf. den öffentlichen kryptografischen Schlüssel;\ng. die Gültigkeitsdauer;\nh. den Namen, den Niederlassungsstaat und das geregelte elektronische Siegel der Anbieterin von Zertifizierungsdiensten, die das Zertifikat ausstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Anforderungen an alle geregelten Zertifikate",
+        "citation": "Art. 7 Abs. 3 ZertES",
+        "content": "Das Zertifikat kann zudem die folgenden Elemente enthalten:\na. spezifische Attribute der Inhaberin oder des Inhabers des zugehörigen privaten kryptografischen Schlüssels, beispielsweise berufliche Qualifikationen;\nb. bei natürlichen Personen den Hinweis, dass sie zur Vertretung einer bestimmten UID-Einheit berechtigt ist;\nc. den Geltungsbereich, für den das Zertifikat bestimmt ist;\nd. die Obergrenze der Transaktionen, für die das Zertifikat bestimmt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Anforderungen an alle geregelten Zertifikate",
+        "citation": "Art. 7 Abs. 4 ZertES",
+        "content": "Der Bundesrat bestimmt das Format der geregelten Zertifikate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Zusätzliche Anforderungen an qualifizierte Zertifikate",
+        "citation": "Art. 8 Abs. 1 ZertES",
+        "content": "Ein qualifiziertes Zertifikat darf nur auf eine natürliche Person ausgestellt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Zusätzliche Anforderungen an qualifizierte Zertifikate",
+        "citation": "Art. 8 Abs. 2 ZertES",
+        "content": "Es enthält einen Eintrag, wonach es nur für die elektronische Signatur bestimmt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 4. Abschnitt: Geregelte Zertifikate, Zusätzliche Anforderungen an qualifizierte Zertifikate",
+        "citation": "Art. 8 Abs. 3 ZertES",
+        "content": "Anstelle des Hinweises nach Artikel 7 Absatz 2 Buchstabe b ist der Hinweis ins Zertifikat aufzunehmen, dass es sich um ein qualifiziertes Zertifikat handelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten müssen von den Personen, die einen Antrag auf Ausstellung eines geregelten Zertifikats stellen, verlangen:\na. bei natürlichen Personen: dass sie persönlich erscheinen und den Nachweis ihrer Identität erbringen;\nb. bei UID-Einheiten, die nicht natürliche Personen sind: dass eine Vertretung persönlich erscheint und den Nachweis sowohl für die eigene Identität als auch für die Vertretungsmacht erbringt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 2 ZertES",
+        "content": "Für Attribute zu berufsbezogenen oder sonstigen Angaben zur Person (Art. 7 Abs. 3 Bst. a) müssen sie überprüfen, ob die zuständige Stelle diese Angaben bestätigt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 3 ZertES",
+        "content": "Für Hinweise auf die Vertretungsbefugnis (Art. 7 Abs. 3 Bst. b) müssen sie überprüfen, ob die vertretene UID-Einheit zugestimmt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 4 ZertES",
+        "content": "Der Bundesrat bezeichnet die Dokumente, mit denen die antragstellende Person ihre Identität und allfällige Attribute nachweisen kann. Er kann vorsehen, dass unter bestimmten Voraussetzungen auf das persönliche Erscheinen der antragstellenden Person verzichtet wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 5 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten müssen sich ferner vergewissern, dass die Person, die ein geregeltes Zertifikat verlangt, im Besitz des entsprechenden privaten kryptografischen Schlüssels ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ausstellung geregelter Zertifikate",
+        "citation": "Art. 9 Abs. 6 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten können die Identifikation von Antragstellerinnen oder Antragstellern an Dritte delegieren (Registrierungsstellen). Sie haften für die korrekte Ausführung der Aufgabe durch die Registrierungsstelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Informations- und Dokumentationspflicht",
+        "citation": "Art. 10 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten müssen ihre allgemeinen Vertragsbedingungen sowie Informationen über ihre Zertifizierungspolitik allgemein zugänglich machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Informations- und Dokumentationspflicht",
+        "citation": "Art. 10 Abs. 2 ZertES",
+        "content": "Sie müssen ihre Kundinnen und Kunden spätestens bei der Ausstellung der geregelten Zertifikate auf die Folgen eines möglichen Missbrauchs des privaten kryptografischen Schlüssels und auf die nach den Umständen notwendigen Vorkehrungen zur Geheimhaltung aufmerksam machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Informations- und Dokumentationspflicht",
+        "citation": "Art. 10 Abs. 3 ZertES",
+        "content": "Sie führen ein Tätigkeitsjournal. Der Bundesrat regelt, wie lange das Tätigkeitsjournal und die dazugehörenden Belege aufzubewahren sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ungültigerklärung geregelter Zertifikate",
+        "citation": "Art. 11 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten erklären ein geregeltes Zertifikat unverzüglich für ungültig, wenn:\na. die Inhaberin oder der Inhaber oder die Person, die sie oder ihn vertritt, einen entsprechenden Antrag stellt;\nb. sich herausstellt, dass dieses unrechtmässig erlangt worden ist oder dass Angaben nach Artikel 7 Absatz 3 nicht oder nicht mehr richtig sind;\nc. es keine Gewähr mehr bietet für die Zuordnung zur Inhaberin oder zum Inhaber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ungültigerklärung geregelter Zertifikate",
+        "citation": "Art. 11 Abs. 2 ZertES",
+        "content": "Bei der Ungültigerklärung nach Absatz 1 Buchstabe a müssen sie sich vergewissern, dass die Person, welche die Ungültigerklärung beantragt, dazu berechtigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Ungültigerklärung geregelter Zertifikate",
+        "citation": "Art. 11 Abs. 3 ZertES",
+        "content": "Sie informieren die Inhaberinnen und Inhaber unverzüglich über die erfolgte Ungültigerklärung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Verzeichnisdienste für geregelte Zertifikate",
+        "citation": "Art. 12 Abs. 1 ZertES",
+        "content": "Jede anerkannte Anbieterin von Zertifizierungsdiensten stellt sicher, dass die Gültigkeit aller geregelten Zertifikate, die sie ausgestellt hat, mit einem gebräuchlichen Verfahren jederzeit zuverlässig überprüft werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Verzeichnisdienste für geregelte Zertifikate",
+        "citation": "Art. 12 Abs. 2 ZertES",
+        "content": "Sie kann zudem einen Verzeichnisdienst anbieten, über den jedermann die von ihr ausgestellten geregelten Zertifikate suchen und abrufen kann. In dieses Verzeichnis wird ein Zertifikat nur auf Verlangen des Inhabers beziehungsweise der Inhaberin eingetragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Verzeichnisdienste für geregelte Zertifikate",
+        "citation": "Art. 12 Abs. 3 ZertES",
+        "content": "Abfragen der öffentlichen Hand sind unentgeltlich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Verzeichnisdienste für geregelte Zertifikate",
+        "citation": "Art. 12 Abs. 4 ZertES",
+        "content": "Der Bundesrat bestimmt die Mindestdauer, während der die Überprüfung von nicht mehr gültigen geregelten Zertifikaten möglich bleiben muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Qualifizierte elektronische Zeitstempel",
+        "citation": "Art. 13 ZertES",
+        "content": "Auf entsprechendes Begehren müssen die anerkannten Anbieterinnen von Zertifizierungsdiensten qualifizierte elektronische Zeitstempel ausgeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_13"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Einstellung der Geschäftstätigkeit",
+        "citation": "Art. 14 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten melden der Akkreditierungsstelle die Einstellung ihrer Geschäftstätigkeit rechtzeitig. Eine gegen sie gerichtete Konkursandrohung melden sie unverzüglich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Einstellung der Geschäftstätigkeit",
+        "citation": "Art. 14 Abs. 2 ZertES",
+        "content": "Die Akkreditierungsstelle beauftragt eine andere anerkannte Anbieterin von Zertifizierungsdiensten, das Verzeichnis der gültigen, der abgelaufenen und der für ungültig erklärten geregelten Zertifikate zu führen und das Tätigkeitsjournal sowie die entsprechenden Belege aufzubewahren. Der Bundesrat bezeichnet eine geeignete Stelle zur Übernahme der Aufgabe, wenn es an einer anerkannten Anbieterin von Zertifizierungsdiensten fehlt. Die anerkannte Anbieterin von Zertifizierungsdiensten, die ihre Tätigkeit aufgibt, trägt die daraus entstehenden Kosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Einstellung der Geschäftstätigkeit",
+        "citation": "Art. 14 Abs. 3 ZertES",
+        "content": "Absatz 2 gilt auch dann, wenn eine anerkannte Anbieterin von Zertifizierungsdiensten in Konkurs fällt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Datenschutz",
+        "citation": "Art. 15 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten und die von ihnen beauftragten Registrierungsstellen dürfen nur diejenigen Personendaten bearbeiten, die zur Erfüllung ihrer Aufgaben erforderlich sind. Sie dürfen mit diesen Daten keinen Handel treiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 5. Abschnitt:, Pflichten anerkannter Anbieterinnen von Zertifizierungsdiensten, Datenschutz",
+        "citation": "Art. 15 Abs. 2 ZertES",
+        "content": "Im Übrigen gilt die Datenschutzgesetzgebung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 6. Abschnitt:, Aufsicht über die anerkannten Anbieterinnen von Zertifizierungsdiensten",
+        "citation": "Art. 16 Abs. 1 ZertES",
+        "content": "Die anerkannten Anbieterinnen von Zertifizierungsdiensten werden nach den Regeln der Bundesgesetzgebung über die technischen Handelshemmnisse von den Anerkennungsstellen beaufsichtigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 6. Abschnitt:, Aufsicht über die anerkannten Anbieterinnen von Zertifizierungsdiensten",
+        "citation": "Art. 16 Abs. 2 ZertES",
+        "content": "Eine Anerkennungsstelle meldet der Akkreditierungsstelle unverzüglich den Entzug der Anerkennung einer Anbieterin von Zertifizierungsdiensten. Artikel 14 Absatz 2 findet Anwendung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Haftung der Anbieterin von Zertifizierungsdiensten",
+        "citation": "Art. 17 Abs. 1 ZertES",
+        "content": "Die anerkannte Anbieterin von Zertifizierungsdiensten haftet der Inhaberin oder dem Inhaber eines gültigen geregelten Zertifikats und Drittpersonen, die sich auf ein solches Zertifikat verlassen haben, für Schäden, die diese erleiden, weil die Anbieterin den Pflichten aus diesem Gesetz und den entsprechenden Ausführungsbestimmungen nicht nachgekommen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Haftung der Anbieterin von Zertifizierungsdiensten",
+        "citation": "Art. 17 Abs. 2 ZertES",
+        "content": "Sie trägt die Beweislast dafür, den Pflichten aus diesem Gesetz und den Ausführungsbestimmungen nachgekommen zu sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Haftung der Anbieterin von Zertifizierungsdiensten",
+        "citation": "Art. 17 Abs. 3 ZertES",
+        "content": "Sie kann ihre Haftung aus diesem Gesetz weder für eigenes Verhalten noch für jenes ihrer Hilfspersonen wegbedingen. Sie haftet jedoch nicht für Schäden, die sich aus der Nichtbeachtung oder Überschreitung einer Nutzungsbeschränkung (Art. 7 Abs. 3 Bst. c und d) ergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Haftung der Anerkennungsstelle",
+        "citation": "Art. 18 ZertES",
+        "content": "Die Anerkennungsstelle haftet der Inhaberin oder dem Inhaber eines gültigen geregelten Zertifikats und Drittpersonen, die sich auf ein solches Zertifikat verlassen haben, für Schäden, die diese erleiden, weil die Anerkennungsstelle ihren Pflichten aus diesem Gesetz und den Ausführungsbestimmungen nicht nachgekommen ist. Artikel 17 Absätze 2 und 3 gilt sinngemäss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_18"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Verjährung",
+        "citation": "Art. 19 Abs. 1 ZertES",
+        "content": "Die auf dieses Gesetz gestützten Ansprüche verjähren drei Jahre, nachdem die oder der Berechtigte vom Schaden und von der ersatzpflichtigen Person Kenntnis hat, spätestens aber mit Ablauf von zehn Jahren, vom Tage an gerechnet, an welchem das schädigende Verhalten erfolgte oder aufhörte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Verjährung",
+        "citation": "Art. 19 Abs. 2 ZertES",
+        "content": "Hat die ersatzpflichtige Person durch ihr schädigendes Verhalten eine strafbare Handlung begangen, so verjährt der Anspruch auf Schadenersatz frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, so verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 7. Abschnitt: Haftung, Verjährung",
+        "citation": "Art. 19 Abs. 3 ZertES",
+        "content": "Vertragliche Ansprüche bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 8. Abschnitt: Internationale Abkommen",
+        "citation": "Art. 20 Abs. 1 ZertES",
+        "content": "Um die internationale Verwendung elektronischer Signaturen und anderer Anwendungen kryptografischer Schlüssel sowie deren rechtliche Anerkennung zu erleichtern, kann der Bundesrat internationale Abkommen schliessen, namentlich über:\na. die Anerkennung elektronischer Signaturen, elektronischer Siegel und digitaler Zertifikate;\nb. die Anerkennung von Anbieterinnen von Zertifizierungsdiensten und von Anerkennungsstellen;\nc. die Anerkennung von Prüfungen und Konformitätsbewertungen;\nd. die Anerkennung von Konformitätszeichen;\ne. die Anerkennung von Akkreditierungssystemen und akkreditierten Stellen;\nf. die Erteilung von Normungsaufträgen an internationale Normungsorganisationen, soweit in der Gesetzgebung auf bestimmte technische Normen verwiesen wird oder verwiesen werden soll;\ng. die Information und Konsultation bezüglich Vorbereitung, Erlass, Änderung und Anwendung solcher Vorschriften oder Normen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 8. Abschnitt: Internationale Abkommen",
+        "citation": "Art. 20 Abs. 2 ZertES",
+        "content": "Zur Ausführung internationaler Abkommen über Gegenstände nach Absatz 1 erlässt der Bundesrat die erforderlichen Bestimmungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "ZertES, 8. Abschnitt: Internationale Abkommen",
+        "citation": "Art. 20 Abs. 3 ZertES",
+        "content": "Er kann Aufgaben im Zusammenhang mit der Information und der Konsultation bezüglich Vorbereitung, Erlass und Änderung von Vorschriften oder von technischen Normen Privaten übertragen und dafür eine Abgeltung vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/de#art_20"
+    }
+]

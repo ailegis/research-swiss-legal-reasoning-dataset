@@ -1,0 +1,1542 @@
+[
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Zweck",
+        "citation": "Art. 1 LMG",
+        "content": "Dieses Gesetz bezweckt:\na. die Gesundheit der Konsumentinnen und Konsumenten vor Lebensmitteln und Gebrauchsgegenständen, die nicht sicher sind, zu schützen;\nb. den hygienischen Umgang mit Lebensmitteln und Gebrauchsgegenständen sicherzustellen;\nc. die Konsumentinnen und Konsumenten im Zusammenhang mit Lebensmitteln und Gebrauchsgegenständen vor Täuschungen zu schützen;\nd. den Konsumentinnen und Konsumenten die für den Erwerb von Lebens-mitteln oder Gebrauchsgegenständen notwendigen Informationen zur Verfügung zu stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_1"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Geltungsbereich",
+        "citation": "Art. 2 Abs. 1 LMG",
+        "content": "Dieses Gesetz gilt für:\na. den Umgang mit Lebensmitteln und Gebrauchsgegenständen, das heisst für deren Herstellung, Behandlung, Lagerung, Transport und Inverkehrbringen;\nb. die Kennzeichnung und Aufmachung von Lebensmitteln und Gebrauchsgegenständen, die Werbung für sie und die über sie verbreitete Information;\nc. die Ein-, Aus- und Durchfuhr von Lebensmitteln und Gebrauchsgegenständen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_2"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Geltungsbereich",
+        "citation": "Art. 2 Abs. 2 LMG",
+        "content": "Es gilt für alle Produktions-, Verarbeitungs- und Vertriebsstufen, einschliesslich der Primärproduktion, soweit diese der Herstellung von Lebensmitteln oder Gebrauchsgegenständen dient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_2"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Geltungsbereich",
+        "citation": "Art. 2 Abs. 3 LMG",
+        "content": "Für eingeführte Lebensmittel und Gebrauchsgegenstände gilt dieses Gesetz, soweit die Schweiz sich nicht durch völkerrechtlichen Vertrag anderweitig verpflichtet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_2"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Geltungsbereich",
+        "citation": "Art. 2 Abs. 4 LMG",
+        "content": "Dieses Gesetz gilt nicht für:\na. die Primärproduktion von Lebensmitteln für die private häusliche Verwendung;\nb. die Einfuhr von Lebensmitteln oder Gebrauchsgegenständen für die private häusliche Verwendung; vorbehalten bleibt Absatz 5;\nc. die häusliche Herstellung, Behandlung und Lagerung von Lebensmitteln und Gebrauchsgegenständen für die private häusliche Verwendung;\nd. Stoffe und Erzeugnisse, die unter die Heilmittelgesetzgebung fallen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_2"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Geltungsbereich",
+        "citation": "Art. 2 Abs. 5 LMG",
+        "content": "Der Bundesrat kann die Einfuhr von Lebensmitteln oder Gebrauchsgegenständen, die für die private häusliche Verwendung bestimmt sind, beschränken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_2"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Ausfuhr",
+        "citation": "Art. 3 Abs. 1 LMG",
+        "content": "Lebensmittel, die für die Ausfuhr bestimmt sind, müssen den Bestimmungen dieses Gesetzes entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_3"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Ausfuhr",
+        "citation": "Art. 3 Abs. 2 LMG",
+        "content": "Sie dürfen von den Bestimmungen dieses Gesetzes abweichen, wenn die Gesetzgebung oder die Behörden des Bestimmungslandes etwas anderes verlangen oder zulassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_3"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Ausfuhr",
+        "citation": "Art. 3 Abs. 3 LMG",
+        "content": "Lebensmittel, die den Bestimmungen dieses Gesetzes nicht entsprechen, dürfen nur dann ausgeführt werden, wenn die Behörden des Bestimmungslandes der Einfuhr zustimmen, nachdem sie über die Gründe, aus denen die betreffenden Lebensmittel in der Schweiz nicht in Verkehr gebracht werden dürfen, und über die näheren Umstände umfassend informiert worden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_3"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Ausfuhr",
+        "citation": "Art. 3 Abs. 4 LMG",
+        "content": "Gebrauchsgegenstände, die für die Ausfuhr bestimmt sind, müssen den Bestimmungen des Bestimmungslandes entsprechen. Der Bundesrat kann etwas anderes vorschreiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_3"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 1. Abschnitt: Zweck und Geltungsbereich, Ausfuhr",
+        "citation": "Art. 3 Abs. 5 LMG",
+        "content": "Gesundheitsschädliche Lebensmittel und Gebrauchsgegenstände dürfen nicht ausgeführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_3"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Begriffe, Lebensmittel",
+        "citation": "Art. 4 Abs. 1 LMG",
+        "content": "Lebensmittel sind alle Stoffe oder Erzeugnisse, die dazu bestimmt sind oder von denen sich vernünftigerweise vorhersehen lässt, dass sie in verarbeitetem, teilweise verarbeitetem oder unverarbeitetem Zustand von Menschen aufgenommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_4"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Begriffe, Lebensmittel",
+        "citation": "Art. 4 Abs. 2 LMG",
+        "content": "Als Lebensmittel gelten auch:\na. Getränke einschliesslich Wasser für den menschlichen Konsum;\nb. Kaugummi;\nc. alle Stoffe, die dem Lebensmittel bei seiner Herstellung, Verarbeitung oder Bearbeitung absichtlich zugesetzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_4"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Begriffe, Lebensmittel",
+        "citation": "Art. 4 Abs. 3 LMG",
+        "content": "Nicht als Lebensmittel gelten:\na. Futtermittel;\nb. lebende Tiere, soweit sie nicht für das Inverkehrbringen zum menschlichen Konsum hergerichtet worden sind;\nc. Pflanzen vor dem Ernten;\nd. Arzneimittel;\ne. kosmetische Mittel;\nf. Tabak und Tabakerzeugnisse; \ng. Betäubungsmittel und psychotrope Stoffe;\nh. Rückstände und Kontaminanten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_4"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Begriffe, Gebrauchsgegenstände",
+        "citation": "Art. 5 LMG",
+        "content": "Gebrauchsgegenstände sind Gegenstände, die unter eine der folgenden Produktekategorien fallen:\na. Bedarfsgegenstände: Gegenstände und Materialien:\n1. die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen,\n2. bei denen erwartet werden kann, dass sie bei normaler oder vernünftigerweise vorhersehbarer Verwendung mit Lebensmitteln in Berührung kommen, oder \n3. die dazu bestimmt sind, ihre Bestandteile an Lebensmittel abzugeben;\nb. kosmetische Mittel und andere Gegenstände, Stoffe und Zubereitungen, die nach ihrer Bestimmung äusserlich mit dem Körper, mit den Zähnen oder den Schleimhäuten in Berührung kommen;\nc. Utensilien und Farben für Tätowierungen und Permanent-Make-up;\nd. Kleidungsstücke, Textilien und andere Gegenstände, die nach ihrer Bestimmung mit dem Körper in Berührung kommen;\ne. Spielzeug und andere Gegenstände, die für den Gebrauch durch Kinder bestimmt sind;\nf. Kerzen, Streichhölzer, Feuerzeuge und Scherzartikel;\ng. Aerosolpackungen, die Lebensmittel oder andere Gebrauchsgegenstände enthalten;\nh. Gegenstände und Materialien, die zur Ausstattung und Auskleidung von Wohnräumen bestimmt sind, soweit sie nicht anderen produktspezifischen Gesetzgebungen unterstellt sind;\ni. Wasser, das dazu bestimmt ist, in Anlagen, die der Allgemeinheit oder einem berechtigten, nicht ausschliesslich privaten Personenkreis zugänglich sind, mit dem menschlichen Körper in Kontakt zu kommen, und das nicht dazu bestimmt ist, getrunken zu werden, wie namentlich das Dusch- und Badewasser in Spitälern, Pflegeheimen oder Hotels.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_5"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 1. Kapitel: Allgemeine Bestimmungen, 2. Abschnitt: Begriffe, Inverkehrbringen",
+        "citation": "Art. 6 LMG",
+        "content": "Als Inverkehrbringen im Sinne dieses Gesetzes gilt der Vertrieb von Lebensmitteln oder Gebrauchsgegenständen, jede Form der entgeltlichen oder unentgeltlichen Weitergabe, das Bereithalten für die entgeltliche oder unentgeltliche Abgabe, das Anbieten zur Abgabe und die Abgabe selber.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_6"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 1 LMG",
+        "content": "Es dürfen nur sichere Lebensmittel in Verkehr gebracht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 2 LMG",
+        "content": "Lebensmittel gelten als nicht sicher, wenn davon auszugehen ist, dass sie:\na. gesundheitsschädlich sind; oder\nb. für den Verzehr durch den Menschen ungeeignet sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 3 LMG",
+        "content": "Bei der Entscheidung, ob ein Lebensmittel sicher ist, sind zu berücksichtigen:\na. die normalen Bedingungen seiner Verwendung auf allen Produktions-, Verarbeitungs- und Vertriebsstufen;\nb. die normalen Bedingungen seiner Verwendung durch die Konsumentinnen und Konsumenten; sowie\nc. die den Konsumentinnen und Konsumenten vermittelten oder sonst wie allgemein zugänglichen Informationen über die Vermeidung bestimmter, die Gesundheit beeinträchtigender Wirkungen eines bestimmten Lebensmittels oder einer bestimmten Lebensmittelkategorie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 4 LMG",
+        "content": "Der Bundesrat legt die Anforderungen an die Sicherheit von Lebensmitteln fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 5 LMG",
+        "content": "Er kann eine Bewilligungs- oder eine Meldepflicht einführen für:\na. neuartige Lebensmittel;\nb. Lebensmittel, die für Menschen bestimmt sind, welche aus gesundheitlichen Gründen besondere Ernährungsbedürfnisse haben;\nc. Lebensmittel, die mit einem Hinweis auf besondere ernährungsphysiologische oder andere physiologische Wirkungen angepriesen werden;\nd. Lebensmittel, die von Tieren stammen, denen in klinischen Versuchen Arzneimittel verabreicht wurden, die nicht zugelassen sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Lebensmittelsicherheit",
+        "citation": "Art. 7 Abs. 6 LMG",
+        "content": "Er kann weitere Bewilligungs- oder Meldepflichten einführen, wenn sich die Schweiz durch einen völkerrechtlichen Vertrag verpflichtet hat, technische Vorschriften anzuwenden, die solche Pflichten vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_7"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Primärproduktion",
+        "citation": "Art. 8 LMG",
+        "content": "Wer Tiere oder Pflanzen zur Herstellung von Lebensmitteln produziert, muss sie so produzieren, dass die entsprechenden Lebensmittel die menschliche Gesundheit nicht gefährden und nicht zu Täuschung Anlass geben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_8"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Fleischgewinnung",
+        "citation": "Art. 9 Abs. 1 LMG",
+        "content": "Der Bundesrat bestimmt die Tierarten, deren Fleisch als Lebensmittel verwendet werden darf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_9"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Fleischgewinnung",
+        "citation": "Art. 9 Abs. 2 LMG",
+        "content": "Er bestimmt die Tierarten, die nur in nach Artikel 11 bewilligten Schlachtbetrieben geschlachtet werden dürfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_9"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Fleischgewinnung",
+        "citation": "Art. 9 Abs. 3 LMG",
+        "content": "Er regelt die Schlachtung kranker, krankheitsverdächtiger und verunfallter Tiere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_9"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Hygiene",
+        "citation": "Art. 10 Abs. 1 LMG",
+        "content": "Wer mit Lebensmitteln umgeht, muss dafür sorgen, dass diese durch den Umgang in hygienischer Hinsicht nicht beeinträchtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_10"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Hygiene",
+        "citation": "Art. 10 Abs. 2 LMG",
+        "content": "Personen, die krank oder verletzt sind und deshalb im Umgang mit Lebensmitteln die Gesundheit der Konsumentinnen und Konsumenten gefährden können, müssen besondere Schutzmassnahmen einhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_10"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Hygiene",
+        "citation": "Art. 10 Abs. 3 LMG",
+        "content": "Der Bundesrat erlässt Hygienevorschriften über:\na. den Umgang mit Lebensmitteln;\nb. die Räume, in denen mit Lebensmitteln umgegangen wird, und deren Ausstattung;\nc. die in Schlachtbetrieben erforderlichen Räume und Einrichtungen, je nach Art und Umfang der Schlachtungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_10"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Hygiene",
+        "citation": "Art. 10 Abs. 4 LMG",
+        "content": "Er kann Anforderungen an die Hygienekenntnisse von Personen festlegen, die mit Lebensmitteln umgehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_10"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Bewilligungs- und Meldepflicht für Betriebe",
+        "citation": "Art. 11 Abs. 1 LMG",
+        "content": "Schlachtbetriebe sowie Betriebe, die mit Lebensmitteln tierischer Herkunft umgehen, bedürfen einer Betriebsbewilligung des Kantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_11"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Bewilligungs- und Meldepflicht für Betriebe",
+        "citation": "Art. 11 Abs. 2 LMG",
+        "content": "Andere Betriebe, die in der Produktion, der Verarbeitung oder im Vertrieb von Lebensmitteln tätig sind, müssen ihre Tätigkeit der kantonalen Vollzugsbehörde melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_11"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Bewilligungs- und Meldepflicht für Betriebe",
+        "citation": "Art. 11 Abs. 3 LMG",
+        "content": "Der Bundesrat kann Ausnahmen vorsehen für Betriebe:\na. die ausschliesslich im Bereich der Primärproduktion tätig sind; oder\nb. deren Tätigkeit für die Lebensmittelsicherheit ein geringes Risiko darstellt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_11"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Kennzeichnungs- und Auskunftspflicht ",
+        "citation": "Art. 12 Abs. 1 LMG",
+        "content": "Wer vorverpackte Lebensmittel in Verkehr bringt, muss den Abnehmerinnen und Abnehmern über das Lebensmittel Folgendes angeben:\na. das Produktionsland;\nb. die Sachbezeichnung;\nc. die Zutaten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_12"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Kennzeichnungs- und Auskunftspflicht ",
+        "citation": "Art. 12 Abs. 2 LMG",
+        "content": "Der Bundesrat kann für die Angabe des Produktionslandes und der Zutaten bei verarbeiteten Produkten Ausnahmen festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_12"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Kennzeichnungs- und Auskunftspflicht ",
+        "citation": "Art. 12 Abs. 3 LMG",
+        "content": "Zusammen mit der Sachbezeichnung können andere Bezeichnungen verwendet werden, sofern diese die Konsumentinnen und Konsumenten nicht täuschen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_12"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Kennzeichnungs- und Auskunftspflicht ",
+        "citation": "Art. 12 Abs. 4 LMG",
+        "content": "Auf die Sachbezeichnung kann verzichtet werden, sofern die Lebensmittelart ohne Weiteres erkennbar ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_12"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Kennzeichnungs- und Auskunftspflicht ",
+        "citation": "Art. 12 Abs. 5 LMG",
+        "content": "Über offen in den Verkehr gebrachte Lebensmittel müssen auf Verlangen die gleichen Angaben gemacht werden können wie über vorverpackte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_12"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 1 LMG",
+        "content": "Der Bundesrat kann weitere Angaben vorschreiben, namentlich über:\na. Haltbarkeit;\nb. Aufbewahrungsart;\nc. Herkunft der Rohstoffe;\nd. Produktionsart;\ne. Zubereitungsart;\nf. besondere Wirkungen;\ng. besondere Gefahren;\nh. Nährwert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 2 LMG",
+        "content": "Er kann Vorschriften erlassen darüber, wie Betriebe, die zubereitete Speisen an Konsumentinnen und Konsumenten abgeben, die Speisen auf ihren Menükarten zu kennzeichnen haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 3 LMG",
+        "content": "Er kann Vorschriften erlassen über die Kennzeichnung zum Schutz der Gesundheit besonders gesundheitsgefährdeter Menschen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 4 LMG",
+        "content": "Er regelt:\na. die Zulässigkeit nährwert- und gesundheitsbezogener Angaben;\nb. die Kennzeichnung von Lebensmitteln, denen Stoffe zugesetzt worden sind, die als lebensnotwendig oder physiologisch nützlich erachtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 5 LMG",
+        "content": "Er kann festlegen, dass wissenschaftliche Daten und Informationen, die für die Begründung einer gesundheitsbezogenen Angabe verwendet werden, während einer bestimmten Frist nicht zur Begründung derselben gesundheitsbezogenen Angabe für ein anderes Produkt verwendet werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Besondere Kennzeichnung",
+        "citation": "Art. 13 Abs. 6 LMG",
+        "content": "Diese Vorschriften dürfen keine unverhältnismässige administrative Mehrbelastung für die Betriebe zur Folge haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_13"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Abgabe- und Werbebeschränkungen für alkoholische Getränke",
+        "citation": "Art. 14 Abs. 1 LMG",
+        "content": "Die Abgabe alkoholischer Getränke an Jugendliche unter 16 Jahren ist verboten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_14"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Abgabe- und Werbebeschränkungen für alkoholische Getränke",
+        "citation": "Art. 14 Abs. 2 LMG",
+        "content": "Der Bundesrat kann die Werbung für alkoholische Getränke, die sich speziell an Jugendliche unter 18 Jahren richtet, einschränken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_14"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 1. Abschnitt: Lebensmittel, Abgabe- und Werbebeschränkungen für alkoholische Getränke",
+        "citation": "Art. 14 Abs. 3 LMG",
+        "content": "Vorbehalten bleiben Abgabe- und Werbebeschränkungen nach den folgenden Gesetzen:\na. Bundesgesetz vom 24. März 2006 über Radio und Fernsehen;\nb. Alkoholgesetz vom 21. Juni 1932.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_14"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Sicherheit von Gebrauchsgegenständen",
+        "citation": "Art. 15 Abs. 1 LMG",
+        "content": "Es dürfen nur sichere Gebrauchsgegenstände in Verkehr gebracht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_15"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Sicherheit von Gebrauchsgegenständen",
+        "citation": "Art. 15 Abs. 2 LMG",
+        "content": "Ein Gebrauchsgegenstand gilt als sicher, wenn er bei normaler oder vernünftigerweise vorhersehbarer Verwendung keine oder nur minimale Gefahren birgt oder nur solche, die sich mit seinem normalen Gebrauch vereinbaren lassen und die unter Wahrung eines hohen Schutzniveaus für die Gesundheit von Konsumentinnen und Konsumenten und Dritter vertretbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_15"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Sicherheit von Gebrauchsgegenständen",
+        "citation": "Art. 15 Abs. 3 LMG",
+        "content": "Für die Gewährleistung der Gesundheit der Konsumentinnen und Konsumenten und Dritter sind insbesondere die folgenden Aspekte des Gebrauchsgegenstands zu berücksichtigen:\na. seine Eigenschaften, seine Zusammensetzung, die Bedingungen für seinen Zusammenbau, seine Installation und seine Inbetriebnahme;\nb. seine Wartung und seine Gebrauchsdauer;\nc. seine Einwirkung auf andere Produkte oder die Einwirkung anderer Produkte auf ihn, wenn eine gemeinsame Verwendung mit diesen anderen Produkten vernünftigerweise vorhersehbar ist;\nd. seine Aufmachung, seine Verpackung, seine Kennzeichnung, gegebenenfalls Warnhinweise, seine Gebrauchs- und Bedienungsanleitung und die Anweisungen für seine Beseitigung sowie alle sonstigen produktbezogenen Angaben;\ne. die besonderen Risiken, die er für bestimmte Gruppen von Konsumentinnen und Konsumenten, namentlich Kinder und ältere Menschen, birgt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_15"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Sicherheit von Gebrauchsgegenständen",
+        "citation": "Art. 15 Abs. 4 LMG",
+        "content": "Der Bundesrat legt die Anforderungen an die Sicherheit von Gebrauchsgegenständen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_15"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Sicherheit von Gebrauchsgegenständen",
+        "citation": "Art. 15 Abs. 5 LMG",
+        "content": "Er kann zur Gewährleistung der Sicherheit von Gebrauchsgegenständen darüber hinaus:\na. Konformitätsbewertungsverfahren oder Meldepflichten für bestimmte Gebrauchsgegenstände vorschreiben;\nb. vorsehen, dass für bestimmte Gebrauchsgegenstände technische Normen bezeichnet werden, bei deren Beachtung die Vermutung besteht, dass der Gebrauchsgegenstand sicher ist;\nc. die Verwendung bestimmter Gebrauchsgegenstände oder bestimmter Stoffe für die Verwendung in Gebrauchsgegenständen einschränken oder verbieten;\nd. verlangen, dass die Öffentlichkeit über die Eigenschaften bestimmter Gebrauchsgegenstände informiert wird;\ne. Anforderungen an die Hygiene von Gebrauchsgegenständen festlegen;\nf. Anforderungen an die Fachkenntnisse von Personen festlegen, welche mit Gebrauchsgegenständen umgehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_15"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Kennzeichnung und Werbung",
+        "citation": "Art. 16 Abs. 1 LMG",
+        "content": "Gebrauchsgegenstände sind so zu kennzeichnen, dass der Gesundheitsschutz und im Rahmen von Artikel 18 der Schutz vor Täuschungen gewährleistet sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_16"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Kennzeichnung und Werbung",
+        "citation": "Art. 16 Abs. 2 LMG",
+        "content": "Der Bundesrat kann Anforderungen an die Kennzeichnung von Gebrauchsgegenständen und an die Werbung für sie festlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_16"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 2. Abschnitt: Gebrauchsgegenstände, Meldepflicht für Betriebe",
+        "citation": "Art. 17 LMG",
+        "content": "Der Bundesrat kann für Betriebe, die mit Gebrauchsgegenständen umgehen, eine Meldepflicht vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_17"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Täuschungsschutz",
+        "citation": "Art. 18 Abs. 1 LMG",
+        "content": "Sämtliche Angaben über Lebensmittel, Bedarfsgegenstände und kosmetische Mittel müssen den Tatsachen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_18"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Täuschungsschutz",
+        "citation": "Art. 18 Abs. 2 LMG",
+        "content": "Die Aufmachung, Kennzeichnung und Verpackung der Produkte nach Absatz 1 und die Werbung für sie dürfen die Konsumentinnen und Konsumenten nicht täuschen. Die Bestimmungen des Markenschutzgesetzes vom 28. August 1992 über Angaben zur schweizerischen Herkunft bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_18"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Täuschungsschutz",
+        "citation": "Art. 18 Abs. 3 LMG",
+        "content": "Täuschend sind namentlich Aufmachungen, Kennzeichnungen, Verpackungen und Werbungen, die geeignet sind, bei den Konsumentinnen und Konsumenten falsche Vorstellungen über Herstellung, Zusammensetzung, Beschaffenheit, Produktionsart, Haltbarkeit, Produktionsland, Herkunft der Rohstoffe oder Bestandteile, besondere Wirkungen oder besonderen Wert des Produkts zu wecken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_18"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Täuschungsschutz",
+        "citation": "Art. 18 Abs. 4 LMG",
+        "content": "Der Bundesrat kann zur Gewährleistung des Täuschungsschutzes:\na. Lebensmittel umschreiben und deren Bezeichnung festlegen;\nb. Anforderungen an Lebensmittel, Bedarfsgegenstände und kosmetische Mittel festlegen;\nc. Kennzeichnungsvorschriften erlassen für Bereiche, in denen Konsumentinnen und Konsumenten aufgrund der Ware oder der Art des Handels besonders leicht getäuscht werden können;\nd. die Gute Herstellungspraxis (GHP) für Lebensmittel, Bedarfsgegenstände und kosmetische Mittel umschreiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_18"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Täuschungsschutz",
+        "citation": "Art. 18 Abs. 5 LMG",
+        "content": "Er kann zur Umsetzung internationaler Verpflichtungen weitere Gebrauchsgegenstände den Vorschriften dieses Artikels unterwerfen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_18"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Nachahmung und Verwechslung",
+        "citation": "Art. 19 Abs. 1 LMG",
+        "content": "Surrogate und Imitationsprodukte müssen so gekennzeichnet und beworben werden, dass es den Konsumentinnen und Konsumenten möglich ist, die tatsächliche Art des Lebensmittels zu erkennen und es von Erzeugnissen, mit denen es verwechselt werden könnte, zu unterscheiden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_19"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Nachahmung und Verwechslung",
+        "citation": "Art. 19 Abs. 2 LMG",
+        "content": "Produkte, die keine Lebensmittel sind, dürfen nicht so aufgemacht, gekennzeichnet, gelagert, in Verkehr gebracht oder beworben werden, dass sie mit Lebensmitteln verwechselt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_19"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Einschränkung der Herstellungs- und Behandlungsverfahren",
+        "citation": "Art. 20 Abs. 1 LMG",
+        "content": "Der Bundesrat kann physikalische, chemische, mikrobiologische oder biotechnologische Verfahren zur Herstellung oder Behandlung von Lebensmitteln oder Gebrauchsgegenständen einschränken oder verbieten, wenn nach den aktuellen Erkenntnissen der Wissenschaft eine Gefährdung der Gesundheit der Konsumentinnen und Konsumenten nicht ausgeschlossen werden kann. Er beachtet dabei die Anforderungen des Gentechnikgesetzes vom 21. März 2003.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_20"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Einschränkung der Herstellungs- und Behandlungsverfahren",
+        "citation": "Art. 20 Abs. 2 LMG",
+        "content": "Er kann bestimmte Zuchtmethoden zur Erzeugung von Tieren, die zur Herstellung von Lebensmitteln vorgesehen sind, einschränken oder verbieten. Sind entsprechende Nachweismethoden verfügbar, sind sie anzuwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_20"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 3. Abschnitt:, Gemeinsame Bestimmungen für Lebensmittel und Gebrauchsgegenstände, Einschränkung der Herstellungs- und Behandlungsverfahren",
+        "citation": "Art. 20 Abs. 3 LMG",
+        "content": "Er kann das Inverkehrbringen kosmetischer Mittel, deren endgültige Zusammensetzung oder deren Bestandteile mit Tierversuchen getestet worden sind, zur Einhaltung der Bestimmungen der Lebensmittelgesetzgebung, einschränken oder verbieten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_20"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Risikoanalyse",
+        "citation": "Art. 21 Abs. 1 LMG",
+        "content": "Die Risikoanalyse setzt sich zusammen aus der Risikobewertung, dem Risikomanagement und der Risikokommunikation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_21"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Risikoanalyse",
+        "citation": "Art. 21 Abs. 2 LMG",
+        "content": "Um den Schutz der Gesundheit der Konsumentinnen und Konsumenten sicherzustellen, stützen sich die zuständigen Behörden auf Risikoanalysen, ausser wenn dies nach den Umständen oder der Art der Massnahme unangemessen wäre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_21"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Risikoanalyse",
+        "citation": "Art. 21 Abs. 3 LMG",
+        "content": "Die Risikobewertung muss auf den verfügbaren wissenschaftlichen Erkenntnissen beruhen. Sie ist in einer unabhängigen, objektiven und transparenten Art und Weise vorzunehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_21"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Risikoanalyse",
+        "citation": "Art. 21 Abs. 4 LMG",
+        "content": "Beim Risikomanagement ist zur Erreichung der Ziele dieses Gesetzes den Ergebnissen der Risikobewertung, insbesondere behördlichen Gutachten und anderen wesentlichen Faktoren, sowie dem Vorsorgeprinzip Rechnung zu tragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_21"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Risikoanalyse",
+        "citation": "Art. 21 Abs. 5 LMG",
+        "content": "Die Risikokommunikation wird insbesondere in den Artikeln 24 und 54 geregelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_21"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Vorsorgeprinzip",
+        "citation": "Art. 22 LMG",
+        "content": "Stellt die zuständige Bundesbehörde nach einer Auswertung der verfügbaren Informationen fest, dass ein Lebensmittel oder ein Gebrauchsgegenstand gesundheitsschädliche Auswirkungen haben könnte, besteht aber wissenschaftlich noch Unsicherheit, so kann sie vorläufige Massnahmen zur Sicherstellung eines hohen Gesundheitsschutzniveaus treffen, bis weitere wissenschaftliche Informationen für eine umfassendere Risikobewertung vorliegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_22"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Schutzmassnahmen",
+        "citation": "Art. 23 LMG",
+        "content": "Entspricht ein Produkt den gesetzlichen Vorgaben, ergeben jedoch neue wissenschaftliche Erkenntnisse, dass das Produkt die Konsumentinnen und Konsumenten unmittelbar gefährdet, so kann die zuständige Bundesbehörde die Vollzugsbehörde anweisen, das Inverkehrbringen des Produkts sofort zu beschränken oder seine Rücknahme vom Markt zu verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_23"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Information der Öffentlichkeit",
+        "citation": "Art. 24 Abs. 1 LMG",
+        "content": "Die zuständigen Behörden informieren die Öffentlichkeit insbesondere über:\na. ihre Kontrolltätigkeiten und deren Wirksamkeit;\nb. Lebensmittel und Gebrauchsgegenstände, bei denen ein hinreichender Verdacht besteht, dass sie ein Risiko für die Gesundheit mit sich bringen können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_24"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Information der Öffentlichkeit",
+        "citation": "Art. 24 Abs. 2 LMG",
+        "content": "Die zuständigen Bundesbehörden können der Öffentlichkeit und der obligatorischen Schule ernährungswissenschaftliche Erkenntnisse von allgemeinem Interesse vermitteln, welche namentlich für die Gesundheitsvorsorge, den Gesundheitsschutz und die nachhaltige Ernährung von Bedeutung sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_24"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Information der Öffentlichkeit",
+        "citation": "Art. 24 Abs. 3 LMG",
+        "content": "Sie können die Öffentlichkeitsarbeit anderer Institutionen unterstützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_24"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 2. Kapitel: Anforderungen an Lebensmittel und Gebrauchsgegenstände, 4. Abschnitt: Aufgaben der Behörden, Information der Öffentlichkeit",
+        "citation": "Art. 24 Abs. 4 LMG",
+        "content": "Der Öffentlichkeit nicht zugänglich gemacht werden:\na. amtliche Kontrollberichte sowie die Dokumente, welche Schlussfolgerungen über die bei der Kontrolle gewonnenen Erkenntnisse und Informationen enthalten (Art. 32 Abs. 1);\nb. Ergebnisse von Forschungsarbeiten und Erhebungen (Art. 40), soweit diese Rückschlüsse auf betroffene Herstellerinnen oder Hersteller, Vertreiberinnen oder Vertreiber oder Produkte zulassen;\nc. die Risikoklassierung von Betrieben durch die Vollzugsbehörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_24"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 1. Abschnitt: Untersuchungsverfahren ",
+        "citation": "Art. 25 Abs. 1 LMG",
+        "content": "Die zuständige Bundesbehörde veröffentlicht Empfehlungen zum Verfahren der Probenahme und der Untersuchung von Lebensmitteln und Gebrauchsgegenständen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_25"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 1. Abschnitt: Untersuchungsverfahren ",
+        "citation": "Art. 25 Abs. 2 LMG",
+        "content": "Der Bundesrat kann gewisse Verfahren der Probenahme und der Untersuchung für verbindlich erklären.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_25"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 1 LMG",
+        "content": "Wer Lebensmittel oder Gebrauchsgegenstände herstellt, behandelt, lagert, transportiert, in Verkehr bringt, ein-, aus- oder durchführt, muss dafür sorgen, dass die gesetzlichen Anforderungen eingehalten werden. Er oder sie ist zur Selbstkontrolle verpflichtet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_26"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 2 LMG",
+        "content": "Die amtliche Kontrolle entbindet nicht von der Pflicht zur Selbstkontrolle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_26"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 3 LMG",
+        "content": "Der Bundesrat regelt die Einzelheiten der Selbstkontrolle und ihrer Dokumentation. Für Kleinstbetriebe sieht er eine erleichterte Selbstkontrolle und eine erleichterte schriftliche Dokumentation vor.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_26"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Selbstkontrolle",
+        "citation": "Art. 26 Abs. 4 LMG",
+        "content": "Er kann Anforderungen an die Fachkenntnisse von Personen festlegen, die für die Selbstkontrolle verantwortlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_26"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Sicherstellung des Gesundheitsschutzes",
+        "citation": "Art. 27 Abs. 1 LMG",
+        "content": "Wer feststellt, dass von ihm oder ihr in Verkehr gebrachte Lebensmittel oder Gebrauchsgegenstände die Gesundheit gefährden können, muss sicherstellen, dass die Konsumentinnen und Konsumenten nicht geschädigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_27"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Sicherstellung des Gesundheitsschutzes",
+        "citation": "Art. 27 Abs. 2 LMG",
+        "content": "Der Bundesrat kann vorsehen, dass Feststellungen nach Absatz 1 den zuständigen Behörden gemeldet werden müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_27"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Sicherstellung des Gesundheitsschutzes",
+        "citation": "Art. 27 Abs. 3 LMG",
+        "content": "Er regelt die Rücknahme und den Rückruf von Lebensmitteln und Gebrauchsgegenständen, welche die Gesundheit gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_27"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Sicherstellung des Gesundheitsschutzes",
+        "citation": "Art. 27 Abs. 4 LMG",
+        "content": "Halterinnen und Halter, Abnehmerinnen und Abnehmer von Tieren, die zur Schlachtung bestimmt sind, müssen, wenn bei einem Tier Gesundheitsstörungen aufgetreten sind oder wenn ein Tier mit Arzneimitteln behandelt worden ist, die amtliche Tierärztin oder den amtlichen Tierarzt oder die amtliche Fachassistentin oder den amtlichen Fachassistenten im öffentlichen Veterinärdienst informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_27"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Rückverfolgbarkeit",
+        "citation": "Art. 28 Abs. 1 LMG",
+        "content": "Über alle Produktions-, Verarbeitungs- und Vertriebsstufen müssen rückverfolgbar sein:\na. Lebensmittel, der Lebensmittelherstellung dienende Tiere sowie alle Stoffe, die dazu bestimmt sind oder von denen vorhersehbar ist, dass sie in ein Lebensmittel verarbeitet werden;\nb. Bedarfsgegenstände;\nc. kosmetische Mittel;\nd. Spielzeug.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_28"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Rückverfolgbarkeit",
+        "citation": "Art. 28 Abs. 2 LMG",
+        "content": "Die Unternehmen müssen hierfür Systeme und Verfahren einrichten, damit den Behörden auf deren Verlangen Auskünfte über Lieferanten und Unternehmen, denen sie ihre Produkte geliefert haben, erteilt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_28"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Rückverfolgbarkeit",
+        "citation": "Art. 28 Abs. 3 LMG",
+        "content": "Der Bundesrat kann die Verpflichtung zur Rückverfolgbarkeit auf weitere Gebrauchsgegenstände ausdehnen, wenn sich die Schweiz durch einen völkerrechtlichen Vertrag dazu verpflichtet hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_28"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Unterstützungs- und Auskunftspflicht",
+        "citation": "Art. 29 Abs. 1 LMG",
+        "content": "Wer Lebensmittel oder Gebrauchsgegenstände herstellt, behandelt, lagert, transportiert, in Verkehr bringt, ein-, aus- oder durchführt, muss den Vollzugsbehörden bei der Wahrnehmung ihrer Aufgaben unentgeltlich behilflich sein, auf Verlangen Proben der angebotenen Produkte zur Verfügung stellen und die erforderlichen Auskünfte erteilen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_29"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 2. Abschnitt: Pflichten der Unternehmen, Unterstützungs- und Auskunftspflicht",
+        "citation": "Art. 29 Abs. 2 LMG",
+        "content": "Wer Tiere schlachtet, muss die für die Schlachttier- und Fleischuntersuchung zweckmässigen Räume, Einrichtungen und Hilfskräfte unentgeltlich zur Verfügung stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_29"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrolle und Probenerhebung",
+        "citation": "Art. 30 Abs. 1 LMG",
+        "content": "Auf jeder Stufe der Produktion, der Verarbeitung und des Vertriebs von Lebensmitteln, von für die Lebensmittelproduktion gehaltenen Tieren und von Gebrauchsgegenständen werden risikobasierte amtliche Kontrollen durchgeführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_30"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrolle und Probenerhebung",
+        "citation": "Art. 30 Abs. 2 LMG",
+        "content": "Die Vollzugsbehörden überprüfen die Einhaltung der lebensmittelrechtlichen Bestimmungen. Insbesondere überprüfen sie, ob:\na. die Vorschriften der Selbstkontrolle eingehalten werden und die Personen, die mit Lebensmitteln oder Gebrauchsgegenständen umgehen, die Hygienevorschriften beachten und die nötigen Fachkenntnisse besitzen;\nb. die Lebensmittel, Gebrauchsgegenstände, Räume, Einrichtungen, Fahrzeuge, Herstellungsverfahren, Tiere, Pflanzen und landwirtschaftlich genutzten Böden den lebensmittelrechtlichen Bestimmungen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_30"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrolle und Probenerhebung",
+        "citation": "Art. 30 Abs. 3 LMG",
+        "content": "Um die Einhaltung der lebensmittelrechtlichen Bestimmungen zu überprüfen, können die Vollzugsbehörden Proben erheben, in Dokumente und andere Aufzeichnungen Einblick nehmen sowie davon Kopien erstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_30"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrolle und Probenerhebung",
+        "citation": "Art. 30 Abs. 4 LMG",
+        "content": "Sie haben im Rahmen ihrer Aufgabe Zugang zu Grundstücken, Gebäuden, Betrieben, Räumen, Anlagen, Fahrzeugen und sonstigen Infrastrukturen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_30"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrolle und Probenerhebung",
+        "citation": "Art. 30 Abs. 5 LMG",
+        "content": "Der Bundesrat kann:\na. die Art der Durchführung, die Kontrollfrequenzen und die Bescheinigung der amtlichen Kontrollen regeln;\nb. vorsehen, dass Kontrollen in einzelnen Bereichen durch speziell ausgebildete Personen vorgenommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_30"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Schlachttier- und Fleischuntersuchung ",
+        "citation": "Art. 31 Abs. 1 LMG",
+        "content": "Die amtliche Tierärztin oder der amtliche Tierarzt oder unter deren Aufsicht die amtliche Fachassistentin oder der amtliche Fachassistent im öffentlichen Veterinärdienst untersucht von den folgenden Tieren die Schlachttiere und nach der Schlachtung das Fleisch:\na. Tiere der Pferde-, Rinder-, Schaf-, Ziegen- und Schweinegattung;\nb. Wildtiere, die als Nutztiere gehalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_31"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Schlachttier- und Fleischuntersuchung ",
+        "citation": "Art. 31 Abs. 2 LMG",
+        "content": "Sie oder er entscheidet über die weitere Verwendbarkeit des Fleisches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_31"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Schlachttier- und Fleischuntersuchung ",
+        "citation": "Art. 31 Abs. 3 LMG",
+        "content": "Der Bundesrat kann vorsehen:\na. die Schlachttier- und die Fleischuntersuchung für weitere Tierarten; \nb. die Fleischuntersuchung von bei der Jagd erlegten Tieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_31"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Schlachttier- und Fleischuntersuchung ",
+        "citation": "Art. 31 Abs. 4 LMG",
+        "content": "Er regelt:\na. das Verfahren für die Schlachttieruntersuchung;\nb. das Verfahren für die Fleischuntersuchung;\nc. gegebenenfalls das Kontrollverfahren bei anderen Tierarten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_31"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrollergebnis",
+        "citation": "Art. 32 Abs. 1 LMG",
+        "content": "Die Vollzugsbehörden teilen der im Betrieb verantwortlichen Person das Ergebnis der Kontrolle schriftlich mit. Der Bundesrat kann für die Schlachttier- und die Fleischuntersuchung Ausnahmen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_32"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Kontrollergebnis",
+        "citation": "Art. 32 Abs. 2 LMG",
+        "content": "Wird eine Probe nicht beanstandet, so kann die Eigentümerin oder der Eigentümer die Vergütung ihres Wertes verlangen, sofern die Probe einen bestimmten Mindestwert erreicht. Der Bundesrat bestimmt diesen Mindestwert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_32"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 3. Abschnitt: Amtliche Kontrolle, Beanstandung",
+        "citation": "Art. 33 LMG",
+        "content": "Stellt die Vollzugsbehörde fest, dass gesetzliche Anforderungen nicht erfüllt sind, spricht sie eine Beanstandung aus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_33"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Beanstandete Produkte",
+        "citation": "Art. 34 Abs. 1 LMG",
+        "content": "Haben die Vollzugsbehörden ein Produkt beanstandet, so ordnen sie die zur Wiederherstellung des gesetzlichen Zustandes erforderlichen Massnahmen an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_34"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Beanstandete Produkte",
+        "citation": "Art. 34 Abs. 2 LMG",
+        "content": "Sie können anordnen, dass das beanstandete Produkt:\na. mit oder ohne Auflagen verwertet werden darf;\nb. durch das Unternehmen auf dessen Kosten beseitigt werden muss;\nc. auf Kosten des Unternehmens eingezogen, unschädlich gemacht, unschädlich verwertet oder beseitigt werden muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_34"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Beanstandete Produkte",
+        "citation": "Art. 34 Abs. 3 LMG",
+        "content": "Sie können die im Betrieb verantwortliche Person verpflichten:\na. die Ursachen der Mängel abzuklären;\nb. geeignete Massnahmen zu treffen;\nc. die Vollzugsbehörden über die getroffenen Massnahmen zu informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_34"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Beanstandete Produkte",
+        "citation": "Art. 34 Abs. 4 LMG",
+        "content": "Werden Auflagen wiederholt missachtet, so können die Vollzugsbehörden die Beseitigung oder die Einziehung des Produkts anordnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_34"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Beanstandete Produkte",
+        "citation": "Art. 34 Abs. 5 LMG",
+        "content": "Bei der Einfuhr können die Vollzugsbehörden ein beanstandetes Produkt auch:\na. zurückweisen;\nb. an die zuständige kantonale Vollzugsbehörde für weitere Abklärungen überweisen;\nc. zurücksenden, wenn die für die Sendung verantwortliche Person und die zuständige Behörde des Herkunftslandes zustimmen;\nd. auf Antrag der für die Sendung verantwortlichen Person in ein neues Bestimmungsland senden, wenn die zuständige Behörde des Bestimmungslandes zustimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_34"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Nicht auf Produkte bezogene Beanstandungen",
+        "citation": "Art. 35 Abs. 1 LMG",
+        "content": "Bei Beanstandungen, die nicht auf Produkte bezogen sind, können die Vollzugsbehörden die im Betrieb verantwortliche Person verpflichten:\na. die Ursachen der Mängel abzuklären;\nb. geeignete Massnahmen zur Behebung der Mängel zu treffen;\nc. die Vollzugsbehörden über die Ergebnisse der Ursachenabklärung und über die getroffenen Massnahmen zu informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_35"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Nicht auf Produkte bezogene Beanstandungen",
+        "citation": "Art. 35 Abs. 2 LMG",
+        "content": "Sie können Herstellungsverfahren, das Schlachten von Tieren oder die Benützung von Anlagen, Räumen, Einrichtungen, Fahrzeugen und landwirtschaftlichen Böden für eine bestimmte Zeit oder dauernd verbieten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_35"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Nicht auf Produkte bezogene Beanstandungen",
+        "citation": "Art. 35 Abs. 3 LMG",
+        "content": "Gefährden die Verhältnisse in einem Betrieb die öffentliche Gesundheit unmittelbar und in erheblichem Masse, so können die Vollzugsbehörden den Betrieb sofort schliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_35"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Vorsorgliche Massnahmen",
+        "citation": "Art. 36 Abs. 1 LMG",
+        "content": "Die Vollzugsbehörden stellen beanstandete Produkte sicher, wenn dies für den Schutz der Konsumentinnen und Konsumenten oder Dritter erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_36"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Vorsorgliche Massnahmen",
+        "citation": "Art. 36 Abs. 2 LMG",
+        "content": "Sie können auch im Falle eines begründeten Verdachts Produkte sicherstellen, wenn dies für den Schutz der Konsumentinnen und Konsumenten oder Dritter erforderlich scheint.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_36"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Vorsorgliche Massnahmen",
+        "citation": "Art. 36 Abs. 3 LMG",
+        "content": "Sichergestellte Produkte können amtlich verwahrt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_36"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Vorsorgliche Massnahmen",
+        "citation": "Art. 36 Abs. 4 LMG",
+        "content": "Sichergestellte Produkte, die sich nicht aufbewahren lassen, werden unter Berücksichtigung der Interessen der Betroffenen verwertet oder beseitigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_36"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Strafanzeige",
+        "citation": "Art. 37 Abs. 1 LMG",
+        "content": "Die Vollzugsbehörden zeigen der Strafverfolgungsbehörde strafbare Widerhandlungen gegen Vorschriften des Lebensmittelrechts an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_37"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 3. Kapitel: Kontrolle, 4. Abschnitt: Massnahmen, Strafanzeige",
+        "citation": "Art. 37 Abs. 2 LMG",
+        "content": "In leichten Fällen können sie auf eine Strafanzeige verzichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_37"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Einfuhr, Ausfuhr und Durchfuhr",
+        "citation": "Art. 38 Abs. 1 LMG",
+        "content": "Der Bund vollzieht dieses Gesetz im Zusammenhang mit der Einfuhr, der Ausfuhr und der Durchfuhr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_38"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Einfuhr, Ausfuhr und Durchfuhr",
+        "citation": "Art. 38 Abs. 2 LMG",
+        "content": "Er kann im Einzelfall bestimmte Vollzugsaufgaben und den abschliessenden Entscheid dem betreffenden Kanton überlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_38"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Einfuhrbeschränkungen",
+        "citation": "Art. 39 Abs. 1 LMG",
+        "content": "Die zuständige Bundesbehörde kann die Einfuhr bestimmter, nicht sicherer Produkte verbieten, sofern sich die Gefahr für die Gesundheit der Bevölkerung nicht anders abwenden lässt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_39"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Einfuhrbeschränkungen",
+        "citation": "Art. 39 Abs. 2 LMG",
+        "content": "Sie kann anordnen, dass bestimmte Produkte nur eingeführt werden dürfen, wenn die zuständige Behörde des Ausfuhrlandes oder eine akkreditierte Stelle die Übereinstimmung des Produkts mit der schweizerischen Lebensmittelgesetzgebung bescheinigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_39"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Forschung",
+        "citation": "Art. 40 Abs. 1 LMG",
+        "content": "Der Bund erforscht und beschafft die für die Anwendung dieses Gesetzes erforderlichen wissenschaftlichen Grundlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_40"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Forschung",
+        "citation": "Art. 40 Abs. 2 LMG",
+        "content": "Er kann Erhebungen selber oder in Zusammenarbeit mit den Kantonen durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_40"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Vollzug in der Armee",
+        "citation": "Art. 41 Abs. 1 LMG",
+        "content": "In ortsfesten Anlagen, die von der Armee benützt werden, vollzieht der Bund die Lebensmittelkontrolle soweit möglich durch die kantonalen Vollzugsbehörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_41"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Vollzug in der Armee",
+        "citation": "Art. 41 Abs. 2 LMG",
+        "content": "Im Übrigen sorgt die Armee selbst dafür, dass die Anforderungen dieses Gesetzes eingehalten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_41"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Vollzug in der Armee",
+        "citation": "Art. 41 Abs. 3 LMG",
+        "content": "Der Bundesrat regelt die Zuständigkeiten und das Verfahren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_41"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Aufsicht und Koordination",
+        "citation": "Art. 42 Abs. 1 LMG",
+        "content": "Der Bund beaufsichtigt den Vollzug dieses Gesetzes durch die Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_42"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Aufsicht und Koordination",
+        "citation": "Art. 42 Abs. 2 LMG",
+        "content": "Er koordiniert die Vollzugsmassnahmen und die Informationstätigkeit und erlässt nationale Kontroll- und Notfallpläne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_42"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Aufsicht und Koordination",
+        "citation": "Art. 42 Abs. 3 LMG",
+        "content": "Er kann zum Zweck der Koordination:\na. die Kantone verpflichten, den Bund über Vollzugsmassnahmen sowie Kontroll- und Untersuchungsergebnisse zu informieren;\nb. den Kantonen im Hinblick auf einen einheitlichen Vollzug bestimmte Massnahmen vorschreiben;\nc. bei ausserordentlichen Verhältnissen die Kantone anweisen, bestimmte konkrete Massnahmen zu treffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_42"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Aufsicht und Koordination",
+        "citation": "Art. 42 Abs. 4 LMG",
+        "content": "Die zuständige Bundesbehörde kann:\na. die Ringversuche der kantonalen Vollzugsbehörden koordinieren und unterstützen;\nb. in Zusammenarbeit mit den kantonalen Vollzugsbehörden eigene Ringversuche durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_42"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Aufsicht und Koordination",
+        "citation": "Art. 42 Abs. 5 LMG",
+        "content": "Der Bundesrat koordiniert den Vollzug dieses Gesetzes mit dem Vollzug namentlich der folgenden Gesetze:\na. Tierschutzgesetz vom 16. Dezember 2005;\nb. Heilmittelgesetz vom 15. Dezember 2000;\nc. Gentechnikgesetz vom 21. März 2003;\nd. Epidemiengesetz vom 28. September 2012;\ne. Landwirtschaftsgesetz vom 29. April 1998;\nf. Tierseuchengesetz vom 1. Juli 1966.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_42"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Nationale Referenzlaboratorien",
+        "citation": "Art. 43 Abs. 1 LMG",
+        "content": "Der Bund betreibt nationale Referenzlaboratorien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_43"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Nationale Referenzlaboratorien",
+        "citation": "Art. 43 Abs. 2 LMG",
+        "content": "Soweit die zuständige Bundesbehörde den Betrieb von Referenzlaboratorien nicht selber wahrnehmen kann, überträgt sie diese Aufgabe an Dritte. Wird der Schwellenwert nach Artikel 6 Absatz 1 des Bundesgesetzes vom 16. Dezember 1994 über das öffentliche Beschaffungswesen überschritten, so schreibt sie den Auftrag vorgängig aus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_43"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Nationale Referenzlaboratorien",
+        "citation": "Art. 43 Abs. 3 LMG",
+        "content": "Der Bundesrat bestimmt die Zuständigkeitsbereiche der Laboratorien und regelt ihre Aufgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_43"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Nationale Referenzlaboratorien",
+        "citation": "Art. 43 Abs. 4 LMG",
+        "content": "Die Laboratorien müssen:\na. den internationalen Normen über die Funktionsweise von Prüflaboratorien entsprechen und für den ihnen übertragenen Tätigkeitsbereich akkreditiert sein;\nb. über genügend Personal, Räume, Ausrüstung und Mittel verfügen, um den ihnen übertragenen Auftrag jederzeit erfüllen zu können;\nc. geeignete Garantien beibringen können für ihre Vertrauenswürdigkeit, Unparteilichkeit und Unabhängigkeit gegenüber Personen, die Produkte herstellen, einführen oder vermarkten, die in den Zuständigkeitsbereich des betreffenden Labors fallen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_43"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Ausführungsbestimmungen des Bundesrates",
+        "citation": "Art. 44 Abs. 1 LMG",
+        "content": "Der Bundesrat erlässt die Ausführungsbestimmungen. Er berücksichtigt dabei international harmonisierte Vorschriften, Richtlinien, Empfehlungen und Normen und kann diese Regelungen für anwendbar erklären.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_44"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Ausführungsbestimmungen des Bundesrates",
+        "citation": "Art. 44 Abs. 2 LMG",
+        "content": "Er kann den Erlass administrativer und technischer Vorschriften dem zuständigen Bundesamt übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_44"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 45 Abs. 1 LMG",
+        "content": "Die Bundesbehörden arbeiten mit ausländischen und internationalen Fachstellen und Institutionen zusammen und nehmen die Aufgaben wahr, die sich aus den völkerrechtlichen Verträgen ergeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_45"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 45 Abs. 2 LMG",
+        "content": "Die internationale Amtshilfe richtet sich nach Artikel 22 des Bundesgesetzes vom 6. Oktober 1995 über die technischen Handelshemmnisse (THG).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_45"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 45 Abs. 3 LMG",
+        "content": "Der Bundesrat kann selbstständig völkerrechtliche Verträge über die Teilnahme der Schweiz an internationalen Systemen zur Gewährleistung der Sicherheit von Lebensmitteln und Gebrauchsgegenständen abschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_45"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Internationale Zusammenarbeit",
+        "citation": "Art. 45 Abs. 4 LMG",
+        "content": "Er kann ausländische Prüfstellen, Konformitätserklärungen und -bescheinigungen sowie im Ausland durchgeführte Prüfungen, Kontrollen, Konformitätsbewertungen oder Zulassungen anerkennen. Artikel 18 Absatz 2 THG bleibt vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_45"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Grenzüberschreitende Prüfungen",
+        "citation": "Art. 46 Abs. 1 LMG",
+        "content": "Ausländische Behörden, die schweizerische Betriebe kontrollieren wollen, die Lebensmittel oder Gebrauchsgegenstände in das Land dieser Behörden ausführen, bedürfen der Zustimmung der zuständigen Bundesbehörde. Diese erteilt die Zustimmung, wenn:\na. die Kontrolle ausschliesslich die Überprüfung der Einhaltung der Vorschriften dieses Landes über die Herstellung und die Anforderungen an die Beschaffenheit der auszuführenden Lebensmittel oder Gebrauchsgegenstände bezwecken; und\nb. der zu kontrollierende Betrieb der Kontrolle zustimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_46"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Grenzüberschreitende Prüfungen",
+        "citation": "Art. 46 Abs. 2 LMG",
+        "content": "Die zuständige Bundesbehörde kann verlangen, dass sie an der Kontrolle teilnehmen kann oder dass sie von der ausländischen Behörde, welche die Kontrolle durchführt, über deren Ergebnis informiert wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_46"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 1. Abschnitt: Bund, Grenzüberschreitende Prüfungen",
+        "citation": "Art. 46 Abs. 3 LMG",
+        "content": "Die zuständigen schweizerischen Behörden können in den Ländern, aus denen Lebensmittel oder Gebrauchsgegenstände in die Schweiz eingeführt werden, Kontrollen von Betrieben durchführen, wenn:\na. die Gewährleistung des Gesundheitsschutzes dies erfordert; und\nb. dies staatsvertraglich vorgesehen ist oder die betreffenden Länder im Einzelfall zustimmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_46"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Grundsätze",
+        "citation": "Art. 47 Abs. 1 LMG",
+        "content": "Die Kantone vollziehen dieses Gesetz, soweit nicht der Bund zuständig ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_47"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Grundsätze",
+        "citation": "Art. 47 Abs. 2 LMG",
+        "content": "Sie sorgen für die Kontrolle der Lebensmittel und der Gebrauchsgegenstände im Inland.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_47"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Laboratorien",
+        "citation": "Art. 48 Abs. 1 LMG",
+        "content": "Die Kantone betreiben zur Untersuchung der Proben spezialisierte und akkreditierte Laboratorien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_48"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Laboratorien",
+        "citation": "Art. 48 Abs. 2 LMG",
+        "content": "Sie können sich zur Führung gemeinsamer Laboratorien zusammenschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_48"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Laboratorien",
+        "citation": "Art. 48 Abs. 3 LMG",
+        "content": "Sie können auch akkreditierte Prüfstellen mit der Untersuchung von Proben beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_48"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Vollzugsorgane",
+        "citation": "Art. 49 Abs. 1 LMG",
+        "content": "Die Kantone setzen als Vollzugsorgane ein:\na. eine Kantonschemikerin oder einen Kantonschemiker;\nb. eine Kantonstierärztin oder einen Kantonstierarzt;\nc. die notwendige Anzahl:\n1. Lebensmittelinspektorinnen und -inspektoren,\n2. Lebensmittelkontrolleurinnen und -kontrolleure,\n3. amtliche Tierärztinnen und Tierärzte,\n4. amtliche Fachassistentinnen und Fachassistenten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_49"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Vollzugsorgane",
+        "citation": "Art. 49 Abs. 2 LMG",
+        "content": "Sie können weiteren Vollzugsbehörden besondere Kontrollaufgaben übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_49"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Vollzugsorgane",
+        "citation": "Art. 49 Abs. 3 LMG",
+        "content": "Der Bundesrat kann weitere kantonale Vollzugsorgane vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_49"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Ausführungsbestimmungen der Kantone",
+        "citation": "Art. 50 Abs. 1 LMG",
+        "content": "Die Kantone erlassen die Ausführungsbestimmungen für den kantonalen Vollzug und regeln die Aufgaben und die Organisation ihrer Vollzugsorgane im Rahmen dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_50"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Ausführungsbestimmungen der Kantone",
+        "citation": "Art. 50 Abs. 2 LMG",
+        "content": "Sie bringen ihre Ausführungsbestimmungen den Bundesbehörden zur Kenntnis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_50"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Koordination, Leitung und Zusammenarbeit mit den Bundesbehörden",
+        "citation": "Art. 51 Abs. 1 LMG",
+        "content": "Jeder Kanton koordiniert auf seinem Gebiet den Vollzug der Gesetzgebung über Lebensmittel und Gebrauchsgegenstände von der Herstellung bis zur Abgabe an die Konsumentinnen und Konsumenten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_51"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Koordination, Leitung und Zusammenarbeit mit den Bundesbehörden",
+        "citation": "Art. 51 Abs. 2 LMG",
+        "content": "Die Kantonschemikerin oder der Kantonschemiker vollzieht dieses Gesetz im Bereich der Lebensmittel und Gebrauchsgegenstände. Sie oder er ist dabei fachlich unabhängig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_51"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Koordination, Leitung und Zusammenarbeit mit den Bundesbehörden",
+        "citation": "Art. 51 Abs. 3 LMG",
+        "content": "Die Kantonstierärztin oder der Kantonstierarzt vollzieht dieses Gesetz im Bereich der Primärproduktion von Lebensmitteln tierischer Herkunft und der Schlachtung. Der Kanton kann sie oder ihn überdies mit der Kontrolle der Verarbeitung des Fleisches beauftragen. Die Kantonstierärztin oder der Kantonstierarzt ist beim Vollzug dieser Aufgaben fachlich unabhängig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_51"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Koordination, Leitung und Zusammenarbeit mit den Bundesbehörden",
+        "citation": "Art. 51 Abs. 4 LMG",
+        "content": "Die zuständigen kantonalen Behörden erstatten den Bundesbehörden die aufgrund dieses Gesetzes notwendigen Meldungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_51"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 2. Abschnitt: Kantone, Koordination, Leitung und Zusammenarbeit mit den Bundesbehörden",
+        "citation": "Art. 51 Abs. 5 LMG",
+        "content": "Sie beteiligen sich an den von den Bundesbehörden oder von internationalen Fachstellen durchgeführten Überprüfungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_51"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Anforderungen an die Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane",
+        "citation": "Art. 52 Abs. 1 LMG",
+        "content": "Der Bundesrat legt die fachlichen Anforderungen an die Mitarbeiterinnen und Mitarbeiter der verschiedenen Vollzugsorgane fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_52"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Anforderungen an die Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane",
+        "citation": "Art. 52 Abs. 2 LMG",
+        "content": "Er bestimmt die Ausbildungsgänge und die Abschlüsse, über welche die Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane verfügen müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_52"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Ausbildung",
+        "citation": "Art. 53 Abs. 1 LMG",
+        "content": "Bund und Kantone sorgen gemeinsam für die Ausbildung der für den Vollzug dieses Gesetzes zuständigen Personen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_53"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Ausbildung",
+        "citation": "Art. 53 Abs. 2 LMG",
+        "content": "Die zuständige Bundesbehörde kann Prüfungskommissionen ernennen, welche die Prüfungen der Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_53"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Ausbildung",
+        "citation": "Art. 53 Abs. 3 LMG",
+        "content": "Der Bundesrat regelt die Durchführung der Prüfungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_53"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Ausbildung",
+        "citation": "Art. 53 Abs. 4 LMG",
+        "content": "Er kann die Kantone mit der Durchführung der Prüfungen der Lebensmittelkontrolleurinnen und -kontrolleure beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_53"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 3. Abschnitt: Mitarbeiterinnen und Mitarbeiter der Vollzugsorgane, Ausbildung",
+        "citation": "Art. 53 Abs. 5 LMG",
+        "content": "Das zuständige Bundesamt entscheidet über die Anerkennung von Ausbildungen und Prüfungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_53"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Öffentliche Warnung",
+        "citation": "Art. 54 Abs. 1 LMG",
+        "content": "Stellen die Vollzugsbehörden fest, dass nicht sichere Lebensmittel oder Gebrauchsgegenstände an eine unbestimmte Zahl von Konsumentinnen und Konsumenten abgegeben worden sind, so sorgen sie dafür, dass die Bevölkerung informiert und ihr empfohlen wird, wie sie sich verhalten soll.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_54"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Öffentliche Warnung",
+        "citation": "Art. 54 Abs. 2 LMG",
+        "content": "Ist die Bevölkerung mehrerer Kantone gefährdet, so informieren die Bundesbehörden und geben Empfehlungen ab.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_54"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Öffentliche Warnung",
+        "citation": "Art. 54 Abs. 3 LMG",
+        "content": "In Fällen von geringer Tragweite kann die zuständige Behörde die Informationen über ein Abrufverfahren zugänglich machen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_54"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Öffentliche Warnung",
+        "citation": "Art. 54 Abs. 4 LMG",
+        "content": "Die Behörde hört, wenn möglich vorgängig, an:\na. die Person, welche das Produkt hergestellt, eingeführt oder in Verkehr gebracht hat;\nb. die Konsumentenorganisationen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_54"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Öffentliche Warnung",
+        "citation": "Art. 54 Abs. 5 LMG",
+        "content": "Sie kann die Inverkehrbringerin oder den Inverkehrbringer mit der Information der Öffentlichkeit beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_54"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 1 LMG",
+        "content": "Die zuständige Behörde kann Dritten, namentlich Unternehmen und Organisationen, Aufgaben aus dem Bereich der amtlichen Kontrollen übertragen. Sie kann zu diesem Zweck geeignete Organisationen schaffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 2 LMG",
+        "content": "Die Dritten müssen für ihre Tätigkeit:\na. akkreditiert sein;\nb. von der Schweiz im Rahmen eines internationalen Abkommens anerkannt sein; oder\nc. durch das Bundesrecht anderweitig ermächtigt oder anerkannt sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 3 LMG",
+        "content": "Der Bundesrat regelt, nach welcher Norm die Akkreditierung erfolgen muss.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 4 LMG",
+        "content": "Die zuständige Behörde umschreibt die Aufgaben und Befugnisse, die den Dritten übertragen werden. Dritte können keine Massnahmen verfügen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 5 LMG",
+        "content": "Der Bundesrat und die Kantone können die beauftragten Dritten ermächtigen, für ihre Tätigkeit im Rahmen dieses Gesetzes angemessene Gebühren zu erheben. Deren Tarife bedürfen der Genehmigung durch das Eidgenössische Departement des Innern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Mitarbeit Dritter",
+        "citation": "Art. 55 Abs. 6 LMG",
+        "content": "Die Mitarbeit Dritter steht unter staatlicher Aufsicht. Die Dritten haben der Behörde, deren Aufgaben oder Befugnisse ihnen übertragen wurden, über ihre Geschäfts- und ihre Rechnungsführung im Bereich der übertragenen Aufgaben Rechenschaft abzulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_55"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 4. Kapitel: Vollzug, 4. Abschnitt:, Gemeinsame Bestimmungen für den Vollzug durch Bund und Kantone, Schweigepflicht",
+        "citation": "Art. 56 LMG",
+        "content": "Personen, die mit dem Vollzug dieses Gesetzes beauftragt sind, unterstehen der Schweigepflicht. Die Artikel 24 und 60 bleiben vorbehalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_56"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Kostenteilung",
+        "citation": "Art. 57 Abs. 1 LMG",
+        "content": "Bund und Kantone tragen in ihrem jeweiligen Zuständigkeitsbereich die Kosten für den Vollzug dieses Gesetzes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_57"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Kostenteilung",
+        "citation": "Art. 57 Abs. 2 LMG",
+        "content": "Die Kantone sorgen dafür, dass angemessene finanzielle Mittel für die amtliche Kontrolle verfügbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_57"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 1 LMG",
+        "content": "Die Lebensmittelkontrolle ist gebührenfrei, soweit dieses Gesetz nichts anderes bestimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 2 LMG",
+        "content": "Gebühren werden erhoben für:\na. die Kontrolle, die zu einer Beanstandung führt; in besonders leichten Fällen wird auf das Erheben der Gebühr verzichtet;\nb. die wiederholte Beanstandung des gleichen Sachverhalts;\nc. die Nachkontrolle eines Betriebs;\nd. den Aufwand zur Wiederherstellung des gesetzmässigen Zustandes (Ersatzvornahme);\ne. die Schlachttier- und die Fleischuntersuchung, soweit sie dem Zweck dieses Gesetzes dient;\nf. die Kontrolle eines Zerlegebetriebs;\ng. die Kontrolle von Lebensmitteln tierischer Herkunft, die von den Bundesbehörden durchgeführt wird;\nh. besondere Dienstleistungen und Kontrollen, die auf Antrag durchgeführt werden;\ni. Bewilligungen, einschliesslich Betriebsbewilligungen für Schlacht- und für Zerlegebetriebe; die übrigen Betriebsbewilligungen nach Artikel 11 Absatz 1 sind gebührenfrei.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 3 LMG",
+        "content": "Der Bundesrat kann zur Finanzierung spezieller Kontrollen aufgrund bekannter oder neu auftretender Risiken auf bestimmten Lebensmitteln bei der Einfuhr eine Gebühr vorsehen. Abgabepflichtig ist die Importeurin oder der Importeur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 4 LMG",
+        "content": "Der Bundesrat kann weitere Gebühren vorsehen, soweit sich die Schweiz durch einen völkerrechtlichen Vertrag verpflichtet hat, solche zu erheben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 5 LMG",
+        "content": "Er setzt die Gebühren für die Kontrolle durch die Bundesbehörden fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 5. Kapitel: Finanzierung, Gebühren",
+        "citation": "Art. 58 Abs. 6 LMG",
+        "content": "Er bestimmt den Rahmen für die kantonalen Gebühren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_58"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Bearbeitung von Personendaten",
+        "citation": "Art. 59 Abs. 1 LMG",
+        "content": "Die zuständigen Behörden von Bund und Kantonen sind berechtigt, Personendaten, einschliesslich Daten über administrative und strafrechtliche Verfolgungen und Sanktionen, zu bearbeiten, soweit dies für den Vollzug ihrer Aufgaben nach diesem Gesetz erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_59"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Bearbeitung von Personendaten",
+        "citation": "Art. 59 Abs. 2 LMG",
+        "content": "Der Bundesrat regelt Form und Inhalt der Bearbeitung und legt Aufbewahrungs- und Vernichtungsfristen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_59"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Austausch von Vollzugsdaten",
+        "citation": "Art. 60 Abs. 1 LMG",
+        "content": "Die zuständigen Bundesbehörden, die kantonalen Behörden sowie Dritte nach Absatz 2 Buchstaben c und d liefern einander die Daten, die sie benötigen, um:\na. die ihnen durch die Lebensmittelgesetzgebung übertragenen Aufgaben erfüllen zu können;\nb. ihren Berichtspflichten aus völkerrechtlichen Verträgen im Bereich der Lebensmittel und Gebrauchsgegenstände nachkommen zu können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_60"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Austausch von Vollzugsdaten",
+        "citation": "Art. 60 Abs. 2 LMG",
+        "content": "Der Bundesrat regelt:\na. die Art und Weise des Datenaustauschs;\nb. die Form, in der die Daten zur Verfügung zu stellen sind;\nc. den Datenaustausch mit Dritten, denen nach Artikel 55 öffentliche Aufgaben übertragen sind;\nd. den Datenaustausch mit Dritten, die mit Aufgaben nach den Artikeln 14–16, 18, 64 und 180 des Landwirtschaftsgesetzes vom 29. April 1998 betraut sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_60"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Datenaustausch mit dem Ausland und mit internationalen Organisationen",
+        "citation": "Art. 61 Abs. 1 LMG",
+        "content": "Der Bundesrat regelt Zuständigkeiten und Verfahren für den Austausch von Personendaten mit ausländischen Behörden und Institutionen sowie mit internationalen Organisationen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_61"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Datenaustausch mit dem Ausland und mit internationalen Organisationen",
+        "citation": "Art. 61 Abs. 2 LMG",
+        "content": "Daten über administrative und strafrechtliche Verfolgungen dürfen an ausländische Behörden und Institutionen sowie an internationale Organisationen nur weitergegeben werden, wenn:\na. völkerrechtliche Verträge oder Beschlüsse internationaler Organisationen dies erfordern; oder\nb. es zur Abwendung unmittelbar drohender Gefahr für die Gesundheit unbedingt erforderlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_61"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 1 LMG",
+        "content": "Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) betreibt ein Informationssystem:\na. zur Gewährleistung der Sicherheit und der Hygiene von Lebensmitteln und Gebrauchsgegenständen sowie des Täuschungsschutzes im Rahmen seiner Aufgaben nach diesem Gesetz;\nb. zur Unterstützung der Vollzugsaufgaben von Bund und Kantonen nach diesem Gesetz;\nc. zur nationalen und internationalen Berichterstattung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 2 LMG",
+        "content": "Das Informationssystem des BLV ist Teil des gemeinsamen zentralen Informa-tionssystems entlang der Lebensmittelkette des Bundesamtes für Landwirtschaft (BLW) und des BLV zur Gewährleistung der Sicherheit von Lebensmitteln und Gebrauchsgegenständen, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes sowie einer einwandfreien Primärproduktion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 3 LMG",
+        "content": "Das Informationssystem des BLV enthält Personendaten einschliesslich:\na. Daten über administrative und strafrechtliche Verfolgungen und Sanktionen;\nb. Gesundheitsdaten im Bereich der Sicherheit von Lebensmitteln und Gebrauchsgegenständen;\nc. Daten über Ergebnisse von Kontrollen und Laboranalysen;\nd. Daten über Täuschungen im Zusammenhang mit Lebensmitteln und Gebrauchsgegenständen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 4 LMG",
+        "content": "Im Rahmen ihrer gesetzlichen Aufgaben können die folgenden Behörden Daten im Informationssystem des BLV online bearbeiten:\na. das BLV: zur Gewährleistung der Sicherheit von Lebensmitteln und Gebrauchsgegenständen, der Hygiene von Lebensmitteln und Gebrauchsgegenständen, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit, des Tierschutzes und einer einwandfreien Primärproduktion;\nb. das BLW: zur Gewährleistung der Sicherheit von Lebensmitteln, der Hygiene von Lebensmitteln, des Täuschungsschutzes, der Futtermittelsicherheit, der Tiergesundheit und des Tierschutzes und einer einwandfreien Primärproduktion;\nc. das Bundesamt für Zoll und Grenzsicherheit (BAZG): zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;\nd. die kantonalen Vollzugsbehörden zur Erfüllung ihrer Aufgaben in ihrem jeweiligen Zuständigkeitsbereich.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 5 LMG",
+        "content": "Zur Erfüllung ihrer Aufgaben können die folgenden Stellen die nachstehenden Daten im Informationssystem des BLV online abrufen:\na. das BLV: Daten über die Sicherheit von Lebensmitteln und Gebrauchsgegenständen, die Hygiene von Lebensmitteln und Gebrauchsgegenständen, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;\nb. das BLW: Daten über die Sicherheit von Lebensmitteln, die Hygiene von Lebensmitteln, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;\nc. das BAZG: Daten zum Zweck des Aufgabenvollzugs nach Artikel 38 Absatz 1;\nd. weitere Bundesstellen, die mit Aufgaben zur Umsetzung dieses Gesetzes beauftragt sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind, sofern der Bundesrat dies vorsieht;\ne. die kantonalen Vollzugsbehörden: Daten über die Sicherheit von Lebensmitteln und Gebrauchsgegenständen, die Hygiene von Lebensmitteln und Gebrauchsgegenständen, den Täuschungsschutz, die Futtermittelsicherheit, die Tiergesundheit, den Tierschutz und die Primärproduktion;\nf. Dritte, denen nach Artikel 55 öffentliche Aufgaben übertragen sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind;\ng. Dritte, die mit Aufgaben nach den Artikeln 14–16, 18, 64 und 180 des Landwirtschaftsgesetzes vom 29. April 1998 betraut sind: Daten, welche zur Erfüllung der ihnen übertragenen Aufgaben erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 6 LMG",
+        "content": "Der Bundesrat regelt für das Informationssystem des BLV:\na. die Struktur und den Datenkatalog, einschliesslich des von den Kantonen genutzten Teils;\nb. die Verantwortlichkeiten für die Datenbearbeitung;\nc. die Zugriffsrechte, namentlich den Umfang der Online-Zugriffsrechte;\nd. die zur Sicherstellung des Datenschutzes und der Datensicherheit erforderlichen organisatorischen und technischen Massnahmen;\ne. das Verfahren der Zusammenarbeit mit den Kantonen;\nf. die Aufbewahrungs- und Vernichtungsfrist;\ng. die Archivierung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 6. Kapitel: Datenbearbeitung, Informationssystem des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen",
+        "citation": "Art. 62 Abs. 7 LMG",
+        "content": "Die Kantone, die das Informationssystem des BLV für ihre eigenen Vollzugsaufgaben nutzen, sind verpflichtet, für ihren Bereich gleichwertige Datenschutzbestimmungen aufzustellen und ein Organ zu bezeichnen, welches deren Einhaltung überwacht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_62"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Vergehen und Verbrechen",
+        "citation": "Art. 63 Abs. 1 LMG",
+        "content": "Mit Freiheitsstrafe bis zu drei Jahren oder mit Geldstrafe wird bestraft, wer vorsätzlich:\na. Lebensmittel so herstellt, behandelt, lagert, transportiert oder in Verkehr bringt, dass sie bei normaler Verwendung die Gesundheit gefährden;\nb. Gebrauchsgegenstände so herstellt, behandelt, lagert, transportiert oder in Verkehr bringt, dass sie bei normaler oder vernünftigerweise vorhersehbarer Verwendung die Gesundheit gefährden;\nc. gesundheitsgefährdende Lebensmittel oder Gebrauchsgegenstände ein-, aus- oder durchführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_63"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Vergehen und Verbrechen",
+        "citation": "Art. 63 Abs. 2 LMG",
+        "content": "Handelt die Täterin oder der Täter gewerbsmässig oder mit Bereicherungsabsicht, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_63"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Vergehen und Verbrechen",
+        "citation": "Art. 63 Abs. 3 LMG",
+        "content": "Handelt sie oder er fahrlässig, so ist die Strafe Geldstrafe bis zu 180 Tagessätzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_63"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Vergehen und Verbrechen",
+        "citation": "Art. 63 Abs. 4 LMG",
+        "content": "Die Erfüllung der Meldepflicht nach Artikel 27 Absatz 2 kann als Strafmilderungsgrund berücksichtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_63"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 64 Abs. 1 LMG",
+        "content": "Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:\na. Lebensmittel oder Gebrauchsgegenstände so herstellt, behandelt, lagert, transportiert oder in Verkehr bringt, dass sie den Anforderungen dieses Gesetzes nicht entsprechen;\nb. den Vorschriften über den hygienischen Umgang mit Lebensmitteln und Gebrauchsgegenständen zuwiderhandelt;\nc. bei der landwirtschaftlichen Produktion oder bei der Herstellung von Lebensmitteln verbotene Stoffe oder Verfahren anwendet;\nd. den auf dieses Gesetz gestützten Vorschriften über die Ein-, Aus- und Durchfuhr von Lebensmitteln und Gebrauchsgegenständen zuwiderhandelt;\ne. ohne Berechtigung Tiere ausserhalb bewilligter Schlachtbetriebe schlachtet;\nf. Lebensmittel, Gebrauchsgegenstände, Räume, Einrichtungen, Anlagen, Fahrzeuge und Herstellungsverfahren sowie Tiere, Pflanzen oder Böden, die der Herstellung von Lebensmitteln dienen, der Untersuchung durch die Vollzugsbehörden entzieht, die Kontrolle verhindert oder erschwert;\ng. den Vollzugsbehörden die verlangten Auskünfte nach Artikel 29 Absatz 1 verweigert;\nh. den Vorschriften über die Abgabe alkoholischer Getränke zuwiderhandelt;\ni. den Vorschriften über den Täuschungsschutz bei Lebensmitteln und Gebrauchsgegenständen zuwiderhandelt;\nj. den Vorschriften über die Kennzeichnung oder Aufmachung von Lebensmitteln oder Gebrauchsgegenständen oder über die Werbung für sie zuwiderhandelt;\nk. den Vorschriften über die Selbstkontrolle nach Artikel 26, der Pflicht zur Information der Behörden nach Artikel 27, der Rückverfolgbarkeit nach Artikel 28 oder den Bewilligungs- und den Meldepflichten zuwiderhandelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_64"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 64 Abs. 2 LMG",
+        "content": "Handelt die Täterin oder der Täter gewerbsmässig oder mit Bereicherungsabsicht, so beträgt die Busse bis zu 80 000 Franken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_64"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 64 Abs. 3 LMG",
+        "content": "Versuch und Gehilfenschaft sind strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_64"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 64 Abs. 4 LMG",
+        "content": "Wer fahrlässig handelt, wird mit Busse bis zu 20 000 Franken bestraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_64"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 64 Abs. 5 LMG",
+        "content": "Haben die Vollzugsbehörden Informationen unter Berufung auf die Unterstützungs- und Auskunftspflicht nach Artikel 29 Absatz 1 erlangt, so dürfen diese Informationen gegen die betreffende Person in einem Strafverfahren nur verwendet werden, wenn die Person zustimmt oder die Informationen auch ohne ihre Mitwirkung hätten erlangt werden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_64"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Widerhandlungen in Geschäftsbetrieben, Urkundenfälschung",
+        "citation": "Art. 65 LMG",
+        "content": "Die Strafbestimmungen über Widerhandlungen in Geschäftsbetrieben und über Urkundenfälschung nach den Artikeln 6, 7 und 15 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht gelten im Bereich des Lebensmittelrechts auch für die kantonalen Behörden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_65"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 66 Abs. 1 LMG",
+        "content": "Widerhandlungen gegen dieses Gesetz werden von den Kantonen verfolgt und beurteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_66"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 66 Abs. 2 LMG",
+        "content": "Das für die Aufsicht des Bundes zuständige Bundesamt kann die kantonalen Untersuchungsbehörden verpflichten, eine Untersuchung einzuleiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_66"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 66 Abs. 3 LMG",
+        "content": "Das BAZG und das BLV verfolgen und beurteilen in ihren Zuständigkeitsbereichen Widerhandlungen gegen die Vorschriften dieses Gesetzes und seiner Ausführungsbestimmungen über die Ein-, Aus- und Durchfuhr.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_66"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 1. Abschnitt: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 66 Abs. 4 LMG",
+        "content": "Stellt eine Widerhandlung gleichzeitig eine nach Absatz 3 durch das BAZG sowie eine andere durch das BAZG zu verfolgende Widerhandlung dar, so wendet das BAZG die für die schwerste Widerhandlung angedrohte Strafe an; es kann diese angemessen erhöhen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_66"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Einspracheverfahren",
+        "citation": "Art. 67 LMG",
+        "content": "Verfügungen über Massnahmen sowie Bescheinigungen über die Konformität nach diesem Gesetz können bei der verfügenden Behörde mit Einsprache angefochten werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_67"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Bundesrechtspflege",
+        "citation": "Art. 68 LMG",
+        "content": "Das Einsprache- und das Beschwerdeverfahren gegen Verfügungen von Bundesbehörden richten sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_68"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Kantonales Verfahren",
+        "citation": "Art. 69 LMG",
+        "content": "Die Kantone setzen eine Beschwerdeinstanz ein, die Einspracheentscheide nach diesem Gesetz, einschliesslich des Ermessens ihrer Vollzugsorgane, überprüft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_69"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Fristen",
+        "citation": "Art. 70 Abs. 1 LMG",
+        "content": "Die Einsprachefrist beträgt zehn Tage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_70"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Fristen",
+        "citation": "Art. 70 Abs. 2 LMG",
+        "content": "Die Frist für Beschwerden gegen Einspracheentscheide beträgt dreissig Tage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_70"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Aufschiebende Wirkung und vorsorgliche Massnahmen",
+        "citation": "Art. 71 Abs. 1 LMG",
+        "content": "Die verfügende Behörde und die Beschwerdeinstanz können einer Einsprache oder einer Beschwerde die aufschiebende Wirkung entziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_71"
+    },
+    {
+        "book": "LMG",
+        "title": "LMG, 7. Kapitel: Strafbestimmungen und Rechtsschutz, 2. Abschnitt: Rechtsschutz, Aufschiebende Wirkung und vorsorgliche Massnahmen",
+        "citation": "Art. 71 Abs. 2 LMG",
+        "content": "Hat eine Einsprache oder eine Beschwerde aufschiebende Wirkung, so kann die verfügende Behörde oder die Beschwerdeinstanz vorsorgliche Massnahmen treffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2017/62/de#art_71"
+    }
+]

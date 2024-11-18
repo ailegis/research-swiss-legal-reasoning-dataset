@@ -1,0 +1,954 @@
+[
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, But",
+        "citation": "Art. 1 LCart",
+        "content": "La présente loi a pour but d’empêcher les conséquences nuisibles d’ordre économique ou social imputables aux cartels et aux autres restrictions à la concurrence et de promouvoir ainsi la concurrence dans l’intérêt d’une économie de marché fondée sur un régime libéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_1"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1 LCart",
+        "content": "La présente loi s’applique aux entreprises de droit privé ou de droit public qui sont parties à des cartels ou à d’autres accords en matière de concurrence, qui sont puissantes sur le marché ou participent à des concentrations d’entreprises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1bis LCart",
+        "content": "Est soumise à la présente loi toute entreprise engagée dans le processus économique qui offre ou acquiert des biens ou des services, indépendamment de son organisation ou de sa forme juridique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 2 LCart",
+        "content": "La présente loi est applicable aux états de fait qui déploient leurs effets en Suisse, même s’ils se sont produits à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_2"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Rapport avec d’autres prescriptions légales",
+        "citation": "Art. 3 al. 1 LCart",
+        "content": "Les prescriptions qui, sur un marché, excluent de la concurrence certains biens ou services sont réservées, notamment:\na. celles qui établissent un régime de marché ou de prix de caractère étatique;\nb. celles qui chargent certaines entreprises de l’exécution de tâches publiques en leur accordant des droits spéciaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Rapport avec d’autres prescriptions légales",
+        "citation": "Art. 3 al. 2 LCart",
+        "content": "La présente loi n’est pas applicable aux effets sur la concurrence qui découlent exclusivement de la législation sur la propriété intellectuelle. En revanche, les restrictions aux importations fondées sur des droits de propriété intellectuelle sont soumises à la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Rapport avec d’autres prescriptions légales",
+        "citation": "Art. 3 al. 3 LCart",
+        "content": "Les procédures prévues par la présente loi en vue de l’appréciation des restrictions à la concurrence priment les procédures prévues par la loi fédérale du 20 décembre 1985 concernant la surveillance des prix, sauf décision contraire prise d’un commun accord par la Commission de la concurrence et le Surveillant des prix.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_3"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 1 LCart",
+        "content": "Par accords en matière de concurrence, on entend les conventions avec ou sans force obligatoire ainsi que les pratiques concertées d’entreprises occupant des échelons du marché identiques ou différents, dans la mesure où elles visent ou entraînent une restriction à la concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 2 LCart",
+        "content": "Par entreprises dominant le marché, on entend une ou plusieurs entreprises qui sont à même, en matière d’offre ou de demande, de se comporter de manière essentiellement indépendante par rapport aux autres participants au marché (concurrents, fournisseurs ou acheteurs).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 2bis LCart",
+        "content": "Par entreprise ayant un pouvoir de marché relatif, on entend une entreprise dont d’autres entreprises sont dépendantes en matière d’offre ou de demande d’un bien ou d’un service, faute de possibilité suffisante et raisonnable de se tourner vers d’autres entreprises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 3 LCart",
+        "content": "Par concentration d’entreprises, on entend:\na. la fusion de deux ou de plusieurs entreprises jusque-là indépendantes les unes des autres;\nb. toute opération par laquelle une ou plusieurs entreprises acquièrent, notamment par prise de participation au capital ou conclusion d’un contrat, le contrôle direct ou indirect d’une ou de plusieurs entreprises jusque-là indépendantes ou d’une partie de celles-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_4"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Accords illicites",
+        "citation": "Art. 5 al. 1 LCart",
+        "content": "Les accords qui affectent de manière notable la concurrence sur le marché de certains biens ou services et qui ne sont pas justifiés par des motifs d’efficacité économique, ainsi que tous ceux qui conduisent à la suppression d’une concurrence efficace, sont illicites.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Accords illicites",
+        "citation": "Art. 5 al. 2 LCart",
+        "content": "Un accord est réputé justifié par des motifs d’efficacité économique:\na. lorsqu’il est nécessaire pour réduire les coûts de production ou de distribution, pour améliorer des produits ou des procédés de fabrication, pour promouvoir la recherche ou la diffusion de connaissances techniques ou professionnelles, ou pour exploiter plus rationnellement des ressources, et\nb. lorsque cet accord ne permettra en aucune façon aux entreprises concernées de supprimer une concurrence efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Accords illicites",
+        "citation": "Art. 5 al. 3 LCart",
+        "content": "Sont présumés entraîner la suppression d’une concurrence efficace dans la mesure où ils réunissent des entreprises effectivement ou potentiellement concurrentes, les accords:\na. qui fixent directement ou indirectement des prix;\nb. qui restreignent des quantités de biens ou de services à produire, à acheter ou à fournir;\nc. qui opèrent une répartition géographique des marchés ou une répartition en fonction des partenaires commerciaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Accords illicites",
+        "citation": "Art. 5 al. 4 LCart",
+        "content": "Sont également présumés entraîner la suppression d’une concurrence efficace les accords passés entre des entreprises occupant différents échelons du marché, qui imposent un prix de vente minimum ou un prix de vente fixe, ainsi que les contrats de distribution attribuant des territoires, lorsque les ventes par d’autres fournisseurs agréés sont exclues.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_5"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Catégories d’accords réputés justifiés",
+        "citation": "Art. 6 al. 1 LCart",
+        "content": "Les conditions auxquelles des accords en matière de concurrence sont en règle générale réputés justifiés par des motifs d’efficacité économique peuvent être fixées par voie d’ordonnances ou de communications. À cet égard, seront notamment pris en considération:\na. les accords de coopération en matière de recherche et de développement;\nb. les accords de spécialisation et de rationalisation, y compris les accords y relatifs concernant l’utilisation de schémas de calcul;\nc. les accords en vue de l’octroi d’une exclusivité sur l’acquisition ou la vente de certains biens ou services;\nd. les accords relatifs à la concession de licences exclusives de droits de propriété intellectuelle;\ne. les accords ayant pour but d’améliorer la compétitivité des petites et moyennes entreprises, dans la mesure où ils n’ont qu’un impact restreint sur le marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Catégories d’accords réputés justifiés",
+        "citation": "Art. 6 al. 2 LCart",
+        "content": "Les ordonnances et communications relatives aux accords en matière de concurrence peuvent aussi reconnaître comme étant réputées justifiées des formes particulières de coopération propres à certaines branches de l’économie, notamment des accords concernant la transposition rationnelle de prescriptions de droit public pour la protection des clients ou des investisseurs en matière de services financiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Catégories d’accords réputés justifiés",
+        "citation": "Art. 6 al. 3 LCart",
+        "content": "Les communications sont publiées dans la Feuille fédérale par la Commission de la concurrence. Le Conseil fédéral édicte les ordonnances prévues aux al. 1 et 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_6"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Pratiques illicites d’entreprises ayant une position dominante ou un pouvoir de marché relatif",
+        "citation": "Art. 7 al. 1 LCart",
+        "content": "Les pratiques d’entreprises ayant une position dominante ou un pouvoir de marché relatif sont réputées illicites lorsque celles-ci abusent de leur position et entravent ainsi l’accès d’autres entreprises à la concurrence ou son exercice, ou désavantagent les partenaires commerciaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_7"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Pratiques illicites d’entreprises ayant une position dominante ou un pouvoir de marché relatif",
+        "citation": "Art. 7 al. 2 LCart",
+        "content": "Sont en particulier réputés illicites:\na. le refus d’entretenir des relations commerciales (p. ex. refus de livrer ou d’acheter des marchandises);\nb. la discrimination de partenaires commerciaux en matière de prix ou d’autres conditions commerciales;\nc. le fait d’imposer des prix ou d’autres conditions commerciales inéquitables;\nd. la sous-enchère en matière de prix ou d’autres conditions commerciales, dirigée contre un concurrent déterminé;\ne. la limitation de la production, des débouchés ou du développement technique;\nf. le fait de subordonner la conclusion de contrats à la condition que les partenaires acceptent ou fournissent des prestations supplémentaires;\ng. la limitation de la possibilité des acheteurs de se procurer à l’étranger, aux prix du marché et aux conditions usuelles de la branche, des biens ou des services proposés en Suisse et à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_7"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 1, Restrictions illicites à la concurrence, Autorisation exceptionnelle fondée sur des intérêts publics prépondérants",
+        "citation": "Art. 8 LCart",
+        "content": "Les accords en matière de concurrence et les pratiques d’entreprises ayant une position dominante dont l’autorité compétente a constaté le caractère illicite peuvent être autorisés par le Conseil fédéral à la demande des entreprises concernées si, à titre exceptionnel, ils sont nécessaires à la sauvegarde d’intérêts publics prépondérants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_8"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Notification des opérations de concentration",
+        "citation": "Art. 9 al. 1 LCart",
+        "content": "Les opérations de concentration d’entreprises doivent être notifiées avant leur réalisation à la Commission de la concurrence lorsque, dans le dernier exercice précédant la concentration:\na. les entreprises participantes ont réalisé ensemble un chiffre d’affaires minimum de 2 milliards de francs ou un chiffre d’affaires en Suisse d’au moins 500 millions de francs, et\nb. au moins deux des entreprises participantes ont réalisé individuellement en Suisse un chiffre d’affaires minimum de 100 millions de francs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Notification des opérations de concentration",
+        "citation": "Art. 9 al. 3 LCart",
+        "content": "Pour les sociétés d’assurances, il est tenu compte, au lieu du chiffre d’affaires, du montant total des primes brutes annuelles; pour les banques et les autres intermédiaires financiers soumis aux dispositions de la loi du 8 novembre 1934 sur les banques relatives à l’établissement des comptes, il est tenu compte du produit brut.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Notification des opérations de concentration",
+        "citation": "Art. 9 al. 4 LCart",
+        "content": "Nonobstant les al. 1 à 3, la notification est obligatoire lorsque, au terme d’une procédure engagée en vertu de la présente loi, une décision passée en force établit qu’une entreprise participante occupe en Suisse une position dominante sur un marché, et lorsque la concentration concerne soit ce marché, soit un marché voisin ou situé en amont ou en aval.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Notification des opérations de concentration",
+        "citation": "Art. 9 al. 5 LCart",
+        "content": "L’Assemblée fédérale peut, par voie d’arrêté de portée générale non soumis au référendum:\na. adapter aux circonstances les montants fixés aux al. 1 à 3;\nb. assortir de conditions spéciales l’obligation de notifier des concentrations d’entreprises dans certaines branches de l’économie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_9"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Appréciation des concentrations d’entreprises",
+        "citation": "Art. 10 al. 1 LCart",
+        "content": "Les concentrations d’entreprises soumises à l’obligation de notifier font l’objet d’un examen par la Commission de la concurrence lorsqu’un examen préalable (art. 32, al. 1) fait apparaître des indices qu’elles créent ou renforcent une position dominante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Appréciation des concentrations d’entreprises",
+        "citation": "Art. 10 al. 2 LCart",
+        "content": "La Commission de la concurrence peut interdire la concentration ou l’autoriser moyennant des conditions ou des charges lorsqu’il résulte de l’examen que la concentration:\na. crée ou renforce une position dominante capable de supprimer une concurrence efficace, et\nb. ne provoque pas une amélioration des conditions de concurrence sur un autre marché, qui l’emporte sur les inconvénients de la position dominante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Appréciation des concentrations d’entreprises",
+        "citation": "Art. 10 al. 3 LCart",
+        "content": "Lorsqu’une concentration de banques au sens de la loi du 8 novembre 1934 sur les banques est jugée nécessaire par l’Autorité fédérale de surveillance des marchés financiers (FINMA) pour protéger les créanciers, il peut être tenu compte en priorité des intérêts de ces derniers. Dans ce cas, la FINMA se substitue à la Commission de la concurrence, qu’elle invite à donner son avis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Appréciation des concentrations d’entreprises",
+        "citation": "Art. 10 al. 4 LCart",
+        "content": "En évaluant les effets d’une concentration d’entreprises sur l’efficacité de la concurrence, la Commission de la concurrence tient aussi compte de l’évolution du marché ainsi que de la position des entreprises dans la concurrence internationale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_10"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 2, Dispositions de droit matériel, Section 2, Concentrations d’entreprises, Autorisation exceptionnelle fondée sur des intérêts publics prépondérants",
+        "citation": "Art. 11 LCart",
+        "content": "Une concentration d’entreprises qui a été interdite en vertu de l’art. 10 peut être autorisée par le Conseil fédéral à la demande des entreprises participantes si, à titre exceptionnel, elle est nécessaire à la sauvegarde d’intérêts publics prépondérants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_11"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Actions découlant d’une entrave à la concurrence",
+        "citation": "Art. 12 al. 1 LCart",
+        "content": "La personne qu’une restriction illicite à la concurrence entrave dans l’accès à la concurrence ou l’exercice de celle-ci, peut demander:\na. la suppression ou la cessation de l’entrave;\nb. la réparation du dommage et du tort moral conformément au code des obligations;\nc. la remise du gain réalisé indûment selon les dispositions sur la gestion d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Actions découlant d’une entrave à la concurrence",
+        "citation": "Art. 12 al. 2 LCart",
+        "content": "Constituent en particulier une entrave à la concurrence le refus de traiter des affaires ou l’adoption de mesures discriminatoires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Actions découlant d’une entrave à la concurrence",
+        "citation": "Art. 12 al. 3 LCart",
+        "content": "Les actions prévues à l’al. 1 peuvent aussi être intentées par la personne qui, en raison d’une restriction licite à la concurrence, subit une entrave plus grave que ne l’exigerait l’application de ladite restriction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_12"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Exercice des actions en suppression ou en cessation de l’entrave",
+        "citation": "Art. 13 LCart",
+        "content": "Afin d’assurer la suppression ou la cessation de l’entrave à la concurrence, le juge, à la requête du demandeur, peut notamment décider que:\na. des contrats sont nuls en tout ou en partie;\nb. celui qui est à l’origine de l’entrave à la concurrence doit conclure avec celui qui la subit des contrats conformes au marché et aux conditions usuelles de la branche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_13"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Appréciation du caractère licite d’une restriction à la concurrence",
+        "citation": "Art. 15 al. 1 LCart",
+        "content": "Lorsque la licéité d’une restriction à la concurrence est mise en cause au cours d’une procédure civile, l’affaire est transmise pour avis à la Commission de la concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_15"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 3, Dispositions de procédure civile, Appréciation du caractère licite d’une restriction à la concurrence",
+        "citation": "Art. 15 al. 2 LCart",
+        "content": "Lorsqu’une restriction à la concurrence en soi illicite est présentée comme étant nécessaire à la sauvegarde d’intérêts publics prépondérants, la question est transmise au Conseil fédéral, qui statue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_15"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Commission de la concurrence",
+        "citation": "Art. 18 al. 1 LCart",
+        "content": "Le Conseil fédéral institue la Commission de la concurrence (commission) et nomme les membres de la présidence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Commission de la concurrence",
+        "citation": "Art. 18 al. 2 LCart",
+        "content": "La commission comprend entre onze et quinze membres. Ceux-ci sont en majorité des experts indépendants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Commission de la concurrence",
+        "citation": "Art. 18 al. 2bis LCart",
+        "content": "Les membres de la commission signalent leurs intérêts dans un registre des intérêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Commission de la concurrence",
+        "citation": "Art. 18 al. 3 LCart",
+        "content": "Elle prend toutes les décisions qui ne sont pas expressément réservées à une autre autorité. Elle adresse des recommandations (art. 45, al. 2) et des préavis (art. 46, al. 2) aux autorités politiques, et élabore des avis (art. 47, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_18"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Organisation",
+        "citation": "Art. 19 al. 1 LCart",
+        "content": "La commission est indépendante des autorités administratives. Elle peut se composer de chambres dotées chacune du pouvoir de décision. Elle peut, dans des cas particuliers, charger un membre de sa présidence de régler des affaires urgentes ou d’importance mineure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_19"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Organisation",
+        "citation": "Art. 19 al. 2 LCart",
+        "content": "La commission est rattachée administrativement au Département fédéral de l’économie, de la formation et de la recherche (DEFR).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_19"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Règlement interne",
+        "citation": "Art. 20 al. 1 LCart",
+        "content": "La commission édicte un règlement qui fixe les détails de son organisation et notamment ses propres compétences, celles des membres de sa présidence et de chacune des chambres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_20"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Règlement interne",
+        "citation": "Art. 20 al. 2 LCart",
+        "content": "Le règlement interne est soumis à l’approbation du Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_20"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Décisions",
+        "citation": "Art. 21 al. 1 LCart",
+        "content": "La commission et les chambres délibèrent valablement lorsque la moitié au moins des membres sont présents, ce nombre ne pouvant en aucun cas être inférieur à trois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_21"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Décisions",
+        "citation": "Art. 21 al. 2 LCart",
+        "content": "Elles prennent leurs décisions à la majorité simple des membres présents; en cas d’égalité des voix, celle du président est prépondérante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_21"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Récusation de membres de la commission",
+        "citation": "Art. 22 al. 1 LCart",
+        "content": "Tout membre de la commission doit se récuser lorsqu’il existe un motif de récusation en vertu de l’art. 10 de la loi fédérale du 20 décembre 1968 sur la procédure administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Récusation de membres de la commission",
+        "citation": "Art. 22 al. 2 LCart",
+        "content": "En règle générale, un membre de la commission n’est pas réputé avoir un intérêt personnel dans l’affaire ni donner lieu à un autre motif de récusation du simple fait qu’il représente une association faîtière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Récusation de membres de la commission",
+        "citation": "Art. 22 al. 3 LCart",
+        "content": "Si la récusation est contestée, la commission ou la chambre concernée statue en l’absence du membre en cause.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_22"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Tâches du secrétariat",
+        "citation": "Art. 23 al. 1 LCart",
+        "content": "Le secrétariat prépare les affaires de la commission, mène les enquêtes et prend, avec un membre de sa présidence, les décisions de procédure. Il fait des propositions à la commission et exécute ses décisions. Il traite directement avec les intéressés, les tiers et les autorités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_23"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Tâches du secrétariat",
+        "citation": "Art. 23 al. 2 LCart",
+        "content": "Le secrétariat établit des préavis (art. 46, al. 1) et conseille les services officiels et les entreprises sur des questions se rapportant à l’application de la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_23"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Personnel du secrétariat",
+        "citation": "Art. 24 al. 1 LCart",
+        "content": "Le Conseil fédéral désigne la direction du secrétariat, et la commission, le reste de son personnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_24"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Personnel du secrétariat",
+        "citation": "Art. 24 al. 2 LCart",
+        "content": "Les rapports de service sont régis par la législation applicable au personnel de l’administration fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_24"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Secret de fonction et secrets d’affaires",
+        "citation": "Art. 25 al. 1 LCart",
+        "content": "Les autorités en matière de concurrence sont assujetties au secret de fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Secret de fonction et secrets d’affaires",
+        "citation": "Art. 25 al. 2 LCart",
+        "content": "Les informations recueillies dans l’exercice de leurs fonctions ne peuvent être utilisées qu’à des fins de renseignement ou d’enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Secret de fonction et secrets d’affaires",
+        "citation": "Art. 25 al. 3 LCart",
+        "content": "Elles peuvent communiquer au Surveillant des prix toutes les données nécessaires à l’accomplissement de sa tâche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 1, Autorités en matière de concurrence, Secret de fonction et secrets d’affaires",
+        "citation": "Art. 25 al. 4 LCart",
+        "content": "Les publications des autorités en matière de concurrence ne doivent révéler aucun secret d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_25"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Enquêtes préalables",
+        "citation": "Art. 26 al. 1 LCart",
+        "content": "Le secrétariat peut mener des enquêtes préalables d’office, à la demande des entreprises concernées ou sur dénonciation de tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Enquêtes préalables",
+        "citation": "Art. 26 al. 2 LCart",
+        "content": "Il peut proposer des mesures pour supprimer ou empêcher des restrictions à la concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Enquêtes préalables",
+        "citation": "Art. 26 al. 3 LCart",
+        "content": "La procédure d’enquête préalable n’implique pas le droit de consulter les dossiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_26"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Ouverture d’une enquête",
+        "citation": "Art. 27 al. 1 LCart",
+        "content": "S’il existe des indices d’une restriction illicite à la concurrence, le secrétariat ouvre une enquête, d’entente avec un membre de la présidence de la commission. Il le fait dans tous les cas s’il y est invité par la commission ou par le DEFR.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_27"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Ouverture d’une enquête",
+        "citation": "Art. 27 al. 2 LCart",
+        "content": "La commission arrête l’ordre dans lequel les enquêtes qui ont été ouvertes doivent être traitées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_27"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Communication",
+        "citation": "Art. 28 al. 1 LCart",
+        "content": "Le secrétariat communique l’ouverture d’une enquête par publication officielle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Communication",
+        "citation": "Art. 28 al. 2 LCart",
+        "content": "Cette communication mentionne l’objet et les parties concernées par l’enquête. Elle contient en outre un avis invitant les tiers concernés à s’annoncer dans un délai de 30 jours s’ils désirent participer à l’enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Communication",
+        "citation": "Art. 28 al. 3 LCart",
+        "content": "L’absence de publication ne fait pas obstacle à la poursuite de l’enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_28"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Accord amiable",
+        "citation": "Art. 29 al. 1 LCart",
+        "content": "Si le secrétariat considère qu’une restriction à la concurrence est illicite, il peut proposer aux entreprises concernées un accord amiable portant sur les modalités de la suppression de la restriction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_29"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Accord amiable",
+        "citation": "Art. 29 al. 2 LCart",
+        "content": "L’accord requiert la forme écrite et doit être approuvé par la commission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_29"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Décision",
+        "citation": "Art. 30 al. 1 LCart",
+        "content": "Sur proposition du secrétariat, la commission prend sa décision sur les mesures à prendre ou sur l’approbation de l’accord amiable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Décision",
+        "citation": "Art. 30 al. 2 LCart",
+        "content": "Les participants à l’enquête peuvent communiquer leur avis par écrit sur la proposition du secrétariat. La commission peut procéder à des auditions et charger le secrétariat de prendre des mesures supplémentaires pour les besoins de l’enquête.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Décision",
+        "citation": "Art. 30 al. 3 LCart",
+        "content": "Si l’état de fait ou la situation juridique se sont modifiés de manière importante, la commission peut, sur proposition du secrétariat ou des intéressés, révoquer ou modifier sa décision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_30"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Autorisation exceptionnelle",
+        "citation": "Art. 31 al. 1 LCart",
+        "content": "Lorsque la commission a rendu une décision reconnaissant le caractère illicite d’une restriction à la concurrence, les intéressés peuvent présenter dans les 30 jours au DEFR une demande d’autorisation exceptionnelle du Conseil fédéral fondée sur des intérêts publics prépondérants. Si une telle demande est présentée, le délai pour former un recours devant le Tribunal administratif fédéral ne commence à courir qu’après la notification de la décision du Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Autorisation exceptionnelle",
+        "citation": "Art. 31 al. 2 LCart",
+        "content": "La demande d’autorisation exceptionnelle du Conseil fédéral peut également être présentée dans les 30 jours à compter de l’entrée en force d’une décision du Tribunal administratif fédéral ou du Tribunal fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Autorisation exceptionnelle",
+        "citation": "Art. 31 al. 3 LCart",
+        "content": "L’autorisation exceptionnelle est de durée limitée et peut être assortie de conditions et de charges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 2, Enquêtes concernant des restrictions à la concurrence, Autorisation exceptionnelle",
+        "citation": "Art. 31 al. 4 LCart",
+        "content": "Le Conseil fédéral peut, à la demande des intéressés, prolonger l’autorisation exceptionnelle lorsque les conditions de son octroi demeurent remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_31"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Ouverture de la procédure d’examen",
+        "citation": "Art. 32 al. 1 LCart",
+        "content": "À la réception de la notification d’une concentration d’entreprises (art. 9), la commission décide s’il y a lieu de procéder à un examen de l’opération de concentration. La commission communique, dans le délai d’un mois à compter de la notification de l’opération de concentration, l’ouverture de l’examen de la concentration aux entreprises participantes. Faute de communication dans ce délai, la concentration peut être réalisée sans réserve.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_32"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Ouverture de la procédure d’examen",
+        "citation": "Art. 32 al. 2 LCart",
+        "content": "Les entreprises participantes s’abstiennent de réaliser la concentration pendant le délai d’un mois suivant sa notification, à moins que, à leur requête, la commission ne les ait autorisées à le faire pour des motifs importants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_32"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’examen",
+        "citation": "Art. 33 al. 1 LCart",
+        "content": "Si la commission décide de procéder à un examen, le secrétariat publie le contenu essentiel de la notification de la concentration et indique le délai dans lequel des tiers peuvent communiquer leur avis sur la concentration notifiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’examen",
+        "citation": "Art. 33 al. 2 LCart",
+        "content": "La commission décide, au début de l’examen, si la concentration peut être provisoirement réalisée à titre exceptionnel ou si elle reste suspendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’examen",
+        "citation": "Art. 33 al. 3 LCart",
+        "content": "La commission doit achever l’examen dans les quatre mois, à moins d’en être empêchée pour des causes imputables aux entreprises participantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_33"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Effets juridiques",
+        "citation": "Art. 34 LCart",
+        "content": "Les effets de droit civil d’une concentration soumise à l’obligation de notifier sont suspendus, sous réserve de l’écoulement du délai selon l’art. 32, al. 1, et de l’autorisation de réalisation provisoire. Faute de décision de la commission dans le délai imparti à l’art. 33, al. 3, la concentration est réputée autorisée, à moins que la commission constate dans une décision qu’elle a été empêchée de conduire l’examen pour des causes imputables aux entreprises participantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_34"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Violation de l’obligation de notifier",
+        "citation": "Art. 35 LCart",
+        "content": "Lorsqu’une concentration d’entreprises a été réalisée sans la notification dont elle aurait dû faire l’objet, la procédure selon les art. 32 à 38 sera engagée d’office. Le délai selon l’art. 32, al. 1, commence dans ce cas à courir lorsque l’autorité de concurrence est en possession des informations que doit contenir une notification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_35"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’autorisation exceptionnelle",
+        "citation": "Art. 36 al. 1 LCart",
+        "content": "Si la commission a interdit la concentration, les entreprises participantes peuvent présenter dans les 30 jours au DEFR une demande d’autorisation exceptionnelle du Conseil fédéral fondée sur des intérêts publics prépondérants. Si une telle demande est présentée, le délai pour former un recours devant le Tribunal administratif fédéral ne commence à courir qu’après la notification de la décision du Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’autorisation exceptionnelle",
+        "citation": "Art. 36 al. 2 LCart",
+        "content": "La demande d’autorisation exceptionnelle du Conseil fédéral peut également être présentée dans les 30 jours à compter de l’entrée en force d’une décision du Tribunal administratif fédéral ou du Tribunal fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Procédure d’autorisation exceptionnelle",
+        "citation": "Art. 36 al. 3 LCart",
+        "content": "Le Conseil fédéral prend sa décision si possible dans les quatre mois suivant la réception de la demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_36"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Rétablissement d’une concurrence efficace",
+        "citation": "Art. 37 al. 1 LCart",
+        "content": "Lorsqu’une concentration interdite est réalisée ou qu’une concentration est interdite après sa réalisation et qu’une autorisation exceptionnelle n’a pas été demandée ni octroyée pour la concentration, les entreprises participantes sont tenues de prendre les mesures rendues nécessaires par le rétablissement d’une concurrence efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Rétablissement d’une concurrence efficace",
+        "citation": "Art. 37 al. 2 LCart",
+        "content": "La commission peut exiger des entreprises participantes qu’elles fassent des propositions qui les lient en vue du rétablissement d’une concurrence efficace. Elle leur impartit un délai à cette fin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Rétablissement d’une concurrence efficace",
+        "citation": "Art. 37 al. 3 LCart",
+        "content": "Si la commission accepte les mesures proposées, elle peut décider comment et dans quel délai les entreprises participantes devront les mettre en œuvre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Rétablissement d’une concurrence efficace",
+        "citation": "Art. 37 al. 4 LCart",
+        "content": "Si la commission ne reçoit pas les propositions demandées ou qu’elle les rejette, elle peut décider:\na. la séparation des entreprises ou des actifs regroupés;\nb. la cessation des effets du contrôle;\nc. d’autres mesures à même de rétablir une concurrence efficace.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_37"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Révocation et révision",
+        "citation": "Art. 38 al. 1 LCart",
+        "content": "La commission peut rapporter une autorisation ou décider l’examen d’une concentration malgré l’écoulement du délai de l’art. 32, al. 1, lorsque:\na. les entreprises participantes ont fourni des indications inexactes;\nb. l’autorisation a été obtenue frauduleusement;\nc. les entreprises participantes contreviennent gravement à une charge dont a été assortie l’autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_38"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 3, Examen des concentrations d’entreprises, Révocation et révision",
+        "citation": "Art. 38 al. 2 LCart",
+        "content": "Le Conseil fédéral peut rapporter une autorisation exceptionnelle pour les mêmes motifs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_38"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Principe",
+        "citation": "Art. 39 LCart",
+        "content": "La loi fédérale du 20 décembre 1968 sur la procédure administrative est applicable aux procédures, dans la mesure où il n’y est pas dérogé dans les dispositions qui suivent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_39"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Obligation de renseigner",
+        "citation": "Art. 40 LCart",
+        "content": "Les parties à des ententes, les entreprises puissantes sur le marché, celles qui participent à des concentrations d’entreprises ainsi que les tiers concernés sont tenus de fournir aux autorités en matière de concurrence tous les renseignements utiles et de produire toutes les pièces nécessaires. Le droit de refuser de fournir des renseignements est régi par les art. 16 et 17 de la loi fédérale du 20 décembre 1968 sur la procédure administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_40"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Entraide administrative",
+        "citation": "Art. 41 LCart",
+        "content": "Les services de la Confédération et des cantons sont tenus de coopérer aux recherches des autorités en matière de concurrence et de mettre à leur disposition les pièces nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_41"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Mesures d’enquête",
+        "citation": "Art. 42 al. 1 LCart",
+        "content": "Les autorités en matière de concurrence peuvent entendre des tiers comme témoins et contraindre les parties à l’enquête à faire des dépositions. L’art. 64 de la loi fédérale de procédure civile fédérale du 4 décembre 1947 est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Mesures d’enquête",
+        "citation": "Art. 42 al. 2 LCart",
+        "content": "Les autorités en matière de concurrence peuvent ordonner des perquisitions et saisir des pièces à conviction. Les art. 45 à 50 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif sont applicables par analogie à ces mesures de contrainte. Les perquisitions et saisies sont ordonnées, sur demande du secrétariat, par un membre de la présidence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Enquêtes lors de procédures engagées au titre de l’accord sur le transport aérien entre la Suisse et la CE",
+        "citation": "Art. 42a al. 1 LCart",
+        "content": "La commission est l’autorité suisse qui collabore avec les institutions de la Communauté européenne selon l’art. 11 de l’accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Enquêtes lors de procédures engagées au titre de l’accord sur le transport aérien entre la Suisse et la CE",
+        "citation": "Art. 42a al. 2 LCart",
+        "content": "Si, lors d’une procédure engagée selon l’art. 11 de cet accord, une entreprise s’oppose à la vérification, des mesures d’enquête au sens de l’art. 42 peuvent être engagées à la demande de la Commission de la Communauté européenne; l’art. 44 est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Communication de données à une autorité étrangère en matière de concurrence ",
+        "citation": "Art. 42b al. 1 LCart",
+        "content": "La communication de données à une autorité étrangère en matière de concurrence n’est autorisée que si elle se fonde sur une loi ou sur un accord international, ou avec le consentement des entreprises concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Communication de données à une autorité étrangère en matière de concurrence ",
+        "citation": "Art. 42b al. 2 LCart",
+        "content": "En l’absence du consentement des entreprises concernées, les autorités en matière de concurrence peuvent communiquer à une autorité étrangère en matière de concurrence des données confidentielles, notamment des secrets d’affaires, sur la base d’un accord international et uniquement lorsque: \na. les pratiques faisant l’objet d’une enquête dans l’État destinataire sont également illicites selon le droit suisse; \nb. les deux autorités en matière de concurrence enquêtent sur des pratiques ou actes juridiques identiques ou connexes; \nc. les données sont utilisées par l’autorité étrangère uniquement en vue de l’application des dispositions du droit des cartels et à titre de moyens de preuve en ce qui concerne l’objet de l’enquête auquel se rapporte sa requête;\nd. les données ne sont pas utilisées dans le cadre d’une procédure pénale ou civile; \ne. les droits des parties et le secret de fonction sont garantis dans le droit de procédure étranger, et\nf. les données confidentielles ne sont pas communiquées à l’autorité étrangère dans le cadre d’un accord amiable (art. 29) ou de la coopération à la mise au jour et à la suppression d’une restriction à la concurrence (art. 49a, al. 2).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Communication de données à une autorité étrangère en matière de concurrence ",
+        "citation": "Art. 42b al. 3 LCart",
+        "content": "Avant de transmettre les données à l’autorité étrangère, les autorités en matière de concurrence informent les entreprises concernées et les invitent à prendre position.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_42_b"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Participation de tiers à l’enquête",
+        "citation": "Art. 43 al. 1 LCart",
+        "content": "Peuvent s’annoncer afin de participer à l’enquête concernant une restriction à la concurrence:\na. les personnes qui ne peuvent accéder à la concurrence ou l’exercer du fait de la restriction à la concurrence;\nb. les associations professionnelles ou économiques que leurs statuts autorisent à défendre les intérêts économiques de leurs membres, pour autant que des membres de l’association ou de l’une de ses sections puissent participer à l’enquête;\nc. les organisations d’importance nationale ou régionale qui se consacrent statutairement à la protection des consommateurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Participation de tiers à l’enquête",
+        "citation": "Art. 43 al. 2 LCart",
+        "content": "Le secrétariat peut exiger que les groupes de plus de cinq participants à l’enquête, ayant des intérêts identiques, désignent un représentant commun lorsque, à défaut, l’enquête s’en trouverait compliquée à l’excès. Il peut si nécessaire limiter la participation à une audition; les droits des parties découlant de la loi fédérale du 20 décembre 1968 sur la procédure administrative sont réservés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Participation de tiers à l’enquête",
+        "citation": "Art. 43 al. 3 LCart",
+        "content": "Les al. 1 et 2 sont applicables par analogie à la procédure d’octroi par le Conseil fédéral de l’autorisation exceptionnelle d’une restriction illicite à la concurrence (art. 8).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 4, Procédure et voies de droit, Participation de tiers à l’enquête",
+        "citation": "Art. 43 al. 4 LCart",
+        "content": "Dans la procédure d’examen des concentrations d’entreprises, seules les entreprises participantes ont qualité de parties.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_43"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Recommandations aux autorités",
+        "citation": "Art. 45 al. 1 LCart",
+        "content": "La commission observe de façon suivie la situation de la concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_45"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Recommandations aux autorités",
+        "citation": "Art. 45 al. 2 LCart",
+        "content": "Elle peut adresser aux autorités des recommandations visant à promouvoir une concurrence efficace, notamment en ce qui concerne l’élaboration et l’application des prescriptions de droit économique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_45"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Préavis",
+        "citation": "Art. 46 al. 1 LCart",
+        "content": "Le secrétariat examine les projets d’actes normatifs de la Confédération, notamment en matière de droit économique, qui sont à même d’influencer la concurrence. Il détermine s’ils n’ont pas pour effet d’introduire des distorsions ou des restrictions excessives de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_46"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Préavis",
+        "citation": "Art. 46 al. 2 LCart",
+        "content": "Dans la procédure de consultation, la commission se détermine sur les projets d’actes normatifs de la Confédération qui limitent ou influencent de quelque manière la concurrence. Elle peut émettre des préavis sur les projets d’actes normatifs de droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_46"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Avis",
+        "citation": "Art. 47 al. 1 LCart",
+        "content": "La commission élabore des avis à l’intention d’autres autorités sur des questions de principe touchant la concurrence. Dans des cas d’importance mineure, elle peut charger le secrétariat de cette tâche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_47"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Publication de décisions et de jugements",
+        "citation": "Art. 48 al. 1 LCart",
+        "content": "Les autorités en matière de concurrence peuvent publier leurs décisions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_48"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Publication de décisions et de jugements",
+        "citation": "Art. 48 al. 2 LCart",
+        "content": "Les tribunaux doivent transmettre au secrétariat, sans en être requis, une version complète des jugements qu’ils ont rendus en vertu de la présente loi. Le secrétariat rassemble ces jugements et peut les publier périodiquement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_48"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Devoir d’informer",
+        "citation": "Art. 49 al. 1 LCart",
+        "content": "Le secrétariat et la commission informent le public de leurs activités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_49"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 5, Autres tâches et compétences des autorités en matière de concurrence, Devoir d’informer",
+        "citation": "Art. 49 al. 2 LCart",
+        "content": "La commission établit à l’intention du Conseil fédéral un rapport annuel d’activité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_49"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Sanction en cas de restrictions illicites à la concurrence",
+        "citation": "Art. 49a al. 1 LCart",
+        "content": "L’entreprise qui participe à un accord illicite aux termes de l’art. 5, al. 3 et 4, ou qui, ayant une position dominante, se livre à des pratiques illicites aux termes de l’art. 7, est tenue au paiement d’un montant pouvant aller jusqu’à 10 % du chiffre d’affaires réalisé en Suisse au cours des trois derniers exercices. L’art. 9, al. 3, est applicable par analogie. Le montant est calculé en fonction de la durée et de la gravité des pratiques illicites. Le profit présumé résultant des pratiques illicites de l’entreprise est dûment pris en compte pour le calcul de ce montant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Sanction en cas de restrictions illicites à la concurrence",
+        "citation": "Art. 49a al. 2 LCart",
+        "content": "Si l’entreprise coopère à la mise au jour et à la suppression de la restriction à la concurrence, il est possible de renoncer, en tout ou en partie, à une sanction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Sanction en cas de restrictions illicites à la concurrence",
+        "citation": "Art. 49a al. 3 LCart",
+        "content": "Aucune sanction n’est prise si:\na. l’entreprise annonce la restriction à la concurrence avant que celle-ci ne déploie ses effets; toutefois une sanction peut tout de même être prise si, dans un délai de cinq mois à compter de l’annonce, l’ouverture d’une procédure au sens des art. 26 à 30 est communiquée à l’entreprise et que celle-ci maintient la restriction;\nb. la restriction à la concurrence a cessé de déployer ses effets plus de cinq ans avant l’ouverture de l’enquête; \nc. le Conseil fédéral a autorisé une restriction à la concurrence en vertu de l’art. 8.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_49_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Inobservation d’accords amiables et de décisions administratives",
+        "citation": "Art. 50 LCart",
+        "content": "L’entreprise qui contrevient à son profit à un accord amiable, à une décision exécutoire prononcée par les autorités en matière de concurrence ou à une décision rendue par une instance de recours est tenue au paiement d’un montant pouvant aller jusqu’à 10 % du chiffre d’affaires réalisé en Suisse au cours des trois derniers exercices. L’art. 9, al. 3, est applicable par analogie. Le profit présumé résultant des pratiques illicites de l’entreprise est dûment pris en compte pour le calcul de ce montant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_50"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Cas d’inobservation liés à une concentration d’entreprises",
+        "citation": "Art. 51 al. 1 LCart",
+        "content": "L’entreprise qui aura réalisé une concentration sans procéder à la notification dont elle aurait dû faire l’objet ou n’aura pas observé l’interdiction provisoire de réaliser la concentration, ou aura contrevenu à une charge dont a été assortie l’autorisation, aura réalisé une concentration qui a été interdite ou n’aura pas mis en œuvre une mesure destinée à rétablir une concurrence efficace, sera tenue au paiement d’un montant de 1 million de francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_51"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Cas d’inobservation liés à une concentration d’entreprises",
+        "citation": "Art. 51 al. 2 LCart",
+        "content": "En cas de récidive concernant une charge dont a été assortie l’autorisation, l’entreprise sera tenue au paiement d’un montant de 10 pour cent au plus du chiffre d’affaires total réalisé en Suisse par l’ensemble des entreprises participantes. L’art. 9, al. 3, est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_51"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Autres cas d’inobservation",
+        "citation": "Art. 52 LCart",
+        "content": "L’entreprise qui n’aura pas exécuté son obligation de renseigner ou de produire des documents, ou ne l’aura fait qu’en partie, sera tenue au paiement d’un montant de 100 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_52"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 6, Sanctions administratives, Procédure",
+        "citation": "Art. 53 al. 1 LCart",
+        "content": "Les cas d’inobservation sont instruits par le secrétariat, d’entente avec un membre de la présidence. La commission statue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_53"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 7, Émoluments",
+        "citation": "Art. 53a al. 1 LCart",
+        "content": "Les autorités en matière de concurrence prélèvent des émoluments pour:\na. les décisions relatives aux enquêtes concernant des restrictions à la concurrence aux termes des art. 26 à 31;\nb. l’examen des concentrations d’entreprises aux termes des art. 32 à 38;\nc. les avis et autres services.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 7, Émoluments",
+        "citation": "Art. 53a al. 2 LCart",
+        "content": "Les émoluments sont calculés en fonction du temps consacré à l’affaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 4, Dispositions de procédure administrative, Section 7, Émoluments",
+        "citation": "Art. 53a al. 3 LCart",
+        "content": "Le Conseil fédéral fixe le taux des émoluments et en règle les modalités de perception. Il peut déterminer les procédures et prestations non soumises aux émoluments, notamment lorsque la procédure est classée sans suite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_53_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Violation d’accords amiables et de décisions administratives",
+        "citation": "Art. 54 LCart",
+        "content": "Quiconque aura intentionnellement contrevenu à un accord amiable, à une décision en force prononcée par les autorités en matière de concurrence ou à une décision rendue par une instance de recours, sera puni d’une amende de 100 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_54"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Autres violations",
+        "citation": "Art. 55 LCart",
+        "content": "Quiconque, intentionnellement, n’aura pas exécuté, ou ne l’aura fait qu’en partie, une décision des autorités en matière de concurrence concernant l’obligation de renseigner (art. 40), aura réalisé une concentration d’entreprises sans procéder à la notification dont elle aurait dû faire l’objet ou aura violé des décisions liées à des concentrations d’entreprises, sera puni d’une amende de 20 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_55"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Prescription",
+        "citation": "Art. 56 al. 1 LCart",
+        "content": "L’action pénale se prescrit par sept ans pour les violations d’accords amiables et de décisions administratives (art. 54).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_56"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Prescription",
+        "citation": "Art. 56 al. 2 LCart",
+        "content": "Elle se prescrit par quatre ans pour les autres infractions (art. 55).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_56"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Procédure et voies de droit",
+        "citation": "Art. 57 al. 1 LCart",
+        "content": "La loi fédérale du 22 mars 1974 sur le droit pénal administratif est applicable à la poursuite et au jugement des infractions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_57"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 5, Sanctions pénales, Procédure et voies de droit",
+        "citation": "Art. 57 al. 2 LCart",
+        "content": "L’autorité de poursuite est le secrétariat, d’entente avec un membre de la présidence. La commission statue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_57"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6, Exécution d’accords internationaux, Établissement des faits",
+        "citation": "Art. 58 al. 1 LCart",
+        "content": "Lorsqu’une partie à un accord international fait valoir qu’une restriction à la concurrence est incompatible avec l’accord, le DEFR peut charger le secrétariat de procéder à une enquête préalable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_58"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6, Exécution d’accords internationaux, Établissement des faits",
+        "citation": "Art. 58 al. 2 LCart",
+        "content": "Sur proposition du secrétariat, le DEFR décide de la suite à donner à l’affaire. Il entend auparavant les intéressés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_58"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6, Exécution d’accords internationaux, Suppression des incompatibilités",
+        "citation": "Art. 59 al. 1 LCart",
+        "content": "Si, dans l’exécution d’un accord international, il est constaté qu’une restriction à la concurrence est incompatible avec l’accord, le DEFR peut, d’entente avec le Département fédéral des affaires étrangères, proposer aux parties concernées un accord amiable en vue de la suppression de l’incompatibilité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_59"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6, Exécution d’accords internationaux, Suppression des incompatibilités",
+        "citation": "Art. 59 al. 2 LCart",
+        "content": "Si un accord amiable ne peut être réalisé à temps et qu’une partie à l’accord international menace de prendre des mesures à l’encontre de la Suisse, le DEFR peut, d’entente avec le Département fédéral des affaires étrangères, ordonner les mesures nécessaires à la suppression de la restriction à la concurrence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_59"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6a, Évaluation",
+        "citation": "Art. 59a al. 1 LCart",
+        "content": "Le Conseil fédéral veille à ce que l’exécution de la présente loi et l’efficacité des mesures prises fassent l’objet d’une évaluation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_59_a"
+    },
+    {
+        "book": "KG",
+        "title": "LCart, Chapitre 6a, Évaluation",
+        "citation": "Art. 59a al. 2 LCart",
+        "content": "Le Conseil fédéral présente un rapport au Parlement lorsque l’évaluation est terminée, mais au plus tard cinq ans après l’entrée en vigueur de la présente disposition, et lui soumet des propositions quant à la suite à donner à l’évaluation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/546_546_546/fr#art_59_a"
+    }
+]

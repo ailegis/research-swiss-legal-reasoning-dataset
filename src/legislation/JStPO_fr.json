@@ -1,0 +1,821 @@
+[
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Objet",
+        "citation": "Art. 1 PPMin",
+        "content": "La présente loi régit la poursuite et le jugement des infractions prévues par le droit fédéral commises par des mineurs au sens de l’art. 3, al. 1, du droit pénal des mineurs du 20 juin 2003 (DPMin), ainsi que l’exécution des sanctions prononcées à l’encontre de ceux-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_1"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Compétence",
+        "citation": "Art. 2 PPMin",
+        "content": "La poursuite et le jugement des infractions ainsi que l’exécution des sanctions relèvent de la compétence exclusive des cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_2"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Applicabilité du code de procédure pénale",
+        "citation": "Art. 3 al. 1 PPMin",
+        "content": "Sauf dispositions particulières de la présente loi, le code de procédure pénale du 5 octobre 2007 (CPP) est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Applicabilité du code de procédure pénale",
+        "citation": "Art. 3 al. 2 PPMin",
+        "content": "Ne sont pas applicables les dispositions du CPP portant sur:\na. les autorités pénales compétentes en matière de contraventions et la procédure pénale en matière de contraventions (art. 17 et 357);\nb. la juridiction fédérale (art. 23 à 28);\nc. les fors (art. 31 et 32) ainsi que les fors spéciaux en cas d’implication de plusieurs personnes (art. 33) et en cas d’infractions commises en des lieux différents (art. 34);\nd. la procédure simplifiée (art. 358 à 362);\ne. la procédure en matière de cautionnement préventif (art. 372 et 373);\nf. la procédure à l’égard de prévenus irresponsables (art. 374 et 375).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Applicabilité du code de procédure pénale",
+        "citation": "Art. 3 al. 3 PPMin",
+        "content": "Lorsque le CPP s’applique, ses dispositions doivent être interprétées à la lumière des principes définis à l’art. 4 de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_3"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Principes",
+        "citation": "Art. 4 al. 1 PPMin",
+        "content": "La protection et l’éducation du mineur sont déterminantes dans l’application de la présente loi. L’âge et le degré de développement du mineur doivent être pris en compte de manière appropriée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Principes",
+        "citation": "Art. 4 al. 2 PPMin",
+        "content": "Les autorités pénales respectent les droits de la personnalité du mineur à tous les stades de la procédure et lui permettent de participer activement à celle-ci. Sous réserve de dispositions de procédure particulières, elles l’entendent personnellement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Principes",
+        "citation": "Art. 4 al. 3 PPMin",
+        "content": "Elles veillent à ce que la procédure pénale n’empiète pas plus qu’il ne le faut sur la vie privée du mineur et sur la sphère d’influence de ses représentants légaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Principes",
+        "citation": "Art. 4 al. 4 PPMin",
+        "content": "Lorsque cela paraît indiqué, les autorités pénales impliquent les représentants légaux ou l’autorité civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_4"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Renonciation à toute poursuite pénale",
+        "citation": "Art. 5 al. 1 PPMin",
+        "content": "L’autorité d’instruction, le ministère public des mineurs ou le tribunal renonce à toute poursuite pénale dans les cas suivants:\na. les conditions d’exemption prévues à l’art. 21 DPMin sont remplies et il n’y a pas lieu de prendre de mesures de protection ou l’autorité civile a déjà ordonné des mesures appropriées;\nb. une conciliation ou une médiation a abouti à un accord.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_5"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 1, Objet et principes, Renonciation à toute poursuite pénale",
+        "citation": "Art. 5 al. 2 PPMin",
+        "content": "Au surplus, l’art. 8, al. 2 à 4, CPP est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_5"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Autorités de poursuite pénale",
+        "citation": "Art. 6 al. 1 PPMin",
+        "content": "Sont des autorités de poursuite pénale:\na. la police;\nb. l’autorité d’instruction;\nc. le ministère public des mineurs, lorsque le droit cantonal prévoit cette institution (art. 21).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Autorités de poursuite pénale",
+        "citation": "Art. 6 al. 2 PPMin",
+        "content": "Les cantons désignent en tant qu’autorité d’instruction:\na. soit un ou plusieurs juges des mineurs;\nb. soit un ou plusieurs procureurs des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Autorités de poursuite pénale",
+        "citation": "Art. 6 al. 3 PPMin",
+        "content": "Le juge des mineurs est membre du tribunal des mineurs. Au surplus, les dispositions concernant la récusation (art. 9 de la présente loi et art. 56 à 60 CPP) sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Autorités de poursuite pénale",
+        "citation": "Art. 6 al. 4 PPMin",
+        "content": "Le procureur des mineurs soutient l’accusation devant le tribunal des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_6"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Tribunaux",
+        "citation": "Art. 7 al. 1 PPMin",
+        "content": "Les autorités judiciaires suivantes ont des attributions judiciaires dans le cadre de la procédure pénale des mineurs:\na. le tribunal des mesures de contrainte;\nb. le tribunal des mineurs;\nc. l’autorité de recours des mineurs;\nd. la juridiction d’appel des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Tribunaux",
+        "citation": "Art. 7 al. 2 PPMin",
+        "content": "Le tribunal des mineurs se compose d’un président et de deux assesseurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Tribunaux",
+        "citation": "Art. 7 al. 3 PPMin",
+        "content": "Les cantons peuvent conférer les attributions de l’autorité de recours des mineurs à la juridiction d’appel des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_7"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Organisation",
+        "citation": "Art. 8 al. 1 PPMin",
+        "content": "Les cantons fixent les modalités d’élection des membres des autorités pénales des mineurs, ainsi que la composition, l’organisation, la surveillance et les compétences de ces autorités, à moins que ces questions soient réglées exhaustivement par la présente loi ou d’autres lois fédérales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Organisation",
+        "citation": "Art. 8 al. 2 PPMin",
+        "content": "Ils peuvent instaurer des autorités pénales des mineurs à compétence intercantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 2, Autorités pénales des mineurs, Organisation",
+        "citation": "Art. 8 al. 3 PPMin",
+        "content": "Ils peuvent instituer un premier procureur des mineurs ou un procureur général des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_8"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Récusation",
+        "citation": "Art. 9 al. 1 PPMin",
+        "content": "Le prévenu mineur capable de discernement et ses représentants légaux peuvent demander dans les dix jours suivant la notification de l’ordonnance pénale (art. 32) ou de l’acte d’accusation (art. 33) que le juge des mineurs qui a mené l’instruction ne participe pas à la procédure devant le tribunal des mineurs. Ils ne sont pas tenus de motiver leur demande de récusation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_9"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Récusation",
+        "citation": "Art. 9 al. 2 PPMin",
+        "content": "Ils sont informés de leur droit de récusation dans l’ordonnance pénale ou dans l’acte d’accusation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_9"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 1 PPMin",
+        "content": "La poursuite des infractions ressortit à l’autorité du lieu où le prévenu mineur a sa résidence habituelle lors de l’ouverture de la procédure. La procédure relative aux amendes d’ordre ressortit à l’autorité du lieu où l’infraction a été commise.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 2 PPMin",
+        "content": "Si le prévenu mineur n’a pas de résidence habituelle en Suisse, est compétente:\na. lorsque l’infraction a été commise en Suisse, l’autorité du lieu où elle a été commise;\nb. lorsque l’infraction a été commise à l’étranger, l’autorité du lieu d’origine du prévenu mineur ou, s’il est étranger, l’autorité du lieu où il a été appréhendé pour la première fois en raison de l’infraction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 3 PPMin",
+        "content": "L’autorité du lieu où l’infraction a été commise effectue les actes d’instruction urgents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 4 PPMin",
+        "content": "L’autorité suisse compétente peut se charger de la poursuite pénale sur requête de l’autorité étrangère aux conditions suivantes:\na. le prévenu mineur a sa résidence habituelle en Suisse ou il est de nationalité suisse;\nb. il a commis à l’étranger une infraction réprimée également par le droit suisse;\nc. les conditions d’une poursuite en vertu des art. 4 à 7 du code pénal (CP) ne sont pas remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 5 PPMin",
+        "content": "L’autorité compétente applique exclusivement le droit suisse si le prévenu mineur est poursuivi en vertu de l’al. 4 ou des art. 4 à 7 CP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 6 PPMin",
+        "content": "L’exécution ressortit à l’autorité du lieu où le jugement a été rendu, sous réserve des dispositions de conventions intercantonales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, For",
+        "citation": "Art. 10 al. 7 PPMin",
+        "content": "Le Tribunal pénal fédéral tranche s’il y a conflit de compétence entre les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_10"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Disjonction des procédures",
+        "citation": "Art. 11 al. 1 PPMin",
+        "content": "Les procédures concernant des personnes majeures et des mineurs sont disjointes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_11"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Disjonction des procédures",
+        "citation": "Art. 11 al. 2 PPMin",
+        "content": "A titre exceptionnel, il peut être renoncé à la disjonction des procédures, si celle-ci devait rendre l’instruction notablement plus difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_11"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Participation des représentants légaux",
+        "citation": "Art. 12 al. 1 PPMin",
+        "content": "Les représentants légaux et l’autorité civile sont tenus de participer à la procédure si l’autorité pénale des mineurs l’ordonne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_12"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Participation des représentants légaux",
+        "citation": "Art. 12 al. 2 PPMin",
+        "content": "Si les représentants légaux ne s’exécutent pas, l’autorité d’instruction ou le tribunal des mineurs peut leur donner un avertissement, les dénoncer à l’autorité civile ou leur infliger une amende d’ordre de 1000 francs au plus. L’amende d’ordre peut faire l’objet d’un recours auprès de l’autorité de recours des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_12"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Personne de confiance",
+        "citation": "Art. 13 PPMin",
+        "content": "Le prévenu mineur peut faire appel à une personne de confiance à tous les stades de la procédure, à moins que l’intérêt de l’instruction ou un intérêt privé prépondérant ne s’y oppose.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_13"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Huis clos",
+        "citation": "Art. 14 al. 1 PPMin",
+        "content": "La procédure pénale se déroule à huis clos. L’autorité d’instruction et les tribunaux peuvent informer le public de l’état de la procédure sous une forme appropriée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_14"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Huis clos",
+        "citation": "Art. 14 al. 2 PPMin",
+        "content": "Le tribunal des mineurs et la juridiction d’appel peuvent ordonner une audience publique aux conditions suivantes:\na. le prévenu mineur capable de discernement ou ses représentants légaux l’exigent ou l’intérêt public le commande;\nb. cela ne nuit pas aux intérêts du prévenu mineur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_14"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Consultation du dossier",
+        "citation": "Art. 15 al. 1 PPMin",
+        "content": "Dans l’intérêt du prévenu mineur, le droit de consulter des informations sur sa situation personnelle peut être restreint pour:\na. le mineur lui-même;\nb. ses représentants légaux;\nc. la partie plaignante;\nd. l’autorité civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_15"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Consultation du dossier",
+        "citation": "Art. 15 al. 2 PPMin",
+        "content": "Le défenseur et le ministère public des mineurs peuvent consulter tout le dossier. Ils ne sont pas autorisés à en divulguer le contenu dans la mesure où le droit de le consulter a été restreint.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_15"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Conciliation et réparation",
+        "citation": "Art. 16 PPMin",
+        "content": "L’autorité d’instruction et le tribunal des mineurs peuvent tenter:\na. d’aboutir à une conciliation entre le lésé et le prévenu mineur lorsque la procédure porte sur une infraction poursuivie sur plainte;\nb. d’obtenir une réparation lorsqu’une exemption de peine au titre de l’art. 21, al. 1, let. c, DPMin entre en ligne de compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_16"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Médiation",
+        "citation": "Art. 17 al. 1 PPMin",
+        "content": "L’autorité d’instruction et les tribunaux peuvent en tout temps suspendre la procédure et charger une organisation ou une personne compétente dans le domaine de la médiation d’engager une procédure de médiation dans les cas suivants:\na. il n’y a pas lieu de prendre de mesures de protection ou l’autorité civile a déjà ordonné les mesures appropriées;\nb. les conditions fixées à l’art. 21, al. 1, DPMin ne sont pas remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_17"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 3, Règles générales de procédure, Médiation",
+        "citation": "Art. 17 al. 2 PPMin",
+        "content": "Si la médiation aboutit à un accord, la procédure est classée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_17"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Définition",
+        "citation": "Art. 18 PPMin",
+        "content": "Ont qualité de partie:\na. le prévenu mineur;\nb. ses représentants légaux;\nc. la partie plaignante;\nd. le ministère public des mineurs ou le procureur des mineurs, à la procédure devant le tribunal des mineurs et lors de la procédure de recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_18"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Prévenu mineur",
+        "citation": "Art. 19 al. 1 PPMin",
+        "content": "Le prévenu mineur agit au travers de ses représentants légaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Prévenu mineur",
+        "citation": "Art. 19 al. 2 PPMin",
+        "content": "S’il est capable de discernement, il peut exercer de manière indépendante ses droits de partie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Prévenu mineur",
+        "citation": "Art. 19 al. 3 PPMin",
+        "content": "L’autorité peut restreindre le droit du prévenu mineur de participer à certains actes de procédure en fonction de son âge, afin de préserver le développement de sa personnalité. Cette restriction ne s’applique pas à la défense.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_19"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Partie plaignante",
+        "citation": "Art. 20 al. 1 PPMin",
+        "content": "La partie plaignante peut participer à l’instruction si les intérêts du prévenu mineur ne s’y opposent pas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_20"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Partie plaignante",
+        "citation": "Art. 20 al. 2 PPMin",
+        "content": "Elle ne participe pas aux débats, sauf si des circonstances particulières l’exigent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_20"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Ministère public des mineurs",
+        "citation": "Art. 21 PPMin",
+        "content": "Lorsque l’instruction est menée par un juge des mineurs, le droit cantonal prévoit un ministère public des mineurs. Celui-ci:\na. engage l’accusation devant le tribunal des mineurs;\nb. peut participer aux débats devant le tribunal des mineurs et devant la juridiction d’appel; il est tenu d’y participer si le tribunal l’exige;\nc. peut faire appel contre les jugements du tribunal des mineurs;\nd. soutient l’accusation devant la juridiction d’appel;\ne. accomplit les tâches prévues par le droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_21"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 1, Parties, Premier procureur des mineurs ou procureur général des mineurs",
+        "citation": "Art. 22 PPMin",
+        "content": "Si le droit cantonal prévoit un premier procureur des mineurs ou un procureur général des mineurs, les art. 322, al. 1, 354, al. 1, let. c, et 381, al. 2, CPP sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_22"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 2, Défense, Défense privée",
+        "citation": "Art. 23 PPMin",
+        "content": "Le prévenu mineur capable de discernement et ses représentants légaux peuvent désigner un avocat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_23"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 2, Défense, Défense obligatoire",
+        "citation": "Art. 24 PPMin",
+        "content": "Le prévenu mineur doit avoir un défenseur dans les cas suivants:\na. il est passible d’une privation de liberté de plus d’un mois ou d’un placement;\nb. il ne peut pas suffisamment défendre ses intérêts dans la procédure et ses représentants légaux ne le peuvent pas non plus;\nc. la détention provisoire ou la détention pour des motifs de sûreté a duré plus de 24 heures;\nd. il est placé dans un établissement à titre provisionnel;\ne. le ministère public des mineurs ou le procureur des mineurs intervient personnellement aux débats.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_24"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 2, Défense, Défense d’office",
+        "citation": "Art. 25 al. 1 PPMin",
+        "content": "L’autorité compétente désigne un défenseur d’office lorsque le prévenu mineur doit avoir un défenseur et que l’une des conditions suivantes est remplie:\na. le prévenu mineur ou ses représentants légaux n’ont pas choisi de défenseur malgré une sommation;\nb. le défenseur s’est vu retirer son mandat ou l’a abandonné et le prévenu mineur ou ses représentants légaux n’ont pas désigné un nouveau défenseur dans le délai imparti;\nc. le prévenu mineur et ses représentants légaux ne disposent pas des ressources financières nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_25"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 4, Parties et défense, Section 2, Défense, Défense d’office",
+        "citation": "Art. 25 al. 2 PPMin",
+        "content": "L’indemnisation du défenseur d’office est régie par l’art. 135 CPP. Les parents peuvent être soumis à l’obligation de rembourser prévue à l’art 135, al. 4, CPP au titre de leur obligation d’entretien.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_25"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Compétence",
+        "citation": "Art. 26 al. 1 PPMin",
+        "content": "L’autorité d’instruction est compétente pour ordonner:\na. les mesures de contraintes qui peuvent être ordonnées par le ministère public aux termes du CPP;\nb. la détention provisoire;\nc. à titre provisionnel, les mesures de protection prévues aux art. 12 à 15 et 16a DPMin;\nd. l’observation au sens de l’art. 9 DPMin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Compétence",
+        "citation": "Art. 26 al. 2 PPMin",
+        "content": "Le tribunal des mesures de contrainte est compétent pour ordonner ou autoriser les autres mesures de contrainte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Compétence",
+        "citation": "Art. 26 al. 3 PPMin",
+        "content": "Lorsqu’une autorité judiciaire est saisie, elle est compétente pour ordonner les mesures de contrainte prévues par la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_26"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Détention provisoire et détention pour des motifs de sûreté",
+        "citation": "Art. 27 al. 1 PPMin",
+        "content": "La détention provisoire et la détention pour des motifs de sûreté ne sont prononcées qu’à titre exceptionnel et seulement si aucune mesure de substitution n’est envisageable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Détention provisoire et détention pour des motifs de sûreté",
+        "citation": "Art. 27 al. 2 PPMin",
+        "content": "Si elle estime que la détention provisoire doit être prolongée au-delà de sept jours, l’autorité d’instruction adresse une demande au tribunal des mesures de contrainte avant l’expiration de ce délai. Celui-ci statue sans retard, au plus tard dans les 48 heures à compter de la réception de la demande. La procédure est régie par les art. 225 et 226 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Détention provisoire et détention pour des motifs de sûreté",
+        "citation": "Art. 27 al. 3 PPMin",
+        "content": "Le tribunal des mesures de contrainte peut prolonger la détention provisoire plusieurs fois, mais pour un mois au plus à chaque fois. La procédure est régie par l’art. 227 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Détention provisoire et détention pour des motifs de sûreté",
+        "citation": "Art. 27 al. 4 PPMin",
+        "content": "Le prévenu mineur capable de discernement et ses représentants légaux peuvent en tout temps demander la mise en liberté du mineur à l’autorité qui a ordonné sa détention. La procédure est régie par l’art. 228 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Détention provisoire et détention pour des motifs de sûreté",
+        "citation": "Art. 27 al. 5 PPMin",
+        "content": "Le recours contre les prononcés du tribunal des mesures de contrainte est régi par l’art. 222 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_27"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Exécution de la détention provisoire et de la détention pour des motifs de sûreté",
+        "citation": "Art. 28 al. 1 PPMin",
+        "content": "La détention provisoire et la détention pour des motifs de sûreté sont exécutées dans un établissement réservé aux mineurs ou dans une division particulière d’une maison d’arrêts où les mineurs sont séparés des détenus adultes. Une prise en charge appropriée est assurée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Exécution de la détention provisoire et de la détention pour des motifs de sûreté",
+        "citation": "Art. 28 al. 2 PPMin",
+        "content": "Le prévenu mineur peut, à sa demande, avoir une occupation si la procédure n’en est pas entravée et si la situation dans l’établissement ou la maison d’arrêt le permet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Exécution de la détention provisoire et de la détention pour des motifs de sûreté",
+        "citation": "Art. 28 al. 3 PPMin",
+        "content": "L’exécution peut être confiée à des établissements privés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_28"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Mesures de protection ordonnées à titre provisionnel et observation",
+        "citation": "Art. 29 al. 1 PPMin",
+        "content": "Les mesures de protection à titre provisionnel et l’observation sont ordonnées par écrit et motivées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_29"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 5, Mesures de contraintes, mesures de protection et observation, Mesures de protection ordonnées à titre provisionnel et observation",
+        "citation": "Art. 29 al. 2 PPMin",
+        "content": "L’observation institutionnelle est imputée sur la peine de manière appropriée. L’art. 16 DPMin est applicable par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_29"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 1, Instruction, Autorité d’instruction",
+        "citation": "Art. 30 al. 1 PPMin",
+        "content": "L’autorité d’instruction dirige la poursuite pénale et effectue tous les actes de procédure nécessaires à l’établissement de la vérité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_30"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 1, Instruction, Autorité d’instruction",
+        "citation": "Art. 30 al. 2 PPMin",
+        "content": "Lors de l’instruction, elle exerce les compétences et effectue les tâches que le CPP attribue au ministère public à ce stade de la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_30"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 1, Instruction, Collaboration",
+        "citation": "Art. 31 al. 1 PPMin",
+        "content": "Lors de l’examen de la situation personnelle du prévenu mineur, l’autorité d’instruction collabore avec toutes les autorités judiciaires pénales et civiles, les autorités administratives, les établissements publics et privés et les personnes actives dans le domaine médical ou social; elle requiert d’eux les renseignements dont elle a besoin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_31"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 1, Instruction, Collaboration",
+        "citation": "Art. 31 al. 2 PPMin",
+        "content": "Ces autorités, établissements et personnes sont tenus de fournir les renseignements demandés; le secret professionnel est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_31"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 1 PPMin",
+        "content": "L’autorité d’instruction clôt l’instruction par une ordonnance pénale si le jugement de l’infraction n’est pas de la compétence du tribunal des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 2 PPMin",
+        "content": "Elle peut interroger le prévenu mineur avant de rendre l’ordonnance pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 3 PPMin",
+        "content": "Elle peut statuer dans l’ordonnance pénale sur les prétentions civiles qui ne nécessitent pas d’instruction particulière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 4 PPMin",
+        "content": "L’ordonnance pénale est notifiée:\na. au prévenu mineur capable de discernement et à ses représentants légaux;\nb. à la partie plaignante et aux autres participants à la procédure, si leurs conclusions ont été traitées;\nc. au ministère public des mineurs, si le droit cantonal le prévoit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 5 PPMin",
+        "content": "Peuvent faire opposition par écrit à l’ordonnance pénale, dans les dix jours:\na. le prévenu mineur capable de discernement et ses représentants légaux;\nb. la partie plaignante;\nc. les autres participants à la procédure, s’ils sont touchés dans leurs intérêts;\nd. le ministère public des mineurs, si le droit cantonal le prévoit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 5bis PPMin",
+        "content": "La partie plaignante ne peut pas attaquer la sanction prononcée dans l’ordonnance pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 2, Procédure de l’ordonnance pénale",
+        "citation": "Art. 32 al. 6 PPMin",
+        "content": "Au surplus, la procédure est régie par les art. 352 à 356 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_32"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 3, Mise en accusation",
+        "citation": "Art. 33 al. 1 PPMin",
+        "content": "L’autorité compétente engage l’accusation devant le tribunal des mineurs si elle considère que les faits et la situation personnelle du prévenu mineur sont établis de manière suffisante et qu’aucune ordonnance pénale n’a été rendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 3, Mise en accusation",
+        "citation": "Art. 33 al. 2 PPMin",
+        "content": "La mise en accusation relève de la compétence:\na. du ministère public des mineurs si l’instruction a été menée par un juge des mineurs;\nb. du procureur des mineurs s’il a mené lui-même l’instruction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 3, Mise en accusation",
+        "citation": "Art. 33 al. 3 PPMin",
+        "content": "L’autorité compétente notifie l’acte d’accusation:\na. au prévenu mineur et à ses représentants légaux;\nb. à la partie plaignante;\nc. au tribunal des mineurs, lorsqu’elle lui remet le dossier et les objets et valeurs patrimoniales séquestrés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_33"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 1 PPMin",
+        "content": "Le tribunal des mineurs statue en première instance sur les infractions pour lesquelles entrent en ligne de compte:\na. un placement;\nb. une amende de plus de 1000 francs;\nc. une peine privative de liberté de plus de trois mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 2 PPMin",
+        "content": "Il statue sur les infractions retenues dans une ordonnance pénale ayant fait l’objet d’une opposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 3 PPMin",
+        "content": "Les cantons qui ont désigné des procureurs des mineurs en tant qu’autorité d’instruction peuvent prévoir que les infractions retenues dans une ordonnance pénale ayant fait l’objet d’une contravention sont jugées par le président du tribunal des mineurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 4 PPMin",
+        "content": "Si le tribunal des mineurs estime que le jugement d’une infraction relève de la compétence de l’autorité d’instruction, il peut soit statuer lui-même, soit renvoyer l’affaire à l’autorité d’instruction, qui rend une ordonnance pénale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 5 PPMin",
+        "content": "Lorsque le tribunal des mineurs est saisi, il est compétent pour ordonner les mesures de contrainte prévues par la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Compétence",
+        "citation": "Art. 34 al. 6 PPMin",
+        "content": "Il peut statuer sur les prétentions civiles si elles ne nécessitent pas d’instruction particulière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_34"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Comparution personnelle et exclusion",
+        "citation": "Art. 35 al. 1 PPMin",
+        "content": "Le prévenu mineur et ses représentants légaux sont tenus de comparaître personnellement aux débats devant le tribunal des mineurs et la juridiction d’appel des mineurs, sauf s’ils en ont été dispensés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_35"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Comparution personnelle et exclusion",
+        "citation": "Art. 35 al. 2 PPMin",
+        "content": "Le prévenu mineur, ses représentants légaux ou sa personne de confiance peuvent être exclus de tout ou partie des débats lorsque des intérêts publics ou privés prépondérants le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_35"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Procédure par défaut",
+        "citation": "Art. 36 PPMin",
+        "content": "La procédure par défaut n’est possible qu’aux conditions suivantes:\na. le prévenu mineur ne se présente pas aux débats malgré deux citations;\nb. il a été interrogé par l’autorité d’instruction;\nc. les preuves réunies permettent de rendre un jugement en son absence;\nd. seule une peine est envisagée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_36"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 1 PPMin",
+        "content": "Dans la mesure du possible, le jugement est communiqué et motivé oralement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 2 PPMin",
+        "content": "Le tribunal remet le dispositif du jugement aux parties et aux autres participants à la procédure à l’issue des débats ou le leur notifie dans les cinq jours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 3 PPMin",
+        "content": "Le jugement est notifié et motivé par écrit:\na. au prévenu mineur capable de discernement et à ses représentants légaux;\nb. au procureur des mineurs ou au ministère public des mineurs;\nc. à la partie plaignante et aux autres participants à la procédure, lorsque leurs conclusions ont été traitées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 4 PPMin",
+        "content": "Le tribunal peut renoncer à une motivation écrite aux conditions suivantes:\na. il motive le jugement par oral;\nb. il n’a pas prononcé de privation de liberté ni de mesure de protection.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 5 PPMin",
+        "content": "Le tribunal notifie ultérieurement le jugement motivé aux parties si l’une d’elles:\na. le demande dans les dix jours suivant la notification du dispositif;\nb. forme un recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 6, Procédure, Section 4, Procédure devant le tribunal des mineurs, Communication et motivation",
+        "citation": "Art. 37 al. 6 PPMin",
+        "content": "Si la partie plaignante est seule à former un recours, le tribunal ne motive le jugement que dans la mesure où il concerne le comportement punissable à l’origine du préjudice subi par la partie plaignante ou les prétentions civiles de celle-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_37"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Qualité pour recourir",
+        "citation": "Art. 38 al. 1 PPMin",
+        "content": "Ont qualité pour recourir:\na. le prévenu mineur capable de discernement;\nb. ses représentants légaux ou, en leur absence, l’autorité civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Qualité pour recourir",
+        "citation": "Art. 38 al. 2 PPMin",
+        "content": "L’autorité qui a soutenu l’accusation devant le tribunal des mineurs a qualité pour faire appel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Qualité pour recourir",
+        "citation": "Art. 38 al. 3 PPMin",
+        "content": "Au surplus, l’art. 382, CPP est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_38"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Recours",
+        "citation": "Art. 39 al. 1 PPMin",
+        "content": "La recevabilité et les motifs du recours sont régis par l’art. 393 CPP.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Recours",
+        "citation": "Art. 39 al. 2 PPMin",
+        "content": "De plus, le recours est recevable contre:\na. les mesures de protection ordonnées à titre provisionnel;\nb. l’observation;\nc. la restriction de la consultation du dossier;\nd. la détention provisoire et la détention pour des motifs de sûreté;\ne. les autres prononcés rendus par la direction de la procédure, lorsqu’il en résulte un préjudice irréparable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Recours",
+        "citation": "Art. 39 al. 3 PPMin",
+        "content": "La compétence de statuer sur les recours appartient à l’autorité de recours; en cas de recours contre la détention provisoire ou la détention pour des motifs de sûreté, elle appartient au tribunal des mesures de contrainte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_39"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Appel",
+        "citation": "Art. 40 al. 1 PPMin",
+        "content": "La juridiction d’appel des mineurs statue sur:\na. les appels formés contre des jugements rendus en première instance par le tribunal des mineurs;\nb. la suspension d’une mesure de protection ordonnée à titre provisionnel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_40"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Appel",
+        "citation": "Art. 40 al. 2 PPMin",
+        "content": "Lorsque la juridiction d’appel des mineurs est saisie, elle est compétente pour ordonner les mesures de contrainte prévues par la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_40"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 7, Voies de recours, Révision",
+        "citation": "Art. 41 PPMin",
+        "content": "Le tribunal des mineurs statue sur les demandes de révision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_41"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 8, Exécution, Compétence",
+        "citation": "Art. 42 al. 1 PPMin",
+        "content": "L’exécution des peines et des mesures de protection relève de la compétence de l’autorité d’instruction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_42"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 8, Exécution, Compétence",
+        "citation": "Art. 42 al. 2 PPMin",
+        "content": "Elle peut être confiée à des établissements publics ou privés ou à des particuliers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_42"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 8, Exécution, Voies de recours",
+        "citation": "Art. 43 PPMin",
+        "content": "Peuvent faire l’objet d’un recours:\na. la modification d’une mesure;\nb. le transfert dans un autre établissement;\nc. le refus ou la révocation de la libération conditionnelle;\nd. la fin de la mesure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_43"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais de procédure",
+        "citation": "Art. 44 al. 1 PPMin",
+        "content": "Les frais de procédure sont supportés en premier lieu par le canton dans lequel le jugement a été rendu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais de procédure",
+        "citation": "Art. 44 al. 2 PPMin",
+        "content": "Au surplus, les art. 422 à 428 CPP sont applicables par analogie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais de procédure",
+        "citation": "Art. 44 al. 3 PPMin",
+        "content": "Si les conditions sont réunies pour que les frais soient mis à la charge du prévenu mineur (art. 426 CPP), ses parents peuvent être déclarés solidairement responsables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_44"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 1 PPMin",
+        "content": "Sont réputés frais d’exécution:\na. les frais de l’exécution des mesures de protection et des peines;\nb. les frais occasionnés par l’observation ou le placement à titre provisionnel ordonnés pendant la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 2 PPMin",
+        "content": "Le canton dans lequel le prévenu mineur a son domicile lors de l’ouverture de la procédure supporte les frais d’exécution, exceptés les frais de l’exécution des peines.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 3 PPMin",
+        "content": "Le canton dans lequel le jugement a été rendu supporte:\na. l’ensemble des frais d’exécution lorsque le prévenu mineur n’a pas de domicile en Suisse;\nb. les frais de l’exécution des peines.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 4 PPMin",
+        "content": "Les réglementations contractuelles des cantons sur la répartition des frais sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 5 PPMin",
+        "content": "Les parents participent aux frais des mesures de protection et de l’observation au titre de leur obligation d’entretien au sens du droit civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    },
+    {
+        "book": "JStPO",
+        "title": "PPMin, Chapitre 9, Frais, Frais d’exécution",
+        "citation": "Art. 45 al. 6 PPMin",
+        "content": "Si le prévenu mineur dispose d’un revenu régulier de par son travail ou d’une fortune, il peut être astreint à participer dans une juste proportion aux frais d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2010/226/fr#art_45"
+    }
+]

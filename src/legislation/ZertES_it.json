@@ -1,0 +1,380 @@
+[
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 1: Disposizioni generali, Oggetto e scopo",
+        "citation": "Art. 1 cpv. 1 FiEle",
+        "content": "La presente legge definisce:\na. i requisiti posti alla qualità di determinati certificati digitali e alla loro utilizzazione;\nb. le condizioni alle quali i prestatori di servizi di certificazione nel campo della firma elettronica e di altre applicazioni di certificati digitali (servizi di certificazione) possono essere riconosciuti;\nc. i diritti e gli obblighi dei prestatori di servizi di certificazione riconosciuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 1: Disposizioni generali, Oggetto e scopo",
+        "citation": "Art. 1 cpv. 2 FiEle",
+        "content": "Essa non disciplina gli effetti giuridici dell’utilizzazione di certificati digitali, ad eccezione della responsabilità di cui agli articoli 17 e 18.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 1: Disposizioni generali, Oggetto e scopo",
+        "citation": "Art. 1 cpv. 3 FiEle",
+        "content": "Ha lo scopo di:\na. promuovere un’ampia offerta di servizi di certificazione sicuri;\nb. favorire l’utilizzazione di certificati digitali, firme elettroniche e sigilli elettronici;\nc. permettere il riconoscimento internazionale dei prestatori di servizi di certificazione e delle loro prestazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_1"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 2 FiEle",
+        "content": "Nella presente legge s’intende per:\na. firma elettronica: dati in forma elettronica allegati oppure connessi tramite associazione logica ad altri dati elettronici e utilizzati per la loro autenticazione;\nb. firma elettronica avanzata: firma elettronica che soddisfa i seguenti requisiti:\n1. è attribuita esclusivamente al titolare,\n2. permette di identificare il titolare,\n3. è creata con mezzi sui quali il titolare può conservare il proprio controllo esclusivo,\n4. è collegata ai dati ai quali si riferisce in modo tale che una successiva modifica dei dati sia riconoscibile;\nc. firma elettronica regolamentata: firma elettronica avanzata creata utilizzando un dispositivo sicuro per la creazione della firma secondo l’articolo 6 e fondata su un certificato regolamentato e rilasciato a una persona fisica valido al momento della creazione della firma elettronica;\nd. sigillo elettronico regolamentato: firma elettronica avanzata creata utilizzando un dispositivo sicuro per la creazione del sigillo secondo l’articolo 6 e fondata su un certificato regolamentato rilasciato a un’unità IDI secondo l’articolo 3 capoverso 1 lettera c della legge federale del 18 giugno 2010 sul numero d’identificazione delle imprese (LIDI) valido al momento della creazione del sigillo elettronico;\ne. firma elettronica qualificata: firma elettronica regolamentata fondata su un certificato qualificato;\nf. certificato digitale: attestato digitale che attribuisce la chiave pubblica di una coppia asimmetrica di chiavi crittografiche al suo titolare;\ng. certificato regolamentato: certificato digitale che soddisfa i requisiti dell’articolo 7 ed è stato rilasciato da un prestatore di servizi di certificazione riconosciuto secondo la presente legge; \nh. certificato qualificato: certificato regolamentato che soddisfa i requisiti dell’articolo 8;\ni. marca temporale elettronica: conferma dell’esistenza di determinati dati digitali in un dato momento;\nj. marca temporale elettronica qualificata: marca temporale elettronica generata da un prestatore di servizi di certificazione riconosciuto secondo la presente legge e corredata di un sigillo elettronico regolamentato;\nk. prestatore di servizi di certificazione: organismo che certifica dati in ambito elettronico e che rilascia a tal fine certificati digitali;\nl. organismo di riconoscimento: organismo che, in base alla legislazione federale sugli ostacoli tecnici al commercio, è accreditato per riconoscere e sorvegliare i prestatori di servizi di certificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_2"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Condizioni del riconoscimento",
+        "citation": "Art. 3 cpv. 1 FiEle",
+        "content": "Quali prestatori di servizi di certificazione possono essere riconosciute le persone fisiche o giuridiche che:\na. sono iscritte nel registro di commercio;\nb. sono in grado di fornire e gestire certificati qualificati conformemente ai requisiti della presente legge;\nc. impiegano personale munito delle conoscenze, dell’esperienza e delle qualifiche necessarie;\nd. utilizzano sistemi e prodotti informatici, in particolare dispositivi affidabili e sicuri per la creazione di una firma e di un sigillo;\ne. possiedono risorse o garanzie finanziarie sufficienti;\nf. stipulano le assicurazioni necessarie alla copertura della responsabilità prevista dall’articolo 17 e delle spese che possono comportare le misure previste nell’articolo 14 capoversi 2 e 3;\ng. assicurano l’osservanza del diritto applicabile, in particolare della presente legge e delle relative disposizioni d’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Condizioni del riconoscimento",
+        "citation": "Art. 3 cpv. 2 FiEle",
+        "content": "Le condizioni previste nel capoverso 1 si applicano anche ai prestatori di servizi di certificazione esteri. Se un prestatore estero è già riconosciuto da un organismo estero, l’organismo svizzero può riconoscerlo se è provato che:\na. il riconoscimento è stato accordato secondo il diritto estero;\nb. le norme del diritto estero determinanti per il riconoscimento sono equivalenti a quelle del diritto svizzero;\nc. l’organismo di riconoscimento estero possiede qualifiche equivalenti a quelle richieste all’organismo di riconoscimento svizzero;\nd. l’organismo di riconoscimento estero garantisce all’organismo di riconoscimento svizzero di collaborare per la sorveglianza in Svizzera del prestatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Condizioni del riconoscimento",
+        "citation": "Art. 3 cpv. 3 FiEle",
+        "content": "Le unità amministrative della Confederazione, dei Cantoni e dei Comuni possono essere riconosciute quali prestatori di servizi di certificazione anche se non sono iscritte nel registro di commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_3"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Designazione dell’organismo di accreditamento",
+        "citation": "Art. 4 cpv. 1 FiEle",
+        "content": "Il Consiglio federale designa l’organismo competente per l’accreditamento degli organismi di riconoscimento (organismo di accreditamento).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Designazione dell’organismo di accreditamento",
+        "citation": "Art. 4 cpv. 2 FiEle",
+        "content": "Se nessun organismo è stato accreditato per il riconoscimento, il Consiglio federale designa l’organismo di accreditamento o un altro organismo appropriato quale organismo di riconoscimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_4"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Lista dei prestatori di servizi di certificazione riconosciuti",
+        "citation": "Art. 5 cpv. 1 FiEle",
+        "content": "Gli organismi di riconoscimento annunciano all’organismo di accreditamento i prestatori di servizi di certificazione da essi riconosciuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 2: Riconoscimento dei prestatori di servizi di certificazione, Lista dei prestatori di servizi di certificazione riconosciuti",
+        "citation": "Art. 5 cpv. 2 FiEle",
+        "content": "L’organismo di accreditamento mette a disposizione del pubblico la lista dei prestatori di servizi di certificazione riconosciuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_5"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 3:, Generazione, memorizzazione e utilizzazione di chiavi crittografiche",
+        "citation": "Art. 6 cpv. 1 FiEle",
+        "content": "Il Consiglio federale disciplina la generazione, la memorizzazione e l’utilizzazione di chiavi crittografiche che possono essere oggetto di certificati regolamentati ai sensi della presente legge; garantisce in proposito un elevato livello di sicurezza, conforme all’evoluzione tecnologica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 3:, Generazione, memorizzazione e utilizzazione di chiavi crittografiche",
+        "citation": "Art. 6 cpv. 2 FiEle",
+        "content": "I sistemi di generazione, memorizzazione e utilizzazione di chiavi crittografiche private, in particolare i dispositivi per la creazione di una firma e di un sigillo, devono almeno garantire che le chiavi:\na. possano comparire in pratica soltanto una volta e la loro segretezza sia sufficientemente assicurata;\nb. non possano, con un margine di sicurezza sufficiente, essere individuate per deduzione e che la loro utilizzazione sia protetta da contraffazioni grazie all’impiego della tecnologia disponibile;\nc. possano essere protette in modo affidabile dal legittimo titolare contro l’abuso da parte di terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_6"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti per tutti i certificati regolamentati",
+        "citation": "Art. 7 cpv. 1 FiEle",
+        "content": "Un certificato regolamentato può essere rilasciato a persone fisiche e unità IDI.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti per tutti i certificati regolamentati",
+        "citation": "Art. 7 cpv. 2 FiEle",
+        "content": "Contiene le seguenti informazioni:\na. il numero di serie;\nb. l’indicazione che si tratta di un certificato regolamentato;\nc. il nome o la designazione del titolare della relativa chiave crittografica privata; in caso di possibile confusione, il nome o la designazione devono essere completati da un attributo distintivo;\nd. per le persone fisiche, se del caso lo pseudonimo, designato come tale, al posto del nome;\ne. per le unità IDI, il numero di identificazione dell’impresa secondo la LIDI;\nf. la chiave crittografica pubblica; \ng. la durata di validità;\nh. il nome, lo Stato di domicilio e il sigillo elettronico regolamentato del prestatore di servizi di certificazione che rilascia il certificato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti per tutti i certificati regolamentati",
+        "citation": "Art. 7 cpv. 3 FiEle",
+        "content": "Il certificato può inoltre contenere gli elementi seguenti:\na. le qualità specifiche del titolare della relativa chiave crittografica privata, ad esempio la qualifica professionale;\nb. per le persone fisiche, l’indicazione che sono autorizzate a rappresentare una determinata unità IDI;\nc. l’ambito di validità per il quale è previsto;\nd. il valore massimo delle transazioni per le quali è previsto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti per tutti i certificati regolamentati",
+        "citation": "Art. 7 cpv. 4 FiEle",
+        "content": "Il Consiglio federale disciplina il formato dei certificati regolamentati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_7"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti supplementari per i certificati qualificati",
+        "citation": "Art. 8 cpv. 1 FiEle",
+        "content": "Un certificato qualificato può essere rilasciato soltanto a una persona fisica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti supplementari per i certificati qualificati",
+        "citation": "Art. 8 cpv. 2 FiEle",
+        "content": "Contiene un’iscrizione secondo cui è previsto soltanto per la firma elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 4: Certificati regolamentati, Requisiti supplementari per i certificati qualificati",
+        "citation": "Art. 8 cpv. 3 FiEle",
+        "content": "Al posto dell’indicazione di cui all’articolo 7 capoverso 2 lettera b, nel certificato va inserita l’indicazione che si tratta di un certificato qualificato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_8"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti esigono dalle persone che chiedono il rilascio di un certificato regolamentato:\na. che si presentino personalmente e provino la loro identità, se sono persone fisiche;\nb. che un loro rappresentante si presenti personalmente e provi la sua identità e il potere di rappresentanza, se sono unità IDI e non persone fisiche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 2 FiEle",
+        "content": "I prestatori di servizi di certificazione verificano che le qualifiche professionali e le altre qualità specifiche (art. 7 cpv. 3 lett. a) siano state confermate dall’organismo competente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 3 FiEle",
+        "content": "Nel caso sia indicato un potere di rappresentanza (art. 7 cpv. 3 lett. b), i prestatori di servizi di certificazione verificano che l’unità IDI abbia dato il proprio consenso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 4 FiEle",
+        "content": "Il Consiglio federale designa i documenti per mezzo dei quali chi chiede un certificato può provare la propria identità ed eventualmente le proprie qualità specifiche. Può prevedere che, a determinate condizioni, il richiedente non sia tenuto a presentarsi personalmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 5 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti si accertano inoltre che la persona che chiede un certificato regolamentato sia in possesso della relativa chiave crittografica privata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Rilascio dei certificati regolamentati",
+        "citation": "Art. 9 cpv. 6 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti possono delegare a terzi (uffici di registrazione) l’dentificazione di un richiedente. Rispondono della corretta esecuzione di questo compito da parte dell’ufficio di registrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_9"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Obbligo di informazione e documentazione",
+        "citation": "Art. 10 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti devono rendere accessibili al pubblico le loro condizioni contrattuali generali e le informazioni sulla loro politica di certificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Obbligo di informazione e documentazione",
+        "citation": "Art. 10 cpv. 2 FiEle",
+        "content": "Al più tardi in occasione del rilascio dei certificati regolamentati, i prestatori di servizi di certificazione riconosciuti devono rendere attenti i loro clienti alle conseguenze dell’utilizzazione abusiva della chiave crittografica privata, come pure alle misure da prendere, secondo le circostanze, per mantenere segreta la chiave.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Obbligo di informazione e documentazione",
+        "citation": "Art. 10 cpv. 3 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti tengono un libro giornale delle attività. Il Consiglio federale disciplina il termine di conservazione del libro giornale e dei relativi documenti giustificativi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_10"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Annullamento dei certificati regolamentati",
+        "citation": "Art. 11 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti annullano senza indugio un certificato regolamentato se:\na. il titolare o il suo rappresentante lo chiede;\nb. emerge che è stato ottenuto illecitamente o che le informazioni di cui all’articolo 7 capoverso 3 non sono o non sono più esatte;\nc. il legame di attribuzione con il suo titolare non è più garantito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Annullamento dei certificati regolamentati",
+        "citation": "Art. 11 cpv. 2 FiEle",
+        "content": "In caso di annullamento secondo il capoverso 1 lettera a, i prestatori di servizi di certificazione riconosciuti devono accertarsi che il richiedente sia autorizzato a chiedere l’annullamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Annullamento dei certificati regolamentati",
+        "citation": "Art. 11 cpv. 3 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti informano senza indugio dell’avvenuto annullamento il titolare del certificato regolamentato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_11"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Servizi relativi alle liste dei certificati regolamentati",
+        "citation": "Art. 12 cpv. 1 FiEle",
+        "content": "Ogni prestatore di servizi di certificazione riconosciuto garantisce che le persone interessate possano verificare in maniera affidabile, in ogni momento e mediante una procedura usuale, la validità di tutti i certificati regolamentati che ha rilasciato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Servizi relativi alle liste dei certificati regolamentati",
+        "citation": "Art. 12 cpv. 2 FiEle",
+        "content": "Può inoltre offrire un servizio che permetta alle persone interessate di ricercare nella lista e richiamare i certificati regolamentati che ha rilasciato. Un certificato è iscritto nella lista solo su richiesta del titolare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Servizi relativi alle liste dei certificati regolamentati",
+        "citation": "Art. 12 cpv. 3 FiEle",
+        "content": "Le consultazioni da parte di enti pubblici sono gratuite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Servizi relativi alle liste dei certificati regolamentati",
+        "citation": "Art. 12 cpv. 4 FiEle",
+        "content": "Il Consiglio federale stabilisce il periodo minimo durante il quale deve essere possibile la verifica dei certificati regolamentati non più validi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_12"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Marca temporale elettronica qualificata",
+        "citation": "Art. 13 FiEle",
+        "content": "Su richiesta, i prestatori di servizi di certificazione riconosciuti generano marche temporali elettroniche qualificate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_13"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Cessazione d’attività",
+        "citation": "Art. 14 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti notificano in tempo utile all’organismo di accreditamento la cessazione della loro attività. Gli notificano senza indugio eventuali comminatorie di fallimento ricevute.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Cessazione d’attività",
+        "citation": "Art. 14 cpv. 2 FiEle",
+        "content": "L’organismo di accreditamento incarica un altro prestatore di servizi di certificazione riconosciuto di tenere la lista dei certificati regolamentati validi, scaduti o annullati e di conservare il libro giornale delle attività nonché i relativi documenti giustificativi. Nel caso in cui non fosse disponibile un prestatore di servizi di certificazione riconosciuto, il Consiglio federale designa un organismo idoneo per la ripresa dell’attività dismessa. Il prestatore di servizi di certificazione riconosciuto che cessa la sua attività si assume le spese che ne risultano.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Cessazione d’attività",
+        "citation": "Art. 14 cpv. 3 FiEle",
+        "content": "Il capoverso 2 si applica anche in caso di fallimento di un prestatore di servizi di certificazione riconosciuto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_14"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Protezione dei dati",
+        "citation": "Art. 15 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti e gli uffici di registrazione da loro incaricati possono trattare soltanto i dati personali necessari all’adempimento dei loro compiti. Qualsiasi commercio di questi dati è vietato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 5:, Obblighi dei prestatori di servizi di certificazione riconosciuti, Protezione dei dati",
+        "citation": "Art. 15 cpv. 2 FiEle",
+        "content": "Per il resto, è applicabile la legislazione sulla protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_15"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 6:, Sorveglianza sui prestatori di servizi di certificazione riconosciuti",
+        "citation": "Art. 16 cpv. 1 FiEle",
+        "content": "La sorveglianza sui prestatori di servizi di certificazione riconosciuti è svolta dagli organismi di riconoscimento in base alle norme della legislazione federale sugli ostacoli tecnici al commercio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 6:, Sorveglianza sui prestatori di servizi di certificazione riconosciuti",
+        "citation": "Art. 16 cpv. 2 FiEle",
+        "content": "L’organismo di riconoscimento che revoca il riconoscimento di un prestatore di servizi di certificazione ne dà immediata comunicazione all’organismo di accreditamento. È applicabile l’articolo 14 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_16"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Responsabilità dei prestatori di servizi di certificazione",
+        "citation": "Art. 17 cpv. 1 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti che violano gli obblighi imposti dalla presente legge e dalle relative disposizioni d’esecuzione rispondono del danno causato al titolare di un certificato regolamentato valido e ai terzi che si sono fidati di tale certificato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Responsabilità dei prestatori di servizi di certificazione",
+        "citation": "Art. 17 cpv. 2 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti devono provare di aver ottemperato agli obblighi derivanti dalla presente legge e dalle disposizioni d’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Responsabilità dei prestatori di servizi di certificazione",
+        "citation": "Art. 17 cpv. 3 FiEle",
+        "content": "I prestatori di servizi di certificazione riconosciuti non possono escludere la responsabilità derivante dalla presente legge per i danni causati da loro stessi o dai loro ausiliari. Non rispondono tuttavia del danno risultante dall’inosservanza o dalla violazione di una restrizione dell’utilizzazione del certificato (art. 7 cpv. 3 lett. c e d).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_17"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Responsabilità degli organismi di riconoscimento",
+        "citation": "Art. 18 FiEle",
+        "content": "Gli organismi di riconoscimento che violano gli obblighi imposti dalla presente legge e dalle relative disposizioni d’esecuzione rispondono del danno causato al titolare di un certificato regolamentato valido e ai terzi che si sono fidati di tale certificato. L’articolo 17 capoversi 2 e 3 si applica per analogia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_18"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Prescrizione",
+        "citation": "Art. 19 cpv. 1 FiEle",
+        "content": "Le pretese fondate sulla presente legge si prescrivono in tre anni dal giorno in cui l’avente diritto ha avuto conoscenza del danno e della persona responsabile, ma in ogni caso in dieci anni dal giorno in cui il fatto dannoso è stato commesso o è cessato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Prescrizione",
+        "citation": "Art. 19 cpv. 2 FiEle",
+        "content": "Se il fatto dannoso commesso dalla persona responsabile costituisce un fatto punibile, la pretesa di risarcimento del danno si prescrive al più presto alla scadenza del termine di prescrizione dell’azione penale. Se la prescrizione dell’azione penale si estingue a seguito di una sentenza penale di prima istanza, la pretesa si prescrive al più presto in tre anni dalla comunicazione della sentenza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 7: Responsabilità, Prescrizione",
+        "citation": "Art. 19 cpv. 3 FiEle",
+        "content": "Sono fatte salve le pretese risultanti da un contratto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_19"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 8: Convenzioni internazionali",
+        "citation": "Art. 20 cpv. 1 FiEle",
+        "content": "Per facilitare l’utilizzazione e il riconoscimento giuridico internazionali di firme elettroniche e di altre applicazioni di chiavi crittografiche, il Consiglio federale può concludere convenzioni internazionali riguardanti segnatamente:\na. il riconoscimento delle firme elettroniche, dei sigilli elettronici e dei certificati digitali;\nb. il riconoscimento dei prestatori di servizi di certificazione e degli organismi di riconoscimento;\nc. il riconoscimento delle verifiche e delle valutazioni di conformità;\nd. il riconoscimento dei marchi di conformità;\ne. il riconoscimento dei sistemi di accreditamento e degli organismi accreditati;\nf. il conferimento di mandati di normazione a organismi internazionali di normazione nella misura in cui la legislazione rimandi a determinate norme tecniche o quando un tale rimando è previsto;\ng. l’informazione e la consultazione riguardo all’elaborazione, all’emanazione, alla modifica e all’applicazione di prescrizioni o norme tecniche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 8: Convenzioni internazionali",
+        "citation": "Art. 20 cpv. 2 FiEle",
+        "content": "Il Consiglio federale emana le prescrizioni necessarie per l’applicazione delle convenzioni internazionali che riguardano gli ambiti di cui al capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_20"
+    },
+    {
+        "book": "ZertES",
+        "title": "FiEle, Sezione 8: Convenzioni internazionali",
+        "citation": "Art. 20 cpv. 3 FiEle",
+        "content": "Può delegare a privati attività relative all’informazione e alla consultazione riguardanti l’elaborazione, l’emanazione e la modifica di prescrizioni o norme tecniche e prevedere la loro rimunerazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2016/752/it#art_20"
+    }
+]

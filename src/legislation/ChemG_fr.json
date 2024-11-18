@@ -1,0 +1,814 @@
+[
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, But",
+        "citation": "Art. 1 LChim",
+        "content": "La présente loi a pour but de protéger la vie et la santé de l’être humain des effets nocifs de substances ou de préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_1"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1 LChim",
+        "content": "La présente loi s’applique à toute utilisation de substances et de préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 2 LChim",
+        "content": "L’utilisation de micro-organismes à usage biocide ou phytosanitaire est assimilée à l’utilisation de substances ou de préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 3 LChim",
+        "content": "L’Assemblée fédérale peut, par voie d’ordonnance, étendre le champ d’application de la présente loi ou de certaines de ses dispositions:\na. aux organismes qui ont ou peuvent avoir des propriétés dangereuses au sens de la présente loi;\nb. à la protection de la vie et de la santé des animaux de rente et des animaux domestiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 4 LChim",
+        "content": "Le Conseil fédéral prévoit des dérogations au champ d’application de la présente loi ou à certaines de ses dispositions si:\na. d’autres actes législatifs de la Confédération assurent une protection suffisante de la vie et de la santé contre les effets nocifs de substances ou de préparations;\nb. les substances et les préparations sont destinées exclusivement au transit ou à l’exportation;\nc. la défense générale et les tâches des autorités de police et des douanes l’exigent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_2"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Substances et préparations dangereuses",
+        "citation": "Art. 3 al. 1 LChim",
+        "content": "Sont réputées dangereuses les substances et les préparations qui peuvent mettre la vie ou la santé en danger par une action physico-chimique ou toxique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_3"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Substances et préparations dangereuses",
+        "citation": "Art. 3 al. 2 LChim",
+        "content": "Le Conseil fédéral détermine les propriétés réputées dangereuses et fixe les paramètres de dangerosité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_3"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 1 LChim",
+        "content": "On entend par:\na. substances: les éléments chimiques et leurs combinaisons, naturels ou issus de procédés de production; on distingue les substances existantes et les nouvelles substances:\n1. sont réputées existantes les substances désignées comme telles par le Conseil fédéral,\n2. sont réputées nouvelles toutes les autres substances;\nb. principes actifs: les substances et les micro-organismes, y compris les virus, ayant une action destinée à un usage biocide ou phytosanitaire;\nc. préparations: les compositions, les mélanges et les solutions constitués de deux ou plusieurs substances;\nd. produits biocides: les principes actifs et les préparations qui ne sont pas des produits phytosanitaires et qui sont destinés:\n1. à repousser, à rendre inoffensifs ou à détruire des organismes nuisibles, ou à les combattre d’une autre manière, ou\n2. à empêcher ces organismes nuisibles de causer des dommages;\ne. produits phytosanitaires: les principes actifs et les préparations destinés à:\n1. protéger les végétaux et les produits à base de végétaux des organismes nuisibles ou de leur action,\n2. influer sur les processus vitaux des végétaux d’une autre manière qu’un nutriment,\n3. conserver les produits à base de végétaux,\n4. détruire les plantes ou les parties de plantes indésirables, ou à\n5. influer sur une croissance indésirable de celles-ci;\nf. fabricant: toute personne physique ou morale qui, à titre professionnel ou commercial, fabrique ou produit des substances et des préparations ou encore les importe à titre professionnel ou commercial;\ng. notifiant: toute personne physique ou morale qui notifie de nouvelles substances à l’organe de réception des notifications ou lui soumet des dossiers concernant des substances existantes réexaminées ou des demandes d’autorisation de mise sur le marché de principes actifs ou de préparations;\nh. organe de réception des notifications: le service fédéral qui reçoit notamment les notifications de nouvelles substances, les dossiers de substances existantes réexaminées, les demandes d’autorisation de mise sur le marché de principes actifs et de préparations ainsi que toute autre communication et qui coordonne les procédures et rend les décisions nécessaires;\ni. mise sur le marché: la mise à la disposition de tiers et la remise à des tiers de même que l’importation à titre professionnel ou commercial;\nj. utilisation: toute opération impliquant des substances ou des préparations, notamment leur production, leur importation, leur exportation, leur mise sur le marché, leur stockage, leur entreposage, leur transport, leur emploi et leur élimination.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_4"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 1, Dispositions générales, Définitions",
+        "citation": "Art. 4 al. 2 LChim",
+        "content": "Le Conseil fédéral peut préciser les définitions énoncées à l’al. 1 et tout autre terme utilisé dans la présente loi; il peut les délimiter les uns par rapport aux autres et prévoir des adaptations et des dérogations en tenant compte des nouvelles connaissances scientifiques et techniques et des développements sur le plan international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_4"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Contrôle autonome",
+        "citation": "Art. 5 al. 1 LChim",
+        "content": "Quiconque, en qualité de fabricant, met des substances ou des préparations sur le marché doit veiller à ce que celles-ci ne mettent pas la vie ou la santé en danger. Il doit notamment:\na. les évaluer et les classer en fonction de leurs propriétés;\nb. les emballer et les étiqueter en fonction de leur dangerosité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_5"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Contrôle autonome",
+        "citation": "Art. 5 al. 2 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions sur la nature et l’étendue du contrôle autonome ainsi que sur sa vérification. Il fixe notamment:\na. les méthodes d’essais, les règles des bonnes pratiques de laboratoire (BPL) ainsi que les critères d’évaluation et de classification;\nb. les prescriptions en matière d’emballage et d’étiquetage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_5"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Mise sur le marché",
+        "citation": "Art. 6 LChim",
+        "content": "Le fabricant peut mettre des substances ou des préparations sur le marché sans l’accord des autorités une fois le contrôle autonome effectué. Les exceptions suivantes sont applicables:\na. la mise sur le marché d’une substance nouvelle, comme telle ou comme partie d’une préparation, est soumise à notification (art. 9);\nb. la mise sur le marché d’un biocide ou d’un produit phytosanitaire est soumise à autorisation (art. 10 et 11).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_6"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Information des acquéreurs",
+        "citation": "Art. 7 al. 1 LChim",
+        "content": "Quiconque met une substance ou une préparation sur le marché doit informer les acquéreurs de ses propriétés et des dangers qu’elle présente pour la santé ainsi que des mesures de précaution et de protection à prendre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_7"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Information des acquéreurs",
+        "citation": "Art. 7 al. 2 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions sur le mode d’information ainsi que sur la teneur et l’étendue de celle-ci, notamment sur la remise d’une fiche technique de sécurité et la teneur de cette dernière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_7"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 1, Dispositions générales et principes, Section 2, Principes régissant l’utilisation des substances et des préparations, Devoir de diligence",
+        "citation": "Art. 8 LChim",
+        "content": "Quiconque utilise des substances ou des préparations doit tenir compte de leurs propriétés dangereuses et prendre les mesures nécessaires à la protection de la vie et de la santé. Il doit notamment tenir compte des informations fournies à ce sujet par le fabricant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_8"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Notification de nouvelles substances",
+        "citation": "Art. 9 al. 1 LChim",
+        "content": "L’organe de réception des notifications vérifie et évalue le dossier, en collaboration avec les services fédéraux compétents pour les aspects techniques (organes d’évaluation), et communique le résultat au notifiant dans le délai fixé par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Notification de nouvelles substances",
+        "citation": "Art. 9 al. 2 LChim",
+        "content": "Une substance notifiée peut être mise sur le marché si l’organe de réception des notifications a accepté la notification ou s’il n’a pas exigé, dans le délai fixé, d’autres pièces ou renseignements relatifs à la notification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Notification de nouvelles substances",
+        "citation": "Art. 9 al. 3 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions sur les exigences à remplir et la procédure à suivre pour la notification de nouvelles substances. Il fixe les dérogations à l’obligation de notifier. Ce faisant, il tient compte notamment de la destination et de la nature de la substance ou de la préparation et des quantités qui seront fabriquées ou mises sur le marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_9"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits biocides",
+        "citation": "Art. 10 al. 1 LChim",
+        "content": "L’organe de réception des notifications vérifie et évalue les documents qui lui ont été remis en collaboration avec les organes d’évaluation et rend une décision en tenant compte de l’estimation des risques (art. 16), dans le délai fixé par le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits biocides",
+        "citation": "Art. 10 al. 2 LChim",
+        "content": "L’autorisation de mise sur le marché est octroyée si, pour l’usage prévu, le produit biocide, notamment:\na. est suffisamment efficace;\nb. n’a pas d’effets secondaires inacceptables sur la santé de l’être humain ou celle des animaux de rente et des animaux domestiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits biocides",
+        "citation": "Art. 10 al. 3 LChim",
+        "content": "L’autorisation de mise sur le marché peut être refusée ou révoquée si les risques pour la santé suscitent des craintes et s’il existe un autre principe actif, autorisé pour le même type de produit biocide, qui présente un risque considérablement plus faible pour la santé et ne présente pas de désavantages importants pour l’usager sur les plans économique et pratique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits biocides",
+        "citation": "Art. 10 al. 4 LChim",
+        "content": "Le Conseil fédéral détermine les types et les procédures d’autorisation, ainsi que les dérogations au régime de l’autorisation applicables aux produits biocides. L’autorisation de mise sur le marché a une durée limitée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Obligation de communiquer concernant les produits biocides",
+        "citation": "Art. 10a al. 1 LChim",
+        "content": "Quiconque met sur le marché des produits biocides est tenu de communiquer à ce propos des données à la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Obligation de communiquer concernant les produits biocides",
+        "citation": "Art. 10a al. 2 LChim",
+        "content": "Le Conseil fédéral règle en particulier quelles données sont à saisir et à quelle instance elles doivent être communiquées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_10_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits phytosanitaires",
+        "citation": "Art. 11 al. 1 LChim",
+        "content": "L’autorisation de mise sur le marché est octroyée si, pour l’usage prévu, le produit phytosanitaire n’a notamment pas d’effets secondaires inacceptables sur la santé de l’être humain ou celle des animaux de rente et des animaux domestiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_11"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Autorisation de mise sur le marché de produits phytosanitaires",
+        "citation": "Art. 11 al. 2 LChim",
+        "content": "Au demeurant, la législation sur l’agriculture détermine les types et les procédures d’autorisation, ainsi que les dérogations au régime de l’autorisation applicables aux produits phytosanitaires. Le Conseil fédéral tient compte, dans les dispositions d’exécution, de la protection de la santé au sens de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_11"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Obligation de déposer une demande préalable",
+        "citation": "Art. 12 LChim",
+        "content": "Avant de procéder sur des animaux à des essais nécessaires à la notification ou à l’autorisation de mise sur le marché, le notifiant potentiel demande à l’organe de réception des notifications si la substance ou la préparation en question a déjà fait l’objet d’une notification ou d’une autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_12"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Notifications et autorisations subséquentes",
+        "citation": "Art. 13 al. 1 LChim",
+        "content": "Les substances et les préparations soumises à notification ou à autorisation doivent être notifiées ou autorisées conformément aux art. 9 à 11 même si elles ont déjà été notifiées par un autre notifiant ou autorisées à être mises sur le marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_13"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Notifications et autorisations subséquentes",
+        "citation": "Art. 13 al. 2 LChim",
+        "content": "Le Conseil fédéral fixe une procédure spéciale pour les notifications et autorisations subséquentes et détermine, en tenant compte des intérêts du premier notifiant, notamment les conditions auxquelles:\na. les notifiants suivants peuvent se référer aux dossiers de notification déjà présentés;\nb. le premier notifiant est tenu d’accepter que son dossier de notification soit utilisé pour garantir la protection des animaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_13"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Utilisation des dossiers ",
+        "citation": "Art. 14 LChim",
+        "content": "Sous réserve de l’art. 13, al. 2, les services fédéraux participant à la procédure de notification ou d’autorisation de mise sur le marché ne peuvent utiliser les informations et les pièces soumises par un notifiant dans l’intérêt d’un autre notifiant qu’avec le consentement du premier. Le Conseil fédéral fixe la durée de la protection et les dérogations, en tenant compte de la confidentialité des informations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_14"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Réexamen des substances existantes",
+        "citation": "Art. 15 al. 1 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions sur la vérification et l’évaluation de certaines substances existantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_15"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Réexamen des substances existantes",
+        "citation": "Art. 15 al. 2 LChim",
+        "content": "L’organe de réception des notifications peut exiger du fabricant qu’il procède à des vérifications et à des études complémentaires et qu’il lui soumette des documents concernant les substances existantes:\na. qui peuvent présenter un risque particulier pour la vie et la santé du fait des quantités fabriquées ou mises sur le marché ou de leur dangerosité;\nb. qui sont réexaminées dans le cadre de travaux et de programmes internationaux d’évaluation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_15"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Estimation des risques",
+        "citation": "Art. 16 al. 1 LChim",
+        "content": "L’organe de réception des notifications effectue une estimation des risques, en collaboration avec les organes d’évaluation, afin de déterminer les dangers que présentent les substances ou les préparations. A cet effet, ces organes peuvent exiger du notifiant qu’il fournisse des informations supplémentaires et procède au besoin à des études complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Estimation des risques",
+        "citation": "Art. 16 al. 2 LChim",
+        "content": "Doivent être soumises à une estimation des risques:\na. les nouvelles substances (art. 9);\nb. les substances et les préparations soumises à une autorisation de mise sur le marché (art. 10 et 11);\nc. les substances existantes qui sont réexaminées en vertu de l’art. 15, al. 2, let. b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Estimation des risques",
+        "citation": "Art. 16 al. 3 LChim",
+        "content": "Se fondant sur l’estimation des risques, l’organe de réception des notifications peut recommander ou ordonner au notifiant, après l’avoir entendu, des mesures visant à réduire les risques liés à l’utilisation de la substance ou de la préparation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Estimation des risques",
+        "citation": "Art. 16 al. 4 LChim",
+        "content": "S’il n’existe pas de mesures propres à réduire les risques ou si les mesures existantes ne permettent pas de les réduire suffisamment, les organes compétents entament la procédure nécessaire afin d’adapter les dispositions légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Estimation des risques",
+        "citation": "Art. 16 al. 5 LChim",
+        "content": "L’estimation des risques est revue et, le cas échéant, corrigée lorsque de nouvelles connaissances sont disponibles. Pour les produits biocides et les produits phytosanitaires, cette révision a lieu de surcroît périodiquement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_16"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 2, Notification et autorisation de mise sur le marché de substances et de préparations déterminées, Informations complémentaires",
+        "citation": "Art. 17 LChim",
+        "content": "Le notifiant est tenu d’informer sans délai l’organe de réception des notifications et, le cas échéant, de lui soumettre de nouveaux documents si de nouvelles connaissances ont été acquises sur une substance ou une préparation ou si des éléments déterminants tels que les propriétés, la destination ou les quantités fabriquées ou mises sur le marché se sont modifiés de façon notable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_17"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Communications concernant les substances et les préparations",
+        "citation": "Art. 18 al. 1 LChim",
+        "content": "En ce qui concerne les substances et les préparations dangereuses mises sur le marché qui ne sont pas soumises à la procédure de notification ou d’autorisation, le fabricant doit communiquer à l’organe de réception des notifications:\na. son nom et son adresse;\nb. les informations essentielles relatives à l’identité du produit;\nc. la classification et l’étiquetage;\nd. les substances déterminantes pour la classification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Communications concernant les substances et les préparations",
+        "citation": "Art. 18 al. 2 LChim",
+        "content": "Le Conseil fédéral peut exempter, en tout ou en partie, les fabricants de certaines substances et préparations de l’obligation de communiquer, notamment:\na. si, eu égard aux propriétés de ces substances ou préparations ou à l’utilisation qui en est prévue, il n’est pas nécessaire de fournir des informations pour en estimer les risques et les prévenir;\nb. si ces substances ou préparations sont destinées à être remises exclusivement à des personnes qui les utilisent à titre professionnel ou commercial;\nc. si elles sont remises en faibles quantités à un cercle limité d’utilisateurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Communications concernant les substances et les préparations",
+        "citation": "Art. 18 al. 3 LChim",
+        "content": "Le Conseil fédéral peut, lorsque des informations sont importantes pour déterminer les risques et les mesures de prévention à prendre:\na. prescrire, pour certaines substances et préparations, l’obligation de communiquer des informations supplémentaires, notamment sur leur composition;\nb. étendre l’obligation de communiquer aux préparations inoffensives qui contiennent des substances dangereuses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_18"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Dispositions applicables aux substances et préparations",
+        "citation": "Art. 19 al. 1 LChim",
+        "content": "Le Conseil fédéral peut édicter des dispositions spéciales applicables:\na. à certaines substances et préparations qui peuvent mettre la vie ou la santé en danger;\nb. aux objets contenant des substances ou des préparations au sens de la let. a qui peuvent mettre la vie ou la santé en danger lorsque ces objets sont utilisés selon leur destination ou l’usage prévu.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_19"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Dispositions applicables aux substances et préparations",
+        "citation": "Art. 19 al. 2 LChim",
+        "content": "Il peut:\na. restreindre leur utilisation, notamment en ce qui concerne leur production, leur mise sur le marché et leur usage;\nb. prescrire des restrictions à la mise sur le marché de substances ou de préparations, notamment quant à leurs propriétés, leur forme et l’usage prévu;\nc. interdire toute utilisation si la vie et la santé ne peuvent pas être protégées d’une autre façon;\nd. subordonner les exportations à des conditions spéciales;\ne. prescrire la déclaration de certaines substances contenues dans des objets ou susceptibles de s’en dégager;\nf. prescrire que certains animaux venimeux ou plantes toxiques soient identifiés comme tels lorsqu’ils sont mis sur le marché;\ng. régler la classification et l’étiquetage de certaines substances dangereuses et fixer les concentrations limites déterminant la classification et l’étiquetage des préparations qui contiennent de telles substances.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_19"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Publicité",
+        "citation": "Art. 20 al. 1 LChim",
+        "content": "La publicité pour des substances et des préparations dangereuses et pour des préparations qui contiennent des substances dangereuses ainsi que leur présentation à la vente ne doivent pas induire en erreur ni inciter à une utilisation inappropriée. Toute information trompeuse sur l’efficacité des produits biocides est interdite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_20"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Publicité",
+        "citation": "Art. 20 al. 2 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions sur la manière de signaler les dangers de ces substances et préparations dans la publicité et la présentation à la vente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_20"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Entreposage, stockage",
+        "citation": "Art. 21 LChim",
+        "content": "Les substances et les préparations dangereuses doivent être entreposées et stockées de manière sûre en fonction de leur dangerosité. Elles doivent notamment:\na. être protégées contre les atteintes extérieures dangereuses;\nb. être inaccessibles aux personnes non autorisées;\nc. être entreposées ou stockées de manière à empêcher toute confusion, notamment avec des denrées alimentaires, et tout usage inapproprié.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_21"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Obligation de reprendre et de rapporter",
+        "citation": "Art. 22 al. 1 LChim",
+        "content": "L’établissement de vente est tenu de reprendre des utilisateurs non professionnels, en vue de leur élimination correcte, les substances et les préparations dangereuses. Les petites quantités sont reprises gratuitement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_22"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Obligation de reprendre et de rapporter",
+        "citation": "Art. 22 al. 2 LChim",
+        "content": "Le Conseil fédéral peut obliger les détenteurs de substances ou de préparations particulièrement dangereuses qui entendent s’en débarrasser à les rapporter à l’établissement de vente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_22"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Vol, perte, mise sur le marché par erreur",
+        "citation": "Art. 23 LChim",
+        "content": "Le Conseil fédéral édicte des dispositions réglant la procédure à suivre en cas de vol, de perte ou de mise sur le marché par erreur de substances ou de préparations dangereuses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_23"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Dispositions applicables aux utilisateurs",
+        "citation": "Art. 24 al. 1 LChim",
+        "content": "Le Conseil fédéral fixe les exigences personnelles et professionnelles requises pour l’utilisation des substances et des préparations qui ont des propriétés particulièrement dangereuses, se caractérisent par des facteurs de dangerosité déterminés ou présentent des risques particuliers. Si la protection de la vie et de la santé l’exige, il prescrit l’obligation d’obtenir une autorisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_24"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Dispositions applicables aux utilisateurs",
+        "citation": "Art. 24 al. 2 LChim",
+        "content": "Il règle l’acquisition des connaissances techniques nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_24"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Mesures dans les entreprises et les établissements d’enseignement",
+        "citation": "Art. 25 al. 1 LChim",
+        "content": "Quiconque utilise des substances ou des préparations à titre professionnel ou commercial est tenu de prendre toutes mesures utiles à la protection de la vie et de la santé du personnel et dont la nécessité a été démontrée par l’expérience, que l’état de la technique permet d’appliquer et qui sont adaptées aux conditions de l’entreprise. Sous réserve des art. 42 et 45, l’exécution de la présente disposition est régie par la loi du 13 mars 1964 sur le travail et par la loi du 20 mars 1981 sur l’assurance-accidents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_25"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Mesures dans les entreprises et les établissements d’enseignement",
+        "citation": "Art. 25 al. 2 LChim",
+        "content": "Les entreprises et les établissements d’enseignement dans lesquels des substances ou des préparations dangereuses sont utilisées, à titre professionnel ou commercial, doivent désigner une personne qui réponde d’une utilisation réglementaire et soit capable de fournir aux autorités d’exécution tous les renseignements nécessaires (art. 42, al. 2). Cette personne doit posséder les qualifications nécessaires tant sur le plan technique qu’en matière d’exploitation. Son nom doit être communiqué à l’autorité cantonale compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_25"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Réduction des risques liés à l’utilisation de produits biocides",
+        "citation": "Art. 25a al. 1 LChim",
+        "content": "Les risques pour l’être humain, les animaux et l’environnement liés à l’utilisation de produits biocides doivent être réduits et la qualité de l’eau potable, des eaux de surface et des eaux souterraines doit être améliorée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_25_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 3, Dispositions spéciales régissant l’utilisation des substances et des préparations, Réduction des risques liés à l’utilisation de produits biocides",
+        "citation": "Art. 25a al. 2 LChim",
+        "content": "Le Conseil fédéral définit jusqu’en 2023:\na. les domaines à risque;\nb. les objectifs de réduction des risques non acceptables dans ces domaines à risque;\nc. la méthode selon laquelle la réalisation des objectifs est calculée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_25_a"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Documentation",
+        "citation": "Art. 26 al. 1 LChim",
+        "content": "L’organe de réception des notifications veille à établir une documentation complète sur les substances et les préparations. A cet effet, il tient un registre des produits.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_26"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Documentation",
+        "citation": "Art. 26 al. 2 LChim",
+        "content": "Les organes d’évaluation se procurent la documentation nécessaire à l’exécution de leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_26"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Registre des produits",
+        "citation": "Art. 27 al. 1 LChim",
+        "content": "Le registre des produits contient des informations sur les substances et les préparations notamment:\na. les informations collectées ou traitées par l’organe de réception des notifications et par les organes d’évaluation dans le cadre des procédures de notification ou d’autorisation de mise sur le marché décrites au chapitre 2;\nb. les informations communiquées par le fabricant en vertu de l’art. 18.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_27"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Registre des produits",
+        "citation": "Art. 27 al. 2 LChim",
+        "content": "Le Conseil fédéral règle le traitement des données contenues dans le registre des produits, notamment leur utilisation et leur transmission, en tenant compte des intérêts des fabricants; il détermine les données qui peuvent être transmises aux autorités qui exécutent les dispositions d’autres actes législatifs relatives aux substances ou aux préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_27"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Information",
+        "citation": "Art. 28 al. 1 LChim",
+        "content": "La Confédération informe le public et les autorités des risques et des dangers liés à l’utilisation des substances et des préparations et recommande les mesures à prendre pour réduire les risques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Information",
+        "citation": "Art. 28 al. 2 LChim",
+        "content": "Elle publie des directives techniques et les listes de substances et de préparations nécessaires à l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Information",
+        "citation": "Art. 28 al. 3 LChim",
+        "content": "Les cantons informent le public et les autorités dans leur domaine de compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_28"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Information sur l’air ambiant à l’intérieur des locaux",
+        "citation": "Art. 29 LChim",
+        "content": "La Confédération informe des dangers inhérents aux polluants à l’intérieur des locaux. Elle peut notamment émettre des recommandations en vue de limiter ou d’empêcher les expositions dangereuses pour la santé et d’améliorer la qualité de l’air ambiant à l’intérieur des locaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_29"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Centre d’information toxicologique",
+        "citation": "Art. 30 al. 1 LChim",
+        "content": "Le Conseil fédéral désigne un centre d’information toxicologique et pourvoit à l’indemnisation des tâches qui lui sont confiées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Centre d’information toxicologique",
+        "citation": "Art. 30 al. 2 LChim",
+        "content": "Le centre d’information toxicologique fournit des renseignements sur la prévention et le traitement des intoxications et recommande les mesures à prendre; à cet effet, il collecte et traite les informations nécessaires, y compris celles sur les cas d’intoxication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Centre d’information toxicologique",
+        "citation": "Art. 30 al. 3 LChim",
+        "content": "Il a un accès illimité aux données contenues dans le registre des produits (art. 27) et il est habilité à exiger du fabricant des substances et préparations les autres informations nécessaires à l’accomplissement de sa tâche.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 4, Documentation et information, Centre d’information toxicologique",
+        "citation": "Art. 30 al. 4 LChim",
+        "content": "Le Conseil fédéral prend toutes mesures nécessaires au traitement confidentiel des données fournies en vertu de l’al. 3 et à la sauvegarde des secrets commerciaux et de fabrication. Il détermine notamment à quelles conditions et dans quelle mesure le centre d’information peut, à des fins préventives ou thérapeutiques, fournir des informations sur la composition et les propriétés de substances et de préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_30"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 1, Cantons, Exécution",
+        "citation": "Art. 31 al. 1 LChim",
+        "content": "Les cantons sont chargés de l’exécution de la présente loi pour autant qu’elle n’incombe pas à la Confédération. Ils veillent à ce que les organes d’exécution coordonnent leur activité avec les organes responsables de la protection des travailleurs et de la protection de l’environnement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_31"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 1, Cantons, Exécution",
+        "citation": "Art. 31 al. 2 LChim",
+        "content": "Ils exécutent les décisions prises par les autorités fédérales lorsque celles-ci leur en donnent le mandat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_31"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 1, Cantons, Dispositions cantonales",
+        "citation": "Art. 32 LChim",
+        "content": "Les cantons édictent les dispositions sur l’organisation de l’exécution et les communiquent à la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_32"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Surveillance",
+        "citation": "Art. 33 al. 1 LChim",
+        "content": "La Confédération surveille l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_33"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Surveillance",
+        "citation": "Art. 33 al. 2 LChim",
+        "content": "Elle coordonne les mesures d’exécution des cantons lorsqu’une exécution uniforme est nécessaire. A cette fin, elle peut notamment:\na. obliger les cantons à l’informer des mesures d’exécution qu’ils ont prises;\nb. prescrire aux cantons des mesures visant à unifier l’exécution;\nc. ordonner aux cantons de prendre des mesures d’exécution spéciales lors de circonstances extraordinaires;\nd. promouvoir la formation et la formation continue des autorités d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_33"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Mise en œuvre",
+        "citation": "Art. 34 al. 1 LChim",
+        "content": "La Confédération met en œuvre:\na. l’art. 5, al. 1, let. a (évaluation et classification des substances et des préparations) et les dispositions fondées sur l’art. 5, al. 2, let. a;\nb. l’art. 7 (devoir d’information du fabricant);\nc. les art. 9 à 17 (notification et autorisation de mise sur le marché de certaines substances et préparations);\nd. l’art. 18 (communication concernant les substances et les préparations);\ne. l’art. 19, al. 2, let. d (exportation);\nf. les art. 26 à 30 (documentation et information), à l’exception de l’art. 28, al. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Mise en œuvre",
+        "citation": "Art. 34 al. 2 LChim",
+        "content": "Elle peut déléguer aux cantons l’exécution de certaines parties des tâches visées à l’al. 1 ou les appeler à coopérer à l’exécution de certaines d’entre elles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Mise en œuvre",
+        "citation": "Art. 34 al. 3 LChim",
+        "content": "L’exécution de la présente loi incombe à la Confédération lorsque sont visés:\na. des installations, des activités, des substances ou des préparations servant à la défense nationale;\nb. l’importation, le transit et l’exportation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_34"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coordination",
+        "citation": "Art. 35 al. 1 LChim",
+        "content": "Le Conseil fédéral désigne les organes d’évaluation appelés à participer aux procédures et aux vérifications décrites au chapitre 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coordination",
+        "citation": "Art. 35 al. 2 LChim",
+        "content": "Il désigne un service commun de réception des notifications lorsqu’en vertu de plusieurs actes législatifs, des substances ou des préparations doivent être notifiées à plusieurs services fédéraux ou autorisées par plusieurs de ces services.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coordination",
+        "citation": "Art. 35 al. 3 LChim",
+        "content": "Il règle la collaboration entre les services fédéraux concernés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_35"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Délégation de tâches d’exécution",
+        "citation": "Art. 36 LChim",
+        "content": "Le Conseil fédéral peut confier certaines tâches d’exécution à des personnes ou à des organisations de droit public ou de droit privé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_36"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Bases scientifiques et recherches",
+        "citation": "Art. 37 al. 1 LChim",
+        "content": "La Confédération met à disposition les bases scientifiques nécessaires à l’application de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Bases scientifiques et recherches",
+        "citation": "Art. 37 al. 2 LChim",
+        "content": "Elle peut effectuer elle-même des recherches ou les réaliser avec la collaboration des cantons, d’institutions spécialisées ou d’experts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Bases scientifiques et recherches",
+        "citation": "Art. 37 al. 3 LChim",
+        "content": "Elle peut, dans le cadre de la coopération internationale, financer en tout ou en partie des recherches sur des substances ou des préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Bases scientifiques et recherches",
+        "citation": "Art. 37 al. 4 LChim",
+        "content": "Elle encourage l’enseignement et la recherche scientifique sur les propriétés dangereuses des substances et préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_37"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Dispositions d’exécution",
+        "citation": "Art. 38 LChim",
+        "content": "Le Conseil fédéral édicte les dispositions d’exécution. Il les réunit dans la mesure du possible avec les dispositions d’exécution des autres actes législatifs qui contiennent des dispositions relatives à des substances et à des préparations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_38"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Reprise de dispositions et de normes internationales harmonisées",
+        "citation": "Art. 39 al. 1 LChim",
+        "content": "Lorsqu’il édicte des dispositions, le Conseil fédéral tient compte des directives et des recommandations reconnues au niveau international ainsi que des dispositions et des normes techniques harmonisées sur le plan international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Reprise de dispositions et de normes internationales harmonisées",
+        "citation": "Art. 39 al. 2 LChim",
+        "content": "Il peut, dans les limites de la présente loi, déclarer applicables des dispositions et des normes techniques harmonisées sur le plan international. Il peut habiliter l’office compétent à déclarer applicables des modifications mineures d’ordre technique apportées à ces dispositions et à ces normes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Reprise de dispositions et de normes internationales harmonisées",
+        "citation": "Art. 39 al. 3 LChim",
+        "content": "Il peut, exceptionnellement, fixer un mode de publication particulier des dispositions et des normes déclarées applicables et décider de renoncer à une traduction dans les langues officielles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_39"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coopération internationale",
+        "citation": "Art. 40 al. 1 LChim",
+        "content": "Le Conseil fédéral peut, en complément de l’art. 18 de la loi du 6 octobre 1995 sur les entraves techniques au commerce (LETC), prévoir notamment la reconnaissance d’essais, d’inspections et d’évaluations effectués à l’étranger ou de rapports et de certificats établis à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coopération internationale",
+        "citation": "Art. 40 al. 2 LChim",
+        "content": "Il peut, dans les limites des attributions que lui confère la présente loi, conclure des accords internationaux allant au-delà de ceux prévus à l’art. 14, al. 1, LETC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Coopération internationale",
+        "citation": "Art. 40 al. 3 LChim",
+        "content": "Les services fédéraux coopèrent avec les autorités et les institutions étrangères et avec les organisations internationales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_40"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 2, Confédération, Clause de sauvegarde",
+        "citation": "Art. 41 LChim",
+        "content": "Si l’organe de réception des notifications a des raisons valables de supposer qu’une substance ou une préparation, bien que conforme à la présente loi, présente un danger pour la santé du fait que sa classification, son emballage ou son étiquetage ne sont plus appropriés, il peut provisoirement, après avoir entendu le fabricant, la ranger dans une autre classe, interdire sa mise sur le marché ou la soumettre à des conditions spéciales. Dans de tels cas, la procédure de révision des dispositions concernées sera immédiatement engagée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_41"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Compétences des autorités d’exécution",
+        "citation": "Art. 42 al. 1 LChim",
+        "content": "Les autorités d’exécution sont habilitées, aux fins de veiller au respect des dispositions de la présente loi, à contrôler des substances, des préparations et des objets au sens de l’art. 19, al. 1, let. b, ainsi que leur utilisation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Compétences des autorités d’exécution",
+        "citation": "Art. 42 al. 2 LChim",
+        "content": "Les autorités d’exécution peuvent, à cet effet, exiger de toute personne qui utilise ces substances et préparations, qu’à titre gratuit:\na. elle fournisse les renseignements nécessaires;\nb. elle procède à des investigations ou les tolère;\nc. elle autorise l’accès aux locaux d’exploitation et de stockage;\nd. elle autorise le prélèvement d’échantillons ou en remette sur demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Compétences des autorités d’exécution",
+        "citation": "Art. 42 al. 3 LChim",
+        "content": "Les autorités d’exécution sont autorisées à prendre, aux frais du responsable, toutes les mesures propres à éliminer une situation illégale en rapport avec ces substances, préparations ou objets. Elles peuvent notamment:\na. interdire l’utilisation ultérieure de ces substances et préparations;\nb. ordonner leur retrait ou leur rappel;\nc. ordonner leur neutralisation ou leur destruction;\nd. décréter leur confiscation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_42"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Obligation de garder le secret",
+        "citation": "Art. 43 LChim",
+        "content": "Quiconque exécute des tâches en vertu de la présente loi est soumis à l’obligation de garder le secret.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_43"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Confidentialité des données",
+        "citation": "Art. 44 al. 1 LChim",
+        "content": "Toute donnée dont la divulgation risque de porter atteinte à un intérêt digne de protection doit être traitée de manière confidentielle. Est notamment considéré comme digne de protection l’intérêt du fabricant à la sauvegarde de ses secrets commerciaux et de fabrication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_44"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Confidentialité des données",
+        "citation": "Art. 44 al. 2 LChim",
+        "content": "Le Conseil fédéral détermine les données pour lesquelles la sauvegarde du secret ne peut être invoquée comme un intérêt digne de protection.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_44"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données entre autorités d’exécution",
+        "citation": "Art. 45 al. 1 LChim",
+        "content": "Lorsque plusieurs services fédéraux participent à l’exécution, ils veillent à échanger les données nécessaires à l’accomplissement de leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données entre autorités d’exécution",
+        "citation": "Art. 45 al. 2 LChim",
+        "content": "Le Conseil fédéral peut prévoir l’échange de données avec d’autres autorités ou avec des personnes ou des organisations de droit public ou de droit privé si cela est nécessaire pour l’exécution de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données entre autorités d’exécution",
+        "citation": "Art. 45 al. 3 LChim",
+        "content": "Les services fédéraux transmettent aux autorités cantonales d’exécution compétentes les données nécessaires à l’accomplissement de leurs tâches d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données entre autorités d’exécution",
+        "citation": "Art. 45 al. 4 LChim",
+        "content": "Les autorités cantonales d’exécution transmettent aux services fédéraux compétents les données qu’elles ont rassemblées en vertu de la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données entre autorités d’exécution",
+        "citation": "Art. 45 al. 5 LChim",
+        "content": "Des systèmes automatisés d’appel de données peuvent être mis en place pour l’échange des données. Dans ce cas le Conseil fédéral détermine, en tenant compte des intérêts dignes de protection des personnes concernées, les données qui peuvent être appelées, qui peut les appeler et à quelle fin.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_45"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données avec l’étranger et avec des organisations internationales",
+        "citation": "Art. 46 al. 1 LChim",
+        "content": "Le Conseil fédéral règle les compétences et les procédures régissant les échanges de données avec des autorités ou institutions étrangères et avec des organisations internationales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_46"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Échange de données avec l’étranger et avec des organisations internationales",
+        "citation": "Art. 46 al. 2 LChim",
+        "content": "Des données confidentielles ne peuvent être transmises à des autorités et à des institutions étrangères ou à des organisations internationales que si:\na. des accords internationaux ou des décisions d’organisations internationales l’exigent ou que\nb. cette mesure est absolument indispensable pour parer à un danger immédiat pour la vie et la santé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_46"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 5, Exécution, Section 3, Dispositions d’exécution spéciales, Émoluments",
+        "citation": "Art. 47 LChim",
+        "content": "Le Conseil fédéral fixe les émoluments perçus par les autorités fédérales pour l’exécution de la présente loi. Il peut prévoir des dérogations à l’obligation d’acquitter des émoluments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_47"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Crimes et délits",
+        "citation": "Art. 49 al. 1 LChim",
+        "content": "Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire le fabricant qui, intentionnellement:\na. met sur le marché des substances ou des préparations destinées à un usage dont il sait ou doit savoir qu’il met directement en danger la vie ou la santé (art. 5, al. 1);\nb. classe, emballe ou étiquette incorrectement des substances ou des préparations (art. 5, al. 1), ou n’établit pas de fiche technique de sécurité ou y inscrit de fausses indications ou des indications incomplètes (art. 7);\nc. met des substances ou des préparations sur le marché:\n1. sans les notifier (art. 6 et 13, al. 1),\n2. avant que la notification soit acceptée ou que le délai fixé soit écoulé (art. 9, al. 2), \n3. avant que l’autorisation ait été délivrée (art. 6 et 13, al. 1);\nd. dissimule au service compétent des informations sur des substances ou des préparations ou lui fournit des informations inexactes (art. 9, al. 3, 10, al. 4, 11, al. 2, 15, al. 2, 16, al. 1, 17, 30, al. 3, et 42, al. 2);\ne. enfreint des dispositions relatives aux substances et préparations (art. 19, al. 2, let. a à c, e et g);\nf. contrevient à des mesures ordonnées en application de la clause de sauvegarde (art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Crimes et délits",
+        "citation": "Art. 49 al. 3 LChim",
+        "content": "Est passible d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire quiconque, intentionnellement:\na. met sur le marché des substances ou des préparations dangereuses sans informer l’acquéreur, conformément aux dispositions y relatives, de leurs propriétés et des mesures de précaution et de protection à prendre ou sans lui remettre la fiche technique de sécurité (art. 7);\nb. enfreint son devoir de diligence lors de l’utilisation de substances ou de préparations dangereuses et met ainsi sciemment en danger la vie ou la santé d’autres personnes (art. 8, 21, 23 et 25, al. 1);\nc. ne se conforme pas à l’obligation de déposer une demande préalable (art. 12);\nd. enfreint les dispositions régissant les substances et préparations (art. 19, al. 2, let. a et c);\ne. enfreint les dispositions régissant l’exportation (art. 19, al. 2, let. d);\nf. utilise sans autorisation des substances ou des préparations dangereuses (art. 24, al. 1);\ng. remet des substances ou des préparations dangereuses à des personnes non autorisées (art. 19, al. 2, let. a, et 24, al. 1);\nh. enfreint l’obligation de garder le secret (art. 30, al. 4, 43 et 44);\ni. contrevient à des mesures ordonnées en application de la clause de sauvegarde (art. 41).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Crimes et délits",
+        "citation": "Art. 49 al. 4 LChim",
+        "content": "L’auteur est passible d’une peine privative de liberté de dix ans au plus ou d’une peine pécuniaire s’il met des personnes gravement en danger en commettant une des infractions prévues à l’al. 1 ou 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Crimes et délits",
+        "citation": "Art. 49 al. 5 LChim",
+        "content": "Il est puni d’une peine pécuniaire s’il agit par négligence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_49"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Contraventions",
+        "citation": "Art. 50 al. 1 LChim",
+        "content": "Est passible d’une amende de 20 000 francs au plus quiconque, intentionnellement:\na. enfreint les dispositions relatives au contrôle autonome (art. 5);\nb. enfreint son devoir de diligence lors de l’utilisation de substances ou de préparations (art. 8, 21, 23 et 25, al. 1);\nc. omet de faire les communications sur les substances et les préparations ou fournit des données inexactes (art. 18);\nd. enfreint l’obligation d’identifier comme tels les animaux venimeux ou plantes toxiques (art. 19, al. 2, let. f);\ne enfreint les dispositions relatives à la publicité (art. 20);\nf. refuse de reprendre des substances ou des préparations dangereuses (art. 22, al. 1);\ng. enfreint l’obligation de renseigner les autorités cantonales d’exécution (art. 25, al. 2);\nh. enfreint l’obligation de renseigner les autorités d’exécution ou leur fournit des indications inexactes (art. 42, al. 2);\ni. contrevient à une décision à lui signifiée sous menace de la peine prévue au présent article.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Contraventions",
+        "citation": "Art. 50 al. 2 LChim",
+        "content": "Si l’auteur agit par négligence, la peine est l’amende.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Contraventions",
+        "citation": "Art. 50 al. 3 LChim",
+        "content": "S’agissant d’un acte qui n’est pas punissable en vertu de l’al. 1 ou de l’art. 49, le Conseil fédéral peut réprimer les infractions aux dispositions d’exécution:\na. par une amende de 20 000 francs au plus si l’auteur agit intentionnellement;\nb. par une amende si l’auteur agit par négligence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Contraventions",
+        "citation": "Art. 50 al. 4 LChim",
+        "content": "La tentative et la complicité sont punissables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_50"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Infractions commises dans les entreprises",
+        "citation": "Art. 51 LChim",
+        "content": "Les art. 6 et 7 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif s’appliquent aux infractions à la présente loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_51"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Poursuite et dénonciation",
+        "citation": "Art. 52 al. 1 LChim",
+        "content": "La poursuite et le jugement des actes punissables incombent aux cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_52"
+    },
+    {
+        "book": "ChemG",
+        "title": "LChim, Chapitre 7, Dispositions pénales, Poursuite et dénonciation",
+        "citation": "Art. 52 al. 2 LChim",
+        "content": "Si des soupçons fondés font présumer qu’un acte punissable a été commis dans le domaine d’exécution de la Confédération, l’office compétent le dénonce à l’autorité cantonale. Dans les cas de très peu de gravité, il peut y renoncer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2004/724/fr#art_52"
+    }
+]

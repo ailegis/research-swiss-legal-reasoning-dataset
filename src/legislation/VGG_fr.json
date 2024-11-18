@@ -1,0 +1,772 @@
+[
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Principe",
+        "citation": "Art. 1 al. 1 LTAF",
+        "content": "Le Tribunal administratif fédéral est le tribunal administratif ordinaire de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_1"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Principe",
+        "citation": "Art. 1 al. 2 LTAF",
+        "content": "Il statue comme autorité précédant le Tribunal fédéral, pour autant que la loi n’exclue pas le recours à celui-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_1"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Principe",
+        "citation": "Art. 1 al. 3 LTAF",
+        "content": "Il comprend 50 à 70 postes de juge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_1"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Principe",
+        "citation": "Art. 1 al. 4 LTAF",
+        "content": "L’Assemblée fédérale détermine dans une ordonnance le nombre de postes de juge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_1"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Principe",
+        "citation": "Art. 1 al. 5 LTAF",
+        "content": "Elle peut autoriser, pour une période de deux ans au plus, des postes de juge supplémentaires si le Tribunal administratif fédéral est confronté à un surcroît de travail que ses moyens ne lui permettent plus de maîtriser.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_1"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Indépendance",
+        "citation": "Art. 2 LTAF",
+        "content": "Dans l’exercice de ses attributions judiciaires, le Tribunal administratif fédéral est indépendant et n’est soumis qu’à la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_2"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Surveillance",
+        "citation": "Art. 3 al. 1 LTAF",
+        "content": "Le Tribunal fédéral exerce la surveillance administrative sur la gestion du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_3"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Surveillance",
+        "citation": "Art. 3 al. 2 LTAF",
+        "content": "L’Assemblée fédérale exerce la haute surveillance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_3"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Surveillance",
+        "citation": "Art. 3 al. 3 LTAF",
+        "content": "Le Tribunal administratif fédéral soumet chaque année au Tribunal fédéral son projet de budget, ses comptes et son rapport de gestion à l’intention de l’Assemblée fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_3"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Siège",
+        "citation": "Art. 4 al. 1 LTAF",
+        "content": "Le siège du Tribunal administratif fédéral est à Saint-Gall.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_4"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Siège",
+        "citation": "Art. 4 al. 2 LTAF",
+        "content": "Jusqu’à ce qu’il prenne possession du bâtiment qui lui est destiné à Saint-Gall, le Tribunal administratif fédéral exerce ses activités dans la région de Berne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_4"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 1, Statut, Siège",
+        "citation": "Art. 4 al. 3 LTAF",
+        "content": "Le Conseil fédéral est habilité à conclure avec le canton de Saint-Gall une convention relative à sa participation financière aux frais d’instauration du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_4"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Élection",
+        "citation": "Art. 5 al. 1 LTAF",
+        "content": "L’Assemblée fédérale élit les juges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_5"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Élection",
+        "citation": "Art. 5 al. 2 LTAF",
+        "content": "Quiconque a le droit de vote en matière fédérale est éligible.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_5"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la fonction",
+        "citation": "Art. 6 al. 1 LTAF",
+        "content": "Les juges ne peuvent être membres de l’Assemblée fédérale ou du Conseil fédéral ou juges au Tribunal fédéral ni exercer aucune autre fonction au service de la Confédération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_6"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la fonction",
+        "citation": "Art. 6 al. 2 LTAF",
+        "content": "Ils ne peuvent exercer aucune activité susceptible de nuire à l’exercice de leur fonction de juge, à l’indépendance du tribunal ou à sa réputation, ni représenter des tiers à titre professionnel devant les tribunaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_6"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la fonction",
+        "citation": "Art. 6 al. 3 LTAF",
+        "content": "Ils ne peuvent exercer aucune fonction officielle pour un État étranger ni accepter des titres ou des décorations octroyés par des autorités étrangères.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_6"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la fonction",
+        "citation": "Art. 6 al. 4 LTAF",
+        "content": "Les juges à plein temps ne peuvent exercer aucune fonction au service d’un canton ni exercer aucune autre activité lucrative. Ils ne peuvent pas non plus être membres de la direction, de l’administration, de l’organe de surveillance ou de l’organe de révision d’une entreprise commerciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_6"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Autres activités",
+        "citation": "Art. 7 LTAF",
+        "content": "Les juges doivent obtenir l’autorisation du Tribunal administratif fédéral pour exercer une activité à l’extérieur du tribunal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_7"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la personne",
+        "citation": "Art. 8 al. 1 LTAF",
+        "content": "Ne peuvent être en même temps juges au Tribunal administratif fédéral:\na. les conjoints, les partenaires enregistrés et les personnes qui font durablement ménage commun;\nb. les conjoints et les partenaires enregistrés de frères et sœurs ainsi que les personnes qui font durablement ménage commun avec un frère ou une sœur;\nc. les parents en ligne directe et, jusqu’au troisième degré inclus, en ligne collatérale;\nd. les alliés en ligne directe et, jusqu’au troisième degré inclus, en ligne collatérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_8"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Incompatibilité à raison de la personne",
+        "citation": "Art. 8 al. 2 LTAF",
+        "content": "La réglementation prévue à l’al. 1, let. d, s’applique par analogie aux personnes qui font durablement ménage commun.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_8"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Période de fonction",
+        "citation": "Art. 9 al. 1 LTAF",
+        "content": "La période de fonction des juges est de six ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_9"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Période de fonction",
+        "citation": "Art. 9 al. 2 LTAF",
+        "content": "Lorsqu’un juge atteint l’âge de 68 ans, sa période de fonction s’achève à la fin de l’année civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_9"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Période de fonction",
+        "citation": "Art. 9 al. 3 LTAF",
+        "content": "Les sièges vacants sont repourvus pour le reste de la période.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_9"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Révocation",
+        "citation": "Art. 10 LTAF",
+        "content": "L’Assemblée fédérale peut révoquer un juge avant la fin de sa période de fonction:\na. s’il a violé gravement ses devoirs de fonction de manière intentionnelle ou par négligence grave;\nb. s’il a durablement perdu la capacité d’exercer sa fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_10"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Serment",
+        "citation": "Art. 11 al. 1 LTAF",
+        "content": "Avant leur entrée en fonction, les juges s’engagent à remplir consciencieusement leurs devoirs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_11"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Serment",
+        "citation": "Art. 11 al. 2 LTAF",
+        "content": "Ils prêtent serment devant leur cour, sous la présidence du président du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_11"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Serment",
+        "citation": "Art. 11 al. 3 LTAF",
+        "content": "Le serment peut être remplacé par une promesse solennelle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_11"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Statut juridique",
+        "citation": "Art. 13 al. 1 LTAF",
+        "content": "Les juges peuvent exercer leur fonction à plein temps ou à temps partiel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_13"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Statut juridique",
+        "citation": "Art. 13 al. 2 LTAF",
+        "content": "Le Tribunal administratif fédéral peut, pour de justes motifs, autoriser un juge à modifier son taux d’occupation pendant sa période de fonction, pour autant que le total des postes reste inchangé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_13"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 2, Juges, Statut juridique",
+        "citation": "Art. 13 al. 3 LTAF",
+        "content": "L’Assemblée fédérale règle par ordonnance les rapports de travail et le traitement des juges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_13"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Principe",
+        "citation": "Art. 14 LTAF",
+        "content": "Le Tribunal administratif fédéral règle son organisation et son administration.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_14"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence",
+        "citation": "Art. 15 al. 1 LTAF",
+        "content": "L’Assemblée fédérale élit parmi les juges:\na. le président;\nb. le vice-président.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_15"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence",
+        "citation": "Art. 15 al. 2 LTAF",
+        "content": "Ils sont élus pour deux ans et peuvent être reconduits une fois dans leur fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_15"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence",
+        "citation": "Art. 15 al. 3 LTAF",
+        "content": "Le président préside la cour plénière et la Commission administrative (art. 18). Il représente le Tribunal administratif fédéral à l’extérieur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_15"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence",
+        "citation": "Art. 15 al. 4 LTAF",
+        "content": "En cas d’empêchement, il est remplacé par le vice-président et, si ce dernier est empêché, par le doyen de fonction et, à ancienneté égale, par le doyen d’âge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_15"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cour plénière",
+        "citation": "Art. 16 al. 1 LTAF",
+        "content": "La cour plénière est chargée:\na. d’édicter les règlements relatifs à l’organisation et à l’administration du tribunal, à la répartition des affaires, à l’information, aux émoluments judiciaires, aux dépens alloués aux parties et aux indemnités allouées aux mandataires d’office, aux experts et aux témoins;\nb. de procéder aux nominations que le règlement n’attribue pas à un autre organe du tribunal;\nc. de statuer sur les demandes de modification du taux d’occupation des juges pendant leur période de fonction;\nd. d’adopter le rapport de gestion;\ne. de constituer les cours et de nommer leur président sur proposition de la Commission administrative;\nf. de faire une proposition à l’Assemblée fédérale pour l’élection à la présidence et à la vice-présidence;\ng. de nommer le secrétaire général et son suppléant sur proposition de la Commission administrative;\nh. de statuer sur l’adhésion à des associations internationales;\ni. d’exercer les autres tâches que la loi lui attribue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_16"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cour plénière",
+        "citation": "Art. 16 al. 2 LTAF",
+        "content": "La cour plénière ne peut siéger ou décider par voie de circulation qu’avec la participation de deux tiers au moins des juges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_16"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cour plénière",
+        "citation": "Art. 16 al. 3 LTAF",
+        "content": "Les juges exerçant leur fonction à temps partiel disposent d’une voix.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_16"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Conférence des présidents",
+        "citation": "Art. 17 al. 1 LTAF",
+        "content": "La Conférence des présidents se compose des présidents des cours. Elle se constitue elle-même.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_17"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Conférence des présidents",
+        "citation": "Art. 17 al. 2 LTAF",
+        "content": "Elle est chargée:\na. d’édicter des directives et des règles uniformes pour la rédaction des arrêts;\nb. de coordonner la jurisprudence entre les cours; l’art. 25 est réservé;\nc. de prendre position sur les projets d’actes normatifs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_17"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Commission administrative",
+        "citation": "Art. 18 al. 1 LTAF",
+        "content": "La Commission administrative se compose:\na. du président;\nb. du vice-président;\nc. de trois autres juges au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_18"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Commission administrative",
+        "citation": "Art. 18 al. 2 LTAF",
+        "content": "Le secrétaire général a voix consultative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_18"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Commission administrative",
+        "citation": "Art. 18 al. 3 LTAF",
+        "content": "Les juges mentionnés à l’al. 1, let. c, sont élus pour deux ans par la cour plénière et peuvent être reconduits une fois dans leur fonction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_18"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Commission administrative",
+        "citation": "Art. 18 al. 4 LTAF",
+        "content": "La Commission administrative est responsable de l’administration du tribunal. Elle est chargée:\na. d’adopter le projet de budget et les comptes à l’intention de l’Assemblée fédérale;\nb. de prendre les décisions sur les rapports de travail des juges, pour autant que la loi n’attribue pas cette compétence à une autre autorité;\nc. d’engager les greffiers et de les affecter aux cours sur proposition de celles-ci;\nd. de veiller à ce que les prestations des services scientifiques et administratifs répondent aux besoins du tribunal;\ne. de garantir une formation continue adéquate du personnel;\nf. d’accorder les autorisations pour les activités des juges en dehors du tribunal;\ng. de traiter toutes les autres affaires administratives qui ne relèvent pas de la compétence de la cour plénière ou de la Conférence des présidents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_18"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cours",
+        "citation": "Art. 19 al. 1 LTAF",
+        "content": "Les cours sont constituées pour deux ans. Leur composition est rendue publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_19"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cours",
+        "citation": "Art. 19 al. 2 LTAF",
+        "content": "Lors de la constitution des cours, la cour plénière tient compte des compétences des juges et de la représentation des langues officielles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_19"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Cours",
+        "citation": "Art. 19 al. 3 LTAF",
+        "content": "Tout juge peut être appelé à siéger dans une autre cour.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_19"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence des cours",
+        "citation": "Art. 20 al. 1 LTAF",
+        "content": "Les présidents des cours sont nommés pour deux ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_20"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence des cours",
+        "citation": "Art. 20 al. 2 LTAF",
+        "content": "En cas d’empêchement, le président est remplacé par le doyen de fonction et, à ancienneté égale, par le doyen d’âge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_20"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Présidence des cours",
+        "citation": "Art. 20 al. 3 LTAF",
+        "content": "La fonction de président d’une cour ne peut être exercée plus de six ans.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_20"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Composition",
+        "citation": "Art. 21 al. 1 LTAF",
+        "content": "En règle générale, les cours statuent à trois juges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_21"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Composition",
+        "citation": "Art. 21 al. 2 LTAF",
+        "content": "Elles statuent à cinq juges si le président l’ordonne dans l’intérêt du développement du droit ou dans celui de l’uniformité de la jurisprudence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_21"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Vote",
+        "citation": "Art. 22 al. 1 LTAF",
+        "content": "La cour plénière, la Conférence des présidents, la Commission administrative et les cours rendent leurs arrêts, prennent leurs décisions et procèdent aux nominations à la majorité absolue des voix, à moins que la loi n’en dispose autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_22"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Vote",
+        "citation": "Art. 22 al. 2 LTAF",
+        "content": "En cas d’égalité des voix, celle du président est prépondérante; s’il s’agit d’une nomination, le sort en décide.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_22"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Vote",
+        "citation": "Art. 22 al. 3 LTAF",
+        "content": "L’abstention est exclue lors de décisions prises dans une procédure selon les art. 31 à 36 et 45 à 48.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_22"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Juge unique",
+        "citation": "Art. 23 al. 1 LTAF",
+        "content": "Le juge instructeur statue en tant que juge unique sur:\na. la radiation du rôle des causes devenues sans objet;\nb. le refus d’entrer en matière sur des recours manifestement irrecevables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_23"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Juge unique",
+        "citation": "Art. 23 al. 2 LTAF",
+        "content": "Les compétences particulières du juge unique fondées sur les dispositions suivantes sont réservées:\na. l’art. 111, al. 2, let. c, de la loi du 26 juin 1998 sur l’asile;\nb. les art. 29, 31 et 41 de la loi fédérale du 25 septembre 2015 sur le renseignement (LRens);\nc. les lois fédérales d’assurances sociales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_23"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Répartition des affaires",
+        "citation": "Art. 24 LTAF",
+        "content": "Le Tribunal administratif fédéral fixe dans un règlement la manière de répartir les affaires entre les cours en fonction de la matière et de composer les cours appelées à statuer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_24"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Changement de jurisprudence et précédents",
+        "citation": "Art. 25 al. 1 LTAF",
+        "content": "Une cour ne peut s’écarter de la jurisprudence arrêtée par une ou plusieurs autres cours qu’avec l’accord des cours intéressées réunies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_25"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Changement de jurisprudence et précédents",
+        "citation": "Art. 25 al. 2 LTAF",
+        "content": "Lorsqu’une cour entend trancher une question juridique qui concerne plusieurs cours, elle demande l’accord des cours intéressées réunies si elle est d’avis qu’une décision commune est souhaitable pour le développement du droit ou pour l’uniformité de la jurisprudence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_25"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Changement de jurisprudence et précédents",
+        "citation": "Art. 25 al. 3 LTAF",
+        "content": "Les cours réunies ne peuvent siéger ou décider par voie de circulation qu’avec la participation de deux tiers au moins des juges de chacune des cours intéressées. La décision est prise sans débats; elle lie la cour qui doit statuer sur la cause.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_25"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Greffiers",
+        "citation": "Art. 26 al. 1 LTAF",
+        "content": "Les greffiers participent à l’instruction et au jugement des affaires. Ils ont voix consultative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_26"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Greffiers",
+        "citation": "Art. 26 al. 2 LTAF",
+        "content": "Ils élaborent des rapports sous la responsabilité d’un juge et rédigent les arrêts du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_26"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Greffiers",
+        "citation": "Art. 26 al. 3 LTAF",
+        "content": "Ils remplissent les autres tâches que leur attribue le règlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_26"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Administration",
+        "citation": "Art. 27 al. 1 LTAF",
+        "content": "Le Tribunal administratif fédéral s’administre lui-même.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Administration",
+        "citation": "Art. 27 al. 2 LTAF",
+        "content": "Il constitue ses services et engage le personnel nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Administration",
+        "citation": "Art. 27 al. 3 LTAF",
+        "content": "Il tient sa propre comptabilité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Infrastructure",
+        "citation": "Art. 27a al. 1 LTAF",
+        "content": "Le Département fédéral des finances met à la disposition du Tribunal administratif fédéral les bâtiments utilisés par celui-ci, les gère et les entretient. Il prend en compte de manière appropriée les besoins du tribunal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27_a"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Infrastructure",
+        "citation": "Art. 27a al. 2 LTAF",
+        "content": "Le Tribunal administratif fédéral couvre de manière autonome ses besoins en biens et prestations dans le domaine de la logistique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27_a"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Infrastructure",
+        "citation": "Art. 27a al. 3 LTAF",
+        "content": "La convention entre le Tribunal fédéral et le Conseil fédéral visée à l’art. 25a, al. 3, de la loi du 17 juin 2005 sur le Tribunal fédéral s’applique par analogie aux modalités de la collaboration entre le Tribunal administratif fédéral et le Département fédéral des finances, sous réserve de la conclusion d’une convention différente entre le Tribunal administratif fédéral et le Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27_a"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Protection des données lors de l’utilisation de l’infrastructure électronique",
+        "citation": "Art. 27b al. 1 LTAF",
+        "content": "Les art. 57i à 57q de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration s’appliquent par analogie à l’utilisation de l’infrastructure électronique du Tribunal administratif fédéral dans le cadre de son activité administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27_b"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Protection des données lors de l’utilisation de l’infrastructure électronique",
+        "citation": "Art. 27b al. 2 LTAF",
+        "content": "Le Tribunal administratif fédéral édicte les dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_27_b"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Secrétaire général",
+        "citation": "Art. 28 LTAF",
+        "content": "Le secrétaire général dirige l’administration, y compris les services scientifiques et les secrétariats permanents des commissions fédérales d’estimation. Il dirige le secrétariat de la cour plénière, de la Conférence des présidents et de la Commission administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_28"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Information",
+        "citation": "Art. 29 al. 1 LTAF",
+        "content": "Le Tribunal administratif fédéral informe le public sur sa jurisprudence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_29"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Information",
+        "citation": "Art. 29 al. 2 LTAF",
+        "content": "Les arrêts sont en principe publiés sous une forme anonyme.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_29"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Information",
+        "citation": "Art. 29 al. 3 LTAF",
+        "content": "Il fixe les principes de l’information dans un règlement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_29"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Information",
+        "citation": "Art. 29 al. 4 LTAF",
+        "content": "Le Tribunal administratif fédéral peut prévoir l’accréditation des chroniqueurs judiciaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_29"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Principe de la transparence",
+        "citation": "Art. 30 al. 1 LTAF",
+        "content": "La loi du 17 décembre 2004 sur la transparence s’applique par analogie au Tribunal administratif fédéral, dans la mesure où il exécute des tâches concernant son administration ou la surveillance sur les commissions fédérales d’estimation prévues par la loi du 20 juin 1930 sur l’expropriation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_30"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 1, Statut et organisation, Section 3, Organisation et administration, Principe de la transparence",
+        "citation": "Art. 30 al. 2 LTAF",
+        "content": "Le Tribunal administratif fédéral peut exclure la procédure de médiation; dans ce cas, il rend sa prise de position sur la demande d’accès sous la forme d’une décision directement sujette à recours.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_30"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 1, Recours, Principe",
+        "citation": "Art. 31 LTAF",
+        "content": "Le Tribunal administratif fédéral connaît des recours contre les décisions au sens de l’art. 5 de la loi fédérale du 20 décembre 1968 sur la procédure administrative (PA).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_31"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 1, Recours, Exceptions",
+        "citation": "Art. 32 al. 1 LTAF",
+        "content": "Le recours est irrecevable contre:\na. les décisions concernant la sûreté intérieure ou extérieure du pays, la neutralité, la protection diplomatique et les autres affaires relevant des relations extérieures, à moins que le droit international ne confère un droit à ce que la cause soit jugée par un tribunal;\nb. les décisions concernant le droit de vote des citoyens ainsi que les élections et les votations populaires;\nc. les décisions relatives à la composante «prestation» du salaire du personnel de la Confédération, dans la mesure où elles ne concernent pas l’égalité des sexes;\nd. ...\ne. les décisions dans le domaine de l’énergie nucléaire concernant:\n1. l’autorisation générale des installations nucléaires;\n2. l’approbation du programme de gestion des déchets;\n3. la fermeture de dépôts en profondeur;\n4. la preuve de l’évacuation des déchets.\nf. les décisions relatives à l’octroi ou l’extension de concessions d’infrastructures ferroviaires;\ng. les décisions rendues par l’Autorité indépendante d’examen des plaintes en matière de radio-télévision;\nh. les décisions relatives à l’octroi de concessions pour des maisons de jeu;\ni. les décisions relatives à l’octroi, à la modification ou au renouvellement de la concession octroyée à la Société suisse de radiodiffusion et télévision (SSR);\nj. les décisions relatives au droit aux contributions d’une haute école ou d’une autre institution du domaine des hautes écoles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_32"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 1, Recours, Exceptions",
+        "citation": "Art. 32 al. 2 LTAF",
+        "content": "Le recours est également irrecevable contre:\na. les décisions qui, en vertu d’une autre loi fédérale, peuvent faire l’objet d’une opposition ou d’un recours devant une autorité précédente au sens de l’art. 33, let. c à f;\nb. les décisions qui, en vertu d’une autre loi fédérale, peuvent faire l’objet d’un recours devant une autorité cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_32"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 1, Recours, Autorités précédentes",
+        "citation": "Art. 33 LTAF",
+        "content": "Le recours est recevable contre les décisions:\na. du Conseil fédéral et des organes de l’Assemblée fédérale, en matière de rapports de travail du personnel de la Confédération, y compris le refus d’autoriser la poursuite pénale;\nb. du Conseil fédéral concernant:\n1. la révocation d’un membre du conseil de banque ou de la direction générale ou d’un suppléant sur la base de la loi du 3 octobre 2003 sur la Banque nationale,\n2. la révocation d’un membre du conseil d’administration de l’Autorité fédérale de surveillance des marchés financiers ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration selon la loi du 22 juin 2007 sur la surveillance des marchés financiers,\n3. le blocage de valeurs patrimoniales en vertu de la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite,\n4. l’interdiction d’exercer des activités en vertu de la LRens,\n4bis. l’interdiction d’organisations en vertu de la LRens,\n5. la révocation du mandat d’un membre du Conseil de l’Institut fédéral de métrologie au sens de la loi du 17 juin 2011 sur l’Institut fédéral de métrologie,\n6. la révocation d’un membre du conseil d’administration de l’Autorité fédérale de surveillance en matière de révision ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration selon la loi du 16 décembre 2005 sur la surveillance de la révision,\n7. la révocation d’un membre du conseil de l’Institut suisse des produits thérapeutiques sur la base de la loi du 15 décembre 2000 sur les produits thérapeutiques,\n8. la révocation d’un membre du conseil d’administration de l’établissement au sens de la loi du 16 juin 2017 sur les fonds de compensation,\n9. la révocation d’un membre du conseil de l’Institut suisse de droit comparé selon la loi du 28 septembre 2018 sur l’Institut suisse de droit comparé; \n10.  la révocation d’un membre du conseil d’administration du Service suisse d’attribution des sillons ou l’approbation de la résiliation des rapports de travail du directeur par le conseil d’administration, conformément à la loi fédérale du 20 décembre 1957 sur les chemins de fer;\nc. du Tribunal pénal fédéral en matière de rapports de travail de ses juges et de son personnel;\ncbis. du Tribunal fédéral des brevets en matière de rapports de travail de ses juges et de son personnel;\ncter. de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail des membres du Ministère public de la Confédération élus par l’Assemblée fédérale (Chambres réunies);\ncquater. du procureur général de la Confédération, en matière de rapports de travail des procureurs qu’il a nommés et du personnel du Ministère public de la Confédération;\ncquinquies. de l’Autorité de surveillance du Ministère public de la Confédération, en matière de rapports de travail de son secrétariat;\nd. de la Chancellerie fédérale, des départements et des unités de l’administration fédérale qui leur sont subordonnées ou administrativement rattachées;\ne. des établissements et des entreprises de la Confédération;\nf. des commissions fédérales;\ng. des tribunaux arbitraux fondées sur des contrats de droit public signés par la Confédération, ses établissements ou ses entreprises;\nh. des autorités ou organisations extérieures à l’administration fédérale, pour autant qu’elles statuent dans l’accomplissement de tâches de droit public que la Confédération leur a confiées;\ni. d’autorités cantonales, dans la mesure où d’autres lois fédérales prévoient un recours au Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_33"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 2, Plainte, Principe",
+        "citation": "Art. 35 LTAF",
+        "content": "Le Tribunal administratif fédéral connaît par voie d’action en première instance:\na. des contestations qui reposent sur des contrats de droit public signés par la Confédération, ses établissements, ses entreprises ou par des organisations visées à l’art. 33, let. h;\nb. ...\nc. des contestations opposant la Banque nationale et la Confédération au sujet des conventions sur les services bancaires et de la convention sur la répartition du bénéfice;\nd. des demandes de confiscation de valeurs patrimoniales conformément à la loi du 18 décembre 2015 sur les valeurs patrimoniales d’origine illicite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_35"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 2, Plainte, Exception",
+        "citation": "Art. 36 LTAF",
+        "content": "L’action est irrecevable si une autorité précédente au sens de l’art. 33 est chargée par une autre loi de connaître de la contestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_36"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 3, Divergences d’opinion en matière d’entraide judiciaire ou d’assistance administrative au niveau national",
+        "citation": "Art. 36a al. 1 LTAF",
+        "content": "Si une loi fédérale le prévoit, le Tribunal administratif fédéral statue sur les divergences d’opinion en matière d’entraide judiciaire ou d’assistance administrative entre autorités fédérales ou entre autorités fédérales et cantonales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_36_a"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 3, Divergences d’opinion en matière d’entraide judiciaire ou d’assistance administrative au niveau national",
+        "citation": "Art. 36a al. 2 LTAF",
+        "content": "Les tiers ne peuvent pas prendre part à la procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_36_a"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 2, Compétences, Section 4, Autorisation de mesures de recherche du Service de renseignement",
+        "citation": "Art. 36b LTAF",
+        "content": "Le Tribunal administratif fédéral statue sur l’autorisation de mesures de recherche au sens de la LRens.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_36_b"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Principe",
+        "citation": "Art. 37 LTAF",
+        "content": "La procédure devant le Tribunal administratif fédéral est régie par la PA, pour autant que la présente loi n’en dispose pas autrement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_37"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Récusation",
+        "citation": "Art. 38 LTAF",
+        "content": "Les dispositions de la loi du 17 juin 2005 sur le Tribunal fédéral relatives à la récusation s’appliquent par analogie à la procédure devant le Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_38"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Juge instructeur",
+        "citation": "Art. 39 al. 1 LTAF",
+        "content": "Le président de la cour ou le juge désigné par lui dirige la procédure au titre de juge instructeur jusqu’au prononcé de l’arrêt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_39"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Juge instructeur",
+        "citation": "Art. 39 al. 2 LTAF",
+        "content": "Le juge instructeur s’adjoint un second juge pour l’audition de témoins, l’inspection locale et l’interrogatoire des parties.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_39"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Juge instructeur",
+        "citation": "Art. 39 al. 3 LTAF",
+        "content": "Les décisions du juge instructeur ne peuvent pas faire l’objet d’un recours devant le Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_39"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Débats",
+        "citation": "Art. 40 al. 1 LTAF",
+        "content": "Si l’affaire porte sur des prétentions à caractère civil ou sur une accusation en matière pénale au sens de l’art. 6, par. 1, de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales, le juge instructeur ordonne des débats publics, pour autant qu’une partie le demande ou qu’un intérêt public important le justifie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_40"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Débats",
+        "citation": "Art. 40 al. 2 LTAF",
+        "content": "Le président de la cour ou le juge unique peut ordonner des débats publics dans d’autres affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_40"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Débats",
+        "citation": "Art. 40 al. 3 LTAF",
+        "content": "Le huis-clos total ou partiel peut être ordonné si la sécurité, l’ordre public ou les bonnes mœurs sont menacés, ou si l’intérêt d’une personne en cause le justifie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_40"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Délibération",
+        "citation": "Art. 41 al. 1 LTAF",
+        "content": "En règle générale, le Tribunal administratif fédéral statue par voie de circulation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_41"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Délibération",
+        "citation": "Art. 41 al. 2 LTAF",
+        "content": "Il délibère en audience:\na. si le président de la cour l’ordonne ou si un juge le demande;\nb. si la cour statue à cinq juges et qu’il n’y a pas unanimité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_41"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Délibération",
+        "citation": "Art. 41 al. 3 LTAF",
+        "content": "Dans les cas visés à l’al. 2, let. b, l’audience est publique si le président l’ordonne ou si un juge le demande.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_41"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Prononcé du jugement",
+        "citation": "Art. 42 LTAF",
+        "content": "Le Tribunal administratif fédéral met à la disposition du public le dispositif de ses arrêts pendant 30 jours à compter de leur notification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_42"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 1, Dispositions générales, Exécution défectueuse",
+        "citation": "Art. 43 LTAF",
+        "content": "En cas d’exécution défectueuse d’arrêts du Tribunal administratif fédéral qui n’obligent pas au paiement d’une somme d’argent ou à la fourniture d’une sûreté pécuniaire, un recours peut être déposé devant le Conseil fédéral. Celui-ci prend les mesures nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_43"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 2, Dispositions particulières s’appliquant à la procédure par voie d’action",
+        "citation": "Art. 44 al. 1 LTAF",
+        "content": "Lorsque le Tribunal administratif fédéral statue en tant que première instance, la procédure est régie par les art. 3 à 73 et 79 à 85 de la loi fédérale du 4 décembre 1947 sur la procédure civile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_44"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 2, Dispositions particulières s’appliquant à la procédure par voie d’action",
+        "citation": "Art. 44 al. 2 LTAF",
+        "content": "Le Tribunal administratif fédéral établit les faits d’office.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_44"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 3, Procédure, Section 2, Dispositions particulières s’appliquant à la procédure par voie d’action",
+        "citation": "Art. 44 al. 3 LTAF",
+        "content": "Les émoluments judiciaires et les dépens sont régis par les art. 63 à 65 PA.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_44"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 4, Révision, interprétation et rectification, Section 1, Révision, Principe",
+        "citation": "Art. 45 LTAF",
+        "content": "Les art. 121 à 128 de la loi du 17 juin 2005 sur le Tribunal fédéral s’appliquent par analogie à la révision des arrêts du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_45"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 4, Révision, interprétation et rectification, Section 1, Révision, Rapport avec le recours",
+        "citation": "Art. 46 LTAF",
+        "content": "Les griefs qui auraient pu être soulevés dans un recours à l’encontre de l’arrêt du Tribunal administratif fédéral ne peuvent être invoqués dans une demande de révision.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_46"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 4, Révision, interprétation et rectification, Section 1, Révision, Demande de révision",
+        "citation": "Art. 47 LTAF",
+        "content": "L’art. 67, al. 3, PA régit le contenu et la forme de la demande de révision ainsi que les conditions auxquelles celle-ci peut être améliorée ou complétée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_47"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 4, Révision, interprétation et rectification, Section 2, Interprétation et rectification",
+        "citation": "Art. 48 al. 1 LTAF",
+        "content": "L’art. 129 de la loi du 17 juin 2005 sur le Tribunal fédéral s’applique par analogie à l’interprétation et à la rectification des arrêts du Tribunal administratif fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_48"
+    },
+    {
+        "book": "VGG",
+        "title": "LTAF, Chapitre 4, Révision, interprétation et rectification, Section 2, Interprétation et rectification",
+        "citation": "Art. 48 al. 2 LTAF",
+        "content": "Lorsque le Tribunal administratif fédéral interprète ou rectifie son arrêt, un nouveau délai de recours commence à courir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/352/fr#art_48"
+    }
+]

@@ -1,0 +1,926 @@
+[
+    {
+        "book": "AVG",
+        "title": "AVG, 1. Kapitel: Zweck",
+        "citation": "Art. 1 AVG",
+        "content": "Dieses Gesetz bezweckt:\na. die Regelung der privaten Arbeitsvermittlung und des Personalverleihs;\nb. die Einrichtung einer öffentlichen Arbeitsvermittlung, die zur Schaffung und Erhaltung eines ausgeglichenen Arbeitsmarktes beiträgt;\nc. den Schutz der Arbeitnehmer, welche die private oder die öffentliche Arbeitsvermittlung oder den Personalverleih in Anspruch nehmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_1"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 2 Abs. 1 AVG",
+        "content": "Wer regelmässig und gegen Entgelt im Inland Arbeit vermittelt, indem er Stellensuchende und Arbeitgeber zum Abschluss von Arbeitsverträgen zusammenführt (Vermittler), benötigt eine Betriebsbewilligung des kantonalen Arbeitsamtes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 2 Abs. 2 AVG",
+        "content": "Eine Betriebsbewilligung benötigt auch, wer Personen für künstlerische und ähnliche Darbietungen vermittelt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 2 Abs. 3 AVG",
+        "content": "Wer regelmässig Arbeit ins oder aus dem Ausland vermittelt (Auslandsvermittlung), benötigt zusätzlich zur kantonalen Betriebsbewilligung eine Bewilligung des Staatssekretariats für Wirtschaft (SECO).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 2 Abs. 4 AVG",
+        "content": "Als Vermittlung aus dem Ausland gilt ebenfalls die Vermittlung eines Ausländers, der sich in der Schweiz aufhält, aber noch nicht zur Erwerbstätigkeit berechtigt ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 2 Abs. 5 AVG",
+        "content": "Zweigniederlassungen, die in einem anderen Kanton liegen als der Hauptsitz, benötigen eine Betriebsbewilligung; liegen sie im gleichen Kanton, so müssen sie dem kantonalen Arbeitsamt gemeldet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_2"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 3 Abs. 1 AVG",
+        "content": "Die Bewilligung wird erteilt, wenn der Betrieb:\na. im Schweizerischen Handelsregister eingetragen ist;\nb. über ein zweckmässiges Geschäftslokal verfügt;\nc. kein anderes Gewerbe betreibt, welches die Interessen von Stellensuchenden oder von Arbeitgebern gefährden könnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 3 Abs. 2 AVG",
+        "content": "Die für die Leitung verantwortlichen Personen müssen:\na. Schweizer Bürger oder Ausländer mit Niederlassungsbewilligung sein;\nb. für eine fachgerechte Vermittlung Gewähr bieten;\nc. einen guten Leumund geniessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 3 Abs. 3 AVG",
+        "content": "Die Bewilligung zur Auslandsvermittlung wird nur erteilt, wenn die für die Leitung verantwortlichen Personen ausserdem sicherstellen, dass im Betrieb ausreichende Kenntnisse der Verhältnisse in den entsprechenden Staaten vorhanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 3 Abs. 4 AVG",
+        "content": "Die Bewilligung für Arbeitsvermittlungsstellen beruflicher und gemeinnütziger Institutionen wird erteilt, wenn die Voraussetzungen der Absätze 1 Buchstabe c, 2 und 3 erfüllt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 3 Abs. 5 AVG",
+        "content": "Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_3"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 4 Abs. 1 AVG",
+        "content": "Die Bewilligung wird unbefristet erteilt und berechtigt zur Vermittlung in der ganzen Schweiz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 4 Abs. 2 AVG",
+        "content": "Die Bewilligung zur Auslandsvermittlung wird auf bestimmte Staaten begrenzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 4 Abs. 3 AVG",
+        "content": "Die für die Leitung verantwortlichen Personen werden in der Bewilligung namentlich aufgeführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 4 Abs. 4 AVG",
+        "content": "Der Bundesrat regelt die Bewilligungsgebühren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_4"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Entzug",
+        "citation": "Art. 5 Abs. 1 AVG",
+        "content": "Die Bewilligung wird entzogen, wenn der Vermittler:\na. die Bewilligung durch unrichtige oder irreführende Angaben oder durch Verschweigen wesentlicher Tatsachen erwirkt hat;\nb. wiederholt oder in schwerwiegender Weise gegen dieses Gesetz oder die Ausführungsvorschriften oder insbesondere gegen die ausländerrechtlichen Zulassungsvorschriften des Bundes oder der Kantone verstösst;\nc. die Bewilligungsvoraussetzungen nicht mehr erfüllt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_5"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Entzug",
+        "citation": "Art. 5 Abs. 2 AVG",
+        "content": "Erfüllt der Vermittler einzelne Bewilligungsvoraussetzungen nicht mehr, so hat ihm die Bewilligungsbehörde vor dem Entzug der Bewilligung eine Frist zur Wiederherstellung des rechtmässigen Zustandes zu setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_5"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 1. Abschnitt: Bewilligung, Auskunftspflicht",
+        "citation": "Art. 6 AVG",
+        "content": "Der Vermittler muss der Bewilligungsbehörde auf Verlangen alle erforderlichen Auskünfte erteilen und die nötigen Unterlagen vorlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_6"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Besondere Pflichten des Vermittlers",
+        "citation": "Art. 7 Abs. 1 AVG",
+        "content": "Bei der öffentlichen Ausschreibung von Arbeitsangeboten und Stellengesuchen muss der Vermittler seinen Namen und seine genaue Adresse angeben. Die Ausschreibungen müssen den tatsächlichen Verhältnissen entsprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Besondere Pflichten des Vermittlers",
+        "citation": "Art. 7 Abs. 2 AVG",
+        "content": "Zur Beobachtung des Arbeitsmarktes kann die Bewilligungsbehörde den Vermittler verpflichten, ihr anonymisierte statistische Angaben über seine Tätigkeit zu liefern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Besondere Pflichten des Vermittlers",
+        "citation": "Art. 7 Abs. 3 AVG",
+        "content": "Der Vermittler darf Daten über Stellensuchende und offene Stellen nur bearbeiten, soweit und solange sie für die Vermittlung erforderlich sind. Er hat diese Daten geheim zu halten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_7"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Vermittlungsvertrag",
+        "citation": "Art. 8 Abs. 1 AVG",
+        "content": "Bei entgeltlicher Vermittlung muss der Vermittler den Vertrag mit dem Stellensuchenden schriftlich abschliessen. Er muss darin seine Leistungen und die dafür geschuldete Vergütung angeben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_8"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Vermittlungsvertrag",
+        "citation": "Art. 8 Abs. 2 AVG",
+        "content": "Nichtig sind Vereinbarungen, die den Stellensuchenden:\na. hindern, sich an einen anderen Vermittler zu wenden;\nb. verpflichten, die Vermittlungsgebühr erneut zu entrichten, wenn er ohne die Hilfe des Vermittlers weitere Arbeitsverträge mit demselben Arbeitgeber abschliesst.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_8"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Einschreibegebühr und Vermittlungsprovision",
+        "citation": "Art. 9 Abs. 1 AVG",
+        "content": "Der Vermittler darf vom Stellensuchenden eine Einschreibegebühr und eine Vermittlungsprovision verlangen. Für Dienstleistungen, die besonders vereinbart werden, kann der Vermittler eine zusätzliche Entschädigung verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Einschreibegebühr und Vermittlungsprovision",
+        "citation": "Art. 9 Abs. 2 AVG",
+        "content": "Der Stellensuchende schuldet die Provision erst, wenn die Vermittlung zum Abschluss eines Arbeitsvertrages geführt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Einschreibegebühr und Vermittlungsprovision",
+        "citation": "Art. 9 Abs. 3 AVG",
+        "content": "Bei der Auslandsvermittlung schuldet der Stellensuchende die Provision erst, wenn er von den Behörden des Landes, in das er vermittelt wird, die Bewilligung zur Erwerbstätigkeit erhalten hat. Der Vermittler darf jedoch eine angemessene Entschädigung für die tatsächlichen Auslagen und Aufwendungen verlangen, sobald der Arbeitsvertrag zustande gekommen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 2. Abschnitt: Vermittlungstätigkeit, Einschreibegebühr und Vermittlungsprovision",
+        "citation": "Art. 9 Abs. 4 AVG",
+        "content": "Der Bundesrat setzt die Einschreibegebühren und die Vermittlungsprovisionen fest.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_9"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 4. Abschnitt: Finanzhilfen an die private Arbeitsvermittlung",
+        "citation": "Art. 11 Abs. 1 AVG",
+        "content": "Der Bund kann ausnahmsweise Finanzhilfen gewähren:\na. den paritätischen Arbeitsvermittlungsstellen von Arbeitgeber- und Arbeitnehmerverbänden gesamtschweizerischen Charakters, wenn sie im Auftrag des SECO in der Arbeitsvermittlung tätig sind;\nb. den Arbeitsvermittlungsstellen schweizerischer Verbände im Ausland, die nach ausländischem Recht unentgeltlich arbeiten müssen;\nc. den Institutionen, die bei der Durchführung zwischenstaatlicher Vereinbarungen, insbesondere der Vereinbarungen über den Austausch von Stagiaires, mitwirken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 4. Abschnitt: Finanzhilfen an die private Arbeitsvermittlung",
+        "citation": "Art. 11 Abs. 2 AVG",
+        "content": "Die Finanzhilfen betragen in der Regel höchstens 30 Prozent der anrechenbaren Betriebskosten; sie dürfen das Betriebsdefizit nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 2. Kapitel: Private Arbeitsvermittlung, 4. Abschnitt: Finanzhilfen an die private Arbeitsvermittlung",
+        "citation": "Art. 11 Abs. 3 AVG",
+        "content": "Der Bundesrat regelt die Einzelheiten; er setzt insbesondere die anrechenbaren Betriebskosten fest und bezeichnet die beitragsberechtigten Institutionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_11"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 12 Abs. 1 AVG",
+        "content": "Arbeitgeber (Verleiher), die Dritten (Einsatzbetrieben) gewerbsmässig Arbeitnehmer überlassen, benötigen eine Betriebsbewilligung des kantonalen Arbeitsamtes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 12 Abs. 2 AVG",
+        "content": "Für den Personalverleih ins Ausland ist neben der kantonalen Bewilligung zusätzlich eine Betriebsbewilligung des SECO nötig. Der Personalverleih vom Ausland in die Schweiz ist nicht gestattet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Bewilligungspflicht",
+        "citation": "Art. 12 Abs. 3 AVG",
+        "content": "Zweigniederlassungen, die in einem anderen Kanton liegen als der Hauptsitz, benötigen eine Betriebsbewilligung; liegen sie im gleichen Kanton, so müssen sie dem kantonalen Arbeitsamt gemeldet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_12"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 13 Abs. 1 AVG",
+        "content": "Die Bewilligung wird erteilt, wenn der Betrieb:\na. im Schweizerischen Handelsregister eingetragen ist;\nb. über ein zweckmässiges Geschäftslokal verfügt;\nc. kein anderes Gewerbe betreibt, welches die Interessen von Arbeitnehmern oder von Einsatzbetrieben gefährden könnte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 13 Abs. 2 AVG",
+        "content": "Die für die Leitung verantwortlichen Personen müssen:\na. Schweizer Bürger oder Ausländer mit Niederlassungsbewilligung sein;\nb. für eine fachgerechte Verleihtätigkeit Gewähr bieten;\nc. einen guten Leumund geniessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 13 Abs. 3 AVG",
+        "content": "Die Bewilligung zum Personalverleih ins Ausland wird nur erteilt, wenn die für die Leitung verantwortlichen Personen ausserdem sicherstellen, dass im Betrieb ausreichende Kenntnisse der Verhältnisse in den entsprechenden Staaten vorhanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Voraussetzungen",
+        "citation": "Art. 13 Abs. 4 AVG",
+        "content": "Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_13"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Kaution",
+        "citation": "Art. 14 Abs. 1 AVG",
+        "content": "Der Verleiher muss zur Sicherung von Lohnansprüchen aus dem Personalverleih eine Kaution leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_14"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Kaution",
+        "citation": "Art. 14 Abs. 2 AVG",
+        "content": "Die Kaution bemisst sich nach dem Geschäftsumfang. Der Bundesrat setzt den Mindest- und den Höchstbetrag fest und regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_14"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 15 Abs. 1 AVG",
+        "content": "Die Bewilligung wird unbefristet erteilt und berechtigt zum Personalverleih in der ganzen Schweiz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 15 Abs. 2 AVG",
+        "content": "Die Bewilligung zum Personalverleih ins Ausland wird auf bestimmte Staaten begrenzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 15 Abs. 3 AVG",
+        "content": "Die für die Leitung verantwortlichen Personen werden in der Bewilligung namentlich aufgeführt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Dauer und Umfang der Bewilligung",
+        "citation": "Art. 15 Abs. 4 AVG",
+        "content": "Der Bundesrat regelt die Bewilligungsgebühren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_15"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Entzug",
+        "citation": "Art. 16 Abs. 1 AVG",
+        "content": "Die Bewilligung wird entzogen, wenn der Verleiher:\na. die Bewilligung durch unrichtige oder irreführende Angaben oder durch Verschweigen wesentlicher Tatsachen erwirkt hat;\nb. wiederholt oder in schwerwiegender Weise gegen zwingende Vorschriften des Arbeitnehmerschutzes, gegen dieses Gesetz oder die Ausführungsvorschriften oder insbesondere die ausländerrechtlichen Zulassungsvorschriften des Bundes oder der Kantone verstösst;\nc. die Bewilligungsvoraussetzungen nicht mehr erfüllt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_16"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Entzug",
+        "citation": "Art. 16 Abs. 2 AVG",
+        "content": "Erfüllt der Verleiher einzelne der Bewilligungsvoraussetzungen nicht mehr, so hat ihm die Bewilligungsbehörde vor dem Entzug der Bewilligung eine Frist zur Wiederherstellung des rechtmässigen Zustandes zu setzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_16"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Auskunftspflicht",
+        "citation": "Art. 17 Abs. 1 AVG",
+        "content": "Der Verleiher muss der Bewilligungsbehörde auf Verlangen alle erforderlichen Auskünfte erteilen und die nötigen Unterlagen vorlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Auskunftspflicht",
+        "citation": "Art. 17 Abs. 2 AVG",
+        "content": "Besteht der begründete Verdacht, dass jemand ohne Bewilligung gewerbsmässig Arbeitnehmer an Dritte verleiht, so kann die Bewilligungsbehörde von allen Beteiligten Auskünfte verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 1. Abschnitt: Bewilligung, Auskunftspflicht",
+        "citation": "Art. 17 Abs. 3 AVG",
+        "content": "Der Verleiher muss in den Bereichen mit einem allgemein verbindlichen Gesamtarbeitsvertrag dem zuständigen paritätischen Organ alle erforderlichen Unterlagen zur Kontrolle der Einhaltung der ortsüblichen Arbeitsbedingungen vorlegen. In Bereichen ohne allgemein verbindlichen Gesamtarbeitsvertrag gilt die Auskunftspflicht gegenüber der zuständigen kantonalen tripartiten Kommission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_17"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Besondere Pflichten des Verleihers",
+        "citation": "Art. 18 Abs. 1 AVG",
+        "content": "Bei der öffentlichen Ausschreibung von Arbeitsangeboten muss der Verleiher seinen Namen und seine genaue Adresse angeben. Er muss in der Ausschreibung klar darauf hinweisen, dass der Arbeitnehmer für den Personalverleih angestellt wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Besondere Pflichten des Verleihers",
+        "citation": "Art. 18 Abs. 2 AVG",
+        "content": "Zur Beobachtung des Arbeitsmarktes kann die Bewilligungsbehörde den Verleiher verpflichten, ihr anonymisierte statistische Angaben über seine Tätigkeit zu liefern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Besondere Pflichten des Verleihers",
+        "citation": "Art. 18 Abs. 3 AVG",
+        "content": "Der Verleiher darf Daten über den Arbeitnehmer nur bearbeiten und an Einsatzbetriebe weitergeben, soweit und solange sie für die Verleihung erforderlich sind. Jede darüber hinausgehende Bearbeitung oder Weitergabe dieser Daten bedarf der ausdrücklichen Zustimmung des Arbeitnehmers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_18"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 1 AVG",
+        "content": "Der Verleiher muss den Vertrag mit dem Arbeitnehmer in der Regel schriftlich abschliessen. Der Bundesrat regelt die Ausnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 2 AVG",
+        "content": "Im Vertrag sind die folgenden Punkte zu regeln:\na. die Art der zu leistenden Arbeit;\nb. der Arbeitsort sowie der Beginn des Einsatzes;\nc. die Dauer des Einsatzes oder die Kündigungsfrist;\nd. die Arbeitszeiten;\ne. der Lohn, allfällige Spesen und Zulagen sowie die Abzüge für die Sozialversicherung;\nf. die Leistungen bei Überstunden, Krankheit, Mutterschaft, Unfall, Militärdienst und Ferien;\ng. die Termine für die Auszahlung des Lohnes, der Zulagen und übrigen Leistungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 3 AVG",
+        "content": "Werden die Erfordernisse hinsichtlich Form oder Inhalt nicht erfüllt, so gelten die orts- und berufsüblichen Arbeitsbedingungen oder die gesetzlichen Vorschriften, ausser es seien für den Arbeitnehmer günstigere Arbeitsbedingungen mündlich vereinbart worden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 4 AVG",
+        "content": "Bei unbefristeten Einsätzen kann das Arbeitsverhältnis während der ersten sechs Monate von den Vertragsparteien wie folgt gekündigt werden:\na. während der ersten drei Monate der ununterbrochenen Anstellung mit einer Frist von mindestens zwei Tagen;\nb. in der Zeit vom vierten bis und mit dem sechsten Monat der ununterbrochenen Anstellung mit einer Frist von mindestens sieben Tagen;",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 5 AVG",
+        "content": "Nichtig sind Vereinbarungen, die\na. vom Arbeitnehmer Gebühren, finanzielle Vorleistungen oder Lohnrückbehalte verlangen;\nb. es dem Arbeitnehmer verunmöglichen oder erschweren, nach Ablauf des Arbeitsvertrags in den Einsatzbetrieb überzutreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Arbeitsvertrag",
+        "citation": "Art. 19 Abs. 6 AVG",
+        "content": "Verfügt der Verleiher nicht über die erforderliche Bewilligung, so ist sein Arbeitsvertrag mit dem Arbeitnehmer ungültig. In diesem Fall ist Artikel 320 Absatz 3 des Obligationenrechts über die Folgen des ungültigen Arbeitsvertrags anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_19"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Allgemein verbindliche Gesamtarbeitsverträge",
+        "citation": "Art. 20 Abs. 1 AVG",
+        "content": "Untersteht ein Einsatzbetrieb einem allgemein verbindlich erklärten Gesamtarbeitsvertrag, so muss der Verleiher gegenüber dem Arbeitnehmer die Lohn- und Arbeitszeitbestimmungen des Gesamtarbeitsvertrages einhalten. Sieht ein allgemein verbindlich erklärter Gesamtarbeitsvertrag einen obligatorischen Beitrag an Weiterbildungs- und Vollzugskosten vor, so gelten die entsprechenden Bestimmungen auch für den Verleiher, wobei die Beiträge anteilsmässig nach Massgabe der Dauer des Einsatzes zu leisten sind. Der Bundesrat regelt die Einzelheiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Allgemein verbindliche Gesamtarbeitsverträge",
+        "citation": "Art. 20 Abs. 2 AVG",
+        "content": "Das im allgemein verbindlich erklärten Gesamtarbeitsvertrag zur Kontrolle vorgesehene paritätische Organ ist zur Kontrolle des Verleihers berechtigt. Bei nicht geringfügigen Verstössen muss es dem kantonalen Arbeitsamt Meldung erstatten und kann dem fehlbaren Verleiher:\na. nach Massgabe des Gesamtarbeitsvertrages eine Konventionalstrafe auferlegen;\nb. die Kontrollkosten ganz oder teilweise auferlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Allgemein verbindliche Gesamtarbeitsverträge",
+        "citation": "Art. 20 Abs. 3 AVG",
+        "content": "Untersteht ein Einsatzbetrieb einem allgemein verbindlich erklärten Gesamtarbeitsvertrag, der den flexiblen Altersrücktritt regelt, so muss der Verleiher gegenüber dem Arbeitnehmer diese Regelung ebenfalls einhalten. Der Bundesrat kann Vorschriften darüber erlassen, ab welcher Mindestanstellungsdauer der Arbeitnehmer einer solchen Regelung zu unterstellen ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_20"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Ausländische Arbeitnehmer in der Schweiz",
+        "citation": "Art. 21 Abs. 1 AVG",
+        "content": "Der Verleiher darf in der Schweiz nur Ausländer anstellen, die zur Erwerbstätigkeit zugelassen und zum Stellenwechsel berechtigt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_21"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Ausländische Arbeitnehmer in der Schweiz",
+        "citation": "Art. 21 Abs. 2 AVG",
+        "content": "Ausnahmen sind möglich, wenn besondere wirtschaftliche Gründe dies rechtfertigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_21"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Verleihvertrag",
+        "citation": "Art. 22 Abs. 1 AVG",
+        "content": "Der Verleiher muss den Vertrag mit dem Einsatzbetrieb schriftlich abschliessen. Er muss darin angeben:\na. die Adresse des Verleihers und der Bewilligungsbehörde;\nb. die beruflichen Qualifikationen des Arbeitnehmers und die Art der Arbeit;\nc. den Arbeitsort und den Beginn des Einsatzes;\nd. die Dauer des Einsatzes oder die Kündigungsfristen;\ne. die für den Arbeitnehmer geltenden Arbeitszeiten;\nf. die Kosten des Verleihs, einschliesslich aller Sozialleistungen, Zulagen, Spesen und Nebenleistungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Verleihvertrag",
+        "citation": "Art. 22 Abs. 2 AVG",
+        "content": "Vereinbarungen, die es dem Einsatzbetrieb erschweren oder verunmöglichen, nach Ende des Einsatzes mit dem Arbeitnehmer einen Arbeitsvertrag abzuschliessen, sind nichtig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Verleihvertrag",
+        "citation": "Art. 22 Abs. 3 AVG",
+        "content": "Zulässig sind jedoch Vereinbarungen, wonach der Verleiher vom Einsatzbetrieb eine Entschädigung verlangen kann, wenn der Einsatz weniger als drei Monate gedauert hat und der Arbeitnehmer weniger als drei Monate nach Ende dieses Einsatzes in den Einsatzbetrieb übertritt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Verleihvertrag",
+        "citation": "Art. 22 Abs. 4 AVG",
+        "content": "Die Entschädigung darf nicht höher sein als der Betrag, den der Einsatzbetrieb dem Verleiher bei einem dreimonatigen Einsatz für Verwaltungsaufwand und Gewinn zu bezahlen hätte. Das bereits geleistete Entgelt für Verwaltungsaufwand und Gewinn muss der Verleiher anrechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 3. Kapitel: Personalverleih, 2. Abschnitt: Verleihtätigkeit, Verleihvertrag",
+        "citation": "Art. 22 Abs. 5 AVG",
+        "content": "Verfügt der Verleiher nicht über die erforderliche Bewilligung, so ist der Verleihvertrag nichtig. In diesem Fall sind die Bestimmungen des Obligationenrechts über unerlaubte Handlungen und ungerechtfertigte Bereicherung anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_22"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Aufgaben",
+        "citation": "Art. 24 Abs. 1 AVG",
+        "content": "Die Arbeitsämter in den Kantonen erfassen die sich meldenden Stellensuchenden und die gemeldeten offenen Stellen. Sie beraten Stellensuchende und Arbeitgeber bei der Wahl oder der Besetzung eines Arbeitsplatzes und bemühen sich, die geeigneten Stellen und Arbeitskräfte zu vermitteln.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_24"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Aufgaben",
+        "citation": "Art. 24 Abs. 2 AVG",
+        "content": "Sie berücksichtigen bei der Vermittlung die persönlichen Wünsche, Eigenschaften und beruflichen Fähigkeiten der Stellensuchenden sowie die Bedürfnisse und betrieblichen Verhältnisse der Arbeitgeber sowie die allgemeine Arbeitsmarktlage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_24"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Auslandsvermittlung",
+        "citation": "Art. 25 Abs. 1 AVG",
+        "content": "Die Konsularische Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) unterhält einen Beratungsdienst, der ohne Gewähr Informationen über Einreise, Arbeitsmöglichkeiten und Lebensbedingungen in ausländischen Staaten beschafft und an Personen weitergibt, die im Ausland eine Erwerbstätigkeit ausüben wollen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Auslandsvermittlung",
+        "citation": "Art. 25 Abs. 2 AVG",
+        "content": "Die Ausgleichsstelle der Arbeitslosenversicherung unterstützt die rückwanderungswilligen Schweizer Staatsangehörigen bei ihrer Arbeitssuche und koordiniert die Bemühungen der Arbeitsämter bei deren Vermittlung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Auslandsvermittlung",
+        "citation": "Art. 25 Abs. 2bis AVG",
+        "content": "Der Bund kann die Suche nach Auslandstellen mit weiteren Massnahmen unterstützen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_25"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Vermittlungspflicht und Unparteilichkeit",
+        "citation": "Art. 26 Abs. 1 AVG",
+        "content": "Die Arbeitsämter stellen ihre Dienste allen schweizerischen Stellensuchenden und den in der Schweiz domizilierten Arbeitgebern unparteiisch zur Verfügung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Vermittlungspflicht und Unparteilichkeit",
+        "citation": "Art. 26 Abs. 2 AVG",
+        "content": "Ebenso vermitteln und beraten sie ausländische Stellensuchende, die sich in der Schweiz aufhalten und zur Erwerbstätigkeit sowie zum Stellen- und Berufswechsel berechtigt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Vermittlungspflicht und Unparteilichkeit",
+        "citation": "Art. 26 Abs. 3 AVG",
+        "content": "Die Arbeitsämter dürfen an der Arbeitsvermittlung nicht mitwirken, wenn der Arbeitgeber:\na. die orts- und berufsüblichen Lohn- und Arbeitsbedingungen erheblich unterschreitet;\nb. mehrfach oder schwer gegen Arbeitnehmerschutzbestimmungen verstossen hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_26"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Unentgeltlichkeit",
+        "citation": "Art. 27 AVG",
+        "content": "Die öffentliche Arbeitsvermittlung ist unentgeltlich. Den Benützern dürfen nur Auslagen in Rechnung gestellt werden, die mit ihrem Einverständnis durch besonderen Aufwand entstanden sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_27"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Besondere Massnahmen zur Bekämpfung der Arbeitslosigkeit",
+        "citation": "Art. 28 Abs. 1 AVG",
+        "content": "Die Arbeitsämter helfen Stellensuchenden, deren Vermittlung unmöglich oder stark erschwert ist, bei der Wahl einer geeigneten Umschulung oder Weiterbildung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Besondere Massnahmen zur Bekämpfung der Arbeitslosigkeit",
+        "citation": "Art. 28 Abs. 2 AVG",
+        "content": "Die Kantone können für Arbeitslose, deren Vermittlung unmöglich oder stark erschwert ist, Kurse zur Umschulung, Weiterbildung und Eingliederung organisieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Besondere Massnahmen zur Bekämpfung der Arbeitslosigkeit",
+        "citation": "Art. 28 Abs. 3 AVG",
+        "content": "Sie können durch die Organisation von Programmen zur Arbeitsbeschaffung im Rahmen von Artikel 72 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 für die vorübergehende Beschäftigung von Arbeitslosen sorgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Besondere Massnahmen zur Bekämpfung der Arbeitslosigkeit",
+        "citation": "Art. 28 Abs. 4 AVG",
+        "content": "Die Arbeitsämter setzen ihre Bemühungen um Arbeitsvermittlung in geeigneter Weise fort, auch wenn der Arbeitslose im Rahmen der Massnahmen nach den Artikeln 59–72 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 einen Kurs besucht oder einer vorübergehenden Beschäftigung nachgeht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_28"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Meldepflicht der Arbeitgeber bei Entlassungen und Betriebsschliessungen",
+        "citation": "Art. 29 Abs. 1 AVG",
+        "content": "Entlassungen einer grösseren Anzahl von Arbeitnehmern sowie Betriebsschliessungen muss der Arbeitgeber dem zuständigen Arbeitsamt möglichst frühzeitig melden, spätestens aber zum Zeitpunkt, in dem er die Kündigungen ausspricht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_29"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 4. Kapitel: Öffentliche Arbeitsvermittlung, Meldepflicht der Arbeitgeber bei Entlassungen und Betriebsschliessungen",
+        "citation": "Art. 29 Abs. 2 AVG",
+        "content": "Der Bundesrat bestimmt die Ausnahmen von der Meldepflicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_29"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 5. Kapitel: Auswanderungspropaganda für Erwerbstätige",
+        "citation": "Art. 30 AVG",
+        "content": "Öffentliche Ankündigungen oder Veranstaltungen oder andere Vorkehren, die bestimmt oder geeignet sind, auswanderungswillige Erwerbstätige über die Arbeits- und Lebensbedingungen in ausländischen Staaten irrezuführen, sind verboten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_30"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Eidgenössische Arbeitsmarktbehörde",
+        "citation": "Art. 31 Abs. 1 AVG",
+        "content": "Eidgenössische Arbeitsmarktbehörde ist das SECO.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Eidgenössische Arbeitsmarktbehörde",
+        "citation": "Art. 31 Abs. 2 AVG",
+        "content": "Es beaufsichtigt den Vollzug dieses Gesetzes durch die Kantone und fördert die Koordination der öffentlichen Arbeitsvermittlung unter den Kantonen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Eidgenössische Arbeitsmarktbehörde",
+        "citation": "Art. 31 Abs. 3 AVG",
+        "content": "Es beaufsichtigt die private Auslandsvermittlung und den Personalverleih ins Ausland.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Eidgenössische Arbeitsmarktbehörde",
+        "citation": "Art. 31 Abs. 4 AVG",
+        "content": "Es kann in Zusammenarbeit mit den Kantonen Kurse für die Aus- und Weiterbildung des Personals der Arbeitsmarktbehörden durchführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_31"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Kantone",
+        "citation": "Art. 32 Abs. 1 AVG",
+        "content": "Die Kantone regeln die Aufsicht über die öffentliche und private Arbeitsvermittlung sowie über den Personalverleih.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_32"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Kantone",
+        "citation": "Art. 32 Abs. 2 AVG",
+        "content": "Sie unterhalten mindestens ein kantonales Arbeitsamt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_32"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Zusammenarbeit",
+        "citation": "Art. 33 Abs. 1 AVG",
+        "content": "Die Arbeitsmarktbehörden von Bund und Kantonen streben durch Zusammenarbeit einen gesamtschweizerisch ausgeglichenen Arbeitsmarkt an. In den einzelnen Wirtschaftsregionen arbeiten die Arbeitsmarktbehörden der betroffenen Kantone direkt zusammen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Zusammenarbeit",
+        "citation": "Art. 33 Abs. 2 AVG",
+        "content": "Die Arbeitsämter bemühen sich bei der Durchführung von Massnahmen auf dem Gebiet der Arbeitsvermittlung um eine wirksame Zusammenarbeit mit den Arbeitgeber- und Arbeitnehmerverbänden sowie mit anderen Organisationen, die auf dem Gebiet der Arbeitsvermittlung tätig sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Zusammenarbeit",
+        "citation": "Art. 33 Abs. 3 AVG",
+        "content": "Der Bundesrat regelt die Zuständigkeit der Arbeitsmarktbehörden und der Institutionen der Invalidenversicherung für die Vermittlung von Invaliden und Behinderten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Bearbeiten von Personendaten",
+        "citation": "Art. 33a Abs. 1 AVG",
+        "content": "Die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe sind befugt, Personendaten zu bearbeiten oder bearbeiten zu lassen, die sie benötigen, um die ihnen nach diesem Gesetz übertragenen Aufgaben zu erfüllen, namentlich um:\na. Stellensuchende zu erfassen, zu vermitteln und zu beraten;\nb. offene Stellen zu erfassen, bekannt zu geben und zuzuweisen;\nc. Entlassungen und Betriebsschliessungen zu erfassen;\nd. arbeitsmarktliche Massnahmen durchzuführen;\ne. die Aufsicht über die Durchführung dieses Gesetzes durchzuführen; \nf. Statistiken zu führen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Bearbeiten von Personendaten",
+        "citation": "Art. 33a Abs. 2 AVG",
+        "content": "Besonders schützenswerte Personendaten dürfen bearbeitet werden:\na. über die Gesundheit und die Religionszugehörigkeit der Stellensuchenden, wenn diese Daten für die Vermittlung erforderlich sind;\nb. über Massnahmen, die im Rahmen des Vollzugs dieses Gesetzes und des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 verfügt werden oder vorgesehen sind, wenn diese Daten eine direkte Auswirkung auf die Leistung der Arbeitslosenversicherung haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Bearbeiten von Personendaten",
+        "citation": "Art. 33a Abs. 3 AVG",
+        "content": "Ausserdem dürfen die mit der Durchführung oder mit der Kontrolle oder Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe Personendaten, die die Beurteilung der persönlichen und der wirtschaftlichen Situation der Empfänger von Beratungsleistungen nach diesem Gesetz erlauben, bearbeiten oder bearbeiten lassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_33_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Schweigepflicht",
+        "citation": "Art. 34 AVG",
+        "content": "Personen, die an der Durchführung, der Kontrolle oder an der Beaufsichtigung der öffentlichen Arbeitsvermittlung beteiligt sind, müssen die Angaben über Stellensuchende, Arbeitgeber und offene Stellen gegenüber Dritten geheim halten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 1 AVG",
+        "content": "Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten im Einzelfall und auf schriftliches und begründetes Gesuch hin bekannt gegeben werden an:\na. die Organe der Invalidenversicherung, wenn sich eine Pflicht zur Bekanntgabe aus dem Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung ergibt;\nb. Sozialhilfebehörden, wenn sie für die Festsetzung, Änderung oder Rückforderung von Leistungen beziehungsweise für die Verhinderung ungerechtfertigter Bezüge erforderlich sind;\nc. Zivilgerichte, wenn sie für die Beurteilung eines familien- oder erbrechtlichen Streitfalles erforderlich sind;\nd. Strafgerichte und Strafuntersuchungsbehörden, wenn sie für die Abklärung eines Verbrechens oder eines Vergehens erforderlich sind;\ne. die Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 des Zivilgesetzbuchs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 2 AVG",
+        "content": "Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten bekanntgegeben werden an:\na. andere mit der Durchführung sowie der Kontrolle oder der Beaufsichtigung der Durchführung dieses Gesetzes betrauten Organe, wenn sie für die Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich sind;\nb. Organe einer Sozialversicherung, wenn sich eine Pflicht zur Bekanntgabe aus einem Bundesgesetz ergibt;\nc. Organe der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992;\nd. Strafuntersuchungsbehörden, wenn es die Anzeige oder die Abwendung eines Verbrechens erfordert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 3 AVG",
+        "content": "Daten, die von allgemeinem Interesse sind und sich auf die Anwendung dieses Gesetzes beziehen, dürfen veröffentlicht werden. Die Anonymität der Stellensuchenden und der Arbeitgeber muss gewahrt bleiben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 4 AVG",
+        "content": "In den übrigen Fällen dürfen Daten an Dritte wie folgt bekannt gegeben werden:\na. nicht personenbezogene Daten, sofern die Bekanntgabe einem überwiegenden Interesse entspricht;\nb. Personendaten, sofern die betroffene Person im Einzelfall schriftlich eingewilligt hat oder, wenn das Einholen der Einwilligung nicht möglich ist, diese nach den Umständen als im Interesse des Stellensuchenden vorausgesetzt werden darf.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 5 AVG",
+        "content": "Es dürfen nur die Daten bekannt gegeben werden, welche für den in Frage stehenden Zweck erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 6 AVG",
+        "content": "Der Bundesrat regelt die Modalitäten der Bekanntgabe und die Information der betroffenen Person.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Datenbekanntgabe",
+        "citation": "Art. 34a Abs. 7 AVG",
+        "content": "Die Datenbekanntgabe erfolgt in der Regel schriftlich und kostenlos. Der Bundesrat kann die Erhebung einer Gebühr vorsehen, wenn besonders aufwendige Arbeiten erforderlich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Akteneinsicht",
+        "citation": "Art. 34b Abs. 1 AVG",
+        "content": "Sofern überwiegende Privatinteressen gewahrt bleiben, steht die Akteneinsicht zu:\na. den Stellensuchenden und den Arbeitgebern, für die sie betreffenden Daten;\nb. Personen, die einen Anspruch oder eine Verpflichtung nach diesem Gesetz haben, für diejenigen Daten, die für die Wahrung des Anspruchs oder die Erfüllung der Verpflichtung erforderlich sind;\nc. Personen und Institutionen, denen ein Rechtsmittel gegen eine auf Grund dieses Gesetzes erlassene Verfügung zusteht, für die zur Ausübung dieses Rechts erforderlichen Daten;\nd. Behörden, die zuständig sind für Beschwerden gegen auf Grund dieses Gesetzes erlassene Verfügungen, für die zur Erfüllung dieser Aufgaben erforderlichen Daten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_b"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Akteneinsicht",
+        "citation": "Art. 34b Abs. 2 AVG",
+        "content": "Handelt es sich um Gesundheitsdaten, deren Bekanntgabe sich für die zur Einsicht berechtigte Person gesundheitlich nachteilig auswirken könnte, so kann von ihr verlangt werden, dass sie eine Ärztin oder einen Arzt bezeichnet, die oder der ihr diese Daten bekannt gibt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_34_b"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 1 AVG",
+        "content": "Die Ausgleichsstelle der Arbeitslosenversicherung (Art. 83 Abs. 3 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 [AVIG]) betreibt Informationssysteme für Dienstleistungen:\na. der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. b AVIG), um:\n1. die Arbeitsvermittlung zu erleichtern,\n2. den Vollzug des AVIG zu gewährleisten,\n3. den Arbeitsmarkt zu beobachten,\n4. die Zusammenarbeit zwischen den Organen der Arbeitsvermittlung, Arbeitslosenversicherung und der Invalidenversicherung zu erleichtern,\n5. die Zusammenarbeit zwischen den Organen der Arbeitslosenversicherung, der öffentlichen und privaten Arbeitsvermittlung und den Arbeitgebern zu erleichtern;\nb. auf der Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1bis Bst. e AVIG), um:\n1. Einsicht in die offenen Stellen zu haben,\n2. Einsicht in die meldepflichtigen Stellen zu haben,\n3. offene Stellen zu melden,\n4. Stellensuchende zu kontaktieren,\n5. die offenen Stellen zu bewirtschaften.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 2 AVG",
+        "content": "Im Informationssystem nach Absatz 1 Buchstabe a dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten nach Artikel 33a Absatz 2, bearbeitet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 3 AVG",
+        "content": "Folgende Stellen und Organe haben Zugriff auf das System der öffentlichen Arbeitsvermittlung und können Daten bearbeiten: \na. und b. ...\nc. die kantonalen Arbeitsämter (Art. 32 Abs. 2) zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85 AVIG);\nd. die Logistikstellen für arbeitsmarktliche Massnahmen zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85c AVIG);\ne. die Regionalen Arbeitsvermittlungszentren (RAV) zur Erfüllung ihrer gesetzlichen Aufgaben (Art. 85b AVIG);\nf. ...\ng. die Organe der Invalidenversicherung im Hinblick auf die berufliche Wiedereingliederung von Personen im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 35a;\nh. und i. ...\nj.  ...\njbis. die Organe der Sozialhilfe im Hinblick auf die berufliche Wiedereingliederung von Personen im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 35a;\nk. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 3bis AVG",
+        "content": "Soweit es für den Vollzug dieses Gesetzes und des AVIG notwendig ist, dürfen Personendaten, einschliesslich besonders schützenswerter Personendaten, zwischen den Informationssystemen der öffentlichen Arbeitsvermittlung und den Informationssystemen der Arbeitslosenversicherung ausgetauscht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 3ter AVG",
+        "content": "Folgende Personen und Stellen haben einen gesicherten Zugriff auf die Plattform der öffentlichen Arbeitsvermittlung:\na. die bei einem RAV erfassten Stellensuchenden für den Zugriff auf die gemeldeten Stelleninformationen;\nb. die Arbeitgeber, zur Meldung von offenen Stellen und zur Kontaktaufnahme mit Stellensuchenden;\nc. die privaten Arbeitsvermittler, die eine Vermittlungsbewilligung haben, zur Einsichtnahme in nicht anonymisierte Profile von Stellensuchenden;\nd. die RAV für die Bewirtschaftung der Stellenanzeigen;\ne. die konsularische Direktion des EDA für die Erfüllung ihrer Aufgaben nach Artikel 25 Absatz 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 4 AVG",
+        "content": "Der Bund beteiligt sich an den Kosten, soweit diese durch Bundesaufgaben bedingt sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Informationssysteme",
+        "citation": "Art. 35 Abs. 5 AVG",
+        "content": "Der Bundesrat regelt:\na. die Verantwortung für den Datenschutz;\nb. die zu erfassenden Daten;\nc. die Aufbewahrungsfrist;\nd. den Umfang der Zugriffs- und Bearbeitungsrechte für Personendaten, einschliesslich besonders schützenswerter Personendaten, der genannten Personen, Stellen und Organe nach den Absätzen 3 und 3ter;\ne. die Organisation und den Betrieb des Informationssystems;\nf. die Zusammenarbeit zwischen den beteiligten Behörden;\ng. die Datensicherheit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Interinstitutionelle Zusammenarbeit und Zusammenarbeit mit privaten Arbeitsvermittlern",
+        "citation": "Art. 35a Abs. 1 AVG",
+        "content": "Zum Zwecke der interinstitutionellen Zusammenarbeit nach Artikel 85f des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982 kann den Berufsberatungsstellen, den Sozialdiensten der Kantone und Gemeinden, den Durchführungsorganen der kantonalen Arbeitslosenhilfegesetze, der Invaliden- und Krankenversicherung und der Asylgesetzgebung, den kantonalen Berufsbildungsbehörden, der Schweizerischen Unfallversicherungsanstalt sowie anderen für die Eingliederung Versicherter wichtigen privaten und öffentlichen Institutionen im Einzelfall Zugriff auf die erforderlichen Daten aus dem Informationssystem gewährt werden, sofern:\na. die betroffene Person Leistungen von einer dieser Stellen bezieht und der Gewährung des Zugriffs zustimmt; und\nb. die genannten Stellen den Durchführungsorganen der Arbeitslosenversicherung Gegenrecht gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Interinstitutionelle Zusammenarbeit und Zusammenarbeit mit privaten Arbeitsvermittlern",
+        "citation": "Art. 35a Abs. 1bis AVG",
+        "content": "Die Durchführungsorgane der Arbeitslosenversicherung und die Invalidenversicherungsstellen sind bei der interinstitutionellen Zusammenarbeit gegenseitig von der Schweigepflicht entbunden, sofern:\na. kein überwiegendes Privatinteresse entgegensteht; und\nb. die Auskünfte und Unterlagen dazu dienen, in Fällen, in denen die zuständige Kostenträgerin noch nicht klar bestimmbar ist:\n1. die für die betroffene Person geeigneten Eingliederungsmassnahmen zu ermitteln, und\n2. die Ansprüche der betroffenen Person gegenüber der Arbeitslosenversicherung und der Invalidenversicherung zu klären.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Interinstitutionelle Zusammenarbeit und Zusammenarbeit mit privaten Arbeitsvermittlern",
+        "citation": "Art. 35a Abs. 1ter AVG",
+        "content": "Der Datenaustausch nach Absatz 1bis darf auch ohne Zustimmung der betroffenen Person und im Einzelfall auch mündlich erfolgen. Die betroffene Person ist anschliessend über den erfolgten Datenaustausch und dessen Inhalt zu informieren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Interinstitutionelle Zusammenarbeit und Zusammenarbeit mit privaten Arbeitsvermittlern",
+        "citation": "Art. 35a Abs. 2 AVG",
+        "content": "Den privaten Arbeitsvermittlern, die eine Vermittlungsbewilligung besitzen, dürfen Daten über Stellensuchende aus dem Informationssystem in einem geeigneten Abrufverfahren zur Verfügung gestellt werden. Die Daten müssen hierfür anonymisiert sein. Die Pflicht zur Anonymität entfällt nur dann, wenn der oder die Stellensuchende schriftlich eingewilligt hat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_a"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Verzeichnis der bewilligten privaten Vermittlungs- und Verleihbetriebe",
+        "citation": "Art. 35b Abs. 1 AVG",
+        "content": "Das SECO führt mit Hilfe der zuständigen kantonalen Behörden auf einem geeigneten Informationssystem ein Verzeichnis über die bewilligten, privaten Vermittlungs- und Verleihbetriebe und ihre verantwortlichen Leiter und Leiterinnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_b"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Verzeichnis der bewilligten privaten Vermittlungs- und Verleihbetriebe",
+        "citation": "Art. 35b Abs. 2 AVG",
+        "content": "Das Verzeichnis kann besonders schützenswerte Daten über den Entzug, die Aufhebung oder die Nichterteilung einer Bewilligung enthalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_35_b"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Arbeitsmarktbeobachtung",
+        "citation": "Art. 36 Abs. 1 AVG",
+        "content": "Der Bundesrat ordnet die zur Arbeitsmarktbeobachtung erforderlichen Erhebungen an.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Arbeitsmarktbeobachtung",
+        "citation": "Art. 36 Abs. 2 AVG",
+        "content": "Die Arbeitsämter beobachten die Lage und Entwicklung des Arbeitsmarktes in ihren Kantonen. Sie erstatten dem SECO Bericht über die Arbeitsmarktlage sowie über die öffentliche und private Arbeitsvermittlung und den Personalverleih.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Arbeitsmarktbeobachtung",
+        "citation": "Art. 36 Abs. 3 AVG",
+        "content": "Die Ergebnisse werden so bekannt gegeben, dass keine Rückschlüsse auf betroffene Personen möglich sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Arbeitsmarktbeobachtung",
+        "citation": "Art. 36 Abs. 4 AVG",
+        "content": "Die zur Arbeitsmarktbeobachtung erhobenen Daten dürfen nur für statistische Zwecke verwendet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_36"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 6. Kapitel: Behörden, Kommission für Wirtschaftspolitik",
+        "citation": "Art. 37 AVG",
+        "content": "Der Bundesrat bestellt eine Kommission für Wirtschaftspolitik. Bund, Kantone, Wissenschaft, Arbeitgeber und Arbeitnehmer sind in der Kommission vertreten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_37"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 7. Kapitel: Rechtsschutz",
+        "citation": "Art. 38 Abs. 1 AVG",
+        "content": "Gegen Verfügungen nach diesem Gesetz kann Beschwerde geführt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 7. Kapitel: Rechtsschutz",
+        "citation": "Art. 38 Abs. 2 AVG",
+        "content": "Beschwerdeinstanzen sind:\na. mindestens eine kantonale Behörde für die Verfügungen der Arbeitsämter;\nb. das Bundesverwaltungsgericht für die erstinstanzlichen Verfügungen von Bundesbehörden;\nc. das Bundesgericht nach Massgabe des Bundesgerichtsgesetzes vom 17. Juni 2005;\nd. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 7. Kapitel: Rechtsschutz",
+        "citation": "Art. 38 Abs. 3 AVG",
+        "content": "Das Verfahren vor den kantonalen Behörden richtet sich nach dem kantonalen Verfahrensrecht, soweit das Bundesrecht nichts anderes bestimmt. Für das Verfahren vor den Bundesbehörden gelten die allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_38"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 1 AVG",
+        "content": "Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:\na. ohne die erforderliche Bewilligung Arbeit vermittelt oder Personal verleiht;\nb. als Vermittler oder Verleiher Ausländer entgegen den ausländerrechtlichen Vorschriften vermittelt oder als Arbeitnehmer anstellt. Vorbehalten bleibt eine zusätzliche Bestrafung nach Artikel 23 des Bundesgesetzes vom 26. März 1931 über Aufenthalt und Niederlassung der Ausländer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 2 AVG",
+        "content": "Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:\na. als Arbeitgeber die Dienste eines Vermittlers oder Verleihers beansprucht, von dem er weiss, dass er die erforderliche Bewilligung nicht besitzt;\nb. die Melde- und Auskunftspflicht (Art. 6, 7, 17, 18 und 29) verletzt;\nc. als Verleiher den wesentlichen Vertragsinhalt nicht schriftlich oder nicht vollständig mitteilt oder eine unzulässige Vereinbarung trifft (Art. 19 und 22);\nd. als Vermittler gegen die Bestimmungen über die Vermittlungsprovision verstösst (Art. 9) oder als Verleiher vom Arbeitnehmer Gebühren oder finanzielle Vorleistungen verlangt (Art. 19 Abs. 5);\ne. irreführende Auswanderungspropaganda für Erwerbstätige betreibt (Art. 30);\nf. seine Schweigepflicht verletzt (Art. 7, 18 und 34).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 3 AVG",
+        "content": "Mit Busse bis zu 20 000 Franken wird bestraft, wer fahrlässig eine strafbare Handlung nach Absatz 1 oder Absatz 2 Buchstaben b–f begeht. In leichten Fällen kann von einer Bestrafung Umgang genommen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 4 AVG",
+        "content": "Mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe wird bestraft, wer durch unrichtige oder irreführende Angaben oder durch Verschweigen wesentlicher Tatsachen eine Bewilligung erwirkt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 5 AVG",
+        "content": "Auf Widerhandlungen in Geschäftsbetrieben sind die Artikel 6 und 7 des Bundesgesetzes vom 22. März 1974 über das Verwaltungsstrafrecht anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    },
+    {
+        "book": "AVG",
+        "title": "AVG, 8. Kapitel: Strafbestimmungen",
+        "citation": "Art. 39 Abs. 6 AVG",
+        "content": "Die Strafverfolgung ist Sache der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1991/392_392_392/de#art_39"
+    }
+]

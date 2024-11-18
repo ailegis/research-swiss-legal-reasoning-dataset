@@ -1,0 +1,478 @@
+[
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 1: Disposizioni generali, Oggetto",
+        "citation": "Art. 1 cpv. 1 OArRa",
+        "content": "La presente ordinanza disciplina nell’ambito dell’armonizzazione dei registri:\na. la tenuta dei registri ufficiali di persone (registri);\nb. lo scambio di dati tra i registri;\nc. l’invio dei dati dei registri all’Ufficio federale di statistica (UST).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 1: Disposizioni generali, Oggetto",
+        "citation": "Art. 1 cpv. 2 OArRa",
+        "content": "Essa disciplina inoltre la piattaforma informatica e di comunicazione centrale della Confederazione (Sedex).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 1: Disposizioni generali, Oggetto",
+        "citation": "Art. 1 cpv. 3 OArRa",
+        "content": "Essa contiene disposizioni complementari concernenti il numero AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_1"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 2 OArRa",
+        "content": "Nella presente ordinanza s’intende per:\na. Economia domestica di tipo privato: insieme delle persone conviventi in una stessa abitazione dello stesso edificio;\nabis. Collettività:\n1. case per anziani e case di cura,\n2. alloggi e case di educazione per fanciulli e adolescenti,\n3. internati e case per studenti,\n4. istituti per disabili,\n5. ospedali, cliniche e stabilimenti sanitari analoghi,\n6. istituti per l’esecuzione delle pene e delle misure,\n7. alloggi collettivi per richiedenti l’asilo,\n8. conventi e altri alloggi di organizzazioni religiose;\nb. Sedex: piattaforma informatica e di comunicazione centrale che la Confederazione mette a disposizione dei servizi ufficiali competenti per una trasmissione dei dati sicura (secure data exchange);\nc. Token: caratteristica d’identificazione unica non falsificabile degli utenti di una rete elettronica (ad esempio in Internet).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_2"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 2: Tenuta dei registri, Modifiche",
+        "citation": "Art. 3 cpv. 1 OArRa",
+        "content": "Se sono previste modifiche sostanziali o l’eliminazione di un registro di cui all’articolo 2 LArRa, l’UST deve esserne informato preliminarmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 2: Tenuta dei registri, Modifiche",
+        "citation": "Art. 3 cpv. 2 OArRa",
+        "content": "Una modifica è considerata sostanziale se interessa gli scopi della statistica federale, in particolare se riguarda gli identificatori richiesti, le caratteristiche o il ritmo di aggiornamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_3"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 2: Tenuta dei registri, Protezione dei dati",
+        "citation": "Art. 4 OArRa",
+        "content": "I servizi competenti per i registri di cui all’articolo 2 LArRa (organi che tengono i registri) sono essi stessi responsabili del rispetto della protezione dei dati nell’ambito della tenuta dei registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_4"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Principi",
+        "citation": "Art. 5 cpv. 1 OArRa",
+        "content": "Lo scambio di dati tra i registri di cui all’articolo 2 LArRa e l’invio dei dati all’UST avvengono attraverso Sedex o mediante un supporto elettronico di dati conformemente alle istruzioni dell’UST.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Principi",
+        "citation": "Art. 5 cpv. 2 OArRa",
+        "content": "Lo scambio di dati all’interno di un Cantone può avvenire attraverso i sistemi istituiti a tal fine dai Cantoni e dai Comuni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Principi",
+        "citation": "Art. 5 cpv. 3 OArRa",
+        "content": "La Confederazione mette Sedex gratuitamente a disposizione degli organi che tengono i registri. Essa sostiene le spese per la sua realizzazione, gestione e manutenzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Principi",
+        "citation": "Art. 5 cpv. 4 OArRa",
+        "content": "L’UST è il servizio responsabile di Sedex presso la Confederazione. Esso può affidarne la gestione a terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_5"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Scambio di dati tra i registri degli abitanti",
+        "citation": "Art. 6 cpv. 1 OArRa",
+        "content": "Lo scambio di dati tra i registri degli abitanti in caso di arrivo o partenza avviene costantemente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Scambio di dati tra i registri degli abitanti",
+        "citation": "Art. 6 cpv. 2 OArRa",
+        "content": "Lo scambio intercantonale di dati avviene in forma codificata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Scambio di dati tra i registri degli abitanti",
+        "citation": "Art. 6 cpv. 3 OArRa",
+        "content": "L’UST coordina i preparativi per la realizzazione dello scambio di dati attraverso Sedex, d’intesa con i Cantoni e l’associazione eCH.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_6"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri federali all’UST",
+        "citation": "Art. 7 cpv. 1 OArRa",
+        "content": "I dati estratti dai registri di cui all’articolo 2 capoverso 1 LArRa sono inviati all’UST gratuitamente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri federali all’UST",
+        "citation": "Art. 7 cpv. 2 OArRa",
+        "content": "L’UST può controllare la qualità dei dati inviati. In caso di invio di dati incompleto o errato, esso può richiedere un nuovo invio per lo stesso giorno di riferimento, determinando i dati da inviare nuovamente e il termine per l’invio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri federali all’UST",
+        "citation": "Art. 7 cpv. 3 OArRa",
+        "content": "Il contenuto e la periodicità degli invii dei dati sono disciplinati dall’ordinanza del 30 giugno 1993 sull’esecuzione di rilevazioni statistiche federali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_7"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri cantonali all’UST",
+        "citation": "Art. 8 cpv. 1 OArRa",
+        "content": "Gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa inviano all’UST i dati di cui all’articolo 6 LArRa quattro volte l’anno. Il Cantone designa l’organo competente per l’invio dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri cantonali all’UST",
+        "citation": "Art. 8 cpv. 2 OArRa",
+        "content": "I giorni di riferimento per l’invio dei dati sono il 31 marzo, il 30 giugno, il 30 settembre e il 31 dicembre. I dati devono pervenire all’UST entro l’ultimo giorno del mese successivo. Il primo giorno di riferimento è il 31 marzo 2010.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri cantonali all’UST",
+        "citation": "Art. 8 cpv. 3 OArRa",
+        "content": "All’UST vanno sempre inviati i dati completi. Essi devono contenere almeno le seguenti informazioni:\na. le persone iscritte presso il Comune il giorno di riferimento, indipendentemente dalla relazione di notifica secondo il catalogo delle caratteristiche;\nb. le persone decedute durante i 12 mesi precedenti il giorno di riferimento;\nc. le persone partite durante i 12 mesi precedenti il giorno di riferimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Invio dei dati dei registri cantonali all’UST",
+        "citation": "Art. 8 cpv. 4 OArRa",
+        "content": "L’invio regolare dei dati mediante un supporto elettronico di dati va annunciato all’UST almeno tre mesi prima del primo giorno di riferimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_8"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Collettività",
+        "citation": "Art. 9 OArRa",
+        "content": "I Cantoni si assicurano che le persone che soggiornano in collettività siano iscritte nei registri di cui all’articolo 2 capoverso 2 LArRa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_9"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 1 OArRa",
+        "content": "Affinché siano soddisfatti i requisiti di qualità dei dati inviati dagli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa, l’UST gestisce un servizio di convalida.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 2 OArRa",
+        "content": "Il servizio di convalida controlla:\na. la completezza dell’invio dei dati;\nb. la presenza del contenuto dei registri di cui all’articolo 6 LArRa;\nc. l’applicazione corretta degli identificatori e il rispetto dei requisiti del catalogo delle caratteristiche;\nd. la correttezza dell’identificatore federale dell’edificio (EGID) e la plausibilità dell’identificatore federale dell’abitazione (EWID) attraverso un confronto con il Registro federale degli edifici e delle abitazioni (REA);\ne. la plausibilità delle informazioni sulle singole persone conformemente alle regole di plausibilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 3 OArRa",
+        "content": "L’UST stabilisce le regole di plausibilizzazione in una direttiva pubblicata in Internet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 4 OArRa",
+        "content": "Esso notifica le lacune rilevate all’organo che ha inviato i dati di cui all’articolo 8 capoverso 1. Questi si assicura che tali lacune siano eliminate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 5 OArRa",
+        "content": "In caso di invio di dati incompleto o errato, l’UST può richiedere un nuovo invio per lo stesso giorno di riferimento, determinando i dati da inviare nuovamente e il termine per l’invio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 3: Trasmissione dei dati, Convalida dei dati per la statistica",
+        "citation": "Art. 10 cpv. 6 OArRa",
+        "content": "Il servizio di convalida registra inoltre in un log file il numero e il genere di errori, senza permettere di risalire ai dati personali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_10"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Allacciamento dei registri cantonali",
+        "citation": "Art. 11 cpv. 1 OArRa",
+        "content": "Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’UST quali sono, sul territorio cantonale, gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa allacciati a Sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Allacciamento dei registri cantonali",
+        "citation": "Art. 11 cpv. 2 OArRa",
+        "content": "Gli organi che tengono i registri sono essi stessi responsabili del loro allacciamento a Sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_11"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Adattatore per l’allacciamento",
+        "citation": "Art. 12 cpv. 1 OArRa",
+        "content": "La trasmissione dei dati attraverso Sedex avviene esclusivamente attraverso un adattatore Sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Adattatore per l’allacciamento",
+        "citation": "Art. 12 cpv. 2 OArRa",
+        "content": "La Confederazione è responsabile della realizzazione e dell’ulteriore sviluppo dell’adattatore. Essa si assume i costi relativi e mette l’adattatore gratuitamente a disposizione degli organi che tengono i registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Adattatore per l’allacciamento",
+        "citation": "Art. 12 cpv. 3 OArRa",
+        "content": "Gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa si assumono i costi dell’installazione e della gestione dell’adattatore per l’allacciamento, nonché dell’adattamento del software e dell’hardware dei loro registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_12"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Certificazione",
+        "citation": "Art. 13 cpv. 1 OArRa",
+        "content": "Il software del registro deve essere certificato per l’utilizzazione di Sedex.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Certificazione",
+        "citation": "Art. 13 cpv. 2 OArRa",
+        "content": "La certificazione avviene mediante autodichiarazione del concessore della licenza presso il servizio di certificazione. Con l’autodichiarazione, il concessore della licenza conferma che il proprio software è in grado di comunicare con Sedex attraverso l’adattatore conformemente alle prescrizioni della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Certificazione",
+        "citation": "Art. 13 cpv. 3 OArRa",
+        "content": "Il servizio di certificazione è l’UST. Esso tiene un elenco dei software dei registri ammessi in virtù di un’autodichiarazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_13"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Trasmissione dei dati",
+        "citation": "Art. 14 cpv. 1 OArRa",
+        "content": "La trasmissione dei dati attraverso Sedex avviene in forma codificata e in una busta elettronica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Trasmissione dei dati",
+        "citation": "Art. 14 cpv. 2 OArRa",
+        "content": "Ogni trasmissione è registrata. I dati trasmessi possono essere letti unicamente dal servizio destinatario autorizzato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Trasmissione dei dati",
+        "citation": "Art. 14 cpv. 3 OArRa",
+        "content": "Sedex invia al mittente una conferma per ogni trasmissione riuscita.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Trasmissione dei dati",
+        "citation": "Art. 14 cpv. 4 OArRa",
+        "content": "Se non è aperta dai servizi autorizzati entro un mese, la busta è cancellata assieme all’intero contenuto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_14"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Utilizzazione per altri scopi delle autorità",
+        "citation": "Art. 15 cpv. 1 OArRa",
+        "content": "Se attraverso Sedex sono trasmessi dati per altri scopi delle autorità, la trasmissione dei dati avviene secondo le direttive dell’UST.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Utilizzazione per altri scopi delle autorità",
+        "citation": "Art. 15 cpv. 2 OArRa",
+        "content": "La riscossione di emolumenti da parte dell’UST è disciplinata dall’ordinanza del 25 giugno 2003 sugli emolumenti e le indennità per le prestazioni di servizi statistici delle unità amministrative della Confederazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_15"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Protezione dei dati",
+        "citation": "Art. 16 OArRa",
+        "content": "Se Sedex è utilizzato da altri utenti, questi devono adottare le stesse misure di protezione dei dati degli organi che tengono i registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_16"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Identità digitale",
+        "citation": "Art. 17 cpv. 1 OArRa",
+        "content": "Agli organi che tengono i registri allacciati a Sedex è attribuita gratuitamente un’identità digitale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Identità digitale",
+        "citation": "Art. 17 cpv. 2 OArRa",
+        "content": "L’UST tiene un elenco di questi organi e delle loro identità digitali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 4: Utilizzazione di Sedex, Identità digitale",
+        "citation": "Art. 17 cpv. 3 OArRa",
+        "content": "L’Ufficio federale dell’informatica e della telecomunicazione rilascia a ciascuno di questi organi e a tutti gli altri utenti di Sedex un certificato finalizzato a:\na. verificare la loro firma elettronica;\nb. autenticarli;\nc. codificare i dati elettronici loro destinati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_17"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Notifica all’UCC dell’utilizzazione sistematica del numero AVS",
+        "citation": "Art. 18 OArRa",
+        "content": "Il servizio ufficiale di cui all’articolo 9 LArRa notifica all’Ufficio centrale di compensazione dell’AVS (UCC) l’utilizzazione sistematica del numero AVS di cui all’articolo 134ter dell’ordinanza del 31 ottobre 1947 sull’assicurazione per la vecchiaia e per i superstiti (OAVS) collettivamente per tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_18"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Primo aggiornamento completo dei registri cantonali",
+        "citation": "Art. 19 cpv. 1 OArRa",
+        "content": "Il servizio ufficiale di cui all’articolo 9 LArRa si assicura che tutti gli organi del Cantone che tengono i registri di cui all’articolo 2 capoverso 2 LArRa chiedano la prima attribuzione e comunicazione completa del numero AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Primo aggiornamento completo dei registri cantonali",
+        "citation": "Art. 19 cpv. 2 OArRa",
+        "content": "La procedura per l’attribuzione e la comunicazione del numero è disciplinata dagli articoli 133bis e 134quater OAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Primo aggiornamento completo dei registri cantonali",
+        "citation": "Art. 19 cpv. 3 OArRa",
+        "content": "L’UST coordina l’attribuzione e la comunicazione d’intesa con l’UCC e i servizi ufficiali di cui all’articolo 9 LArRa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Primo aggiornamento completo dei registri cantonali",
+        "citation": "Art. 19 cpv. 4 OArRa",
+        "content": "L’UST stabilisce, d’intesa con i servizi ufficiali di cui all’articolo 9 LArRa, in che modo, a partire da quando e per quale giorno di riferimento possono avvenire gli invii dei dati cantonali all’UCC necessari ai fini dell’attribuzione e della comunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Primo aggiornamento completo dei registri cantonali",
+        "citation": "Art. 19 cpv. 5 OArRa",
+        "content": "L’UCC ritorna agli organi che tengono i registri il numero unitamente ai dati da essi inviati per l’attribuzione e la comunicazione. Esso comunica inoltre agli organi che tengono i registri i dati tratti dai sistemi d’informazione Infostar e SIMIC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_19"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Comunicazione all’interno del Cantone",
+        "citation": "Art. 20 cpv. 1 OArRa",
+        "content": "Gli organi che tengono i registri di cui all’articolo 2 capoverso 2 LArRa possono comunicare il numero AVS ai servizi e alle istituzioni autorizzati a utilizzare sistematicamente il numero per adempiere ai loro compiti legali in virtù di leggi federali o cantonali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Comunicazione all’interno del Cantone",
+        "citation": "Art. 20 cpv. 2 OArRa",
+        "content": "La riscossione di emolumenti è disciplinata dal diritto cantonale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_20"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Aggiornamento dei registri federali",
+        "citation": "Art. 21 cpv. 1 OArRa",
+        "content": "La prima attribuzione e comunicazione completa del numero AVS ai registri federali di cui all’articolo 2 capoverso 1 è disciplinata dagli articoli 133bis e 134quater OAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Aggiornamento dei registri federali",
+        "citation": "Art. 21 cpv. 2 OArRa",
+        "content": "L’UST coordina la comunicazione d’intesa con l’UCC e gli organi che tengono i registri.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Aggiornamento dei registri federali",
+        "citation": "Art. 21 cpv. 3 OArRa",
+        "content": "L’UST stabilisce a partire da quando e per quale giorno di riferimento possono avvenire gli invii dei dati all’UCC necessari ai fini dell’attribuzione e della comunicazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_21"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 5: Numero AVS, Aggiornamento del numero AVS",
+        "citation": "Art. 22 OArRa",
+        "content": "Gli organi che tengono i registri aggiornano costantemente il numero AVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_22"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 6: Servizio ufficiale cantonale",
+        "citation": "Art. 23 cpv. 1 OArRa",
+        "content": "Il servizio ufficiale di cui all’articolo 9 LArRa coordina la procedura e fa rispettare i termini per l’armonizzazione dei registri d’intesa con l’UST.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 6: Servizio ufficiale cantonale",
+        "citation": "Art. 23 cpv. 2 OArRa",
+        "content": "Esso può richiedere il log file del servizio di convalida di cui all’articolo 10 capoverso 6 per controllare lo svolgimento e la qualità dell’armonizzazione nel Cantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_23"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Banca dati",
+        "citation": "Art. 24 cpv. 1 OArRa",
+        "content": "L’UST gestisce l’elenco degli indirizzi di cui all’articolo 16 capoverso 3 LArRa sotto forma di banca dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Banca dati",
+        "citation": "Art. 24 cpv. 2 OArRa",
+        "content": "Esso aggiorna la banca dati trimestralmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_24"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Impiego",
+        "citation": "Art. 25 OArRa",
+        "content": "L’UST utilizza l’elenco degli indirizzi esclusivamente per scopi di statistica, ricerca e pianificazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_25"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Utilizzazione statistica da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 26 cpv. 1 OArRa",
+        "content": "I servizi ufficiali dei Cantoni e dei Comuni competenti per la statistica possono chiedere all’UST l’invio dei dati concernenti il loro territorio conformemente all’articolo 17 capoverso 2 LArRa. La domanda va presentata per scritto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Utilizzazione statistica da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 26 cpv. 2 OArRa",
+        "content": "L’UST invia i dati al massimo trimestralmente e non prima di un mese dopo aver ricevuto l’ultimo invio di dati dal Cantone. I dati sono inviati in forma codificata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Utilizzazione statistica da parte dei Cantoni e dei Comuni",
+        "citation": "Art. 26 cpv. 3 OArRa",
+        "content": "I dati possono essere utilizzati esclusivamente come base di campionamento per rilevazioni statistiche proprie dei Cantoni e dei Comuni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_26"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Regolamento di utilizzazione",
+        "citation": "Art. 27 cpv. 1 OArRa",
+        "content": "L’UST emana un regolamento per l’utilizzazione dell’elenco degli indirizzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_27"
+    },
+    {
+        "book": "RHV",
+        "title": "OArRa, Sezione 7: Elenco degli indirizzi, Regolamento di utilizzazione",
+        "citation": "Art. 27 cpv. 2 OArRa",
+        "content": "L’elenco degli indirizzi non può essere trasmesso a terzi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2007/868/it#art_27"
+    }
+]

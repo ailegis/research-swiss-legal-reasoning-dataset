@@ -1,0 +1,968 @@
+[
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Zweck",
+        "citation": "Art. 1 Abs. 1 WaG",
+        "content": "Dieses Gesetz soll:\na. den Wald in seiner Fläche und in seiner räumlichen Verteilung erhalten;\nb. den Wald als naturnahe Lebensgemeinschaft schützen;\nc. dafür sorgen, dass der Wald seine Funktionen, namentlich seine Schutz-, Wohlfahrts- und Nutzfunktion (Waldfunktionen) erfüllen kann;\nd. die Waldwirtschaft fördern und erhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_1"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Zweck",
+        "citation": "Art. 1 Abs. 2 WaG",
+        "content": "Es soll ausserdem dazu beitragen, dass Menschen und erhebliche Sachwerte vor Lawinen, Rutschungen, Erosion und Steinschlag (Naturereignisse) geschützt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_1"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Begriff des Waldes",
+        "citation": "Art. 2 Abs. 1 WaG",
+        "content": "Als Wald gilt jede Fläche, die mit Waldbäumen oder Waldsträuchern bestockt ist und Waldfunktionen erfüllen kann. Entstehung, Nutzungsart und Bezeichnung im Grundbuch sind nicht massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_2"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Begriff des Waldes",
+        "citation": "Art. 2 Abs. 2 WaG",
+        "content": "Als Wald gelten auch:\na. Weidwälder, bestockte Weiden (Wytweiden) und Selven;\nb. unbestockte oder ertraglose Flächen eines Waldgrundstückes, wie Blössen, Waldstrassen und andere forstliche Bauten und Anlagen;\nc. Grundstücke, für die eine Aufforstungspflicht besteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_2"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Begriff des Waldes",
+        "citation": "Art. 2 Abs. 3 WaG",
+        "content": "Nicht als Wald gelten isolierte Baum- und Strauchgruppen, Hecken, Alleen, Garten‐, Grün- und Parkanlagen, Baumkulturen, die auf offenem Land zur kurzfristigen Nutzung angelegt worden sind, sowie Bäume und Sträucher auf Einrichtungen zur Stauhaltung und in deren unmittelbarem Vorgelände.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_2"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Begriff des Waldes",
+        "citation": "Art. 2 Abs. 4 WaG",
+        "content": "Innerhalb des vom Bundesrat festgesetzten Rahmens können die Kantone bestimmen, ab welcher Breite, welcher Fläche und welchem Alter eine einwachsende Fläche sowie ab welcher Breite und welcher Fläche eine andere Bestockung als Wald gilt. Erfüllt die Bestockung in besonderem Masse Wohlfahrts- oder Schutzfunktionen, so sind die kantonalen Kriterien nicht massgebend.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_2"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 1. Kapitel: Allgemeine Bestimmungen, Erhaltung des Waldes",
+        "citation": "Art. 3 WaG",
+        "content": "Die Waldfläche soll nicht vermindert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_3"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Begriff der Rodung",
+        "citation": "Art. 4 WaG",
+        "content": "Als Rodung gilt die dauernde oder vorübergehende Zweckentfremdung von Waldboden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_4"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 1 WaG",
+        "content": "Rodungen sind verboten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 2 WaG",
+        "content": "Eine Ausnahmebewilligung darf erteilt werden, wenn der Gesuchsteller nachweist, dass für die Rodung wichtige Gründe bestehen, die das Interesse an der Walderhaltung überwiegen und zudem die folgenden Voraussetzungen erfüllt sind:\na. das Werk, für das gerodet werden soll, muss auf den vorgesehenen Standort angewiesen sein;\nb. das Werk muss die Voraussetzungen der Raumplanung sachlich erfüllen;\nc. die Rodung darf zu keiner erheblichen Gefährdung der Umwelt führen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 3 WaG",
+        "content": "Nicht als wichtige Gründe gelten finanzielle Interessen, wie die möglichst einträgliche Nutzung des Bodens oder die billige Beschaffung von Land für nichtforstliche Zwecke.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 3bis WaG",
+        "content": "Hat eine Behörde über die Bewilligung für den Bau von Anlagen zur Nutzung erneuerbarer Energien und von Energietransport- und -verteilanlagen zu entscheiden, so ist bei der Interessenabwägung das nationale Interesse an der Realisierung dieser Vorhaben als gleichrangig mit anderen nationalen Interessen zu betrachten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 4 WaG",
+        "content": "Dem Natur- und Heimatschutz ist Rechnung zu tragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsverbot und Ausnahmebewilligungen",
+        "citation": "Art. 5 Abs. 5 WaG",
+        "content": "Rodungsbewilligungen sind zu befristen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_5"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Zuständigkeit",
+        "citation": "Art. 6 Abs. 1 WaG",
+        "content": "Ausnahmebewilligungen erteilen:\na. die Bundesbehörden, wenn sie über die Errichtung oder Änderung eines Werkes, für das gerodet werden soll, entscheiden;\na. die kantonalen Behörden, wenn sie über die Errichtung oder Änderung eines Werkes, für das gerodet werden soll, entscheiden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_6"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Zuständigkeit",
+        "citation": "Art. 6 Abs. 2 WaG",
+        "content": "Bevor die kantonale Behörde über eine Ausnahmebewilligung entscheidet, hört sie das Bundesamt für Umwelt (Bundesamt) an, wenn:\na. die Rodungsfläche grösser ist als 5000 m2; werden für das gleiche Werk mehrere Rodungsgesuche gestellt, so ist die Gesamtfläche massgebend; \nb. der zu rodende Wald in mehreren Kantonen liegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_6"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsersatz",
+        "citation": "Art. 7 Abs. 1 WaG",
+        "content": "Für jede Rodung ist in derselben Gegend mit standortgerechten Arten Realersatz zu leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_7"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsersatz",
+        "citation": "Art. 7 Abs. 2 WaG",
+        "content": "Anstelle von Realersatz können gleichwertige Massnahmen zu Gunsten des Natur- und Landschaftsschutzes getroffen werden:\na. in Gebieten mit zunehmender Waldfläche;\nb. in den übrigen Gebieten ausnahmsweise zur Schonung von landwirtschaftlichem Kulturland sowie ökologisch oder landschaftlich wertvoller Gebiete.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_7"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsersatz",
+        "citation": "Art. 7 Abs. 3 WaG",
+        "content": "Auf den Rodungsersatz kann verzichtet werden bei Rodungen:\na. von in den letzten 30 Jahren eingewachsenen Flächen für die Rückgewinnung von landwirtschaftlichem Kulturland;\nb. zur Gewährleistung des Hochwasserschutzes und zur Revitalisierung von Gewässern;\nc. für den Erhalt und die Aufwertung von Biotopen nach den Artikeln 18a und 18b Absatz 1 des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_7"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Rodungsersatz",
+        "citation": "Art. 7 Abs. 4 WaG",
+        "content": "Wird nach Absatz 3 Buchstabe a rückgewonnenes landwirtschaftliches Kulturland innerhalb von 30 Jahren einer anderen Nutzung zugeführt, so ist der Rodungsersatz nachträglich zu leisten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_7"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Ausgleich",
+        "citation": "Art. 9 WaG",
+        "content": "Die Kantone sorgen dafür, dass durch Rodungsbewilligungen entstehende erhebliche Vorteile, die nicht nach Artikel 5 des Raumplanungsgesetzes vom 22. Juni 1979 erfasst werden, angemessen ausgeglichen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_9"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Waldfeststellung",
+        "citation": "Art. 10 Abs. 1 WaG",
+        "content": "Wer ein schutzwürdiges Interesse nachweist, kann vom Kanton feststellen lassen, ob eine Fläche Wald ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_10"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Waldfeststellung",
+        "citation": "Art. 10 Abs. 2 WaG",
+        "content": "Beim Erlass und bei der Revision von Nutzungsplänen nach dem Bundesgesetz vom 22. Juni 1979 über die Raumplanung ist eine Waldfeststellung anzuordnen in Gebieten:\na. in denen Bauzonen an den Wald grenzen oder in Zukunft grenzen sollen;\nb. ausserhalb der Bauzonen, in denen der Kanton eine Zunahme des Waldes verhindern will.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_10"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 1. Abschnitt: Rodung und Waldfeststellung, Waldfeststellung",
+        "citation": "Art. 10 Abs. 3 WaG",
+        "content": "Steht ein Begehren um Waldfeststellung in Zusammenhang mit einem Rodungsgesuch, richtet sich die Zuständigkeit nach Artikel 6. Die zuständige Bundesbehörde entscheidet auf Antrag der zuständigen kantonalen Behörde.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_10"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Rodung und Baubewilligung",
+        "citation": "Art. 11 Abs. 1 WaG",
+        "content": "Die Rodungsbewilligung befreit nicht von der Einholung der im Raumplanungsgesetz vom 22. Juni 1979 vorgesehenen Baubewilligung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_11"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Rodung und Baubewilligung",
+        "citation": "Art. 11 Abs. 2 WaG",
+        "content": "Erfordert ein Bauvorhaben sowohl eine Rodungsbewilligung als auch eine Ausnahmebewilligung für das Bauen ausserhalb der Bauzone, so darf diese nur im Einvernehmen mit der nach Artikel 6 dieses Gesetzes zuständigen Behörde erteilt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_11"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Einbezug von Wald in Nutzungspläne",
+        "citation": "Art. 12 WaG",
+        "content": "Die Zuweisung von Wald zu einer Nutzungszone bedarf einer Rodungsbewilligung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_12"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Abgrenzung von Wald und Nutzungszonen",
+        "citation": "Art. 13 Abs. 1 WaG",
+        "content": "Waldgrenzen, die gemäss Artikel 10 Absatz 2 festgestellt worden sind, werden in den Nutzungsplänen eingetragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_13"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Abgrenzung von Wald und Nutzungszonen",
+        "citation": "Art. 13 Abs. 2 WaG",
+        "content": "Neue Bestockungen ausserhalb dieser Waldgrenzen gelten nicht als Wald.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_13"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 2. Abschnitt: Wald und Raumplanung, Abgrenzung von Wald und Nutzungszonen",
+        "citation": "Art. 13 Abs. 3 WaG",
+        "content": "Waldgrenzen können im Waldfeststellungsverfahren nach Artikel 10 überprüft werden, wenn die Nutzungspläne revidiert werden und sich die tatsächlichen Verhältnisse wesentlich geändert haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_13"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 3. Abschnitt: Betreten und Befahren des Waldes, Zugänglichkeit",
+        "citation": "Art. 14 Abs. 1 WaG",
+        "content": "Die Kantone sorgen dafür, dass der Wald der Allgemeinheit zugänglich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_14"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 3. Abschnitt: Betreten und Befahren des Waldes, Zugänglichkeit",
+        "citation": "Art. 14 Abs. 2 WaG",
+        "content": "Wo es die Erhaltung des Waldes oder andere öffentliche Interessen, wie namentlich der Schutz von Pflanzen und wildlebenden Tieren erfordern, haben die Kantone:\na. für bestimmte Waldgebiete die Zugänglichkeit einzuschränken;\nb. die Durchführung von grossen Veranstaltungen im Wald einer Bewilligung zu unterstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_14"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 3. Abschnitt: Betreten und Befahren des Waldes, Motorfahrzeugverkehr",
+        "citation": "Art. 15 Abs. 1 WaG",
+        "content": "Wald und Waldstrassen dürfen nur zu forstlichen Zwecken mit Motorfahrzeugen befahren werden. Der Bundesrat regelt die Ausnahmen für militärische und andere öffentliche Aufgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_15"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 3. Abschnitt: Betreten und Befahren des Waldes, Motorfahrzeugverkehr",
+        "citation": "Art. 15 Abs. 2 WaG",
+        "content": "Die Kantone können zulassen, dass Waldstrassen zu weiteren Zwecken befahren werden dürfen, wenn nicht die Walderhaltung oder andere öffentliche Interessen dagegen sprechen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_15"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 3. Abschnitt: Betreten und Befahren des Waldes, Motorfahrzeugverkehr",
+        "citation": "Art. 15 Abs. 3 WaG",
+        "content": "Die Kantone sorgen für die entsprechende Signalisation und für die nötigen Kontrollen. Wo Signalisation und Kontrollen nicht genügen, können Barrieren angebracht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_15"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Nachteilige Nutzungen",
+        "citation": "Art. 16 Abs. 1 WaG",
+        "content": "Nutzungen, welche keine Rodung im Sinne von Artikel 4 darstellen, jedoch die Funktionen oder die Bewirtschaftung des Waldes gefährden oder beeinträchtigen, sind unzulässig. Rechte an solchen Nutzungen sind abzulösen, wenn nötig durch Enteignung. Die Kantone erlassen die erforderlichen Bestimmungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_16"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Nachteilige Nutzungen",
+        "citation": "Art. 16 Abs. 2 WaG",
+        "content": "Aus wichtigen Gründen können die zuständigen Behörden solche Nutzungen unter Auflagen und Bedingungen bewilligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_16"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Waldabstand",
+        "citation": "Art. 17 Abs. 1 WaG",
+        "content": "Bauten und Anlagen in Waldesnähe sind nur zulässig, wenn sie die Erhaltung, Pflege und Nutzung des Waldes nicht beeinträchtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_17"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Waldabstand",
+        "citation": "Art. 17 Abs. 2 WaG",
+        "content": "Die Kantone schreiben einen angemessenen Mindestabstand der Bauten und Anlagen vom Waldrand vor. Sie berücksichtigen dabei die Lage und die zu erwartende Höhe des Bestandes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_17"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Waldabstand",
+        "citation": "Art. 17 Abs. 3 WaG",
+        "content": "Aus wichtigen Gründen können die zuständigen Behörden die Unterschreitung des Mindestabstands unter Auflagen und Bedingungen bewilligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_17"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 2. Kapitel: Schutz des Waldes vor Eingriffen, 4. Abschnitt: Schutz vor anderen Beeinträchtigungen, Umweltgefährdende Stoffe",
+        "citation": "Art. 18 WaG",
+        "content": "Im Wald dürfen keine umweltgefährdenden Stoffe verwendet werden. Die Umweltschutzgesetzgebung regelt die Ausnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_18"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 3. Kapitel: Schutz vor Naturereignissen",
+        "citation": "Art. 19 WaG",
+        "content": "Wo es der Schutz von Menschen oder erheblichen Sachwerten erfordert, sichern die Kantone die Lawinen-, Rutsch-, Erosions- und Steinschlaggebiete und sorgen für den forstlichen Bachverbau. Für die Massnahmen sind möglichst naturnahe Methoden anzuwenden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_19"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Bewirtschaftungsgrundsätze",
+        "citation": "Art. 20 Abs. 1 WaG",
+        "content": "Der Wald ist so zu bewirtschaften, dass er seine Funktionen dauernd und uneingeschränkt erfüllen kann (Nachhaltigkeit).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_20"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Bewirtschaftungsgrundsätze",
+        "citation": "Art. 20 Abs. 2 WaG",
+        "content": "Die Kantone erlassen Planungs- und Bewirtschaftungsvorschriften; sie tragen dabei den Erfordernissen der Holzversorgung, des naturnahen Waldbaus und des Natur- und Heimatschutzes Rechnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_20"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Bewirtschaftungsgrundsätze",
+        "citation": "Art. 20 Abs. 3 WaG",
+        "content": "Lassen es der Zustand des Waldes und die Walderhaltung zu, so kann namentlich aus ökologischen und landschaftlichen Gründen auf die Pflege und Nutzung des Waldes ganz oder teilweise verzichtet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_20"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Bewirtschaftungsgrundsätze",
+        "citation": "Art. 20 Abs. 4 WaG",
+        "content": "Die Kantone können zur Erhaltung der Artenvielfalt von Fauna und Flora angemessene Flächen als Waldreservate ausscheiden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_20"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Bewirtschaftungsgrundsätze",
+        "citation": "Art. 20 Abs. 5 WaG",
+        "content": "Wo es die Schutzfunktion erfordert, stellen die Kantone eine minimale Pflege sicher.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_20"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Holznutzung",
+        "citation": "Art. 21 WaG",
+        "content": "Wer im Wald Bäume fällen will, braucht eine Bewilligung des Forstdienstes. Die Kantone können Ausnahmen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_21"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Arbeitssicherheit",
+        "citation": "Art. 21a WaG",
+        "content": "Zur Gewährleistung der Arbeitssicherheit müssen Auftragnehmerinnen und Auftragnehmer, die Holzerntearbeiten im Wald ausführen, nachweisen, dass die eingesetzten Arbeitskräfte einen vom Bund anerkannten Kurs zur Sensibilisierung über die Gefahren von forstlichen Arbeiten besucht haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_21_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Kahlschlagverbot",
+        "citation": "Art. 22 Abs. 1 WaG",
+        "content": "Kahlschläge und Formen der Holznutzung, die in ihren Auswirkungen Kahlschlägen nahe kommen, sind verboten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_22"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Kahlschlagverbot",
+        "citation": "Art. 22 Abs. 2 WaG",
+        "content": "Für besondere waldbauliche Massnahmen können die Kantone Ausnahmen bewilligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_22"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Wiederbestockung von Blössen",
+        "citation": "Art. 23 Abs. 1 WaG",
+        "content": "Entstehen durch Eingriffe oder Naturereignisse Blössen, welche die Stabilität oder die Schutzfunktion eines Waldes gefährden, so ist sicherzustellen, dass sie wieder bestockt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_23"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Wiederbestockung von Blössen",
+        "citation": "Art. 23 Abs. 2 WaG",
+        "content": "Geschieht dies nicht durch natürliche Verjüngung, so müssen die Blössen mit standortgerechten Baum- und Straucharten ausgepflanzt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_23"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Forstliches Vermehrungsgut",
+        "citation": "Art. 24 Abs. 1 WaG",
+        "content": "Für forstliche Anpflanzungen dürfen nur Saatgut und Pflanzen verwendet werden, die gesund und standortgerecht sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_24"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Forstliches Vermehrungsgut",
+        "citation": "Art. 24 Abs. 2 WaG",
+        "content": "Der Bundesrat erlässt Vorschriften über Herkunft, Verwendung, Handel und Sicherung des forstlichen Vermehrungsgutes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_24"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Veräusserung und Teilung",
+        "citation": "Art. 25 Abs. 1 WaG",
+        "content": "Die Veräusserung von Wald im Eigentum von Gemeinden und Korporationen und die Teilung von Wald bedürfen einer kantonalen Bewilligung. Diese darf nur erteilt werden, wenn dadurch die Waldfunktionen nicht beeinträchtigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_25"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 1. Abschnitt: Bewirtschaftung des Waldes, Veräusserung und Teilung",
+        "citation": "Art. 25 Abs. 2 WaG",
+        "content": "Bedarf die Veräusserung oder die Teilung zugleich einer Bewilligung nach dem Bundesgesetz vom 4. Oktober 1991 über das bäuerliche Bodenrecht, so sorgen die Kantone dafür, dass die Bewilligungsverfahren vereinigt und durch einen Gesamtentscheid abgeschlossen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_25"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen des Bundes",
+        "citation": "Art. 26 Abs. 1 WaG",
+        "content": "Der Bundesrat erlässt Vorschriften über Massnahmen zur Verhütung und Behebung von Schäden, die durch Naturereignisse oder Schadorganismen verursacht werden und die den Wald in seinen Funktionen erheblich gefährden können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_26"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen des Bundes",
+        "citation": "Art. 26 Abs. 2 WaG",
+        "content": "Zum Schutz vor Schadorganismen kann er insbesondere den Umgang mit bestimmten Organismen, Pflanzen und Waren verbieten oder einschränken sowie Bewilligungs-, Melde-, Registrierungs- und Dokumentationspflichten einführen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_26"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen des Bundes",
+        "citation": "Art. 26 Abs. 3 WaG",
+        "content": "Der Bund sorgt für Massnahmen an der Landesgrenze sowie die Festlegung und die Koordination von kantonsübergreifenden Massnahmen der Kantone im Landesinnern.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_26"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen des Bundes",
+        "citation": "Art. 26 Abs. 4 WaG",
+        "content": "Er unterhält einen eidgenössischen Pflanzenschutzdienst, der im Bereich des Waldes dem Bundesamt untersteht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_26"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen der Kantone",
+        "citation": "Art. 27 Abs. 1 WaG",
+        "content": "Unter Vorbehalt von Artikel 26 ergreifen die Kantone Massnahmen gegen die Ursachen und Folgen von Schäden, welche die Erhaltung des Waldes in seinen Funktionen erheblich gefährden können. Sie überwachen insbesondere ihr Gebiet auf Schadorganismen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_27"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Massnahmen der Kantone",
+        "citation": "Art. 27 Abs. 2 WaG",
+        "content": "Sie regeln den Wildbestand so, dass die Erhaltung des Waldes, insbesondere seine natürliche Verjüngung mit standortgerechten Baumarten, ohne Schutzmassnahmen gesichert ist. Wo dies nicht möglich ist, treffen sie Massnahmen zur Verhütung von Wildschäden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_27"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Vorkehrungen gegen Schadorganismen",
+        "citation": "Art. 27a Abs. 1 WaG",
+        "content": "Wer mit Pflanzenmaterial umgeht, muss die Grundsätze des Pflanzenschutzes beachten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_27_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Vorkehrungen gegen Schadorganismen",
+        "citation": "Art. 27a Abs. 2 WaG",
+        "content": "Der Bund legt unter Mitwirkung der betroffenen Kantone Strategien und Richtlinien fest für Massnahmen gegen Schadorganismen, die den Wald in seinen Funktionen erheblich gefährden können. Die Massnahmen sind darauf auszurichten, dass:\na. neu festgestellte Schadorganismen rechtzeitig getilgt werden;\nb. etablierte Schadorganismen eingedämmt werden, wenn der zu erwartende Nutzen die Bekämpfungskosten überwiegt;\nc. zum Schutz des Waldes Schadorganismen auch ausserhalb des Waldareals überwacht, getilgt oder eingedämmt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_27_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Vorkehrungen gegen Schadorganismen",
+        "citation": "Art. 27a Abs. 3 WaG",
+        "content": "Inhaberinnen und Inhaber von Bäumen, Sträuchern, weiteren Pflanzen, Kulturen, Pflanzenmaterial, Produktionsmitteln und Gegenständen, die von Schadorganismen befallen sind, befallen sein könnten oder selbst Schadorganismen sind, haben deren Überwachung, Isolierung, Behandlung oder Vernichtung in Zusammenarbeit mit den zuständigen Behörden vorzunehmen oder zu dulden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_27_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Ausserordentliche Vorkehren bei Waldkatastrophen",
+        "citation": "Art. 28 WaG",
+        "content": "Bei Waldkatastrophen kann die Bundesversammlung mit allgemeinverbindlichem, nicht referendumspflichtigem Bundesbeschluss Massnahmen ergreifen, die insbesondere der Erhaltung der Wald- und Holzwirtschaft dienen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_28"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 4. Kapitel: Pflege und Nutzung des Waldes, 2. Abschnitt: Verhütung und Behebung von Waldschäden, Vorkehrungen zum Klimawandel",
+        "citation": "Art. 28a WaG",
+        "content": "Der Bund und die Kantone ergreifen Massnahmen, welche den Wald darin unterstützen, seine Funktionen auch unter veränderten Klimabedingungen nachhaltig erfüllen zu können.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_28_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Ausbildungsaufgaben des Bundes",
+        "citation": "Art. 29 Abs. 1 WaG",
+        "content": "Der Bund koordiniert und fördert die forstliche Ausbildung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_29"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Ausbildungsaufgaben des Bundes",
+        "citation": "Art. 29 Abs. 2 WaG",
+        "content": "Er sorgt in Zusammenarbeit mit den Kantonen für die theoretische und praktische forstliche Aus- und Weiterbildung auf Hochschulstufe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_29"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Ausbildungsaufgaben des Bundes",
+        "citation": "Art. 29 Abs. 4 WaG",
+        "content": "Für die Berufsbildung des Forstpersonals gilt die Gesetzgebung über die Berufsbildung. Der Bundesrat legt die forstlichen Ausbildungsbereiche fest, in denen das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation diese Gesetzgebung vollzieht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_29"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Ausbildungs- und Beratungsaufgaben der Kantone",
+        "citation": "Art. 30 WaG",
+        "content": "Die Kantone sorgen für die Ausbildung der Waldarbeiter und die Beratung der Waldeigentümer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_30"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Forschung und Entwicklung",
+        "citation": "Art. 31 Abs. 1 WaG",
+        "content": "Der Bund kann für folgende Zwecke Arbeiten in Auftrag geben oder mit Finanzhilfen unterstützen:\na. Erforschung des Waldes;\nb. Erforschung und Entwicklung von Massnahmen zum Schutz des Waldes vor schädlichen Einwirkungen;\nc. Erforschung und Entwicklung von Massnahmen zum Schutz von Menschen und erheblichen Sachwerten vor Naturereignissen;\nd. Erforschung und Entwicklung von Massnahmen zur Verbesserung des Holzabsatzes und der Holzverwertung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_31"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Forschung und Entwicklung",
+        "citation": "Art. 31 Abs. 2 WaG",
+        "content": "Er kann Forschungsstätten schaffen und unterhalten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_31"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Übertragung von Aufgaben an Vereinigungen",
+        "citation": "Art. 32 Abs. 1 WaG",
+        "content": "Der Bund kann Vereinigungen von gesamtschweizerischer Bedeutung mit Aufgaben betrauen, die im Interesse der Walderhaltung liegen und ihnen dafür Finanzhilfen ausrichten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_32"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Übertragung von Aufgaben an Vereinigungen",
+        "citation": "Art. 32 Abs. 2 WaG",
+        "content": "Er kann Aufgaben von besonderer Bedeutung für bestimmte Regionen, namentlich im Berggebiet, auch kantonalen oder regionalen Vereinigungen übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_32"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Erhebungen",
+        "citation": "Art. 33 Abs. 1 WaG",
+        "content": "Der Bund sorgt für periodische Erhebungen über die Standorte, die Funktionen und den Zustand des Waldes, über die Produktion und die Verwertung des Holzes sowie über die Strukturen und die wirtschaftliche Lage der Waldwirtschaft. Die Waldeigentümer sowie die verantwortlichen Organe von Betrieben der Wald- und Holzwirtschaft müssen den Behörden die hiezu erforderlichen Auskünfte erteilen und nötigenfalls Abklärungen dulden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_33"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Erhebungen",
+        "citation": "Art. 33 Abs. 2 WaG",
+        "content": "Personen, die mit der Durchführung oder der Auswertung von Erhebungen betraut sind, unterstehen dem Amtsgeheimnis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_33"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1. Abschnitt: Ausbildung, Beratung, Forschung und Grundlagenbeschaffung, Information",
+        "citation": "Art. 34 WaG",
+        "content": "Bund und Kantone sorgen für die Information der Behörden und der Öffentlichkeit über die Bedeutung und den Zustand des Waldes sowie über die Wald- und Holzwirtschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_34"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1a. Abschnitt: Holzförderung, Absatz und Verwertung von Holz",
+        "citation": "Art. 34a WaG",
+        "content": "Der Bund fördert den Absatz und die Verwertung von nachhaltig produziertem Holz, insbesondere mittels der Unterstützung von innovativen Projekten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_34_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1a. Abschnitt: Holzförderung, Bauten und Anlagen des Bundes",
+        "citation": "Art. 34b Abs. 1 WaG",
+        "content": "Der Bund fördert bei der Planung, der Errichtung und dem Betrieb eigener Bauten und Anlagen soweit geeignet die Verwendung von nachhaltig produziertem Holz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_34_b"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 1a. Abschnitt: Holzförderung, Bauten und Anlagen des Bundes",
+        "citation": "Art. 34b Abs. 2 WaG",
+        "content": "Bei der Beschaffung von Holzerzeugnissen berücksichtigt er die nachhaltige und naturnahe Waldbewirtschaftung sowie das Ziel der Reduktion von Treibhausgasemissionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_34_b"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Grundsätze",
+        "citation": "Art. 35 Abs. 1 WaG",
+        "content": "Förderungsbeiträge nach diesem Gesetz werden im Rahmen der bewilligten Kredite unter der Voraussetzung gewährt, dass:\na. die Massnahmen wirtschaftlich sind und fachkundig durchgeführt werden;\nb. die Massnahmen mit denjenigen anderer Bundesgesetze gesamthaft und in ihrem Zusammenwirken beurteilt werden;\nc. der Empfänger eine Eigenleistung erbringt, die in einem angemessenen Verhältnis zu seiner wirtschaftlichen Leistungsfähigkeit, den übrigen Finanzierungsquellen und der ihm zumutbaren Selbsthilfe steht;\nd. Dritte, die Nutzniesser oder Schadenverursacher sind, zur Mitfinanzierung herangezogen werden;\ne. eine dauerhafte, für die Walderhaltung günstige Regelung von Konflikten getroffen wird.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_35"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Grundsätze",
+        "citation": "Art. 35 Abs. 2 WaG",
+        "content": "Der Bundesrat kann vorsehen, dass Beiträge nur an Empfänger ausgerichtet werden, die sich an Selbsthilfemassnahmen der Wald- und Holzwirtschaft beteiligen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_35"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutz vor Naturereignissen",
+        "citation": "Art. 36 Abs. 1 WaG",
+        "content": "Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an Massnahmen, die Menschen und erhebliche Sachwerte vor Naturereignissen schützen, namentlich an:\na. die Erstellung, die Instandstellung und den Ersatz von Schutzbauten und ‐anlagen;\nb. die Schaffung von Wald mit besonderer Schutzfunktion sowie die entsprechende Jungwaldpflege;\nc. die Erstellung von Gefahrenkatastern und Gefahrenkarten, die Einrichtung und den Betrieb von Messstellen sowie den Aufbau von Frühwarndiensten zur Sicherung von Siedlungen und Verkehrswegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_36"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutz vor Naturereignissen",
+        "citation": "Art. 36 Abs. 2 WaG",
+        "content": "Ausnahmsweise kann er an Projekte, die eine Beurteilung durch den Bund im Einzelfall erfordern, Abgeltungen durch Verfügung gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_36"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutz vor Naturereignissen",
+        "citation": "Art. 36 Abs. 3 WaG",
+        "content": "Die Höhe der Abgeltungen richtet sich nach der Gefährdung durch Naturereignisse sowie nach den Kosten und der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_36"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutzwald",
+        "citation": "Art. 37 Abs. 1 WaG",
+        "content": "Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an Massnahmen, die für die Erfüllung der Funktion des Schutzwaldes notwendig sind, namentlich an:\na. die Pflege des Schutzwaldes, einschliesslich der Verhütung und Behebung von Waldschäden, welche den Schutzwald gefährden;\nb. die Sicherstellung der Infrastruktur für die Pflege des Schutzwaldes, soweit sie auf den Wald als natürliche Lebensgemeinschaft Rücksicht nimmt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutzwald",
+        "citation": "Art. 37 Abs. 1bis WaG",
+        "content": "Ausnahmsweise kann er an Projekte, die durch ausserordentliche Naturereignisse ausgelöst werden, Abgeltungen durch Verfügung gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Schutzwald",
+        "citation": "Art. 37 Abs. 2 WaG",
+        "content": "Die Höhe der Abgeltungen richtet sich nach der zu pflegenden Schutzwaldfläche, der zu verhindernden Gefährdung und der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Massnahmen gegen Waldschäden ausserhalb des Schutzwaldes",
+        "citation": "Art. 37a Abs. 1 WaG",
+        "content": "Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Abgeltungen an Massnahmen zur Verhütung und Behebung von Waldschäden ausserhalb des Schutzwaldes, die durch Naturereignisse oder Schadorganismen verursacht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Massnahmen gegen Waldschäden ausserhalb des Schutzwaldes",
+        "citation": "Art. 37a Abs. 2 WaG",
+        "content": "Ausnahmsweise kann er an Projekte, die eine Beurteilung durch den Bund im Einzelfall erfordern, Abgeltungen durch Verfügung gewähren.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Massnahmen gegen Waldschäden ausserhalb des Schutzwaldes",
+        "citation": "Art. 37a Abs. 3 WaG",
+        "content": "Die Höhe der Abgeltungen richtet sich nach der zu verhindernden Gefährdung und der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Abfindung für Kosten",
+        "citation": "Art. 37b Abs. 1 WaG",
+        "content": "Den Adressaten von Massnahmen gegen Schadorganismen nach Artikel 27a Absatz 3 kann eine Abfindung nach Billigkeit ausgerichtet werden für Kosten der Verhütung, Bekämpfung und Wiederherstellung, die nicht nach Artikel 48a getragen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37_b"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Abfindung für Kosten",
+        "citation": "Art. 37b Abs. 2 WaG",
+        "content": "Die Abfindungen werden von der zuständigen Behörde in einem möglichst einfachen und für die geschädigte Person kostenlosen Verfahren endgültig festgelegt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_37_b"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Biologische Vielfalt des Waldes",
+        "citation": "Art. 38 Abs. 1 WaG",
+        "content": "Der Bund gewährt den Kantonen auf der Grundlage von Programmvereinbarungen globale Finanzhilfen an Massnahmen, die zur Erhaltung und Verbesserung der biologischen Vielfalt im Wald beitragen, namentlich an:\na. den Schutz und Unterhalt von Waldreservaten und anderen ökologisch wertvollen Waldlebensräumen;\nb. die Förderung der Artenvielfalt und der genetischen Vielfalt im Wald;\nc. die Vernetzung von Waldlebensräumen;\nd. die Erhaltung traditioneller Waldbewirtschaftungen;\ne. ...",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_38"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Biologische Vielfalt des Waldes",
+        "citation": "Art. 38 Abs. 3 WaG",
+        "content": "Die Höhe der Finanzhilfen richtet sich nach der Bedeutung der Massnahmen für die biologische Vielfalt und nach der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_38"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Waldbewirtschaftung",
+        "citation": "Art. 38a Abs. 1 WaG",
+        "content": "Der Bund gewährt Finanzhilfen an Massnahmen, welche die Wirtschaftlichkeit der nachhaltigen Waldbewirtschaftung verbessern, namentlich an:\na. überbetriebliche Planungsgrundlagen;\nb. Massnahmen zur Verbesserung der Bewirtschaftungsbedingungen der Betriebe der Waldwirtschaft;\nc. befristete gemeinsame Massnahmen der Wald- und Holzwirtschaft für Werbung und Absatzförderung bei aussergewöhnlichem Holzanfall;\nd. die Lagerung von Holz bei aussergewöhnlichem Holzanfall;\ne. die Förderung der Ausbildung von Waldarbeitern und die praktische Ausbildung von Waldfachleuten der Hochschulstufe;\nf. Massnahmen, die den Wald darin unterstützen, seine Funktionen auch unter veränderten Klimabedingungen erfüllen zu können, namentlich an die Jungwaldpflege und die Gewinnung von forstlichem Vermehrungsgut;\ng. die Anpassung oder die Wiederinstandstellung von Erschliessungsanlagen, soweit sie im Rahmen von Gesamtkonzepten für die Bewirtschaftung des Waldes erforderlich sind, auf den Wald als naturnahe Lebensgemeinschaft Rücksicht nehmen und soweit Übererschliessungen verhindert werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_38_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Waldbewirtschaftung",
+        "citation": "Art. 38a Abs. 2 WaG",
+        "content": "Er gewährt Finanzhilfen:\na. an Massnahmen nach Absatz 1 Buchstaben a, b und d–g: als globale Beiträge auf der Grundlage von Programmvereinbarungen, die mit den Kantonen abgeschlossen werden;\nb. an Massnahmen nach Absatz 1 Buchstabe c: mit Verfügung des Bundesamtes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_38_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Waldbewirtschaftung",
+        "citation": "Art. 38a Abs. 3 WaG",
+        "content": "Die Höhe der Finanzhilfen richtet sich nach der Wirksamkeit der Massnahmen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_38_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Ausbildung",
+        "citation": "Art. 39 Abs. 1 WaG",
+        "content": "Der Bund leistet an die Ausbildung des Forstpersonals Beiträge nach den Artikeln 52–59 des Berufsbildungsgesetzes vom 13. Dezember 2002.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_39"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Ausbildung",
+        "citation": "Art. 39 Abs. 2 WaG",
+        "content": "In Abweichung zu Absatz 1 übernimmt er bis zu 50 Prozent der berufsspezifischen Kosten, namentlich für die ortsgebundene praktische Ausbildung des Forstpersonals und die Schaffung von Lehrmitteln für das Forstpersonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_39"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Investitionskredite",
+        "citation": "Art. 40 Abs. 1 WaG",
+        "content": "Der Bund kann unverzinsliche oder niedrig verzinsliche, rückzahlbare Darlehen gewähren:\na. als Baukredit;\nb. zur Finanzierung der Restkosten von Massnahmen, die nach den Artikeln 36, 37 und 38a Absatz 1 Buchstabe b subventionierbar sind;\nc. zur Anschaffung forstlicher Fahrzeuge, Maschinen und Geräte sowie zur Erstellung von forstbetrieblichen Anlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_40"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Investitionskredite",
+        "citation": "Art. 40 Abs. 2 WaG",
+        "content": "Die Darlehen werden befristet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_40"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Investitionskredite",
+        "citation": "Art. 40 Abs. 3 WaG",
+        "content": "Darlehen werden nur auf Antrag des Kantons gewährt. Kommt ein Schuldner seiner Rückzahlungspflicht nicht nach, so übernimmt der betreffende Kanton an seiner Stelle die Rückzahlung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_40"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Investitionskredite",
+        "citation": "Art. 40 Abs. 4 WaG",
+        "content": "Rückzahlungen sind erneut für Investitionskredite einzusetzen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_40"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Bereitstellung der Beiträge",
+        "citation": "Art. 41 Abs. 1 WaG",
+        "content": "Die Bundesversammlung bewilligt mit einfachem Bundesbeschluss einen jeweils auf vier Jahre befristeten Verpflichtungskredit für die Zusicherung von Beiträgen und Darlehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_41"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 2. Abschnitt: Finanzierung, Bereitstellung der Beiträge",
+        "citation": "Art. 41 Abs. 2 WaG",
+        "content": "Beiträge an die Bewältigung ausserordentlicher Naturereignisse werden nach der Dauer der entsprechenden Massnahmen befristet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_41"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 3. Abschnitt: Weitere Massnahmen",
+        "citation": "Art. 41a Abs. 1 WaG",
+        "content": "Zur Förderung von Qualität und Absatz kann der Bundesrat Vorschriften über die freiwillige Kennzeichnung der Herkunft von waldwirtschaftlichen Erzeugnissen und deren Verarbeitungsprodukten erlassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_41_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 5. Kapitel: Förderungsmassnahmen, 3. Abschnitt: Weitere Massnahmen",
+        "citation": "Art. 41a Abs. 2 WaG",
+        "content": "Für die Registrierung und den Schutz der Bezeichnungen sowie die Verfahren gilt das Bundesgesetz vom 29. April 1998 über die Landwirtschaft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_41_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Vergehen",
+        "citation": "Art. 42 Abs. 1 WaG",
+        "content": "Mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe wird bestraft, wer vorsätzlich:\na. ohne Berechtigung rodet;\nb. durch unwahre oder unvollständige Angaben oder in anderer Weise für sich oder einen anderen eine Leistung erwirkt, die ihm nicht zusteht;\nc. eine vorgeschriebene Schaffung von Wald unterlässt oder verhindert.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_42"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Vergehen",
+        "citation": "Art. 42 Abs. 2 WaG",
+        "content": "Handelt der Täter fahrlässig, ist die Strafe Busse bis zu 40 000 Franken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_42"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 43 Abs. 1 WaG",
+        "content": "Mit Busse bis zu 20 000 Franken wird bestraft, wer vorsätzlich und ohne Berechtigung:\na. forstliche Bauten und Anlagen zweckentfremdet;\nb. die Zugänglichkeit des Waldes einschränkt;\nc. Zugänglichkeitsbeschränkungen nach Artikel 14 missachtet;\nd. Wald oder Waldstrassen mit Motorfahrzeugen befährt;\ne. im Wald Bäume fällt;\nf. Abklärungen verhindert oder in Verletzung der Auskunftspflicht unwahre oder unvollständige Auskunft erteilt oder die Auskunft verweigert;\ng. die Vorschriften über Massnahmen zur Verhütung und Behebung von Waldschäden sowie Massnahmen gegen Krankheiten und Schädlinge, die den Wald bedrohen können, innerhalb oder ausserhalb des Waldes missachtet; Artikel 233 Strafgesetzbuch bleibt vorbehalten;\nh. die Vorschriften über Herkunft, Verwendung, Handel und Sicherung des forstlichen Vermehrungsgutes missachtet. Stellt eine Widerhandlung zugleich eine Widerhandlung gegen die Zollgesetzgebung dar, wird sie nach Massgabe des Zollgesetzes vom 1. Oktober 1925 verfolgt und beurteilt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_43"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 43 Abs. 2 WaG",
+        "content": "Versuch und Gehilfenschaft sind strafbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_43"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 43 Abs. 3 WaG",
+        "content": "Handelt der Täter fahrlässig, ist die Strafe Busse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_43"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Übertretungen",
+        "citation": "Art. 43 Abs. 4 WaG",
+        "content": "Die Kantone können Widerhandlungen gegen kantonales Recht als Übertretungen ahnden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_43"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Vergehen und Übertretungen in Geschäftsbetrieben",
+        "citation": "Art. 44 WaG",
+        "content": "Wird das Vergehen oder die Übertretung im Geschäftsbetrieb einer juristischen Person, einer Personengesellschaft oder einer Einzelfirma oder im Betrieb einer Körperschaft oder Anstalt des öffentlichen Rechts begangen, so gelten die Artikel 6 und 7 des Verwaltungsstrafrechtsgesetzes vom 22. März 1974.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_44"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 6. Kapitel: Strafbestimmungen, Strafverfolgung",
+        "citation": "Art. 45 WaG",
+        "content": "Die Strafverfolgung ist Sache der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_45"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Rechtspflege",
+        "citation": "Art. 46 Abs. 1 WaG",
+        "content": "Das Beschwerdeverfahren richtet sich nach den allgemeinen Bestimmungen über die Bundesrechtspflege.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_46"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Rechtspflege",
+        "citation": "Art. 46 Abs. 2 WaG",
+        "content": "Das Bundesamt ist berechtigt, gegen Verfügungen der kantonalen Behörden in Anwendung dieses Gesetzes und seiner Ausführungserlasse, die Rechtsmittel des eidgenössischen und kantonalen Rechts zu ergreifen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_46"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Rechtspflege",
+        "citation": "Art. 46 Abs. 3 WaG",
+        "content": "Das Beschwerderecht der Kantone, Gemeinden und Vereinigungen für Natur- und Heimatschutz richtet sich nach den Artikeln 12–12g des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz. Es ist auch gegen Verfügungen gegeben, die gestützt auf Artikel 5, 7, 8, 10, 12 und 13 dieses Gesetzes erlassen werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_46"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Rechtspflege",
+        "citation": "Art. 46 Abs. 4 WaG",
+        "content": "Der Bundesrat kann in den Ausführungserlassen ein Einspracheverfahren gegen erstinstanzliche Verfügungen vorsehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_46"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Wirksamkeit von Bewilligungen und Anordnungen",
+        "citation": "Art. 47 WaG",
+        "content": "Bewilligungen und Anordnungen nach diesem Gesetz werden erst wirksam, wenn sie in Rechtskraft erwachsen sind. Vorbehalten bleibt Artikel 12e des Bundesgesetzes vom 1. Juli 1966 über den Natur- und Heimatschutz.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_47"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Enteignung",
+        "citation": "Art. 48 Abs. 1 WaG",
+        "content": "Wenn Massnahmen zur Walderhaltung oder die Erstellung von Bauten und Anlagen zum Schutze vor Naturereignissen es erfordern, können sich die Kantone das benötigte Grundeigentum und allfällige Dienstbarkeiten durch Enteignung verschaffen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_48"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Enteignung",
+        "citation": "Art. 48 Abs. 2 WaG",
+        "content": "Sie können in ihren Ausführungsvorschriften das Enteignungsgesetz vom 20. Juni 1930 anwendbar erklären, wobei die Kantonsregierung über streitig gebliebene Einsprachen entscheidet. Erstreckt sich der Gegenstand der Enteignung auf das Gebiet mehrerer Kantone, ist das Bundesgesetz über die Enteignung anwendbar.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_48"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 1. Abschnitt: Verfahren, Kostentragung durch Verursacher",
+        "citation": "Art. 48a WaG",
+        "content": "Die Kosten von Massnahmen, welche die Behörden zur Abwehr einer unmittelbar drohenden Gefährdung oder Beeinträchtigung des Waldes sowie zu deren Feststellung und Behebung treffen oder anordnen, werden dem schuldhaften Verursacher überbunden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_48_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Bund",
+        "citation": "Art. 49 Abs. 1 WaG",
+        "content": "Der Bund beaufsichtigt den Vollzug dieses Gesetzes und vollzieht die ihm durch das Gesetz direkt übertragenen Aufgaben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_49"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Bund",
+        "citation": "Art. 49 Abs. 1bis WaG",
+        "content": "Er koordiniert seine Vollzugsmassnahmen mit denjenigen der Kantone.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_49"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Bund",
+        "citation": "Art. 49 Abs. 2 WaG",
+        "content": "Bevor eine Bundesbehörde gestützt auf ein anderes Bundesgesetz oder einen Staatsvertrag eine Verfügung in Anwendung des Waldgesetzes erlässt, hört sie die betroffenen Kantone an. Das Bundesamt und die übrigen betroffenen Bundesstellen wirken nach den Artikeln 62a und 62b des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997 beim Vollzug mit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_49"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Bund",
+        "citation": "Art. 49 Abs. 3 WaG",
+        "content": "Der Bundesrat erlässt Ausführungsvorschriften. Er kann den Erlass von Vorschriften vorwiegend technischer oder administrativer Natur auf das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation oder seine Dienststellen sowie auf nachgeordnete Bundesämter übertragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_49"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Kantone",
+        "citation": "Art. 50 Abs. 1 WaG",
+        "content": "Die Kantone vollziehen dieses Gesetz und erlassen die notwendigen Vorschriften; vorbehalten bleibt Artikel 49.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_50"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Kantone",
+        "citation": "Art. 50 Abs. 2 WaG",
+        "content": "Die kantonalen Behörden treffen umgehend die nötigen Massnahmen zur Beseitigung rechtswidriger Zustände. Sie sind zur Erhebung von Kautionen und zur Ersatzvornahme befugt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_50"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Auslagerung von Vollzugsaufgaben",
+        "citation": "Art. 50a WaG",
+        "content": "Die Vollzugsbehörden können öffentlich-rechtliche Körperschaften oder Private gegen Entschädigung mit der Durchführung von Kontrollen oder weiteren Vollzugsmassnahmen beauftragen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_50_a"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Forstorganisation",
+        "citation": "Art. 51 Abs. 1 WaG",
+        "content": "Die Kantone sorgen für eine zweckmässige Organisation des Forstdienstes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_51"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Forstorganisation",
+        "citation": "Art. 51 Abs. 2 WaG",
+        "content": "Sie teilen ihre Gebiete in Forstkreise und Forstreviere ein. Diese werden durch Waldfachleute mit höherer Ausbildung und praktischer Erfahrung geleitet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_51"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Genehmigungsvorbehalt",
+        "citation": "Art. 52 WaG",
+        "content": "Die kantonalen Ausführungsbestimmungen zu den Artikeln 16 Absatz 1, 17 Absatz 2 und 20 Absatz 2 bedürfen zu ihrer Gültigkeit der Genehmigung des Bundes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_52"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Mitteilungspflichten",
+        "citation": "Art. 53 Abs. 1 WaG",
+        "content": "Alle kantonalen Ausführungsbestimmungen müssen vor ihrer Inkraftsetzung dem Bundesamt mitgeteilt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_53"
+    },
+    {
+        "book": "WaG",
+        "title": "WaG, 7. Kapitel: Verfahren und Vollzug, 2. Abschnitt: Vollzug, Mitteilungspflichten",
+        "citation": "Art. 53 Abs. 2 WaG",
+        "content": "Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation legt fest, welche kantonalen Verfügungen und Entscheide dem Bundesamt mitgeteilt werden müssen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1992/2521_2521_2521/de#art_53"
+    }
+]

@@ -1,0 +1,436 @@
+[
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Installations nouvelles",
+        "citation": "Art. 1 OEIE",
+        "content": "Les installations mentionnées en annexe sont soumises à une étude de l’impact sur l’environnement (EIE) au sens de l’art. 10a LPE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_1"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Modification d’installations existantes",
+        "citation": "Art. 2 al. 1 OEIE",
+        "content": "La modification d’une installation mentionnée dans l’annexe de la présente ordonnance est soumise à une EIE si:\na. elle consiste en une transformation ou un agrandissement considérables de l’installation, ou si elle change notablement son mode d’exploitation, et\nb. elle doit être autorisée dans le cadre de la procédure qui serait décisive s’il s’agissait de construire l’installation (art. 5).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_2"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Modification d’installations existantes",
+        "citation": "Art. 2 al. 2 OEIE",
+        "content": "La modification d’une installation qui n’est pas mentionnée dans l’annexe de la présente ordonnance est soumise à une EIE si:\na. après que ladite modification aura été effectuée, l’installation sera assimilable aux installations définies en annexe;\nb. elle doit être autorisée dans le cadre de la procédure qui serait décisive s’il s’agissait de construire l’installation (art. 5).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_2"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Objet de l’EIE",
+        "citation": "Art. 3 al. 1 OEIE",
+        "content": "L’EIE permet de déterminer si un projet de construction ou de modification d’une installation répond aux prescriptions sur la protection de l’environnement, dont font partie la LPE et les dispositions concernant la protection de la nature, la protection du paysage, la protection des eaux, la sauvegarde des forêts, la chasse, la pêche et le génie génétique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_3"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Objet de l’EIE",
+        "citation": "Art. 3 al. 2 OEIE",
+        "content": "L’autorité compétente se fonde sur les conclusions de l’étude pour décider, dans le cadre de la procédure décisive, de l’autorisation ou de l’approbation du projet, ou de l’octroi d’une concession pour l’exploitation de l’installation (art. 5). De même, lorsque la réalisation d’un projet nécessite l’autorisation d’une autorité autre que l’autorité compétente (art. 21), cette autorité se prononce elle aussi en fonction des conclusions de l’EIE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_3"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 1, Champ d’application et définition, Installations non soumises à l’EIE",
+        "citation": "Art. 4 OEIE",
+        "content": "Lorsque la construction ou la modification d’une installation n’est pas soumise à l’EIE, on applique les prescriptions sur la protection de l’environnement (art. 3). Dans ces cas, l’établissement d’un rapport d’impact au sens de l’art. 7 n’est pas nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_4"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 2, Déroulement de l’EIE, Autorité compétente et procédure décisive",
+        "citation": "Art. 5 al. 1 OEIE",
+        "content": "L’EIE est effectuée par l’autorité qui, dans le cadre de la procédure d’autorisation, d’approbation ou d’octroi de concession, est compétente pour décider de la réalisation du projet («autorité compétente»).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_5"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 2, Déroulement de l’EIE, Autorité compétente et procédure décisive",
+        "citation": "Art. 5 al. 2 OEIE",
+        "content": "L’EIE est effectuée dans le cadre d’une procédure donnée, («procédure décisive»), variant selon le type d’installation. Ces différentes procédures sont consignées dans l’annexe de la présente ordonnance. Si, lors de l’approbation ultérieure de plans de détail, une décision est exceptionnellement prise au sujet des effets considérables sur l’environnement d’une installation soumise à l’EIE, une étude sera également effectuée lors de cette procédure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_5"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 2, Déroulement de l’EIE, Autorité compétente et procédure décisive",
+        "citation": "Art. 5 al. 3 OEIE",
+        "content": "Si la procédure décisive n’est pas déterminée dans l’annexe, elle doit être définie par le droit cantonal. Les cantons choisissent la procédure qui permet à l’autorité compétente de commencer ses travaux le plus rapidement possible et d’effectuer une EIE exhaustive. Dans tous les cas où les cantons prévoient l’établissement d’un plan d’affectation spécial (ou: «plan d’affectation de détail»), c’est cette procédure qui est considérée comme procédure décisive, à condition qu’elle permette de procéder à une EIE exhaustive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_5"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 2, Déroulement de l’EIE, EIE par étapes",
+        "citation": "Art. 6 OEIE",
+        "content": "S’il est prévu dans l’annexe ou dans le droit cantonal que l’EIE doit être effectuée par étapes, c’est-à-dire comprendre plusieurs procédures successives, chacune de ces procédures doit permettre à l’autorité compétente d’obtenir toutes les informations dont elle a besoin pour pouvoir se prononcer au terme de la procédure en question.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_6"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 3, EIE dans un contexte transfrontière",
+        "citation": "Art. 6a al. 1 OEIE",
+        "content": "S’il est établi ou probable que la Suisse sera touchée par l’impact transfrontière important d’un projet étranger, les droits et les obligations de la Suisse au sens de la Convention d’Espoo sont assumés par:\na. l’Office fédéral de l’environnement (OFEV):\n1. qui accuse réception de la notification de la partie d’origine, et\n2. qui transmet les prises de position à la partie d’origine, si le projet relevait en Suisse de la compétence d’une autorité cantonale;\nb. l’autorité compétente au sens de l’art. 5, al. 1, qui statuerait sur le projet en Suisse, pour ce qui est des autres droits et obligations; si l’autorité compétente au sens de l’art. 5, al. 1, est une autorité cantonale, les cantons peuvent désigner une autre compétence.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_6_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 1, Dispositions générales, Section 3, EIE dans un contexte transfrontière",
+        "citation": "Art. 6a al. 2 OEIE",
+        "content": "Lorsqu’une autorité compétente au sens de l’art. 5, al. 1, statue sur un projet dont il est établi ou probable qu’il aura un impact transfrontière important, elle assume également les droits et obligations de la Suisse en tant que partie d’origine au sens de la Convention d’Espoo; les cantons peuvent désigner une autre compétence si le projet est cantonal. L’autorité informe l’OFEV de la notification du projet à la partie touchée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_6_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Obligation d’établir un rapport d’impact sur l’environnement",
+        "citation": "Art. 7 OEIE",
+        "content": "Quiconque projette de construire ou de modifier une installation soumise à une EIE au sens de la présente ordonnance est tenu, dès la phase de planification, d’établir un rapport qui rende compte de l’impact que l’installation aurait sur l’environnement (rapport d’impact).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_7"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Enquête préliminaire et cahier des charges",
+        "citation": "Art. 8 al. 1 OEIE",
+        "content": "Quiconque demande un permis de construire ou de modifier une installation («requérant») doit:\na. effectuer une enquête préliminaire mettant en évidence l’impact que la réalisation du projet aurait sur l’environnement;\nb. présenter un cahier des charges précisant les impacts du projet sur l’environnement à étudier dans le rapport d’impact, les méthodes d’investigation prévues ainsi que le cadre géographique et temporel de ces études.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_8"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Enquête préliminaire et cahier des charges",
+        "citation": "Art. 8 al. 2 OEIE",
+        "content": "Le requérant soumet l’enquête préliminaire et le cahier des charges à l’autorité compétente. Celle-ci transmet les documents au service spécialisé de la protection de l’environnement (art. 12), qui les évalue avant de faire part au requérant de ses observations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_8"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Enquête préliminaire en guise de rapport d’impact",
+        "citation": "Art. 8a al. 1 OEIE",
+        "content": "L’enquête préliminaire est réputée rapport d’impact lorsque cette enquête a démontré et exposé tous les effets du projet sur l’environnement ainsi que les mesures de protection nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_8_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Enquête préliminaire en guise de rapport d’impact",
+        "citation": "Art. 8a al. 2 OEIE",
+        "content": "Le contenu du rapport d’impact doit être conforme aux art. 9 et 10. Les délais de traitement sont régis par l’art. 12b.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_8_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Contenu du rapport d’impact",
+        "citation": "Art. 9 al. 1 OEIE",
+        "content": "Le rapport d’impact doit être conforme à l’art. 10b, al. 2, LPE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_9"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Contenu du rapport d’impact",
+        "citation": "Art. 9 al. 2 OEIE",
+        "content": "Il doit notamment contenir toutes les indications dont l’autorité compétente a besoin pour apprécier le projet au sens de l’art. 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_9"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Contenu du rapport d’impact",
+        "citation": "Art. 9 al. 3 OEIE",
+        "content": "Il doit rendre compte de tous les aspects de l’impact sur l’environnement imputables à la réalisation du projet et les évaluer aussi bien isolément que collectivement et dans leur action conjointe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_9"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Contenu du rapport d’impact",
+        "citation": "Art. 9 al. 4 OEIE",
+        "content": "Il doit également présenter la manière dont les résultats des études environnementales effectuées dans le cadre de l’aménagement du territoire sont pris en compte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_9"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Directives émanant des services spécialisés de la protection de l’environnement",
+        "citation": "Art. 10 al. 1 OEIE",
+        "content": "L’enquête préliminaire, le cahier des charges et le rapport d’impact sont établis conformément aux directives d’aide à l’exécution édictées par l’OFEV lorsque:\na. l’EIE est effectuée par une autorité fédérale;\nb. le rapport d’impact concerne une installation pour laquelle l’annexe prévoit que l’OFEV doit être consulté, ou\nc. le service spécialisé de la protection de l’environnement du canton n’a pas édicté de directives propres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_10"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Directives émanant des services spécialisés de la protection de l’environnement",
+        "citation": "Art. 10 al. 2 OEIE",
+        "content": "Dans tous les autres cas, l’enquête préliminaire, le cahier des charges et le rapport d’impact sont établis conformément aux directives d’aide à l’exécution édictées par le service spécialisé de la protection de l’environnement du canton.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_10"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 2 Rapport établissant l’impact d’une installation sur l’environnement, Remise du rapport d’impact",
+        "citation": "Art. 11 OEIE",
+        "content": "Le requérant remet le rapport d’impact et les autres documents à l’autorité compétente dès l’engagement de la procédure décisive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_11"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Compétence",
+        "citation": "Art. 12 al. 1 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité cantonale, le service spécialisé de la protection de l’environnement du canton évalue l’enquête préliminaire, le cahier des charges et le rapport d’impact.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Compétence",
+        "citation": "Art. 12 al. 2 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité fédérale, l’OFEV évalue l’enquête préliminaire, le cahier des charges et le rapport d’impact. Il prend en compte l’avis du canton.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Compétence",
+        "citation": "Art. 12 al. 3 OEIE",
+        "content": "S’il s’agit d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, celui-ci évalue de façon sommaire l’enquête préliminaire, le cahier des charges et le rapport d’impact en s’appuyant sur l’évaluation du service spécialisé de la protection de l’environnement du canton.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour l’enquête préliminaire et le cahier des charges",
+        "citation": "Art. 12a al. 1 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité cantonale, le droit cantonal fixe le délai dont dispose le service spécialisé de la protection de l’environnement pour évaluer l’enquête préliminaire et le cahier des charges.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour l’enquête préliminaire et le cahier des charges",
+        "citation": "Art. 12a al. 2 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité fédérale, l’OFEV évalue l’enquête préliminaire et le cahier des charges dans un délai de deux mois. Il dispose d’un mois au minimum pour se prononcer après réception de l’avis cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour l’enquête préliminaire et le cahier des charges",
+        "citation": "Art. 12a al. 3 OEIE",
+        "content": "S’il s’agit d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, celui-ci évalue l’enquête préliminaire et le cahier des charges dans un délai de deux mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour le rapport d’impact",
+        "citation": "Art. 12b al. 1 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité cantonale, le droit cantonal fixe le délai dont dispose le service spécialisé de la protection de l’environnement pour évaluer le rapport d’impact.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_b"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour le rapport d’impact",
+        "citation": "Art. 12b al. 2 OEIE",
+        "content": "Si l’EIE est effectuée par une autorité fédérale, l’OFEV évalue les rapports dans un délai de cinq mois. Il dispose de deux mois au minimum pour se prononcer après réception de l’avis cantonal et d’un mois dans le cas des projets visés au ch. 22.2 de l’annexe.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_b"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Délais de traitement pour le rapport d’impact",
+        "citation": "Art. 12b al. 3 OEIE",
+        "content": "S’il s’agit d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, celui-ci dispose de deux mois pour évaluer si l’installation prévue est conforme aux prescriptions sur la protection de l’environnement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_12_b"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Évaluation du rapport d’impact",
+        "citation": "Art. 13 al. 1 OEIE",
+        "content": "Le service spécialisé de la protection de l’environnement examine à la lumière des directives qu’il a édictées si les indications contenues dans le rapport d’impact sont complètes et exactes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_13"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Évaluation du rapport d’impact",
+        "citation": "Art. 13 al. 2 OEIE",
+        "content": "S’il constate que tel n’est pas le cas, il demande à l’autorité compétente de prendre contact avec le requérant pour obtenir les données manquantes ou de faire appel à des experts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_13"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Évaluation du rapport d’impact",
+        "citation": "Art. 13 al. 3 OEIE",
+        "content": "Il évalue si l’installation projetée est conforme aux prescriptions sur la protection de l’environnement (art. 3). S’il s’agit d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, celui-ci procède à une évaluation sommaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_13"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 3, Tâches des services spécialisés de la protection de l’environnement, Évaluation du rapport d’impact",
+        "citation": "Art. 13 al. 4 OEIE",
+        "content": "Il communique ses conclusions à l’autorité compétente; si nécessaire, il lui demande d’imposer des charges au requérant ou de soumettre la réalisation du projet à certaines conditions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_13"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Coordination",
+        "citation": "Art. 14 al. 1 OEIE",
+        "content": "L’autorité compétente veille à la bonne coordination des différents travaux préparatoires, notamment de ceux que doit effectuer le requérant avec ceux qui incombent au service spécialisé de la protection de l’environnement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_14"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Coordination",
+        "citation": "Art. 14 al. 2 OEIE",
+        "content": "Elle veille à ce que le service spécialisé de la protection de l’environnement obtienne le rapport d’impact ainsi que toutes les autres pièces nécessaires pour mener à bien la procédure décisive dont il a besoin pour évaluer l’impact que l’installation prévue aurait sur l’environnement si elle était réalisée. Si l’EIE est effectuée par une autorité fédérale, ces pièces comprennent les avis émis par les cantons dans le cadre de la procédure décisive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_14"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Coordination",
+        "citation": "Art. 14 al. 3 OEIE",
+        "content": "Les cantons ont la possibilité de confier les tâches mentionnées aux al. 1 et 2 du présent article à une autorité autre que l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_14"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Coordination",
+        "citation": "Art. 14 al. 4 OEIE",
+        "content": "Dans le cas d’un projet pour lequel l’annexe prévoit que l’OFEV doit être consulté, l’autorité compétente veille à ce que l’enquête préliminaire, le cahier des charges, le rapport d’impact et l’évaluation du service spécialisé de la protection de l’environnement du canton soient communiqués à l’OFEV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_14"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Consultation du rapport d’impact",
+        "citation": "Art. 15 al. 1 OEIE",
+        "content": "L’autorité compétente veille à ce que le rapport d’impact soit accessible au public, sous réserve des dispositions légales concernant l’obligation de garder le secret.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_15"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Consultation du rapport d’impact",
+        "citation": "Art. 15 al. 2 OEIE",
+        "content": "Si la demande de construction ou de modification d’une installation doit être mise à l’enquête, l’avis d’enquête doit préciser que le rapport d’impact peut être consulté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_15"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Consultation du rapport d’impact",
+        "citation": "Art. 15 al. 3 OEIE",
+        "content": "Si la mise à l’enquête n’est pas prescrite, les cantons rendent le rapport accessible selon leur législation propre. L’autorité compétente de la Confédération fait savoir dans la Feuille fédérale ou dans tout autre organe approprié où le rapport d’impact peut être consulté.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_15"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Consultation du rapport d’impact",
+        "citation": "Art. 15 al. 4 OEIE",
+        "content": "Le rapport d’impact peut être consulté pendant 30 jours. Les dispositions spéciales régissant la procédure décisive sont réservées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_15"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Décisions préalables",
+        "citation": "Art. 16 al. 1 OEIE",
+        "content": "L’autorité compétente prend les décisions qui sont nécessaires pour que l’EIE puisse être effectuée correctement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_16"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Décisions préalables",
+        "citation": "Art. 16 al. 2 OEIE",
+        "content": "Elle décide notamment:\na. des propositions formulées par le service spécialisé de la protection de l’environnement;\nb. de la nécessité de requérir des informations complémentaires ou de faire appel à des experts;\nc. de la demande présentée par le requérant souhaitant que certaines parties du rapport d’impact soient gardées secrètes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_16"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 1, Préparation de l’EIE, Décisions préalables",
+        "citation": "Art. 16 al. 3 OEIE",
+        "content": "Si le requérant a demandé que certaines parties du rapport d’impact soient gardées secrètes, l’autorité compétente lui communique sa décision avant que ce dernier ne soit rendu public.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_16"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Éléments nécessaires à l’appréciation du projet",
+        "citation": "Art. 17 OEIE",
+        "content": "L’autorité compétente apprécie la compatibilité du projet avec l’environnement en se fondant sur les éléments suivants:\na. rapport d’impact;\nb. avis des autorités compétentes pour délivrer une autorisation au sens de l’art. 21 ou pour accorder une subvention au sens de l’art. 22;\nc. avis du service spécialisé de la protection de l’environnement qui a évalué le rapport d’impact;\nd. propositions du service spécialisé de la protection de l’environnement;\ne. résultats des enquêtes (si l’autorité compétente en a effectué ou a fait effectuer);\nf. avis exprimés par des tierces personnes, des commissions, des organisations ou des autorités, pour autant qu’ils apportent des éléments utiles au déroulement de l’EIE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_17"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Élimination des divergences au cours de la procédure fédérale",
+        "citation": "Art. 17a OEIE",
+        "content": "Si l’autorité fédérale compétente est en désaccord avec l’évaluation de l’OFEV dans le cadre de la procédure décisive, l’art. 62b de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration est applicable à l’élimination des divergences.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_17_a"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Critères d’appréciation",
+        "citation": "Art. 18 al. 1 OEIE",
+        "content": "L’autorité compétente détermine si le projet répond aux prescriptions sur la protection de l’environnement (art. 3).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_18"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Critères d’appréciation",
+        "citation": "Art. 18 al. 2 OEIE",
+        "content": "Si le projet ne répond pas à ces prescriptions, l’autorité compétente détermine s’il est possible d’autoriser sa réalisation en la soumettant à certaines conditions ou en imposant des charges au requérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_18"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Prise en considération des conclusions de l’EIE",
+        "citation": "Art. 19 OEIE",
+        "content": "L’autorité compétente appelée à décider d’une demande, prend en considération les conclusions de l’EIE dans le cadre de la procédure décisive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_19"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Consultation de la décision",
+        "citation": "Art. 20 al. 1 OEIE",
+        "content": "L’autorité compétente précise où peuvent être consultés le rapport d’impact, l’évaluation du service spécialisé de la protection de l’environnement, les résultats d’une éventuelle consultation de l’OFEV ainsi que le texte de la décision finale, pour autant que cette dernière soit fondée sur les conclusions de l’EIE. Sont réservées les dispositions légales concernant l’obligation de garder le secret ainsi que le droit de consulter les pièces du dossier dont bénéficient ceux qui ont qualité pour recourir au sens des art. 55 et 55f LPE.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_20"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 4, Tâches incombant à l’autorité compétente, Section 2, Appréciation du projet et décision finale, Consultation de la décision",
+        "citation": "Art. 20 al. 2 OEIE",
+        "content": "Les pièces mentionnées à l’al. 1 peuvent être consultées pendant 30 jours, sauf dispositions spéciales prévues dans la loi régissant la procédure décisive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_20"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les autres autorisations nécessaires pour la réalisation d’un projet",
+        "citation": "Art. 21 al. 1 OEIE",
+        "content": "Si la réalisation d’un projet est soumise à l’une des autorisations ci-dessous, l’autorité compétente communique à l’autorité concernée toutes les pièces utiles, lui demande de se prononcer et transmet son avis au service spécialisé de la protection de l’environnement:\na. autorisation de défricher (base légale: loi du 4 oct. 1991 sur les forêts);\nb. autorisation relative au débroussaillement des rives (base légale: LF du 1er juillet 1966 sur la protection de la nature et du paysage);\nc. autorisation relative aux interventions techniques dans les cours d’eau (base légale: LF du 21 juin 1991 sur la pêche);\nd. autorisations diverses relevant de la protection des eaux (base légale: LF du 24 janv. 1991 sur la protection des eaux);\ne. autorisations relatives à l’aménagement et à l’exploitation des décharges (base légale: LF du 7 oct. 1983 sur la protection de l’environnement).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_21"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les autres autorisations nécessaires pour la réalisation d’un projet",
+        "citation": "Art. 21 al. 2 OEIE",
+        "content": "En ce qui concerne les projets soumis à l’EIE, les autorités compétentes pour délivrer une autorisation au sens de l’al. 1 ne prennent leur décision qu’une fois l’EIE achevée (art. 18).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_21"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les autres autorisations nécessaires pour la réalisation d’un projet",
+        "citation": "Art. 21 al. 3 OEIE",
+        "content": "Dès l’instant où l’autorité compétente pour délivrer une autorisation mentionnée à l’al. 1 a communiqué son avis à l’autorité cantonale compétente, elle doit s’y tenir, sauf si des éléments nouveaux viennent modifier les données sur lesquelles elle s’est fondée pour rendre son avis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_21"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les décisions en matière de subventions",
+        "citation": "Art. 22 al. 1 OEIE",
+        "content": "Si l’autorité cantonale compétente constate qu’un projet ne peut probablement pas être réalisé sans une subvention de la Confédération octroyée au cas par cas, elle demande, avant de prendre sa décision, l’avis de l’autorité fédérale compétente en matière de subventions. Celle-ci consulte l’OFEV et tient compte de son point de vue dans son avis. L’OFEV se prononce dans un délai de trois mois.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_22"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les décisions en matière de subventions",
+        "citation": "Art. 22 al. 2 OEIE",
+        "content": "En ce qui concerne les projets soumis à l’EIE, l’autorité fédérale compétente en matière de subventions n’octroie une subvention au cas par cas qu’une fois l’EIE achevée (art. 18).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_22"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les décisions en matière de subventions",
+        "citation": "Art. 22 al. 3 OEIE",
+        "content": "Dès l’instant où l’autorité fédérale compétente en matière de subventions a communiqué son avis à l’autorité cantonale compétente, elle doit s’y tenir, sauf si des éléments nouveaux viennent modifier les données sur lesquelles elle s’est fondée pour rendre son avis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_22"
+    },
+    {
+        "book": "UVPV",
+        "title": "OEIE, Chapitre 5 Coordination avec les autres autorisations et les décisions en matière de subventions, Coordination avec les décisions en matière de subventions",
+        "citation": "Art. 22 al. 4 OEIE",
+        "content": "En ce qui concerne les projets auxquels la Confédération octroie des indemnités globales sur la base de conventions-programmes, la coordination avec les décisions du canton en matière de subventions est régie par le droit cantonal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1988/1931_1931_1931/fr#art_22"
+    }
+]

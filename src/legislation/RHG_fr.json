@@ -1,0 +1,303 @@
+[
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, But et objet",
+        "citation": "Art. 1 al. 1 LHR",
+        "content": "La présente loi vise à simplifier:\na. la collecte de données à des fins statistiques par l’harmonisation des registres officiels de personnes (registres);\nb. l’échange, prévu par la loi, de données personnelles entre les registres.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_1"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, But et objet",
+        "citation": "Art. 1 al. 2 LHR",
+        "content": "À cette fin, elle fixe:\na. les identificateurs et les caractères qui doivent figurer dans les registres;\nb. la compétence de l’Office fédéral de la statistique (office) en matière d’uniformisation des normes, des caractères et des modalités;\nc. le principe de l’exhaustivité et de l’exactitude des registres;\nd. l’obligation de mettre à jour les registres des habitants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_1"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 1 LHR",
+        "content": "La présente loi s’applique aux registres suivants:\na. le registre informatisé de l’état civil (Infostar), tenu par les cantons et exploité par l’Office fédéral de la justice;\nb. le système d’information central sur la migration (SYMIC) du Secrétariat d’État aux migrations;\nc. le système d’information Ordipro du Département fédéral des affaires étrangères;\nd. le système d’information Administration en réseau des Suisses de l’étranger (E-VERA) du Département fédéral des affaires étrangères;\ne. le registre central des assurés, le registre central des rentes et le registre central des prestations en nature de la Centrale de compensation régie par l’art. 71 de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS);\nf. le système d’information de la Centrale de compensation régie par l’art. 71 LAVS pour le traitement des données du domaine des prestations complémentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_2"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Champ d’application",
+        "citation": "Art. 2 al. 2 LHR",
+        "content": "Elle s’applique également aux registres suivants:\na. les registres cantonaux et communaux des habitants;\nb. les registres cantonaux et communaux des électeurs, lorsque ces registres servent aux votations populaires et aux élections du Conseil national.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_2"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Définitions",
+        "citation": "Art. 3 LHR",
+        "content": "Au sens de la présente loi, on entend par:\na. registre des habitants: registre, tenu de manière informatisée ou manuelle par le canton ou la commune, dans lequel sont inscrites toutes les personnes qui y sont établies ou en séjour;\nb. commune d’établissement: commune dans laquelle une personne réside, de façon reconnaissable pour des tiers, avec l’intention d’y vivre durablement et d’y avoir le centre de ses intérêts personnels; une personne est réputée établie dans la commune où elle a déposé le document requis; elle ne peut avoir qu’une commune d’établissement;\nc. commune de séjour: commune dans laquelle une personne réside dans un but particulier sans intention d’y vivre durablement, mais pour une durée d’au moins trois mois consécutifs ou répartis sur une même année, notamment la commune dans laquelle une personne séjourne pour y fréquenter les écoles ou est placée dans un établissement d’éducation, un hospice, un hôpital ou une maison de détention;\nd. ménage: entité constituée de toutes les personnes qui habitent dans le même logement;\ne. identificateur: numéro immuable ne permettant aucune déduction sur la personne ou la chose à laquelle il a été attribué et servant à identifier de manière univoque une personne ou une chose dans une base de données;\nf. caractère: caractéristique d’une personne ou d’une chose pouvant être décrite objectivement et enregistrée;\ng. modalité: valeur concrète que peut prendre un caractère;\nh. nomenclature: système de classification et de présentation de modalités;\ni. liste de codes: ensemble de codes qui permet d’attribuer aux modalités des valeurs chiffrées pouvant être traitées de manière informatisée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_3"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Tâche de l’office",
+        "citation": "Art. 4 al. 1 LHR",
+        "content": "L’office définit les identificateurs et les caractères mentionnés aux art. 6, let. b à t, 7 et 13, al. 2, ainsi que les modalités, les nomenclatures et les listes de codes correspondantes. Les données relatives à l’état civil des personnes sont inscrites dans les registres conformément aux art. 39 à 49 du code civil.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Tâche de l’office",
+        "citation": "Art. 4 al. 2 LHR",
+        "content": "En élaborant les normes, l’office tient compte des exigences et des besoins des cantons, des communes et des services fédéraux qui tiennent ou utilisent les registres au sens de l’art. 2, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Tâche de l’office",
+        "citation": "Art. 4 al. 3 LHR",
+        "content": "Il met les normes, les nomenclatures et les listes de codes requises gratuitement à la disposition des cantons, des communes et des services fédéraux visés à l’art. 2, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Tâche de l’office",
+        "citation": "Art. 4 al. 4 LHR",
+        "content": "Il publie régulièrement un catalogue officiel des caractères, qui contient les modalités ainsi que les nomenclatures et les listes de codes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_4"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 1, Dispositions générales, Exhaustivité des registres",
+        "citation": "Art. 5 LHR",
+        "content": "Les registres doivent contenir des données actuelles, exactes et complètes par rapport à l’ensemble des personnes visées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_5"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Contenu minimal",
+        "citation": "Art. 6 LHR",
+        "content": "Les registres des habitants contiennent au minimum, pour chaque personne établie ou en séjour, les données relatives aux identificateurs et aux caractères suivants:\na. numéro AVS au sens de l’art. 50c de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS);\nb. numéro attribué par l’office à la commune et nom officiel de la commune;\nc. identificateur de bâtiment selon le Registre fédéral des bâtiments et des logements (RegBL) de l’office;\nd. identificateur de logement selon le RegBL, ménage dont la personne est membre et catégorie de ménage;\ne. nom officiel de la personne et autres noms enregistrés à l’état civil;\nf. totalité des prénoms cités dans l’ordre exact;\ng. adresse et adresse postale, y compris le numéro postal d’acheminement et le lieu;\nh. date de naissance et lieu de naissance;\ni. lieux d’origine, si la personne est de nationalité suisse;\nj. sexe;\nk. état civil;\nl. appartenance à une communauté religieuse reconnue de droit public ou reconnue d’une autre manière par le canton;\nm. nationalité;\nn. type d’autorisation, si la personne est de nationalité étrangère;\no. établissement ou séjour dans la commune;\np. commune d’établissement ou commune de séjour;\nq. en cas d’arrivée: date, commune ou État de provenance;\nr. en cas de départ: date, commune ou État de destination;\ns. en cas de déménagement dans la commune: date;\nt. droit de vote et éligibilité aux niveaux fédéral, cantonal et communal;\nu. date de décès.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_6"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Autres caractères",
+        "citation": "Art. 7 LHR",
+        "content": "La gestion d’un caractère non mentionné à l’art. 6 se fait conformément aux exigences du catalogue visé à l’art. 4, al. 4, pour autant que ce caractère y figure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_7"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Détermination et mise à jour de l’identificateur de logement etde l’indication du ménage",
+        "citation": "Art. 8 al. 1 LHR",
+        "content": "Afin de déterminer et de mettre à jour l’identificateur du logement d’une personne et l’indication du ménage dont elle est membre, il est possible de tirer du RegBL les caractères nécessaires à la tenue des registres des habitants pour les y intégrer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Détermination et mise à jour de l’identificateur de logement etde l’indication du ménage",
+        "citation": "Art. 8 al. 2 LHR",
+        "content": "Les cantons édictent les dispositions nécessaires afin que les services industriels et tout autre service tenant des registres mettent gratuitement à la disposition des services du contrôle des habitants les données dont ces derniers ont besoin pour déterminer et mettre à jour l’identificateur du logement d’une personne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Détermination et mise à jour de l’identificateur de logement etde l’indication du ménage",
+        "citation": "Art. 8 al. 3 LHR",
+        "content": "Ils peuvent introduire une numérotation physique des logements afin que l’identificateur du logement soit déterminé et mis à jour. Ces numéros figurent dans le RegBL comme numéros de logement attribués par le canton ou la commune.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Détermination et mise à jour de l’identificateur de logement etde l’indication du ménage",
+        "citation": "Art. 8 al. 4 LHR",
+        "content": "Les cantons peuvent édicter d’autres dispositions pour garantir que l’identificateur du logement soit déterminé et mis à jour.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_8"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Service compétent",
+        "citation": "Art. 9 LHR",
+        "content": "Les cantons désignent un service chargé de coordonner et d’appliquer les mesures d’harmonisation et de procéder aux contrôles de qualité s’y rapportant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_9"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Échange de données en cas de déménagement",
+        "citation": "Art. 10 al. 1 LHR",
+        "content": "Les cantons édictent les dispositions nécessaires afin que, lors du départ ou de l’arrivée d’habitants, les données énumérées à l’art. 6 soient échangées entre les services du contrôle des habitants.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Échange de données en cas de déménagement",
+        "citation": "Art. 10 al. 2 LHR",
+        "content": "L’échange se fait sous forme cryptée par voie électronique. Le cryptage est effectué conformément à la loi du 19 décembre 2003 sur la signature électronique. Le Conseil fédéral détermine les modalités de l’échange des données et les interfaces.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Échange de données en cas de déménagement",
+        "citation": "Art. 10 al. 3 LHR",
+        "content": "Pour l’échange des données, la Confédération met une plateforme informatique et de communication à la disposition des services et des autorités concernés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_10"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Obligation de s’annoncer ",
+        "citation": "Art. 11 LHR",
+        "content": "Les cantons édictent les dispositions nécessaires afin que:\na. toute personne physique qui déménage s’annonce au service du contrôle des habitants dans les 14 jours qui suivent l’événement; \nb. toute personne tenue de s’annoncer communique, de façon conforme à la vérité, les données énumérées à l’art. 6 ainsi que, le cas échéant, les documents nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_11"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Obligation de renseigner",
+        "citation": "Art. 12 al. 1 LHR",
+        "content": "Les cantons édictent les dispositions nécessaires afin que les personnes suivantes communiquent gratuitement aux services du contrôle des habitants qui en font la demande les renseignements relatifs aux personnes tenues de s’annoncer, si ces dernières ne s’acquittent pas de leur obligation au sens de l’art. 11:\na. les employeurs pour leurs employés;\nb. les bailleurs et gérants d’immeuble, pour les locataires qui habitent leurs immeubles, qui y emménagent ou qui les quittent;\nc. les logeurs, pour les personnes habitant dans leur ménage.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_12"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 2, Registres des habitants, Obligation de renseigner",
+        "citation": "Art. 12 al. 2 LHR",
+        "content": "La Poste communique gratuitement aux services du contrôle des habitants qui en font la demande les adresses postales des personnes qui ne s’acquittent pas de leur obligation au sens de l’art. 11.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_12"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 3, Registres fédéraux et cantonaux",
+        "citation": "Art. 13 al. 1 LHR",
+        "content": "Les services qui tiennent les registres visés à l’art. 2, al 1, let. a à d, gèrent le numéro AVS au sens de l’art. 50c de la LAVS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 3, Registres fédéraux et cantonaux",
+        "citation": "Art. 13 al. 2 LHR",
+        "content": "Les autres caractères sont gérés selon les dispositions fédérales déterminantes et les exigences du catalogue visé à l’art. 4, al. 4, pour autant que ces caractères figurent dans ce catalogue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 3, Registres fédéraux et cantonaux",
+        "citation": "Art. 13 al. 3 LHR",
+        "content": "L’office est consulté lors de la modification du contenu d’un registre.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_13"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les cantons et les communes",
+        "citation": "Art. 14 al. 1 LHR",
+        "content": "Les cantons et les communes mettent gratuitement à la disposition de l’office les données visées à l’art. 6. Le Conseil fédéral fixe l’échéance et la périodicité de la fourniture des données.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les cantons et les communes",
+        "citation": "Art. 14 al. 2 LHR",
+        "content": "Sur requête, les cantons et les communes mettent gratuitement à la disposition de l’office les données visées à l’art. 7, afin d’alléger la charge des personnes interrogées lors d’enquêtes, à condition que la législation cantonale n’en interdise pas expressément l’utilisation à des fins statistiques. Le Conseil fédéral détermine les données nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les cantons et les communes",
+        "citation": "Art. 14 al. 3 LHR",
+        "content": "Les données sont fournies sur support électronique ou par voie électronique. Dans ce dernier cas, les données sont cryptées conformément à la loi du 19 décembre 2003 sur la signature électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les cantons et les communes",
+        "citation": "Art. 14 al. 4 LHR",
+        "content": "L’office règle, en collaboration avec les cantons, les conditions techniques de la fourniture des données ainsi que la mise en place des interfaces.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les cantons et les communes",
+        "citation": "Art. 14 al. 5 LHR",
+        "content": "Il définit, en collaboration avec les cantons, les normes de qualité et les contrôles requis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_14"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les services fédéraux ",
+        "citation": "Art. 15 al. 1 LHR",
+        "content": "Les services fédéraux visés à l’art. 2, al. 1, mettent leurs données gratuitement à la disposition de l’office.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_15"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Mise à disposition des données à des fins statistiques par les services fédéraux ",
+        "citation": "Art. 15 al. 2 LHR",
+        "content": "Le Conseil fédéral détermine les données nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_15"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Utilisation des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 16 al. 1 LHR",
+        "content": "L’office peut utiliser les données pour effectuer des relevés ou des exploitations statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Utilisation des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 16 al. 2 LHR",
+        "content": "Il peut tirer des échantillons à partir des données pour effectuer des relevés statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Utilisation des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 16 al. 3 LHR",
+        "content": "Il peut utiliser les données mentionnées à l’art. 6, let. a à h, j, k et m, pour constituer un répertoire d’adresses pour l’exécution de relevés statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Utilisation des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 16 al. 4 LHR",
+        "content": "Il peut, pour remplir ses tâches en matière de statistiques, apparier les données dépourvues de désignation de personne avec celles du RegBL et du Registre des entreprises et des établissements (REE) et les conserver durablement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_16"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Communication des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 17 al. 1 LHR",
+        "content": "Afin de permettre aux services statistiques et aux centres de recherche de la Confédération ainsi qu’aux services cantonaux et communaux de statistique de réaliser des exploitations statistiques, l’office communique gratuitement les données dépourvues de désignation de personne et de numéro AVS ou les rend accessibles en ligne.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Communication des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 17 al. 2 LHR",
+        "content": "L’office met gratuitement à la disposition des services cantonaux et communaux de statistique les données mentionnées à l’art. 6, let. a à h, j, k, et m, relatives à leur propre territoire, pour leur permettre de réaliser des relevés statistiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Communication des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 17 al. 3 LHR",
+        "content": "Il peut communiquer les données dépourvues de désignation de personne et de numéro AVS à d’autres services fédéraux, cantonaux et communaux ainsi qu’à des particuliers à des fins statistiques, de recherche et de planification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Communication des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 17 al. 4 LHR",
+        "content": "Au terme de leurs travaux, les utilisateurs des données visés à l’al. 3 sont tenus de restituer à l’office les données mises à leur disposition ou de lui en confirmer la destruction par écrit. Ils ne sont autorisés à communiquer ces données à des tiers que sur autorisation écrite de l’office.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Communication des données par l’office à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 17 al. 5 LHR",
+        "content": "L’office ne communique les données que si la protection des données est garantie et que les accords contractuels nécessaires ont été conclus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_17"
+    },
+    {
+        "book": "RHG",
+        "title": "LHR, Section 4, Mise à disposition, utilisation et communication des données, Publication des données à des fins statistiques, de recherche et de planification",
+        "citation": "Art. 18 LHR",
+        "content": "Les résultats de l’exploitation des données ne peuvent être publiés que sous une forme rendant impossible toute déduction sur une personne en particulier.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2006/619/fr#art_18"
+    }
+]

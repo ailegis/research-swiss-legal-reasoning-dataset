@@ -1,0 +1,814 @@
+[
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Principio",
+        "citation": "Art. 1 LIOm",
+        "content": "La Confederazione riscuote:\na. un’imposta sugli oli minerali gravante l’olio di petrolio, gli altri oli minerali, il gas di petrolio e i prodotti ottenuti dalla loro lavorazione, nonché i carburanti;\nb. un supplemento fiscale sugli oli minerali gravante i carburanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_1"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 2 cpv. 1 LIOm",
+        "content": "Sono considerati olio di petrolio, altri oli minerali, gas di petrolio e prodotti ottenuti dalla loro lavorazione ai sensi della presente legge:\na. gli oli e altri prodotti provenienti dalla distillazione dei catrami di carbon fossile ottenuti ad alta temperatura; i prodotti analoghi nei quali i costituenti aromatici predominano in peso rispetto ai costituenti non aromatici (voce di tariffa 2707);\nb. gli oli greggi di petrolio o di minerali bituminosi (voce di tariffa 2709);\nc. gli oli di petrolio o di minerali bituminosi, diversi dagli oli greggi; le preparazioni non nominate né comprese altrove, contenenti, in peso, il 70 per cento o più di olio di petrolio o di minerali bituminosi e delle quali tali oli costituiscono l’elemento di base; residui di oli (voce di tariffa 2710);\nd. il gas di petrolio e altri idrocarburi gassosi (voce di tariffa 2711);\ne. le preparazioni lubrificanti (voce di tariffa 3403).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_2"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 2 cpv. 2 LIOm",
+        "content": "Le merci qui appresso sono considerate carburanti a tenore della presente legge, sempre che siano utilizzate come carburanti:\na. l’olio di petrolio, gli altri oli minerali, il gas di petrolio e i prodotti ottenuti dalla loro lavorazione secondo il capoverso 1;\nb. gli idrocarburi aciclici e ciclici (voci di tariffa 2901 e 2902);\nc. gli alcoli aciclici e i loro derivati alogenati, solfonati, nitrati o nitrosi (voce di tariffa 2905);\nd. gli eteri, gli eteri-alcoli, gli eteri-fenoli, gli eteri-alcoli-fenoli, i perossidi di alcoli, i perossidi di eteri, i perossidi di acetali e di emiacetali, i perossidi di chetoni (di costituzione chimica definita o no), e i loro derivati alogenati, solfonati, nitrati o nitrosi (voce di tariffa 2909);\ne. i prodotti della voce di tariffa 3811, eccettuate le preparazioni antidetonanti e gli additivi per oli lubrificanti;\nf. i prodotti della voce di tariffa 3814;\ng. gli alchilbenzeni in miscele e gli alchilnaftaleni in miscele, diversi da quelli delle voci 2707 o 2902 (voce di tariffa 3817);\nh. i prodotti della voce di tariffa 3824;\ni. i biodiesel e le miscele della voce di tariffa 3826;\nj. le altre merci che, miscelate o no, sono utilizzate o destinate a essere utilizzate come carburante.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_2"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Definizioni",
+        "citation": "Art. 2 cpv. 3 LIOm",
+        "content": "Nel senso della presente legge si considera:\na. «imposta», l’imposta sugli oli minerali e il supplemento fiscale sugli oli minerali;\nb. «importatore», chiunque trasporta una merce attraverso il confine, nonché la persona per conto della quale la merce viene importata;\nc. «depositario autorizzato», chiunque è in possesso di un’autorizzazione dell’autorità fiscale che lo abilita a trasformare, estrarre, fabbricare o detenere, in un deposito autorizzato, merci non tassate;\nd. «biocarburante», il carburante prodotto a partire da biomassa o da altri agenti energetici rinnovabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_2"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Designazione dei biocarburanti",
+        "citation": "Art. 2a LIOm",
+        "content": "Il Consiglio federale designa i biocarburanti di cui all’articolo 2 capoverso 3 lettera d.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_2_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Oggetto dell’imposta",
+        "citation": "Art. 3 cpv. 1 LIOm",
+        "content": "Sono soggette all’imposta:\na. la fabbricazione o l’estrazione in territorio svizzero di merci secondo l’articolo 1 e l’articolo 2 capoversi 1 e 2;\nb. l’importazione di tali merci nel territorio svizzero.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_3"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Oggetto dell’imposta",
+        "citation": "Art. 3 cpv. 2 LIOm",
+        "content": "Per territorio svizzero s’intende il territorio della Confederazione, comprese le enclavi doganali estere, ma senza le enclavi doganali svizzere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_3"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Sorgere del credito fiscale",
+        "citation": "Art. 4 cpv. 1 LIOm",
+        "content": "Il credito fiscale sorge con l’immissione in consumo delle merci. Per immissione in consumo s’intende:\na. per le merci importate, il momento della loro immissione in libera pratica doganale;\nb. per le merci in depositi autorizzati (art. 27–32), il momento in cui le merci lasciano il deposito o vi sono utilizzate;\nc. per le merci svincolate da un regime di sospensione (art. 32), il momento secondo la lettera a o la lettera b;\nd. per le merci fabbricate al di fuori di un deposito autorizzato, il momento della loro fabbricazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_4"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Sorgere del credito fiscale",
+        "citation": "Art. 4 cpv. 2 LIOm",
+        "content": "Il credito fiscale sorge inoltre:\na. per la differenza d’imposta gravante le merci tassate che sono cedute o utilizzate a posteriori per scopi soggetti ad un’aliquota più elevata: nel momento in cui le merci sono cedute in vista di tale utilizzazione o, se non sono cedute, prima della loro utilizzazione;\nb. per le merci esenti da imposta che sono cedute o utilizzate a posteriori per scopi soggetti all’imposta: nel momento in cui esse sono cedute in vista di tale utilizzazione o, se non sono cedute, prima della loro utilizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_4"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Autorità fiscale",
+        "citation": "Art. 5 cpv. 1 LIOm",
+        "content": "L’autorità fiscale è l’Ufficio federale della dogana e della sicurezza dei confini (UDSC). Esso esegue tutti i provvedimenti previsti dalla presente legge e impartisce tutte le istruzioni necessarie a tal riguardo la cui emanazione non è espressamente riservata a un’altra autorità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_5"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Autorità fiscale",
+        "citation": "Art. 5 cpv. 2 LIOm",
+        "content": "L’autorità fiscale conteggia le spese di riscossione sulle entrate dell’imposta sui carburanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_5"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Controlli da parte dell’autorità fiscale",
+        "citation": "Art. 6 cpv. 1 LIOm",
+        "content": "L’autorità fiscale è abilitata a effettuare controlli in qualsiasi momento e senza preavviso, in particolare presso i contribuenti e le persone che devono tenere una contabilità merci o hanno presentato una domanda di restituzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_6"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Controlli da parte dell’autorità fiscale",
+        "citation": "Art. 6 cpv. 2 LIOm",
+        "content": "L’autorità fiscale può esigere tutte le informazioni e i libri contabili, i documenti commerciali e altri documenti importanti per l’esecuzione della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_6"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Assistenza amministrativa",
+        "citation": "Art. 7 cpv. 1 LIOm",
+        "content": "L’autorità fiscale può invitare a collaborare:\na. i Cantoni e i Comuni per compiti connessi alla restituzione dell’imposta all’agricoltura;\nb. le organizzazioni incaricate dell’esecuzione di provvedimenti connessi all’approvvigionamento economico del Paese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_7"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Assistenza amministrativa",
+        "citation": "Art. 7 cpv. 2 LIOm",
+        "content": "Le polizie cantonali e comunali sono tenute a denunciare all’autorità fiscale tutte le infrazioni al diritto fiscale in materia di oli minerali, di cui vengono a conoscenza nell’esercizio della loro attività ufficiale, e ad assecondare tale autorità nell’accertamento dei fatti nonché nel perseguimento dell’autore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_7"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Assistenza amministrativa",
+        "citation": "Art. 7 cpv. 3 LIOm",
+        "content": "Sono tenuti a informare l’autorità fiscale, sempre che le informazioni richieste possano essere importanti ai fini dell’esecuzione della presente legge:\na. le autorità amministrative della Confederazione nonché gli istituti e le regìe federali autonomi;\nb. le autorità cantonali, distrettuali, circondariali e comunali;\nc. le organizzazioni che nell’ambito della loro attività si occupano di compiti di diritto pubblico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_7"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 1: Disposizioni generali, Segreto",
+        "citation": "Art. 8 LIOm",
+        "content": "Chiunque è tenuto a collaborare all’esecuzione della presente legge o a informare l’autorità fiscale deve mantenere il segreto nei confronti di terzi per quanto concerne gli accertamenti fatti nell’esercizio delle sue funzioni e rifiutare loro la consultazione di atti ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_8"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Persone soggette all’imposta",
+        "citation": "Art. 9 LIOm",
+        "content": "Sono soggetti all’imposta:\na. gli importatori;\nb. i depositari autorizzati;\nc. le persone che cedono, utilizzano o fanno utilizzare merci tassate per scopi soggetti a un’aliquota più elevata;\nd. le persone che cedono, utilizzano o fanno utilizzare merci non tassate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_9"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Successione fiscale",
+        "citation": "Art. 10 cpv. 1 LIOm",
+        "content": "Il successore fiscale subentra alla persona soggetta all’imposta nei suoi diritti e doveri risultanti dalla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_10"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Successione fiscale",
+        "citation": "Art. 10 cpv. 2 LIOm",
+        "content": "Sono reputati successori fiscali:\na. gli eredi in caso di decesso della persona soggetta all’imposta o del successore fiscale;\nb. i consoci con responsabilità personale o i loro eredi all’atto della liquidazione di una società senza personalità giuridica;\nc. la persona giuridica che assume, con attivi e passivi, il patrimonio o l’azienda da un’altra persona giuridica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_10"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Successione fiscale",
+        "citation": "Art. 10 cpv. 3 LIOm",
+        "content": "Gli eredi rispondono solidalmente dei debiti della società sino a concorrenza della loro quota ereditaria e i soci con responsabilità personale nei limiti della loro responsabilità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_10"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Successione fiscale",
+        "citation": "Art. 10 cpv. 4 LIOm",
+        "content": "Trattandosi di più successori fiscali, ciascuno di essi può esercitare autonomamente i diritti risultanti dalla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_10"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 2: Assoggettamento all’imposta, Responsabilità solidale",
+        "citation": "Art. 11 LIOm",
+        "content": "Rispondono solidalmente con la persona soggetta all’imposta o con il successore fiscale:\na. in caso di scioglimento di una persona giuridica o di una società senza personalità giuridica: le persone incaricate della liquidazione, anche nella procedura di fallimento o di concordato, sino a concorrenza del prodotto della liquidazione;\nb. in caso di scioglimento di una persona giuridica che ha trasferito la sua sede all’estero senza procedere a una liquidazione: gli organi, personalmente, sino a concorrenza dell’importo patrimoniale netto della persona giuridica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_11"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Tariffa d’imposta",
+        "citation": "Art. 12 cpv. 1 LIOm",
+        "content": "L’imposta sugli oli minerali è riscossa secondo la tariffa contenuta nell’Allegato 1 della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Tariffa d’imposta",
+        "citation": "Art. 12 cpv. 2 LIOm",
+        "content": "Il supplemento fiscale sugli oli minerali è fissato a 300 franchi per 1000 litri a 15°C.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per il gas naturale e il gas liquido",
+        "citation": "Art. 12a cpv. 1 LIOm",
+        "content": "L’imposta sul gas naturale e sul gas liquido utilizzati come carburante è inferiore di 40 centesimi per equivalente di litro di benzina rispetto all’imposta secondo la tariffa dell’imposta sugli oli minerali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per il gas naturale e il gas liquido",
+        "citation": "Art. 12a cpv. 2 LIOm",
+        "content": "L’imposta sugli oli minerali e il supplemento fiscale sugli oli minerali sono riscossi conformemente alla tariffa dell’allegato 1a della presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per biocarburanti",
+        "citation": "Art. 12b cpv. 1 LIOm",
+        "content": "Su richiesta, per i biocarburanti è accordata un’agevolazione fiscale se sono soddisfatte le seguenti esigenze:\na. dalla coltivazione delle materie prime fino al loro consumo, i biocarburanti emettono gas serra in misura notevolmente inferiore rispetto alla benzina fossile;\nb. dalla coltivazione delle materie prime fino al loro consumo, nel complesso i biocarburanti non inquinano l’ambiente in misura notevolmente maggiore rispetto alla benzina fossile;\nc. la coltivazione delle materie prime non ha richiesto un cambiamento di destinazione di superfici che presentano un elevato stock di carbonio o una grande biodiversità;\nd. le materie prime sono state coltivate su superfici acquistate legalmente;\ne. i biocarburanti sono stati prodotti in condizioni socialmente accettabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_b"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per biocarburanti",
+        "citation": "Art. 12b cpv. 2 LIOm",
+        "content": "Le esigenze di cui al capoverso 1 lettere a–d sono considerate in ogni caso soddisfatte per i biocarburanti prodotti secondo lo stato della tecnica a partire da rifiuti biogeni o da residui di produzione biogeni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_b"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per biocarburanti",
+        "citation": "Art. 12b cpv. 3 LIOm",
+        "content": "Oltre alle esigenze di cui al capoverso 1, il Consiglio federale può prescrivere che la produzione dei biocarburanti non debba avvenire a scapito della sicurezza alimentare. A questo riguardo tiene conto degli standard riconosciuti a livello internazionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_b"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Agevolazione fiscale per biocarburanti",
+        "citation": "Art. 12b cpv. 4 LIOm",
+        "content": "Il Consiglio federale determina l’entità dell’agevolazione fiscale; a questo riguardo tiene conto della competitività dei biocarburanti rispetto ai carburanti di origine fossile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_b"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Prova e tracciabilità dei biocarburanti",
+        "citation": "Art. 12c cpv. 1 LIOm",
+        "content": "Chiunque intenda ottenere un’agevolazione fiscale per biocarburanti deve provare che essi soddisfano le esigenze di cui all’articolo 12b capoversi 1 e 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_c"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Prova e tracciabilità dei biocarburanti",
+        "citation": "Art. 12c cpv. 2 LIOm",
+        "content": "La prova consiste in:\na. indicazioni comprensibili e verificabili che assicurino la tracciabilità dei biocarburanti attraverso tutte le fasi della produzione; e \nb. documenti a sostegno di tali indicazioni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_c"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Prova e tracciabilità dei biocarburanti",
+        "citation": "Art. 12c cpv. 3 LIOm",
+        "content": "L’autorità fiscale può esigere che l’esattezza delle indicazioni e dei documenti sia esaminata e attestata da terzi indipendenti riconosciuti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_c"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Prova e tracciabilità dei biocarburanti",
+        "citation": "Art. 12c cpv. 4 LIOm",
+        "content": "Il Consiglio federale designa le indicazioni e i documenti necessari. Può alleviare l’onere della prova, purché sia garantito che le esigenze di cui all’articolo 12b capoversi 1 e 3 sono soddisfatte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_c"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Domanda di agevolazione fiscale per i biocarburanti",
+        "citation": "Art. 12d cpv. 1 LIOm",
+        "content": "La domanda di agevolazione fiscale per i biocarburanti deve essere presentata per scritto all’autorità fiscale prima di consegnare la prima dichiarazione fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_d"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Domanda di agevolazione fiscale per i biocarburanti",
+        "citation": "Art. 12d cpv. 2 LIOm",
+        "content": "L’autorità fiscale decide in merito all’agevolazione fiscale d’intesa con l’Ufficio federale dell’ambiente, l’Ufficio federale dell’agricoltura e la Segreteria di Stato dell’economia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_d"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Domanda di agevolazione fiscale per i biocarburanti",
+        "citation": "Art. 12d cpv. 3 LIOm",
+        "content": "Il Consiglio federale disciplina la procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_d"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Neutralità dei proventi",
+        "citation": "Art. 12e cpv. 1 LIOm",
+        "content": "Le perdite fiscali risultanti dall’agevolazione fiscale di cui agli articoli 12a e 12b devono essere compensate, al più tardi il 31 dicembre 2028, mediante una maggiore imposizione della benzina e dell’olio Diesel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_e"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Neutralità dei proventi",
+        "citation": "Art. 12e cpv. 2 LIOm",
+        "content": "Il Consiglio federale modifica le aliquote d’imposta per la benzina e per l’olio Diesel contenute nell’allegato 1 e nell’articolo 12 capoverso 2 e adegua periodicamente le aliquote modificate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_12_e"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Tariffa determinante per il calcolo dell’imposta",
+        "citation": "Art. 13 LIOm",
+        "content": "L’imposta è calcolata secondo la tariffa in vigore al momento in cui sorge il credito fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_13"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Imposta differenziata secondo l’impiego della merce",
+        "citation": "Art. 14 cpv. 1 LIOm",
+        "content": "Le merci per le quali la tariffa d’imposta prevede aliquote differenziate secondo l’impiego sono assoggettate all’aliquota inferiore se la persona che le impiega ha depositato un impegno circa l’uso prima del sorgere del credito fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_14"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Imposta differenziata secondo l’impiego della merce",
+        "citation": "Art. 14 cpv. 2 LIOm",
+        "content": "Chiunque fornisce merci assoggettate all’aliquota inferiore deve:\na. tenere una contabilità merci e\nb. notificare al destinatario che la merce è oggetto di una riserva d’uso.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_14"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Olio da riscaldamento extra leggero",
+        "citation": "Art. 15 cpv. 1 LIOm",
+        "content": "Chiunque fornisce olio da riscaldamento extra leggero deve adempiere gli obblighi di cui all’articolo 14 capoverso 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_15"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Olio da riscaldamento extra leggero",
+        "citation": "Art. 15 cpv. 2 LIOm",
+        "content": "È considerato olio da riscaldamento extra leggero il gasolio destinato al riscaldamento, colorato e marcato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_15"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Olio da riscaldamento extra leggero",
+        "citation": "Art. 15 cpv. 3 LIOm",
+        "content": "I prodotti contenenti olio da riscaldamento extra leggero, che non sono stati colorati né marcati, sono assoggettati all’aliquota prevista per l’olio Diesel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_15"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Olio da riscaldamento extra leggero",
+        "citation": "Art. 15 cpv. 4 LIOm",
+        "content": "Il Consiglio federale determina la procedura e fissa il tipo di colorazione e di marcatura. La decolorazione è vietata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_15"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 3: Tariffe, Tasse",
+        "citation": "Art. 16 LIOm",
+        "content": "Per le decisioni e altre prestazioni possono essere riscosse tasse. Le aliquote sono fissate dal Consiglio federale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_16"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Esenzioni",
+        "citation": "Art. 17 cpv. 1 LIOm",
+        "content": "Sono esenti dall’imposta:\na. le merci esenti da imposta in virtù di accordi internazionali;\nb. le merci utilizzate come prove per l’esecuzione di analisi;\nc. le merci per le quali è comprovato che, in seguito a forza maggiore, infortunio o manipolazione errata, sono andate perse prima del sorgere del credito fiscale;\nd. l’energia industriale utilizzata dalle raffinerie di olio di petrolio;\ne. le perdite di fabbricazione comprovate, avvenute nelle raffinerie di olio di petrolio, e i gas bruciati dalla fiaccola di segnalazione nelle raffinerie;\nf. le perdite per evaporazione comprovate, avvenute nei punti franchi, sempre che non superino l’ampiezza usuale;\ng. le merci destinate esclusivamente all’uso ufficiale dei beneficiari istituzionali di esenzioni fiscali di cui all’articolo 2 capoverso 1 della legge del 22 giugno 2007 sullo Stato ospite;\nh. le merci destinate esclusivamente all’uso personale delle persone beneficiarie di esenzioni fiscali di cui all’articolo 2 capoverso 2 della legge del 22 giugno 2007 sullo Stato ospite.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_17"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Esenzioni",
+        "citation": "Art. 17 cpv. 1bis LIOm",
+        "content": "Il Consiglio federale disciplina le condizioni per l’esenzione dall’imposta per le merci di cui al capoverso 1 lettere g e h; l’autorità fiscale disciplina la procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_17"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Esenzioni",
+        "citation": "Art. 17 cpv. 2 LIOm",
+        "content": "Il Consiglio federale può accordare l’esenzione totale o parziale dall’imposta per i carburanti:\na. destinati al rifornimento di aeromobili impiegati nel traffico di linea;\nb. destinati al rifornimento di aeromobili prima dell’involo diretto a destinazione dell’estero;\nc. importati come carburante nel serbatoio di un veicolo o nel bidone di scorta;\nd. ottenuti in impianti pilota e di dimostrazione, da materie prime rinnovabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_17"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 1 LIOm",
+        "content": "È restituita l’imposta riscossa:\na. sugli idrocarburi gassosi provenienti dal travaso di carburante, convogliati in un deposito autorizzato al fine di recuperarli allo stato liquido;\nb. sulle merci tassate, nuovamente immesse in un deposito autorizzato e per le quali, entro 30 giorni dalla data d’esigibilità dell’imposta, il depositario presenta una domanda di restituzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 1bis LIOm",
+        "content": "L’imposta riscossa sui carburanti utilizzati da imprese di trasporto concessionarie della Confederazione è restituita integralmente o in parte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 1ter LIOm",
+        "content": "La parte d’imposta riscossa sul carburante utilizzato dai veicoli adibiti alla preparazione di piste e destinata a compiti e spese connessi alla circolazione stradale è restituita.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 2 LIOm",
+        "content": "Il supplemento fiscale sugli oli minerali è restituito se il carburante è stato utilizzato per l’agricoltura, la silvicoltura, l’estrazione di pietra da taglio naturale o la pesca professionale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 3 LIOm",
+        "content": "Il Dipartimento federale delle finanze può autorizzare la restituzione dell’imposta se è comprovata una necessità economica e se la merce è stata utilizzata per uno scopo d’interesse generale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 3bis LIOm",
+        "content": "Per i biocarburanti che non soddisfano le esigenze di cui all’articolo 12b capoversi 1 e 3 non possono essere chieste restituzioni dell’imposta secondo il capoverso 3.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 4 LIOm",
+        "content": "Il Consiglio federale disciplina la procedura di restituzione. Gli importi di poco conto non sono restituiti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 4: Esenzioni dall’imposta e restituzioni dell’imposta, Restituzione dell’imposta",
+        "citation": "Art. 18 cpv. 5 LIOm",
+        "content": "Sulle restituzioni non è pagato alcun interesse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_18"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Dichiarazione fiscale",
+        "citation": "Art. 19 cpv. 1 LIOm",
+        "content": "Chiunque importa merci ai sensi della presente legge deve consegnare, contemporaneamente alla dichiarazione doganale, una dichiarazione fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_19"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Dichiarazione fiscale",
+        "citation": "Art. 19 cpv. 2 LIOm",
+        "content": "Chiunque è autorizzato a consegnare periodicamente la dichiarazione fiscale può dichiarare provvisoriamente le merci importate. Egli deve prestare garanzia per l’imposta e gli altri tributi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_19"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Dichiarazione fiscale periodica",
+        "citation": "Art. 20 cpv. 1 LIOm",
+        "content": "Gli importatori autorizzati dalla Direzione generale delle dogane a dichiarare l’imposta periodicamente e i depositari autorizzati devono consegnare periodicamente una dichiarazione fiscale definitiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Dichiarazione fiscale periodica",
+        "citation": "Art. 20 cpv. 2 LIOm",
+        "content": "Il Consiglio federale fissa i termini di presentazione della dichiarazione fiscale periodica.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Miscele di carburanti",
+        "citation": "Art. 20a cpv. 1 LIOm",
+        "content": "All’atto della dichiarazione delle miscele di biocarburanti e altri carburanti, i contribuenti devono dichiarare separatamente:\na. la quota di biocarburanti che soddisfano le esigenze di cui all’articolo 12b capoversi 1 e 3;\nb. la quota di biocarburanti che non soddisfano le esigenze di cui all’arti-colo 12b capoversi 1 e 3; e\nc. la quota di altri carburanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Miscele di carburanti",
+        "citation": "Art. 20a cpv. 2 LIOm",
+        "content": "Vanno dichiarate separatamente soltanto le quote di carburanti che superano un’esigua quantità. Il Consiglio federale stabilisce tale quantità.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Miscele di carburanti",
+        "citation": "Art. 20a cpv. 3 LIOm",
+        "content": "L’agevolazione fiscale può essere concessa sotto forma di anticipazione. Tale anticipazione è calcolata sulla base dell’aliquota d’imposta vigente per gli altri carburanti. Se la condizione per l’agevolazione fiscale non è più adempiuta, l’anticipazione deve essere rimborsata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Miscele di carburanti",
+        "citation": "Art. 20a cpv. 4 LIOm",
+        "content": "Il Consiglio federale disciplina la procedura.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_20_a"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Imposizione",
+        "citation": "Art. 21 cpv. 1 LIOm",
+        "content": "In caso di dichiarazione fiscale periodica l’importo dell’imposta è riscosso in base alla dichiarazione fiscale definitiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_21"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Imposizione",
+        "citation": "Art. 21 cpv. 2 LIOm",
+        "content": "Negli altri casi l’importo dell’imposta è fissato dall’autorità fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_21"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Imposizione",
+        "citation": "Art. 21 cpv. 2bis LIOm",
+        "content": "L’importo dell’imposta può essere stabilito sotto forma di decisione individuale automatizzata ai sensi dell’articolo 21 della legge federale del 25 settembre 2020 sulla protezione dei dati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_21"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Imposizione",
+        "citation": "Art. 21 cpv. 3 LIOm",
+        "content": "La dichiarazione fiscale è vincolante per l’estensore quale base per determinare l’importo dell’imposta. È fatto salvo l’esito di un controllo ufficiale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_21"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Esigibilità dell’imposta",
+        "citation": "Art. 22 cpv. 1 LIOm",
+        "content": "L’imposta è esigibile nel momento in cui sorge il credito fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_22"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Esigibilità dell’imposta",
+        "citation": "Art. 22 cpv. 2 LIOm",
+        "content": "Per le dichiarazioni fiscali periodiche il termine di pagamento decorre sino al 15° giorno del mese che segue il giorno dell’esigibilità. Il Consiglio federale fissa gli altri termini di pagamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_22"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Esigibilità dell’imposta",
+        "citation": "Art. 22 cpv. 3 LIOm",
+        "content": "In caso di ritardo nel pagamento è dovuto un interesse di mora. Il Dipartimento federale delle finanze ne fissa l’aliquota.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_22"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Garanzia dell’imposta",
+        "citation": "Art. 23 cpv. 1 LIOm",
+        "content": "La Direzione generale delle dogane può esigere una garanzia:\na. se la persona soggetta all’imposta è in ritardo con il pagamento o\nb. se il diritto all’imposta appare compromesso per altri motivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_23"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Garanzia dell’imposta",
+        "citation": "Art. 23 cpv. 2 LIOm",
+        "content": "La decisione concernente la prestazione di garanzie è immediatamente esecutoria. Essa è parificata a un decreto di sequestro a tenore dell’articolo 274 della legge federale dell’11 aprile 1889 sull’esecuzione e sul fallimento; l’opposizione al decreto di sequestro è esclusa.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_23"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Riscossione posticipata e restituzione dell’imposta",
+        "citation": "Art. 24 cpv. 1 LIOm",
+        "content": "Se, per errore, nonostante la dichiarazione fiscale, un’imposta dovuta non è stata fissata o è stato fissato un importo troppo basso oppure è stato fissato un importo troppo alto per la restituzione, l’autorità fiscale riscuote posticipatamente l’importo mancante entro un anno a decorrere dalla notificazione della decisione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_24"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Riscossione posticipata e restituzione dell’imposta",
+        "citation": "Art. 24 cpv. 2 LIOm",
+        "content": "Se, entro il termine di un anno, un controllo ufficiale dell’imposizione rivela che un’imposta è stata riscossa a torto, l’importo pagato in eccedenza viene restituito d’ufficio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_24"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Prescrizione del credito fiscale",
+        "citation": "Art. 25 cpv. 1 LIOm",
+        "content": "Il credito fiscale si prescrive in dieci anni dalla scadenza dell’anno civile in cui è sorto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_25"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Prescrizione del credito fiscale",
+        "citation": "Art. 25 cpv. 2 LIOm",
+        "content": "La prescrizione è interrotta:\na. se il credito fiscale è riconosciuto dalla persona soggetta all’imposta;\nb. da ogni atto ufficiale con cui è fatto valere il credito fiscale presso la persona soggetta all’imposta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_25"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Prescrizione del credito fiscale",
+        "citation": "Art. 25 cpv. 3 LIOm",
+        "content": "Dopo ogni interruzione, l’intero termine di prescrizione ricomincia a decorrere.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_25"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Prescrizione del credito fiscale",
+        "citation": "Art. 25 cpv. 4 LIOm",
+        "content": "Il credito fiscale si estingue in ogni caso 15 anni dopo la fine dell’anno civile in cui è sorto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_25"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Condono dell’imposta",
+        "citation": "Art. 26 cpv. 1 LIOm",
+        "content": "L’imposta può essere condonata integralmente o parzialmente alla persona soggetta all’imposta:\na. se la merce è andata persa per caso o per motivi di forza maggiore;\nb. se, in altri casi, a causa di circostanze straordinarie e indipendenti dalla determinazione dei tributi, la riscossione costituisce un rigore particolare.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_26"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 5: Riscossione dell’imposta, Condono dell’imposta",
+        "citation": "Art. 26 cpv. 2 LIOm",
+        "content": "L’autorità fiscale decide in merito al condono dell’imposta.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_26"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Fabbricazione, estrazione, deposito",
+        "citation": "Art. 27 LIOm",
+        "content": "La fabbricazione e l’estrazione di prodotti subordinati alla presente legge nonché il deposito di merci non imponibili devono avvenire in un deposito autorizzato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_27"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Autorizzazione",
+        "citation": "Art. 28 cpv. 1 LIOm",
+        "content": "Possono essere riconosciuti come depositi autorizzati:\na. le raffinerie di olio di petrolio;\nb. gli altri stabilimenti in cui sono estratti o fabbricati prodotti soggetti alla presente legge;\nc. i punti franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_28"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Autorizzazione",
+        "citation": "Art. 28 cpv. 2 LIOm",
+        "content": "Non sono rilasciate autorizzazioni alle persone che depositano merci destinate unicamente all’uso proprio.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_28"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Autorizzazione",
+        "citation": "Art. 28 cpv. 3 LIOm",
+        "content": "Il Consiglio federale fissa le condizioni per l’attrezzatura e l’esercizio dei depositi autorizzati; l’autorità fiscale rilascia l’autorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_28"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Autorizzazione",
+        "citation": "Art. 28 cpv. 4 LIOm",
+        "content": "L’autorizzazione è revocata:\na. se le condizioni per il rilascio non sono più adempite o\nb. se il depositario autorizzato non osserva gli impegni derivanti dalla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_28"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Autorizzazione",
+        "citation": "Art. 28 cpv. 5 LIOm",
+        "content": "Il Consiglio federale può emanare prescrizioni speciali per le merci oggetto di scorte obbligatorie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_28"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Sorveglianza",
+        "citation": "Art. 29 LIOm",
+        "content": "I depositi autorizzati possono essere subordinati alla sorveglianza dell’autorità fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_29"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Prestazione di garanzie",
+        "citation": "Art. 30 LIOm",
+        "content": "I depositari autorizzati prestano una garanzia adeguata per l’imposta e gli altri tributi. Per la prestazione di garanzie non sono riscosse tasse né sono pagati interessi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_30"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Contabilità merci e obbligo d’annuncio",
+        "citation": "Art. 31 cpv. 1 LIOm",
+        "content": "Per ogni genere di merce i depositari autorizzati devono registrare le scorte, le entrate e uscite, la produzione, l’uso proprio e le perdite. Essi fanno periodicamente rapporto all’autorità fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_31"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Contabilità merci e obbligo d’annuncio",
+        "citation": "Art. 31 cpv. 2 LIOm",
+        "content": "Sotto loro propria responsabilità, i depositari autorizzati possono incaricare una ditta depositaria di assumere impegni secondo il capoverso 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_31"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Trasporto di merci non tassate",
+        "citation": "Art. 32 cpv. 1 LIOm",
+        "content": "Per le merci importate, non tassate, trasportate dal confine sino a un deposito autorizzato, gli importatori assumono gli impegni risultanti dalla presente legge; essi prestano una garanzia per l’imposta e gli altri tributi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_32"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Trasporto di merci non tassate",
+        "citation": "Art. 32 cpv. 2 LIOm",
+        "content": "Allorché agiscono in qualità di speditori, i depositari autorizzati assumono gli impegni derivanti dalla presente legge per il trasporto di merci, non tassate, tra depositi autorizzati o, trattandosi di merci destinate all’esportazione, dal deposito autorizzato sino al confine; essi prestano una garanzia per l’imposta e gli altri tributi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_32"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Trasporto di merci non tassate",
+        "citation": "Art. 32 cpv. 3 LIOm",
+        "content": "La validità della garanzia si estingue:\na. quando la merce è giunta al deposito autorizzato e il suo arrivo è stato regolarmente contabilizzato o\nb. quando l’esportazione della merce è stata attestata dalla dogana.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_32"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 6: Depositi autorizzati, Trasporto di merci non tassate",
+        "citation": "Art. 32 cpv. 4 LIOm",
+        "content": "Il depositario autorizzato deve notificare all’autorità fiscale ogni spedizione di merci non tassate.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_32"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 7: Statistica",
+        "citation": "Art. 33 cpv. 1 LIOm",
+        "content": "L’autorità fiscale allestisce una statistica sul movimento delle merci soggette alla presente legge.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_33"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 7: Statistica",
+        "citation": "Art. 33 cpv. 2 LIOm",
+        "content": "I dati rilevati sono utilizzati ai fini dell’esecuzione della presente legge e per la stesura di statistiche. Il Consiglio federale disciplina i dettagli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_33"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 8: Rimedi giuridici, Opposizione",
+        "citation": "Art. 34 cpv. 1 LIOm",
+        "content": "Contro le decisioni di prima istanza della Direzione generale delle dogane può essere fatta opposizione entro 30 giorni. Ne sono escluse le decisioni concernenti la prestazione di garanzie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_34"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 8: Rimedi giuridici, Opposizione",
+        "citation": "Art. 34 cpv. 2 LIOm",
+        "content": "Le disposizioni relative alla procedura di ricorso amministrativo (art. 51 segg. della L del 20 dic. 1968 sulla procedura amministrativa) si applicano per analogia alla procedura d’opposizione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_34"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 8: Rimedi giuridici, Ricorso alle direzioni di circondario e alla Direzione generale delle dogane",
+        "citation": "Art. 35 cpv. 1 LIOm",
+        "content": "Le decisioni degli uffici doganali possono essere impugnate:\na. in caso di imposizione definitiva all’importazione e all’esportazione, entro 60 giorni con ricorso alla direzione di circondario;\nb. negli altri casi, entro 30 giorni con ricorso alla Direzione generale delle dogane.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_35"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 8: Rimedi giuridici, Ricorso alle direzioni di circondario e alla Direzione generale delle dogane",
+        "citation": "Art. 35 cpv. 2 LIOm",
+        "content": "Le decisioni di prima istanza delle direzioni di circondario possono essere impugnate entro 30 giorni mediante ricorso alla Direzione generale delle dogane.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_35"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 8: Rimedi giuridici, Ricorso contro le decisioni concernenti la prestazione di garanzie",
+        "citation": "Art. 37 cpv. 2 LIOm",
+        "content": "Il ricorso contro le decisioni concernenti la prestazione di garanzie non ha effetto sospensivo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_37"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Messa in pericolo o sottrazione dell’imposta",
+        "citation": "Art. 38 cpv. 1 LIOm",
+        "content": "Chiunque, intenzionalmente o per negligenza, sottrae o compromette l’imposta o procura o cerca di procurare un profitto fiscale indebito a sé o a un terzo, è punito con la multa sino al quintuplo dell’imposta sottratta o compromessa o dell’indebito profitto. È fatta salva l’applicazione degli articoli 14 a 16 della legge federale del 22 marzo 1974 sul diritto penale amministrativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_38"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Messa in pericolo o sottrazione dell’imposta",
+        "citation": "Art. 38 cpv. 2 LIOm",
+        "content": "In caso di circostanze aggravanti, il massimo della multa comminata è aumentato della metà. Può inoltre essere inflitta una pena detentiva sino a tre anni. Sono reputate circostanze aggravanti:\na. il fatto di reclutare più persone per commettere un’infrazione;\nb. il fatto di commettere infrazioni per mestiere o abitualmente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_38"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Messa in pericolo o sottrazione dell’imposta",
+        "citation": "Art. 38 cpv. 3 LIOm",
+        "content": "Se non può essere accertato esattamente, l’importo dell’imposta sottratto o compromesso è stimato dall’autorità fiscale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_38"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Messa in pericolo o sottrazione dell’imposta",
+        "citation": "Art. 38 cpv. 4 LIOm",
+        "content": "Se un atto costituisce in pari tempo una messa in pericolo o sottrazione dell’imposta e un’infrazione ad altri disposti federali concernenti tributi, che l’UDSC è tenuto a perseguire, si applica la pena corrispondente all’infrazione più grave; tale pena può essere adeguatamente aumentata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_38"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Ricettazione fiscale",
+        "citation": "Art. 39 LIOm",
+        "content": "Chiunque acquista, accetta in dono, in pegno o altrimenti in custodia, occulta, spaccia o aiuta a spacciare merci di cui sa o deve supporre che sono state sottratte all’imposta alla quale sono assoggettate, è punito secondo la pena applicabile all’autore dell’infrazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_39"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Violazione dell’obbligo di registrazione e di annuncio",
+        "citation": "Art. 40 LIOm",
+        "content": "Chiunque, intenzionalmente o per negligenza, omette le registrazioni prescritte nell’articolo 31 o le effettua solo in modo lacunoso oppure omette totalmente o parzialmente di fare periodicamente rapporto all’autorità fiscale, è punito con la multa sino a 10 000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_40"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Inosservanza di prescrizioni d’ordine",
+        "citation": "Art. 41 LIOm",
+        "content": "Chiunque, intenzionalmente o per negligenza, disattende una prescrizione della presente legge o di un disposto esecutivo, un’istruzione emanata in virtù di tali prescrizioni o una singola decisione notificatagli sotto comminatoria della pena prevista nel presente articolo, è punito con la multa sino a 5000 franchi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_41"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Relazione con la legge federale sul diritto penale amministrativo",
+        "citation": "Art. 42 cpv. 1 LIOm",
+        "content": "Le infrazioni sono perseguite e giudicate conformemente alla legge federale del 22 marzo 1974 sul diritto penale amministrativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_42"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 9: Disposizioni penali, Relazione con la legge federale sul diritto penale amministrativo",
+        "citation": "Art. 42 cpv. 2 LIOm",
+        "content": "L’autorità competente per perseguire e giudicare è l’UDSC.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_42"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 11: Referendum ed entrata in vigore",
+        "citation": "Art. 49 cpv. 1 LIOm",
+        "content": "La presente legge sottostà al referendum facoltativo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_49"
+    },
+    {
+        "book": "MinÃ¶StG",
+        "title": "LIOm, Sezione 11: Referendum ed entrata in vigore",
+        "citation": "Art. 49 cpv. 2 LIOm",
+        "content": "Il Consiglio federale ne determina l’entrata in vigore.Data dell’entrata in vigore: 1° gennaio 1997",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1996/3371_3371_3371/it#art_49"
+    }
+]

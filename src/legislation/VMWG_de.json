@@ -1,0 +1,499 @@
+[
+    {
+        "book": "VMWG",
+        "title": "VMWG, Geltungsbereich",
+        "citation": "Art. 1 VMWG",
+        "content": "Als Sachen, die der Vermieter dem Mieter zusammen mit Wohn- und Geschäftsräumen zum Gebrauch überlässt, gelten insbesondere Mobilien, Garagen, Autoeinstell- und Abstellplätze sowie Gärten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_1"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Ausnahmen",
+        "citation": "Art. 2 Abs. 1 VMWG",
+        "content": "Für luxuriöse Wohnungen und Einfamilienhäuser mit sechs oder mehr Wohnräumen (ohne Anrechnung der Küche) gilt der 2. Abschnitt des Achten Titels des OR (Art. 269–270e) nicht.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_2"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Ausnahmen",
+        "citation": "Art. 2 Abs. 2 VMWG",
+        "content": "Für Wohnungen, deren Bereitstellung von der öffentlichen Hand gefördert wurde und deren Mietzinse durch eine Behörde kontrolliert werden, gelten nur die Artikel 253–268b, 269, 269d Absatz 3, 270e und 271–273c OR sowie die Artikel 3–10 und 20–23 dieser Verordnung.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_2"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Koppelungsgeschäfte",
+        "citation": "Art. 3 VMWG",
+        "content": "Als Koppelungsgeschäft im Sinne von Artikel 254 OR gilt insbesondere die Verpflichtung des Mieters, die Mietsache, Möbel oder Aktien zu kaufen oder einen Versicherungsvertrag abzuschliessen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_3"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nebenkosten im Allgemeinen",
+        "citation": "Art. 4 Abs. 1 VMWG",
+        "content": "Erhebt der Vermieter die Nebenkosten aufgrund einer Abrechnung, muss er diese jährlich mindestens einmal erstellen und dem Mieter vorlegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nebenkosten im Allgemeinen",
+        "citation": "Art. 4 Abs. 2 VMWG",
+        "content": "Erhebt er sie pauschal, muss er auf Durchschnittswerte dreier Jahre abstellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nebenkosten im Allgemeinen",
+        "citation": "Art. 4 Abs. 3 VMWG",
+        "content": "Die für die Erstellung der Abrechnung entstehenden Verwaltungskosten dürfen nach Aufwand oder im Rahmen der üblichen Ansätze angerechnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Anrechenbare Heizungs- und Warmwasserkosten",
+        "citation": "Art. 5 Abs. 1 VMWG",
+        "content": "Als Heizungs- und Warmwasserkosten anrechenbar sind die tatsächlichen Aufwendungen, die mit dem Betrieb der Heizungsanlage oder der zentralen Warmwasseraufbereitungsanlage direkt zusammenhängen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Anrechenbare Heizungs- und Warmwasserkosten",
+        "citation": "Art. 5 Abs. 2 VMWG",
+        "content": "Darunter fallen insbesondere die Aufwendungen für:\na. die Brennstoffe und die Energie, die verbraucht wurden;\nb. die Elektrizität zum Betrieb von Brennern und Pumpen;\nc. die Betriebskosten für Alternativenergien;\nd. die Reinigung der Heizungsanlage und des Kamins, das Auskratzen, Ausbrennen und Einölen der Heizkessel sowie die Abfall- und Schlackenbeseitigung;\ne. die periodische Revision der Heizungsanlage einschliesslich des Öltanks sowie das Entkalken der Warmwasseranlage, der Boiler und des Leitungsnetzes;\nf. die Verbrauchserfassung und den Abrechnungsservice für die verbrauchsabhängige Heizkostenabrechnung sowie den Unterhalt der nötigen Apparate;\ng. die Wartung;\nh. die Versicherungsprämien, soweit sie sich ausschliesslich auf die Heizungsanlage beziehen;\ni. die Verwaltungsarbeit, die mit dem Betrieb der Heizungsanlage zusammenhängt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Anrechenbare Heizungs- und Warmwasserkosten",
+        "citation": "Art. 5 Abs. 3 VMWG",
+        "content": "Die Kosten für die Wartung und die Verwaltung dürfen nach Aufwand oder im Rahmen der üblichen Ansätze angerechnet werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nicht anrechenbare Heizungs- und Warmwasserkosten",
+        "citation": "Art. 6 VMWG",
+        "content": "Nicht als Heizungs- und Warmwasseraufbereitungskosten anrechenbar sind die Aufwendungen für:\na. die Reparatur und Erneuerung der Anlagen;\nb. die Verzinsung und Abschreibung der Anlagen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiebezug von einer ausgelagerten Zentrale",
+        "citation": "Art. 6a VMWG",
+        "content": "Bezieht der Vermieter Heizenergie oder Warmwasser aus einer nicht zur Liegenschaft gehörenden Zentrale, die nicht Teil der Anlagekosten ist, kann er die tatsächlich anfallenden Kosten in Rechnung stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Bezug von Elektrizität im Rahmen eines Zusammenschlusses zum Eigenverbrauch",
+        "citation": "Art. 6b VMWG",
+        "content": "Der Vermieter kann im Rahmen eines Zusammenschlusses gemäss Artikel 17 EnG die Kosten nach Artikel 16 EnV als Nebenkosten in Rechnung stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_b"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 1 VMWG",
+        "content": "Ein Energiespar-Contracting liegt vor, wenn ein Dienstleister sich gegen Vergütung verpflichtet, den Energieverbrauch einer Liegenschaft durch geeignete Energiesparmassnahmen zu senken.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 2 VMWG",
+        "content": "Als Energiesparmassnahmen nach Absatz 1 gelten insbesondere:\na. die Optimierung des Betriebs von Heizungs-, Lüftungs- und Klimaanlagen und der Gebäudeautomation;\nb. die Instruktion und die Beratung der Bewohnerschaft;\nc. der Ersatz von Anlagen, Installationen und Leuchtmitteln;\nd. die Verbesserung der Gebäudehülle.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 3 VMWG",
+        "content": "Der Vermieter kann die im Rahmen eines Energiespar-Contractings anfallenden Kosten während höchstens 10 Jahren als Nebenkosten in Rechnung stellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 4 VMWG",
+        "content": "Der jährlich in Rechnung gestellte Betrag darf nicht höher sein als die Energiekosten, die der Mieter mit dem Energiespar-Contracting während dieses Abrechnungszeitraums einspart.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 5 VMWG",
+        "content": "Bei der Berechnung der Einsparung sind Witterungseinflüsse zu berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Energiespar-Contracting",
+        "citation": "Art. 6c Abs. 6 VMWG",
+        "content": "Förderbeiträge für energetische Verbesserungen sind im Umfang des Anteils, der bei gleichmässiger Verteilung über die Dauer des Energiespar-Contractings auf ein Jahr entfällt, vom Betrag nach Absatz 4 in Abzug zu bringen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nicht vermietete Wohn- und Geschäftsräume",
+        "citation": "Art. 7 Abs. 1 VMWG",
+        "content": "Die Heizungskosten für nicht vermietete Wohn- und Geschäftsräume trägt der Vermieter.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_7"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Nicht vermietete Wohn- und Geschäftsräume",
+        "citation": "Art. 7 Abs. 2 VMWG",
+        "content": "Sind keine Geräte zur Erfassung des Wärmeverbrauchs der einzelnen Verbraucher installiert und wurden nicht vermietete Wohn- und Geschäftsräume nachweisbar nur soweit geheizt, als dies zur Verhinderung von Frostschäden notwendig ist, muss der Vermieter nur einen Teil der Heizungskosten übernehmen, die nach dem normalen Verteilungsschlüssel auf Wohn- und Geschäftsräume entfallen. Dieser Teil beträgt in der Regel:\na. ein Drittel für Zwei- bis Dreifamilienhäuser;\nb. die Hälfte für Vier- bis Achtfamilienhäuser;\nc. zwei Drittel für grössere Gebäude sowie für Büro- und Geschäftshäuser.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_7"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Abrechnung",
+        "citation": "Art. 8 Abs. 1 VMWG",
+        "content": "Erhält der Mieter mit der jährlichen Heizungskostenrechnung nicht eine detaillierte Abrechnung und Aufteilung der Heizungs- und Warmwasseraufbereitungskosten, so ist auf der Rechnung ausdrücklich darauf hinzuweisen, dass er die detaillierte Abrechnung verlangen kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_8"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Abrechnung",
+        "citation": "Art. 8 Abs. 2 VMWG",
+        "content": "Der Mieter oder sein bevollmächtigter Vertreter ist berechtigt, die sachdienlichen Originalunterlagen einzusehen und über den Anfangs- und Endbestand von Heizmaterialien Auskunft zu verlangen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_8"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Kündigungen",
+        "citation": "Art. 9 Abs. 1 VMWG",
+        "content": "Das Formular für die Mitteilung der Kündigung im Sinne von Artikel 266l Absatz 2 OR muss enthalten:\na. die Bezeichnung des Mietgegenstandes, auf welchen sich die Kündigung bezieht;\nb. den Zeitpunkt, auf den die Kündigung wirksam wird;\nc. den Hinweis, dass der Vermieter die Kündigung auf Verlangen des Mieters begründen muss;\nd. die gesetzlichen Voraussetzungen der Anfechtung der Kündigung und der Erstreckung des Mietverhältnisses (Art. 271–273 OR);\ne. das Verzeichnis der Schlichtungsbehörden und ihre örtliche Zuständigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_9"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Kündigungen",
+        "citation": "Art. 9 Abs. 2 VMWG",
+        "content": "Die Kantone sorgen dafür, dass in den Gemeinden Formulare in genügender Zahl zur Verfügung stehen. Sie können zu diesem Zweck eigene Formulare in den Gemeindekanzleien auflegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_9"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Offensichtlich übersetzter Kaufpreis",
+        "citation": "Art. 10 VMWG",
+        "content": "Als offensichtlich übersetzt im Sinne von Artikel 269 OR gilt ein Kaufpreis, der den Ertragswert einer Liegenschaft, berechnet auf den orts- oder quartierüblichen Mietzinsen für gleichartige Objekte, erheblich übersteigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_10"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Orts- und quartierübliche Mietzinse",
+        "citation": "Art. 11 Abs. 1 VMWG",
+        "content": "Massgeblich für die Ermittlung der orts- und quartierüblichen Mietzinse im Sinne von Artikel 269a Buchstabe a OR sind die Mietzinse für Wohn- und Geschäftsräume, die nach Lage, Grösse, Ausstattung, Zustand und Bauperiode mit der Mietsache vergleichbar sind.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Orts- und quartierübliche Mietzinse",
+        "citation": "Art. 11 Abs. 2 VMWG",
+        "content": "Bei Geschäftsräumen kann der Vergleich im Sinne von Artikel 269a Buchstabe a OR mit den quartierüblichen Quadratmeterpreisen gleichartiger Objekte erfolgen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Orts- und quartierübliche Mietzinse",
+        "citation": "Art. 11 Abs. 3 VMWG",
+        "content": "Ausser Betracht fallen Mietzinse, die auf einer Marktbeherrschung durch einen Vermieter oder eine Vermietergruppe beruhen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Orts- und quartierübliche Mietzinse",
+        "citation": "Art. 11 Abs. 4 VMWG",
+        "content": "Amtliche Statistiken sind zu berücksichtigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Kostensteigerungen",
+        "citation": "Art. 12 Abs. 1 VMWG",
+        "content": "Als Kostensteigerungen im Sinne von Artikel 269a Buchstabe b OR gelten insbesondere Erhöhungen des Hypothekarzinssatzes, der Gebühren, Objektsteuern, Baurechtszinse, Versicherungsprämien sowie Erhöhungen der Unterhaltskosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Kostensteigerungen",
+        "citation": "Art. 12 Abs. 2 VMWG",
+        "content": "Aus Handänderungen sich ergebende Kosten gelten als Teil der Erwerbskosten und nicht als Kostensteigerungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Referenzzinssatz für Hypotheken",
+        "citation": "Art. 12a Abs. 1 VMWG",
+        "content": "Für Mietzinsanpassungen aufgrund von Änderungen des Hypothekarzinssatzes gilt ein Referenzzinssatz. Dieser stützt sich auf den vierteljährlich erhobenen, volumengewichteten Durchschnittszinssatz für inländische Hypothekarforderungen und wird durch kaufmännische Rundung in Viertelprozenten festgesetzt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Referenzzinssatz für Hypotheken",
+        "citation": "Art. 12a Abs. 2 VMWG",
+        "content": "Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung (WBF) gibt den Referenzzinssatz vierteljährlich bekannt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Referenzzinssatz für Hypotheken",
+        "citation": "Art. 12a Abs. 3 VMWG",
+        "content": "Das WBF kann für den technischen Vollzug der Datenerhebung und die Berechnung des Durchschnittszinssatzes für inländische Hypothekarforderungen Dritte beiziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Referenzzinssatz für Hypotheken",
+        "citation": "Art. 12a Abs. 4 VMWG",
+        "content": "Es erlässt Bestimmungen über die technische Definition, Erhebung und Veröffentlichung des Durchschnittszinssatzes für inländische Hypothekarforderungen gemäss Absatz 1. Die Banken müssen dem WBF die notwendigen Daten melden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Hypothekarzinse",
+        "citation": "Art. 13 Abs. 1 VMWG",
+        "content": "Eine Hypothekarzinserhöhung von einem Viertel Prozent berechtigt in der Regel zu einer Mietzinserhöhung von höchstens:\na. 2 Prozent bei Hypothekarzinssätzen von mehr als 6 Prozent;\nb. 2,5 Prozent bei Hypothekarzinssätzen zwischen 5 und 6 Prozent;\nc. 3 Prozent bei Hypothekarzinssätzen von weniger als 5 Prozent.Bei Hypothekarzinssenkungen sind die Mietzinse entsprechend herabzusetzen oder die Einsparungen mit inzwischen eingetretenen Kostensteigerungen zu verrechnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Hypothekarzinse",
+        "citation": "Art. 13 Abs. 2 VMWG",
+        "content": "Bei Zahlungsplänen im Sinne von Artikel 269a Buchstabe d und Rahmenmietverträgen im Sinne von Artikel 269a Buchstabe f OR gelten bei Hypothekarzinsänderungen stattdessen die für solche Fälle vereinbarten Regelungen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Hypothekarzinse",
+        "citation": "Art. 13 Abs. 3 VMWG",
+        "content": "Wird unter Verzicht auf Quartierüblichkeit und Teuerungsausgleich dauernd mit der reinen Kostenmiete gerechnet, so kann der Mietzins bei Hypothekarzinserhöhungen im Umfang der Mehrbelastung für das gesamte investierte Kapital erhöht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Hypothekarzinse",
+        "citation": "Art. 13 Abs. 4 VMWG",
+        "content": "Bei Mietzinsanpassungen infolge von Hypothekarzinsänderungen ist im Übrigen zu berücksichtigen, ob und inwieweit frühere Hypothekarzinsänderungen zu Mietzinsanpassungen geführt haben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 1 VMWG",
+        "content": "Als Mehrleistungen im Sinne von Artikel 269a Buchstabe b OR gelten Investitionen für wertvermehrende Verbesserungen, die Vergrösserung der Mietsache sowie zusätzliche Nebenleistungen. Die Kosten umfassender Überholungen gelten in der Regel zu 50–70 Prozent als wertvermehrende Investitionen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 2 VMWG",
+        "content": "Als Mehrleistungen gelten auch die folgenden energetischen Verbesserungen:\na. Massnahmen zur Verminderung der Energieverluste der Gebäudehülle;\nb. Massnahmen zur rationelleren Energienutzung;\nc. Massnahmen zur Verminderung der Emissionen bei haustechnischen Anlagen;\nd. Massnahmen zum Einsatz erneuerbarer Energien;\ne. der Ersatz von Haushaltgeräten mit grossem Energieverbrauch durch Geräte mit geringerem Verbrauch.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 3 VMWG",
+        "content": "Als Mehrleistung kann nur der Teil der Kosten geltend gemacht werden, der die Kosten zur Wiederherstellung oder Erhaltung des ursprünglichen Zustandes übersteigt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 3bis VMWG",
+        "content": "Förderbeiträge, die für wertvermehrende Verbesserungen gewährt werden, sind vom Betrag der Mehrleistungen abzuziehen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 4 VMWG",
+        "content": "Mietzinserhöhungen wegen wertvermehrender Investitionen und energetischer Verbesserungen sind nicht missbräuchlich, wenn sie den angemessenen Satz für Verzinsung, Amortisation und Unterhalt der Investition nicht überschreiten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Mehrleistungen des Vermieters",
+        "citation": "Art. 14 Abs. 5 VMWG",
+        "content": "Mietzinserhöhungen wegen wertvermehrender Investitionen und energetischer Verbesserungen dürfen erst angezeigt werden, wenn die Arbeiten ausgeführt sind und die sachdienlichen Belege vorliegen. Bei grösseren Arbeiten sind gestaffelte Mietzinserhöhungen nach Massgabe bereits erfolgter Zahlungen zulässig.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Bruttorendite",
+        "citation": "Art. 15 Abs. 1 VMWG",
+        "content": "Die Bruttorendite im Sinne von Artikel 269a Buchstabe c OR wird auf den Anlagekosten berechnet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_15"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Bruttorendite",
+        "citation": "Art. 15 Abs. 2 VMWG",
+        "content": "Ausser Betracht fallen offensichtlich übersetzte Land-, Bau- und Erwerbskosten.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_15"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Teuerungsausgleich",
+        "citation": "Art. 16 VMWG",
+        "content": "Zum Ausgleich der Teuerung auf dem risikotragenden Kapital im Sinne von Artikel 269a Buchstabe e OR darf der Mietzins um höchstens 40 Prozent der Steigerung des Landesindexes der Konsumentenpreise erhöht werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_16"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Indexierte Mietzinse",
+        "citation": "Art. 17 Abs. 1 VMWG",
+        "content": "Haben die Parteien für die Miete einer Wohnung einen indexierten Mietzins vereinbart, darf die jeweilige Mietzinserhöhung die Zunahme des Landesindexes der Konsumentenpreise nicht übersteigen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Indexierte Mietzinse",
+        "citation": "Art. 17 Abs. 2 VMWG",
+        "content": "Bei einer Senkung des Landesindexes ist der Mietzins entsprechend anzupassen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Indexierte Mietzinse",
+        "citation": "Art. 17 Abs. 3 VMWG",
+        "content": "Mietzinserhöhungen gestützt auf den Landesindex der Konsumentenpreise können unter Einhaltung einer Frist von mindestens 30 Tagen auf ein Monatsende angekündigt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Indexierte Mietzinse",
+        "citation": "Art. 17 Abs. 4 VMWG",
+        "content": "Ein Mietvertrag ist im Sinne von Artikel 269b OR für fünf Jahre abgeschlossen, wenn der Vertrag durch den Vermieter für die Dauer von mindestens fünf Jahren nicht gekündigt werden kann.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Unvollständige Mietzinsanpassung",
+        "citation": "Art. 18 VMWG",
+        "content": "Macht der Vermieter die ihm zustehende Mietzinsanpassung nicht vollständig geltend, hat er diesen Vorbehalt in Franken oder in Prozenten des Mietzinses festzulegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_18"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Formular zur Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen",
+        "citation": "Art. 19 Abs. 1 VMWG",
+        "content": "Das Formular für die Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen im Sinne von Artikel 269d OR muss enthalten:\na. Für Mietzinserhöhungen:\n1. den bisherigen Mietzins und die bisherige Belastung des Mieters für Nebenkosten;\n2. den neuen Mietzins und die neue Belastung des Mieters für Nebenkosten;\n3. den Zeitpunkt, auf den die Erhöhung in Kraft tritt;\n4. die klare Begründung der Erhöhung. Werden mehrere Erhöhungsgründe geltend gemacht, so sind diese je in Einzelbeträgen auszuweisen;\n5. bei Mehrleistungen die Angabe, ob der Vermieter Förderbeiträge für wertvermehrende Verbesserungen erhält.\nb. Für andere einseitige Vertragsänderungen:\n1. die Umschreibung dieser Forderung;\n2. den Zeitpunkt, auf den sie wirksam wird;\n3. die klare Begründung dieser Forderung.\nc. Für beide Fälle:\n1. die gesetzlichen Voraussetzungen der Anfechtung;\n2. das Verzeichnis der Schlichtungsbehörden und ihre örtliche Zuständigkeit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Formular zur Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen",
+        "citation": "Art. 19 Abs. 1bis VMWG",
+        "content": "Erfolgt die Begründung in einem Begleitschreiben, so hat der Vermieter im Formular ausdrücklich darauf hinzuweisen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Formular zur Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen",
+        "citation": "Art. 19 Abs. 2 VMWG",
+        "content": "Die Absätze 1 und 1bis gelten ferner sinngemäss, wenn der Vermieter den Mietzins einem vereinbarten Index anpasst oder ihn aufgrund der vereinbarten Staffelung erhöht. Bei indexgebundenen Mietverhältnissen darf die Mitteilung frühestens nach der öffentlichen Bekanntgabe des neuen Indexstandes erfolgen. Bei gestaffelten Mietzinsen darf die Mitteilung frühestens vier Monate vor Eintritt jeder Mietzinserhöhung erfolgen. Die Kantone können als rechtsgenügendes Formular in diesem Fall die Kopie der Mietzinsvereinbarung bezeichnen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Formular zur Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen",
+        "citation": "Art. 19 Abs. 3 VMWG",
+        "content": "Die Absätze 1 und 1bis sind sinngemäss anzuwenden, wenn die Kantone im Sinne von Artikel 270 Absatz 2 OR die Verwendung des Formulars beim Abschluss eines neuen Mietvertrags obligatorisch erklären.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Formular zur Mitteilung von Mietzinserhöhungen und anderen einseitigen Vertragsänderungen",
+        "citation": "Art. 19 Abs. 4 VMWG",
+        "content": "Die Kantone sorgen dafür, dass in den Gemeinden Formulare in genügender Zahl zur Verfügung stehen. Sie können zu diesem Zweck eigene Formulare in den Gemeindekanzleien auflegen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Begründungspflicht des Vermieters",
+        "citation": "Art. 20 Abs. 1 VMWG",
+        "content": "Bei Mietzinserhöhungen wegen Kostensteigerungen oder wegen wertvermehrenden Verbesserungen des Vermieters kann der Mieter verlangen, dass der geltend gemachte Differenzbetrag zahlenmässig begründet wird. Die 30-tägige Anfechtungsfrist wird dadurch nicht berührt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_20"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Begründungspflicht des Vermieters",
+        "citation": "Art. 20 Abs. 2 VMWG",
+        "content": "Im Schlichtungsverfahren kann der Mieter verlangen, dass für alle geltend gemachten Gründe der Mietzinserhöhung die sachdienlichen Belege vorgelegt werden.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_20"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Aufgaben der Schlichtungsbehörden",
+        "citation": "Art. 21 Abs. 1 VMWG",
+        "content": "Die Schlichtungsbehörden haben im Schlichtungsverfahren eine Einigung der Parteien anzustreben, die sich auf das gesamte Mietverhältnis (Höhe des Mietzinses, Dauer des Vertrags, Kündigungsfrist usw.) erstreckt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Aufgaben der Schlichtungsbehörden",
+        "citation": "Art. 21 Abs. 2 VMWG",
+        "content": "Die Schlichtungsbehörden sind verpflichtet, Mieter und Vermieter ausserhalb eines Anfechtungsverfahrens, insbesondere vor Abschluss eines Mietvertrags, zu beraten. Sie haben namentlich Mietern und Vermietern behilflich zu sein, sich selbst ein Urteil darüber zu bilden, ob ein Mietzins missbräuchlich ist.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Aufgaben der Schlichtungsbehörden",
+        "citation": "Art. 21 Abs. 3 VMWG",
+        "content": "Die Schlichtungsbehörden können einzelne Mitglieder oder das Sekretariat mit der Beratung betrauen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Zusammensetzung der Schlichtungsbehörden",
+        "citation": "Art. 22 VMWG",
+        "content": "Die Kantone sind verpflichtet, die Zusammensetzung der Schlichtungsbehörden und deren Zuständigkeit periodisch zu veröffentlichen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_22"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Berichterstattung über die Schlichtungsbehörden und Bekanntgabe richterlicher Urteile",
+        "citation": "Art. 23 Abs. 1 VMWG",
+        "content": "Die Kantone haben dem WBF halbjährlich über die Tätigkeit der Schlichtungsbehörden Bericht zu erstatten. Aus dem Bericht müssen die Zahl der Fälle, der jeweilige Grund der Anrufung sowie die Art der Erledigung ersichtlich sein.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Berichterstattung über die Schlichtungsbehörden und Bekanntgabe richterlicher Urteile",
+        "citation": "Art. 23 Abs. 2 VMWG",
+        "content": "Die Kantone haben die zuständigen kantonalen richterlichen Behörden zu verpflichten, ein Doppel der Urteile über angefochtene Mietzinse und andere Forderungen der Vermieter dem WBF zuzustellen.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Berichterstattung über die Schlichtungsbehörden und Bekanntgabe richterlicher Urteile",
+        "citation": "Art. 23 Abs. 3 VMWG",
+        "content": "Das WBF sorgt für deren Auswertung und Veröffentlichung in geeigneter Form.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Vollzug",
+        "citation": "Art. 24 VMWG",
+        "content": "Das WBF ist mit dem Vollzug beauftragt.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_24"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Aufhebung bisherigen Rechts",
+        "citation": "Art. 25 VMWG",
+        "content": "Die Verordnung vom 10. Juli 1972 über Massnahmen gegen Missbräuche im Mietwesen wird aufgehoben.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_25"
+    },
+    {
+        "book": "VMWG",
+        "title": "VMWG, Inkrafttreten",
+        "citation": "Art. 27 VMWG",
+        "content": "Diese Verordnung tritt am 1. Juli 1990 in Kraft.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/de#art_27"
+    }
+]

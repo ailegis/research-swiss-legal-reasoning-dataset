@@ -1,0 +1,338 @@
+[
+    {
+        "book": "MAV",
+        "title": "ORM, Section 1, Généralités, But",
+        "citation": "Art. 1 ORM",
+        "content": "La présente ordonnance règle, sur le plan suisse, les modalités de la reconnaissance des certificats de maturité gymnasiale cantonaux ou reconnus par les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_1"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 1, Généralités, Effet de la reconnaissance",
+        "citation": "Art. 2 al. 1 ORM",
+        "content": "La reconnaissance atteste que les certificats de maturité sont équivalents et qu’ils répondent aux conditions minimales requises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_2"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 1, Généralités, Effet de la reconnaissance",
+        "citation": "Art. 2 al. 2 ORM",
+        "content": "Les certificats reconnus témoignent que leurs détenteurs possèdent les connaissances et les aptitudes générales nécessaires pour entreprendre des études universitaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_2"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 1, Généralités, Effet de la reconnaissance",
+        "citation": "Art. 2 al. 3 ORM",
+        "content": "Ils donnent notamment droit à l’admission:\na. aux écoles polytechniques fédérales, conformément à l’art. 16 de la loi fédérale du 4 octobre 1991 sur les EPF;\nb. aux examens fédéraux des professions médicales conformément à l’ordonnance générale du 19 novembre 1980 concernant les examens fédéraux des professions médicales et aux examens fédéraux des chimistes en denrées alimentaires conformément à la loi fédérale du 9 octobre 1992 sur les denrées alimentaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_2"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Principe",
+        "citation": "Art. 3 ORM",
+        "content": "En vertu de la présente ordonnance, les certificats de maturité cantonaux ou reconnus par un canton le sont aussi sur le plan suisse s’ils satisfont aux conditions minimales définies dans la présente section.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_3"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Ecoles délivrant des certificats de maturité",
+        "citation": "Art. 4 ORM",
+        "content": "Les certificats de maturité ne sont reconnus que s’ils ont été délivrés par des écoles de formation générale du deuxième degré secondaire dispensant un enseignement à plein temps ou des écoles de formation générale à plein temps ou à temps partiel accueillant des adultes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_4"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Objectif des études",
+        "citation": "Art. 5 al. 1 ORM",
+        "content": "L’objectif des écoles délivrant des certificats de maturité est, dans la perspective d’une formation permanente, d’offrir à leurs élèves la possibilité d’acquérir de solides connaissances fondamentales adaptées au niveau secondaire et de développer leur ouverture d’esprit et leur capacité de jugement. Ces écoles dispensent une formation générale équilibrée et cohérente, qui confère aux élèves la maturité requise pour entreprendre des études supérieures et les prépare à assumer des responsabilités au sein de la société. Elles évitent la spécialisation et l’anticipation de connaissances et d’aptitudes professionnelles et développent simultanément l’intelligence de leurs élèves, leur volonté, leur sensibilité éthique et esthétique ainsi que leurs aptitudes physiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_5"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Objectif des études",
+        "citation": "Art. 5 al. 2 ORM",
+        "content": "Les élèves seront capables d’acquérir un savoir nouveau, de développer leur curiosité, leur imagination ainsi que leur faculté de communiquer et de travailler seuls et en groupe. Ils exerceront le raisonnement logique et l’abstraction, mais aussi la pensée intuitive, analogique et contextuelle. Ils se familiariseront ainsi avec la méthodologie scientifique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_5"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Objectif des études",
+        "citation": "Art. 5 al. 3 ORM",
+        "content": "Les élèves maîtriseront une langue nationale et acquerront de bonnes connaissances dans d’autres langues. Ils seront capables de s’exprimer avec clarté, précision et sensibilité et apprendront à découvrir les richesses et les particularités des cultures dont chaque langue est le vecteur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_5"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Objectif des études",
+        "citation": "Art. 5 al. 4 ORM",
+        "content": "Les élèves seront aptes à se situer dans le monde naturel, technique, social et culturel où ils vivent, dans ses dimensions suisses et internationales, actuelles et historiques. Ils se préparent à y exercer leur responsabilité à l’égard d’eux-mêmes, d’autrui, de la société et de la nature.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_5"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Durée des études",
+        "citation": "Art. 6 al. 1 ORM",
+        "content": "La durée totale des études jusqu’à la maturité est de douze ans au moins.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_6"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Durée des études",
+        "citation": "Art. 6 al. 2 ORM",
+        "content": "Durant les quatre dernières années au moins, l’enseignement doit être spécialement conçu et organisé en fonction de la préparation à la maturité. Un cursus de trois ans est possible lorsque le degré secondaire I comporte un enseignement de caractère prégymnasial.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_6"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Durée des études",
+        "citation": "Art. 6 al. 3 ORM",
+        "content": "Dans les écoles accueillant des adultes, la période de préparation à la maturité doit s’étendre sur trois ans au moins et l’enseignement direct y occuper une juste place.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_6"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Durée des études",
+        "citation": "Art. 6 al. 4 ORM",
+        "content": "Les écoles délivrant des certificats de maturité peuvent accueillir des élèves venant d’autres types d’écoles. Ces élèves doivent y effectuer en principe les deux dernières années d’études précédant la maturité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_6"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Corps enseignant",
+        "citation": "Art. 7 al. 1 ORM",
+        "content": "Dans le cursus préparant à la maturité (art. 6, al. 2 et 3), l’enseignement doit être dispensé par des titulaires d’un diplôme d’enseignement pour les écoles de maturité gymnasiale ou des personnes au bénéfice d’une formation scientifique et pédagogique équivalente. Dans les disciplines où la qualification peut s’acquérir dans une haute école universitaire, le titre exigé est le master universitaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_7"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Corps enseignant",
+        "citation": "Art. 7 al. 2 ORM",
+        "content": "Au degré secondaire I, l’enseignement peut être confié à des titulaires de ce degré, pour autant qu’ils soient qualifiés dans les matières enseignées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_7"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Plans d’études",
+        "citation": "Art. 8 ORM",
+        "content": "L’enseignement dispensé par les écoles délivrant des certificats de maturité suit les plans d’études émis ou approuvés par le canton, qui se fondent sur le Plan d’études cadre édicté par la Conférence suisse des directeurs cantonaux de l’instruction publique pour l’ensemble de la Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_8"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 1 ORM",
+        "content": "L’ensemble des disciplines de maturité est formé par:\na. les disciplines fondamentales;\nb. l’option spécifique;\nc. l’option complémentaire;\nd. le travail de maturité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 2 ORM",
+        "content": "Les disciplines fondamentales sont:\na. la langue première;\nb. une deuxième langue nationale;\nc. une troisième langue, qui peut être soit une troisième langue nationale, soit l’anglais, soit une langue ancienne;\nd. les mathématiques;\ne. la biologie;\nf. la chimie;\ng. la physique;\nh. l’histoire;\ni. la géographie;\nj. les arts visuels et/ou la musique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 2bis ORM",
+        "content": "Les cantons peuvent offrir la philosophie comme discipline fondamentale supplémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 3 ORM",
+        "content": "L’option spécifique est à choisir parmi les disciplines ou groupes de disciplines suivants:\na. langues anciennes (latin et/ou grec);\nb. une langue moderne (une troisième langue nationale, l’anglais, l’espagnol ou le russe);\nc. physique et applications des mathématiques;\nd. biologie et chimie;\ne. économie et droit;\nf. philosophie/pédagogie/psychologie;\ng. arts visuels;\nh. musique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 4 ORM",
+        "content": "L’option complémentaire est à choisir parmi les disciplines suivantes:\na. physique;\nb. chimie;\nc. biologie;\nd. applications des mathématiques;\ndbis. informatique;\ne. histoire;\nf. géographie;\ng. philosophie;\nh. enseignement religieux;\ni. économie et droit;\nk. pédagogie/psychologie;\nl. arts visuels;\nm. musique;\nn. sport.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 5 ORM",
+        "content": "Une langue étudiée comme discipline fondamentale ne peut être choisie comme option spécifique. Il est également exclu que la même discipline soit choisie au titre d’option spécifique et option complémentaire. Le choix de la musique ou des arts visuels comme option spécifique exclut celui de la musique, des arts visuels ou du sport comme option complémentaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 5bis ORM",
+        "content": "Tous les élèves suivent en outre les autres disciplines obligatoires suivantes:\na. informatique;\nb. économie et droit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 6 ORM",
+        "content": "Le canton décide quels enseignements sont offerts dans le cadre de cet éventail de disciplines (disciplines fondamentales, options spécifiques et complémentaires).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines de maturité et autres disciplines obligatoires",
+        "citation": "Art. 9 al. 7 ORM",
+        "content": "Dans la discipline fondamentale «deuxième langue nationale», un choix entre deux langues au moins est offert. Dans les cantons plurilingues, une deuxième langue du canton peut être déterminée comme «deuxième langue nationale».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_9"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Travail de maturité",
+        "citation": "Art. 10 ORM",
+        "content": "Chaque élève doit effectuer, seul ou en équipe, un travail autonome d’une certaine importance. Ce travail fera l’objet d’un texte ou d’un commentaire rédigé et d’une présentation orale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_10"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Proportion des enseignements",
+        "citation": "Art. 11 ORM",
+        "content": "Le temps total consacré à l’enseignement des disciplines de maturité doit être réparti en respectant les proportions suivantes:En %\na. disciplines fondamentales et autres disciplines obligatoires:\n1. langues (langue première, deuxième et troisième langues)30 à 40\n2. mathématiques, informatique et sciences expérimentales (biologie, chimie et physique)27 à 37\n3. sciences humaines (histoire, géographie, économie et droit et, le cas échéant, philosophie)10 à 20\n4. arts (arts visuels et/ou musique)5 à 10\nb. options: option spécifique, option complémentaire et travail de maturité15 à 25",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_11"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Interdisciplinarité",
+        "citation": "Art. 11a ORM",
+        "content": "Chaque école pourvoit à ce que les élèves soient familiarisés aux approches interdisciplinaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_11_a"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Troisième langue nationale",
+        "citation": "Art. 12 ORM",
+        "content": "Outre les possibilités concernant les langues nationales prévues dans le cadre des disciplines fondamentales et de l’option spécifique, le canton doit offrir l’enseignement facultatif d’une troisième langue nationale et promouvoir par des moyens adéquats la connaissance et la compréhension des spécificités régionales et culturelles du pays.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_12"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Romanche",
+        "citation": "Art. 13 ORM",
+        "content": "Le canton des Grisons peut désigner le romanche et la langue d’enseignement, ensemble, comme «langue première» au sens de l’art. 9, al. 2, let. a.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_13"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines d’examen",
+        "citation": "Art. 14 al. 1 ORM",
+        "content": "Cinq disciplines de maturité au moins font l’objet d’un examen écrit qui peut être complété d’un examen oral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_14"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Disciplines d’examen",
+        "citation": "Art. 14 al. 2 ORM",
+        "content": "Il s’agit des disciplines suivantes:\na. la langue première;\nb. une deuxième langue nationale; si le canton est plurilingue il peut se limiter à une de ses autres langues cantonales;\nc. les mathématiques;\nd. l’option spécifique;\ne. une autre discipline, conformément aux dispositions cantonales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_14"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Notes de maturité et évaluation du travail de maturité",
+        "citation": "Art. 15 al. 1 ORM",
+        "content": "Les notes sont données\na. dans les disciplines qui font l’objet d’un examen, sur la base des résultats de la dernière année enseignée et des résultats obtenus à l’examen. Ces deux éléments ont le même poids;\nb. dans les autres disciplines, sur la base des résultats de la dernière année enseignée;\nc. au travail de maturité, sur la base de la mise en œuvre du projet, du document déposé et de la présentation orale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_15"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Notes de maturité et évaluation du travail de maturité",
+        "citation": "Art. 15 al. 2 ORM",
+        "content": "Le travail de maturité est évalué sur la base des prestations écrites et orales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_15"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Critères de réussite",
+        "citation": "Art. 16 al. 1 ORM",
+        "content": "Les prestations dans les disciplines de maturité sont exprimées en notes et demi-notes. La meilleure note est 6, la plus mauvaise 1. Les notes au-dessous de 4 sanctionnent des prestations insuffisantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_16"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Critères de réussite",
+        "citation": "Art. 16 al. 2 ORM",
+        "content": "Le certificat est obtenu si pour l’ensemble des disciplines de maturité:\na. le double de la somme de tous les écarts vers le bas par rapport à la note 4 n’est pas supérieur à la somme simple de tous les écarts vers le haut par rapport à cette même note;\nb. quatre notes au plus sont inférieures à 4.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_16"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Critères de réussite",
+        "citation": "Art. 16 al. 3 ORM",
+        "content": "Deux tentatives d’obtention du certificat sont autorisées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_16"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 2, Conditions de reconnaissance, Enseignement de base en anglais",
+        "citation": "Art. 17 ORM",
+        "content": "Le canton organise à l’intention des élèves dont le choix en troisième langue ou en option spécifique n’aura pas porté sur l’anglais un enseignement de base dans cette discipline.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_17"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 3, Dispositions particulières, Mention bilingue",
+        "citation": "Art. 18 ORM",
+        "content": "La mention bilingue attribuée par un canton selon sa propre réglementation peut être reconnue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_18"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 3, Dispositions particulières, Dérogations",
+        "citation": "Art. 19 al. 1 ORM",
+        "content": "Les dispositions de la présente ordonnance peuvent faire l’objet de dérogations:\na. pour permettre des expériences pilotes;\nb. pour les écoles suisses à l’étranger dans la mesure où la dérogation est dictée par le système scolaire de l’état hôte.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_19"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 3, Dispositions particulières, Dérogations",
+        "citation": "Art. 19 al. 2 ORM",
+        "content": "L’octroi de dérogations relève:\na. de la Commission suisse de maturité pour les expériences pilotes;\nb. conjointement du Département fédéral de l’économie, de la formation et de la recherche (DEFR) et du Comité de la CDIP pour les écoles suisses à l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_19"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 3, Dispositions particulières, Certificat de maturité",
+        "citation": "Art. 20 al. 1 ORM",
+        "content": "Le certificat de maturité comprend:\na. l’inscription «Confédération suisse» et le nom du canton;\nb. la mention «Certificat de maturité établi conformément à ...»;\nc. le nom de l’établissement qui le délivre;\nd. les nom, prénom, lieu d’origine (pour les étrangers: nationalité et lieu de naissance) et date de naissance du titulaire;\ne. la période pendant laquelle le titulaire a fréquenté l’établissement qui délivre le certificat;\nf.les notes obtenues dans les disciplines de maturité;\ng.le titre du travail de maturité;\nh. le cas échéant, la mention «maturité bilingue» avec indication de la deuxième langue;\ni. les signatures des autorités cantonales et de la direction de l’école.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_20"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 3, Dispositions particulières, Certificat de maturité",
+        "citation": "Art. 20 al. 2 ORM",
+        "content": "Les notes obtenues dans des disciplines prescrites par le canton ou d’autres disciplines dont l’élève a suivi l’enseignement peuvent aussi être inscrites dans le certificat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_20"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 4, Commission suisse de maturité",
+        "citation": "Art. 21 ORM",
+        "content": "Les tâches et la composition de la Commission suisse de maturité sont réglées dans la Convention administrative du 16 janvier 1995/15 février 1995 passée entre le Conseil fédéral suisse et la Conférence suisse des directeurs de l’instruction publique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_21"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 5, Procédure, Compétences",
+        "citation": "Art. 22 al. 1 ORM",
+        "content": "Le canton concerné adresse les demandes à la Commission suisse de maturité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_22"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 5, Procédure, Compétences",
+        "citation": "Art. 22 al. 2 ORM",
+        "content": "La Commission suisse de maturité donne son préavis au DEFR qui décide.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_22"
+    },
+    {
+        "book": "MAV",
+        "title": "ORM, Section 5, Procédure, Recours",
+        "citation": "Art. 23 ORM",
+        "content": "Le gouvernement cantonal concerné peut recourir contre les décisions du DEFR. La procédure est régie par les dispositions générales du droit de procédure administrative fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1995/1001_1001_1001/fr#art_23"
+    }
+]

@@ -1,0 +1,191 @@
+[
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Tâches et compétences des communes",
+        "citation": "Art. 1 al. 1 ORSec",
+        "content": "Chaque commune fournit annuellement à l’Office fédéral de la statistique (OFS) les données relatives à ses habitants, arrêtées au 31 décembre, au plus tard jusqu’au 31 janvier de l’année suivante et tient à jour les indications figurant dans le Registre fédéral des bâtiments et des logements (RegBL), conformément à l’art. 10, al. 1, de l’ordonnance du 9 juin 2017 sur le Registre des bâtiments et des logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_1"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Tâches et compétences des communes",
+        "citation": "Art. 1 al. 2 ORSec",
+        "content": "Dans les cantons qui possèdent un registre reconnu des bâtiments et des logements, la commune peut en outre communiquer au canton les données relatives à ses habitants afin de permettre l’identification automatique des résidences principales dans le registre cantonal des bâtiments et des logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_1"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Taches et compétences de la Confédération ",
+        "citation": "Art. 2 al. 1 ORSec",
+        "content": "En prévision de la détermination de la proportion de résidences secondaires et sur la base des données relatives aux habitants selon l’art. 1, al. 1, l’OFS introduit dans le RegBL le caractère de logement «type d’utilisation».",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_2"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Taches et compétences de la Confédération ",
+        "citation": "Art. 2 al. 2 ORSec",
+        "content": "Se fondant sur les données communales du RegBL, l’Office fédéral du développement territorial (ARE) constate pour chaque commune, jusqu’au 31 mars de chaque année, si la proportion de résidences secondaires est supérieure ou non à 20 %.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_2"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Taches et compétences de la Confédération ",
+        "citation": "Art. 2 al. 3 ORSec",
+        "content": "L’ARE est habilité à vérifier d’office les données fournies par la commune conformément à l’art. 1, al. 1.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_2"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 1, Détermination et publication du total des logements et de la proportion de résidences secondaires, Taches et compétences de la Confédération ",
+        "citation": "Art. 2 al. 4 ORSec",
+        "content": "Il publie chaque année une liste qui comprend les indications suivantes pour chaque commune: le total des logements, le nombre de résidences principales, la proportion de résidences principales et la constatation, si la proportion de résidences secondaires est supérieure à 20 % ou non.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_2"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Mention au registre foncier",
+        "citation": "Art. 3 al. 1 ORSec",
+        "content": "La servitude à mentionner au registre foncier en vertu de la LRS pour les logements soumis à une restriction d’utilisation doit avoir la teneur suivante:\na. résidence principale ou logement assimilé à une résidence principale au sens de l’art. 7, al. 1, let. a, LRS;\nb. logement affecté à l’hébergement touristique au sens de l’art. 7, al. 2, let. a, LRS (logement dans le même bâtiment que celui où le propriétaire a son domicile principal, ou \nc. logement affecté à l’hébergement touristique au sens de l’art. 7, al. 2, let. b, LRS (logement dans le cadre d’un établissement d’hébergement organisé).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_3"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Mention au registre foncier",
+        "citation": "Art. 3 al. 2 ORSec",
+        "content": "La mention au registre foncier doit en outre comprendre, pour chaque logement, les numéros d’identification, conformément à l’art. 8, al. 2, let. a, et 3, let. a, de l’ordonnance du 9 juin 2017 sur le Registre des bâtiments et des logements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_3"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Mention au registre foncier",
+        "citation": "Art. 3 al. 3 ORSec",
+        "content": "La commune peut faire mention de la restriction d’utilisation dans le RegBL.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_3"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Etablissement d’hébergement organisé ",
+        "citation": "Art. 4 ORSec",
+        "content": "Il s’agit d’un établissement d’hébergement organisé au sens de la LRS, si les conditions suivantes sont remplies: \na. il comprend des services et des infrastructures de type hôtelier standards utilisés par la majorité des clients; \nb. il est organisé selon une conception d’exploitation de type hôtelier; \nc. l’exploitation se fait dans le cadre d’une entreprise homogène.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_4"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Expertise ",
+        "citation": "Art. 5 al. 1 ORSec",
+        "content": "L’expertise au sens de l’art. 8, al. 5, LRS s’effectue sur mandat du requérant. La désignation de l’expert nécessite l’accord de l’autorité compétente pour les autorisations de construire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_5"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Expertise ",
+        "citation": "Art. 5 al. 2 ORSec",
+        "content": "Dans les cas relevant de l’art. 8, al. 1, LRS, l’expertise doit s’exprimer sur:\na. la rentabilité présente et future de l’établissement ou des établissements; \nb. le financement croisé et l’utilisation des revenus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_5"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Expertise ",
+        "citation": "Art. 5 al. 3 ORSec",
+        "content": "Dans les cas relevant de l’art. 8, al. 4, LRS, l’expertise doit s’exprimer sur: \na. la rentabilité présente et future de l’exploitation; \nb. la durée de l’exploitation, et \nc. la question, si un éventuel comportement fautif du propriétaire ou de l’exploitant a conduit à ce que l’établissement concerné ne peut plus être géré de manière économique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_5"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Bâtiments caractéristiques du site ",
+        "citation": "Art. 6 al. 1 ORSec",
+        "content": "Les bâtiments caractéristiques du site au sens de l’art. 9, al. 1, LRS sont des constructions qui par leur emplacement et leur forme apportent une contribution essentielle à la qualité du site bâti à conserver et à l’identité de la localité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_6"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 2 Création de nouveaux logements, Bâtiments caractéristiques du site ",
+        "citation": "Art. 6 al. 2 ORSec",
+        "content": "Les cantons mettent en place une procédure permettant de déterminer quels sont les bâtiments caractéristiques du site.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_6"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 3, Changement d’affectation d’un logement affecté à l’hébergement touristique et annonce",
+        "citation": "Art. 7 al. 1 ORSec",
+        "content": "Un logement soumis à une restriction d’utilisation selon l’art. 7, al. 1, let. b, LRS peut aussi être utilisé en tant que logement selon l’art. 7, al. 1, let. a, LRS.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_7"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 3, Changement d’affectation d’un logement affecté à l’hébergement touristique et annonce",
+        "citation": "Art. 7 al. 2 ORSec",
+        "content": "Le propriétaire du logement doit annoncer le changement d’utilisation à l’autorité compétente pour les autorisations de construire dans un délai de 30 jours dès l’emménagement dans le logement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_7"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. a, LRS",
+        "citation": "Art. 8 al. 1 ORSec",
+        "content": "L’autorité compétente pour les autorisations de construire, limite la suspension à une durée de deux ans au plus, en vertu de l’art. 14, al. 1, let. a, LRS. Elle peut exceptionnellement prolonger ce délai de deux ans au plus si des motifs pertinents le justifient.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_8"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. a, LRS",
+        "citation": "Art. 8 al. 2 ORSec",
+        "content": "Une nouvelle prolongation est admise si les conditions énoncées à l’art. 9 sont remplies.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_8"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. b, LRS",
+        "citation": "Art. 9 al. 1 ORSec",
+        "content": "L’autorité compétente pour les autorisations de construire limite la suspension à une durée de deux ans au plus, en vertu de l’art. 14, al. 1, let. b, LRS. Elle prolonge la suspension si le propriétaire fournit la preuve que les conditions énoncées à l’art. 14, al. 1 let. b, LRS sont toujours remplies. La prolongation est à chaque fois de deux ans au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_9"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. b, LRS",
+        "citation": "Art. 9 al. 2 ORSec",
+        "content": "Le propriétaire doit attester dans chaque cas:\na. que des annonces ont régulièrement été publiées selon les usages du marché; \nb. que le logement a été proposé aux conditions usuelles du marché et conformes à l’usage local, et\nc. que le logement a été en tout temps prêt à être occupé par un locataire ou un acquéreur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_9"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. b, LRS",
+        "citation": "Art. 9 al. 3 ORSec",
+        "content": "A défaut de preuve selon l’art. 14, al. 1, let. b, LRS, l’autorité compétente pour les autorisations de construire refuse la suspension. Si des mesures administratives prévues à l’art. 17 LRS sont envisagées, elle transmet le dossier à l’autorité compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_9"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 4, Suspension des restrictions d’utilisation pour les logements soumis au nouveau droit, Suspension conformément à l’art. 14, al. 1, let. b, LRS",
+        "citation": "Art. 9 al. 4 ORSec",
+        "content": "Sur requête du propriétaire, l’office du registre foncier, dans le cas prévu à l’art. 14, al. 1, let. b, LRS, complète la mention de la restriction d’utilisation par l’indication de la suspension temporaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_9"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 5, Qualité pour recourir et notification des décisions",
+        "citation": "Art. 10 al. 1 ORSec",
+        "content": "En matière de résidences secondaires, la qualité pour recourir de l’ARE est régie par les dispositions générales de la procédure fédérale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_10"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 5, Qualité pour recourir et notification des décisions",
+        "citation": "Art. 10 al. 2 ORSec",
+        "content": "L’autorité compétente pour les autorisations de construire notifie à l’ARE:\na. les autorisations qu’elle a délivrées en application des art. 7, al. 1, let. b, 8 et 9 LRS;\nb. les décisions de suspension conformément à l’art. 14 LRS;\nc. les autorisations concernant des logements pour lesquels la restriction d’utilisation a été suspendue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_10"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 6, Disposition transitoire et dispositions finales, Modification d’autres actes",
+        "citation": "Art. 12 ORSec",
+        "content": "Les actes suivants sont modifiés comme suit:",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_12"
+    },
+    {
+        "book": "ZWV",
+        "title": "ORSec, Section 6, Disposition transitoire et dispositions finales, Entrée en vigueur ",
+        "citation": "Art. 13 al. er ORSec",
+        "content": "La présente ordonnance entre en vigueur le 1 janvier 2016.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2015/887/fr#art_13"
+    }
+]

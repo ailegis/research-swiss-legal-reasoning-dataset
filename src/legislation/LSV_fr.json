@@ -1,0 +1,877 @@
+[
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, But et champ d’application",
+        "citation": "Art. 1 al. 1 OPB",
+        "content": "La présente ordonnance a pour but de protéger contre le bruit nuisible ou incommodant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_1"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, But et champ d’application",
+        "citation": "Art. 1 al. 2 OPB",
+        "content": "Elle régit:\na. la limitation des émissions de bruit extérieur produites par l’exploitation d’installations nouvelles ou existantes au sens de l’art. 7 de la loi;\nb. la délimitation et l’équipement de zones à bâtir dans des secteurs exposés au bruit;\nc. l’attribution du permis de construire pour les bâtiments disposant de locaux à usage sensible au bruit et situés dans des secteurs exposés au bruit;\nd. l’isolation contre le bruit extérieur et intérieur des nouveaux bâtiments disposant de locaux à usage sensible au bruit;\ne. l’isolation contre le bruit extérieur des bâtiments existants disposant de locaux à usage sensible au bruit;\nf. la détermination des immissions de bruit extérieur et leur évaluation à partir de valeurs limites d’exposition.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_1"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, But et champ d’application",
+        "citation": "Art. 1 al. 3 OPB",
+        "content": "Elle ne régit pas:\na. la protection contre le bruit produit sur l’aire d’une exploitation, dans la mesure où il affecte les bâtiments d’exploitation et les appartements qui s’y trouvent;\nb. la protection contre les infrasons et les ultrasons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_1"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 1 OPB",
+        "content": "Les installations fixes sont les constructions, les infrastructures destinées au trafic, les équipements des bâtiments et les autres installations non mobiles dont l’exploitation produit du bruit extérieur. En font notamment partie les routes, les installations ferroviaires, les aérodromes, les installations de l’industrie, des arts et métiers et de l’agriculture, les installations de tir ainsi que les places permanentes de tir et d’exercice militaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 2 OPB",
+        "content": "Sont également considérées comme nouvelles installations fixes les installations fixes et les constructions dont l’affectation est entièrement modifiée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 3 OPB",
+        "content": "Les limitations d’émissions sont des mesures techniques, de construction, d’exploitation, ainsi que d’orientation, de répartition, de restriction ou de modération du trafic, appliquées aux installations, ou des mesures de construction prises sur le chemin de propagation des émissions. Elles sont destinées à empêcher ou à réduire la formation ou la propagation du bruit extérieur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 4 OPB",
+        "content": "L’assainissement est une limitation d’émissions pour les installations fixes existantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 5 OPB",
+        "content": "Les valeurs limites d’exposition sont des valeurs limites d’immission, des valeurs de planification et des valeurs d’alarme. Elles sont fixées en fonction du genre de bruit, de la période de la journée, de l’affectation du bâtiment et du secteur à protéger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 al. 6 OPB",
+        "content": "Les locaux dont l’usage est sensible au bruit sont:\na. les pièces des habitations, à l’exclusion des cuisines sans partie habitable, des locaux sanitaires et des réduits;\nb. les locaux d’exploitations, dans lesquels des personnes séjournent régulièrement durant une période prolongée; en sont exclus les locaux destinés à la garde d’animaux de rente et les locaux où le bruit inhérent à l’exploitation est considérable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_2"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 1, Limitation des émissions pour les véhicules",
+        "citation": "Art. 3 al. 1 OPB",
+        "content": "Les émissions de bruit dues aux véhicules à moteur, aéronefs, bateaux et véhicules ferroviaires doivent être limitées dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation, et économiquement supportable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_3"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 1, Limitation des émissions pour les véhicules",
+        "citation": "Art. 3 al. 2 OPB",
+        "content": "Pour la limitation des émissions, on appliquera les législations sur la circulation routière, l’aviation civile, la navigation intérieure et les chemins de fer, lorsqu’un véhicule est soumis à l’une de ces législations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_3"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 1, Limitation des émissions pour les véhicules",
+        "citation": "Art. 3 al. 3 OPB",
+        "content": "Pour la limitation des émissions des autres véhicules, on appliquera les prescriptions relatives aux appareils et aux machines mobiles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_3"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Principe",
+        "citation": "Art. 4 al. 1 OPB",
+        "content": "Les émissions de bruit extérieur produites par des appareils et des machines mobiles seront limitées:\na. dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation et économiquement supportable, et\nb. de telle façon que la population touchée ne soit pas sensiblement gênée dans son bien-être.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_4"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Principe",
+        "citation": "Art. 4 al. 2 OPB",
+        "content": "L’autorité d’exécution ordonne des mesures qui relèvent de l’exploitation ou de la construction, ou des mesures assurant un entretien dans les règles de l’art.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_4"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Principe",
+        "citation": "Art. 4 al. 3 OPB",
+        "content": "Lorsque le fonctionnement ou l’utilisation d’armes, d’appareils ou de machines militaires ne permettent pas d’éviter des immissions de bruit importantes et gênantes, l’autorité d’exécution accorde des allégements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_4"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Principe",
+        "citation": "Art. 4 al. 4 OPB",
+        "content": "Les émissions produites par les appareils et machines qui servent au fonctionnement d’une installation fixe sont limitées par les prescriptions sur les installations fixes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_4"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Évaluation de la conformité et marquage des appareils et des machines",
+        "citation": "Art. 5 al. 1 OPB",
+        "content": "Les appareils et les machines prévus pour une utilisation à l’air libre ne seront mis dans le commerce qu’après avoir passé une évaluation de leur conformité et avoir été marqués.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_5"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Évaluation de la conformité et marquage des appareils et des machines",
+        "citation": "Art. 5 al. 2 OPB",
+        "content": "Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) définit:\na. les types d’appareils et de machines soumis à l’évaluation de la conformité et au marquage;\nb. les exigences en matière de limitation préventive des émissions et en matière de marquage, compte tenu des normes internationales reconnues;\nc. les documents devant être présentés pour l’évaluation de la conformité;\nd. les procédés d’expertise, de mesure et de calcul;\ne. les contrôles ultérieurs;\nf. la reconnaissance des expertises et marquages étrangers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_5"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 2, Véhicules, appareils et machines mobiles, Section 2 Limitation des émissions d’appareils et machines mobiles, Directives sur le bruit des chantiers",
+        "citation": "Art. 6 OPB",
+        "content": "L’Office fédéral de l’environnement (OFEV) édicte des directives sur les mesures de construction et d’exploitation destinées à limiter le bruit des chantiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_6"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions de nouvelles installations fixes",
+        "citation": "Art. 7 al. 1 OPB",
+        "content": "Les émissions de bruit d’une nouvelle installation fixe seront limitées conformément aux dispositions de l’autorité d’exécution:\na. dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation et économiquement supportable, et\nb. de telle façon que les immissions de bruit dues exclusivement à l’installation en cause ne dépassent pas les valeurs de planification.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_7"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions de nouvelles installations fixes",
+        "citation": "Art. 7 al. 2 OPB",
+        "content": "L’autorité d’exécution accorde des allégements dans la mesure où le respect des valeurs de planification constituerait une charge disproportionnée pour l’installation et que cette dernière présente un intérêt public prépondérant, notamment sur le plan de l’aménagement du territoire. Les valeurs limites d’immission ne doivent cependant pas être dépassées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_7"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions de nouvelles installations fixes",
+        "citation": "Art. 7 al. 3 OPB",
+        "content": "Les mesures supplémentaires de limitation des émissions prévues à l’al. 1, let. a, ne s’appliquent aux nouvelles pompes à chaleur air-eau qui sont majoritairement destinées au chauffage de locaux ou d’eau potable et dont les immissions de bruit ne dépassent pas les valeurs de planification que si les émissions peuvent être réduites d’au moins 3 dB moyennant au plus 1 % des coûts d’investissement de l’installation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_7"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions d’installations fixes modifiées",
+        "citation": "Art. 8 al. 1 OPB",
+        "content": "Lorsqu’une installation fixe déjà existante est modifiée, les émissions de bruit des éléments d’installation nouveaux ou modifiés devront, conformément aux dispositions de l’autorité d’exécution, être limitées dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation, et économiquement supportable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_8"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions d’installations fixes modifiées",
+        "citation": "Art. 8 al. 2 OPB",
+        "content": "Lorsque l’installation est notablement modifiée, les émissions de bruit de l’ensemble de l’installation devront au moins être limitées de façon à ne pas dépasser les valeurs limites d’immission.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_8"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions d’installations fixes modifiées",
+        "citation": "Art. 8 al. 3 OPB",
+        "content": "Les transformations, agrandissements et modifications d’exploitation provoqués par le détenteur de l’installation sont considérés comme des modifications notables d’une installation fixe lorsqu’il y a lieu de s’attendre à ce que l’installation même ou l’utilisation accrue des voies de communication existantes entraînera la perception d’immissions de bruit plus élevées. La reconstruction d’installations est considérée dans tous les cas comme modification notable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_8"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Limitation des émissions d’installations fixes modifiées",
+        "citation": "Art. 8 al. 4 OPB",
+        "content": "Lorsqu’une nouvelle installation fixe est modifiée, l’art. 7 est applicable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_8"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Utilisation accrue des voies de communication",
+        "citation": "Art. 9 OPB",
+        "content": "L’exploitation d’installations fixes nouvelles ou notablement modifiées ne doit pas entraîner:\na. un dépassement des valeurs limites d’immission consécutif à l’utilisation accrue d’une voie de communication ou\nb. la perception d’immissions de bruit plus élevées en raison de l’utilisation accrue d’une voie de communication nécessitant un assainissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_9"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 10 al. 1 OPB",
+        "content": "Lorsque pour les installations fixes nouvelles ou notablement modifiées, publiques ou concessionnaires, il n’est pas possible de respecter les exigences requises aux art. 7, al. 2, et 8, al. 2, ou à l’art. 9, l’autorité d’exécution oblige les propriétaires des bâtiments existants exposés au bruit à insonoriser, au sens de l’annexe 1, les fenêtres des locaux à usage sensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_10"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 10 al. 2 OPB",
+        "content": "Les propriétaires des bâtiments peuvent, avec l’assentiment de l’autorité d’exécution, appliquer à leurs bâtiments d’autres mesures d’isolation acoustique, si ces dernières réduisent le bruit à l’intérieur des locaux dans la même proportion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_10"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 10 al. 3 OPB",
+        "content": "Les mesures d’isolation acoustique ne doivent pas être prises lorsque:\na. l’on peut présumer qu’elles n’apporteront pas une réduction perceptible du bruit dans le bâtiment;\nb. des intérêts prépondérants de la protection des sites ou des monuments historiques s’y opposent;\nc. le bâtiment sera vraisemblablement démoli dans les trois ans qui suivent la mise en service de l’installation nouvelle ou modifiée ou que, dans ce délai, les locaux concernés seront affectés à un usage insensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_10"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Coût",
+        "citation": "Art. 11 al. 1 OPB",
+        "content": "Le détenteur de l’installation nouvelle ou notablement modifiée supporte les frais de la limitation des émissions que provoque son installation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_11"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Coût",
+        "citation": "Art. 11 al. 2 OPB",
+        "content": "Lorsque le propriétaire d’un bâtiment doit prendre des mesures d’isolation acoustique au sens de l’art. 10, al. 1, le détenteur de l’installation prend en outre à sa charge les frais usuels locaux, dûment justifiés, pour:\na. l’établissement du projet et la direction des travaux;\nb. l’insonorisation nécessaire des fenêtres au sens de l’annexe 1 et les travaux d’adaptation indispensables qui en découlent;\nc. le financement si, malgré la demande d’avance de frais faite par le propriétaire du bâtiment, le détenteur de l’installation n’a versé aucun acompte;\nd. les taxes éventuelles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_11"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Coût",
+        "citation": "Art. 11 al. 3 OPB",
+        "content": "Lorsque le propriétaire du bâtiment doit prendre des mesures d’isolation acoustique au sens de l’art. 10, al. 2, le détenteur de l’installation supporte les frais usuels locaux, dûment justifiés, pour autant qu’ils n’excèdent pas ceux de l’al. 2. Les autres frais sont à la charge du propriétaire du bâtiment.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_11"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Coût",
+        "citation": "Art. 11 al. 4 OPB",
+        "content": "Lorsque des limitations d’émissions ou des mesures d’isolation acoustique doivent être prises en raison du bruit produit par plusieurs installations, les frais qui en résultent seront répartis proportionnellement aux immissions de bruit de chacune des installations concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_11"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Coût",
+        "citation": "Art. 11 al. 5 OPB",
+        "content": "Les frais d’entretien et de renouvellement des mesures d’isolation acoustique sont à la charge du propriétaire du bâtiment.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_11"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 3, Installations fixes nouvelles et modifiées, Contrôles",
+        "citation": "Art. 12 OPB",
+        "content": "L’autorité d’exécution s’assurera, au plus tard un an après la mise en service de l’installation nouvelle ou modifiée, que les limitations d’émissions et les mesures d’isolation acoustique ordonnées ont bien été prises. En cas de doute, elle examine l’efficacité des mesures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_12"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Assainissement",
+        "citation": "Art. 13 al. 1 OPB",
+        "content": "Pour les installations fixes qui contribuent de manière notable au dépassement des valeurs limites d’immission, l’autorité d’exécution ordonne l’assainissement nécessaire, après avoir entendu le détenteur de l’installation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_13"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Assainissement",
+        "citation": "Art. 13 al. 2 OPB",
+        "content": "Les installations seront assainies:\na. dans la mesure où cela est réalisable sur le plan de la technique et de l’exploitation et économiquement supportable, et\nb. de telle façon que les valeurs limites d’immission ne soient plus dépassées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_13"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Assainissement",
+        "citation": "Art. 13 al. 3 OPB",
+        "content": "Lorsqu’aucun intérêt prépondérant ne s’y oppose, l’autorité d’exécution accorde la priorité aux mesures qui empêchent ou réduisent la formation de bruit plutôt qu’à celles qui empêchent ou réduisent uniquement sa propagation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_13"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Assainissement",
+        "citation": "Art. 13 al. 4 OPB",
+        "content": "L’assainissement ne doit pas être entrepris lorsque:\na. le dépassement des valeurs limites d’immission touche uniquement des zones à bâtir qui ne sont pas encore équipées;\nb. sur la base du droit cantonal en matière de construction et d’aménagement du territoire, des mesures de planification, d’aménagement ou de construction sont prises sur le lieu des immissions de bruit, qui permettent de respecter les valeurs limites d’immission jusqu’à l’échéance des délais fixés (art. 17).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_13"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Allégements en cas d’assainissement",
+        "citation": "Art. 14 al. 1 OPB",
+        "content": "L’autorité d’exécution accorde des allégements dans la mesure où:\na. l’assainissement entraverait de manière excessive l’exploitation ou entraînerait des frais disproportionnés;\nb. des intérêts prépondérants, notamment dans les domaines de la protection des sites, de la nature et du paysage, de la sécurité de la circulation et de l’exploitation ainsi que de la défense générale s’opposent à l’assainissement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_14"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Allégements en cas d’assainissement",
+        "citation": "Art. 14 al. 2 OPB",
+        "content": "Les valeurs d’alarme ne doivent toutefois pas être dépassées par des installations privées, non concessionnaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_14"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 15 al. 1 OPB",
+        "content": "Lorsque pour des installations fixes, publiques ou concessionnaires, il n’est pas possible de respecter les valeurs d’alarme en raison des allégements accordés, l’autorité d’exécution oblige les propriétaires des bâtiments existants exposés au bruit à insonoriser, au sens de l’annexe 1, les fenêtres des locaux à usage sensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_15"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 15 al. 2 OPB",
+        "content": "Les propriétaires des bâtiments peuvent, avec l’assentiment de l’autorité d’exécution, appliquer à leurs bâtiments d’autres mesures d’isolation acoustique, si ces dernières réduisent le bruit à l’intérieur des locaux dans la même proportion.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_15"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Isolation acoustique des bâtiments existants",
+        "citation": "Art. 15 al. 3 OPB",
+        "content": "Les mesures d’isolation acoustique ne doivent pas être prises lorsque:\na. l’on peut présumer qu’elles n’apporteront pas une réduction perceptible du bruit dans le bâtiment;\nb. des intérêts prépondérants de la protection des sites ou des monuments historiques s’y opposent;\nc. le bâtiment sera vraisemblablement démoli dans les trois ans qui suivent l’ordre de prendre des mesures d’isolation acoustique ou que, dans ce délai, les locaux concernés seront affectés à un usage insensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_15"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Coût",
+        "citation": "Art. 16 al. 1 OPB",
+        "content": "Le détenteur de l’installation supporte les frais d’assainissement de son installation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_16"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Coût",
+        "citation": "Art. 16 al. 2 OPB",
+        "content": "Le détenteur d’une installation publique ou concessionnaire supporte en outre, selon l’art. 11, les frais des mesures d’isolation acoustique appliquées à des bâtiments existants, lorsqu’il ne lui a pas été possible, au sens de l’art. 20, al. 2, de la loi, de se libérer de cette obligation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_16"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Coût",
+        "citation": "Art. 16 al. 3 OPB",
+        "content": "Lorsqu’il y a lieu de procéder à un assainissement ou de prendre des mesures d’isolation acoustique en raison du bruit produit par plusieurs installations, les frais qui en résultent seront répartis proportionnellement aux immissions de bruit de chacune des installations concernées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_16"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Coût",
+        "citation": "Art. 16 al. 4 OPB",
+        "content": "Les frais d’entretien et de renouvellement des mesures d’isolation acoustique sont à la charge du propriétaire du bâtiment.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_16"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 1 OPB",
+        "content": "L’autorité d’exécution fixe les délais pour l’assainissement et les mesures d’isolation acoustique en fonction de l’urgence de chaque cas.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 2 OPB",
+        "content": "Sont déterminants pour évaluer l’urgence d’un cas:\na. l’importance du dépassement des valeurs limites d’immission;\nb. le nombre des personnes touchées par le bruit;\nc. le rapport coût-utilité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 3 OPB",
+        "content": "L’assainissement et les mesures d’isolation acoustique devront être exécutés au plus tard dans les quinze ans qui suivent l’entrée en vigueur de la présente ordonnance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 4 OPB",
+        "content": "Le délai pour réaliser les assainissements et les mesures d’isolation acoustique sur les routes (al. 3) est prolongé:\na. pour les routes nationales: jusqu’au 31 mars 2015 au plus tard;\nb. pour les routes principales selon l’art. 12 de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire (LUMin) et pour les autres routes: jusqu’au 31 mars 2018 au plus tard.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 5 OPB",
+        "content": "Pour la réalisation des assainissements et des mesures d’isolation acoustique concernant les installations ferroviaires, les délais sont fixés dans la loi fédérale du 24 mars 2000 sur la réduction du bruit émis par les chemins de fer.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Délais",
+        "citation": "Art. 17 al. 6 OPB",
+        "content": "L’assainissement et les mesures d’isolation acoustique doivent avoir été mis en œuvre:\na. pour les aérodromes militaires: au 31 juillet 2020;\nb. pour les aérodromes civils où circulent de grands avions: au 31 mai 2016;\nc. pour les installations de tir civiles devant être assainies en vertu de la modification du 23 août 2006 de l’annexe 7: au 1er novembre 2016;\nd. pour les places d’armes, de tir et d’exercice militaires: au 31 juillet 2025.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_17"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Contrôles",
+        "citation": "Art. 18 OPB",
+        "content": "L’autorité d’exécution s’assurera, au plus tard un an après l’exécution de l’assainissement et des mesures d’isolation acoustique, s’ils correspondent aux mesures qui ont été ordonnées. En cas de doute, elle examine l’efficacité des mesures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_18"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Enquêtes périodiques",
+        "citation": "Art. 20 al. 1 OPB",
+        "content": "L’OFEV enquête périodiquement auprès des autorités d’exécution pour connaître l’état des assainissements et des mesures d’isolation acoustique concernant notamment les routes, les installations ferroviaires, les aérodromes et les installations de tir, ainsi que sur les places de tir et d’exercice militaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_20"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Enquêtes périodiques",
+        "citation": "Art. 20 al. 2 OPB",
+        "content": "S’agissant des routes, il demande aux autorités d’exécution de fournir chaque année pour le 31 mars notamment les documents suivants:\na. un aperçu:\n1. des routes et des tronçons routiers qui nécessitent un assainissement,\n2. des délais dans lesquels ces routes et ces tronçons routiers seront assainis,\n3. du coût total des assainissements et des mesures d’isolation acoustique, et\n4. du nombre de personnes concernées par des immissions de bruit supérieures aux valeurs limites d’immission et aux valeurs d’alarme;\nb. un rapport sur:\n1. les assainissements de routes ou de tronçons routiers et les mesures d’isolation acoustique réalisés au cours de l’année précédente, et sur \n2. l’efficacité et le coût de ces assainissements et de ces mesures d’isolation acoustique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_20"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Enquêtes périodiques",
+        "citation": "Art. 20 al. 3 OPB",
+        "content": "Pour les routes nationales, il demande à l’Office fédéral des routes les indications prévues à l’al. 2. Pour les routes principales et les autres routes, il demande ces informations aux cantons. Ces informations doivent être fournies conformément aux directives de l’OFEV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_20"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 1, Assainissement et mesures d’isolation acoustique, Enquêtes périodiques",
+        "citation": "Art. 20 al. 4 OPB",
+        "content": "L’OFEV évalue ces informations en particulier du point de vue de l’avancement des travaux d’assainissement, ainsi que du coût et de l’efficacité des mesures. Il communique les résultats aux autorités d’exécution et les publie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_20"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Droit aux subventions",
+        "citation": "Art. 21 al. 1 OPB",
+        "content": "La Confédération alloue des subventions en faveur de l’assainissement et des mesures d’isolation acoustique appliqués à des bâtiments existants:\na. pour les routes principales, au sens de l’art. 12 LUMin;\nb. pour les autres routes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_21"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Droit aux subventions",
+        "citation": "Art. 21 al. 2 OPB",
+        "content": "Les subventions visées à l’al. 1, let. a, font partie des contributions globales prévues à l’art. 13 LUMin. Les subventions visées à l’al. 1, let. b, sont octroyées globalement pour les tronçons définis dans les conventions-programmes conclues avec les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_21"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Demande",
+        "citation": "Art. 22 al. 1 OPB",
+        "content": "Le canton présente la demande de subventions pour des assainissements et des mesures d’isolation acoustique appliqués aux routes visées à l’art. 21, al. 1, let. b, à l’OFEV.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_22"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Demande",
+        "citation": "Art. 22 al. 2 OPB",
+        "content": "La demande doit notamment contenir des indications relatives:\na. aux routes et aux tronçons à assainir pendant la durée de la convention-programme;\nb. aux mesures d’assainissement et d’isolation acoustique prévues, ainsi qu’à leurs coûts;\nc. à l’efficacité visée de ces mesures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_22"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Convention-programme",
+        "citation": "Art. 23 al. 1 OPB",
+        "content": "L’OFEV conclut la convention-programme avec l’autorité cantonale compétente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_23"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Convention-programme",
+        "citation": "Art. 23 al. 2 OPB",
+        "content": "La convention-programme a notamment pour objets:\na. les routes et les tronçons routiers à assainir;\nb. la prestation fournie par la Confédération;\nc. le controlling.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_23"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Convention-programme",
+        "citation": "Art. 23 al. 3 OPB",
+        "content": "La durée de la convention-programme est de quatre ans; dans des cas dûment motivés, une durée plus courte ou plus longue peut être convenue.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_23"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Convention-programme",
+        "citation": "Art. 23 al. 4 OPB",
+        "content": "L’OFEV édicte des directives sur la procédure à suivre dans le cadre des conventions-programmes et sur les informations et documents relatifs aux objets de celles-ci.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_23"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Taux des subventions",
+        "citation": "Art. 24 al. 1 OPB",
+        "content": "Le montant des subventions pour les assainissements est fonction:\na. du nombre de personnes qui seront protégées par les mesures, et \nb. de la réduction de l’exposition au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_24"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Taux des subventions",
+        "citation": "Art. 24 al. 2 OPB",
+        "content": "Pour les mesures d’isolation acoustique des bâtiments existants, il est alloué 400 francs par fenêtre anti-bruit ou autre mesure de construction ayant des effets anti-bruit équivalents.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_24"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Taux des subventions",
+        "citation": "Art. 24 al. 3 OPB",
+        "content": "Le montant des subventions est négocié entre la Confédération et les cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_24"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Versement",
+        "citation": "Art. 25 OPB",
+        "content": "Les subventions globales sont versées par paiements échelonnés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_25"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Compte rendu et contrôle",
+        "citation": "Art. 26 al. 1 OPB",
+        "content": "Le canton rend compte chaque année à l’OFEV de l’utilisation des subventions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_26"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Compte rendu et contrôle",
+        "citation": "Art. 26 al. 2 OPB",
+        "content": "L’OFEV contrôle par sondages:\na. l’exécution des diverses mesures en fonction des objectifs du programme;\nb. l’utilisation des subventions versées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_26"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Exécution imparfaite et désaffectation",
+        "citation": "Art. 27 al. 1 OPB",
+        "content": "L’OFEV retient tout ou partie des paiements échelonnés, pendant la durée du programme, si le canton:\na. ne s’acquitte pas de son devoir de compte rendu (art. 26, al. 1);\nb. entrave considérablement et par sa propre faute l’exécution de sa prestation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_27"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Exécution imparfaite et désaffectation",
+        "citation": "Art. 27 al. 2 OPB",
+        "content": "Si, après la durée du programme, il s’avère que la prestation a été fournie de manière imparfaite, l’OFEV en exige l’exécution correcte par le canton; il lui fixe un délai raisonnable à cet effet.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_27"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Exécution imparfaite et désaffectation",
+        "citation": "Art. 27 al. 3 OPB",
+        "content": "Si des installations qui ont bénéficié d’indemnités sont affectées à un autre but, l’OFEV peut exiger du canton qu’il renonce à cette désaffectation ou l’annule, dans un délai raisonnable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_27"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 4, Installations fixes existantes, Section 2, Subventions fédérales à l’assainissement et aux mesures d’isolation acoustique des routes (principales et autres) existantes, Exécution imparfaite et désaffectation",
+        "citation": "Art. 27 al. 4 OPB",
+        "content": "Si le canton n’exécute pas correctement la prestation malgré l’injonction de l’OFEV ou s’il renonce pas à la désaffectation ou ne l’annule pas, la restitution est régie par les art. 28 et 29 de la loi du 5 octobre 1990 sur les subventions (LSu).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_27"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Délimitation de nouvelles zones à bâtir et de nouvelles zones requérant une protection accrue contre le bruit",
+        "citation": "Art. 29 al. 1 OPB",
+        "content": "Les nouvelles zones à bâtir destinées à des bâtiments comprenant des locaux à usage sensible au bruit, et les nouvelles zones non constructibles qui requièrent une protection accrue contre le bruit, ne peuvent être délimitées qu’en des secteurs où les immissions de bruit ne dépassent pas les valeurs de planification ou en des secteurs dans lesquels des mesures de planification, d’aménagement ou de construction permettent de respecter ces valeurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_29"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Équipement des zones à bâtir",
+        "citation": "Art. 30 OPB",
+        "content": "Les zones à bâtir destinées à des bâtiments comprenant des locaux à usage sensible au bruit, qui ne sont pas encore équipées au moment de l’entrée en vigueur de la loi, ne pourront être équipées que dans la mesure où les valeurs de planification sont respectées ou peuvent l’être par un changement du mode d’affectation ou par des mesures de planification, d’aménagement ou de construction. L’autorité d’exécution peut accorder des exceptions pour de petites parties de zones à bâtir.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_30"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Permis de construire dans des secteurs exposés au bruit",
+        "citation": "Art. 31 al. 1 OPB",
+        "content": "Lorsque les valeurs limites d’immission sont dépassées, les nouvelles constructions ou les modifications notables de bâtiments comprenant des locaux à usage sensible au bruit, ne seront autorisées que si ces valeurs peuvent être respectées par:\na. la disposition des locaux à usage sensible au bruit sur le côté du bâtiment opposé au bruit, ou\nb. des mesures de construction ou d’aménagement susceptibles de protéger le bâtiment contre le bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Permis de construire dans des secteurs exposés au bruit",
+        "citation": "Art. 31 al. 2 OPB",
+        "content": "Si les mesures fixées à l’al. 1 ne permettent pas de respecter les valeurs limites d’immission, le permis de construire ne sera délivré qu’avec l’assentiment de l’autorité cantonale et pour autant que l’édification du bâtiment présente un intérêt prépondérant.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Permis de construire dans des secteurs exposés au bruit",
+        "citation": "Art. 31 al. 3 OPB",
+        "content": "Le coût des mesures est à la charge des propriétaires du terrain.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Dispositions spéciales concernant les aéroports où circulent de grands avions ",
+        "citation": "Art. 31a al. 1 OPB",
+        "content": "Pour les aéroports où circulent de grands avions, les valeurs limites de planification et les valeurs limites d’immissions selon l’annexe 5, ch. 222, pour les heures de la nuit sont considérées comme respectées si:\na. aucune opération de vol n’est prévue entre 24 et 6 heures;\nb. les locaux à usage sensible au bruit bénéficient d’une isolation acoustique contre le bruit, extérieur et intérieur, répondant au moins aux exigences accrues de la norme SIA 181 du 1er juin 2006 de la Société suisse des ingénieurs et des architectes, et que\nc. les chambres à coucher:\n1. disposent d’une fenêtre qui se ferme automatiquement entre 22 et 24 heures et peut s’ouvrir automatiquement le reste du temps, et\n2. sont construites de manière à assurer un climat adéquat.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Dispositions spéciales concernant les aéroports où circulent de grands avions ",
+        "citation": "Art. 31a al. 2 OPB",
+        "content": "L’autorité chargée de la délimitation ou de l’équipement de zones à bâtir veille à ce que les exigences formulées à l’al. 1, let. b et c, soient contraignantes pour les propriétaires fonciers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 5 Exigences posées aux zones à bâtir et permis de construire dans des secteurs exposés au bruit, Dispositions spéciales concernant les aéroports où circulent de grands avions ",
+        "citation": "Art. 31a al. 3 OPB",
+        "content": "L’OFEV peut édicter des recommandations relatives à l’exécution de l’al. 1, let. c. Il y tient compte des normes techniques pertinentes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_31_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Exigences",
+        "citation": "Art. 32 al. 1 OPB",
+        "content": "Le maître de l’ouvrage d’un nouveau bâtiment doit s’assurer que l’isolation acoustique des éléments extérieurs et des éléments de séparation des locaux à usage sensible au bruit, ainsi que des escaliers et des équipements, satisfont aux règles reconnues de la construction. Sont notamment applicables, contre le bruit des aérodromes civils où circulent de grands avions, les exigences renforcées, et contre le bruit des autres installations stationnaires, les exigences minimales selon la norme SIA 181 de l’Association suisse des ingénieurs et architectes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_32"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Exigences",
+        "citation": "Art. 32 al. 2 OPB",
+        "content": "Lorsque les valeurs limites d’immission sont dépassées et que les conditions fixées à l’art. 31, al. 2, pour l’attribution du permis de construire sont remplies, l’autorité d’exécution renforce dans une mesure appropriée les exigences posées en matière d’insonorisation des éléments extérieurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_32"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Exigences",
+        "citation": "Art. 32 al. 3 OPB",
+        "content": "Les exigences s’appliquent également aux éléments extérieurs, aux éléments de séparation, aux escaliers et aux équipements qui sont transformés, remplacés ou montés à neuf. Sur requête, l’autorité d’exécution accorde des allégements lorsque le respect des exigences est disproportionné.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_32"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Éléments extérieurs et éléments de séparation, équipements du bâtiment",
+        "citation": "Art. 33 al. 1 OPB",
+        "content": "Les éléments extérieurs délimitent un local vers le dehors du bâtiment (p. ex. fenêtres, portes et murs extérieurs, toits).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_33"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Éléments extérieurs et éléments de séparation, équipements du bâtiment",
+        "citation": "Art. 33 al. 2 OPB",
+        "content": "Les éléments de séparation délimitent entre eux les locaux de différentes unités d’affectation, telles que des appartements (p. ex. parois intérieures, plafonds, portes).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_33"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Éléments extérieurs et éléments de séparation, équipements du bâtiment",
+        "citation": "Art. 33 al. 3 OPB",
+        "content": "Les équipements sont les installations qui font corps avec le bâtiment, tels que chauffage, ventilation, installations pour l’alimentation et l’évacuation, ascenseurs ou machines à laver.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_33"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Demande de permis de construire",
+        "citation": "Art. 34 al. 1 OPB",
+        "content": "Dans la demande de permis de construire, le maître de l’ouvrage doit indiquer:\na. le bruit extérieur, dans la mesure où les valeurs limites d’immission sont dépassées;\nb. l’affectation des locaux;\nc. les éléments extérieurs et les éléments de séparation des locaux à usage sensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_34"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Demande de permis de construire",
+        "citation": "Art. 34 al. 2 OPB",
+        "content": "Pour les projets de construction en des secteurs où les valeurs limites d’immission sont dépassées, l’autorité d’exécution peut requérir des renseignements sur l’isolation acoustique des éléments extérieurs.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_34"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 6, Isolation acoustique des nouveaux bâtiments, Contrôles",
+        "citation": "Art. 35 OPB",
+        "content": "Après l’achèvement des travaux de construction, l’autorité d’exécution contrôle, par pointages, si les mesures d’isolation acoustique satisfont aux exigences. En cas de doute, elle procède à un examen plus approfondi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_35"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Détermination obligatoire",
+        "citation": "Art. 36 al. 1 OPB",
+        "content": "L’autorité d’exécution détermine les immissions de bruit extérieur dues aux installations fixes ou ordonne leur détermination si elle a des raisons de supposer que les valeurs limites d’exposition en vigueur sont déjà ou vont être dépassées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_36"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Détermination obligatoire",
+        "citation": "Art. 36 al. 2 OPB",
+        "content": "Elle tient compte des augmentations ou des diminutions des immissions de bruit auxquelles on peut s’attendre en raison de:\na. la construction, la modification ou l’assainissement d’installations fixes, notamment si les projets concernés sont déjà autorisés ou mis à l’enquête publique au moment de la détermination;\nb. la construction, la modification ou la démolition d’autres ouvrages, si les projets sont déjà mis à l’enquête publique au moment de la détermination.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_36"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 1 OPB",
+        "content": "Pour les routes, les installations ferroviaires, les aérodromes ainsi que les places d’armes, de tir et d’exercice militaires, l’autorité d’exécution consigne dans un cadastre (cadastre de bruit) les immissions de bruit déterminées selon l’art. 36.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 2 OPB",
+        "content": "Les cadastres de bruit indiquent:\na. l’exposition au bruit déterminée;\nb. les modèles de calcul utilisés;\nc. les données d’entrée pour le calcul du bruit;\nd. l’affectation des territoires exposés au bruit selon le plan d’affectation;\ne. les degrés de sensibilité attribués;\nf. les installations et leurs propriétaires;\ng. le nombre de personnes concernées par des immissions de bruit supérieures aux valeurs limites d’exposition en vigueur.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 3 OPB",
+        "content": "L’autorité d’exécution veille à ce que les cadastres soient contrôlés et rectifiés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 4 OPB",
+        "content": "Elle remet les cadastres à l’OFEV à sa demande. L’office peut édicter des recommandations afin que les données soient saisies et présentées de manière comparable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 5 OPB",
+        "content": "L’Office fédéral de l’aviation civile est responsable de la détermination des immissions de bruit provoquées par l’aéroport de Bâle-Mulhouse sur le territoire suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Cadastres de bruit",
+        "citation": "Art. 37 al. 6 OPB",
+        "content": "Toute personne peut consulter les cadastres de bruit dans la mesure où ni le secret d’affaires et de fabrication ni d’autres intérêts prépondérants ne s’y opposent.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Fixation des immissions de bruit et contrôle",
+        "citation": "Art. 37a al. 1 OPB",
+        "content": "Dans sa décision concernant la construction, la modification ou l’assainissement d’une installation, l’autorité d’exécution consigne les immissions de bruit admissibles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Fixation des immissions de bruit et contrôle",
+        "citation": "Art. 37a al. 2 OPB",
+        "content": "S’il est établi ou à craindre que les immissions de bruit dues à l’installation diffèrent notablement et durablement des immissions consignées dans la décision, l’autorité d’exécution prend les mesures nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Fixation des immissions de bruit et contrôle",
+        "citation": "Art. 37a al. 3 OPB",
+        "content": "L’OFEV peut édicter des recommandations afin que les immissions de bruit consignées dans ces décisions soient saisies et présentées de manière comparable.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_37_a"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Méthodes de détermination",
+        "citation": "Art. 38 al. 1 OPB",
+        "content": "Les immissions de bruit sont déterminées sous forme de niveau d’évaluation Lr ou de niveau maximum Lmax sur la base de calculs ou de mesures.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_38"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Méthodes de détermination",
+        "citation": "Art. 38 al. 2 OPB",
+        "content": "Les immissions de bruit des avions sont en principe déterminées par calcul. Les calculs doivent être effectués conformément à l’état admis de la technique. L’OFEV recommande des méthodes de calcul appropriées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_38"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Méthodes de détermination",
+        "citation": "Art. 38 al. 3 OPB",
+        "content": "Les exigences en matière de modèles de calcul et d’appareils de mesure seront conformes à l’annexe 2.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_38"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Lieu de la détermination",
+        "citation": "Art. 39 al. 1 OPB",
+        "content": "Pour les bâtiments, les immissions de bruit seront déterminées au milieu de la fenêtre ouverte des locaux à usage sensible au bruit. Les immissions de bruit des avions peuvent aussi être déterminées à proximité des bâtiments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_39"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Lieu de la détermination",
+        "citation": "Art. 39 al. 2 OPB",
+        "content": "Sur le secteur non construit de zones qui requièrent une protection accrue contre le bruit, les immissions de bruit seront déterminées à 1,5 m du sol.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_39"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 1, Détermination, Lieu de la détermination",
+        "citation": "Art. 39 al. 3 OPB",
+        "content": "Dans les zones à bâtir non encore construites, les immissions de bruit seront déterminées là où, conformément au droit sur l’aménagement du territoire et des constructions, pourront être érigés des bâtiments comprenant des locaux à usage sensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_39"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Valeurs limites d’exposition",
+        "citation": "Art. 40 al. 1 OPB",
+        "content": "L’autorité d’exécution évalue les immissions de bruit extérieur produites par les installations fixes sur la base des valeurs limites d’exposition selon les annexes 3 et suivantes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_40"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Valeurs limites d’exposition",
+        "citation": "Art. 40 al. 2 OPB",
+        "content": "Les valeurs limites d’exposition sont aussi dépassées lorsque la somme des immissions de bruit de même genre, provenant de plusieurs installations, leur est supérieure. Ce principe n’est pas valable pour les valeurs de planification de nouvelles installations fixes (art. 7, al. 1).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_40"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Valeurs limites d’exposition",
+        "citation": "Art. 40 al. 3 OPB",
+        "content": "Lorsque les valeurs limites d’exposition font défaut, l’autorité d’exécution évalue les immissions de bruit au sens de l’art. 15 de la loi. Elle tient compte également des art. 19 et 23 de la loi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_40"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Validité des valeurs limites d’exposition",
+        "citation": "Art. 41 al. 1 OPB",
+        "content": "Les valeurs limites d’exposition sont valables pour les bâtiments comprenant des locaux à usage sensible au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_41"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Validité des valeurs limites d’exposition",
+        "citation": "Art. 41 al. 2 OPB",
+        "content": "Elles sont également valables:\na. dans les zones à bâtir non encore construites où, conformément au droit sur l’aménagement du territoire et des constructions, pourront être érigés des bâtiments comprenant des locaux à usage sensible au bruit;\nb. sur le secteur non construit de zones qui requièrent une protection accrue contre le bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_41"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Validité des valeurs limites d’exposition",
+        "citation": "Art. 41 al. 3 OPB",
+        "content": "Pour les secteurs et bâtiments dans lesquels des personnes ne séjournent généralement que de jour ou de nuit, aucune valeur limite d’exposition ne s’appliquera pour la nuit ou le jour respectivement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_41"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Valeurs limites d’exposition particulières aux locaux d’exploitations",
+        "citation": "Art. 42 al. 1 OPB",
+        "content": "Pour les locaux d’exploitations (art. 2, al. 6, let. b) qui se situent en des secteurs où l’on a attribué les degrés de sensibilité I, II ou III, les valeurs de planification et les valeurs limites d’immission sont de 5 dB (A) plus élevées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_42"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Valeurs limites d’exposition particulières aux locaux d’exploitations",
+        "citation": "Art. 42 al. 2 OPB",
+        "content": "L’al. 1 n’est pas applicable aux locaux dans les écoles, les établissements et les homes. Pour les locaux de restaurants et hôtels, il ne s’applique que dans la mesure où ces locaux sont suffisamment aérés, même lorsque les fenêtres sont fermées.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_42"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Degrés de sensibilité",
+        "citation": "Art. 43 al. 1 OPB",
+        "content": "Dans les zones d’affectation selon les art. 14 et suivants de la loi fédérale du 22 juin 1979 sur l’aménagement du territoire, les degrés de sensibilité suivants sont à appliquer:\na. le degré de sensibilité I dans les zones qui requièrent une protection accrue contre le bruit, notamment dans les zones de détente;\nb. le degré de sensibilité II dans les zones où aucune entreprise gênante n’est autorisée, notamment dans les zones d’habitation ainsi que dans celles réservées à des constructions et installations publiques;\nc. le degré de sensibilité III dans les zones où sont admises des entreprises moyennement gênantes, notamment dans les zones d’habitation et artisanales (zones mixtes) ainsi que dans les zones agricoles;\nd. le degré de sensibilité IV dans les zones où sont admises des entreprises fortement gênantes, notamment dans les zones industrielles.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_43"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Degrés de sensibilité",
+        "citation": "Art. 43 al. 2 OPB",
+        "content": "On peut déclasser d’un degré les parties de zones d’affectation du degré de sensibilité I ou II, lorsqu’elles sont déjà exposées au bruit.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_43"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Procédure",
+        "citation": "Art. 44 al. 1 OPB",
+        "content": "Les cantons veillent à ce que les degrés de sensibilité soient attribués aux zones d’affectation dans les règlements de construction ou les plans d’affectation communaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_44"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Procédure",
+        "citation": "Art. 44 al. 2 OPB",
+        "content": "Les degrés de sensibilité seront attribués lors de la délimitation ou de la modification des zones d’affectation ou lors de la modification des règlements de construction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_44"
+    },
+    {
+        "book": "LSV",
+        "title": "OPB, Chapitre 7 Détermination, évaluation et contrôle des immissions de bruit extérieur dues aux installations fixes, Section 2, Évaluation, Procédure",
+        "citation": "Art. 44 al. 3 OPB",
+        "content": "Avant l’attribution, les degrés de sensibilité seront déterminés cas par cas par les cantons au sens de l’art. 43.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1987/338_338_338/fr#art_44"
+    }
+]

@@ -1,0 +1,499 @@
+[
+    {
+        "book": "VMWG",
+        "title": "OLAL, Campo d’applicazione",
+        "citation": "Art. 1 OLAL",
+        "content": "Sono cose locate concesse in uso al conduttore dal locatore con i locali d’abitazione o commerciali, segnatamente i mobili, le autorimesse, i parcheggi sotterranei e all’aperto, come pure i giardini.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_1"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Eccezioni",
+        "citation": "Art. 2 cpv. 1 OLAL",
+        "content": "Il capo secondo del titolo ottavo del CO (art. 269–270e) non si applica agli appartamenti e alle case unifamiliari di lusso che comprendono sei o più locali (cucina esclusa).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_2"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Eccezioni",
+        "citation": "Art. 2 cpv. 2 OLAL",
+        "content": "Agli appartamenti costruiti con l’aiuto dell’ente pubblico e le cui pigioni sono sottoposte al controllo dell’autorità si applicano soltanto gli articoli 253–268b, 269, 269d capoverso 3, 270e e 271–273c CO, nonché gli articoli 3–10 e 20–23 della presente ordinanza.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_2"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Negozi abbinati",
+        "citation": "Art. 3 OLAL",
+        "content": "Sono negozi abbinati ai sensi dell’articolo 254 CO segnatamente l’obbligo del conduttore di acquistare la cosa locata, mobili o azioni, oppure di concludere un contratto d’assicurazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_3"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese accessorie in genere",
+        "citation": "Art. 4 cpv. 1 OLAL",
+        "content": "Se il locatore riscuote spese accessorie sulla base di un conteggio, deve allestirlo almeno una volta all’anno e presentarlo al conduttore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese accessorie in genere",
+        "citation": "Art. 4 cpv. 2 OLAL",
+        "content": "In caso di computo forfettario, deve fondarsi sui valori medi calcolati su un periodo di tre anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese accessorie in genere",
+        "citation": "Art. 4 cpv. 3 OLAL",
+        "content": "Le spese amministrative per la stesura del conteggio possono essere computate secondo il dispendio effettivo o nell’ambito delle aliquote usuali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_4"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese computabili di riscaldamento e d’acqua calda",
+        "citation": "Art. 5 cpv. 1 OLAL",
+        "content": "Sono computabili quali spese di riscaldamento e d’acqua calda i costi effettivi direttamente connessi con il funzionamento dell’impianto di riscaldamento o dell’impianto centrale di produzione dell’acqua calda.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese computabili di riscaldamento e d’acqua calda",
+        "citation": "Art. 5 cpv. 2 OLAL",
+        "content": "Trattasi segnatamente dei costi per:\na. i combustibili e l’energia consumati;\nb. l’elettricità per il funzionamento di bruciatori e pompe;\nc. i costi per l’utilizzazione di energie di sostituzione;\nd. la pulizia dell’impianto di riscaldamento e del camino, la raschiatura, la bruciatura e la lubrificazione della caldaia, nonché la rimozione dei detriti e delle scorie;\ne. la revisione periodica dell’impianto di riscaldamento compresa la cisterna dell’olio, la decalcificazione dell’impianto di produzione dell’acqua calda, del bollitore e delle condutture;\nf. il rilevamento e il servizio di conteggio delle spese computabili, come pure la manutenzione delle apparecchiature necessarie;\ng. la manutenzione;\nh. i premi di assicurazione, in quanto si riferiscano esclusivamente all’impianto di riscaldamento;\ni. il lavoro amministrativo causato dall’esercizio dell’impianto di riscaldamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese computabili di riscaldamento e d’acqua calda",
+        "citation": "Art. 5 cpv. 3 OLAL",
+        "content": "Le spese di manutenzione e di amministrazione possono essere computate secondo il dispendio effettivo o nella misura delle aliquote usuali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_5"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Spese non computabili di riscaldamento e d’acqua calda",
+        "citation": "Art. 6 OLAL",
+        "content": "Non sono computabili quali spese di riscaldamento e d’acqua calda i costi per:\na. la riparazione e il rinnovo degli impianti;\nb. il pagamento degli interessi e l’ammortamento degli impianti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Fornitura di energia da una centrale esterna",
+        "citation": "Art. 6a OLAL",
+        "content": "Se il locatore si procura energia per il riscaldamento o acqua calda da una centrale che non fa parte dell’immobile e non rientra nei costi d’impianto, può mettere in conto i costi effettivi.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Fornitura di energia nell’ambito di un raggruppamento ai fini del consumo proprio",
+        "citation": "Art. 6b OLAL",
+        "content": "Nell’ambito di un raggruppamento secondo l’articolo 17 LEne il locatore può addebitare come spese accessorie i costi di cui all’articolo 16 OEn.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_b"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 1 OLAL",
+        "content": "Un contratto di rendimento energetico impegna un prestatore di servizi, dietro compenso, a ridurre i consumi energetici di un immobile mediante opportune misure di risparmio energetico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 2 OLAL",
+        "content": "Per misure di risparmio energetico ai sensi del capoverso 1 si intendono in particolare:\na. l’ottimizzazione dell’esercizio degli impianti di riscaldamento, ventilazione e climatizzazione, nonché dell’automazione degli edifici;\nb. l’istruzione e la consulenza fornite agli inquilini;\nc. la sostituzione di impianti, installazioni e lampade;\nd. il miglioramento dell’involucro degli edifici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 3 OLAL",
+        "content": "Il locatore può addebitare come spese accessorie i costi relativi a un contratto di rendimento energetico al massimo per dieci anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 4 OLAL",
+        "content": "L’importo addebitato annualmente non può superare il valore del risparmio dei costi energetici realizzato dal conduttore in virtù del contratto di rendimento energetico durante il periodo di conteggio pertinente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 5 OLAL",
+        "content": "Nel calcolo del risparmio va tenuto conto dei fattori atmosferici.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Contratto di rendimento energetico",
+        "citation": "Art. 6c cpv. 6 OLAL",
+        "content": "Dall’importo di cui al capoverso 4 sono dedotti i contributi d’incentivazione per migliorie energetiche in misura della quota annuale risultante dalla ripartizione uniforme sulla durata del contratto di rendimento energetico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_6_c"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Locali d’abitazione o commerciali non locati",
+        "citation": "Art. 7 cpv. 1 OLAL",
+        "content": "I costi di riscaldamento concernenti i locali d’abitazione o commerciali non locati sono a carico del locatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_7"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Locali d’abitazione o commerciali non locati",
+        "citation": "Art. 7 cpv. 2 OLAL",
+        "content": "Qualora non vi siano apparecchiature per il rilevamento del consumo termico individuale e sia stato provato che locali d’abitazione o commerciali non locati sono stati riscaldati soltanto nella misura necessaria per prevenire danni del gelo, il locatore deve assumersi soltanto parte dei costi di riscaldamento entranti in considerazione per questi locali secondo la chiave di ripartizione ordinaria. Questa parte ammonta di regola a:\na. un terzo, per una casa di due o tre famiglie;\nb. la metà, per una casa di quattro a otto famiglie;\nc. due terzi, per immobili più grandi o stabili adibiti ad uffici o a locali commerciali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_7"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Conteggio",
+        "citation": "Art. 8 cpv. 1 OLAL",
+        "content": "Se il conduttore non riceve con la fattura annua per il riscaldamento un conteggio dettagliato delle spese di riscaldamento e d’acqua calda nonché della loro ripartizione tra i conduttori, si deve indicare espressamente sulla fattura che il conduttore può esigere il conteggio dettagliato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_8"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Conteggio",
+        "citation": "Art. 8 cpv. 2 OLAL",
+        "content": "Il conduttore, o il suo rappresentante autorizzato, ha la facoltà di prendere visione dei documenti giustificativi originali e di chiedere informazioni sullo stato della scorta di combustibili all’inizio e alla fine del periodo di riscaldamento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_8"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Disdetta",
+        "citation": "Art. 9 cpv. 1 OLAL",
+        "content": "Il modulo per la notificazione della disdetta previsto dall’articolo 266l capoverso 2 CO deve contenere:\na. la designazione dell’oggetto locato al quale la disdetta si riferisce;\nb. la data a partire dalla quale la disdetta sarà effettiva;\nc. l’avvertenza che, su domanda del conduttore, il locatore è tenuto a motivare la disdetta;\nd. l’indicazione delle condizioni legali per contestare la disdetta e per domandare una protrazione della locazione (art. 271–273 CO);\ne. l’elenco delle autorità di conciliazione e la loro competenza territoriale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_9"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Disdetta",
+        "citation": "Art. 9 cpv. 2 OLAL",
+        "content": "I Cantoni provvedono affinché nei Comuni vi siano a disposizione moduli in numero sufficiente. A tal fine, possono depositare presso le cancellerie comunali i propri moduli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_9"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prezzo d’acquisto manifestamente eccessivo",
+        "citation": "Art. 10 OLAL",
+        "content": "È manifestamente eccessivo a tenore dell’articolo 269 CO il prezzo d’acquisto chiaramente superiore al valore di reddito di un fondo, calcolato sulla base delle pigioni in uso nella località o nel quartiere per oggetti dello stesso tipo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_10"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni in uso nella località o nel quartiere",
+        "citation": "Art. 11 cpv. 1 OLAL",
+        "content": "Determinanti per il calcolo delle pigioni in uso nella località o nel quartiere ai sensi dell’articolo 269 lettera a CO sono le pigioni di locali d’abitazione o commerciali paragonabili alla cosa locata per ubicazione, dimensione, attrezzatura, stato ed epoca di costruzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni in uso nella località o nel quartiere",
+        "citation": "Art. 11 cpv. 2 OLAL",
+        "content": "Per i locali commerciali, il confronto previsto dall’articolo 269a lettera a CO può aver luogo sulla base dei prezzi per metro quadrato in uso nel quartiere per oggetti paragonabili.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni in uso nella località o nel quartiere",
+        "citation": "Art. 11 cpv. 3 OLAL",
+        "content": "Non sono prese in considerazione le pigioni stabilite in forza della posizione predominante di mercato di un locatore o di un gruppo di locatori.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni in uso nella località o nel quartiere",
+        "citation": "Art. 11 cpv. 4 OLAL",
+        "content": "Devono essere prese in considerazione le statistiche ufficiali.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_11"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Rincaro dei costi",
+        "citation": "Art. 12 cpv. 1 OLAL",
+        "content": "Per rincaro dei costi ai sensi dell’articolo 269a lettera b CO si intendono gli aumenti del tasso ipotecario, delle tasse, delle imposte sugli immobili, dei canoni del diritto di superficie, dei premi d’assicurazione, come pure gli aumenti delle spese di manutenzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Rincaro dei costi",
+        "citation": "Art. 12 cpv. 2 OLAL",
+        "content": "Le spese derivanti dall’alienazione dell’immobile fanno parte dei costi d’acquisto e non del rincaro.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tasso d’interesse di riferimento",
+        "citation": "Art. 12a cpv. 1 OLAL",
+        "content": "Per gli adeguamenti delle pigioni in seguito a variazioni del tasso ipotecario è determinante il tasso d’interesse di riferimento. Il tasso d’interesse di riferimento si basa sul tasso d’interesse medio ponderato dei crediti ipotecari in Svizzera stabilito trimestralmente ed è espresso in un quarto di punto percentuale secondo le regole dell’arrotondamento commerciale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tasso d’interesse di riferimento",
+        "citation": "Art. 12a cpv. 2 OLAL",
+        "content": "Il Dipartimento federale dell’economia, della formazione e della ricerca (DEFR) comunica trimestralmente il tasso d’interesse di riferimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tasso d’interesse di riferimento",
+        "citation": "Art. 12a cpv. 3 OLAL",
+        "content": "Il DEFR può assegnare a terzi l’esecuzione tecnica del rilevamento dei dati e il calcolo del tasso d’interesse medio per crediti ipotecari in Svizzera.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tasso d’interesse di riferimento",
+        "citation": "Art. 12a cpv. 4 OLAL",
+        "content": "Il DEFR emana disposizioni tecniche sulla definizione, sul rilevamento e sulla pubblicazione del tasso d’interesse medio per crediti ipotecari in Svizzera in conformità al capoverso 1. Le banche comunicano al DEFR i dati necessari.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_12_a"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tassi ipotecari",
+        "citation": "Art. 13 cpv. 1 OLAL",
+        "content": "Un aumento del tasso ipotecario di 1/4 per cento autorizza, di regola, a un aumento massimo della pigione:\na. del 2 per cento quando i tassi ipotecari superano il 6 per cento;\nb. del 2,5 per cento quando i tassi ipotecari si situano tra il 5 e il 6 per cento;\nc. del 3 per cento quando i tassi ipotecari sono inferiori al 5 per cento.Se i tassi ipotecari diminuiscono, le pigioni devono essere ridotte in proporzione, a meno che la differenza sia compensata con il rincaro intervenuto nel frattempo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tassi ipotecari",
+        "citation": "Art. 13 cpv. 2 OLAL",
+        "content": "Qualora siano stati pattuiti piani di pagamento ai sensi dell’articolo 269a lettera d o contratti-quadro ai sensi dell’articolo 269a lettera f CO, vale la regolamentazione in essi prevista in caso di aumento dei tassi ipotecari e non la disciplina del capoverso precedente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tassi ipotecari",
+        "citation": "Art. 13 cpv. 3 OLAL",
+        "content": "Se la pigione è calcolata durevolmente sulla base dei soli costi, senza riguardo alle pigioni in uso nel quartiere e alla compensazione del rincaro, essa può essere aumentata, in caso di incremento dei tassi ipotecari, in misura proporzionale al maggior onere gravante sul capitale investito.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Tassi ipotecari",
+        "citation": "Art. 13 cpv. 4 OLAL",
+        "content": "Nel caso la pigione debba essere modificata in seguito a un cambiamento del tasso ipotecario, si deve inoltre considerare se e in quale misura precedenti modificazioni del tasso ipotecario abbiano comportato un adeguamento della pigione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_13"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 1 OLAL",
+        "content": "Sono prestazioni suppletive del locatore ai sensi dell’articolo 269a lett. b CO gli investimenti per migliorie di valorizzazione, l’ingrandimento della cosa locata, come pure le prestazioni accessorie suppletive. Di regola, le spese per revisioni importanti contano, in ragione del 50–70 per cento, come investimenti di valorizzazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 2 OLAL",
+        "content": "Sono inoltre considerate prestazioni suppletive le seguenti migliorie energetiche:\na. le misure volte a ridurre la dispersione energetica dell’involucro degli edifici;\nb. le misure volte a razionalizzare l’uso dell’energia;\nc. le misure volte a ridurre le emissioni degli impianti tecnici degli edifici;\nd. le misure volte a utilizzare le energie rinnovabili;\ne. la sostituzione di elettrodomestici ad alto consumo energetico tramite apparecchi a risparmio energetico.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 3 OLAL",
+        "content": "Può essere considerata prestazione suppletiva soltanto la parte dei costi eccedente i costi per il ripristino o il mantenimento dello stato preesistente.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 3bis OLAL",
+        "content": "I contributi accordati per migliorie di valorizzazione vanno detratti dall’importo della prestazione suppletiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 4 OLAL",
+        "content": "Gli aumenti di pigione per investimenti di valorizzazione e migliorie energetiche non sono abusivi quando non superino l’adeguata aliquota che permetta la rimunerazione del capitale investito, l’ammortamento e la manutenzione dell’investimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Prestazioni suppletive del locatore",
+        "citation": "Art. 14 cpv. 5 OLAL",
+        "content": "Gli aumenti di pigione per investimenti di valorizzazione e migliorie energetiche possono essere notificati soltanto a lavori ultimati, fermo restando che siano disponibili i documenti giustificativi. In caso di lavori più importanti, il locatore può procedere ad aumenti scalari di pigione in proporzione ai pagamenti già effettuati.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_14"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Reddito lordo",
+        "citation": "Art. 15 cpv. 1 OLAL",
+        "content": "Il reddito lordo ai sensi dell’articolo 269a lettera c CO è calcolato sulla base dei costi d’investimento.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_15"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Reddito lordo",
+        "citation": "Art. 15 cpv. 2 OLAL",
+        "content": "Non si tiene conto dei costi del terreno e delle spese di costruzione e di acquisto manifestamente eccessive.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_15"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Compensazione del rincaro",
+        "citation": "Art. 16 OLAL",
+        "content": "L’aumento di pigione tendente a garantire ai sensi dell’articolo 269a lett. e CO il potere d’acquisto del capitale sopportante i rischi, non può superare il 40 per cento dell’incremento dell’indice nazionale dei prezzi al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_16"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni indicizzate",
+        "citation": "Art. 17 cpv. 1 OLAL",
+        "content": "Se le parti hanno pattuito che la pigione dovuta per la locazione di un’abitazione sia adeguata a un indice, l’aumento di pigione non può superare l’incremento dell’indice nazionale dei prezzi al consumo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni indicizzate",
+        "citation": "Art. 17 cpv. 2 OLAL",
+        "content": "In caso di diminuzione dell’indice nazionale dei prezzi al consumo, la pigione deve essere diminuita in proporzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni indicizzate",
+        "citation": "Art. 17 cpv. 3 OLAL",
+        "content": "Previo il rispetto di un termine di almeno 30 giorni, gli aumenti di pigione basati sull’indice nazionale dei prezzi al consumo possono essere notificati per la fine di un mese.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Pigioni indicizzate",
+        "citation": "Art. 17 cpv. 4 OLAL",
+        "content": "Un contratto di locazione è concluso per cinque anni ai sensi dell’articolo 269b CO se non può essere disdetto dal locatore per una durata di almeno cinque anni.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_17"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Adattamento parziale della pigione",
+        "citation": "Art. 18 OLAL",
+        "content": "Se il locatore non esercita interamente il diritto di adattare la pigione, deve fissare l’ammontare in franchi o la percentuale di aumento al quale rinuncia.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_18"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Modulo per la notificazione di aumenti di pigione e di altre modificazioni unilaterali",
+        "citation": "Art. 19 cpv. 1 OLAL",
+        "content": "Il modulo previsto dall’articolo 269d CO per la notificazione al conduttore di aumenti di pigione e di altre modificazioni unilaterali di contratto deve contenere:\na. Per gli aumenti di pigione:\n1. l’ammontare attuale della pigione e l’onere attuale del conduttore per le spese accessorie;\n2. l’ammontare della nuova pigione e il nuovo onere del conduttore per le spese accessorie;\n3. la data dell’entrata in vigore dell’aumento;\n4. i motivi precisi dell’aumento. Se invoca più motivi di aumento, il locatore è tenuto a dimostrare separatamente gli importi relativi a ciascuno di essi;\n5. in caso di prestazioni suppletive, l’indicazione secondo cui il locatore riceve contributi per migliorie di valorizzazione.\nb. Per le altre modificazioni unilaterali di contratto:\n1. la designazione di tale pretesa;\n2. il momento in cui la modificazione entra in vigore;\n3. i motivi precisi della pretesa.\nc. In ambedue i casi:\n1. l’indicazione delle condizioni legali per contestare la pretesa;\n2. l’elenco delle autorità di conciliazione e la loro competenza territoriale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Modulo per la notificazione di aumenti di pigione e di altre modificazioni unilaterali",
+        "citation": "Art. 19 cpv. 1bis OLAL",
+        "content": "Se i motivi sono esposti in uno scritto accompagatorio, il locatore lo indica espressamente sul modulo.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Modulo per la notificazione di aumenti di pigione e di altre modificazioni unilaterali",
+        "citation": "Art. 19 cpv. 2 OLAL",
+        "content": "Inoltre, i capoversi 1 e 1bis si applicano per analogia se il locatore adegua la pigione a un indice pattuito o l’aumenta in base a una scala pattuita. Per le pigioni indicizzate, la notificazione può essere fatta solo dopo la pubblicazione del nuovo valore dell’indice. Per le pigioni scalari, la notificazione può essere fatta al più presto quattro mesi prima dell’inizio dell’aumento di pigione. In questo caso i Cantoni possono dichiarare modulo legalmente sufficiente ai sensi del presente articolo la copia delle pattuizioni di pigione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Modulo per la notificazione di aumenti di pigione e di altre modificazioni unilaterali",
+        "citation": "Art. 19 cpv. 3 OLAL",
+        "content": "I capoversi 1 e 1bis si applica per analogia qualora i Cantoni dichiarino obbligatorio ai sensi dell’articolo 270 capoverso 2 CO l’uso del modulo ufficiale per la conclusione di un nuovo contratto di locazione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Modulo per la notificazione di aumenti di pigione e di altre modificazioni unilaterali",
+        "citation": "Art. 19 cpv. 4 OLAL",
+        "content": "I Cantoni provvedono affinché nei Comuni vi siano a disposizione moduli in numero sufficiente. A tal fine, possono depositare presso le cancellerie comunali i propri moduli.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_19"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Obbligo di motivazione del locatore",
+        "citation": "Art. 20 cpv. 1 OLAL",
+        "content": "In caso di aumenti di pigione dovuti a incremento delle spese oppure a migliorie di valorizzazione da parte del locatore, il conduttore può esigere che la differenza richiesta venga giustificata numericamente. Il termine di contestazione di 30 giorni rimane intatto.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_20"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Obbligo di motivazione del locatore",
+        "citation": "Art. 20 cpv. 2 OLAL",
+        "content": "Nella procedura di conciliazione, il conduttore può esigere che ogni motivo addotto per l’aumento venga documentato.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_20"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Compiti dell’autorità di conciliazione",
+        "citation": "Art. 21 cpv. 1 OLAL",
+        "content": "Nella procedura di conciliazione, l’autorità di conciliazione deve tendere a un accordo delle parti che possa estendersi all’intero rapporto di locazione (ammontare della pigione, durata del contratto, termine di disdetta, ecc.).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Compiti dell’autorità di conciliazione",
+        "citation": "Art. 21 cpv. 2 OLAL",
+        "content": "L’autorità di conciliazione è tenuta a prestare consulenza a conduttori e locatori indipendentemente da una procedura di consultazione, segnatamente prima della conclusione di un contratto di locazione. Essa deve in particolare aiutare conduttori e locatori a determinare da sé se una pigione è abusiva.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Compiti dell’autorità di conciliazione",
+        "citation": "Art. 21 cpv. 3 OLAL",
+        "content": "Essa può affidare questi compiti a singoli membri o alla segreteria.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_21"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Composizione dell’autorità di conciliazione",
+        "citation": "Art. 22 OLAL",
+        "content": "I Cantoni sono tenuti a pubblicare periodicamente la composizione delle autorità di conciliazione e la loro competenza territoriale.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_22"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Relazione sulle autorità di conciliazione e comunicazione delle sentenze",
+        "citation": "Art. 23 cpv. 1 OLAL",
+        "content": "I Cantoni sono tenuti a presentare al DEFR una relazione semestrale sull’attività delle autorità di conciliazione. La relazione deve indicare il numero delle cause sottoposte all’autorità, i motivi di contestazione e l’esito delle medesime.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Relazione sulle autorità di conciliazione e comunicazione delle sentenze",
+        "citation": "Art. 23 cpv. 2 OLAL",
+        "content": "I Cantoni sono tenuti a incaricare le competenti autorità giudiziarie cantonali di notificare al DEFR copia delle sentenze concernenti la liceità di pigioni e altre pretese del locatore.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Relazione sulle autorità di conciliazione e comunicazione delle sentenze",
+        "citation": "Art. 23 cpv. 3 OLAL",
+        "content": "Il DEFR provvede a valutare le sentenze e a pubblicare nel modo appropriato le più importanti.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_23"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Esecuzione",
+        "citation": "Art. 24 OLAL",
+        "content": "Il DEFR è incaricato dell’esecuzione.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_24"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Abrogazione del diritto previgente",
+        "citation": "Art. 25 OLAL",
+        "content": "L’Ordinanza del 10 luglio 1972 concernente provvedimenti contro gli abusi in materia di locazione è abrogata.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_25"
+    },
+    {
+        "book": "VMWG",
+        "title": "OLAL, Entrata in vigore",
+        "citation": "Art. 27 OLAL",
+        "content": "La presente ordinanza entra in vigore il 1° luglio 1990.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/1990/835_835_835/it#art_27"
+    }
+]

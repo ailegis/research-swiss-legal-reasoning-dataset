@@ -1,0 +1,688 @@
+[
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 1 LPO",
+        "content": "La présente loi règle:\na. la fourniture à titre professionnel de services postaux;\nb. la fourniture de services de paiement relevant du service universel par La Poste Suisse (Poste).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_1"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 2 LPO",
+        "content": "La présente loi a pour but de garantir à la population et aux milieux économiques des services postaux variés, avantageux et de qualité ainsi que des services de paiement relevant du service universel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_1"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Objet et but",
+        "citation": "Art. 1 al. 3 LPO",
+        "content": "Elle doit en particulier:\na. assurer un service universel suffisant, à des prix raisonnables, à tous les groupes de population et dans toutes les régions du pays, par la fourniture des services suivants:\n1. services postaux,\n2. services de paiement;\nb. créer les conditions propices à une concurrence efficace en matière de services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_1"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Définitions",
+        "citation": "Art. 2 LPO",
+        "content": "Au sens de la présente loi, on entend par:\na. services postaux: la réception, la collecte, le tri, le transport et la distribution des envois postaux;\nb. envoi postal: un envoi portant une adresse et revêtant la forme définitive sous laquelle il doit être acheminé par le prestataire de services postaux, notamment les lettres, les colis, les journaux et les périodiques;\nc. lettre: un envoi postal de 2 cm d’épaisseur au plus et d’un poids maximal de 2 kg;\nd. colis: un envoi postal de plus de 2 cm d’épaisseur et d’un poids maximal de 30 kg;\ne. journaux et périodiques: toute publication éditée à intervalles réguliers sur papier et distribuée à un grand nombre de lecteurs;\nf. services de paiement: les versements, les paiements et les virements.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_2"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Rapport d’évaluation",
+        "citation": "Art. 3 al. 1 LPO",
+        "content": "Le Conseil fédéral évalue périodiquement les effets de la présente loi. Il examine notamment l’opportunité, l’efficacité et le caractère économique des prestations suivantes:\na. les services postaux et les services de paiement relevant du service universel;\nb. les activités de la Commission de la poste (PostCom).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_3"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 1, Dispositions générales, Rapport d’évaluation",
+        "citation": "Art. 3 al. 2 LPO",
+        "content": "Le Conseil fédéral présente un rapport à l’Assemblée fédérale tous les quatre ans. Si nécessaire, il y propose des modifications.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_3"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Obligation d’annoncer",
+        "citation": "Art. 4 al. 1 LPO",
+        "content": "Quiconque propose en son nom propre et à titre professionnel des services postaux à des clients doit l’annoncer à la PostCom. Celle-ci enregistre les prestataires de services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_4"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Obligation d’annoncer",
+        "citation": "Art. 4 al. 2 LPO",
+        "content": "Le Conseil fédéral peut libérer des droits et devoirs liés à l’obligation d’annoncer en particulier les entreprises qui réalisent un chiffre d’affaires peu important par la fourniture de services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_4"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Obligation d’annoncer",
+        "citation": "Art. 4 al. 3 LPO",
+        "content": "Quiconque est soumis à l’obligation d’annoncer doit remplir les exigences suivantes:\na. respecter le devoir d’information prévu à l’art. 9 et l’obligation de renseigner prévue à l’art. 23, al. 2;\nb. garantir le respect des conditions de travail usuelles dans la branche;\nc. négocier une convention collective de travail avec les associations du personnel;\nd. avoir un siège, un domicile ou un établissement en Suisse.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_4"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux prestations partielles",
+        "citation": "Art. 5 LPO",
+        "content": "Les prestataires de services postaux règlent par des accords l’accès à leurs prestations partielles, cet accès étant garanti en toute transparence, de manière non discriminatoire et dans des délais raisonnables.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_5"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux cases postales",
+        "citation": "Art. 6 al. 1 LPO",
+        "content": "Les fournisseurs de cases postales sont tenus de proposer aux autres prestataires de services postaux, contre rémunération, un service de desserte de leurs cases postales ou de leur en autoriser l’accès d’une autre manière.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_6"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux cases postales",
+        "citation": "Art. 6 al. 2 LPO",
+        "content": "Les parties impliquées passent un accord sur les conditions d’accès. Elles remettent à la PostCom une copie de leur accord.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_6"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux cases postales",
+        "citation": "Art. 6 al. 3 LPO",
+        "content": "Si les parties ne parviennent pas à s’entendre sur les conditions d’accès dans les six mois suivant la réception de la première offre, la PostCom statue sur la conclusion du contrat à la demande de l’une des parties. A cet égard, elle tient compte des exigences liées au financement du service universel et au fonctionnement du marché postal.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_6"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux cases postales",
+        "citation": "Art. 6 al. 4 LPO",
+        "content": "La PostCom rend sa décision dans un délai de sept mois à compter de la réception de la demande. A la requête de l’une des parties, elle peut édicter des mesures à titre conservatoire, à condition que le demandeur fournisse des sûretés garantissant les investissements découlant de sa demande. Le recours contre la décision ou contre les mesures n’a pas d’effet suspensif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_6"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Accès aux cases postales",
+        "citation": "Art. 6 al. 5 LPO",
+        "content": "Le Conseil fédéral précise les conditions d’accès aux cases postales, notamment en ce qui concerne les prix.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_6"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 1 LPO",
+        "content": "Les données d’adresses peuvent être traitées pour assurer une distribution correcte des envois postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 2 LPO",
+        "content": "Les prestataires de services postaux qui traitent des données d’adresses pour la réexpédition, la déviation et la garde d’envois postaux doivent échanger ces données sans délai avec d’autres prestataires de services postaux contre rémunération.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 3 LPO",
+        "content": "Les données d’adresses ne peuvent être transmises à des tiers qu’avec l’accord préalable de la personne concernée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 4 LPO",
+        "content": "L’art. 6, al. 2 à 4, est applicable aux accords et aux décisions sur l’échange de données d’adresses.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 5 LPO",
+        "content": "Le Conseil fédéral précise les conditions de l’échange des données, notamment en ce qui concerne les prix.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Echange des données d’adresses",
+        "citation": "Art. 7 al. 6 LPO",
+        "content": "L’autorisation de transmettre des données d’adresses conformément à la loi du 23 juin 2006 sur l’harmonisation des registres est réservée.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_7"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Litiges",
+        "citation": "Art. 8 LPO",
+        "content": "Les litiges liés aux accords sur l’accès aux cases postales et sur la mise à disposition de données d’adresses sont jugés par les tribunaux civils.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_8"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Devoir d’information",
+        "citation": "Art. 9 al. 1 LPO",
+        "content": "Les prestataires de services postaux ont les obligations suivantes:\na. garantir aux clients la transparence des tarifs;\nb. permettre aux clients de les identifier comme prestataires de services postaux;\nc. informer les clients de manière adéquate de leurs droits et de leurs obligations, en particulier de l’utilisation de leurs données, et de leurs droits en matière de consentement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_9"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Devoir d’information",
+        "citation": "Art. 9 al. 2 LPO",
+        "content": "Les prestataires de services postaux sont tenus de publier des informations sur la qualité de leurs services ainsi que sur l’impact environnemental et la fourniture socialement responsable de leurs prestations. Le Conseil fédéral règle le contenu et la forme de la publication.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_9"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Boîtes aux lettres et autres installations",
+        "citation": "Art. 10 LPO",
+        "content": "Le Conseil fédéral fixe les conditions concernant les boîtes aux lettres et autres installations aménagées aux lieux d’habitation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_10"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Responsabilité",
+        "citation": "Art. 11 LPO",
+        "content": "Les prestataires de services postaux peuvent, dans leurs conditions générales, se soustraire, en tout ou en partie, à la responsabilité découlant des envois postaux non recommandés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_11"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Fourniture de services postaux dans des situations extraordinaires",
+        "citation": "Art. 12 al. 1 LPO",
+        "content": "Le Conseil fédéral détermine les situations dans lesquelles la fourniture de services postaux peut être restreinte ou interdite et les situations dans lesquelles les prestataires de services postaux soumis à l’obligation d’annoncer peuvent être sollicités pour fournir des prestations. Il règle l’indemnisation des prestataires en tenant équitablement compte de leurs intérêts.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_12"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Fourniture de services postaux dans des situations extraordinaires",
+        "citation": "Art. 12 al. 2 LPO",
+        "content": "Si une situation extraordinaire l’exige, le Conseil fédéral peut réquisitionner le personnel nécessaire.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_12"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 1, Dispositions communes, Fourniture de services postaux dans des situations extraordinaires",
+        "citation": "Art. 12 al. 3 LPO",
+        "content": "L’art. 91 de la loi du 3 février 1995 sur l’armée concernant le pouvoir de disposition du général est réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_12"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Mandat de la Poste",
+        "citation": "Art. 13 al. 1 LPO",
+        "content": "La Poste assure un service universel en fournissant les services postaux définis aux art. 14 à 17.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_13"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Mandat de la Poste",
+        "citation": "Art. 13 al. 2 LPO",
+        "content": "La Poste, conformément aux exigences du Conseil fédéral, précise dans ses conditions générales les prestations qu’elle fournit à certaines conditions ou pas du tout en raison de problèmes de sécurité ou d’hygiène ou pour préserver des intérêts légitimes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_13"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 1 LPO",
+        "content": "La Poste assure le transport des lettres, colis, journaux et périodiques.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 2 LPO",
+        "content": "La Poste réceptionne dans ses points d’accès les envois suivants:\na. lettres à destination de la Suisse et de l’étranger;\nb. colis à destination de la Suisse et de l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 3 LPO",
+        "content": "La Poste distribue les envois postaux visés à l’al. 1 au moins cinq jours par semaine. Les quotidiens en abonnement sont distribués six jours par semaine. La distribution à domicile est assurée dans toutes les zones habitées à l’année. Le Conseil fédéral peut prévoir des exceptions pour les habitations qui sont d’un accès extrêmement difficile.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 4 LPO",
+        "content": "Le Conseil fédéral peut en outre prévoir d’autres formes de distribution. Si la distribution se fait par de nouveaux canaux, la Poste garantit aussi la confidentialité et la sécurité de ses prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 5 LPO",
+        "content": "Elle garantit un réseau de points d’accès couvrant l’ensemble du pays. Ce réseau comprend:\na. un réseau d’offices de poste et d’agences couvrant l’ensemble du pays et assurant les prestations du service universel; celles-ci doivent être accessibles à une distance raisonnable dans toutes les régions et à tous les groupes de population;\nb. des boîtes aux lettres publiques disponibles en quantité suffisante, mais au moins une boîte aux lettres par localité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 6 LPO",
+        "content": "Avant la fermeture ou le transfert d’un point d’accès desservi, la Poste consulte les autorités des communes concernées. Elle s’efforce de parvenir à un accord avec celles-ci. La commune concernée peut saisir la PostCom. Le Conseil fédéral prévoit à cette fin une procédure de conciliation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 7 LPO",
+        "content": "Les services postaux doivent être fournis de manière à pouvoir être utilisés par les personnes handicapées à des conditions qualitativement, quantitativement et économiquement comparables à celles offertes aux personnes non handicapées. Il s’agit de veiller en particulier:\na. à ce que les points d’accès soient adaptés aux besoins des personnes ayant un handicap sensoriel ou moteur;\nb. à ce que les envois expédiés par des personnes malvoyantes ou destinés à ces dernières soient exonérés de frais de port.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Etendue",
+        "citation": "Art. 14 al. 8 LPO",
+        "content": "Le Conseil fédéral définit chaque service postal et précise les conditions d’accès après consultation des cantons et des communes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_14"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Qualité",
+        "citation": "Art. 15 LPO",
+        "content": "Les services postaux relevant du service universel doivent être de qualité dans tout le pays. Le Conseil fédéral fixe les critères de qualité et la procédure de contrôle de la qualité.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_15"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 1 LPO",
+        "content": "Les tarifs doivent être fixés selon des principes économiques. Le respect de cette disposition fait l’objet d’un contrôle conformément à la loi fédérale du 20 décembre 1985 concernant la surveillance des prix.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 2 LPO",
+        "content": "Les tarifs des lettres et des colis relevant du service universel en Suisse doivent être fixés indépendamment de la distance et selon des principes uniformes. La PostCom vérifie périodiquement le respect de la fixation des tarifs indépendamment de la distance.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 3 LPO",
+        "content": "Les tarifs d’acheminement des journaux et périodiques en abonnement sont fixés indépendamment de la distance. Ils correspondent aux tarifs pratiqués dans les grandes agglomérations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 4 LPO",
+        "content": "Des rabais sont accordés pour la distribution des publications suivantes:\na. quotidiens et hebdomadaires de la presse locale et régionale;\nb. journaux et périodiques que les associations à but non lucratif adressent à leurs abonnés, à leurs membres ou à leurs donateurs et qui sont distribués normalement (presse associative et presse des fondations).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 5 LPO",
+        "content": "Aucun rabais n’est accordé pour la distribution de titres faisant partie d’un réseau de têtières dont le tirage global est supérieur à 100 000 exemplaires. Le Conseil fédéral peut fixer d’autres critères tels la zone de diffusion, la fréquence de parution, la part rédactionnelle ou l’interdiction d’une promotion prépondérante de produits ou de prestations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 6 LPO",
+        "content": "Le Conseil fédéral approuve les rabais.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 7 LPO",
+        "content": "La Confédération alloue pour l’octroi de rabais les contributions annuelles suivantes:\na. 30 millions de francs pour la presse régionale et locale;\nb. 20 millions de francs pour la presse associative et la presse des fondations.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Tarifs",
+        "citation": "Art. 16 al. 8 LPO",
+        "content": "Le Conseil fédéral peut fixer des prix plafonds applicables au service universel ou à des parties de ce dernier. Ces plafonds s’appliquent de manière uniforme et sont fixés en fonction de l’évolution du marché. Le Conseil fédéral peut déléguer à la PostCom l’édiction et l’exécution de prescriptions techniques et administratives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_16"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Autres droits et obligations de la Poste",
+        "citation": "Art. 17 al. 1 LPO",
+        "content": "La Poste émet des timbres-poste; elle a le droit exclusif d’y apposer la mention «Helvetia». Le Conseil fédéral peut décider de l’application d’un supplément sur certains timbres-poste.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_17"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Autres droits et obligations de la Poste",
+        "citation": "Art. 17 al. 2 LPO",
+        "content": "La Poste peut disposer gratuitement des terrains qui font partie du domaine public afin d’y installer des boîtes aux lettres publiques ou tout autre équipement nécessaire au service universel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_17"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Autres droits et obligations de la Poste",
+        "citation": "Art. 17 al. 3 LPO",
+        "content": "Dans ses conditions générales, elle peut se soustraire, en tout ou en partie, à sa responsabilité en cas de faute légère.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_17"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 2, Service universel, Autres droits et obligations de la Poste",
+        "citation": "Art. 17 al. 4 LPO",
+        "content": "Elle organise son entreprise en tenant compte des attentes des cantons.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_17"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Service réservé",
+        "citation": "Art. 18 al. 1 LPO",
+        "content": "La Poste a le droit exclusif de transporter les lettres dont le poids n’excède pas 50 grammes (service réservé).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_18"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Service réservé",
+        "citation": "Art. 18 al. 2 LPO",
+        "content": "Sont exclues du service réservé:\na. les lettres transportées à un tarif deux fois et demi plus élevé que celui appliqué par la Poste au transport le plus rapide d’une lettre du premier échelon de poids et de format;\nb. les lettres à destination de l’étranger.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_18"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Service réservé",
+        "citation": "Art. 18 al. 3 LPO",
+        "content": "La Poste fixe les tarifs des lettres du service réservé postées en Suisse indépendamment de la distance, de manière à couvrir les coûts et selon des principes adéquats et uniformes; pour les expéditeurs d’envois en nombre, elle peut convenir d’envois au prix coûtant. Le Conseil fédéral fixe des prix plafond. A cet égard, il tient compte des évolutions du marché.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_18"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Financement, subventions croisées et comptabilité",
+        "citation": "Art. 19 al. 1 LPO",
+        "content": "La Poste ne peut utiliser le produit de la vente du service réservé que pour couvrir les coûts du service universel au sens des art. 13 à 17 et 32 et 33, mais elle ne peut l’utiliser pour octroyer des rabais sur des prestations ne relevant pas des deux mandats de service universel (interdiction des subventions croisées).",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_19"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Financement, subventions croisées et comptabilité",
+        "citation": "Art. 19 al. 2 LPO",
+        "content": "Elle doit présenter sa comptabilité de telle façon que les coûts et le produit de chaque prestation puissent être attestés.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_19"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Financement, subventions croisées et comptabilité",
+        "citation": "Art. 19 al. 3 LPO",
+        "content": "Elle fournit chaque année la preuve qu’elle applique l’al. 1. La PostCom peut, d’office ou sur plainte, exiger cette preuve de la Poste dans un cas d’espèce.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_19"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 3, Financement du service universel, Financement, subventions croisées et comptabilité",
+        "citation": "Art. 19 al. 4 LPO",
+        "content": "Le Conseil fédéral règle les modalités et délègue à la PostCom l’édiction des prescriptions administratives et techniques nécessaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_19"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Organisation",
+        "citation": "Art. 20 al. 1 LPO",
+        "content": "Le Conseil fédéral nomme la PostCom, formée de cinq à sept membres, et en désigne le président et le vice-président. Les membres doivent être des experts indépendants; ils ne peuvent ni appartenir à des organes de personnes morales actives dans le secteur postal, ni être sous contrat de prestations avec ces personnes morales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_20"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Organisation",
+        "citation": "Art. 20 al. 2 LPO",
+        "content": "La PostCom est indépendante et n’est soumise à aucune directive du Conseil fédéral ou d’autorités administratives en ce qui concerne ses décisions.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_20"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Organisation",
+        "citation": "Art. 20 al. 3 LPO",
+        "content": "Elle édicte un règlement d’organisation et de fonctionnement et le soumet à l’approbation du Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_20"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Organisation",
+        "citation": "Art. 20 al. 4 LPO",
+        "content": "Elle édicte des objectifs stratégiques et les soumet pour information au Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_20"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Secrétariat",
+        "citation": "Art. 21 al. 1 LPO",
+        "content": "La PostCom dispose d’un secrétariat. Celui-ci prépare les dossiers de la PostCom, mène les enquêtes et rend les décisions de procédure, d’entente avec la présidence. Il soumet à la PostCom des propositions et exécute ses décisions. Il traite directement avec les intéressés, les tiers et les autorités.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_21"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Secrétariat",
+        "citation": "Art. 21 al. 2 LPO",
+        "content": "Le Conseil fédéral peut déléguer d’autres tâches au secrétariat dans les domaines de la surveillance du marché, de l’accès aux prestations visées aux art. 6 et 7, du service universel et de l’établissement des comptes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_21"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Tâches",
+        "citation": "Art. 22 al. 1 LPO",
+        "content": "La PostCom prend les décisions qui lui incombent en vertu de la loi et de ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_22"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Tâches",
+        "citation": "Art. 22 al. 2 LPO",
+        "content": "Elle exécute les tâches suivantes:\na. elle enregistre les prestataires (art. 4, al. 1);\nb. elle vérifie que les conditions de travail usuelles dans la branche sont respectées et qu’une convention collective de travail est négociée (art. 4, al. 3, let. b et c);\nc. elle rend les décisions en cas de litige sur l’accès aux cases postales et sur le traitement des données d’adresses (art. 6 et 7);\nd. elle vérifie que les obligations en matière d’information et de renseignement sont observées (art. 9 et 23);\ne. elle surveille le respect du mandat légal de service universel (art. 13 à 17);\nf. elle émet des recommandations en cas de projet de fermeture ou de transfert de points d’accès (art. 14, al. 6);\ng. elle assure le contrôle de la qualité des services postaux relevant du service universel (art. 15);\nh. elle vérifie que les tarifs des prestations du service universel (art. 92, al. 2, 2e phrase, de la Constitution et art. 16, al. 2, et 18, al. 3) sont conformes aux dispositions en vigueur;\ni. elle surveille le respect de l’interdiction des subventions croisées (art. 19);\nj. elle institue un organe de conciliation ou délègue cette tâche à un tiers (art. 29);\nk. elle poursuit et juge les contraventions (art. 31);\nl. elle observe l’évolution du marché postal en vue de garantir une desserte variée, avantageuse et de qualité dans toutes les régions du pays;\nm. elle propose, le cas échéant, au Conseil fédéral les mesures aptes à garantir le service universel.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_22"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Tâches",
+        "citation": "Art. 22 al. 3 LPO",
+        "content": "Elle informe le public de son activité et présente un rapport d’activité annuel au Conseil fédéral.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_22"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Obligation de renseigner",
+        "citation": "Art. 23 al. 1 LPO",
+        "content": "Quiconque est soumis à la présente loi est tenu de fournir à la PostCom et à son secrétariat les renseignements nécessaires à l’accomplissement de leurs tâches.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_23"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Obligation de renseigner",
+        "citation": "Art. 23 al. 2 LPO",
+        "content": "Les prestataires de services postaux doivent fournir chaque année à la PostCom et à son secrétariat les documents nécessaires pour vérifier si les exigences légales sont remplies et pour établir les statistiques sur les services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_23"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Obligation de renseigner",
+        "citation": "Art. 23 al. 3 LPO",
+        "content": "La Poste est tenue de fournir à la PostCom et à son secrétariat les renseignements nécessaires au contrôle du respect du mandat légal de service universel et de la qualité, à la surveillance concernant l’interdiction des subventions croisées au sens de l’art. 19.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_23"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste,  Surveillance et mesures",
+        "citation": "Art. 24 al. 1 LPO",
+        "content": "La PostCom veille, dans le cadre de ses tâches, au respect du droit international, de la présente loi et de ses dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_24"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste,  Surveillance et mesures",
+        "citation": "Art. 24 al. 2 LPO",
+        "content": "Si elle constate une infraction, elle peut:\na. sommer le prestataire responsable de l’infraction de remédier au manquement constaté ou de prendre les mesures propres à prévenir toute récidive;\nb. publier de manière appropriée la constatation de l’infraction;\nc. ordonner les mesures nécessaires à l’accomplissement du mandat légal de service universel;\nd. restreindre l’activité du responsable de l’infraction, la suspendre, l’interdire ou l’assortir de charges;\ne. confisquer l’avantage financier illicitement acquis.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_24"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste,  Surveillance et mesures",
+        "citation": "Art. 24 al. 3 LPO",
+        "content": "Dans les cas visés à l’al. 2, let. a, le responsable de l’infraction doit informer la PostCom des dispositions prises.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_24"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Sanctions administratives",
+        "citation": "Art. 25 al. 1 LPO",
+        "content": "Le prestataire de services postaux qui contrevient à la présente loi, aux dispositions d’exécution ou à une décision entrée en force en vertu de la présente loi peut être tenue au paiement d’un montant pouvant aller jusqu’à 10 % du chiffre d’affaires moyen réalisé en Suisse par la fourniture de services postaux au cours des trois derniers exercices.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_25"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Sanctions administratives",
+        "citation": "Art. 25 al. 2 LPO",
+        "content": "La PostCom instruit les infractions et les juge. La procédure est régie par la loi fédérale du 20 décembre 1968 sur la procédure administrative.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_25"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Sanctions administratives",
+        "citation": "Art. 25 al. 3 LPO",
+        "content": "La PostCom prend notamment en compte la gravité de l’infraction et la situation financière du prestataire de services postaux pour calculer le montant de la sanction.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_25"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Assistance administrative",
+        "citation": "Art. 26 al. 1 LPO",
+        "content": "La PostCom et les autres autorités chargées de l’exécution de la présente loi transmettent aux autres autorités de la Confédération et des cantons les données dont celles-ci ont besoin pour accomplir les tâches qui leur incombent de par la loi, y compris les données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_26"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Assistance administrative",
+        "citation": "Art. 26 al. 2 LPO",
+        "content": "Sous réserve d’accords internationaux comportant des dispositions contraires, la PostCom ne peut transmettre des données à des autorités étrangères chargées de la surveillance dans le domaine postal, y compris des données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives, qu’aux conditions suivantes:\na. les autorités concernées n’utilisent les données transmises qu’à des fins de surveillance des prestataires de services postaux ou d’observation du marché;\nb. les autorités concernées sont liées par le secret de fonction ou le secret professionnel;\nc. la PostCom a consenti préalablement à ce que les données soient transmises à d’autres autorités ou organes chargés de tâches de surveillance d’intérêt public, sauf s’il existe une autorisation générale prévue par un traité international.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_26"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Assistance administrative",
+        "citation": "Art. 26 al. 3 LPO",
+        "content": "Les services fédéraux et cantonaux sont tenus de participer aux investigations de la PostCom et de mettre à sa disposition les documents requis. Les données sensibles acquises au cours de procédures administratives ou de procédures pénales administratives en font partie.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_26"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Secret professionnel et secret d’affaires",
+        "citation": "Art. 27 LPO",
+        "content": "La PostCom est tenue au secret professionnel et au secret d’affaires.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_27"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 4, Commission de la poste, Traitement de données personnelles",
+        "citation": "Art. 28 LPO",
+        "content": "En vue de l’accomplissement de leurs tâches légales, la PostCom et l’organe de conciliation peuvent traiter des données personnelles, y compris des données sensibles concernant des poursuites ou des sanctions pénales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_28"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 5, Organe de conciliation",
+        "citation": "Art. 29 al. 1 LPO",
+        "content": "La PostCom institue un organe de conciliation ou délègue cette tâche à un tiers.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_29"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 5, Organe de conciliation",
+        "citation": "Art. 29 al. 2 LPO",
+        "content": "L’organe de conciliation peut être saisi par chacune des parties en cas de litige entre un client et un prestataire de services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_29"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 5, Organe de conciliation",
+        "citation": "Art. 29 al. 3 LPO",
+        "content": "La partie qui saisit l’organe de conciliation paie un émolument pour le traitement de la requête. Le prestataire de services postaux supporte les frais de la procédure, déduction faite de cet émolument. Si la décision de l’organe de conciliation est favorable au client, celui-ci se verra rembourser l’émolument pour le traitement de la requête par le prestataire de services postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_29"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 5, Organe de conciliation",
+        "citation": "Art. 29 al. 4 LPO",
+        "content": "Les parties ne sont pas liées par la décision de l’organe de conciliation.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_29"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 6, Emoluments et taxes de surveillance",
+        "citation": "Art. 30 al. 1 LPO",
+        "content": "La PostCom perçoit des émoluments qui servent à couvrir les frais afférents à ses décisions et à ses prestations. Elle perçoit en outre auprès des entreprises surveillées une taxe annuelle destinée à financer les coûts de surveillance non couverts par les émoluments.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_30"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 6, Emoluments et taxes de surveillance",
+        "citation": "Art. 30 al. 2 LPO",
+        "content": "La taxe de surveillance est perçue en fonction des coûts de surveillance de l’année précédente. Son montant est fixé en fonction de l’étendue des services postaux fournis, notamment du nombre d’envois postaux.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_30"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 6, Emoluments et taxes de surveillance",
+        "citation": "Art. 30 al. 3 LPO",
+        "content": "Le Conseil fédéral règle les modalités. Il peut déléguer à l’autorité compétente le soin de fixer le montant des émoluments d’importance mineure.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_30"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 7, Contraventions",
+        "citation": "Art. 31 al. 1 LPO",
+        "content": "Est puni d’une amende de 100 000 francs au plus quiconque:\na. contrevient intentionnellement à l’obligation d’annoncer au sens de l’art. 4, al. 1;\nb. transporte intentionnellement, sans y être autorisé, des envois postaux relevant du service réservé.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_31"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 7, Contraventions",
+        "citation": "Art. 31 al. 2 LPO",
+        "content": "Si la contravention est commise par négligence, l’amende est de 20 000 francs au plus.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_31"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 7, Contraventions",
+        "citation": "Art. 31 al. 3 LPO",
+        "content": "Le Conseil fédéral peut prévoir des peines pouvant atteindre 10 000 francs pour les infractions aux dispositions d’exécution.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_31"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 2, Services postaux, Section 7, Contraventions",
+        "citation": "Art. 31 al. 4 LPO",
+        "content": "Les contraventions sont poursuivies et jugées par la PostCom conformément aux dispositions de la loi fédérale du 22 mars 1974 sur le droit pénal administratif.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_31"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 3, Services de paiement relevant du service universel, Service universel",
+        "citation": "Art. 32 al. 1 LPO",
+        "content": "La Poste assure dans tout le pays un service universel par la fourniture de services de paiement.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_32"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 3, Services de paiement relevant du service universel, Service universel",
+        "citation": "Art. 32 al. 2 LPO",
+        "content": "La Poste, conformément aux exigences du Conseil fédéral, précise dans ses conditions générales les prestations qu’elle fournit à certaines conditions ou pas du tout en raison de problèmes de sécurité ou pour préserver des intérêts légitimes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_32"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 3, Services de paiement relevant du service universel, Service universel",
+        "citation": "Art. 32 al. 3 LPO",
+        "content": "Les prestations doivent être accessibles de manière appropriée à tous les groupes de population et dans toutes les régions du pays. La Poste organise l’accès en tenant compte des besoins de la population. Elle garantit aux personnes handicapées un accès sans entraves aux services de paiement électronique.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_32"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 3, Services de paiement relevant du service universel, Service universel",
+        "citation": "Art. 32 al. 4 LPO",
+        "content": "Le Conseil fédéral définit chaque prestation et fixe les conditions d’accès après consultation des cantons et des communes.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_32"
+    },
+    {
+        "book": "PG",
+        "title": "LPO, Chapitre 3, Services de paiement relevant du service universel, Rapport",
+        "citation": "Art. 33 LPO",
+        "content": "La Poste présente périodiquement au Conseil fédéral un rapport sur le respect des obligations légales.",
+        "url": "https://www.fedlex.admin.ch/eli/cc/2012/585/fr#art_33"
+    }
+]
