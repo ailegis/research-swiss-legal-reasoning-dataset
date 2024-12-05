@@ -1,6 +1,6 @@
 # local folders
 myenv/
-data/
+# data/
 batchjobs/
 
 # Byte-compiled / optimized / DLL files
