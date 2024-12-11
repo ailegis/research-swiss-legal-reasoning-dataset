@@ -1,3 +1,4 @@
+from pandas import DataFrame
 from dataset import load_csv
 from evaluate import evaluate_all
 from feature_extraction import (
@@ -11,13 +12,12 @@ from report import (
     generate_visual_report2,
 )
 
-
 csv_file_name = "data/data.csv"
 google_docs_url = "https://docs.google.com/spreadsheets/d/1cRsQS6nuqK9zfJYoOmXegLTZYjSs6IYiTyPkPiQIBsY/edit?gid=1421018847#gid=1421018847"
 data = load_csv(csv_file_name, google_docs_url)
 
 
-run_preprocessing = True
+run_preprocessing = False
 if run_preprocessing:
     # data = createBatchforQuestionType(csv_file_name)
     # data = createBatchforSplitCorrectness(csv_file_name)
@@ -27,7 +27,6 @@ if run_preprocessing:
         # data = createBatchforCourtDecisionsCitationsExtractions(csv_file_name, field)
         data = createBatchforExplicitGradingExtractions(csv_file_name, field)
         
-
 
 run_reports = True
 if run_reports:
