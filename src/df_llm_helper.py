@@ -8,8 +8,8 @@ from openai import OpenAI
 from typing import Callable, Dict, Any
 
 client = OpenAI(
-     
-   )
+     api_key="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"
+)
 
 
 def identityFunc(v: str):

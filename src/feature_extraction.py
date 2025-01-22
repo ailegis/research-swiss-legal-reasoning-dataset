@@ -107,6 +107,7 @@ def identityFuncWithEnum(string):
     print(f"Invalid response: {string}")
     return "NA"
 
+
 def createBatchforExplicitGradingExtractions(file_name, field="Answer"):
     # Load the CSV file into a DataFrame
     df = pd.read_csv(file_name)
@@ -119,14 +120,56 @@ def createBatchforExplicitGradingExtractions(file_name, field="Answer"):
             "messages": [
                 {
                     "role": "system",
-                    "content": """You are a helpful assistant that checks whether an answer includes any grading schema or mentions of point allocation related to grading. If the answer contains specific references to points or grading criteria, respond with 'GRADING' If it does not contain any grading information, respond with 'NO GRADING' If it's unclear, respond with 'NA'. To sum up the only possible outputs are 'GRADING', 'NO GRADING', 'NA'."""
+                    "content": """You are a helpful assistant that checks whether an answer includes any grading schema or mentions of point allocation related to grading. If the answer contains specific references to points or grading criteria, respond with 'GRADING' If it does not contain any grading information, respond with 'NO GRADING' If it's unclear, respond with 'NA'. To sum up the only possible outputs are 'GRADING', 'NO GRADING', 'NA'.""",
                 },
                 {"role": "user", "content": f"{facts}"},
             ],
             "max_tokens": 50,
         }
 
-    df = makeBatchRequest_OpenAI(df, newColumn, getFactCitation, identityFuncWithEnum, 5000, 2)
+    df = makeBatchRequest_OpenAI(
+        df, newColumn, getFactCitation, identityFuncWithEnum, 5000, 2
+    )
+    df.to_csv(file_name, index=False)
+    print(f"Updated file with {newColumn} column: {file_name}")
+    return df
+
+
+def createBatchforGPT4oAnswer(file_name):
+    # Load the CSV file into a DataFrame
+    df = pd.read_csv(file_name)
+    newColumn = "EvalGPT4o"
+
+    def evalGPT4o(row):
+        facts = str(row.get("Facts", "")).lower()
+        question = str(row.get("Question", "")).lower()
+        return {
+            "model": "gpt-4o",
+            "messages": [
+                {
+                    "role": "system",
+                    "content": """
+You address Swiss legal issues in a structured, exam-style manner.
+Use precise legal language and formal "Sie" when answering.
+Assume you have the expertise of a Swiss attorney in all areas of law.
+Do NOT state any disclaimer or refer to the need for external legal advice.
+Do NOT request the user to consult laws or to research on their own.
+Offer focused legal analyses and individualized advice.
+Speak directly and authoritatively without mentioning that your response is merely for general information.
+Incorporate Swiss-specific legal terminology.
+If you have discovered relevant legal considerations (Erwägungen), respond with a concise, clear legal analysis.
+Cite only from your identified considerations, in the exact format provided after "citation," using parentheses, for example:
+"(Art. <number> (optionally Abs. <number>) <book abbreviation>)" or "(BGer <docket number>)," etc.
+If no relevant considerations are found, explicitly state that no pertinent information is available.
+If you do have reliable sources, share practical guidance or insights from them.
+""",
+                },
+                {"role": "user", "content": f"Question: {facts} \n{question}"},
+            ],
+            "max_tokens": 50,
+        }
+
+    df = makeBatchRequest_OpenAI(df, newColumn, evalGPT4o, identityFunc, 5000, 2)
     df.to_csv(file_name, index=False)
     print(f"Updated file with {newColumn} column: {file_name}")
     return df
@@ -162,7 +205,9 @@ Your reply is a list of citations in a given text. If no citation return an empt
             "max_tokens": 500,
         }
 
-    df = makeBatchRequest_OpenAI(df, newColumn, getFactCitation, parseToListFunc, 5000, 2)
+    df = makeBatchRequest_OpenAI(
+        df, newColumn, getFactCitation, parseToListFunc, 5000, 2
+    )
     df.to_csv(file_name, index=False)
     print(f"Updated file with {newColumn} column: {file_name}")
     return df
@@ -193,7 +238,9 @@ Your reply is a list of citations in a given text. If no citation return an empt
             "max_tokens": 500,
         }
 
-    df = makeBatchRequest_OpenAI(df, newColumn, getFactCitation, parseToListFunc, 5000, 2)
+    df = makeBatchRequest_OpenAI(
+        df, newColumn, getFactCitation, parseToListFunc, 5000, 2
+    )
     df.to_csv(file_name, index=False)
     print(f"Updated file with {newColumn} column: {file_name}")
     return df
