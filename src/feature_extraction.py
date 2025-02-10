@@ -166,7 +166,7 @@ If you do have reliable sources, share practical guidance or insights from them.
                 },
                 {"role": "user", "content": f"Question: {facts} \n{question}"},
             ],
-            "max_tokens": 50,
+            "max_tokens": 1000,
         }
 
     df = makeBatchRequest_OpenAI(df, newColumn, evalGPT4o, identityFunc, 5000, 2)

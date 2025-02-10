@@ -8,7 +8,7 @@ from openai import OpenAI
 from typing import Callable, Dict, Any
 
 client = OpenAI(
-)
+    )
 
 
 def identityFunc(v: str):
