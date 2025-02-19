@@ -8,6 +8,7 @@ from openai import OpenAI
 from typing import Callable, Dict, Any
 
 client = OpenAI(
+    api_key="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"
     )
 
 

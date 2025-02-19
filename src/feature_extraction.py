@@ -138,7 +138,7 @@ def createBatchforExplicitGradingExtractions(file_name, field="Answer"):
 def createBatchforGPT4oAnswer(file_name):
     # Load the CSV file into a DataFrame
     df = pd.read_csv(file_name)
-    newColumn = "EvalGPT4o"
+    newColumn = "AnswerGPT4o"
 
     def evalGPT4o(row):
         facts = str(row.get("Facts", "")).lower()
@@ -166,7 +166,40 @@ If you do have reliable sources, share practical guidance or insights from them.
                 },
                 {"role": "user", "content": f"Question: {facts} \n{question}"},
             ],
-            "max_tokens": 1000,
+            "max_tokens": 2000,
+        }
+
+    df = makeBatchRequest_OpenAI(df, newColumn, evalGPT4o, identityFunc, 5000, 2)
+    df.to_csv(file_name, index=False)
+    print(f"Updated file with {newColumn} column: {file_name}")
+    return df
+
+
+def createBatchforGPT4oGrading(file_name):
+    # Load the CSV file into a DataFrame
+    df = pd.read_csv(file_name)
+    newColumn = "GradingGPT4o"
+
+    def evalGPT4o(row):
+        facts = str(row.get("Facts", "")).lower()
+        question = str(row.get("Question", "")).lower()
+        answer = str(row.get("Answer", "")).lower()
+        answerGPT4o = str(row.get("AnswerGPT4o", "")).lower()
+        return {
+            "model": "gpt-4o",
+            "messages": [
+                {
+                    "role": "system",
+                    "content": """
+Act as a Judge specializing in the evaluation of university exams of Swiss law schools. Your task is to assess how well the response aligns with the reference answer, with a focus on accuracy, completeness, and legal reasoning
+""",
+                },
+                {
+                    "role": "user",
+                    "content": f'You will be provided with a response to a law school exam question ({question}) and a reference answer ({answer}). Your task is to evaluate how accurately and completely the response ({answerGPT4o}) meets the reference answer, with a focus on accuracy, completeness, and legal reasoning. In some cases, the reference answer may include only keywords or factual elements to be examined, along with (+) or (–) indicating whether each element should be affirmed or denied. In other instances, (-/+) may indicate that arguments in both directions are acceptable if they are legally sound. The reference answer may also contain citations (e.g., from books or articles), which the response is not required to replicate. After reviewing the response: Briefly explain your reasoning regarding how the response conforms to or deviates from the reference answer. Assign a final correctness score on a scale from 0.0 to 1.0 (in increments of 0.1). This score should reflect the extent to which the response satisfies the reference answer, where 1.0 indicates complete fulfillment (100%) and lower scores reflect proportionate shortfalls (e.g. 0.5 indicates 50% fulfillment). The correctness score must strictly follow this format: "[[score]]", e.g., "The correctness score: [[0.5]]". Additionally, provide neutral, constructive feedback and corrections in the style of a university professor. ',
+                },
+            ],
+            "max_tokens": 2000,
         }
 
     df = makeBatchRequest_OpenAI(df, newColumn, evalGPT4o, identityFunc, 5000, 2)
